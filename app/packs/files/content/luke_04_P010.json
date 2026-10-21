@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_04_P010",
+  "book": "luke",
+  "chapter": 4,
+  "page": 10,
+  "ref": "4:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "会堂里的人听见这话，都怒气满胸，"
+      }
+    },
+    {
+      "id": "LUKE_04_P010_F2",
+      "box": [
+        0,
+        0.2253,
+        1,
+        0.3605
+      ],
+      "alt": {
+        "zh-CN": "就起来把他赶出城（他们的城建在山上），带他到山崖，要把他推下去。"
+      }
+    },
+    {
+      "id": "LUKE_04_P010_F3",
+      "box": [
+        0.759,
+        0.4717,
+        0.229,
+        0.188
+      ],
+      "alt": {
+        "zh-CN": "（崖边一粒碎石滚落下去。）"
+      }
+    },
+    {
+      "id": "LUKE_04_P010_F4",
+      "box": [
+        0,
+        0.5883,
+        1,
+        0.4117
+      ],
+      "alt": {
+        "zh-CN": "他却从他们中间直接走过去，离开了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P010_B001",
+      "panel": "LUKE_04_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0066,
+        0.4,
+        0.0331
+      ],
+      "tail": null,
+      "text_key": "luke.4.p10.b1"
+    },
+    {
+      "id": "LUKE_04_P010_B002",
+      "panel": "LUKE_04_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.68,
+        0.2361,
+        0.3,
+        0.1189
+      ],
+      "tail": null,
+      "text_key": "luke.4.p10.b2"
+    },
+    {
+      "id": "LUKE_04_P010_B003",
+      "panel": "LUKE_04_P010_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.6007,
+        0.5,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "luke.4.p10.b3"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "MARK_10_P015",
+  "book": "mark",
+  "chapter": 10,
+  "page": 15,
+  "ref": "10:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_10_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_10_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.206
+      ],
+      "alt": {
+        "zh-CN": "西庇太的儿子雅各和约翰走到耶稣跟前，说：「老师，我们无论求你什么，希望你都为我们做。」"
+      }
+    },
+    {
+      "id": "MARK_10_P015_F2",
+      "box": [
+        0,
+        0.209,
+        0.484,
+        0.212
+      ],
+      "alt": {
+        "zh-CN": "（彼得抬头看着他们。）"
+      }
+    },
+    {
+      "id": "MARK_10_P015_F3",
+      "box": [
+        0.492,
+        0.209,
+        0.508,
+        0.212
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「你们要我为你们做什么？」"
+      }
+    },
+    {
+      "id": "MARK_10_P015_F4",
+      "box": [
+        0,
+        0.423,
+        1,
+        0.325
+      ],
+      "alt": {
+        "zh-CN": "他们说：「让我们在你的荣耀里，一个坐在你右边，一个坐在你左边。」"
+      }
+    },
+    {
+      "id": "MARK_10_P015_F5",
+      "box": [
+        0,
+        0.751,
+        1,
+        0.249
+      ],
+      "alt": {
+        "zh-CN": "（火光把三个人的影子投在岩壁上。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_10_P015_B001",
+      "panel": "MARK_10_P015_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.69,
+        0.213,
+        0.305,
+        0.181
+      ],
+      "tail": [
+        0.86,
+        0.405
+      ],
+      "text_key": "mark.10.p15.b1"
+    },
+    {
+      "id": "MARK_10_P015_B002",
+      "panel": "MARK_10_P015_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0,
+        0.428,
+        0.2278,
+        0.143
+      ],
+      "tail": [
+        0.27,
+        0.49
+      ],
+      "text_key": "mark.10.p15.b2"
+    },
+    {
+      "id": "MARK_10_P015_B003",
+      "panel": "MARK_10_P015_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.475,
+        0.678,
+        0.52,
+        0.068
+      ],
+      "tail": [
+        0.52,
+        0.535
+      ],
+      "text_key": "mark.10.p15.b3"
+    },
+    {
+      "id": "MARK_10_P015_B004",
+      "panel": "MARK_10_P015_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1,
+        0.862,
+        0.8,
+        0.068
+      ],
+      "tail": [
+        0.5,
+        0.82
+      ],
+      "text_key": "mark.10.p15.b4"
+    }
+  ]
+}

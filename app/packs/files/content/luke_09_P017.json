@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_09_P017",
+  "book": "luke",
+  "chapter": 9,
+  "page": 17,
+  "ref": "9:41-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2578
+      ]
+    },
+    {
+      "id": "LUKE_09_P017_F2",
+      "box": [
+        0,
+        0.2611,
+        0.498,
+        0.2819
+      ]
+    },
+    {
+      "id": "LUKE_09_P017_F3",
+      "box": [
+        0.5049,
+        0.2611,
+        0.4951,
+        0.2819
+      ]
+    },
+    {
+      "id": "LUKE_09_P017_F4",
+      "box": [
+        0,
+        0.5469,
+        1,
+        0.4531
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P017_B001",
+      "panel": "LUKE_09_P017_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0077,
+        0.47,
+        0.0515
+      ],
+      "tail": [
+        0.735,
+        0.085
+      ],
+      "text_key": "luke.9.p17.b1"
+    },
+    {
+      "id": "LUKE_09_P017_B002",
+      "panel": "LUKE_09_P017_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.2667,
+        0.249,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "luke.9.p17.b2"
+    },
+    {
+      "id": "LUKE_09_P017_B003",
+      "panel": "LUKE_09_P017_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7128,
+        0.2667,
+        0.2723,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "luke.9.p17.b3"
+    },
+    {
+      "id": "LUKE_09_P017_B004",
+      "panel": "LUKE_09_P017_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.5514,
+        0.42,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "luke.9.p17.b4"
+    }
+  ]
+}

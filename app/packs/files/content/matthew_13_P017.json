@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_13_P017",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 17,
+  "ref": "13:47-50",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1914
+      ],
+      "alt": {
+        "zh-CN": "天国又好像撒在海里的网，聚集了各种各样的鱼，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P017_F2",
+      "box": [
+        0,
+        0.196,
+        1,
+        0.4453
+      ],
+      "alt": {
+        "zh-CN": "网满了，人就把它拉上岸，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P017_F3",
+      "box": [
+        0,
+        0.6458,
+        0.5,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "坐下来，把好的拣进器具里，把不好的扔掉。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P017_F4",
+      "box": [
+        0.5068,
+        0.6458,
+        0.4932,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "世界的末了也要这样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P017_B001",
+      "panel": "MATTHEW_13_P017_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.0077,
+        0.4,
+        0.0535
+      ],
+      "tail": [
+        0,
+        0.0803
+      ],
+      "text_key": "matthew.13.p17.b1"
+    },
+    {
+      "id": "MATTHEW_13_P017_B002",
+      "panel": "MATTHEW_13_P017_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.57,
+        0.2049,
+        0.41,
+        0.0445
+      ],
+      "tail": [
+        0,
+        0.2939
+      ],
+      "text_key": "matthew.13.p17.b2"
+    },
+    {
+      "id": "MATTHEW_13_P017_B003",
+      "panel": "MATTHEW_13_P017_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.25,
+        0.6529,
+        0.24,
+        0.046
+      ],
+      "tail": [
+        0,
+        0.7343
+      ],
+      "text_key": "matthew.13.p17.b3"
+    },
+    {
+      "id": "MATTHEW_13_P017_B004",
+      "panel": "MATTHEW_13_P017_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5315,
+        0.6529,
+        0.1874,
+        0.0566
+      ],
+      "tail": [
+        0.5068,
+        0.7449
+      ],
+      "text_key": "matthew.13.p17.b4"
+    }
+  ]
+}

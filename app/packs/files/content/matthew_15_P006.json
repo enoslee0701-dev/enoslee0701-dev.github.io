@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_15_P006",
+  "book": "matthew",
+  "chapter": 15,
+  "page": 6,
+  "ref": "15:15-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_15_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_15_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "彼得对耶稣说：「请把这个比喻讲给我们听。」"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P006_F2",
+      "box": [
+        0,
+        0.2467,
+        0.3672,
+        0.4779
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「你们到现在还不明白吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P006_F3",
+      "box": [
+        0.374,
+        0.2467,
+        0.626,
+        0.4779
+      ],
+      "alt": {
+        "zh-CN": "只有从口里出来的，是从心里发出来的，这才使人不洁净。"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P006_F4",
+      "box": [
+        0,
+        0.7292,
+        1,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "至于不洗手吃饭，那并不使人不洁净。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_15_P006_B001",
+      "panel": "MATTHEW_15_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0048,
+        0.42,
+        0.029
+      ],
+      "tail": [
+        0.77,
+        0.058
+      ],
+      "text_key": "matthew.15.p6.b1"
+    },
+    {
+      "id": "MATTHEW_15_P006_B002",
+      "panel": "MATTHEW_15_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0147,
+        0.2563,
+        0.3378,
+        0.0669
+      ],
+      "tail": [
+        0.1836,
+        0.371
+      ],
+      "text_key": "matthew.15.p6.b2"
+    },
+    {
+      "id": "MATTHEW_15_P006_B003",
+      "panel": "MATTHEW_15_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3928,
+        0.2563,
+        0.2504,
+        0.0669
+      ],
+      "tail": [
+        0.518,
+        0.371
+      ],
+      "text_key": "matthew.15.p6.b3"
+    },
+    {
+      "id": "MATTHEW_15_P006_B004",
+      "panel": "MATTHEW_15_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.74,
+        0.28,
+        0.0487
+      ],
+      "tail": [
+        0,
+        0.8158
+      ],
+      "text_key": "matthew.15.p6.b4"
+    }
+  ]
+}

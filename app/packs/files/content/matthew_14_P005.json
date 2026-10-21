@@ -1,0 +1,109 @@
+{
+  "id": "MATTHEW_14_P005",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 5,
+  "ref": "14:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "约翰的门徒来，把尸体领去埋葬了，就去告诉耶稣。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P005_F2",
+      "box": [
+        0,
+        0.2383,
+        1,
+        0.3789
+      ]
+    },
+    {
+      "id": "MATTHEW_14_P005_F3",
+      "box": [
+        0,
+        0.6211,
+        1,
+        0.1576
+      ],
+      "alt": {
+        "zh-CN": "耶稣听见了，就上船从那里独自退到野外去。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P005_F4",
+      "box": [
+        0,
+        0.7826,
+        1,
+        0.2174
+      ],
+      "alt": {
+        "zh-CN": "众人听见了，就从各城走路跟着他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P005_B001",
+      "panel": "MATTHEW_14_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.41,
+        0.0047,
+        0.23,
+        0.0796
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p5.b1"
+    },
+    {
+      "id": "MATTHEW_14_P005_B002",
+      "panel": "MATTHEW_14_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.6274,
+        0.4,
+        0.0472
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p5.b2"
+    },
+    {
+      "id": "MATTHEW_14_P005_B003",
+      "panel": "MATTHEW_14_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.74,
+        0.7891,
+        0.24,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p5.b3"
+    }
+  ]
+}

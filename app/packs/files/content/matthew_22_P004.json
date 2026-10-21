@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_22_P004",
+  "book": "matthew",
+  "chapter": 22,
+  "page": 4,
+  "ref": "22:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_22_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_22_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5596,
+        0.2975
+      ]
+    },
+    {
+      "id": "MATTHEW_22_P004_F2",
+      "box": [
+        0.5674,
+        0,
+        0.4326,
+        0.2975
+      ]
+    },
+    {
+      "id": "MATTHEW_22_P004_F3",
+      "box": [
+        0,
+        0.3027,
+        1,
+        0.2637
+      ]
+    },
+    {
+      "id": "MATTHEW_22_P004_F4",
+      "box": [
+        0,
+        0.5716,
+        1,
+        0.4284
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_22_P004_B001",
+      "panel": "MATTHEW_22_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2798,
+        0.0059,
+        0.2686,
+        0.0595
+      ],
+      "tail": [
+        0.4141,
+        0.0952
+      ],
+      "text_key": "matthew.22.p4.b1"
+    },
+    {
+      "id": "MATTHEW_22_P004_B002",
+      "panel": "MATTHEW_22_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6972,
+        0.0059,
+        0.2941,
+        0.0654
+      ],
+      "tail": [
+        0.8443,
+        0.1011
+      ],
+      "text_key": "matthew.22.p4.b2"
+    },
+    {
+      "id": "MATTHEW_22_P004_B003",
+      "panel": "MATTHEW_22_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3,
+        0.3106,
+        0.42,
+        0.0527
+      ],
+      "tail": [
+        0.51,
+        0.3897
+      ],
+      "text_key": "matthew.22.p4.b3"
+    },
+    {
+      "id": "MATTHEW_22_P004_B004",
+      "panel": "MATTHEW_22_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.28,
+        0.5802,
+        0.4,
+        0.0385
+      ],
+      "tail": [
+        0.48,
+        0.6615
+      ],
+      "text_key": "matthew.22.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_09_P002",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2077
+      ],
+      "alt": {
+        "zh-CN": "有几个文士心里说："
+      }
+    },
+    {
+      "id": "MATTHEW_09_P002_F2",
+      "box": [
+        0,
+        0.2116,
+        0.2568,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "这个人说了亵渎神的话。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P002_F3",
+      "box": [
+        0.2637,
+        0.2116,
+        0.7363,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "你们为什么心里存着恶念呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P002_F4",
+      "box": [
+        0,
+        0.6452,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "说「你的罪赦免了」，或说「你起来行走」，哪一样容易呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P002_B001",
+      "panel": "MATTHEW_09_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0062,
+        0.4,
+        0.0415
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p2.b1"
+    },
+    {
+      "id": "MATTHEW_09_P002_B002",
+      "panel": "MATTHEW_09_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "thought",
+      "box": [
+        0.0128,
+        0.2202,
+        0.2311,
+        0.0859
+      ],
+      "tail": [
+        0.1284,
+        0.3491
+      ],
+      "text_key": "matthew.9.p2.b2"
+    },
+    {
+      "id": "MATTHEW_09_P002_B003",
+      "panel": "MATTHEW_09_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2858,
+        0.2245,
+        0.2503,
+        0.0687
+      ],
+      "tail": [
+        0.411,
+        0.3362
+      ],
+      "text_key": "matthew.9.p2.b3"
+    },
+    {
+      "id": "MATTHEW_09_P002_B004",
+      "panel": "MATTHEW_09_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.6558,
+        0.38,
+        0.078
+      ],
+      "tail": [
+        0.79,
+        0.7693
+      ],
+      "text_key": "matthew.9.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "luke.20.p1.b1": {
+    "text": "One day as Jesus was teaching the people in the temple courts and proclaiming the gospel,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b2": {
+    "text": "the chief priests and scribes, together with the elders, came up to Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b3": {
+    "text": "“Tell us,” … “by what authority are You doing these things,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b4": {
+    "text": "and who gave You this authority?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p2.b1": {
+    "text": "“I will also ask you a question,” … “Tell Me:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p2.b2": {
+    "text": "John’s baptism—was it from heaven, or from men?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b1": {
+    "text": "“If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b2": {
+    "text": "But if we say, ‘From men,’ all the people will stone us,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b3": {
+    "text": "they did not know where it was from.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b4": {
+    "text": "“Neither will I tell you by what authority I am doing these things.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b1": {
+    "text": "Then He proceeded to tell the people this parable:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b2": {
+    "text": "“A man planted a vineyard, rented it out to some tenants, and went away for a long time.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b3": {
+    "text": "At harvest time, he sent a servant to the tenants … But the tenants beat the servant and sent him away empty-handed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b1": {
+    "text": "So he sent another servant, but they beat him and treated him shamefully, sending him away empty-handed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b2": {
+    "text": "Then he sent a third, but they wounded him and threw him out.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b3": {
+    "text": "‘What shall I do?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b4": {
+    "text": "‘I will send my beloved son. Perhaps they will respect him.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b1": {
+    "text": "‘This is the heir. Let us kill him, and the inheritance will be ours.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b2": {
+    "text": "So they threw him out of the vineyard and killed him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b3": {
+    "text": "What then will the owner of the vineyard do to them?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b1": {
+    "text": "He will come and kill those tenants, and will give the vineyard to others.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b2": {
+    "text": "“May such a thing never happen!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b3": {
+    "text": "“Then what is the meaning of that which is written: ‘The stone the builders rejected has become the cornerstone’?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b4": {
+    "text": "Everyone who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b1": {
+    "text": "When the scribes and chief priests realized that Jesus had spoken this parable against them, they sought to arrest Him that very hour. But they were afraid of the people.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b2": {
+    "text": "So they watched Him closely and sent spies who pretended to be sincere.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b3": {
+    "text": "They were hoping to catch Him in His words in order to hand Him over to the rule and authority of the governor.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p9.b1": {
+    "text": "“Teacher,” … “we know that You speak and teach correctly. You show no partiality, but teach the way of God in accordance with the truth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p9.b2": {
+    "text": "Is it lawful for us to pay taxes to Caesar or not?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b1": {
+    "text": "“Show Me a denarius. Whose image and inscription are on it?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b2": {
+    "text": "“Caesar’s,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b3": {
+    "text": "“Give to Caesar what is Caesar’s, and to God what is God’s.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b4": {
+    "text": "And they were unable to trap Him in His words before the people; and amazed at His answer, they fell silent.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p11.b1": {
+    "text": "Then some of the Sadducees, who say there is no resurrection, came to question Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p11.b2": {
+    "text": "“Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b1": {
+    "text": "Now there were seven brothers. The first one married a wife, but died childless.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b2": {
+    "text": "and the third married the widow, and in the same way all seven died, leaving no children.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b3": {
+    "text": "And last of all, the woman died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b4": {
+    "text": "So then, in the resurrection, whose wife will she be? For all seven were married to her.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b1": {
+    "text": "Jesus answered, “The sons of this age marry and are given in marriage.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b2": {
+    "text": "But those who are considered worthy to share in the age to come and in the resurrection from the dead will neither marry nor be given in marriage.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b3": {
+    "text": "In fact, they can no longer die, because they are like the angels. And since they are sons of the resurrection, they are sons of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p14.b1": {
+    "text": "Even Moses demonstrates that the dead are raised, in the passage about the burning bush. For he calls the Lord ‘the God of Abraham, the God of Isaac, and the God of Jacob.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p14.b2": {
+    "text": "He is not the God of the dead, but of the living, for to Him all are alive.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b1": {
+    "text": "Some of the scribes answered, “Teacher, You have spoken well!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b2": {
+    "text": "And they did not dare to question Him any further.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b3": {
+    "text": "“How can it be said that the Christ is the Son of David?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b4": {
+    "text": "Thus David calls Him ‘Lord.’ So how can He be David’s son?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b1": {
+    "text": "In the hearing of all the people, Jesus said to His disciples,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b2": {
+    "text": "“Beware of the scribes. They like to walk around in long robes, and they love the greetings in the marketplaces,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b3": {
+    "text": "They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 20:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

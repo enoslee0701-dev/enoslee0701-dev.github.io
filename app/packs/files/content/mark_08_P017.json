@@ -1,0 +1,148 @@
+{
+  "id": "MARK_08_P017",
+  "book": "mark",
+  "chapter": 8,
+  "page": 17,
+  "ref": "8:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_08_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_08_P017_F1",
+      "box": [
+        0.009,
+        0,
+        0.983,
+        0.266
+      ],
+      "alt": {
+        "zh-CN": "「因为，凡是想要保全自己生命的，反而会失去生命；"
+      }
+    },
+    {
+      "id": "MARK_08_P017_F2",
+      "box": [
+        0.009,
+        0.271,
+        0.491,
+        0.275
+      ],
+      "alt": {
+        "zh-CN": "凡是为我和福音失去生命的，必定救了生命。"
+      }
+    },
+    {
+      "id": "MARK_08_P017_F3",
+      "box": [
+        0.507,
+        0.271,
+        0.485,
+        0.275
+      ],
+      "alt": {
+        "zh-CN": "一个人就是赚得了全世界，却赔上了自己的生命，又有什么益处呢？"
+      }
+    },
+    {
+      "id": "MARK_08_P017_F4",
+      "box": [
+        0.009,
+        0.55,
+        0.983,
+        0.445
+      ],
+      "alt": {
+        "zh-CN": "人还能拿什么来换回生命呢？"
+      }
+    },
+    {
+      "id": "MARK_08_P017_F5",
+      "box": [
+        0.635,
+        0.708,
+        0.357,
+        0.283
+      ],
+      "alt": {
+        "zh-CN": "（彼得慢慢抬起头来。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_08_P017_B001",
+      "panel": "MARK_08_P017_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.155,
+        0.46,
+        0.105
+      ],
+      "tail": [
+        0.25,
+        0.1
+      ],
+      "text_key": "mark.8.p17.b1"
+    },
+    {
+      "id": "MARK_08_P017_B002",
+      "panel": "MARK_08_P017_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.16,
+        0.47,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.8.p17.b2"
+    },
+    {
+      "id": "MARK_08_P017_B003",
+      "panel": "MARK_08_P017_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.345,
+        0.279,
+        0.32,
+        0.181
+      ],
+      "tail": [
+        0.507,
+        0.5
+      ],
+      "text_key": "mark.8.p17.b3"
+    },
+    {
+      "id": "MARK_08_P017_B004",
+      "panel": "MARK_08_P017_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.08,
+        0.665,
+        0.33,
+        0.105
+      ],
+      "tail": [
+        0.1,
+        0.63
+      ],
+      "text_key": "mark.8.p17.b4"
+    }
+  ]
+}

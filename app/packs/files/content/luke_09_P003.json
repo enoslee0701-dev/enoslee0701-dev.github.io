@@ -1,0 +1,133 @@
+{
+  "id": "LUKE_09_P003",
+  "book": "luke",
+  "chapter": 9,
+  "page": 3,
+  "ref": "9:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "分封的王希律听见耶稣所做的一切事，就困惑不安；因为有人说：“是约翰从死人中复活了”；"
+      }
+    },
+    {
+      "id": "LUKE_09_P003_F2",
+      "box": [
+        0,
+        0.2956,
+        1,
+        0.194
+      ],
+      "alt": {
+        "zh-CN": "又有人说：“是以利亚出现了”；还有人说：“是古时的一位先知又活了。”"
+      }
+    },
+    {
+      "id": "LUKE_09_P003_F3",
+      "box": [
+        0,
+        0.4933,
+        0.481,
+        0.234
+      ],
+      "alt": {
+        "zh-CN": "希律说：“约翰我已经斩了，这人到底是谁？我竟听到他这些事呢？”"
+      }
+    },
+    {
+      "id": "LUKE_09_P003_F4",
+      "box": [
+        0,
+        0.4928,
+        1,
+        0.5072
+      ],
+      "alt": {
+        "zh-CN": "他就想要见耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P003_B001",
+      "panel": "LUKE_09_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.005,
+        0.185,
+        0.99,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "luke.9.p3.b1"
+    },
+    {
+      "id": "LUKE_09_P003_B002",
+      "panel": "LUKE_09_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.445,
+        0.94,
+        0.0407
+      ],
+      "tail": [
+        0.5,
+        0.4896
+      ],
+      "text_key": "luke.9.p3.b2"
+    },
+    {
+      "id": "LUKE_09_P003_B003",
+      "panel": "LUKE_09_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.52,
+        0.508,
+        0.46,
+        0.0936
+      ],
+      "tail": [
+        0.4209,
+        0.6173
+      ],
+      "text_key": "luke.9.p3.b3"
+    },
+    {
+      "id": "LUKE_09_P003_B004",
+      "panel": "LUKE_09_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.7,
+        0.36,
+        0.0456
+      ],
+      "tail": null,
+      "text_key": "luke.9.p3.b4"
+    }
+  ]
+}

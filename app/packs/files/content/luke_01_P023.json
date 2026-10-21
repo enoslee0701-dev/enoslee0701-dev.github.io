@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_01_P023",
+  "book": "luke",
+  "chapter": 1,
+  "page": 23,
+  "ref": "1:76-79",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P023",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P023_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "孩子啊，你要称为至高者的先知，因为你要走在主的前面，为他预备道路，"
+      }
+    },
+    {
+      "id": "LUKE_01_P023_F2",
+      "box": [
+        0,
+        0.2799,
+        0.4902,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "使他的百姓因罪得赦免，认识救恩。"
+      }
+    },
+    {
+      "id": "LUKE_01_P023_F3",
+      "box": [
+        0.499,
+        0.2799,
+        0.501,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "因我们神怜悯的心肠，使清晨的日光从高天临到我们，"
+      }
+    },
+    {
+      "id": "LUKE_01_P023_F4",
+      "box": [
+        0,
+        0.5768,
+        1,
+        0.4232
+      ],
+      "alt": {
+        "zh-CN": "照亮坐在黑暗和死亡阴影里的人，把我们的脚引到平安的路上。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P023_B001",
+      "panel": "LUKE_01_P023_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0083,
+        0.4,
+        0.0826
+      ],
+      "tail": [
+        0.22,
+        0.1184
+      ],
+      "text_key": "luke.1.p23.b1"
+    },
+    {
+      "id": "LUKE_01_P023_B002",
+      "panel": "LUKE_01_P023_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0245,
+        0.2887,
+        0.4313,
+        0.0584
+      ],
+      "tail": [
+        0.2402,
+        0.3763
+      ],
+      "text_key": "luke.1.p23.b2"
+    },
+    {
+      "id": "LUKE_01_P023_B003",
+      "panel": "LUKE_01_P023_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5241,
+        0.2887,
+        0.3006,
+        0.0584
+      ],
+      "tail": [
+        0.6744,
+        0.3763
+      ],
+      "text_key": "luke.1.p23.b3"
+    },
+    {
+      "id": "LUKE_01_P023_B004",
+      "panel": "LUKE_01_P023_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.5853,
+        0.45,
+        0.0677
+      ],
+      "tail": [
+        0.245,
+        0.6953
+      ],
+      "text_key": "luke.1.p23.b4"
+    }
+  ]
+}

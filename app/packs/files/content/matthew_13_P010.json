@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_13_P010",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 10,
+  "ref": "13:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1862
+      ],
+      "alt": {
+        "zh-CN": "主人说：『这是仇敌做的。』仆人说：『你要我们去把它拔出来吗？』"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P010_F2",
+      "box": [
+        0,
+        0.1895,
+        1,
+        0.4108
+      ],
+      "alt": {
+        "zh-CN": "主人说：『不用，免得拔稗子的时候，连麦子也拔出来。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P010_F3",
+      "box": [
+        0,
+        0.6035,
+        1,
+        0.1491
+      ],
+      "alt": {
+        "zh-CN": "让这两样一起长，等到收割。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P010_F4",
+      "box": [
+        0,
+        0.7565,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "收割的时候，我要对收割的人说，先把稗子拔出来，捆成捆，留着烧；麦子却要收进仓里。』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P010_B001",
+      "panel": "MATTHEW_13_P010_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.196,
+        0.46,
+        0.0782
+      ],
+      "tail": [
+        0.72,
+        0.17
+      ],
+      "text_key": "matthew.13.p10.b1"
+    },
+    {
+      "id": "MATTHEW_13_P010_B002",
+      "panel": "MATTHEW_13_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.335,
+        0.42,
+        0.0657
+      ],
+      "tail": [
+        0,
+        0.3086
+      ],
+      "text_key": "matthew.13.p10.b2"
+    },
+    {
+      "id": "MATTHEW_13_P010_B003",
+      "panel": "MATTHEW_13_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.6095,
+        0.36,
+        0.0596
+      ],
+      "tail": [
+        0,
+        0.684
+      ],
+      "text_key": "matthew.13.p10.b3"
+    },
+    {
+      "id": "MATTHEW_13_P010_B004",
+      "panel": "MATTHEW_13_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3,
+        0.7638,
+        0.4,
+        0.0438
+      ],
+      "tail": [
+        0,
+        0.832
+      ],
+      "text_key": "matthew.13.p10.b4"
+    }
+  ]
+}

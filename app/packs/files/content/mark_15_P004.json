@@ -1,0 +1,151 @@
+{
+  "id": "MARK_15_P004",
+  "book": "mark",
+  "chapter": 15,
+  "page": 4,
+  "ref": "15:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_15_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_15_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.186
+      ],
+      "alt": {
+        "zh-CN": "祭司长却煽动众人，要彼拉多宁可释放巴拉巴给他们。"
+      }
+    },
+    {
+      "id": "MARK_15_P004_F2",
+      "box": [
+        0,
+        0.189,
+        0.5,
+        0.255
+      ],
+      "alt": {
+        "zh-CN": "彼拉多又说：「那么，你们称为犹太人的王的这个人，我该怎么处置他呢？」"
+      }
+    },
+    {
+      "id": "MARK_15_P004_F3",
+      "box": [
+        0.506,
+        0.189,
+        0.494,
+        0.255
+      ],
+      "alt": {
+        "zh-CN": "他们又喊着说：「把他钉十字架！」"
+      }
+    },
+    {
+      "id": "MARK_15_P004_F4",
+      "box": [
+        0,
+        0.447,
+        1,
+        0.147
+      ],
+      "alt": {
+        "zh-CN": "彼拉多说：「为什么呢？他做了什么坏事呢？」"
+      }
+    },
+    {
+      "id": "MARK_15_P004_F5",
+      "box": [
+        0,
+        0.598,
+        1,
+        0.402
+      ],
+      "alt": {
+        "zh-CN": "他们就更大声地喊：「把他钉十字架！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_15_P004_B001",
+      "panel": "MARK_15_P004_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0,
+        0.192,
+        0.269,
+        0.219
+      ],
+      "tail": [
+        0.3,
+        0.235
+      ],
+      "text_key": "mark.15.p4.b1"
+    },
+    {
+      "id": "MARK_15_P004_B002",
+      "panel": "MARK_15_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.545,
+        0.125,
+        0.455,
+        0.111
+      ],
+      "tail": [
+        0.6344,
+        0.444
+      ],
+      "text_key": "mark.15.p4.b2"
+    },
+    {
+      "id": "MARK_15_P004_B003",
+      "panel": "MARK_15_P004_F5",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.645,
+        0.6,
+        0.351,
+        0.105
+      ],
+      "tail": [
+        0.62,
+        0.56
+      ],
+      "text_key": "mark.15.p4.b3"
+    },
+    {
+      "id": "MARK_15_P004_B004",
+      "panel": "MARK_15_P004_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.47,
+        0.9276,
+        0.33,
+        0.0562
+      ],
+      "tail": [
+        0.635,
+        1
+      ],
+      "text_key": "mark.15.p4.b4"
+    }
+  ]
+}

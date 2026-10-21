@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_09_P005",
+  "book": "luke",
+  "chapter": 9,
+  "page": 5,
+  "ref": "9:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "太阳快要下山了，十二个门徒来对他说："
+      }
+    },
+    {
+      "id": "LUKE_09_P005_F2",
+      "box": [
+        0,
+        0.2572,
+        0.5508,
+        0.2142
+      ],
+      "alt": {
+        "zh-CN": "“请叫众人散去，……因为我们这里是荒野。”"
+      }
+    },
+    {
+      "id": "LUKE_09_P005_F3",
+      "box": [
+        0.5586,
+        0.2572,
+        0.4414,
+        0.2142
+      ],
+      "alt": {
+        "zh-CN": "“你们给他们吃吧！”"
+      }
+    },
+    {
+      "id": "LUKE_09_P005_F4",
+      "box": [
+        0,
+        0.4759,
+        1,
+        0.5241
+      ],
+      "alt": {
+        "zh-CN": "“我们只有五个饼、两条鱼，除非去为这许多人买食物，否则不够。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P005_B001",
+      "panel": "LUKE_09_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.0076,
+        0.3,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "luke.9.p5.b1"
+    },
+    {
+      "id": "LUKE_09_P005_B002",
+      "panel": "LUKE_09_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2313,
+        0.2636,
+        0.3029,
+        0.0556
+      ],
+      "tail": [
+        0.3828,
+        0.3406
+      ],
+      "text_key": "luke.9.p5.b2"
+    },
+    {
+      "id": "LUKE_09_P005_B003",
+      "panel": "LUKE_09_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5674,
+        0.2636,
+        0.0794,
+        0.0642
+      ],
+      "tail": [
+        0.6071,
+        0.3492
+      ],
+      "text_key": "luke.9.p5.b3"
+    },
+    {
+      "id": "LUKE_09_P005_B004",
+      "panel": "LUKE_09_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6,
+        0.8847,
+        0.37,
+        0.0995
+      ],
+      "tail": [
+        0.785,
+        1
+      ],
+      "text_key": "luke.9.p5.b4"
+    }
+  ]
+}

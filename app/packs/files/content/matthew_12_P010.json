@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_12_P010",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 10,
+  "ref": "12:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "那时，有人把一个被鬼附着、又瞎又哑的人带到耶稣那里，"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P010_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "耶稣医治了他，那哑巴就能说话，也能看见了。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P010_F3",
+      "box": [
+        0,
+        0.6693,
+        0.5117,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "众人都很惊奇，说：「这不就是大卫的子孙吗？」"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P010_F4",
+      "box": [
+        0.5176,
+        0.6693,
+        0.4824,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "法利赛人听见了，却说：「这个人赶鬼，不过是靠着鬼王别西卜罢了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P010_B001",
+      "panel": "MATTHEW_12_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.008,
+        0.45,
+        0.0479
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p10.b1"
+    },
+    {
+      "id": "MATTHEW_12_P010_B002",
+      "panel": "MATTHEW_12_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.2774,
+        0.4,
+        0.0475
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p10.b2"
+    },
+    {
+      "id": "MATTHEW_12_P010_B003",
+      "panel": "MATTHEW_12_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.2303,
+        0.6759,
+        0.266,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p10.b3"
+    },
+    {
+      "id": "MATTHEW_12_P010_B004",
+      "panel": "MATTHEW_12_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5321,
+        0.6759,
+        0.2894,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p10.b4"
+    }
+  ]
+}

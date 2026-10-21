@@ -1,0 +1,432 @@
+{
+  "matthew.23.p1.b1": {
+    "text": "Then Jesus spoke to the crowds and to His disciples",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p1.b2": {
+    "text": "The scribes and Pharisees sit in Moses’ seat.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p1.b3": {
+    "text": "So practice and observe everything they tell you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p1.b4": {
+    "text": "But do not do what they do, for they do not practice what they preach.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p2.b1": {
+    "text": "They tie up heavy, burdensome loads and lay them on men’s shoulders, but they themselves are not willing to lift a finger to move them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p2.b2": {
+    "text": "All their deeds are done for men to see. They broaden their phylacteries and lengthen their tassels.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p2.b3": {
+    "text": "They love the places of honor at banquets, the chief seats in the synagogues, the greetings in the marketplaces, and the title of ‘Rabbi’ by which they are addressed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:6-7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p3.b1": {
+    "text": "But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p3.b2": {
+    "text": "The greatest among you shall be your servant.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p3.b3": {
+    "text": "For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p4.b1": {
+    "text": "Woe to you, scribes and Pharisees, you hypocrites!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p4.b2": {
+    "text": "You shut the kingdom of heaven in men’s faces. You yourselves do not enter, nor will you let in those who wish to enter.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p4.b3": {
+    "text": "You traverse land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p5.b1": {
+    "text": "Woe to you, blind guides!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p5.b2": {
+    "text": "You say, ‘If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p5.b3": {
+    "text": "You blind fools! Which is greater: the gold, or the temple that makes it sacred?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p5.b4": {
+    "text": "You blind men! Which is greater: the gift, or the altar that makes it sacred?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p6.b1": {
+    "text": "So then, he who swears by the altar swears by it and by everything on it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p6.b2": {
+    "text": "And he who swears by the temple swears by it and by the One who dwells in it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p6.b3": {
+    "text": "And he who swears by heaven swears by God’s throne and by the One who sits on it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p7.b1": {
+    "text": "Woe to you, scribes and Pharisees, you hypocrites!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p7.b2": {
+    "text": "You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p7.b3": {
+    "text": "You blind guides! You strain out a gnat but swallow a camel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p8.b1": {
+    "text": "Woe to you, scribes and Pharisees, you hypocrites!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p8.b2": {
+    "text": "You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p8.b3": {
+    "text": "Blind Pharisee! First clean the inside of the cup and dish, so that the outside may become clean as well.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p9.b1": {
+    "text": "Woe to you, scribes and Pharisees, you hypocrites!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p9.b2": {
+    "text": "You are like whitewashed tombs, which look beautiful on the outside, but on the inside are full of dead men’s bones and every kind of impurity.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p9.b3": {
+    "text": "In the same way, on the outside you appear to be righteous, but on the inside you are full of hypocrisy and wickedness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p10.b1": {
+    "text": "Woe to you, scribes and Pharisees, you hypocrites!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p10.b2": {
+    "text": "You build tombs for the prophets and decorate the monuments of the righteous. And you say, ‘If we had lived in the days of our fathers, we would not have been partners with them in shedding the blood of the prophets.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p10.b3": {
+    "text": "So you testify against yourselves that you are the sons of those who murdered the prophets.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p10.b4": {
+    "text": "Fill up, then, the measure of the sin of your fathers.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p11.b1": {
+    "text": "You snakes! You brood of vipers! How will you escape the sentence of hell?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p11.b2": {
+    "text": "Because of this, I am sending you prophets and wise men and teachers … persecute in town after town.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p11.b3": {
+    "text": "… from the blood of righteous Abel to the blood of Zechariah son of Berechiah, whom you murdered between the temple and the altar.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p11.b4": {
+    "text": "Truly I tell you, all these things will come upon this generation.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p12.b1": {
+    "text": "O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p12.b2": {
+    "text": "how often I have longed to gather your children together, as a hen gathers her chicks under her wings",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p12.b3": {
+    "text": "but you were unwilling!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p13.b1": {
+    "text": "Look, your house is left to you desolate.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p13.b2": {
+    "text": "For I tell you that you will not see Me again",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.23.p13.b3": {
+    "text": "until you say, ‘Blessed is He who comes in the name of the Lord.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 23:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

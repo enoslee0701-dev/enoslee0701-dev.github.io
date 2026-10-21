@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_14_P006",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 6,
+  "ref": "14:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "耶稣出来，看见有很多人，就怜悯他们，治好了他们中间的病人。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P006_F2",
+      "box": [
+        0,
+        0.2826,
+        0.457,
+        0.2572
+      ]
+    },
+    {
+      "id": "MATTHEW_14_P006_F3",
+      "box": [
+        0.4629,
+        0.2826,
+        0.5371,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "天快黑的时候，门徒上前来说：「这里是野外，时候已经晚了，请叫大家散开，好让他们到村子里去，自己买吃的。」"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P006_F4",
+      "box": [
+        0,
+        0.543,
+        1,
+        0.457
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「他们不用走，你们给他们吃吧！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P006_B001",
+      "panel": "MATTHEW_14_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0056,
+        0.42,
+        0.0391
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p6.b1"
+    },
+    {
+      "id": "MATTHEW_14_P006_B002",
+      "panel": "MATTHEW_14_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.012,
+        0.2877,
+        0.25,
+        0.0334
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p6.b2"
+    },
+    {
+      "id": "MATTHEW_14_P006_B003",
+      "panel": "MATTHEW_14_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.855,
+        0.55,
+        0.0565
+      ],
+      "tail": [
+        0.3,
+        0.82
+      ],
+      "text_key": "matthew.14.p6.b3"
+    },
+    {
+      "id": "MATTHEW_14_P006_B004",
+      "panel": "MATTHEW_14_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.61,
+        0.885,
+        0.37,
+        0.0776
+      ],
+      "tail": [
+        0.83,
+        0.84
+      ],
+      "text_key": "matthew.14.p6.b4"
+    }
+  ]
+}

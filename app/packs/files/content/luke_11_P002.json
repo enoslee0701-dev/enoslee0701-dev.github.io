@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_11_P002",
+  "book": "luke",
+  "chapter": 11,
+  "page": 2,
+  "ref": "11:2-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_11_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_11_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：“你们祷告的时候，要这样说：父啊，愿你的名被尊为圣；"
+      }
+    },
+    {
+      "id": "LUKE_11_P002_F2",
+      "box": [
+        0.61,
+        0.315,
+        0.39,
+        0.325
+      ],
+      "alt": {
+        "zh-CN": "愿你的国降临；愿你的旨意行在地上，如同行在天上。"
+      }
+    },
+    {
+      "id": "LUKE_11_P002_F3",
+      "box": [
+        0,
+        0.345,
+        0.605,
+        0.295
+      ],
+      "alt": {
+        "zh-CN": "我们每天需要的饮食，求你天天赐给我们。"
+      }
+    },
+    {
+      "id": "LUKE_11_P002_F4",
+      "box": [
+        0,
+        0.6452,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "赦免我们的罪，因为我们也赦免所有亏欠我们的人。不要让我们遇见试探；救我们脱离凶恶。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_11_P002_B001",
+      "panel": "LUKE_11_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0094,
+        0.42,
+        0.0625
+      ],
+      "tail": [
+        0.77,
+        0.1032
+      ],
+      "text_key": "luke.11.p2.b1"
+    },
+    {
+      "id": "LUKE_11_P002_B002",
+      "panel": "LUKE_11_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6217,
+        0.3183,
+        0.3705,
+        0.0455
+      ],
+      "tail": [
+        0.807,
+        0.3963
+      ],
+      "text_key": "luke.11.p2.b2"
+    },
+    {
+      "id": "LUKE_11_P002_B003",
+      "panel": "LUKE_11_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0303,
+        0.3539,
+        0.4174,
+        0.0354
+      ],
+      "tail": null,
+      "text_key": "luke.11.p2.b3"
+    },
+    {
+      "id": "LUKE_11_P002_B004",
+      "panel": "LUKE_11_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.43,
+        0.6505,
+        0.26,
+        0.0745
+      ],
+      "tail": [
+        0.56,
+        0.7605
+      ],
+      "text_key": "luke.11.p2.b4"
+    }
+  ]
+}

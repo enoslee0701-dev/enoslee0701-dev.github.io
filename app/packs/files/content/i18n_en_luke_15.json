@@ -1,0 +1,452 @@
+{
+  "luke.15.p1.b1": {
+    "text": "Now all the tax collectors and sinners were gathering around to listen to Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p1.b2": {
+    "text": "“This man welcomes sinners and eats with them.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p1.b3": {
+    "text": "Then Jesus told them this parable:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p2.b1": {
+    "text": "“What man among you, if he has a hundred sheep and loses one of them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p2.b2": {
+    "text": "does not leave the ninety-nine in the pasture and go after the one that is lost, until he finds it?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p2.b3": {
+    "text": "And when he finds it, he joyfully puts it on his shoulders,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p3.b1": {
+    "text": "‘Rejoice with me, for I have found my lost sheep!’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p3.b2": {
+    "text": "In the same way, I tell you that there will be more joy in heaven over one sinner who repents",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p3.b3": {
+    "text": "than over ninety-nine righteous ones who do not need to repent.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b1": {
+    "text": "Or what woman who has ten silver coins and loses one of them",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b2": {
+    "text": "does not light a lamp, sweep her house, and search carefully until she finds it?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b3": {
+    "text": "‘Rejoice with me, for I have found my lost coin.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b4": {
+    "text": "In the same way, I tell you, there is joy in the presence of God’s angels over one sinner who repents.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b1": {
+    "text": "“There was a man who had two sons.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b2": {
+    "text": "‘Father, give me my share of the estate.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b3": {
+    "text": "After a few days, the younger son got everything together and journeyed to a distant country,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b4": {
+    "text": "where he squandered his wealth in wild living.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b1": {
+    "text": "After he had spent all he had,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b2": {
+    "text": "a severe famine swept through that country, and he began to be in need.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b3": {
+    "text": "So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b4": {
+    "text": "He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b1": {
+    "text": "Finally he came to his senses and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b2": {
+    "text": "‘How many of my father’s hired servants have plenty of food? But here I am, starving to death!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b3": {
+    "text": "I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b4": {
+    "text": "I am no longer worthy to be called your son. Make me like one of your hired servants.”’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b1": {
+    "text": "So he got up and went to his father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b2": {
+    "text": "But while he was still in the distance, his father saw him and was filled with compassion.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b3": {
+    "text": "He ran to his son, embraced him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b4": {
+    "text": "and kissed him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b1": {
+    "text": "‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b2": {
+    "text": "But the father said to his servants,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b3": {
+    "text": "‘Quick! Bring the best robe and put it on him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b4": {
+    "text": "Put a ring on his finger and sandals on his feet.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p10.b1": {
+    "text": "Bring the fattened calf and kill it. Let us feast and celebrate.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p10.b2": {
+    "text": "For this son of mine was dead and is alive again! He was lost and is found!’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p10.b3": {
+    "text": "So they began to celebrate.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p11.b1": {
+    "text": "Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p11.b2": {
+    "text": "So he called one of the servants and asked what was going on.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p11.b3": {
+    "text": "‘Your brother has returned,’ … ‘and your father has killed the fattened calf, because he has him back safe and sound.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b1": {
+    "text": "The older son became angry and refused to go in. So his father came out and pleaded with him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b2": {
+    "text": "‘Look, all these years I have served you and never disobeyed a commandment of yours.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b3": {
+    "text": "Yet you never gave me even a young goat so I could celebrate with my friends.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b4": {
+    "text": "But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p13.b1": {
+    "text": "‘Son, you are always with me,’ … ‘and all that is mine is yours.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p13.b2": {
+    "text": "But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

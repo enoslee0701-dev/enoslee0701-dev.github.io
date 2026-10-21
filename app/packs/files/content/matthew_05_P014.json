@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_05_P014",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 14,
+  "ref": "5:41-42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2331
+      ],
+      "alt": {
+        "zh-CN": "有人强迫你走一里路，"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P014_F2",
+      "box": [
+        0,
+        0.237,
+        1,
+        0.1582
+      ],
+      "alt": {
+        "zh-CN": "（比喻画面：农夫扛着罗马兵的行李走在大路上，路边一根里程石。）"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P014_F3",
+      "box": [
+        0,
+        0.3971,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "你就陪他走二里；"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P014_F4",
+      "box": [
+        0,
+        0.7708,
+        1,
+        0.2292
+      ],
+      "alt": {
+        "zh-CN": "有人求你，就给他；有人向你借，不要拒绝。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P014_B001",
+      "panel": "MATTHEW_05_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.33,
+        0.0047,
+        0.3,
+        0.0372
+      ],
+      "tail": [
+        0.48,
+        0.0652
+      ],
+      "text_key": "matthew.5.p14.b1"
+    },
+    {
+      "id": "MATTHEW_05_P014_B002",
+      "panel": "MATTHEW_05_P014_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.28,
+        0.4045,
+        0.2,
+        0.052
+      ],
+      "tail": [
+        0.38,
+        0.4937
+      ],
+      "text_key": "matthew.5.p14.b2"
+    },
+    {
+      "id": "MATTHEW_05_P014_B003",
+      "panel": "MATTHEW_05_P014_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.77,
+        0.7754,
+        0.22,
+        0.0458
+      ],
+      "tail": [
+        0.88,
+        0.8441
+      ],
+      "text_key": "matthew.5.p14.b3"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "MARK_09_P006",
+  "book": "mark",
+  "chapter": 9,
+  "page": 6,
+  "ref": "9:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_09_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_09_P006_F1",
+      "box": [
+        0.01,
+        0.005,
+        0.981,
+        0.242
+      ],
+      "alt": {
+        "zh-CN": "他们就问耶稣：「文士为什么说以利亚必须先来？」"
+      }
+    },
+    {
+      "id": "MARK_09_P006_F2",
+      "box": [
+        0.01,
+        0.251,
+        0.354,
+        0.423
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「以利亚的确先来，复兴一切；"
+      }
+    },
+    {
+      "id": "MARK_09_P006_F3",
+      "box": [
+        0.373,
+        0.251,
+        0.618,
+        0.423
+      ],
+      "alt": {
+        "zh-CN": "可是经上不是也写着人子要受许多苦、被人轻视吗？"
+      }
+    },
+    {
+      "id": "MARK_09_P006_F4",
+      "box": [
+        0.012,
+        0.678,
+        0.574,
+        0.311
+      ],
+      "alt": {
+        "zh-CN": "我告诉你们，以利亚已经来了，他们也随意对待他，正像经上指着他所写的。」"
+      }
+    },
+    {
+      "id": "MARK_09_P006_F5",
+      "box": [
+        0.597,
+        0.678,
+        0.393,
+        0.311
+      ],
+      "alt": {
+        "zh-CN": "（门徒低下头，不说话。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_09_P006_B001",
+      "panel": "MARK_09_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.14,
+        0.385,
+        0.105
+      ],
+      "tail": [
+        0.75,
+        0.128
+      ],
+      "text_key": "mark.9.p6.b1"
+    },
+    {
+      "id": "MARK_09_P006_B002",
+      "panel": "MARK_09_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.028,
+        0.565,
+        0.32,
+        0.105
+      ],
+      "tail": [
+        0.25,
+        0.45
+      ],
+      "text_key": "mark.9.p6.b2"
+    },
+    {
+      "id": "MARK_09_P006_B003",
+      "panel": "MARK_09_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7129,
+        0.2637,
+        0.2595,
+        0.0761
+      ],
+      "tail": [
+        0.8427,
+        0.3821
+      ],
+      "text_key": "mark.9.p6.b3"
+    },
+    {
+      "id": "MARK_09_P006_B004",
+      "panel": "MARK_09_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.883,
+        0.965,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.9.p6.b4"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_02_P008",
+  "book": "luke",
+  "chapter": 2,
+  "page": 8,
+  "ref": "2:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "他们看见以后，就把天使说到这孩子的话传开了。"
+      }
+    },
+    {
+      "id": "LUKE_02_P008_F2",
+      "box": [
+        0,
+        0.2637,
+        0.3135,
+        0.4408
+      ],
+      "alt": {
+        "zh-CN": "听见的人都对牧羊人说的话感到惊奇。"
+      }
+    },
+    {
+      "id": "LUKE_02_P008_F3",
+      "box": [
+        0.3232,
+        0.2637,
+        0.6768,
+        0.4408
+      ],
+      "alt": {
+        "zh-CN": "马利亚却把这一切都珍藏在心里，反复思想。"
+      }
+    },
+    {
+      "id": "LUKE_02_P008_F4",
+      "box": [
+        0,
+        0.709,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "牧羊人回去了，他们所听见、所看见的一切，都和天使说的一样，就一路归荣耀给神，赞美他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P008_B001",
+      "panel": "LUKE_02_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.4,
+        0.0078,
+        0.32,
+        0.0467
+      ],
+      "tail": null,
+      "text_key": "luke.2.p8.b1"
+    },
+    {
+      "id": "LUKE_02_P008_B002",
+      "panel": "LUKE_02_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0125,
+        0.6163,
+        0.2821,
+        0.0749
+      ],
+      "tail": null,
+      "text_key": "luke.2.p8.b2"
+    },
+    {
+      "id": "LUKE_02_P008_B003",
+      "panel": "LUKE_02_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7699,
+        0.2769,
+        0.2098,
+        0.1322
+      ],
+      "tail": null,
+      "text_key": "luke.2.p8.b3"
+    },
+    {
+      "id": "LUKE_02_P008_B004",
+      "panel": "LUKE_02_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.7177,
+        0.44,
+        0.0523
+      ],
+      "tail": null,
+      "text_key": "luke.2.p8.b4"
+    }
+  ]
+}

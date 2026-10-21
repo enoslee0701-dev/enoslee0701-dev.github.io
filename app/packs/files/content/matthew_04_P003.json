@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_04_P003",
+  "book": "matthew",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "魔鬼又带耶稣进了圣城耶路撒冷，让他站在圣殿最高的边缘上，"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P003_F2",
+      "box": [
+        0.0029,
+        0.3073,
+        0.6553,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "对他说：“如果你是神的儿子，就跳下去吧！"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P003_F3",
+      "box": [
+        0.667,
+        0.3073,
+        0.333,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "因为经上写着：‘主会为你吩咐他的天使用手托住你，免得你的脚碰在石头上。’”"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P003_F4",
+      "box": [
+        0,
+        0.6003,
+        1,
+        0.3997
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他说：“经上也写着：‘不可试探主你的神。’”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_04_P003_B001",
+      "panel": "MATTHEW_04_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.12,
+        0.003,
+        0.3,
+        0.0393
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p3.b1"
+    },
+    {
+      "id": "MATTHEW_04_P003_B002",
+      "panel": "MATTHEW_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.3437,
+        0.3159,
+        0.2948,
+        0.0633
+      ],
+      "tail": [
+        0.4911,
+        0.408
+      ],
+      "text_key": "matthew.4.p3.b2"
+    },
+    {
+      "id": "MATTHEW_04_P003_B003",
+      "panel": "MATTHEW_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.652,
+        0.312,
+        0.345,
+        0.0978
+      ],
+      "tail": [
+        0.8336,
+        0.5951
+      ],
+      "text_key": "matthew.4.p3.b3"
+    },
+    {
+      "id": "MATTHEW_04_P003_B004",
+      "panel": "MATTHEW_04_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6123,
+        0.24,
+        0.1119
+      ],
+      "tail": [
+        0.14,
+        0.7642
+      ],
+      "text_key": "matthew.4.p3.b4"
+    }
+  ]
+}

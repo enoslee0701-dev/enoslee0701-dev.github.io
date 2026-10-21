@@ -1,0 +1,422 @@
+{
+  "luke.21.p1.b1": {
+    "text": "เมื่อ​พระเยซู​เงย​หน้า​ขึ้น​ก็​เห็น​พวก​คน​รวย​เอา​ของ​ถวาย​ใส่​ใน​คลัง​ของ​วิหาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p1.b2": {
+    "text": "และ​พระองค์​ก็​เห็น​หญิง​ม่าย​ยากจน​คน​หนึ่ง ใส่​เหรียญ​ทองแดง​เล็ก​ๆ สอง​เหรียญ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p2.b1": {
+    "text": "“เรา​บอก​ความ​จริง​ว่า หญิง​ม่าย​ยากจน​คน​นี้​ใส่​เงิน​มาก​กว่า​ใคร​ทั้ง​หมด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p2.b2": {
+    "text": "เพราะ​คน​ทั้ง​หมด​นี้​เอา​เงิน​เหลือ​ใช้​มา​ให้ แต่​หญิง​ม่าย​คน​นี้​ทั้ง​ที่​ยากจน ยัง​ให้​เงิน​เลี้ยง​ชีพ​ทั้ง​หมด​ที่​มี”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p3.b1": {
+    "text": "สาวก​ของ​พระองค์​บาง​คน​ชื่น​ชม​ทั้ง​ศิลา​ที่​งดงาม​ซึ่ง​ใช้​สร้าง​วิหาร และ​ของ​ถวาย​ที่​ประดับ​นั้น แต่​พระเยซู​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p3.b2": {
+    "text": "“สิ่ง​ที่​เจ้า​เห็น​ที่​นี่ เมื่อ​ถึง​เวลา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p3.b3": {
+    "text": "จะ​ไม่​เหลือ​ก้อน​หิน​สัก​ก้อน​ซ้อน​ทับ​กัน​เลย แต่​จะ​ถูก​โยน​ทิ้ง​หมด”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p4.b1": {
+    "text": "“อาจารย์ สิ่ง​เหล่า​นี้​จะ​เกิดขึ้น​เมื่อไหร่ และ​อะไร​จะ​เป็น​หมาย​สำคัญ​ว่า​สิ่ง​นั้น​กำลัง​จะ​เกิด​ขึ้น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p4.b2": {
+    "text": "“จง​ระวัง เจ้า​จะ​ได้​ไม่​ถูก​หลอก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p4.b3": {
+    "text": "เพราะ​หลาย​คน​จะ​มา​ใน​นาม​ของ​เรา และ​อ้าง​ว่า ‘เรา​คือ​ผู้​นั้น’ และ ‘เวลา​นั้น​ใกล้​เข้า​มา​แล้ว’ อย่า​ไป​ตาม​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p4.b4": {
+    "text": "เมื่อ​เจ้า​ได้ยิน​ข่าว​สงคราม​และ​ปฏิวัติ อย่า​ตื่น​ตกใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p5.b1": {
+    "text": "“ชน​ชาติ​ต่อ​ชน​ชาติ อาณาจักร​ต่อ​อาณาจักร​จะ​สู้​รบ​กัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p5.b2": {
+    "text": "จะ​เกิด​แผ่นดิน​ไหว​ครั้ง​ใหญ่​หลาย​ครั้ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p5.b3": {
+    "text": "การ​กันดาร​อาหาร​และ​โรค​ระบาด​ใน​ที่​ต่าง​ๆ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p5.b4": {
+    "text": "เหตุการณ์​น่า​สะพรึง​กลัว​และ​หมาย​สำคัญ​ยิ่งใหญ่​บน​ฟ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p6.b1": {
+    "text": "…พวก​เขา​จะ​จับ​และ​ข่มเหง​เจ้า พวก​เขา​จะ​ส่ง​พวก​เจ้า​ไป​ที่​ธรรม​ศาลา​และ​จับ​ขัง​คุก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p6.b2": {
+    "text": "และ​เจ้า​จะ​เป็น​พยาน​ให้​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p6.b3": {
+    "text": "แต่​อย่า​กังวล​ไป​ก่อน​ว่า​จะ​แก้ต่าง​ให้​ตนเอง​อย่างไร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p6.b4": {
+    "text": "เพราะ​เรา​จะ​ให้​ถ้อยคำ​และ​สติ​ปัญญา​กับ​เจ้า​อย่าง​ที่​ศัตรู​จะ​ต่อต้าน​หรือ​ขัด​แย้ง​ไม่​ได้​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p7.b1": {
+    "text": "แม้​กระทั่ง​พ่อ​แม่ พี่​น้อง ญาติ​มิตร​ของ​เจ้า​ก็​จะ​ทรยศ​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p7.b2": {
+    "text": "ทุก​คน​จะ​เกลียด​เจ้า​เพราะ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p7.b3": {
+    "text": "แต่​ผม​สัก​เส้น​เดียว​บน​ศีรษะ​เจ้า​ก็​จะ​ไม่​เสีย​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p7.b4": {
+    "text": "จง​ยืนหยัด​อย่าง​มั่นคง​แล้ว​เจ้า​จะ​ได้​รับ​ชีวิต",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p8.b1": {
+    "text": "เมื่อ​เห็น​กองทัพ​ต่าง​ๆ มา​ล้อม​เยรูซาเล็ม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p8.b2": {
+    "text": "ก็​จะ​รู้​ว่า​หายนะ​ใกล้​เข้า​มา​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p8.b3": {
+    "text": "เมื่อ​นั้น​ให้​คน​ที่​อยู่​ใน​ยูเดีย​หนี​ไป​ที่​ภูเขา ให้​คน​ใน​กรุง​หนี​ออก​ไป และ​คน​ใน​ชนบท​อย่า​เข้า​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p8.b4": {
+    "text": "เพราะ​นี่​เป็น​เวลา​แห่ง​การ​ลงโทษ เพื่อ​ให้​ทุก​สิ่ง​สำเร็จ​ตาม​ที่​เขียน​ไว้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p9.b1": {
+    "text": "วัน​เหล่า​นั้น​น่า​สะพรึง​กลัว​สำหรับ​หญิง​มี​ครรภ์​และ​แม่​ลูก​อ่อน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p9.b2": {
+    "text": "พวก​เขา​จะ​ล้ม​ลง​ด้วย​คม​ดาบ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p9.b3": {
+    "text": "และ​ถูก​จับ​เป็น​เชลย​ของ​ทุก​ชนชาติ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p9.b4": {
+    "text": "เยรูซาเล็ม​จะ​ถูก​เหยียบ​ย่ำ​โดย​คน​ที่​ไม่​ใช่​ยิว จน​ครบ​เวลา​กำหนด​ของ​คน​ที่​ไม่​ใช่​ยิว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p10.b1": {
+    "text": "จะ​มี​หมาย​สำคัญ​ที่​ดวง​อาทิตย์ ดวง​จันทร์ และ​หมู่​ดาว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p10.b2": {
+    "text": "ชน​ชาติ​ต่าง​ๆ ใน​โลก​นี้​จะ​ทุกข์​ทรมาน สับสน​กับ​เสียง​กึกก้อง​และ​ความ​ปั่นป่วน​ใน​ท้อง​ทะเล",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p10.b3": {
+    "text": "ผู้​คน​จะ​เป็น​ลม​ล้ม​ไป​เพราะ​ความ​กลัว หวาดหวั่น​กับ​สิ่ง​ที่​จะ​เกิด​ขึ้น​ใน​โลก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p10.b4": {
+    "text": "เมื่อ​สิ่ง​เหล่า​นี้​เริ่ม​ขึ้น จง​ยืน​และ​เชิด​หน้า เพราะ​การ​ไถ่​ของ​เจ้า​ใกล้​มา​ถึง​แล้ว”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p11.b1": {
+    "text": "“ดู​ต้น​มะเดื่อ​และ​ต้นไม้​ทั้ง​หลาย เมื่อ​มัน​ผลิ​ใบ ท่าน​ก็​เห็น​และ​รู้​ได้​เอง​ว่า ฤดู​ร้อน​ใกล้​เข้า​มา​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p11.b2": {
+    "text": "เช่น​เดียว​กัน เมื่อ​เห็น​สิ่ง​เหล่า​นี้​เกิดขึ้น เจ้า​ก็​รู้​ว่า​อาณาจักร​ของ​พระเจ้า​ใกล้​เข้า​มา​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p11.b3": {
+    "text": "ฟ้า​และ​ดิน​จะ​สูญ​สิ้น​ไป แต่​ถ้อยคำ​ของ​เรา​ไม่​มี​วัน​สูญ​สลาย​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p12.b1": {
+    "text": "จง​ระวัง​ให้​ดี … แล้ว​วัน​นั้น​จะ​มา​ถึง​ตัว​ท่าน​รวดเร็ว​เหมือน​กับดัก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p12.b2": {
+    "text": "จง​เฝ้า​ระวัง​อยู่​เสมอ และ​อธิษฐาน … และ​จะ​สามารถ​ยืน​อยู่​ต่อ​หน้า​บุตร​มนุษย์​ได้”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p12.b3": {
+    "text": "พระเยซู​สอน​ที่​วิหาร​ทุก​วัน และ​ทุก​คืน​ก็​ออก​ไป​พัก​แรม​บน​ภูเขา​ชื่อ​มะกอก​เทศ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.21.p12.b4": {
+    "text": "ทุก​คน​มา​ที่​วิหาร​แต่​เช้า​ตรู่​เพื่อ​ฟัง​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 21:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_12_P009",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 9,
+  "ref": "12:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1934
+      ],
+      "alt": {
+        "zh-CN": "压伤的芦苇，他不折断；"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P009_F2",
+      "box": [
+        0,
+        0.1966,
+        1,
+        0.4258
+      ],
+      "alt": {
+        "zh-CN": "将要熄灭的灯火，他不吹灭；"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P009_F3",
+      "box": [
+        0,
+        0.625,
+        0.5244,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "直到他施行公理，使公理得胜。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P009_F4",
+      "box": [
+        0.5293,
+        0.625,
+        0.4707,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "外邦人都要仰望他的名。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P009_B001",
+      "panel": "MATTHEW_12_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0058,
+        0.55,
+        0.0386
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p9.b1"
+    },
+    {
+      "id": "MATTHEW_12_P009_B002",
+      "panel": "MATTHEW_12_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.2094,
+        0.39,
+        0.0468
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p9.b2"
+    },
+    {
+      "id": "MATTHEW_12_P009_B003",
+      "panel": "MATTHEW_12_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3094,
+        0.6325,
+        0.2045,
+        0.045
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p9.b3"
+    },
+    {
+      "id": "MATTHEW_12_P009_B004",
+      "panel": "MATTHEW_12_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5387,
+        0.6625,
+        0.1553,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p9.b4"
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+{
+  "luke.22.p1.b1": {
+    "text": "Now the Feast of Unleavened Bread, called the Passover, was approaching,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p1.b2": {
+    "text": "and the chief priests and scribes were looking for a way to put Jesus to death; for they feared the people.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p1.b3": {
+    "text": "Then Satan entered Judas Iscariot, who was one of the Twelve.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p2.b1": {
+    "text": "And Judas went to discuss with the chief priests and temple officers how he might betray Jesus to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p2.b2": {
+    "text": "They were delighted and agreed to give him money.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p2.b3": {
+    "text": "Judas consented, and began to look for an opportunity to betray Jesus to them in the absence of a crowd.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p3.b1": {
+    "text": "Then came the day of Unleavened Bread on which the Passover lamb was to be sacrificed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p3.b2": {
+    "text": "“Go and prepare for us to eat the Passover.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p3.b3": {
+    "text": "“Where do You want us to prepare it?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b1": {
+    "text": "“When you enter the city, a man carrying a jug of water will meet you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b2": {
+    "text": "Follow him to the house he enters,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b3": {
+    "text": "and say to the owner of that house, ‘The Teacher asks: Where is the guest room, where I may eat the Passover with My disciples?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b4": {
+    "text": "And he will show you a large upper room, already furnished. Make preparations there.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p5.b1": {
+    "text": "So they went and found it just as Jesus had told them. And they prepared the Passover.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p5.b2": {
+    "text": "When the hour had come,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p5.b3": {
+    "text": "Jesus reclined at the table with His apostles.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p6.b1": {
+    "text": "“I have eagerly desired to eat this Passover with you before My suffering.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p6.b2": {
+    "text": "For I tell you that I will not eat it again until it is fulfilled in the kingdom of God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p7.b1": {
+    "text": "After taking the cup, He gave thanks and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p7.b2": {
+    "text": "“Take this and divide it among yourselves.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p7.b3": {
+    "text": "For I tell you that I will not drink of the fruit of the vine from now on until the kingdom of God comes.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b1": {
+    "text": "And He took the bread, gave thanks and broke it, and gave it to them, saying,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b2": {
+    "text": "“This is My body, given for you; do this in remembrance of Me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b3": {
+    "text": "In the same way, after supper He took the cup, saying,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b4": {
+    "text": "“This cup is the new covenant in My blood, which is poured out for you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p9.b1": {
+    "text": "Look! The hand of My betrayer is with Mine on the table.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p9.b2": {
+    "text": "Indeed, the Son of Man will go as it has been determined, but woe to that man who betrays Him.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p9.b3": {
+    "text": "Then they began to question among themselves which of them was going to do this.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b1": {
+    "text": "A dispute also arose among the disciples as to which of them would be considered the greatest.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b2": {
+    "text": "But you shall not be like them. Instead, the greatest among you should be like the youngest, and the one who leads like the one who serves.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b3": {
+    "text": "For who is greater, the one who reclines at the table or the one who serves?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b4": {
+    "text": "But I am among you as one who serves.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p11.b1": {
+    "text": "You are the ones who have stood by Me in My trials.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p11.b2": {
+    "text": "And I bestow on you a kingdom, just as My Father has bestowed one on Me, so that you may eat and drink at My table in My kingdom,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p11.b3": {
+    "text": "and sit on thrones, judging the twelve tribes of Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b1": {
+    "text": "Simon, Simon,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b2": {
+    "text": "Satan has asked to sift each of you like wheat.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b3": {
+    "text": "But I have prayed for you, Simon, that your faith will not fail.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b4": {
+    "text": "And when you have turned back, strengthen your brothers.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p13.b1": {
+    "text": "“Lord,” … “I am ready to go with You even to prison and to death.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p13.b2": {
+    "text": "“I tell you, Peter,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p13.b3": {
+    "text": "the rooster will not crow today until you have denied three times that you know Me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b1": {
+    "text": "“When I sent you out without purse or bag or sandals, did you lack anything?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b2": {
+    "text": "… the one without a sword should sell his cloak and buy one. For I tell you that this Scripture must be fulfilled in Me: ‘And He was numbered with the transgressors.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:36-37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b3": {
+    "text": "“Look, Lord, here are two swords.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b4": {
+    "text": "“That is enough,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p15.b1": {
+    "text": "“Pray that you will not enter into temptation.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p15.b2": {
+    "text": "“Father, if You are willing, take this cup from Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p15.b3": {
+    "text": "Yet not My will, but Yours be done.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p16.b1": {
+    "text": "Then an angel from heaven appeared to Him and strengthened Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p16.b2": {
+    "text": "And in His anguish, He prayed more earnestly,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p16.b3": {
+    "text": "and His sweat became like drops of blood falling to the ground.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p17.b1": {
+    "text": "When Jesus rose from prayer and returned to the disciples,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p17.b2": {
+    "text": "He found them asleep, exhausted from sorrow.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p17.b3": {
+    "text": "“Why are you sleeping?” … “Get up and pray so that you will not enter into temptation.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p18.b1": {
+    "text": "While He was still speaking, a crowd arrived, led by the man called Judas, one of the Twelve.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p18.b2": {
+    "text": "He approached Jesus to kiss Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p18.b3": {
+    "text": "“Judas, are you betraying the Son of Man with a kiss?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b1": {
+    "text": "“Lord, should we strike with our swords?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b2": {
+    "text": "And one of them struck the servant of the high priest, cutting off his right ear.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b3": {
+    "text": "“No more of this!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b4": {
+    "text": "And He touched the man’s ear and healed him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b1": {
+    "text": "“Have you come out with swords and clubs as you would against an outlaw?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b2": {
+    "text": "… But this hour belongs to you and to the power of darkness.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b3": {
+    "text": "Then they seized Jesus, led Him away, and took Him into the house of the high priest. And Peter followed at a distance.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b4": {
+    "text": "When those present had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b1": {
+    "text": "“This man also was with Him,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b2": {
+    "text": "“Woman, I do not know Him,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b3": {
+    "text": "“You also are one of them.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b4": {
+    "text": "“Man, I am not.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b1": {
+    "text": "About an hour later, another man insisted,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b2": {
+    "text": "“Certainly this man was with Him, for he too is a Galilean.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b3": {
+    "text": "“Man, I do not know what you are talking about,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b4": {
+    "text": "While he was still speaking, the rooster crowed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b1": {
+    "text": "And the Lord turned and looked at Peter.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b2": {
+    "text": "Then Peter remembered the word that the Lord had spoken to him:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b3": {
+    "text": "“Before the rooster crows today, you will deny Me three times.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b4": {
+    "text": "And he went outside and wept bitterly.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:62"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p24.b1": {
+    "text": "The men who were holding Jesus began to mock Him and beat Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:63"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p24.b2": {
+    "text": "“Prophesy! Who hit You?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:64"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p24.b3": {
+    "text": "And they said many other blasphemous things against Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:65"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b1": {
+    "text": "At daybreak the council of the elders of the people, both the chief priests and scribes, met together. They led Jesus into their Sanhedrin and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:66"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b2": {
+    "text": "“If You are the Christ, tell us.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:67"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b3": {
+    "text": "But from now on the Son of Man will be seated at the right hand of the power of God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:69"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b4": {
+    "text": "“Are You then the Son of God?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:70"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b5": {
+    "text": "“You say that I am.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 22:70"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

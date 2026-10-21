@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_01_P019",
+  "book": "luke",
+  "chapter": 1,
+  "page": 19,
+  "ref": "1:63",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P019",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P019_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "他要了一块写字板，写着："
+      }
+    },
+    {
+      "id": "LUKE_01_P019_F2",
+      "box": [
+        0,
+        0.2409,
+        0.3037,
+        0.4063
+      ]
+    },
+    {
+      "id": "LUKE_01_P019_F3",
+      "box": [
+        0.3115,
+        0.2409,
+        0.6885,
+        0.4063
+      ],
+      "alt": {
+        "zh-CN": "「他的名字是约翰。」"
+      }
+    },
+    {
+      "id": "LUKE_01_P019_F4",
+      "box": [
+        0,
+        0.651,
+        1,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "大家都很惊奇。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P019_B001",
+      "panel": "LUKE_01_P019_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0071,
+        0.24,
+        0.0426
+      ],
+      "tail": null,
+      "text_key": "luke.1.p19.b1"
+    },
+    {
+      "id": "LUKE_01_P019_B002",
+      "panel": "LUKE_01_P019_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7246,
+        0.2531,
+        0.2547,
+        0.0568
+      ],
+      "tail": [
+        0.852,
+        0.3505
+      ],
+      "text_key": "luke.1.p19.b2"
+    },
+    {
+      "id": "LUKE_01_P019_B003",
+      "panel": "LUKE_01_P019_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.658,
+        0.22,
+        0.0244
+      ],
+      "tail": null,
+      "text_key": "luke.1.p19.b3"
+    }
+  ]
+}

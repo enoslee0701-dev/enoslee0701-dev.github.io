@@ -1,0 +1,118 @@
+{
+  "id": "MATTHEW_02_P004",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "于是希律秘密地召见博士，仔细问他们那颗星是什么时候出现的，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P004_F2",
+      "box": [
+        0,
+        0.2611,
+        0.6855,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "「你们去仔细寻找那孩子，找到了就回来告诉我，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P004_F3",
+      "box": [
+        0.6924,
+        0.2611,
+        0.3076,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "好让我也去拜他。」"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P004_F4",
+      "box": [
+        0,
+        0.5938,
+        1,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "（博士们离开王宫，又看见了那颗星；希律的笑容不见了。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P004_B001",
+      "panel": "MATTHEW_02_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0031,
+        0.34,
+        0.031
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p4.b1"
+    },
+    {
+      "id": "MATTHEW_02_P004_B002",
+      "panel": "MATTHEW_02_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3565,
+        0.2644,
+        0.2742,
+        0.0395
+      ],
+      "tail": [
+        0.4936,
+        0.3368
+      ],
+      "text_key": "matthew.2.p4.b2"
+    },
+    {
+      "id": "MATTHEW_02_P004_B003",
+      "panel": "MATTHEW_02_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.7047,
+        0.5378,
+        0.2829,
+        0.0461
+      ],
+      "tail": [
+        0.8462,
+        0.5905
+      ],
+      "text_key": "matthew.2.p4.b3"
+    }
+  ]
+}

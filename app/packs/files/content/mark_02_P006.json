@@ -1,0 +1,97 @@
+{
+  "id": "MARK_02_P006",
+  "book": "mark",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_02_P006",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_02_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.342
+      ],
+      "alt": {
+        "zh-CN": "耶稣在利未家里和许多税吏、罪人一同吃饭，满院欢笑。"
+      }
+    },
+    {
+      "id": "MARK_02_P006_F2",
+      "box": [
+        0,
+        0.345,
+        0.346,
+        0.296
+      ],
+      "alt": {
+        "zh-CN": "两只不同的手在桌上传递掰开的饼。"
+      }
+    },
+    {
+      "id": "MARK_02_P006_F3",
+      "box": [
+        0.351,
+        0.345,
+        0.649,
+        0.296
+      ],
+      "alt": {
+        "zh-CN": "西门把门外犹豫的人拉进院子。"
+      }
+    },
+    {
+      "id": "MARK_02_P006_F4",
+      "box": [
+        0,
+        0.645,
+        1,
+        0.355
+      ],
+      "alt": {
+        "zh-CN": "两个文士站在门外的街上，冷冷地看着院里的筵席。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_02_P006_B001",
+      "panel": "MARK_02_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0,
+        0.236,
+        0.76,
+        0.102
+      ],
+      "tail": null,
+      "text_key": "mark.2.p6.b1"
+    },
+    {
+      "id": "MARK_02_P006_B002",
+      "panel": "MARK_02_P006_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.9432,
+        0.38,
+        0.0461
+      ],
+      "tail": null,
+      "text_key": "mark.2.p6.b2"
+    }
+  ]
+}

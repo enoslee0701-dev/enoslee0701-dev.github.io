@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_06_P012",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 12,
+  "ref": "6:31-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P012_F1",
+      "box": [
+        0.0068,
+        0,
+        0.9932,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "所以，不要忧虑说：吃什么？喝什么？穿什么？"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P012_F2",
+      "box": [
+        0.0068,
+        0.2493,
+        0.4932,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "你们需要的这一切，你们的天父是知道的。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P012_F3",
+      "box": [
+        0.5059,
+        0.2493,
+        0.4941,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "你们要先求他的国和他的义，这些东西都会加给你们。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P012_F4",
+      "box": [
+        0.0068,
+        0.5918,
+        0.9932,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "所以，不要为明天忧虑，因为明天自有明天的忧虑；一天的难处一天担当就够了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P012_B001",
+      "panel": "MATTHEW_06_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5829,
+        0.0073,
+        0.3873,
+        0.0538
+      ],
+      "tail": [
+        0.7766,
+        0.0856
+      ],
+      "text_key": "matthew.6.p12.b1"
+    },
+    {
+      "id": "MATTHEW_06_P012_B002",
+      "panel": "MATTHEW_06_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0167,
+        0.2594,
+        0.1775,
+        0.054
+      ],
+      "tail": [
+        0.1054,
+        0.3472
+      ],
+      "text_key": "matthew.6.p12.b2"
+    },
+    {
+      "id": "MATTHEW_06_P012_B003",
+      "panel": "MATTHEW_06_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8122,
+        0.2561,
+        0.1778,
+        0.0337
+      ],
+      "tail": [
+        0.9011,
+        0.3236
+      ],
+      "text_key": "matthew.6.p12.b3"
+    },
+    {
+      "id": "MATTHEW_06_P012_B004",
+      "panel": "MATTHEW_06_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5034,
+        0.604,
+        0.4668,
+        0.0571
+      ],
+      "tail": [
+        0.7368,
+        0.7019
+      ],
+      "text_key": "matthew.6.p12.b4"
+    }
+  ]
+}

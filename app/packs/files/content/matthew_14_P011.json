@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_14_P011",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 11,
+  "ref": "14:28-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P011_F1",
+      "box": [
+        0,
+        0,
+        0.6484,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "彼得说：「主，如果是你，请叫我从水面上走到你那里。」"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P011_F2",
+      "box": [
+        0.6543,
+        0,
+        0.3457,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「来吧！」"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P011_F3",
+      "box": [
+        0,
+        0.2995,
+        1,
+        0.3815
+      ],
+      "alt": {
+        "zh-CN": "彼得就从船上下去，在水面上走，往耶稣那里去；"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P011_F4",
+      "box": [
+        0,
+        0.6849,
+        1,
+        0.3151
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P011_B001",
+      "panel": "MATTHEW_14_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3112,
+        0.003,
+        0.3242,
+        0.0385
+      ],
+      "tail": [
+        0.4733,
+        0.0711
+      ],
+      "text_key": "matthew.14.p11.b1"
+    },
+    {
+      "id": "MATTHEW_14_P011_B002",
+      "panel": "MATTHEW_14_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6681,
+        0.003,
+        0.318,
+        0.0236
+      ],
+      "tail": [
+        0.8271,
+        0.0562
+      ],
+      "text_key": "matthew.14.p11.b2"
+    },
+    {
+      "id": "MATTHEW_14_P011_B003",
+      "panel": "MATTHEW_14_P011_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7,
+        0.3033,
+        0.28,
+        0.0381
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p11.b3"
+    }
+  ]
+}

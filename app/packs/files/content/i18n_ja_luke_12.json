@@ -1,0 +1,542 @@
+{
+  "luke.12.p1.b1": {
+    "text": "その間に、おびただしい群衆が、互に踏み合うほどに群がってきた",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p1.b2": {
+    "text": "パリサイ人のパン種、すなわち彼らの偽善に気をつけなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p1.b3": {
+    "text": "密室で耳にささやいたことは、屋根の上で言いひろめられるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p2.b1": {
+    "text": "そこでわたしの友であるあなたがたに言うが、からだを殺しても、そのあとでそれ以上なにもできない者どもを恐れるな。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p2.b2": {
+    "text": "五羽のすずめは二アサリオンで売られているではないか。しかも、その一羽も神のみまえで忘れられてはいない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p2.b3": {
+    "text": "その上、あなたがたの頭の毛までも、みな数えられている。恐れることはない。あなたがたは多くのすずめよりも、まさった者である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p3.b1": {
+    "text": "だれでも人の前でわたしを受けいれる者を、人の子も神の使たちの前で受けいれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p3.b2": {
+    "text": "あなたがたが会堂や役人や高官の前へひっぱられて行った場合には、何をどう弁明しようか、何を言おうかと心配しないがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p3.b3": {
+    "text": "言うべきことは、聖霊がその時に教えてくださるからである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p4.b1": {
+    "text": "先生、わたしの兄弟に、遺産を分けてくれるようにおっしゃってください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p4.b2": {
+    "text": "人よ、だれがわたしをあなたがたの裁判人または分配人に立てたのか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p4.b3": {
+    "text": "あらゆる貪欲に対してよくよく警戒しなさい。たといたくさんの物を持っていても、人のいのちは、持ち物にはよらないのである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p5.b1": {
+    "text": "ある金持の畑が豊作であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p5.b2": {
+    "text": "どうしようか、わたしの作物をしまっておく所がないのだが",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p5.b3": {
+    "text": "こうしよう。わたしの倉を取りこわし、もっと大きいのを建てて、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p5.b4": {
+    "text": "たましいよ、おまえには長年分の食糧がたくさんたくわえてある。さあ安心せよ、食え、飲め、楽しめ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p6.b1": {
+    "text": "愚かな者よ、あなたの魂は今夜のうちにも取り去られるであろう。そしたら、あなたが用意した物は、だれのものになるのか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p6.b2": {
+    "text": "自分のために宝を積んで神に対して富まない者は、これと同じである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p7.b1": {
+    "text": "それだから、あなたがたに言っておく。何を食べようかと、命のことで思いわずらい、何を着ようかとからだのことで思いわずらうな。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p7.b2": {
+    "text": "からすのことを考えて見よ。まくことも、刈ることもせず、また、納屋もなく倉もない。それだのに、神は彼らを養っていて下さる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p7.b3": {
+    "text": "あなたがたのうち、だれが思いわずらったからとて、自分の寿命をわずかでも延ばすことができようか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p8.b1": {
+    "text": "野の花のことを考えて見るがよい。紡ぎもせず、織りもしない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p8.b2": {
+    "text": "栄華をきわめた時のソロモンでさえ、この花の一つほどにも着飾ってはいなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p8.b3": {
+    "text": "きょうは野にあって、あすは炉に投げ入れられる草でさえ、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p8.b4": {
+    "text": "ただ、御国を求めなさい。そうすれば、これらのものは添えて与えられるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p9.b1": {
+    "text": "恐れるな、小さい群れよ。御国を下さることは、あなたがたの父のみこころなのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p9.b2": {
+    "text": "自分の持ち物を売って、施しなさい。自分のために古びることのない財布をつくり、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p9.b3": {
+    "text": "あなたがたの宝のある所には、心もあるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p10.b1": {
+    "text": "腰に帯をしめ、あかりをともしていなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p10.b2": {
+    "text": "主人が婚宴から帰ってきて戸をたたくとき、すぐあけてあげようと待っている人のようにしていなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p10.b3": {
+    "text": "よく言っておく。主人が帯をしめて僕たちを食卓につかせ、進み寄って給仕をしてくれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p11.b1": {
+    "text": "家の主人は、盗賊がいつごろ来るかわかっているなら、自分の家に押し入らせはしないであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p11.b2": {
+    "text": "あなたがたも用意していなさい。思いがけない時に人の子が来るからである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p12.b1": {
+    "text": "主よ、この譬を話しておられるのはわたしたちのためなのですか。それとも、みんなの者のためなのですか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p12.b2": {
+    "text": "主人が、召使たちの上に立てて、時に応じて定めの食事をそなえさせる忠実な思慮深い家令は、いったいだれであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p12.b3": {
+    "text": "主人が帰ってきたとき、そのようにつとめているのを見られる僕は、さいわいである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p12.b4": {
+    "text": "よく言っておくが、主人はその僕を立てて自分の全財産を管理させるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p13.b1": {
+    "text": "主人の帰りがおそい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p13.b2": {
+    "text": "……男女の召使たちを打ちたたき、そして食べたり、飲んだりして酔いはじめる",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p13.b3": {
+    "text": "その僕の主人は思いがけない日、気がつかない時に帰って来るであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p13.b4": {
+    "text": "多く与えられた者からは多く求められ、多く任せられた者からは更に多く要求されるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p14.b1": {
+    "text": "わたしは、火を地上に投じるためにきたのだ。火がすでに燃えていたならと、わたしはどんなに願っていることか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p14.b2": {
+    "text": "しかし、わたしには受けねばならないバプテスマがある。そして、それを受けてしまうまでは、わたしはどんなにか苦しい思いをすることであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p15.b1": {
+    "text": "あなたがたは、わたしが平和をこの地上にもたらすためにきたと思っているのか。あなたがたに言っておく。そうではない。むしろ分裂である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p15.b2": {
+    "text": "というのは、今から後は、一家の内で五人が相分れて、三人はふたりに、ふたりは三人に対立し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p15.b3": {
+    "text": "父は子に、子は父に、母は娘に、娘は母に、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p15.b4": {
+    "text": "しゅうとめは嫁に、嫁はしゅうとめに、対立するであろう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p16.b1": {
+    "text": "あなたがたは、雲が西に起るのを見るとすぐ、にわか雨がやって来る、と言う。果してそのとおりになる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p16.b2": {
+    "text": "それから南風が吹くと、暑つくなるだろう、と言う。果してそのとおりになる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p16.b3": {
+    "text": "偽善者よ、あなたがたは天地の模様を見分けることを知りながら、どうして今の時代を見分けることができないのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p17.b1": {
+    "text": "また、あなたがたは、なぜ正しいことを自分で判断しないのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p17.b2": {
+    "text": "あなたを訴える人と一緒に役人のところへ行くときには、途中でその人と和解するように努めるがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p17.b3": {
+    "text": "その人はあなたを裁判官のところへひっぱって行き、裁判官はあなたを獄吏に引き渡し、獄吏はあなたを獄に投げ込むであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.12.p17.b4": {
+    "text": "わたしは言って置く、最後の一レプタまでも支払ってしまうまでは、決してそこから出て来ることはできない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 12:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

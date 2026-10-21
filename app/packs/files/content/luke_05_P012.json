@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_05_P012",
+  "book": "luke",
+  "chapter": 5,
+  "page": 12,
+  "ref": "5:29-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "利未在自己家里为耶稣大摆筵席，有许多税吏和其他人跟他们一起坐席。"
+      }
+    },
+    {
+      "id": "LUKE_05_P012_F2",
+      "box": [
+        0,
+        0.2507,
+        0.583,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "法利赛人和文士就向耶稣的门徒抱怨说：“你们为什么和税吏、罪人一起吃喝呢？”"
+      }
+    },
+    {
+      "id": "LUKE_05_P012_F3",
+      "box": [
+        0.5908,
+        0.2507,
+        0.4092,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "（耶稣转过脸来。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P012_F4",
+      "box": [
+        0,
+        0.5417,
+        1,
+        0.4583
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：“健康的人用不着医生，有病的人才用得着。我来不是召义人悔改，而是召罪人悔改。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P012_B001",
+      "panel": "LUKE_05_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.58,
+        0.0049,
+        0.34,
+        0.0393
+      ],
+      "tail": null,
+      "text_key": "luke.5.p12.b1"
+    },
+    {
+      "id": "LUKE_05_P012_B002",
+      "panel": "LUKE_05_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1399,
+        0.2536,
+        0.2273,
+        0.0401
+      ],
+      "tail": [
+        0.2536,
+        0.3223
+      ],
+      "text_key": "luke.5.p12.b2"
+    },
+    {
+      "id": "LUKE_05_P012_B003",
+      "panel": "LUKE_05_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.5554,
+        0.26,
+        0.071
+      ],
+      "tail": [
+        0.77,
+        0.6722
+      ],
+      "text_key": "luke.5.p12.b3"
+    },
+    {
+      "id": "LUKE_05_P012_B004",
+      "panel": "LUKE_05_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.6357,
+        0.26,
+        0.071
+      ],
+      "tail": [
+        0.77,
+        0.7525
+      ],
+      "text_key": "luke.5.p12.b4"
+    }
+  ]
+}

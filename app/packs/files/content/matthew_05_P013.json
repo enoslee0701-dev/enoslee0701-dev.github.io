@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_05_P013",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 13,
+  "ref": "5:38-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P013_F1",
+      "box": [
+        0.0078,
+        0,
+        0.5137,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "你们听过有话说：『以眼还眼，以牙还牙。』"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P013_F2",
+      "box": [
+        0.5283,
+        0,
+        0.4648,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "但我告诉你们，不要与恶人对抗。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P013_F3",
+      "box": [
+        0.0078,
+        0.2708,
+        0.9854,
+        0.4486
+      ],
+      "alt": {
+        "zh-CN": "有人打你的右脸，连左脸也转过来让他打；"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P013_F4",
+      "box": [
+        0.0078,
+        0.7227,
+        0.9854,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "有人想告你，要拿你的内衣，连外衣也让他拿去；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P013_B001",
+      "panel": "MATTHEW_05_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0335,
+        0.0054,
+        0.4623,
+        0.0429
+      ],
+      "tail": [
+        0.2647,
+        0.0751
+      ],
+      "text_key": "matthew.5.p13.b1"
+    },
+    {
+      "id": "MATTHEW_05_P013_B002",
+      "panel": "MATTHEW_05_P013_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7886,
+        0.0054,
+        0.1952,
+        0.0482
+      ],
+      "tail": [
+        0.8862,
+        0.0804
+      ],
+      "text_key": "matthew.5.p13.b2"
+    },
+    {
+      "id": "MATTHEW_05_P013_B003",
+      "panel": "MATTHEW_05_P013_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.402,
+        0.2798,
+        0.266,
+        0.0538
+      ],
+      "tail": [
+        0.535,
+        0.3785
+      ],
+      "text_key": "matthew.5.p13.b3"
+    },
+    {
+      "id": "MATTHEW_05_P013_B004",
+      "panel": "MATTHEW_05_P013_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0177,
+        0.731,
+        0.1576,
+        0.0776
+      ],
+      "tail": [
+        0.0965,
+        0.8363
+      ],
+      "text_key": "matthew.5.p13.b4"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "luke.17.p1.b1": {
+    "text": "พระเยซู​พูด​กับ​พวก​สาวก​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p1.b2": {
+    "text": "เอา​หิน​โม่​ผูก​รอบ​คอ​พวก​เขา​โยน​ลง​ทะเล ยัง​ดี​กว่า​ปล่อย​เขา​ทำ​ให้​คน​เล็ก​น้อย​เหล่า​นี้​สัก​คน​หนึ่ง​ทำ​บาป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p1.b3": {
+    "text": "จง​ระวัง​ตัว​ให้​ดี” “ถ้า​พี่​น้อง ทำ​ผิด จง​ตักเตือน​พวก​เขา และ​ถ้า​เขา​กลับ​ใจ​ก็​จง​ยก​โทษ​ให้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p1.b4": {
+    "text": "แม้​พวก​เขา​ทำ​ผิด​ต่อ​เจ้า​ถึง​เจ็ด​ครั้ง​ใน​วัน​เดียว และ​ทั้ง​เจ็ด​ครั้ง​ก็​กลับ​มา​หา​พูด​ว่า ‘ฉัน​กลับ​ใจ​แล้ว’ ก็​จง​ยก​โทษ​ให้”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p2.b1": {
+    "text": "“ขอ​เพิ่ม​ความ​เชื่อ​ให้​พวก​เรา​ด้วย”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p2.b2": {
+    "text": "“ถ้า​เจ้า​มี​ความ​เชื่อ​เพียง​เล็ก​น้อย​เท่า​เมล็ด​มัสตาร์ด​ก็​สามารถ​สั่ง​ต้น​หม่อน​ต้น​นี้​ว่า ‘จง​ถอน​ราก​ไป​ปลูก​ใน​ทะเล’ ต้น​หม่อน​ก็​จะ​เชื่อฟัง​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p2.b3": {
+    "text": "หรือ​น่า​จะ​พูด​ว่า ‘เตรียม​อาหาร​เย็น​ให้​เรา เตรียม​ตัว​ให้​พร้อม​จะ​รับใช้​ขณะ​ที่​เรา​กิน​และ​ดื่ม เมื่อ​เสร็จ​แล้ว​เจ้า​ค่อย​ไป​กิน’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p2.b4": {
+    "text": "ฉะนั้น เมื่อ​ทำ​ทุก​อย่าง​ตาม​คำ​สั่ง​แล้ว ก็​ควร​พูด​ว่า ‘เรา​เป็น​คน​รับใช้​ที่​ไร้​ค่า เรา​เพียง​ทำ​หน้าที่​ของ​เรา​เท่านั้น’ ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p3.b1": {
+    "text": "ระหว่าง​ทาง​ไป​เยรูซาเล็ม พระเยซู​เดินทาง​เลียบ​เขต​แดน​ระหว่าง​แคว้น​สะมาเรีย​กับ​กาลิลี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p3.b2": {
+    "text": "ขณะ​ที่​เข้า​ไป​ใน​หมู่บ้าน​หนึ่ง มี​ชาย​โรค​เรื้อน​สิบ​คน​มา​พบ​พระองค์ แต่​ยืน​อยู่​ห่าง​ๆ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p3.b3": {
+    "text": "“พระเยซู ท่าน​อาจารย์ สงสาร​เรา​เถิด!”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p4.b1": {
+    "text": "“จง​ไป​แสดง​ตัว​กับ​พวก​ปุโรหิต”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p4.b2": {
+    "text": "และ​ขณะ​ที่​เดิน​ไป พวก​เขา​ก็​หาย​จาก​โรค",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p5.b1": {
+    "text": "เมื่อ​เห็น​ว่า​ตน​หาย​ดี​แล้ว คน​หนึ่ง​ก็​กลับ​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p5.b2": {
+    "text": "ร้อง​สรรเสริญ​พระเจ้า​เสียง​ดัง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p5.b3": {
+    "text": "เขา​ทิ้ง​ตัว​ลง​แทบ​เท้า​ของ​พระเยซู​และ​ขอบคุณ​พระองค์ เขา​เป็น​ชาว​สะมาเรีย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p6.b1": {
+    "text": "“มี​สิบ​คน​หาย​โรค​ไม่​ใช่​หรือ อีก​เก้า​คน​อยู่​ที่ไหน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p6.b2": {
+    "text": "ไม่​มี​ใคร​กลับ​มา​สรรเสริญ​พระเจ้า นอก​จาก​คน​ต่าง​ชาติ​คน​นี้​หรือ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p6.b3": {
+    "text": "“ลุก​ขึ้น​และ​ไป​เถอะ ความ​เชื่อ​ของ​เจ้า​ทำ​ให้​เจ้า​หาย​ดี”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p7.b1": {
+    "text": "อาณาจักร​ของ​พระเจ้า​จะ​มา​ถึง​เมื่อไหร่",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p7.b2": {
+    "text": "“อาณาจักร​ของ​พระเจ้า​ไม่​ได้​มา​อย่าง​สิ่ง​ที่​สังเกต​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p7.b3": {
+    "text": "ผู้​คน​จะ​ไม่​พูด​ว่า ‘อาณาจักร​อยู่​ที่​นี่’ หรือ ‘อยู่​ที่​นั่น’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p7.b4": {
+    "text": "เพราะ​อาณาจักร​ของ​พระเจ้า​อยู่​ท่ามกลางพวก​ท่าน”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p8.b1": {
+    "text": "“เวลา​นั้น​จะ​มา​ถึง​เมื่อ​เจ้า​อยาก​เห็น​แค่​วัน​หนึ่ง​ของ​บุตร​มนุษย์ แต่​ก็​จะ​ไม่​ได้​เห็น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p8.b2": {
+    "text": "ผู้​คน​จะ​บอก​ว่า ‘พระองค์​อยู่​ที่​นั่น’ หรือ ‘อยู่​ที่​นี่’ อย่า​ไป​วิ่ง​ตาม​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p8.b3": {
+    "text": "เพราะ​ใน​วัน​ของ​พระองค์ บุตร​มนุษย์​จะ​เป็น​เหมือน​สาย​ฟ้าแลบ​ที่​ส่อง​แสง​วาบ สว่าง​จาก​ขอบ​ฟ้า​ด้าน​หนึ่ง​จด​อีก​ด้าน​หนึ่ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p8.b4": {
+    "text": "แต่​ก่อน​หน้า​นั้น พระองค์​ต้อง​ทน​ทุกข์​หลาย​อย่าง​และ​ถูก​คน​ยุค​นี้​ปฏิเสธ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p9.b1": {
+    "text": "ใน​สมัย​โนอาห์​เป็น​อย่างไร สมัย​ของ​บุตร​มนุษย์​ก็​จะ​เป็น​อย่าง​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p9.b2": {
+    "text": "ผู้​คน​กิน​ดื่ม แต่งงาน และ​ต่าง​ยก​ให้​เป็น​สามี​ภรรยา​กัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p9.b3": {
+    "text": "จน​ถึง​วัน​ที่​โนอาห์​เข้า​ใน​เรือ แล้ว​น้ำ​ก็​ท่วม​ทำลาย​เขา​หมด​ทุก​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p10.b1": {
+    "text": "ใน​สมัย​โลท​ก็​เหมือน​กัน ผู้​คน​ต่าง​กิน​ดื่ม ซื้อ​ขาย เพาะ​ปลูก ก่อ​สร้าง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p10.b2": {
+    "text": "แต่​ใน​วัน​ที่​โลท​ออก​จาก​เมือง​โสโดม แล้ว​ไฟ​กำมะถัน​จาก​ฟ้า​ก็​เท​ลง​มา ทำลาย​เขา​หมด​ทุก​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p10.b3": {
+    "text": "จะ​เป็น​เช่น​นี้​แหละ​ใน​วัน​ที่​บุตร​มนุษย์​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p11.b1": {
+    "text": "ใน​วัน​นั้น​อย่า​ให้​ใคร​ที่​อยู่​บน​ดาดฟ้า​ลง​มา​เก็บ​ข้าว​ของ​ใน​บ้าน คน​ที่​อยู่​ตาม​ทุ่ง​นา​ก็​เช่น​กัน ไม่​ควร​กลับ​ไป​เอา​สิ่ง​ใด​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p11.b2": {
+    "text": "จง​จำ​ภรรยา​ของ​โลท​ไว้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p11.b3": {
+    "text": "ใคร​พยายาม​รักษา​ชีวิต​จะ​เสีย​ชีวิต แต่​ใคร​สละ​ชีวิต​ของ​ตน​จะ​ถนอม​ชีวิต​ไว้​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p12.b1": {
+    "text": "เรา​บอก​ว่า ใน​คืน​นั้น คน​สอง​คน​นอน​ร่วม​เตียง​กัน คน​หนึ่ง​จะ​ถูก​รับ​ไป และ​อีก​คน​จะ​ถูก​ทิ้ง​ไว้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p12.b2": {
+    "text": "หญิง​สอง​คน​โม่​แป้ง​อยู่​ด้วย​กัน คน​หนึ่ง​จะ​ถูก​รับ​ไป และ​อีก​คน​จะ​ถูก​ทิ้ง​ไว้”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p13.b1": {
+    "text": "“ที่​ไหน องค์​พระผู้เป็นเจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.17.p13.b2": {
+    "text": "“ซาก​ศพ​อยู่​ที่​ไหน ฝูง​แร้ง​จะ​รุม​อยู่​ที่​นั่น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 17:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

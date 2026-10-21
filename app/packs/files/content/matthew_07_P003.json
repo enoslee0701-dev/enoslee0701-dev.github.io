@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_07_P003",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P003_F1",
+      "box": [
+        0.0078,
+        0,
+        0.9844,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "你们祈求，就会得到；寻找，就会找到；敲门，就会给你们开门。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P003_F2",
+      "box": [
+        0.4375,
+        0.2409,
+        0.5547,
+        0.1595
+      ],
+      "alt": {
+        "zh-CN": "因为凡祈求的，就得到；寻找的，就找到；"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P003_F3",
+      "box": [
+        0.0078,
+        0.306,
+        0.9844,
+        0.4043
+      ],
+      "alt": {
+        "zh-CN": "敲门的，就给他开门。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P003_F4",
+      "box": [
+        0.0078,
+        0.7135,
+        0.9844,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "（农夫看看自己粗大的手，抬起脸笑了。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P003_B001",
+      "panel": "MATTHEW_07_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5788,
+        0.0091,
+        0.3839,
+        0.0604
+      ],
+      "tail": [
+        0.7708,
+        0.0997
+      ],
+      "text_key": "matthew.7.p3.b1"
+    },
+    {
+      "id": "MATTHEW_07_P003_B002",
+      "panel": "MATTHEW_07_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.44,
+        0.193,
+        0.33,
+        0.0255
+      ],
+      "tail": [
+        0.5539,
+        0.2856
+      ],
+      "text_key": "matthew.7.p3.b2"
+    },
+    {
+      "id": "MATTHEW_07_P003_B003",
+      "panel": "MATTHEW_07_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.687,
+        0.4111,
+        0.2854,
+        0.0566
+      ],
+      "tail": [
+        0.8297,
+        0.5081
+      ],
+      "text_key": "matthew.7.p3.b3"
+    }
+  ]
+}

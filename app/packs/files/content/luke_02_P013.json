@@ -1,0 +1,109 @@
+{
+  "id": "LUKE_02_P013",
+  "book": "luke",
+  "chapter": 2,
+  "page": 13,
+  "ref": "2:36-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "还有一位女先知，名叫亚拿，是亚设支派法内力的女儿，年纪已经很老了，"
+      }
+    },
+    {
+      "id": "LUKE_02_P013_F2",
+      "box": [
+        0,
+        0.2389,
+        0.5615,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "她已经八十四岁，从不离开圣殿，禁食祷告，日夜事奉神。"
+      }
+    },
+    {
+      "id": "LUKE_02_P013_F3",
+      "box": [
+        0.5693,
+        0.2389,
+        0.4307,
+        0.2773
+      ]
+    },
+    {
+      "id": "LUKE_02_P013_F4",
+      "box": [
+        0,
+        0.5208,
+        1,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "就在那时，她上前来感谢神，把这孩子的事讲给所有盼望耶路撒冷得救赎的人听。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P013_B001",
+      "panel": "LUKE_02_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0094,
+        0.5,
+        0.0705
+      ],
+      "tail": null,
+      "text_key": "luke.2.p13.b1"
+    },
+    {
+      "id": "LUKE_02_P013_B002",
+      "panel": "LUKE_02_P013_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.38,
+        0.55,
+        0.0887
+      ],
+      "tail": null,
+      "text_key": "luke.2.p13.b2"
+    },
+    {
+      "id": "LUKE_02_P013_B003",
+      "panel": "LUKE_02_P013_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.8,
+        0.6,
+        0.0766
+      ],
+      "tail": null,
+      "text_key": "luke.2.p13.b3"
+    }
+  ]
+}

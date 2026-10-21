@@ -1,0 +1,100 @@
+{
+  "id": "MATTHEW_28_P009",
+  "book": "matthew",
+  "chapter": 28,
+  "page": 9,
+  "ref": "28:20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_28_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_28_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.207
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P009_F2",
+      "box": [
+        0,
+        0.2096,
+        1,
+        0.4941
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P009_F3",
+      "box": [
+        0,
+        0.7077,
+        1,
+        0.2923
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_28_P009_B001",
+      "panel": "MATTHEW_28_P009_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.02,
+        0.0041,
+        0.26,
+        0.0579
+      ],
+      "tail": [
+        0.15,
+        0.0827
+      ],
+      "text_key": "matthew.28.p9.b1"
+    },
+    {
+      "id": "MATTHEW_28_P009_B002",
+      "panel": "MATTHEW_28_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.6,
+        0.2195,
+        0.38,
+        0.0444
+      ],
+      "tail": [
+        0.79,
+        0.3133
+      ],
+      "text_key": "matthew.28.p9.b2"
+    },
+    {
+      "id": "MATTHEW_28_P009_B003",
+      "panel": "MATTHEW_28_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.2,
+        0.7252,
+        0.6,
+        0.0526
+      ],
+      "tail": [
+        0.5,
+        0.807
+      ],
+      "text_key": "matthew.28.p9.b3"
+    }
+  ]
+}

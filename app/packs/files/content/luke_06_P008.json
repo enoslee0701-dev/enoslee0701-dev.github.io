@@ -1,0 +1,133 @@
+{
+  "id": "LUKE_06_P008",
+  "book": "luke",
+  "chapter": 6,
+  "page": 8,
+  "ref": "6:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5078
+      ],
+      "alt": {
+        "zh-CN": "耶稣抬眼看着门徒，说：“你们贫穷的人有福了！因为上帝的国是你们的。"
+      }
+    },
+    {
+      "id": "LUKE_06_P008_F2",
+      "box": [
+        0,
+        0.5143,
+        0.3311,
+        0.4857
+      ]
+    },
+    {
+      "id": "LUKE_06_P008_F3",
+      "box": [
+        0.3408,
+        0.5143,
+        0.3223,
+        0.4857
+      ],
+      "alt": {
+        "zh-CN": "你们现在饥饿的人有福了！因为你们将要饱足。"
+      }
+    },
+    {
+      "id": "LUKE_06_P008_F4",
+      "box": [
+        0.6729,
+        0.5143,
+        0.3271,
+        0.4857
+      ],
+      "alt": {
+        "zh-CN": "你们现在哭泣的人有福了！因为你们将要欢笑。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P008_B001",
+      "panel": "LUKE_06_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.0102,
+        0.52,
+        0.0355
+      ],
+      "tail": null,
+      "text_key": "luke.6.p8.b1"
+    },
+    {
+      "id": "LUKE_06_P008_B002",
+      "panel": "LUKE_06_P008_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0508,
+        0.47,
+        0.0914
+      ],
+      "tail": [
+        0.735,
+        0.193
+      ],
+      "text_key": "luke.6.p8.b2"
+    },
+    {
+      "id": "LUKE_06_P008_B003",
+      "panel": "LUKE_06_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3569,
+        0.9271,
+        0.29,
+        0.0631
+      ],
+      "tail": [
+        0.3408,
+        1
+      ],
+      "text_key": "luke.6.p8.b3"
+    },
+    {
+      "id": "LUKE_06_P008_B004",
+      "panel": "LUKE_06_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6893,
+        0.8931,
+        0.2943,
+        0.0874
+      ],
+      "tail": [
+        0.6729,
+        1
+      ],
+      "text_key": "luke.6.p8.b4"
+    }
+  ]
+}

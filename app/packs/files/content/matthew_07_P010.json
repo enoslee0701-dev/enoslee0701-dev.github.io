@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_07_P010",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 10,
+  "ref": "7:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2083
+      ],
+      "alt": {
+        "zh-CN": "凡听见我这些话却不去实行的，就像一个愚蠢的人，把房子盖在沙土上；"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P010_F2",
+      "box": [
+        0,
+        0.2122,
+        1,
+        0.1582
+      ],
+      "alt": {
+        "zh-CN": "雨打下来，洪水冲过来，大风吹过来，撞击那房子，"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P010_F3",
+      "box": [
+        0,
+        0.3743,
+        1,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "房子就倒塌了，而且倒塌得非常厉害。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P010_F4",
+      "box": [
+        0,
+        0.737,
+        1,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "（农夫把放在草里的短锄拿了起来。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P010_B001",
+      "panel": "MATTHEW_07_P010_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.05,
+        0.28,
+        0.0458
+      ],
+      "tail": [
+        0.16,
+        0.0728
+      ],
+      "text_key": "matthew.7.p10.b1"
+    },
+    {
+      "id": "MATTHEW_07_P010_B002",
+      "panel": "MATTHEW_07_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.31,
+        0.214,
+        0.44,
+        0.0395
+      ],
+      "tail": [
+        0.56,
+        0.2722
+      ],
+      "text_key": "matthew.7.p10.b2"
+    },
+    {
+      "id": "MATTHEW_07_P010_B003",
+      "panel": "MATTHEW_07_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.3815,
+        0.34,
+        0.0573
+      ],
+      "tail": [
+        0.19,
+        0.4747
+      ],
+      "text_key": "matthew.7.p10.b3"
+    }
+  ]
+}

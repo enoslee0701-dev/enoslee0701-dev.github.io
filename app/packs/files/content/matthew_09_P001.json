@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_09_P001",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 1,
+  "ref": "9:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1882
+      ],
+      "alt": {
+        "zh-CN": "耶稣上了船，渡过湖，回到自己住的城里。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P001_F2",
+      "box": [
+        0,
+        0.1927,
+        0.624,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "有人用褥子抬着一个瘫痪的人来到耶稣面前。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P001_F3",
+      "box": [
+        0.6318,
+        0.1927,
+        0.3682,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "耶稣看见他们的信心，就对瘫痪的人说："
+      }
+    },
+    {
+      "id": "MATTHEW_09_P001_F4",
+      "box": [
+        0,
+        0.5716,
+        1,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "孩子，放心吧！你的罪被赦免了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P001_B001",
+      "panel": "MATTHEW_09_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0056,
+        0.4,
+        0.0338
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p1.b1"
+    },
+    {
+      "id": "MATTHEW_09_P001_B002",
+      "panel": "MATTHEW_09_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2434,
+        0.1964,
+        0.262,
+        0.0449
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p1.b2"
+    },
+    {
+      "id": "MATTHEW_09_P001_B003",
+      "panel": "MATTHEW_09_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6502,
+        0.4622,
+        0.3313,
+        0.0935
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p1.b3"
+    },
+    {
+      "id": "MATTHEW_09_P001_B004",
+      "panel": "MATTHEW_09_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.5845,
+        0.26,
+        0.0728
+      ],
+      "tail": [
+        0.6,
+        0.7001
+      ],
+      "text_key": "matthew.9.p1.b4"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "matthew.25.p1.b1": {
+    "text": "そこで天国は、十人のおとめがそれぞれあかりを手にして、花婿を迎えに出て行くのに似ている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p1.b2": {
+    "text": "思慮の浅い者たちは、あかりは持っていたが、油を用意していなかった。 しかし、思慮深い者たちは、自分たちのあかりと一緒に、入れものの中に油を用意していた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:3-4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p1.b3": {
+    "text": "花婿の来るのがおくれたので、彼らはみな居眠りをして、寝てしまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p1.b4": {
+    "text": "さあ、花婿だ、迎えに出なさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p2.b1": {
+    "text": "そのとき、おとめたちはみな起きて、それぞれあかりを整えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p2.b2": {
+    "text": "あなたがたの油をわたしたちにわけてください。わたしたちのあかりが消えかかっていますから",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p2.b3": {
+    "text": "わたしたちとあなたがたとに足りるだけは、多分ないでしょう。店に行って、あなたがたの分をお買いになる方がよいでしょう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p3.b1": {
+    "text": "彼らが買いに出ているうちに、花婿が着いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p3.b2": {
+    "text": "そこで、用意のできていた女たちは、花婿と一緒に婚宴のへやにはいり、そして戸がしめられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p3.b3": {
+    "text": "ご主人様、ご主人様、どうぞ、あけてください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p3.b4": {
+    "text": "はっきり言うが、わたしはあなたがたを知らない",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p4.b1": {
+    "text": "だから、目をさましていなさい。その日その時が、あなたがたにはわからないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p4.b2": {
+    "text": "また天国は、ある人が旅に出るとき、その僕どもを呼んで、自分の財産を預けるようなものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p4.b3": {
+    "text": "それぞれの能力に応じて、ある者には五タラント、ある者には二タラント、ある者には一タラントを与えて",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p4.b4": {
+    "text": "旅に出た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p5.b1": {
+    "text": "五タラントを渡された者は、すぐに行って、それで商売をして、ほかに五タラントをもうけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p5.b2": {
+    "text": "二タラントの者も同様にして、ほかに二タラントをもうけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p5.b3": {
+    "text": "しかし、一タラントを渡された者は、行って地を掘り、主人の金を隠しておいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p6.b1": {
+    "text": "だいぶ時がたってから、これらの僕の主人が帰ってきて、彼らと計算をしはじめた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p6.b2": {
+    "text": "ご主人様、あなたはわたしに五タラントをお預けになりましたが、ごらんのとおり、ほかに五タラントをもうけました",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p6.b3": {
+    "text": "良い忠実な僕よ、よくやった。あなたはわずかなものに忠実であったから、多くのものを管理させよう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p6.b4": {
+    "text": "主人と一緒に喜んでくれ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p7.b1": {
+    "text": "二タラントの者も進み出て言った",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p7.b2": {
+    "text": "ご主人様、あなたはわたしに二タラントをお預けになりましたが、ごらんのとおり、ほかに二タラントをもうけました",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p7.b3": {
+    "text": "良い忠実な僕よ、よくやった。あなたはわずかなものに忠実であったから、多くのものを管理させよう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p7.b4": {
+    "text": "主人と一緒に喜んでくれ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p8.b1": {
+    "text": "ご主人様、わたしはあなたが、まかない所から刈り、散らさない所から集める酷な人であることを承知していました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p8.b2": {
+    "text": "そこで恐ろしさのあまり、行って、あなたのタラントを地の中に隠しておきました。ごらんください。ここにあなたのお金がございます』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p8.b3": {
+    "text": "悪い怠惰な僕よ……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p8.b4": {
+    "text": "それなら、わたしの金を銀行に預けておくべきであった。そうしたら、わたしは帰ってきて、利子と一緒にわたしの金を返してもらえたであろうに。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p9.b1": {
+    "text": "さあ、そのタラントをこの者から取りあげて、十タラントを持っている者にやりなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p9.b2": {
+    "text": "おおよそ、持っている人は与えられて、いよいよ豊かになるが、持っていない人は、持っているものまでも取り上げられるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p9.b3": {
+    "text": "この役に立たない僕を外の暗い所に追い出すがよい。彼は、そこで泣き叫んだり、歯がみをしたりするであろう』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p10.b1": {
+    "text": "人の子が栄光の中にすべての御使たちを従えて来るとき……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p10.b2": {
+    "text": "すべての国民をその前に集めて",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p10.b3": {
+    "text": "羊飼が羊とやぎとを分けるように、彼らをより分け",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p10.b4": {
+    "text": "羊を右に、やぎを左におくであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p11.b1": {
+    "text": "わたしの父に祝福された人たちよ、さあ、世の初めからあなたがたのために用意されている御国を受けつぎなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p11.b2": {
+    "text": "あなたがたは、わたしが空腹のときに食べさせ、かわいていたときに飲ませ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p11.b3": {
+    "text": "旅人であったときに宿を貸し",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p11.b4": {
+    "text": "裸であったときに着せ、病気のときに見舞い、獄にいたときに尋ねてくれたからである』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p12.b1": {
+    "text": "主よ、いつ、わたしたちは、あなたが空腹であるのを見て食物をめぐみ、かわいているのを見て飲ませましたか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p12.b2": {
+    "text": "いつあなたが旅人であるのを見て宿を貸し、裸なのを見て着せましたか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p12.b3": {
+    "text": "また、いつあなたが病気をし、獄にいるのを見て、あなたの所に参りましたか』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p13.b1": {
+    "text": "あなたがたによく言っておく。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p13.b2": {
+    "text": "わたしの兄弟であるこれらの最も小さい者のひとりにしたのは",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p13.b3": {
+    "text": "すなわち、わたしにしたのである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p14.b1": {
+    "text": "のろわれた者どもよ、わたしを離れて……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p14.b2": {
+    "text": "あなたがたは、わたしが空腹のときに食べさせず、かわいていたときに飲ませず、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p14.b3": {
+    "text": "旅人であったときに宿を貸さず",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p14.b4": {
+    "text": "裸であったときに着せず、また病気のときや、獄にいたときに、わたしを尋ねてくれなかった",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p15.b1": {
+    "text": "主よ、いつ、あなたが空腹であり、かわいておられ、旅人であり",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p15.b2": {
+    "text": "裸であり、病気であり、獄におられたのを見て、わたしたちはお世話をしませんでしたか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p15.b3": {
+    "text": "あなたがたによく言っておく。これらの最も小さい者のひとりにしなかったのは、すなわち、わたしにしなかったのである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p16.b1": {
+    "text": "そして彼らは永遠の刑罰を受け",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.25.p16.b2": {
+    "text": "正しい者は永遠の生命に入るであろう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 25:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

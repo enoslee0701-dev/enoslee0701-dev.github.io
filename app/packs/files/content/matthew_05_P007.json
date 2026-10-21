@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_05_P007",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 7,
+  "ref": "5:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "不要以为我来是要废掉律法和先知。我来不是要废掉，而是要成全。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P007_F2",
+      "box": [
+        0.0068,
+        0.2396,
+        0.9873,
+        0.1458
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，就算天地都过去了，律法的一点一画也不能废去，全都要成全。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P007_F3",
+      "box": [
+        0.0068,
+        0.39,
+        0.9873,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "我告诉你们，你们的义若不胜过文士和法利赛人的义，绝不能进天国。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P007_F4",
+      "box": [
+        0.0068,
+        0.8112,
+        0.9863,
+        0.1849
+      ],
+      "alt": {
+        "zh-CN": "（现场：他平静地望着那个年轻的文士。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P007_B001",
+      "panel": "MATTHEW_05_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0071,
+        0.42,
+        0.0474
+      ],
+      "tail": [
+        0.76,
+        0.0782
+      ],
+      "text_key": "matthew.5.p7.b1"
+    },
+    {
+      "id": "MATTHEW_05_P007_B002",
+      "panel": "MATTHEW_05_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.53,
+        0.2542,
+        0.44,
+        0.1166
+      ],
+      "tail": [
+        0.7966,
+        0.3854
+      ],
+      "text_key": "matthew.5.p7.b2"
+    },
+    {
+      "id": "MATTHEW_05_P007_B003",
+      "panel": "MATTHEW_05_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0167,
+        0.3983,
+        0.3949,
+        0.05
+      ],
+      "tail": [
+        0.2142,
+        0.49
+      ],
+      "text_key": "matthew.5.p7.b3"
+    }
+  ]
+}

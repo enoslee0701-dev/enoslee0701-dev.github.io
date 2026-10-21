@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_02_P005",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "博士听了王的话就出发了。"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P005_F2",
+      "box": [
+        0,
+        0.2604,
+        0.498,
+        0.3073
+      ],
+      "alt": {
+        "zh-CN": "他们在东方看见的那颗星忽然在前面引路，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P005_F3",
+      "box": [
+        0.5039,
+        0.2604,
+        0.4961,
+        0.3073
+      ],
+      "alt": {
+        "zh-CN": "一直走到小孩子所在的地方，停在那里的上方。"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P005_F4",
+      "box": [
+        0,
+        0.5716,
+        1,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "他们看见那颗星，非常非常欢喜；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P005_B001",
+      "panel": "MATTHEW_02_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.59,
+        0.0051,
+        0.31,
+        0.0307
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p5.b1"
+    },
+    {
+      "id": "MATTHEW_02_P005_B002",
+      "panel": "MATTHEW_02_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0149,
+        0.2665,
+        0.2739,
+        0.046
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p5.b2"
+    },
+    {
+      "id": "MATTHEW_02_P005_B003",
+      "panel": "MATTHEW_02_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5188,
+        0.2665,
+        0.248,
+        0.043
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p5.b3"
+    },
+    {
+      "id": "MATTHEW_02_P005_B004",
+      "panel": "MATTHEW_02_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.578,
+        0.3,
+        0.0342
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p5.b4"
+    }
+  ]
+}

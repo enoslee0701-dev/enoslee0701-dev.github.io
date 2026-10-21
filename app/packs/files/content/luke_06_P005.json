@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_06_P005",
+  "book": "luke",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.205
+      ],
+      "alt": {
+        "zh-CN": "那时，耶稣出去，上山祷告，"
+      }
+    },
+    {
+      "id": "LUKE_06_P005_F2",
+      "box": [
+        0,
+        0.2085,
+        1,
+        0.4393
+      ],
+      "alt": {
+        "zh-CN": "整夜向上帝祷告。"
+      }
+    },
+    {
+      "id": "LUKE_06_P005_F3",
+      "box": [
+        0,
+        0.6504,
+        0.4531,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "到了天亮，"
+      }
+    },
+    {
+      "id": "LUKE_06_P005_F4",
+      "box": [
+        0.458,
+        0.6504,
+        0.542,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "他叫门徒来，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P005_B001",
+      "panel": "LUKE_06_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.0082,
+        0.46,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "luke.6.p5.b1"
+    },
+    {
+      "id": "LUKE_06_P005_B002",
+      "panel": "LUKE_06_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.2261,
+        0.6,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "luke.6.p5.b2"
+    },
+    {
+      "id": "LUKE_06_P005_B003",
+      "panel": "LUKE_06_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0136,
+        0.6609,
+        0.2265,
+        0.0524
+      ],
+      "tail": null,
+      "text_key": "luke.6.p5.b3"
+    },
+    {
+      "id": "LUKE_06_P005_B004",
+      "panel": "LUKE_06_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4797,
+        0.6591,
+        0.4878,
+        0.0297
+      ],
+      "tail": null,
+      "text_key": "luke.6.p5.b4"
+    }
+  ]
+}

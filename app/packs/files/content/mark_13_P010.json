@@ -1,0 +1,124 @@
+{
+  "id": "MARK_13_P010",
+  "book": "mark",
+  "chapter": 13,
+  "page": 10,
+  "ref": "13:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_13_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_13_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.161
+      ],
+      "alt": {
+        "zh-CN": "那时，人们要看见人子带着大能力和大荣耀，驾着云降临。"
+      }
+    },
+    {
+      "id": "MARK_13_P010_F2",
+      "box": [
+        0,
+        0.165,
+        1,
+        0.404
+      ],
+      "alt": {
+        "zh-CN": "（预言画面：黑云里亮起一大团光云，正在降下来。）"
+      }
+    },
+    {
+      "id": "MARK_13_P010_F3",
+      "box": [
+        0,
+        0.572,
+        1,
+        0.139
+      ],
+      "alt": {
+        "zh-CN": "他要差派天使，把他所拣选的人从四方（原文是四风）、"
+      }
+    },
+    {
+      "id": "MARK_13_P010_F4",
+      "box": [
+        0,
+        0.715,
+        1,
+        0.285
+      ],
+      "alt": {
+        "zh-CN": "从地极直到天边，都招聚过来。」"
+      }
+    },
+    {
+      "id": "MARK_13_P010_F5",
+      "box": [
+        0.708,
+        0.768,
+        0.292,
+        0.232
+      ],
+      "alt": {
+        "zh-CN": "（月亮从他们身后升起，照在约翰的脸上。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_13_P010_B001",
+      "panel": "MARK_13_P010_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.015,
+        0.185,
+        0.315,
+        0.181
+      ],
+      "tail": null,
+      "text_key": "mark.13.p10.b1"
+    },
+    {
+      "id": "MARK_13_P010_B002",
+      "panel": "MARK_13_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.075,
+        0.574,
+        0.85,
+        0.068
+      ],
+      "tail": null,
+      "text_key": "mark.13.p10.b2"
+    },
+    {
+      "id": "MARK_13_P010_B003",
+      "panel": "MARK_13_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.003,
+        0.718,
+        0.69,
+        0.068
+      ],
+      "tail": null,
+      "text_key": "mark.13.p10.b3"
+    }
+  ]
+}

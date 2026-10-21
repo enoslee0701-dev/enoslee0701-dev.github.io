@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_13_P015",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 15,
+  "ref": "13:44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1803
+      ],
+      "alt": {
+        "zh-CN": "「天国好像宝贝藏在地里，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P015_F2",
+      "box": [
+        0,
+        0.1855,
+        1,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "（他在土坑边捧着旧木箱，掀开一条缝，又惊又喜。）"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P015_F3",
+      "box": [
+        0,
+        0.5514,
+        1,
+        0.1908
+      ],
+      "alt": {
+        "zh-CN": "有人发现了，就把它重新藏好，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P015_F4",
+      "box": [
+        0,
+        0.7461,
+        1,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "然后欢欢喜喜地去变卖他所有的一切，买下这块地。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P015_B001",
+      "panel": "MATTHEW_13_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.0072,
+        0.38,
+        0.0468
+      ],
+      "tail": [
+        0,
+        0.072
+      ],
+      "text_key": "matthew.13.p15.b1"
+    },
+    {
+      "id": "MATTHEW_13_P015_B002",
+      "panel": "MATTHEW_13_P015_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.559,
+        0.46,
+        0.0419
+      ],
+      "tail": [
+        0,
+        0.62
+      ],
+      "text_key": "matthew.13.p15.b2"
+    },
+    {
+      "id": "MATTHEW_13_P015_B003",
+      "panel": "MATTHEW_13_P015_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.43,
+        0.7537,
+        0.28,
+        0.033
+      ],
+      "tail": [
+        0,
+        0.8121
+      ],
+      "text_key": "matthew.13.p15.b3"
+    }
+  ]
+}

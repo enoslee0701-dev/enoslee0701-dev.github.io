@@ -1,0 +1,492 @@
+{
+  "matthew.15.p1.b1": {
+    "text": "Then some Pharisees and scribes came to Jesus from Jerusalem and asked,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p1.b2": {
+    "text": "Why do Your disciples break the tradition of the elders?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p1.b3": {
+    "text": "They do not wash their hands before they eat.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p2.b1": {
+    "text": "And why do you break the command of God for the sake of your tradition?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p2.b2": {
+    "text": "For God said, ‘Honor your father and mother’ and ‘Anyone who curses his father or mother must be put to death.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p2.b3": {
+    "text": "But you say that if anyone says to his father or mother, ‘Whatever you would have received from me is a gift devoted to God,’ he need not honor his father or mother with it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p2.b4": {
+    "text": "Thus you nullify the word of God for the sake of your tradition.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p3.b1": {
+    "text": "You hypocrites! Isaiah prophesied correctly about you:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p3.b2": {
+    "text": "‘These people honor Me with their lips, but their hearts are far from Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p3.b3": {
+    "text": "They worship Me in vain; they teach as doctrine the precepts of men.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p4.b1": {
+    "text": "Jesus called the crowd to Him and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p4.b2": {
+    "text": "Listen and understand.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p4.b3": {
+    "text": "A man is not defiled by what enters his mouth, but by what comes out of it.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p4.b4": {
+    "text": "Are You aware that the Pharisees were offended when they heard this?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p5.b1": {
+    "text": "Every plant that My heavenly Father has not planted will be pulled up by its roots.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p5.b2": {
+    "text": "Disregard them! They are blind guides.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p5.b3": {
+    "text": "If a blind man leads a blind man, both will fall into a pit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p6.b1": {
+    "text": "Explain this parable to us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p6.b2": {
+    "text": "Do you still not understand?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p6.b3": {
+    "text": "But the things that come out of the mouth come from the heart, and these things defile a man.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p6.b4": {
+    "text": "but eating with unwashed hands does not defile him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p7.b1": {
+    "text": "Leaving that place, Jesus withdrew to the district of Tyre and Sidon.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p7.b2": {
+    "text": "And a Canaanite woman from that region came to Him, crying out,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p7.b3": {
+    "text": "Lord, Son of David, have mercy on me!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p7.b4": {
+    "text": "My daughter is miserably possessed by a demon.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p8.b1": {
+    "text": "But Jesus did not answer a word.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p8.b2": {
+    "text": "Send her away, for she keeps crying out after us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p8.b3": {
+    "text": "I was sent only to the lost sheep of the house of Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p9.b1": {
+    "text": "The woman came and knelt before Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p9.b2": {
+    "text": "Lord, help me!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p9.b3": {
+    "text": "It is not right to take the children’s bread and toss it to the dogs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p10.b1": {
+    "text": "Yes, Lord, … even the dogs eat the crumbs that fall from their master’s table.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p10.b2": {
+    "text": "O woman, … your faith is great!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p10.b3": {
+    "text": "Let it be done for you as you desire.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p10.b4": {
+    "text": "And her daughter was healed from that very hour.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p11.b1": {
+    "text": "Moving on from there, Jesus went along the Sea of Galilee. Then He went up on a mountain and sat down.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p11.b2": {
+    "text": "Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p11.b3": {
+    "text": "The crowd was amazed when they saw the mute speaking, the crippled restored, the lame walking, and the blind seeing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p11.b4": {
+    "text": "And they glorified the God of Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p12.b1": {
+    "text": "Then Jesus called His disciples to Him",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p12.b2": {
+    "text": "I have compassion for this crowd, because they have already been with Me three days and have nothing to eat. I do not want to send them away hungry, or they may faint along the way.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p12.b3": {
+    "text": "Where in this desolate place could we find enough bread to feed such a large crowd?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p12.b4": {
+    "text": "How many loaves do you have?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p12.b5": {
+    "text": "Seven, … and a few small fish.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p13.b1": {
+    "text": "And He instructed the crowd to sit down on the ground.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p13.b2": {
+    "text": "Taking the seven loaves and the fish, He gave thanks and broke them. Then He gave them to the disciples, and the disciples gave them to the people.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p13.b3": {
+    "text": "They all ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p14.b1": {
+    "text": "A total of four thousand men were fed, in addition to women and children.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.15.p14.b2": {
+    "text": "After Jesus had dismissed the crowds, He got into the boat and went to the region of Magadan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

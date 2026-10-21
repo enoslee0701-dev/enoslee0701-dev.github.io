@@ -1,0 +1,130 @@
+{
+  "id": "LUKE_07_P001",
+  "book": "luke",
+  "chapter": 7,
+  "page": 1,
+  "ref": "7:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "耶稣对百姓讲完了这一切的话，就进了迦百农。"
+      }
+    },
+    {
+      "id": "LUKE_07_P001_F2",
+      "box": [
+        0,
+        0.2695,
+        0.6035,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "有一个百夫长所器重的仆人病了，快要死了。"
+      }
+    },
+    {
+      "id": "LUKE_07_P001_F3",
+      "box": [
+        0.6104,
+        0.2695,
+        0.3896,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "百夫长听到耶稣的事，就托犹太人的几个长老去求耶稣来救他的仆人。"
+      }
+    },
+    {
+      "id": "LUKE_07_P001_F4",
+      "box": [
+        0,
+        0.5859,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "他们到了耶稣那里，恳切地求他说：“你为他做这事是他应得的，因为他爱我们的百姓，为我们建造了会堂。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P001_B001",
+      "panel": "LUKE_07_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0106,
+        0.4,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "luke.7.p1.b1"
+    },
+    {
+      "id": "LUKE_07_P001_B002",
+      "panel": "LUKE_07_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0181,
+        0.2789,
+        0.2534,
+        0.0627
+      ],
+      "tail": null,
+      "text_key": "luke.7.p1.b2"
+    },
+    {
+      "id": "LUKE_07_P001_B003",
+      "panel": "LUKE_07_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.626,
+        0.2758,
+        0.187,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "luke.7.p1.b3"
+    },
+    {
+      "id": "LUKE_07_P001_B004",
+      "panel": "LUKE_07_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.5942,
+        0.53,
+        0.0538
+      ],
+      "tail": [
+        0.715,
+        0.6894
+      ],
+      "text_key": "luke.7.p1.b4"
+    }
+  ]
+}

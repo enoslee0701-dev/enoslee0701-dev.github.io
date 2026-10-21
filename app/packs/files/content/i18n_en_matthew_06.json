@@ -1,0 +1,412 @@
+{
+  "matthew.6.p1.b1": {
+    "text": "So when you give to the needy, do not sound a trumpet before you, … to be honored by men.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p1.b2": {
+    "text": "Truly I tell you, they already have their full reward.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p1.b3": {
+    "text": "But when you give to the needy, do not let your left hand know what your right hand is doing,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p1.b4": {
+    "text": "so that your giving may be in secret. And your Father, who sees what is done in secret, will reward you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p2.b1": {
+    "text": "And when you pray, do not be like the hypocrites. For they love to pray standing in the synagogues and on the street corners to be seen by men.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p2.b2": {
+    "text": "But when you pray, go into your inner room, shut your door,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p2.b3": {
+    "text": "and pray to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p3.b1": {
+    "text": "And when you pray, do not babble on like pagans, for they think that by their many words they will be heard.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p3.b2": {
+    "text": "Do not be like them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p3.b3": {
+    "text": "for your Father knows what you need before you ask Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p4.b1": {
+    "text": "So then, this is how you should pray:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p4.b2": {
+    "text": "Our Father in heaven, hallowed be Your name.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p4.b3": {
+    "text": "Your kingdom come,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p4.b4": {
+    "text": "Your will be done, on earth as it is in heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p5.b1": {
+    "text": "Give us this day our daily bread.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p5.b2": {
+    "text": "And forgive us our debts, as we also have forgiven our debtors.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p5.b3": {
+    "text": "And lead us not into temptation,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p5.b4": {
+    "text": "but deliver us from the evil one.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p6.b1": {
+    "text": "For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p6.b2": {
+    "text": "But if you do not forgive men their trespasses, neither will your Father forgive yours.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p7.b1": {
+    "text": "When you fast, do not be somber like the hypocrites, for they disfigure their faces to show men they are fasting.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p7.b2": {
+    "text": "Truly I tell you, they already have their full reward.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p7.b3": {
+    "text": "But when you fast, anoint your head and wash your face,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p7.b4": {
+    "text": "so that your fasting will not be obvious to men, but only to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p8.b1": {
+    "text": "Do not store up for yourselves treasures on earth, where moth and rust destroy,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p8.b2": {
+    "text": "and where thieves break in and steal.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p8.b3": {
+    "text": "For where your treasure is, there your heart will be also.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p9.b1": {
+    "text": "The eye is the lamp of the body. If your eyes are good, your whole body will be full of light.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p9.b2": {
+    "text": "But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p9.b3": {
+    "text": "No one can serve two masters: … You cannot serve both God and money.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p10.b1": {
+    "text": "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p10.b2": {
+    "text": "Look at the birds of the air: They do not sow or reap or gather into barns—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p10.b3": {
+    "text": "and yet your heavenly Father feeds them. Are you not much more valuable than they?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p10.b4": {
+    "text": "Who of you by worrying can add a single hour to his life?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p11.b1": {
+    "text": "Consider how the lilies of the field grow: They do not labor or spin.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p11.b2": {
+    "text": "Yet I tell you that not even Solomon in all his glory was adorned like one of these.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p11.b3": {
+    "text": "If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p12.b1": {
+    "text": "Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p12.b2": {
+    "text": "and your heavenly Father knows that you need them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p12.b3": {
+    "text": "But seek first the kingdom of God and His righteousness, and all these things will be added unto you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.6.p12.b4": {
+    "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 6:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

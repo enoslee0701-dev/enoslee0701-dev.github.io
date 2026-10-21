@@ -1,0 +1,100 @@
+{
+  "id": "MARK_03_P010",
+  "book": "mark",
+  "chapter": 3,
+  "page": 10,
+  "ref": "3:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P010_F1",
+      "box": [
+        0.005,
+        0.003,
+        0.99,
+        0.557
+      ],
+      "alt": {
+        "zh-CN": "十二个人里有西门，耶稣又给他起名叫彼得；"
+      }
+    },
+    {
+      "id": "MARK_03_P010_F2",
+      "box": [
+        0.007,
+        0.564,
+        0.357,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "还有西庇太的儿子雅各和他的兄弟约翰，"
+      }
+    },
+    {
+      "id": "MARK_03_P010_F3",
+      "box": [
+        0.372,
+        0.564,
+        0.621,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "耶稣给这两兄弟起名叫半尼其，意思是雷子。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P010_B001",
+      "panel": "MARK_03_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.03,
+        0.38,
+        0.14
+      ],
+      "tail": null,
+      "text_key": "mark.3.p10.b1"
+    },
+    {
+      "id": "MARK_03_P010_B002",
+      "panel": "MARK_03_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.83,
+        0.355,
+        0.14
+      ],
+      "tail": null,
+      "text_key": "mark.3.p10.b2"
+    },
+    {
+      "id": "MARK_03_P010_B003",
+      "panel": "MARK_03_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.515,
+        0.83,
+        0.45,
+        0.14
+      ],
+      "tail": null,
+      "text_key": "mark.3.p10.b3"
+    }
+  ]
+}

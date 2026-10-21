@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_23_P019",
+  "book": "luke",
+  "chapter": 23,
+  "page": 19,
+  "ref": "23:50-53",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_23_P019",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_23_P019_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.196
+      ]
+    },
+    {
+      "id": "LUKE_23_P019_F2",
+      "box": [
+        0,
+        0.2018,
+        0.5137,
+        0.2793
+      ]
+    },
+    {
+      "id": "LUKE_23_P019_F3",
+      "box": [
+        0.5225,
+        0.2018,
+        0.4775,
+        0.2793
+      ]
+    },
+    {
+      "id": "LUKE_23_P019_F4",
+      "box": [
+        0,
+        0.485,
+        1,
+        0.515
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_23_P019_B001",
+      "panel": "LUKE_23_P019_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.005,
+        0.31,
+        0.0784
+      ],
+      "tail": null,
+      "text_key": "luke.23.p19.b1"
+    },
+    {
+      "id": "LUKE_23_P019_B002",
+      "panel": "LUKE_23_P019_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0205,
+        0.4141,
+        0.4726,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "luke.23.p19.b2"
+    },
+    {
+      "id": "LUKE_23_P019_B003",
+      "panel": "LUKE_23_P019_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.532,
+        0.442,
+        0.1814,
+        0.0363
+      ],
+      "tail": null,
+      "text_key": "luke.23.p19.b3"
+    },
+    {
+      "id": "LUKE_23_P019_B004",
+      "panel": "LUKE_23_P019_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.5004,
+        0.37,
+        0.1133
+      ],
+      "tail": null,
+      "text_key": "luke.23.p19.b4"
+    }
+  ]
+}

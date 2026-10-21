@@ -1,0 +1,115 @@
+{
+  "id": "MARK_14_P001",
+  "book": "mark",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "再过两天就是逾越节和除酵节了。"
+      }
+    },
+    {
+      "id": "MARK_14_P001_F2",
+      "box": [
+        0,
+        0.2,
+        1,
+        0.515
+      ],
+      "alt": {
+        "zh-CN": "祭司长和经学家在想办法，要用诡计逮捕耶稣，把他杀掉。"
+      }
+    },
+    {
+      "id": "MARK_14_P001_F3",
+      "box": [
+        0.542,
+        0.519,
+        0.458,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "（年长的文士往窗外满城的百姓一指。）"
+      }
+    },
+    {
+      "id": "MARK_14_P001_F4",
+      "box": [
+        0,
+        0.719,
+        1,
+        0.281
+      ],
+      "alt": {
+        "zh-CN": "祭司长眯起眼睛，压低声音说：「不能在过节的时候动手，免得百姓闹事。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_14_P001_B001",
+      "panel": "MARK_14_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.2,
+        0.0078,
+        0.34,
+        0.0313
+      ],
+      "tail": null,
+      "text_key": "mark.14.p1.b1"
+    },
+    {
+      "id": "MARK_14_P001_B002",
+      "panel": "MARK_14_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.6,
+        0.52,
+        0.1
+      ],
+      "tail": null,
+      "text_key": "mark.14.p1.b2"
+    },
+    {
+      "id": "MARK_14_P001_B003",
+      "panel": "MARK_14_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.59,
+        0.7218,
+        0.4,
+        0.104
+      ],
+      "tail": [
+        0.56,
+        0.83
+      ],
+      "text_key": "mark.14.p1.b3"
+    }
+  ]
+}

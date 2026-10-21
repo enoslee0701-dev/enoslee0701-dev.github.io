@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_02_P011",
+  "book": "luke",
+  "chapter": 2,
+  "page": 11,
+  "ref": "2:28-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "西面把孩子接过来抱在怀里，称颂神说："
+      }
+    },
+    {
+      "id": "LUKE_02_P011_F2",
+      "box": [
+        0,
+        0.2083,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "主啊，现在你可以照你的应许，让仆人平安地离世；"
+      }
+    },
+    {
+      "id": "LUKE_02_P011_F3",
+      "box": [
+        0,
+        0.5846,
+        0.379,
+        0.2054
+      ],
+      "alt": {
+        "zh-CN": "因为我亲眼看见了你的救恩，就是你在万民面前所预备的："
+      }
+    },
+    {
+      "id": "LUKE_02_P011_F4",
+      "box": [
+        0,
+        0.5846,
+        1,
+        0.4154
+      ],
+      "alt": {
+        "zh-CN": "是照亮外邦人的光，又是你子民以色列的荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P011_B001",
+      "panel": "LUKE_02_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.0061,
+        0.25,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "luke.2.p11.b1"
+    },
+    {
+      "id": "LUKE_02_P011_B002",
+      "panel": "LUKE_02_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.72,
+        0.2232,
+        0.26,
+        0.1115
+      ],
+      "tail": [
+        0.85,
+        0.3719
+      ],
+      "text_key": "luke.2.p11.b2"
+    },
+    {
+      "id": "LUKE_02_P011_B003",
+      "panel": "LUKE_02_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0114,
+        0.753,
+        0.3562,
+        0.0328
+      ],
+      "tail": [
+        0.1895,
+        0.79
+      ],
+      "text_key": "luke.2.p11.b3"
+    },
+    {
+      "id": "LUKE_02_P011_B004",
+      "panel": "LUKE_02_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.36,
+        0.8048,
+        0.3,
+        0.0706
+      ],
+      "tail": [
+        0.51,
+        0.9169
+      ],
+      "text_key": "luke.2.p11.b4"
+    }
+  ]
+}

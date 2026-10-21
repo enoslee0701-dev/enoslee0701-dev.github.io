@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_01_P020",
+  "book": "luke",
+  "chapter": 1,
+  "page": 20,
+  "ref": "1:64-66",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P020",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P020_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.179
+      ]
+    },
+    {
+      "id": "LUKE_01_P020_F2",
+      "box": [
+        0,
+        0.1829,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "撒迦利亚的口立刻开了，舌头也灵活了，就说出话来，称颂神。"
+      }
+    },
+    {
+      "id": "LUKE_01_P020_F3",
+      "box": [
+        0,
+        0.5788,
+        1,
+        0.1855
+      ],
+      "alt": {
+        "zh-CN": "周围的居民都很惧怕，这一切的事传遍了犹太山区。"
+      }
+    },
+    {
+      "id": "LUKE_01_P020_F4",
+      "box": [
+        0,
+        0.7682,
+        1,
+        0.2318
+      ],
+      "alt": {
+        "zh-CN": "听见的人都把这事放在心里，说：「这孩子将来会怎样呢？因为有主的手与他同在。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P020_B001",
+      "panel": "LUKE_01_P020_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.1907,
+        0.3,
+        0.0391
+      ],
+      "tail": null,
+      "text_key": "luke.1.p20.b1"
+    },
+    {
+      "id": "LUKE_01_P020_B002",
+      "panel": "LUKE_01_P020_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5844,
+        0.9,
+        0.0408
+      ],
+      "tail": null,
+      "text_key": "luke.1.p20.b2"
+    },
+    {
+      "id": "LUKE_01_P020_B003",
+      "panel": "LUKE_01_P020_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.55,
+        0.7752,
+        0.42,
+        0.0556
+      ],
+      "tail": [
+        0.76,
+        0.854
+      ],
+      "text_key": "luke.1.p20.b3"
+    }
+  ]
+}

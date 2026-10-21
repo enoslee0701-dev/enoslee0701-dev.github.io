@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_13_P011",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 11,
+  "ref": "13:31-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1667
+      ],
+      "alt": {
+        "zh-CN": "他又讲了一个比喻对他们说：「天国好像一粒芥菜种，有人拿去种在田里。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P011_F2",
+      "box": [
+        0,
+        0.1712,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "这本是各样种子里最小的，等到长起来，却比各样的菜都大，而且成了树，天上的飞鸟来住在它的枝上。」"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P011_F3",
+      "box": [
+        0,
+        0.446,
+        0.3125,
+        0.554
+      ],
+      "alt": {
+        "zh-CN": "他又对他们讲了一个比喻：「天国好像面酵，有妇人拿来，藏在三斗面里，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P011_F4",
+      "box": [
+        0.3193,
+        0.446,
+        0.6807,
+        0.554
+      ],
+      "alt": {
+        "zh-CN": "直到全团面都发起来。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P011_B001",
+      "panel": "MATTHEW_13_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.0133,
+        0.36,
+        0.0666
+      ],
+      "tail": [
+        0,
+        0.0966
+      ],
+      "text_key": "matthew.13.p11.b1"
+    },
+    {
+      "id": "MATTHEW_13_P011_B002",
+      "panel": "MATTHEW_13_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2,
+        0.3874,
+        0.6,
+        0.0486
+      ],
+      "tail": [
+        0,
+        0.4414
+      ],
+      "text_key": "matthew.13.p11.b2"
+    },
+    {
+      "id": "MATTHEW_13_P011_B003",
+      "panel": "MATTHEW_13_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0125,
+        0.4571,
+        0.2875,
+        0.0664
+      ],
+      "tail": [
+        0,
+        0.5789
+      ],
+      "text_key": "matthew.13.p11.b3"
+    },
+    {
+      "id": "MATTHEW_13_P011_B004",
+      "panel": "MATTHEW_13_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3397,
+        0.4626,
+        0.2722,
+        0.0775
+      ],
+      "tail": [
+        0.3193,
+        0.5955
+      ],
+      "text_key": "matthew.13.p11.b4"
+    }
+  ]
+}

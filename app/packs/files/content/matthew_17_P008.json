@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_17_P008",
+  "book": "matthew",
+  "chapter": 17,
+  "page": 8,
+  "ref": "17:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_17_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_17_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2057
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P008_F2",
+      "box": [
+        0,
+        0.209,
+        0.3096,
+        0.4727
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P008_F3",
+      "box": [
+        0.3145,
+        0.209,
+        0.6855,
+        0.4727
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P008_F4",
+      "box": [
+        0,
+        0.6855,
+        1,
+        0.3145
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_17_P008_B001",
+      "panel": "MATTHEW_17_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.515,
+        0.0082,
+        0.475,
+        0.0617
+      ],
+      "tail": [
+        0.75,
+        0.0905
+      ],
+      "text_key": "matthew.17.p8.b1"
+    },
+    {
+      "id": "MATTHEW_17_P008_B002",
+      "panel": "MATTHEW_17_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0124,
+        0.6061,
+        0.2848,
+        0.0614
+      ],
+      "tail": [
+        0.1548,
+        0.6817
+      ],
+      "text_key": "matthew.17.p8.b2"
+    },
+    {
+      "id": "MATTHEW_17_P008_B003",
+      "panel": "MATTHEW_17_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3351,
+        0.5872,
+        0.3016,
+        0.0756
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p8.b3"
+    },
+    {
+      "id": "MATTHEW_17_P008_B004",
+      "panel": "MATTHEW_17_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9465,
+        0.34,
+        0.0408
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p8.b4"
+    }
+  ]
+}

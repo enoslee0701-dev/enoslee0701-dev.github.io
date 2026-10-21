@@ -1,0 +1,412 @@
+{
+  "matthew.7.p1.b1": {
+    "text": "อย่า​ตัดสิน ไม่​อย่าง​นั้น​พวก​ท่าน​จะ​ถูก​ตัดสิน​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p1.b2": {
+    "text": "เพราะ​ท่าน​ตัดสิน​คน​อื่น​อย่างไร​ก็​จะ​ถูก​ตัดสิน​อย่าง​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p1.b3": {
+    "text": "ท่าน​ใช้​ถ้วย​ตวง​ใด​ก็​จะ​ใช้​ถ้วย​ตวง​เดียวกัน​กับ​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p1.b4": {
+    "text": "ทำไม​ท่าน​จ้อง​ดู​ผง​ขี้เลื่อย​ใน​ตา​ของ​พี่​น้อง แต่​ไม่​ใส่ใจ​กับ​ไม้​ทั้ง​ท่อน​ใน​ตา​ของ​ตัวเอง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p2.b1": {
+    "text": "ท่าน​พูด​กับ​พี่​น้อง​ได้​อย่างไร​ว่า ‘ให้​เรา​เขี่ย​ผง​ออก​จาก​ตา​ท่าน’ ใน​เมื่อ​ยัง​มี​ไม้​ทั้ง​ท่อน​ใน​ตา​ของ​ตน​ตลอด​เวลา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p2.b2": {
+    "text": "พวก​หน้า​ซื่อ​ใจ​คด ดึง​ไม้​ทั้ง​ท่อน​ออก​จาก​ตา​ตัวเอง​ก่อน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p2.b3": {
+    "text": "จะ​ได้​เห็น​ชัด แล้ว​จึง​ค่อย​เขี่ย​ผง​ออก​จาก​ตา​พี่​น้อง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p2.b4": {
+    "text": "อย่า​ให้​ของ​ศักดิ์สิทธิ์​แก่​สุนัข อย่า​โยน​ไข่มุก​ให้​หมู ถ้า​ทำ​อย่าง​นั้น​พวก​มัน​จะ​เหยียบ​ย่ำ​ไว้​ใต้​เท้า แล้ว​หัน​มา​ฉีก​ท่าน​เป็น​ชิ้น​ๆ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p3.b1": {
+    "text": "จง​ขอ​แล้ว​จะ​ได้​รับ จง​หา​แล้ว​จะ​พบ จง​เคาะ​แล้ว​ประตู​จะ​เปิด​ให้​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p3.b2": {
+    "text": "เพราะ​ทุก​คน​ที่​ขอ​ก็​ได้​รับ คน​ที่​แสวงหา​ก็​พบ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p3.b3": {
+    "text": "และ​คน​ที่​เคาะ ประตู​ก็​จะ​เปิด​ให้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p4.b1": {
+    "text": "มี​ใคร​บ้าง ถ้า​ลูก​ขอ​ขนมปัง​จะ​ให้​ก้อน​หิน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p4.b2": {
+    "text": "หรือ​ถ้า​ขอ​ปลา​จะ​ให้​งู",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p4.b3": {
+    "text": "ถ้า​ท่าน​เอง​ที่​เป็น​คน​ชั่ว ยัง​รู้จัก​ให้​สิ่ง​ดี​แก่​ลูก​ของ​ตน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p4.b4": {
+    "text": "ยิ่ง​กว่า​นั้น​สัก​เท่าใด พระบิดา​ใน​สวรรค์​จะ​ให้​สิ่ง​ดี​แก่​คน​ที่​ขอ​ต่อ​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p5.b1": {
+    "text": "ดังนั้น​จง​ปฏิบัติ​ทุก​สิ่ง​ต่อ​คน​อื่น​เหมือน​ที่​อยาก​ให้​เขา​ปฏิบัติ​ต่อ​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p5.b2": {
+    "text": "เพราะ​นี่​คือ​ข้อ​สรุป​ทั้งหมด​ของ​หนังสือ​กฎ​บัญญัติ​และ​หนังสือ​ผู้​เผย​พระวจนะ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p5.b3": {
+    "text": "จง​เข้า​ไป​ทาง​ประตู​แคบ เพราะ​ประตู​และ​ทาง​ที่​กว้าง​นำ​ไป​สู่​ความ​พินาศ และ​คน​เป็น​อัน​มาก​เข้า​ไป​ทาง​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p5.b4": {
+    "text": "ส่วน​ประตู​และ​ทาง​ที่​แคบ​นำ​ไป​สู่​ชีวิต และ​มี​ไม่​กี่​คน​ที่​ค้น​พบ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p6.b1": {
+    "text": "จง​ระวัง​พวก​ผู้​เผย​พระวจนะ​เท็จ​ที่​มา​หา​พวก​ท่าน​ด้วย​สภาพ​ภาย​นอก​เหมือน​แกะ แต่​ภาย​ใน​คือ​หมา​ป่า​ดุ​ร้าย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p6.b2": {
+    "text": "ท่าน​จะ​จำแนก​ได้​ว่า​พวก​เขา​เป็น​ใคร​จาก​ผล​ของ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p6.b3": {
+    "text": "คน​จะ​เก็บ​ผล​องุ่น​ได้​จาก​กอ​หนาม​หรือ เก็บ​ผล​มะเดื่อ​ได้​จาก​พุ่ม​หนาม​อย่าง​นั้น​หรือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p6.b4": {
+    "text": "ใน​ทำนอง​เดียว​กัน ต้นไม้​ดี​ทุก​ต้น​ย่อม​ให้​ผล​ดี ส่วน​ต้นไม้​เลว​ย่อม​ให้​ผล​เลว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p7.b1": {
+    "text": "ต้นไม้​ดี​ไม่​ให้​ผล​เลว และ​ต้นไม้​เลว​ก็​ไม่​ให้​ผล​ดี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p7.b2": {
+    "text": "ต้นไม้​ทุก​ต้น​ที่​ไม่​ให้​ผล​ดี​ย่อม​ถูก​โค่น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p7.b3": {
+    "text": "และ​โยน​ลง​ใน​ไฟ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p7.b4": {
+    "text": "ดังนั้น​ท่าน​จะ​จำแนก​ได้​ว่า​พวก​เขา​เป็น​ใคร​จาก​ผล​ของ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p8.b1": {
+    "text": "ไม่​ใช่​ทุก​คน​ที่​เรียก​เรา​ว่า ‘องค์​พระผู้เป็นเจ้า องค์​พระผู้เป็นเจ้า’ จะ​ได้​เข้า​อาณาจักร​สวรรค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p8.b2": {
+    "text": "มี​เพียง​คน​ที่​ทำ​ตาม​ความ​ประสงค์​ของ​พระบิดา​ของ​เรา​ผู้​อยู่​ใน​สวรรค์​เท่านั้น​ที่​จะ​ได้​เข้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p8.b3": {
+    "text": "หลาย​คน​จะ​พูด​กับ​เรา​ใน​วัน​นั้น​ว่า ‘องค์​พระผู้เป็นเจ้า องค์​พระผู้เป็นเจ้า พวก​เรา​ไม่​ได้​เผย​พระวจนะ​ใน​นาม​ของ​พระองค์ ขับ​ผี​ใน​นาม​ของ​พระองค์ และ​ทำ​การ​อัศจรรย์​มากมาย​ใน​นาม​ของ​พระองค์​หรือ’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p8.b4": {
+    "text": "แล้ว​เรา​จะ​บอก​พวก​เขา​อย่าง​ตรง​ไป​ตรง​มา​ว่า ‘เรา​ไม่​รู้จัก​เจ้า ไป​ให้​พ้น เจ้า​คน​ทำ​ชั่ว!’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p9.b1": {
+    "text": "ด้วย​เหตุ​นี้ ทุก​คน​ที่​ได้ยิน​คำ​เหล่า​นี้​ของ​เรา​และ​นำ​ไป​ปฏิบัติ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p9.b2": {
+    "text": "ก็​เป็น​เหมือน​คน​ฉลาด​สร้าง​บ้าน​ของ​ตน​บน​ศิลา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p9.b3": {
+    "text": "เมื่อ​ฝน​ตก กระแส​น้ำ​ขึ้น​สูง และ​ลม​พัด​กระหน่ำ บ้าน​นั้น​ก็​ไม่​พัง​ลง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p9.b4": {
+    "text": "เพราะ​มี​ฐาน​ราก​บน​ศิลา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p10.b1": {
+    "text": "ส่วน​คน​ที่​ได้ยิน​คำ​ของ​เรา​แต่​ไม่​นำ​ไป​ปฎิบัติ ก็​เป็น​เหมือน​คน​โง่​สร้าง​บ้าน​ของ​ตน​บน​ทราย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p10.b2": {
+    "text": "เมื่อ​ฝน​ตก กระแส​น้ำ​ขึ้น​สูง และ​ลม​พัด​กระหน่ำ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p10.b3": {
+    "text": "บ้าน​นั้น​ก็​พัง​ทลาย​เสียหาย​มาก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p11.b1": {
+    "text": "เมื่อ​พระเยซู​กล่าว​สิ่ง​เหล่า​นี้​จบ​แล้ว ฝูงชน​ต่าง​ทึ่ง​ใน​คำ​สอน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p11.b2": {
+    "text": "เพราะ​พระองค์​สอน​อย่าง​ผู้​มี​สิทธิ​อำนาจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.7.p11.b3": {
+    "text": "ซึ่ง​ต่าง​จาก​พวก​ครู​สอน​กฎ​บัญญัติ​ของ​พวก​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 7:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

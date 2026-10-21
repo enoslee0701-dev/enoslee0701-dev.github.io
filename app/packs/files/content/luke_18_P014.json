@@ -1,0 +1,79 @@
+{
+  "id": "LUKE_18_P014",
+  "book": "luke",
+  "chapter": 18,
+  "page": 14,
+  "ref": "18:42-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_18_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_18_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3197
+      ]
+    },
+    {
+      "id": "LUKE_18_P014_F2",
+      "box": [
+        0,
+        0.3229,
+        1,
+        0.1543
+      ]
+    },
+    {
+      "id": "LUKE_18_P014_F3",
+      "box": [
+        0,
+        0.4798,
+        1,
+        0.5202
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_18_P014_B001",
+      "panel": "LUKE_18_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0096,
+        0.27,
+        0.0703
+      ],
+      "tail": [
+        0.435,
+        0.1119
+      ],
+      "text_key": "luke.18.p14.b1"
+    },
+    {
+      "id": "LUKE_18_P014_B002",
+      "panel": "LUKE_18_P014_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.76,
+        0.3414,
+        0.22,
+        0.1172
+      ],
+      "tail": null,
+      "text_key": "luke.18.p14.b2"
+    }
+  ]
+}

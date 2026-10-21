@@ -1,0 +1,127 @@
+{
+  "id": "MARK_03_P012",
+  "book": "mark",
+  "chapter": 3,
+  "page": 12,
+  "ref": "3:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P012_F1",
+      "box": [
+        0.018,
+        0.001,
+        0.965,
+        0.435
+      ],
+      "alt": {
+        "zh-CN": "耶稣进了一座房子，人群又聚集过来，"
+      }
+    },
+    {
+      "id": "MARK_03_P012_F2",
+      "box": [
+        0.018,
+        0.438,
+        0.965,
+        0.238
+      ],
+      "alt": {
+        "zh-CN": "他忙得连饭都顾不上吃。"
+      }
+    },
+    {
+      "id": "MARK_03_P012_F3",
+      "box": [
+        0.018,
+        0.677,
+        0.545,
+        0.318
+      ],
+      "alt": {
+        "zh-CN": "耶稣的亲属听说了，就出来要把他拉回去，"
+      }
+    },
+    {
+      "id": "MARK_03_P012_F4",
+      "box": [
+        0.438,
+        0.677,
+        0.544,
+        0.318
+      ],
+      "alt": {
+        "zh-CN": "因为他们说他疯了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P012_B001",
+      "panel": "MARK_03_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4233,
+        0.0097,
+        0.4632,
+        0.0435
+      ],
+      "tail": null,
+      "text_key": "mark.3.p12.b1"
+    },
+    {
+      "id": "MARK_03_P012_B002",
+      "panel": "MARK_03_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0277,
+        0.4428,
+        0.1447,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "mark.3.p12.b2"
+    },
+    {
+      "id": "MARK_03_P012_B003",
+      "panel": "MARK_03_P012_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.893,
+        0.42,
+        0.102
+      ],
+      "tail": null,
+      "text_key": "mark.3.p12.b3"
+    },
+    {
+      "id": "MARK_03_P012_B004",
+      "panel": "MARK_03_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.679,
+        0.475,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "mark.3.p12.b4"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_10_P003",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 3,
+  "ref": "10:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P003_F1",
+      "box": [
+        0.0088,
+        0.0026,
+        0.9834,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "外邦人的路，你们不要走；撒马利亚人的城，你们不要进去；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P003_F2",
+      "box": [
+        0.0088,
+        0.2546,
+        0.4365,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "宁可到以色列家迷失的羊那里去。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P003_F3",
+      "box": [
+        0.4531,
+        0.2546,
+        0.5391,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "一路走一路传讲：「天国近了！」要医治病人，叫死人复活，叫患麻风的人洁净，把鬼赶出去。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P003_F4",
+      "box": [
+        0.0078,
+        0.558,
+        0.9844,
+        0.4368
+      ],
+      "alt": {
+        "zh-CN": "你们白白地得到，也要白白地给出去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P003_B001",
+      "panel": "MATTHEW_10_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4612,
+        0.0076,
+        0.3736,
+        0.0322
+      ],
+      "tail": [
+        0.648,
+        0.0646
+      ],
+      "text_key": "matthew.10.p3.b1"
+    },
+    {
+      "id": "MATTHEW_10_P003_B002",
+      "panel": "MATTHEW_10_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.1834,
+        0.2576,
+        0.2531,
+        0.0329
+      ],
+      "tail": [
+        0.31,
+        0.3204
+      ],
+      "text_key": "matthew.10.p3.b2"
+    },
+    {
+      "id": "MATTHEW_10_P003_B003",
+      "panel": "MATTHEW_10_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4573,
+        0.2566,
+        0.3265,
+        0.0389
+      ],
+      "tail": [
+        0.6176,
+        0.3294
+      ],
+      "text_key": "matthew.10.p3.b3"
+    },
+    {
+      "id": "MATTHEW_10_P003_B004",
+      "panel": "MATTHEW_10_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0176,
+        0.5624,
+        0.2165,
+        0.0611
+      ],
+      "tail": [
+        0.1259,
+        0.6672
+      ],
+      "text_key": "matthew.10.p3.b4"
+    }
+  ]
+}

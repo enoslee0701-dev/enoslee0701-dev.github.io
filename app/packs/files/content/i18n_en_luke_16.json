@@ -1,0 +1,412 @@
+{
+  "luke.16.p1.b1": {
+    "text": "Jesus also said to His disciples,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p1.b2": {
+    "text": "“There was a rich man whose manager was accused of wasting his possessions.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p1.b3": {
+    "text": "‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b1": {
+    "text": "The manager said to himself,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b2": {
+    "text": "‘What shall I do, now that my master is taking away my position? I am too weak to dig",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b3": {
+    "text": "and too ashamed to beg.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b4": {
+    "text": "I know what I will do, so that after my removal from management, people will welcome me into their homes.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b1": {
+    "text": "And he called in each one of his master’s debtors.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b2": {
+    "text": "‘How much do you owe my master?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b3": {
+    "text": "‘A hundred measures of olive oil,’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b4": {
+    "text": "‘Take your bill,’ … ‘Sit down quickly, and write fifty.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b1": {
+    "text": "The master commended the dishonest manager because he had acted shrewdly.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b2": {
+    "text": "For the sons of this age are more shrewd in dealing with their own kind than are the sons of light.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b3": {
+    "text": "I tell you, use worldly wealth to make friends for yourselves,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b4": {
+    "text": "so that when it is gone, they will welcome you into eternal dwellings.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b1": {
+    "text": "Whoever is faithful with very little will also be faithful with much, and whoever is dishonest with very little will also be dishonest with much.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b2": {
+    "text": "So if you have not been faithful with worldly wealth, who will entrust you with true riches?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b3": {
+    "text": "No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b4": {
+    "text": "You cannot serve both God and money.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b1": {
+    "text": "The Pharisees, who were lovers of money, heard all of this and were scoffing at Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b2": {
+    "text": "but God knows your hearts. For what is prized among men is detestable before God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b3": {
+    "text": "But it is easier for heaven and earth to pass away than for a single stroke of a pen to drop out of the Law.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b4": {
+    "text": "Anyone who divorces his wife and marries another woman commits adultery, and he who marries a divorced woman commits adultery.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b1": {
+    "text": "Now there was a rich man dressed in purple and fine linen, who lived each day in joyous splendor.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b2": {
+    "text": "And a beggar named Lazarus lay at his gate, covered with sores",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b3": {
+    "text": "and longing to be fed with the crumbs that fell from the rich man’s table.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b4": {
+    "text": "Even the dogs came and licked his sores.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p8.b1": {
+    "text": "One day the beggar died",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p8.b2": {
+    "text": "and was carried by the angels to Abraham’s side.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p8.b3": {
+    "text": "And the rich man also died and was buried.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b1": {
+    "text": "In Hades, where he was in torment,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b2": {
+    "text": "he looked up and saw Abraham from afar, with Lazarus by his side.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b3": {
+    "text": "‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b4": {
+    "text": "For I am in agony in this fire.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b1": {
+    "text": "‘Child, remember that during your lifetime you received your good things, while Lazarus received bad things. But now he is comforted here, while you are in agony.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b2": {
+    "text": "a great chasm has been fixed between us and you, so that even those who wish cannot cross from here to you,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b3": {
+    "text": "‘Then I beg you, father,’ … ‘send Lazarus to my father’s house,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b4": {
+    "text": "for I have five brothers. … so that they will not also end up in this place of torment.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p11.b1": {
+    "text": "‘They have Moses and the prophets; let your brothers listen to them.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p11.b2": {
+    "text": "‘No, father Abraham,’ … ‘but if someone is sent to them from the dead, they will repent.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p11.b3": {
+    "text": "‘If they do not listen to Moses and the prophets, they will not be persuaded even if someone rises from the dead.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 16:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

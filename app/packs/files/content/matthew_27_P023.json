@@ -1,0 +1,124 @@
+{
+  "id": "MATTHEW_27_P023",
+  "book": "matthew",
+  "chapter": 27,
+  "page": 23,
+  "ref": "27:62-64",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_27_P023",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_27_P023_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P023_F2",
+      "box": [
+        0,
+        0.248,
+        1,
+        0.3874
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P023_F3",
+      "box": [
+        0,
+        0.6393,
+        0.4971,
+        0.3607
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P023_F4",
+      "box": [
+        0.5039,
+        0.6393,
+        0.4961,
+        0.3607
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_27_P023_B001",
+      "panel": "MATTHEW_27_P023_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0098,
+        0.56,
+        0.0634
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p23.b1"
+    },
+    {
+      "id": "MATTHEW_27_P023_B002",
+      "panel": "MATTHEW_27_P023_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.2596,
+        0.44,
+        0.0658
+      ],
+      "tail": [
+        0.25,
+        0.3641
+      ],
+      "text_key": "matthew.27.p23.b2"
+    },
+    {
+      "id": "MATTHEW_27_P023_B003",
+      "panel": "MATTHEW_27_P023_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6501,
+        0.4573,
+        0.0649
+      ],
+      "tail": [
+        0.2486,
+        0.7511
+      ],
+      "text_key": "matthew.27.p23.b3"
+    },
+    {
+      "id": "MATTHEW_27_P023_B004",
+      "panel": "MATTHEW_27_P023_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.8918,
+        0.4564,
+        0.0937
+      ],
+      "tail": [
+        0.7519,
+        1
+      ],
+      "text_key": "matthew.27.p23.b4"
+    }
+  ]
+}

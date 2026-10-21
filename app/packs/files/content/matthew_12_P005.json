@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_12_P005",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 5,
+  "ref": "12:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「你们当中，谁有一只羊在安息日掉进坑里，"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P005_F2",
+      "box": [
+        0,
+        0.2201,
+        1,
+        0.4434
+      ],
+      "alt": {
+        "zh-CN": "会不抓住它、把它拉上来呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P005_F3",
+      "box": [
+        0,
+        0.6667,
+        0.5039,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "人比羊贵重多了！"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P005_F4",
+      "box": [
+        0.5098,
+        0.6667,
+        0.4902,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "所以，在安息日做好事是可以的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P005_B001",
+      "panel": "MATTHEW_12_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0043,
+        0.3,
+        0.0476
+      ],
+      "tail": [
+        0.51,
+        0.0736
+      ],
+      "text_key": "matthew.12.p5.b1"
+    },
+    {
+      "id": "MATTHEW_12_P005_B002",
+      "panel": "MATTHEW_12_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.5305,
+        0.3,
+        0.1152
+      ],
+      "tail": [
+        0.17,
+        0.6635
+      ],
+      "text_key": "matthew.12.p5.b2"
+    },
+    {
+      "id": "MATTHEW_12_P005_B003",
+      "panel": "MATTHEW_12_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0151,
+        0.6767,
+        0.1511,
+        0.0466
+      ],
+      "tail": [
+        0.0907,
+        0.7566
+      ],
+      "text_key": "matthew.12.p5.b3"
+    },
+    {
+      "id": "MATTHEW_12_P005_B004",
+      "panel": "MATTHEW_12_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5294,
+        0.92,
+        0.1568,
+        0.0733
+      ],
+      "tail": [
+        0.6078,
+        1
+      ],
+      "text_key": "matthew.12.p5.b4"
+    }
+  ]
+}

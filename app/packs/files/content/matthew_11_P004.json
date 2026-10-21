@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_11_P004",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "圣经上记着说：『我要派遣我的使者在你前面为你预备道路』，说的就是这个人。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P004_F2",
+      "box": [
+        0,
+        0.2493,
+        0.4121,
+        0.3574
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，凡是妇人所生的，没有一个比施洗约翰更大；"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P004_F3",
+      "box": [
+        0.4209,
+        0.2493,
+        0.5791,
+        0.7507
+      ],
+      "alt": {
+        "zh-CN": "然而天国里最小的，都比他更大。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P004_F4",
+      "box": [
+        0,
+        0.612,
+        0.4121,
+        0.388
+      ],
+      "alt": {
+        "zh-CN": "（石牢里，光落在约翰脸上。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P004_B001",
+      "panel": "MATTHEW_11_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.48,
+        0.0024,
+        0.48,
+        0.0391
+      ],
+      "tail": [
+        0.72,
+        0.066
+      ],
+      "text_key": "matthew.11.p4.b1"
+    },
+    {
+      "id": "MATTHEW_11_P004_B002",
+      "panel": "MATTHEW_11_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0165,
+        0.5459,
+        0.3791,
+        0.0536
+      ],
+      "tail": [
+        0.2061,
+        0.6067
+      ],
+      "text_key": "matthew.11.p4.b2"
+    },
+    {
+      "id": "MATTHEW_11_P004_B003",
+      "panel": "MATTHEW_11_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6294,
+        0.2568,
+        0.359,
+        0.0525
+      ],
+      "tail": [
+        0.8089,
+        0.3844
+      ],
+      "text_key": "matthew.11.p4.b3"
+    }
+  ]
+}

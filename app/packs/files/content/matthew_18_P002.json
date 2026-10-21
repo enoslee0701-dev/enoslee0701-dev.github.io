@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_18_P002",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 2,
+  "ref": "18:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3984
+      ],
+      "alt": {
+        "zh-CN": "说：「我实在告诉你们，你们若不回转，变成小孩子的样子，绝不能进天国。所以，凡谦卑自己像这小孩子的，他在天国里就是最大的。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P002_F2",
+      "box": [
+        0,
+        0.401,
+        0.627,
+        0.2396
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P002_F3",
+      "box": [
+        0.6338,
+        0.401,
+        0.3662,
+        0.2396
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P002_F4",
+      "box": [
+        0,
+        0.6439,
+        1,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "「凡为我的名接待一个像这样小孩子的，就是接待我。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P002_B001",
+      "panel": "MATTHEW_18_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.012,
+        0.38,
+        0.0517
+      ],
+      "tail": [
+        0.22,
+        0.1035
+      ],
+      "text_key": "matthew.18.p2.b1"
+    },
+    {
+      "id": "MATTHEW_18_P002_B002",
+      "panel": "MATTHEW_18_P002_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.25,
+        0.51,
+        0.0438
+      ],
+      "tail": [
+        0.32,
+        0.3
+      ],
+      "text_key": "matthew.18.p2.b2"
+    },
+    {
+      "id": "MATTHEW_18_P002_B003",
+      "panel": "MATTHEW_18_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.6546,
+        0.34,
+        0.0427
+      ],
+      "tail": [
+        0.81,
+        0.7329
+      ],
+      "text_key": "matthew.18.p2.b3"
+    }
+  ]
+}

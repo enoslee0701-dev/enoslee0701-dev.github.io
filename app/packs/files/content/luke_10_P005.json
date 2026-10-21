@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_10_P005",
+  "book": "luke",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_10_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ]
+    },
+    {
+      "id": "LUKE_10_P005_F2",
+      "box": [
+        0,
+        0.252,
+        0.4941,
+        0.2936
+      ]
+    },
+    {
+      "id": "LUKE_10_P005_F3",
+      "box": [
+        0.501,
+        0.252,
+        0.499,
+        0.2936
+      ]
+    },
+    {
+      "id": "LUKE_10_P005_F4",
+      "box": [
+        0,
+        0.5514,
+        1,
+        0.4486
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_10_P005_B001",
+      "panel": "LUKE_10_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0049,
+        0.94,
+        0.042
+      ],
+      "tail": null,
+      "text_key": "luke.10.p5.b1"
+    },
+    {
+      "id": "LUKE_10_P005_B002",
+      "panel": "LUKE_10_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.2579,
+        0.4545,
+        0.088
+      ],
+      "tail": null,
+      "text_key": "luke.10.p5.b2"
+    },
+    {
+      "id": "LUKE_10_P005_B003",
+      "panel": "LUKE_10_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.521,
+        0.2579,
+        0.459,
+        0.0763
+      ],
+      "tail": null,
+      "text_key": "luke.10.p5.b3"
+    },
+    {
+      "id": "LUKE_10_P005_B004",
+      "panel": "LUKE_10_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5604,
+        0.45,
+        0.0717
+      ],
+      "tail": [
+        0.745,
+        0.677
+      ],
+      "text_key": "luke.10.p5.b4"
+    }
+  ]
+}

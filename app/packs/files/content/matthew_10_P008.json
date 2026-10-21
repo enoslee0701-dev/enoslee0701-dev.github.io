@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_10_P008",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 8,
+  "ref": "10:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P008_F1",
+      "box": [
+        0.0098,
+        0,
+        0.9824,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "弟兄会把弟兄、父亲会把儿子交出去处死；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P008_F2",
+      "box": [
+        0.0098,
+        0.3346,
+        0.4961,
+        0.3815
+      ],
+      "alt": {
+        "zh-CN": "你们会因为我的名被所有人憎恨。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P008_F3",
+      "box": [
+        0.5146,
+        0.3346,
+        0.4775,
+        0.3815
+      ],
+      "alt": {
+        "zh-CN": "但是忍耐到底的人必定得救。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P008_F4",
+      "box": [
+        0.0098,
+        0.7188,
+        0.9824,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "有人在这座城逼迫你们，就逃到另一座城去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P008_B001",
+      "panel": "MATTHEW_10_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5992,
+        0.0066,
+        0.3733,
+        0.0463
+      ],
+      "tail": [
+        0.7858,
+        0.086
+      ],
+      "text_key": "matthew.10.p8.b1"
+    },
+    {
+      "id": "MATTHEW_10_P008_B002",
+      "panel": "MATTHEW_10_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0693,
+        0.3384,
+        0.4167,
+        0.0343
+      ],
+      "tail": [
+        0.2777,
+        0.4109
+      ],
+      "text_key": "matthew.10.p8.b2"
+    },
+    {
+      "id": "MATTHEW_10_P008_B003",
+      "panel": "MATTHEW_10_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8011,
+        0.6474,
+        0.1862,
+        0.0648
+      ],
+      "tail": [
+        0.8942,
+        0.7161
+      ],
+      "text_key": "matthew.10.p8.b3"
+    },
+    {
+      "id": "MATTHEW_10_P008_B004",
+      "panel": "MATTHEW_10_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4519,
+        0.7243,
+        0.5108,
+        0.0441
+      ],
+      "tail": [
+        0.7073,
+        0.796
+      ],
+      "text_key": "matthew.10.p8.b4"
+    }
+  ]
+}

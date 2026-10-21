@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_10_P009",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 9,
+  "ref": "10:24-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P009_F1",
+      "box": [
+        0.0078,
+        0.0033,
+        0.9834,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "学生不会高过老师；仆人不会高过主人。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P009_F2",
+      "box": [
+        0.0078,
+        0.2507,
+        0.5811,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "人既然骂一家之主是别西卜，更何况他的家人呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P009_F3",
+      "box": [
+        0.5947,
+        0.2507,
+        0.3975,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "所以，不要怕他们；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P009_F4",
+      "box": [
+        0.0078,
+        0.5417,
+        0.9844,
+        0.4538
+      ],
+      "alt": {
+        "zh-CN": "我在暗中告诉你们的，你们要在明处说出来；你们私下听到的，要在房顶上宣扬出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P009_B001",
+      "panel": "MATTHEW_10_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5585,
+        0.0082,
+        0.413,
+        0.0317
+      ],
+      "tail": [
+        0.765,
+        0.0643
+      ],
+      "text_key": "matthew.10.p9.b1"
+    },
+    {
+      "id": "MATTHEW_10_P009_B002",
+      "panel": "MATTHEW_10_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.1821,
+        0.2536,
+        0.3951,
+        0.0231
+      ],
+      "tail": [
+        0.3797,
+        0.3056
+      ],
+      "text_key": "matthew.10.p9.b2"
+    },
+    {
+      "id": "MATTHEW_10_P009_B003",
+      "panel": "MATTHEW_10_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8968,
+        0.2594,
+        0.0874,
+        0.0636
+      ],
+      "tail": [
+        0.9405,
+        0.3519
+      ],
+      "text_key": "matthew.10.p9.b3"
+    },
+    {
+      "id": "MATTHEW_10_P009_B004",
+      "panel": "MATTHEW_10_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0275,
+        0.9138,
+        0.3937,
+        0.0726
+      ],
+      "tail": [
+        0.2244,
+        0.9955
+      ],
+      "text_key": "matthew.10.p9.b4"
+    }
+  ]
+}

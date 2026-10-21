@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_03_P004",
+  "book": "matthew",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_03_P004_F1",
+      "box": [
+        0.0059,
+        0.002,
+        0.4922,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "“现在斧子已经放在树根上了，凡是不结好果子的树，都要被砍下来，丢在火里。”"
+      }
+    },
+    {
+      "id": "MATTHEW_03_P004_F2",
+      "box": [
+        0.5049,
+        0.002,
+        0.4902,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "“但在我以后来的那一位，能力比我大，我连给他提鞋都不配。”"
+      }
+    },
+    {
+      "id": "MATTHEW_03_P004_F3",
+      "box": [
+        0.0068,
+        0.3522,
+        0.9863,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "“他手里拿着簸箕，要把他的场扬干净，把麦子收进仓里，把糠用不灭的火烧尽。”"
+      }
+    },
+    {
+      "id": "MATTHEW_03_P004_F4",
+      "box": [
+        0.0068,
+        0.6569,
+        0.9863,
+        0.3392
+      ],
+      "alt": {
+        "zh-CN": "（法利赛人和撒都该人转身离开，百姓继续下水受洗。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_03_P004_B001",
+      "panel": "MATTHEW_03_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2618,
+        0.0124,
+        0.2214,
+        0.076
+      ],
+      "tail": [
+        0.3725,
+        0.123
+      ],
+      "text_key": "matthew.3.p4.b1"
+    },
+    {
+      "id": "MATTHEW_03_P004_B002",
+      "panel": "MATTHEW_03_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5147,
+        0.0089,
+        0.147,
+        0.1382
+      ],
+      "tail": [
+        0.5882,
+        0.1817
+      ],
+      "text_key": "matthew.3.p4.b2"
+    },
+    {
+      "id": "MATTHEW_03_P004_B003",
+      "panel": "MATTHEW_03_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0167,
+        0.3582,
+        0.2958,
+        0.0543
+      ],
+      "tail": [
+        0.1646,
+        0.4427
+      ],
+      "text_key": "matthew.3.p4.b3"
+    }
+  ]
+}

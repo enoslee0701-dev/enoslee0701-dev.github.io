@@ -1,0 +1,124 @@
+{
+  "id": "LUKE_01_P017",
+  "book": "luke",
+  "chapter": 1,
+  "page": 17,
+  "ref": "1:57-59",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "伊利莎白的产期到了，生了一个儿子。"
+      }
+    },
+    {
+      "id": "LUKE_01_P017_F2",
+      "box": [
+        0,
+        0.2292,
+        0.5947,
+        0.2799
+      ],
+      "alt": {
+        "zh-CN": "邻居和亲戚听说主向她大大施怜悯，都和她一同欢喜。"
+      }
+    },
+    {
+      "id": "LUKE_01_P017_F3",
+      "box": [
+        0.6035,
+        0.2292,
+        0.3965,
+        0.2799
+      ]
+    },
+    {
+      "id": "LUKE_01_P017_F4",
+      "box": [
+        0,
+        0.513,
+        1,
+        0.487
+      ],
+      "alt": {
+        "zh-CN": "到了第八天，他们来给孩子行割礼，要照他父亲的名字叫他撒迦利亚。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P017_B001",
+      "panel": "LUKE_01_P017_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.21,
+        0.0079,
+        0.2,
+        0.0495
+      ],
+      "tail": null,
+      "text_key": "luke.1.p17.b1"
+    },
+    {
+      "id": "LUKE_01_P017_B002",
+      "panel": "LUKE_01_P017_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0178,
+        0.2376,
+        0.3568,
+        0.0391
+      ],
+      "tail": null,
+      "text_key": "luke.1.p17.b2"
+    },
+    {
+      "id": "LUKE_01_P017_B003",
+      "panel": "LUKE_01_P017_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.5227,
+        0.34,
+        0.0584
+      ],
+      "tail": null,
+      "text_key": "luke.1.p17.b3"
+    },
+    {
+      "id": "LUKE_01_P017_B004",
+      "panel": "LUKE_01_P017_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.5227,
+        0.4,
+        0.0487
+      ],
+      "tail": null,
+      "text_key": "luke.1.p17.b4"
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "mark.5.p1.b1": {
+    "text": "こうして彼らは海の向こう岸、ゲラサ人の地に着いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p1.b2": {
+    "text": "それから、イエスが舟からあがられるとすぐに、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p1.b3": {
+    "text": "けがれた霊につかれた人が墓場から出てきて、イエスに出会った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b1": {
+    "text": "この人は墓場をすみかとしており、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b2": {
+    "text": "もはやだれも、鎖でさえも彼をつなぎとめて置けなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b3": {
+    "text": "彼はたびたび足かせや鎖でつながれたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b4": {
+    "text": "鎖を引きちぎり、足かせを砕くので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b5": {
+    "text": "だれも彼を押えつけることができなかったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b6": {
+    "text": "そして、夜昼たえまなく墓場や山で叫びつづけて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p2.b7": {
+    "text": "石で自分のからだを傷つけていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b1": {
+    "text": "ところが、この人がイエスを遠くから見て、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b2": {
+    "text": "走り寄って拝し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b3": {
+    "text": "大声で叫んで言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b4": {
+    "text": "いと高き神の子イエスよ、あなたはわたしとなんの係わりがあるのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b5": {
+    "text": "神に誓ってお願いします。どうぞ、わたしを苦しめないでください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b6": {
+    "text": "それは、イエスが、…と言われたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p3.b7": {
+    "text": "けがれた霊よ、この人から出て行け",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p4.b1": {
+    "text": "なんという名前か",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p4.b2": {
+    "text": "レギオンと言います。大ぜいなのですから",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p4.b3": {
+    "text": "そして、自分たちをこの土地から追い出さないようにと、しきりに願いつづけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p5.b1": {
+    "text": "わたしどもを、豚にはいらせてください。その中へ送ってください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p5.b2": {
+    "text": "イエスがお許しになったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p5.b3": {
+    "text": "すると、その群れは…がけから海へなだれを打って駆け下り、海の中でおぼれ死んでしまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p5.b4": {
+    "text": "その群れは二千匹ばかりであった",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p6.b1": {
+    "text": "人々は何事が起ったのかと見にきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p6.b2": {
+    "text": "そして、イエスのところにきて、悪霊につかれた人が…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p6.b3": {
+    "text": "着物を着て、正気になってすわっており、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p6.b4": {
+    "text": "それがレギオンを宿していた者であるのを見て、恐れた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p7.b1": {
+    "text": "また、それを見た人たちは、悪霊につかれた人の身に起った事と",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p7.b2": {
+    "text": "豚のこととを、彼らに話して聞かせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p7.b3": {
+    "text": "そこで、人々はイエスに、この地方から出て行っていただきたいと、頼みはじめた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p8.b1": {
+    "text": "悪霊につかれていた人がお供をしたいと願い出た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p8.b2": {
+    "text": "あなたの家族のもとに帰って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p8.b3": {
+    "text": "主がどんなに大きなことをしてくださったか、またどんなにあわれんでくださったか、それを知らせなさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p8.b4": {
+    "text": "自分にイエスがしてくださったことを、ことごとくデカポリスの地方に言いひろめ出したので、人々はみな驚き怪しんだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p9.b1": {
+    "text": "イエスがまた舟で向こう岸へ渡られると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p9.b2": {
+    "text": "そこへ、会堂司のひとりであるヤイロという者がきて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p9.b3": {
+    "text": "わたしの幼い娘が死にかかっています。どうぞ、その子がなおって助かりますように、おいでになって、手をおいてやってください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p9.b4": {
+    "text": "そこで、イエスは彼と一緒に出かけられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p10.b1": {
+    "text": "さてここに、十二年間も長血をわずらっている女がいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p10.b2": {
+    "text": "多くの医者にかかって、さんざん苦しめられ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p10.b3": {
+    "text": "その持ち物をみな費してしまったが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p10.b4": {
+    "text": "なんのかいもないばかりか、かえってますます悪くなる一方であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p11.b1": {
+    "text": "この女がイエスのことを聞いて、群衆の中にまぎれ込み、うしろから、み衣にさわった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p11.b2": {
+    "text": "せめて、み衣にでもさわれば、なおしていただけるだろう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p11.b3": {
+    "text": "すると、血の元がすぐにかわき、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p11.b4": {
+    "text": "女は病気がなおったことを、その身に感じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p12.b1": {
+    "text": "イエスはすぐ、自分の内から力が出て行ったことに気づかれて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p12.b2": {
+    "text": "わたしの着物にさわったのはだれか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p12.b3": {
+    "text": "ごらんのとおり、群衆があなたに押し迫っていますのに、だれがさわったかと、おっしゃるのですか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p12.b4": {
+    "text": "しかし、イエスはさわった者を見つけようとして、見まわしておられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p13.b1": {
+    "text": "その女は自分の身に起ったことを知って、恐れおののきながら進み出て、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p13.b2": {
+    "text": "すべてありのままを申し上げた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p13.b3": {
+    "text": "娘よ、あなたの信仰があなたを救ったのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p13.b4": {
+    "text": "安心して行きなさい。すっかりなおって、達者でいなさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p14.b1": {
+    "text": "あなたの娘はなくなりました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p14.b2": {
+    "text": "このうえ、先生を煩わすには及びますまい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p14.b3": {
+    "text": "恐れることはない。ただ信じなさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p14.b4": {
+    "text": "そしてペテロ、ヤコブ、ヤコブの兄弟ヨハネのほかは、ついて来ることを、だれにもお許しにならなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p15.b1": {
+    "text": "彼らが会堂司の家に着くと、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p15.b2": {
+    "text": "なぜ泣き騒いでいるのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p15.b3": {
+    "text": "子供は死んだのではない。眠っているだけである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p15.b4": {
+    "text": "人々はイエスをあざ笑った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p16.b1": {
+    "text": "しかし、イエスはみんなの者を外に出し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p16.b2": {
+    "text": "タリタ、クミ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p16.b3": {
+    "text": "それは、少女よ、さあ、起きなさいという意味である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p17.b1": {
+    "text": "すると、少女はすぐに起き上がって、歩き出した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p17.b2": {
+    "text": "彼らはたちまち非常な驚きに打たれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p17.b3": {
+    "text": "十二歳にもなっていたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p18.b1": {
+    "text": "イエスは、だれにもこの事を知らすなと、きびしく彼らに命じ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.5.p18.b2": {
+    "text": "また、少女に食物を与えるようにと言われた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Mark 5:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

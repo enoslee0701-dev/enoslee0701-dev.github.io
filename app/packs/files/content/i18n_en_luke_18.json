@@ -1,0 +1,472 @@
+{
+  "luke.18.p1.b1": {
+    "text": "Then Jesus told them a parable about their need to pray at all times and not lose heart:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p1.b2": {
+    "text": "“In a certain town there was a judge who neither feared God nor respected men.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p1.b3": {
+    "text": "‘Give me justice against my adversary.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p2.b1": {
+    "text": "‘Though I neither fear God nor respect men, yet because this widow keeps pestering me, I will give her justice. Then she will stop wearing me out with her perpetual requests.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p2.b2": {
+    "text": "Will not God bring about justice for His elect who cry out to Him day and night? Will He continue to defer their help?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p2.b3": {
+    "text": "Nevertheless, when the Son of Man comes, will He find faith on earth?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p3.b1": {
+    "text": "To some who trusted in their own righteousness and viewed others with contempt, He also told this parable:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p3.b2": {
+    "text": "“Two men went up to the temple to pray. One was a Pharisee and the other a tax collector.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p3.b3": {
+    "text": "‘God, I thank You that I am not like the other men—swindlers, evildoers, adulterers—or even like this tax collector.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p4.b1": {
+    "text": "I fast twice a week and pay tithes of all that I acquire.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p4.b2": {
+    "text": "But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p4.b3": {
+    "text": "‘God, have mercy on me, a sinner!’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p4.b4": {
+    "text": "I tell you, this man, rather than the Pharisee, went home justified.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p5.b1": {
+    "text": "Now people were even bringing their babies to Jesus for Him to place His hands on them. And when the disciples saw this, they rebuked those who brought them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p5.b2": {
+    "text": "“Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p5.b3": {
+    "text": "Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p6.b1": {
+    "text": "“Good Teacher, what must I do to inherit eternal life?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p6.b2": {
+    "text": "“Why do you call Me good?” … “No one is good except God alone.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p6.b3": {
+    "text": "‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p6.b4": {
+    "text": "“All these I have kept from my youth,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p7.b1": {
+    "text": "“You still lack one thing:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p7.b2": {
+    "text": "Sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p7.b3": {
+    "text": "But when the ruler heard this, he became very sad, because he was extremely wealthy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p8.b1": {
+    "text": "“How hard it is for the rich to enter the kingdom of God!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p8.b2": {
+    "text": "Indeed, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p8.b3": {
+    "text": "“Who then can be saved?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p8.b4": {
+    "text": "“What is impossible with man is possible with God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p9.b1": {
+    "text": "“Look,” … “we have left all we had to follow You.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p9.b2": {
+    "text": "“Truly I tell you,” … “no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p9.b3": {
+    "text": "will fail to receive many times more in this age—and in the age to come, eternal life.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p10.b1": {
+    "text": "Then Jesus took the Twelve aside and said to them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p10.b2": {
+    "text": "“Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p10.b3": {
+    "text": "He will be delivered over to the Gentiles … and on the third day He will rise again.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:32-33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p10.b4": {
+    "text": "But the disciples did not understand any of these things. The meaning was hidden from them, and they did not comprehend what He was saying.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p11.b1": {
+    "text": "As Jesus drew near to Jericho, a blind man was sitting beside the road, begging.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p11.b2": {
+    "text": "When he heard the crowd going by, he asked what was happening.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p11.b3": {
+    "text": "“Jesus of Nazareth is passing by,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p12.b1": {
+    "text": "“Jesus, Son of David, have mercy on me!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p12.b2": {
+    "text": "Those who led the way admonished him to be silent,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p12.b3": {
+    "text": "“Son of David, have mercy on me!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p13.b1": {
+    "text": "Jesus stopped and directed that the man be brought to Him. When he had been brought near, Jesus asked him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p13.b2": {
+    "text": "“What do you want Me to do for you?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p13.b3": {
+    "text": "“Lord,” … “let me see again.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p14.b1": {
+    "text": "“Receive your sight!” … “Your faith has healed you.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p14.b2": {
+    "text": "Immediately he received his sight",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p15.b1": {
+    "text": "and followed Jesus, glorifying God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.18.p15.b2": {
+    "text": "And all the people who saw this gave praise to God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 18:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_18_P005",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 5,
+  "ref": "18:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "「你们要小心，不可轻看这些小子中的一个；他们的天使在天上常见我天父的面。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P005_F2",
+      "box": [
+        0,
+        0.2604,
+        0.5771,
+        0.3229
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P005_F3",
+      "box": [
+        0.584,
+        0.2604,
+        0.416,
+        0.3229
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P005_F4",
+      "box": [
+        0,
+        0.5866,
+        1,
+        0.4134
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P005_B001",
+      "panel": "MATTHEW_18_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.53,
+        0.0077,
+        0.46,
+        0.0334
+      ],
+      "tail": [
+        0.76,
+        0.0668
+      ],
+      "text_key": "matthew.18.p5.b1"
+    },
+    {
+      "id": "MATTHEW_18_P005_B002",
+      "panel": "MATTHEW_18_P005_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.53,
+        0.0463,
+        0.46,
+        0.0308
+      ],
+      "tail": [
+        0.76,
+        0.1028
+      ],
+      "text_key": "matthew.18.p5.b2"
+    },
+    {
+      "id": "MATTHEW_18_P005_B003",
+      "panel": "MATTHEW_18_P005_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2885,
+        0.2701,
+        0.2712,
+        0.071
+      ],
+      "tail": [
+        0.4241,
+        0.3734
+      ],
+      "text_key": "matthew.18.p5.b3"
+    },
+    {
+      "id": "MATTHEW_18_P005_B004",
+      "panel": "MATTHEW_18_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.63,
+        0.599,
+        0.34,
+        0.0826
+      ],
+      "tail": [
+        0.8,
+        0.7229
+      ],
+      "text_key": "matthew.18.p5.b4"
+    }
+  ]
+}

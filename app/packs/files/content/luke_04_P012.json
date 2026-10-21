@@ -1,0 +1,154 @@
+{
+  "id": "LUKE_04_P012",
+  "book": "luke",
+  "chapter": 4,
+  "page": 12,
+  "ref": "4:34-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2038
+      ],
+      "alt": {
+        "zh-CN": "“唉！拿撒勒的耶稣，我们和你有什么相干？你来毁灭我们吗？我知道你是谁，你是上帝的圣者。”"
+      }
+    },
+    {
+      "id": "LUKE_04_P012_F2",
+      "box": [
+        0,
+        0.2077,
+        1,
+        0.153
+      ],
+      "alt": {
+        "zh-CN": "耶稣斥责他说：“不要作声，从这人身上出来！”"
+      }
+    },
+    {
+      "id": "LUKE_04_P012_F3",
+      "box": [
+        0,
+        0.3639,
+        1,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "鬼把那人摔倒在众人中间，就出来了，却没有伤害他。"
+      }
+    },
+    {
+      "id": "LUKE_04_P012_F4",
+      "box": [
+        0,
+        0.7559,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "众人都很惊讶，彼此议论说：“这是什么道理呢？因为他用权柄和能力命令污鬼，污鬼就出来了。”于是耶稣的名声传遍了周围各处。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P012_B001",
+      "panel": "LUKE_04_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.005,
+        0.005,
+        0.47,
+        0.0489
+      ],
+      "tail": [
+        0.28,
+        0.0754
+      ],
+      "text_key": "luke.4.p12.b1"
+    },
+    {
+      "id": "LUKE_04_P012_B005",
+      "panel": "LUKE_04_P012_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.7,
+        0.005,
+        0.295,
+        0.0489
+      ],
+      "tail": [
+        0.64,
+        0.09
+      ],
+      "text_key": "luke.4.p12.b5"
+    },
+    {
+      "id": "LUKE_04_P012_B002",
+      "panel": "LUKE_04_P012_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.52,
+        0.223,
+        0.45,
+        0.1224
+      ],
+      "tail": [
+        0.745,
+        0.3607
+      ],
+      "text_key": "luke.4.p12.b2"
+    },
+    {
+      "id": "LUKE_04_P012_B003",
+      "panel": "LUKE_04_P012_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6671,
+        0.4,
+        0.0699
+      ],
+      "tail": null,
+      "text_key": "luke.4.p12.b3"
+    },
+    {
+      "id": "LUKE_04_P012_B004",
+      "panel": "LUKE_04_P012_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.12,
+        0.7608,
+        0.76,
+        0.0488
+      ],
+      "tail": [
+        0.5,
+        0.834
+      ],
+      "text_key": "luke.4.p12.b4"
+    }
+  ]
+}

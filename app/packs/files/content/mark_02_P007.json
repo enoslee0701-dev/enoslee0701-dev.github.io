@@ -1,0 +1,121 @@
+{
+  "id": "MARK_02_P007",
+  "book": "mark",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_02_P007",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_02_P007_F1",
+      "box": [
+        0,
+        0,
+        0.728,
+        0.279
+      ],
+      "alt": {
+        "zh-CN": "文士站在门外问门徒：他怎么和税吏、罪人一同吃喝？"
+      }
+    },
+    {
+      "id": "MARK_02_P007_F2",
+      "box": [
+        0.733,
+        0,
+        0.267,
+        0.279
+      ],
+      "alt": {
+        "zh-CN": "桌边的客人听见了，羞愧地低下头。"
+      }
+    },
+    {
+      "id": "MARK_02_P007_F3",
+      "box": [
+        0,
+        0.283,
+        1,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "耶稣转过脸回答：健康的人用不着医生，有病的人才用得着。"
+      }
+    },
+    {
+      "id": "MARK_02_P007_F4",
+      "box": [
+        0,
+        0.551,
+        1,
+        0.449
+      ],
+      "alt": {
+        "zh-CN": "耶稣向满院的客人张开双手，说他来本是召罪人；灯光从门里一直照到门外的文士脚前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_02_P007_B001",
+      "panel": "MARK_02_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0,
+        0.174,
+        0.355,
+        0.105
+      ],
+      "tail": [
+        0.16,
+        0.14
+      ],
+      "text_key": "mark.2.p7.b1"
+    },
+    {
+      "id": "MARK_02_P007_B002",
+      "panel": "MARK_02_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2909,
+        0.18,
+        0.0789
+      ],
+      "tail": [
+        0.67,
+        0.3961
+      ],
+      "text_key": "mark.2.p7.b2"
+    },
+    {
+      "id": "MARK_02_P007_B003",
+      "panel": "MARK_02_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.865,
+        0.44,
+        0.0628
+      ],
+      "tail": [
+        0.34,
+        0.8
+      ],
+      "text_key": "mark.2.p7.b3"
+    }
+  ]
+}

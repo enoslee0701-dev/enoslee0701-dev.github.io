@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_05_P007",
+  "book": "luke",
+  "chapter": 5,
+  "page": 7,
+  "ref": "5:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "但耶稣的名声更加传开了。"
+      }
+    },
+    {
+      "id": "LUKE_05_P007_F2",
+      "box": [
+        0,
+        0.2292,
+        0.6133,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "有许许多多的人聚集来听道，也盼望他医治他们的病。"
+      }
+    },
+    {
+      "id": "LUKE_05_P007_F3",
+      "box": [
+        0.6211,
+        0.2292,
+        0.3789,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "（耶稣一个人离开了城。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P007_F4",
+      "box": [
+        0,
+        0.5547,
+        1,
+        0.4453
+      ],
+      "alt": {
+        "zh-CN": "耶稣却退到旷野去祷告。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P007_B001",
+      "panel": "LUKE_05_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0068,
+        0.55,
+        0.0585
+      ],
+      "tail": null,
+      "text_key": "luke.5.p7.b1"
+    },
+    {
+      "id": "LUKE_05_P007_B002",
+      "panel": "LUKE_05_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3434,
+        0.2324,
+        0.2575,
+        0.0513
+      ],
+      "tail": null,
+      "text_key": "luke.5.p7.b2"
+    },
+    {
+      "id": "LUKE_05_P007_B003",
+      "panel": "LUKE_05_P007_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.577,
+        0.4,
+        0.089
+      ],
+      "tail": null,
+      "text_key": "luke.5.p7.b3"
+    }
+  ]
+}

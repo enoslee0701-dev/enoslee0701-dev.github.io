@@ -1,0 +1,532 @@
+{
+  "luke.19.p1.b1": {
+    "text": "Then Jesus entered Jericho and was passing through. And there was a man named Zacchaeus, a chief tax collector, who was very wealthy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p1.b2": {
+    "text": "But could not see over the crowd because he was small in stature.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p1.b3": {
+    "text": "So he ran on ahead and climbed a sycamore tree to see Him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p2.b1": {
+    "text": "When Jesus came to that place, He looked up",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p2.b2": {
+    "text": "“Zacchaeus, hurry down, for I must stay at your house today.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p2.b3": {
+    "text": "So Zacchaeus hurried down and welcomed Him joyfully.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b1": {
+    "text": "“He has gone to be the guest of a sinful man!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b2": {
+    "text": "But Zacchaeus stood up and said to the Lord,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b3": {
+    "text": "“Look, Lord, half of my possessions I give to the poor,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b4": {
+    "text": "And if I have cheated anyone, I will repay it fourfold.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p4.b1": {
+    "text": "“Today salvation has come to this house, because this man too is a son of Abraham.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p4.b2": {
+    "text": "For the Son of Man came to seek and to save the lost.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b1": {
+    "text": "… Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b2": {
+    "text": "“A man of noble birth went to a distant country to lay claim to his kingship and then return. Beforehand, he called ten of his servants and gave them ten minas.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:12-13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b3": {
+    "text": "‘Conduct business with this until I return,’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b4": {
+    "text": "‘We do not want this man to rule over us.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b1": {
+    "text": "When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b2": {
+    "text": "‘Master, your mina has produced ten more minas.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b3": {
+    "text": "‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b4": {
+    "text": "‘Master, your mina has made five minas.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b1": {
+    "text": "‘Master, here is your mina, which I have laid away in a piece of cloth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b2": {
+    "text": "For I was afraid of you, because you are a harsh man. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b3": {
+    "text": "‘You wicked servant, I will judge you by your own words.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b4": {
+    "text": "Why then did you not deposit my money in the bank, and upon my return I could have collected it with interest?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p8.b1": {
+    "text": "‘Take the mina from him and give it to the one who has ten minas.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p8.b2": {
+    "text": "‘Master,’ … ‘he already has ten!’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p8.b3": {
+    "text": "‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b1": {
+    "text": "After Jesus had said this, He went on ahead, going up to Jerusalem.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b2": {
+    "text": "As He approached Bethphage and Bethany at the Mount of Olives,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b3": {
+    "text": "saying, “Go into the village ahead of you, and as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b4": {
+    "text": "If anyone asks, ‘Why are you untying it?’ tell him, ‘The Lord needs it.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b1": {
+    "text": "So those who were sent went out and found it just as Jesus had told them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b2": {
+    "text": "“Why are you untying the colt?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b3": {
+    "text": "“The Lord needs it,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b4": {
+    "text": "Then they led the colt to Jesus, threw their cloaks over it, and put Jesus on it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p11.b1": {
+    "text": "As He rode along, the people spread their cloaks on the road.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p11.b2": {
+    "text": "And as He approached the descent from the Mount of Olives, the whole multitude of disciples began to praise God joyfully in a loud voice for all the miracles they had seen:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p11.b3": {
+    "text": "“Blessed is the King who comes in the name of the Lord!” “Peace in heaven and glory in the highest!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p12.b1": {
+    "text": "“Teacher, rebuke Your disciples!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p12.b2": {
+    "text": "“I tell you,” … “if they remain silent, the very stones will cry out.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p13.b1": {
+    "text": "As Jesus approached Jerusalem and saw the city, He wept over it",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p13.b2": {
+    "text": "“If only you had known on this day what would bring you peace!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p13.b3": {
+    "text": "But now it is hidden from your eyes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p14.b1": {
+    "text": "For the days will come upon you when your enemies will barricade you and surround you and hem you in on every side.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p14.b2": {
+    "text": "They will not leave one stone on another,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p14.b3": {
+    "text": "Because you did not recognize the time of your visitation from God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p15.b1": {
+    "text": "Then Jesus entered the temple courts and began to drive out those who were selling there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p15.b2": {
+    "text": "“It is written: ‘My house will be a house of prayer.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p15.b3": {
+    "text": "But you have made it ‘a den of robbers.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p16.b1": {
+    "text": "Jesus was teaching at the temple every day,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p16.b2": {
+    "text": "But the chief priests, scribes, and leaders of the people were intent on killing Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p17.b1": {
+    "text": "Yet they could not find a way to do so,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p17.b2": {
+    "text": "Because all the people hung on His words.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 19:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

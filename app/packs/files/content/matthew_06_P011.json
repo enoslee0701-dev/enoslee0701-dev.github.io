@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_06_P011",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 11,
+  "ref": "6:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "你想想野地里的百合花是怎么长起来的；它们不劳苦，也不纺线。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P011_F2",
+      "box": [
+        0.6182,
+        0.2487,
+        0.3818,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "（寡妇看看手里的纺锤，又看看脚边的花，笑了。）"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P011_F3",
+      "box": [
+        0,
+        0.2487,
+        1,
+        0.4993
+      ],
+      "alt": {
+        "zh-CN": "然而我告诉你们，就是所罗门最荣华的时候，他所穿戴的，还不如这花中的一朵呢！"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P011_F4",
+      "box": [
+        0,
+        0.7513,
+        1,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "野地里的草今天还在，明天就被丢进炉里，上帝还这样装扮它，何况你们呢！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P011_B001",
+      "panel": "MATTHEW_06_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0073,
+        0.35,
+        0.0488
+      ],
+      "tail": [
+        0.795,
+        0.0805
+      ],
+      "text_key": "matthew.6.p11.b1"
+    },
+    {
+      "id": "MATTHEW_06_P011_B002",
+      "panel": "MATTHEW_06_P011_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.2587,
+        0.55,
+        0.0898
+      ],
+      "tail": [
+        0.295,
+        0.3984
+      ],
+      "text_key": "matthew.6.p11.b2"
+    },
+    {
+      "id": "MATTHEW_06_P011_B003",
+      "panel": "MATTHEW_06_P011_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.7563,
+        0.27,
+        0.0447
+      ],
+      "tail": [
+        0.145,
+        0.8259
+      ],
+      "text_key": "matthew.6.p11.b3"
+    }
+  ]
+}

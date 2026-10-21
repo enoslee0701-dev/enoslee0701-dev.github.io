@@ -1,0 +1,124 @@
+{
+  "id": "MARK_07_P015",
+  "book": "mark",
+  "chapter": 7,
+  "page": 15,
+  "ref": "7:31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_07_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_07_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.282
+      ],
+      "alt": {
+        "zh-CN": "耶稣又离开泰尔一带，"
+      }
+    },
+    {
+      "id": "MARK_07_P015_F2",
+      "box": [
+        0,
+        0.286,
+        0.491,
+        0.225
+      ],
+      "alt": {
+        "zh-CN": "经过西顿，"
+      }
+    },
+    {
+      "id": "MARK_07_P015_F3",
+      "box": [
+        0.499,
+        0.286,
+        0.501,
+        0.225
+      ],
+      "alt": {
+        "zh-CN": "（他们转回内陆，走了很远的路。）"
+      }
+    },
+    {
+      "id": "MARK_07_P015_F4",
+      "box": [
+        0,
+        0.514,
+        1,
+        0.486
+      ],
+      "alt": {
+        "zh-CN": "穿过低加坡里地区，回到加利利湖边。"
+      }
+    },
+    {
+      "id": "MARK_07_P015_F5",
+      "box": [
+        0.531,
+        0.769,
+        0.469,
+        0.231
+      ],
+      "alt": {
+        "zh-CN": "（湖边，一个当地人认出了耶稣。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_07_P015_B001",
+      "panel": "MARK_07_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0085,
+        0.45,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "mark.7.p15.b1"
+    },
+    {
+      "id": "MARK_07_P015_B002",
+      "panel": "MARK_07_P015_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0246,
+        0.2927,
+        0.432,
+        0.0315
+      ],
+      "tail": null,
+      "text_key": "mark.7.p15.b2"
+    },
+    {
+      "id": "MARK_07_P015_B003",
+      "panel": "MARK_07_P015_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.24,
+        0.5966,
+        0.4,
+        0.0486
+      ],
+      "tail": null,
+      "text_key": "mark.7.p15.b3"
+    }
+  ]
+}

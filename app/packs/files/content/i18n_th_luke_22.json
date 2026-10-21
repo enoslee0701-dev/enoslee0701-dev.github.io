@@ -1,0 +1,862 @@
+{
+  "luke.22.p1.b1": {
+    "text": "เมื่อ​ใกล้​ถึง​เทศกาล​ขนมปัง​ไร้​เชื้อ​ที่​เรียก​ว่า​เทศกาล​ปัสกา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p1.b2": {
+    "text": "พวก​หัวหน้า​ปุโรหิต​กับ​ครู​สอน​กฎ​บัญญัติ​พยายาม​หา​ช่อง​ทาง​กำจัด​พระเยซู แต่​พวก​เขา​ก็​กลัว​ประชาชน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p1.b3": {
+    "text": "แล้ว​ซาตาน​เข้า​ครอบ​ครอง​ยูดาส​ที่​มี​อีก​ชื่อ​ว่า​อิสคาริโอท หนึ่ง​ใน​สาวก​สิบ​สอง​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p2.b1": {
+    "text": "ยูดาส​ไป​พบ​พวก​หัวหน้า​ปุโรหิต​กับ​นาย​ทหาร​เฝ้า​วิหาร และ​หารือ​กัน​ว่า เขา​จะ​ทรยศ​พระเยซู​ได้​อย่างไร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p2.b2": {
+    "text": "พวก​หัวหน้า​ปุโรหิต​ดีใจ​และ​ตกลง​จะ​ให้​เงิน​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p2.b3": {
+    "text": "ยูดาส​ยินยอม​และ​จ้อง​หา​โอกาส​ที่​จะ​มอบ​พระองค์​ให้​พวก​นั้น​ตอน​ปลอด​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p3.b1": {
+    "text": "เมื่อ​ถึง​วัน​เทศกาล​ขนมปัง​ไร้​เชื้อ ซึ่ง​เป็น​วัน​ที่​ต้อง​มอบ​ลูก​แกะ​ปัสกา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p3.b2": {
+    "text": "“จง​ไป​จัด​เตรียม​ปัสกา​ให้​พวก​เรา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p3.b3": {
+    "text": "“พระองค์​ต้องการ​ให้​เรา​จัด​เตรียม​ปัสกา​ที่​ไหน”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b1": {
+    "text": "“เมื่อ​เข้า​ไป​ใน​เมือง จะ​มี​ชาย​คน​หนึ่ง​ถือ​เหยือก​น้ำ​มา​พบ​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b2": {
+    "text": "จง​ตาม​เขา​เข้า​ไป​ใน​บ้าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b3": {
+    "text": "และ​บอก​เจ้าของ​บ้าน​นั้น​ว่า ‘ท่าน​อาจารย์​ถาม​ว่า ห้อง​รับรอง​แขก​ที่​เรา​จะ​กิน​ปัสกา​ร่วม​กับ​พวก​สาวก​อยู่​ที่​ไหน’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p4.b4": {
+    "text": "เขา​จะ​พา​ไป​ดู​ห้อง​ใหญ่​ชั้น​บน​ซึ่ง​ตกแต่ง​เตรียม​ไว้​แล้ว จง​เตรียม​ปัสกา​ที่​นั่น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p5.b1": {
+    "text": "ทั้ง​สอง​ก็​ไป​และ​ได้​พบ​ตาม​ที่​พระเยซู​บอก​ไว้​ทุก​อย่าง ดังนั้น​พวก​เขา​จึง​จัด​เตรียม​ปัสกา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p5.b2": {
+    "text": "เมื่อ​ถึง​เวลา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p5.b3": {
+    "text": "พระเยซู​กับ​เหล่า​อัครทูต​ก็​อยู่​ที่​โต๊ะ​อาหาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p6.b1": {
+    "text": "“เรา​ตั้งตา​รอ​ที่​จะ​กิน​ปัสกา​นี้​กับ​พวก​เจ้า​ก่อน​ที่​เรา​จะ​ต้อง​ทน​ทุกข์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p6.b2": {
+    "text": "เพราะ​เรา​บอก​ว่า เรา​จะ​ไม่​กิน​ปัสกา​อีก จน​กว่า​ความหมาย​ของ​ปัสกา​จะ​สำเร็จ​ครบถ้วน​ใน​อาณาจักร​ของ​พระเจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p7.b1": {
+    "text": "พระองค์​ยก​ถ้วย ขอบคุณ​พระเจ้า​และ​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p7.b2": {
+    "text": "“จง​รับ​ถ้วย​นี้​ไป​แบ่ง​กัน​ดื่ม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p7.b3": {
+    "text": "เพราะ​เรา​บอก​ว่า เรา​จะ​ไม่​ดื่ม​เหล้า​องุ่น​อีก​จนกว่า​อาณาจักร​ของ​พระเจ้า​จะ​มา​ถึง”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b1": {
+    "text": "จาก​นั้น​พระองค์​หยิบ​ขนมปัง ขอบคุณ​พระเจ้า แล้ว​หัก​ส่ง​ให้​พวก​เขา​และ​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b2": {
+    "text": "“นี่​คือ​กาย​ของ​เรา​ซึ่ง​ให้​แก่​เจ้า จง​ทำ​อย่าง​นี้​เพื่อ​เป็น​การ​ระลึก​ถึง​เรา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b3": {
+    "text": "หลัง​จาก​กิน​อาหาร​มื้อ​นั้น​แล้ว พระองค์​กระทำ​อย่าง​เดียว​กัน คือ​หยิบ​ถ้วย​ขึ้น​และ​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p8.b4": {
+    "text": "“ถ้วย​นี้​คือ​พันธสัญญา​ใหม่​ด้วย​โลหิต​ของ​เรา​ซึ่ง​หลั่ง​ออก​มา​เพื่อ​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p9.b1": {
+    "text": "แต่​มือ​ของ​คน​ที่​จะ​ทรยศ​เรา​ก็​อยู่​บน​โต๊ะ​นี้​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p9.b2": {
+    "text": "บุตร​มนุษย์​จะ​เป็น​ไป​ตาม​ที่​กำหนด​ไว้ แต่​วิบัติ​แก่​คน​ที่​ทรยศ​ต่อ​พระองค์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p9.b3": {
+    "text": "พวก​สาวก​จึง​เริ่ม​ถาม​กัน​เอง​ว่า​ใคร​ใน​พวก​เขา​ที่​จะ​ทำ​อย่าง​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b1": {
+    "text": "ทั้ง​มี​การ​โต้เถียง​กัน​ใน​พวก​สาวก​ว่า​ใคร​เป็น​ใหญ่​ที่​สุด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b2": {
+    "text": "แต่​พวก​เจ้า​ไม่​ได้​เป็น​เช่น​นั้น ตรง​กัน​ข้าม คน​ที่​ยิ่ง​ใหญ่​ที่​สุด​ใน​พวก​เจ้า​ควร​เป็น​เหมือน​เด็ก และ​คน​ที่​เป็น​นาย​ให้​เป็น​เหมือน​คน​รับใช้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b3": {
+    "text": "ใคร​ใหญ่​กว่า​กัน คน​ที่​โต๊ะ​หรือ​คน​ที่​คอย​รับใช้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p10.b4": {
+    "text": "แต่​เรา​อยู่​ท่ามกลาง​พวก​เจ้า​เหมือน​คน​รับใช้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p11.b1": {
+    "text": "พวก​เจ้า​คือ​คน​ที่​ยืน​เคียง​ข้าง​เมื่อ​เรา​ถูก​ทดสอบ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p11.b2": {
+    "text": "และ​เรา​ยก​อาณาจักร​หนึ่ง​ให้​กับ​เจ้า เหมือน​ที่​พระบิดา​ยก​อาณาจักร​หนึ่ง​ให้​เรา เพื่อ​เจ้า​จะ​ร่วม​กิน​ดื่ม​ที่​โต๊ะ​ของ​เรา​ใน​อาณาจักร​ของ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p11.b3": {
+    "text": "และ​จะ​นั่ง​บน​บัลลังก์​พิพากษา​ชน​อิสราเอล​สิบ​สอง​เผ่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b1": {
+    "text": "ซีโมน ซีโมน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b2": {
+    "text": "ซาตาน​ได้​ขอ​ไว้​ที่​จะ​ร่อน​พวก​เจ้า​เหมือน​ร่อน​ข้าว​สาลี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b3": {
+    "text": "แต่​ซีโมน เรา​อธิษฐาน​เผื่อ​เจ้า เพื่อ​ความ​เชื่อ​ของ​เจ้า​จะ​ไม่​ล้มเหลว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p12.b4": {
+    "text": "และ​เมื่อ​เจ้า​หัน​กลับ​มา​แล้ว จง​ช่วย​ให้​พี่​น้อง​เข้มแข็ง​ขึ้น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p13.b1": {
+    "text": "“องค์​พระผู้เป็นเจ้า ข้าพเจ้า​พร้อม​ที่​จะ​ไป​กับ​พระองค์ ไม่ว่า​จะ​ต้อง​ติด​คุก​หรือ​ต้อง​ตาย”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p13.b2": {
+    "text": "“เปโตร เรา​บอก​เจ้า​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p13.b3": {
+    "text": "วัน​นี้​ก่อน​ไก่​ขัน เจ้า​จะ​ปฏิเสธ​ว่า​ไม่​รู้จัก​เรา​ถึง​สาม​ครั้ง”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b1": {
+    "text": "“เมื่อ​เรา​ส่ง​พวก​เจ้า​ไป​โดย​ไม่​มี​ถุง​เงิน ย่าม หรือ​รองเท้า เจ้า​ขาด​อะไร​หรือ​ไม่”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b2": {
+    "text": "…ถ้า​ไม่​มี​ดาบ​ให้​ขาย​เสื้อ​คลุม​เพื่อ​ไป​ซื้อ​ดาบ มี​คำ​เขียน​ไว้​ว่า ‘และ​เขา​ถูก​นับ​เป็น​พวก​เดียว​กับ​คน​ละเมิด’ เรา​บอก​เจ้า​ว่า​ข้อความ​นี้​จะ​เกิด​ขึ้น​จริง​กับ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:36-37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b3": {
+    "text": "“องค์​พระผู้เป็นเจ้า ดู​สิ​ที่​นี่​มี​ดาบ​สอง​เล่ม”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p14.b4": {
+    "text": "“พอ​ได้​แล้ว!”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p15.b1": {
+    "text": "“จง​อธิษฐาน เพื่อ​พวก​เจ้า​จะ​ไม่​พ่าย​แพ้​ต่อ​สิ่ง​ล่อ​ใจ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p15.b2": {
+    "text": "“พระบิดา ถ้า​พระองค์​ยินดี ขอ​เอา​ถ้วย​นี้​ไป​จาก​ลูก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p15.b3": {
+    "text": "แต่​อย่า​ให้​เป็น​ไป​ตาม​ความ​ต้องการ​ของ​ลูก ขอ​ให้​เกิดขึ้น​ตาม​ความ​ประสงค์​ของ​พระองค์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p16.b1": {
+    "text": "ทูต​สวรรค์​องค์​หนึ่ง​มา​ปรากฏ และ​ช่วย​ให้​พระองค์​มี​กำลัง​ขึ้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p16.b2": {
+    "text": "ขณะ​ที่​พระเยซู​เป็น​ทุกข์ พระองค์​อธิษฐาน​หนัก​ขึ้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p16.b3": {
+    "text": "จน​เหงื่อ​เหมือน​เลือด​หยด​ลง​พื้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p17.b1": {
+    "text": "เมื่อ​ลุก​ขึ้น​จาก​การ​อธิษฐาน​และ​กลับ​มา​หา​พวก​สาวก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p17.b2": {
+    "text": "ก็​พบ​ว่า​พวก​เขา​หลับ​สิ้น​แรง​ไป​ด้วย​ความ​โศก​เศร้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p17.b3": {
+    "text": "“ทำไม​ถึง​ยัง​หลับ​อยู่ ลุก​ขึ้น​แล้ว​อธิษฐาน เพื่อ​พวก​เจ้า​จะ​ไม่​ยอม​แพ้​ต่อ​สิ่ง​ล่อ​ใจ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p18.b1": {
+    "text": "ขณะ​ที่​พระองค์​พูด​ยัง​ไม่​ทัน​ขาด​คำ ฝูงชน​กลุ่ม​หนึ่ง​ก็​เข้า​มา นำ​โดย​ยูดาส​หนึ่ง​ใน​สาวก​สิบสอง​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p18.b2": {
+    "text": "เขา​เข้า​ไป​ใกล้​พระเยซู​เพื่อ​จะ​จูบ​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p18.b3": {
+    "text": "“ยูดาส เจ้า​ทรยศ​บุตร​มนุษย์​ด้วย​การ​จูบ​หรือ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b1": {
+    "text": "“องค์​พระผู้เป็นเจ้า เอา​ดาบ​ฟัน​เลย​ดี​ไหม”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b2": {
+    "text": "แล้ว​สาวก​คน​หนึ่ง​เอา​ดาบ​ฟัน​คน​รับใช้​ของ​มหา​ปุโรหิต ถูก​หู​ข้าง​ขวา​ขาด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b3": {
+    "text": "“อย่า​ทำ​อีก!”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p19.b4": {
+    "text": "พระองค์​แตะ​หู​และ​รักษา​คน​นั้น​ให้​หาย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b1": {
+    "text": "“เรา​ก่อ​การ​กบฏ​หรือ พวก​ท่าน​จึง​ได้​ถือ​ดาบ​และ​กระบอง​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b2": {
+    "text": "…แต่​นี่​เป็น​เวลา​ของ​ท่าน​แล้ว เมื่อ​ความ​มืด​ครอง​อำนาจ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b3": {
+    "text": "พวก​เขา​จับ​พระเยซู​แล้ว​นำ​ตัว​เข้า​ไป​ใน​บ้าน​ของ​มหา​ปุโรหิต เปโตร​ตาม​ไป​ห่าง​ๆ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p20.b4": {
+    "text": "เมื่อ​พวก​เขา​ก่อ​ไฟ​ที่​กลาง​ลาน​บ้าน​และ​นั่ง​ลง เปโตร​ก็​นั่ง​กับ​พวก​เขา​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b1": {
+    "text": "“คน​นี้​ก็​อยู่​กับ​เขา​ด้วย”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b2": {
+    "text": "“ข้า​ไม่​รู้จัก​เขา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b3": {
+    "text": "“เจ้า​ก็​เป็น​หนึ่ง​ใน​พวก​นั้น​ด้วย​นี่”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p21.b4": {
+    "text": "“พ่อ​หนุ่ม ข้า​ไม่​ได้​เป็น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b1": {
+    "text": "ประมาณ​อีก​ชั่วโมง​หนึ่ง อีก​คน​พูด​ยืนยัน​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b2": {
+    "text": "“คน​นี้​อยู่​กับ​เขา​แน่​ๆ เพราะ​เป็น​ชาว​กาลิลี​ด้วย”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b3": {
+    "text": "“ข้า​ไม่​รู้​ว่า​เจ้า​พูด​ถึง​อะไร!”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p22.b4": {
+    "text": "เปโตร​พูด​ยัง​ไม่​ทัน​ขาด​คำ​ไก่​ก็​ขัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b1": {
+    "text": "องค์​พระผู้เป็นเจ้า​เหลียว​มอง​ที่​เปโตร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b2": {
+    "text": "เขา​จึง​นึก​คำ​ที่​องค์​พระผู้เป็นเจ้า​พูด​กับ​เขา​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b3": {
+    "text": "“วัน​นี้​ก่อน​ไก่​ขัน เจ้า​จะ​ตัดขาด​เรา​สาม​ครั้ง”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p23.b4": {
+    "text": "เขา​จึง​ออก​ไป​ข้าง​นอก ร้องไห้​อย่าง​ขม​ขื่น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:62"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p24.b1": {
+    "text": "พวก​ที่​คุม​ตัว​พระเยซู​เริ่ม​เยาะ​เย้ย​และ​ทุบ​ตี​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:63"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p24.b2": {
+    "text": "“ผู้​เผย​พระวจนะ ทาย​สิ​ว่า​ใคร​ตี​เจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:64"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p24.b3": {
+    "text": "และ​พวก​เขา​พูด​ลบหลู่​พระองค์​ต่าง​ๆ นานา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:65"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b1": {
+    "text": "พอ​รุ่ง​เช้า พวก​ผู้​อาวุโส ทั้ง​หัวหน้า​ปุโรหิต​และ​ครู​สอน​กฎ​บัญญัติ​มา​ประชุม​กัน พระเยซู​ถูก​นำ​ตัว​มา​ต่อ​หน้า​พวก​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:66"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b2": {
+    "text": "“ถ้า​เจ้า​เป็น​พระเมสสิยาห์​ก็​บอก​เรา​มา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:67"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b3": {
+    "text": "แต่​ว่า​นับ​จาก​นี้​ไป บุตร​มนุษย์​จะ​นั่ง​อยู่​ด้าน​ขวา​มือ​ของ​พระเจ้า​ผู้​มี​ฤทธิ์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:69"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b4": {
+    "text": "“ถ้า​อย่าง​นั้น เจ้า​เป็น​พระบุตร​ของ​พระเจ้า​สิ​นะ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:70"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.22.p25.b5": {
+    "text": "“ท่าน​พูด​ว่า​เรา​เป็น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 22:70"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

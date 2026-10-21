@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_16_P002",
+  "book": "matthew",
+  "chapter": 16,
+  "page": 2,
+  "ref": "16:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_16_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_16_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2188
+      ],
+      "alt": {
+        "zh-CN": "早晨天空发红又阴暗，你们就说：『今天会有风雨。』"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P002_F2",
+      "box": [
+        0.005,
+        0.2217,
+        0.318,
+        0.2
+      ]
+    },
+    {
+      "id": "MATTHEW_16_P002_F3",
+      "box": [
+        0,
+        0.2207,
+        1,
+        0.4753
+      ],
+      "alt": {
+        "zh-CN": "你们懂得分辨天色，却不能分辨这时代的神迹。一个邪恶淫乱的世代求神迹，除了约拿的神迹以外，再没有神迹给他们看。」"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P002_F4",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "耶稣就离开他们走了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_16_P002_B001",
+      "panel": "MATTHEW_16_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4,
+        0.175,
+        0.58,
+        0.0393
+      ],
+      "tail": [
+        0.69,
+        0.2188
+      ],
+      "text_key": "matthew.16.p2.b1"
+    },
+    {
+      "id": "MATTHEW_16_P002_B002",
+      "panel": "MATTHEW_16_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.2255,
+        0.33,
+        0.057
+      ],
+      "tail": [
+        0.625,
+        0.33
+      ],
+      "text_key": "matthew.16.p2.b2"
+    },
+    {
+      "id": "MATTHEW_16_P002_B003",
+      "panel": "MATTHEW_16_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.2825,
+        0.3,
+        0.0522
+      ],
+      "tail": [
+        0.61,
+        0.3822
+      ],
+      "text_key": "matthew.16.p2.b3"
+    },
+    {
+      "id": "MATTHEW_16_P002_B004",
+      "panel": "MATTHEW_16_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7046,
+        0.4,
+        0.0331
+      ],
+      "tail": null,
+      "text_key": "matthew.16.p2.b4"
+    }
+  ]
+}

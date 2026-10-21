@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_05_P006",
+  "book": "luke",
+  "chapter": 5,
+  "page": 6,
+  "ref": "5:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "有一次，耶稣在一个城里，有一个满身长了大麻风的人，看见他，就俯伏在地，"
+      }
+    },
+    {
+      "id": "LUKE_05_P006_F2",
+      "box": [
+        0,
+        0.3236,
+        1,
+        0.1738
+      ],
+      "alt": {
+        "zh-CN": "求他说：“主如果愿意，一定能使我洁净。”"
+      }
+    },
+    {
+      "id": "LUKE_05_P006_F3",
+      "box": [
+        0,
+        0.5007,
+        0.6025,
+        0.4993
+      ],
+      "alt": {
+        "zh-CN": "耶稣伸手摸他，说：“我愿意，你洁净了吧！”大麻风立刻离开了他的身体。"
+      }
+    },
+    {
+      "id": "LUKE_05_P006_F4",
+      "box": [
+        0.6094,
+        0.5007,
+        0.3906,
+        0.4993
+      ],
+      "alt": {
+        "zh-CN": "耶稣嘱咐他：“你不可告诉人，只要去把身体给祭司察看……”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P006_B001",
+      "panel": "LUKE_05_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.67,
+        0.0128,
+        0.31,
+        0.0898
+      ],
+      "tail": null,
+      "text_key": "luke.5.p6.b1"
+    },
+    {
+      "id": "LUKE_05_P006_B002",
+      "panel": "LUKE_05_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6,
+        0.3323,
+        0.38,
+        0.0695
+      ],
+      "tail": [
+        0.79,
+        0.4192
+      ],
+      "text_key": "luke.5.p6.b2"
+    },
+    {
+      "id": "LUKE_05_P006_B003",
+      "panel": "LUKE_05_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3495,
+        0.5107,
+        0.241,
+        0.0699
+      ],
+      "tail": [
+        0.47,
+        0.6305
+      ],
+      "text_key": "luke.5.p6.b3"
+    },
+    {
+      "id": "LUKE_05_P006_B004",
+      "panel": "LUKE_05_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6289,
+        0.8951,
+        0.3515,
+        0.0948
+      ],
+      "tail": [
+        0.8047,
+        1
+      ],
+      "text_key": "luke.5.p6.b4"
+    }
+  ]
+}

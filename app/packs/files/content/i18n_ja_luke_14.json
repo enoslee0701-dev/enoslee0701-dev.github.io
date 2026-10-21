@@ -1,0 +1,392 @@
+{
+  "luke.14.p1.b1": {
+    "text": "ある安息日のこと、食事をするために、あるパリサイ派のかしらの家にはいって行かれたが、人々はイエスの様子をうかがっていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p1.b2": {
+    "text": "するとそこに、水腫をわずらっている人が、みまえにいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p2.b1": {
+    "text": "「安息日に人をいやすのは、正しいことかどうか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p2.b2": {
+    "text": "彼らは黙っていた。そこでイエスはその人に手を置いていやしてやり、そしてお帰しになった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p2.b3": {
+    "text": "「あなたがたのうちで、自分のむすこか牛が井戸に落ち込んだなら、安息日だからといって、すぐに引き上げてやらない者がいるだろうか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p2.b4": {
+    "text": "彼らはこれに対して返す言葉がなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p3.b1": {
+    "text": "客に招かれた者たちが上座を選んでいる様子をごらんになって、彼らに一つの譬を語られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p3.b2": {
+    "text": "「婚宴に招かれたときには、上座につくな。あるいは、あなたよりも身分の高い人が招かれているかも知れない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p3.b3": {
+    "text": "『このかたに座を譲ってください』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p4.b1": {
+    "text": "むしろ、招かれた場合には、末座に行ってすわりなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p4.b2": {
+    "text": "『友よ、上座の方へお進みください』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p4.b3": {
+    "text": "おおよそ、自分を高くする者は低くされ、自分を低くする者は高くされるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p5.b1": {
+    "text": "また、イエスは自分を招いた人に言われた、「午餐または晩餐の席を設ける場合には、友人、兄弟、親族、金持の隣り人などは呼ばぬがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p5.b2": {
+    "text": "むしろ、宴会を催す場合には、貧乏人、不具者、足なえ、盲人などを招くがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p5.b3": {
+    "text": "そうすれば、彼らは返礼ができないから、あなたはさいわいになるであろう。正しい人々の復活の際には、あなたは報いられるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p6.b1": {
+    "text": "「神の国で食事をする人は、さいわいです」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p6.b2": {
+    "text": "そこでイエスが言われた、「ある人が盛大な晩餐会を催して、大ぜいの人を招いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p6.b3": {
+    "text": "『さあ、おいでください。もう準備ができましたから』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p7.b1": {
+    "text": "ところが、みんな一様に断りはじめた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p7.b2": {
+    "text": "『わたしは土地を買いましたので、行って見なければなりません。どうぞ、おゆるしください』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p7.b3": {
+    "text": "『わたしは五対の牛を買いましたので、それをしらべに行くところです。どうぞ、おゆるしください』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p7.b4": {
+    "text": "『わたしは妻をめとりましたので、参ることができません』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p8.b1": {
+    "text": "僕は帰ってきて、以上の事を主人に報告した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p8.b2": {
+    "text": "『いますぐに、町の大通りや小道へ行って、貧乏人、不具者、盲人、足なえなどを、ここへ連れてきなさい』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p8.b3": {
+    "text": "『ご主人様、仰せのとおりにいたしましたが、まだ席がございます』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p9.b1": {
+    "text": "『道やかきねのあたりに出て行って、この家がいっぱいになるように、人々を無理やりにひっぱってきなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p9.b2": {
+    "text": "あなたがたに言って置くが、招かれた人で、わたしの晩餐にあずかる者はひとりもないであろう』」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p10.b1": {
+    "text": "大ぜいの群衆がついてきたので、イエスは彼らの方に向いて言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p10.b2": {
+    "text": "「だれでも、父、母、妻、子、兄弟、姉妹、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p10.b3": {
+    "text": "さらに自分の命までも捨てて、わたしのもとに来るのでなければ、わたしの弟子となることはできない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p10.b4": {
+    "text": "自分の十字架を負うてわたしについて来るものでなければ、わたしの弟子となることはできない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p11.b1": {
+    "text": "あなたがたのうちで、だれかが邸宅を建てようと思うなら、それを仕上げるのに足りるだけの金を持っているかどうかを見るため、まず、すわってその費用を計算しないだろうか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p11.b2": {
+    "text": "そうしないと、土台をすえただけで完成することができず、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p11.b3": {
+    "text": "見ているみんなの人が、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p11.b4": {
+    "text": "『あの人は建てかけたが、仕上げができなかった』と言ってあざ笑うようになろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p12.b1": {
+    "text": "また、どんな王でも、ほかの王と戦いを交えるために出て行く場合には、まず座して、こちらの一万人をもって、二万人を率いて向かって来る敵に対抗できるかどうか、考えて見ないだろうか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p12.b2": {
+    "text": "もし自分の力にあまれば、敵がまだ遠くにいるうちに、使者を送って、和を求めるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p12.b3": {
+    "text": "それと同じように、あなたがたのうちで、自分の財産をことごとく捨て切るものでなくては、わたしの弟子となることはできない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.14.p12.b4": {
+    "text": "塩は良いものだ。しかし、塩もききめがなくなったら、何によって塩味が取りもどされようか。…外に投げ捨てられてしまう。聞く耳のあるものは聞くがよい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 14:34-35"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

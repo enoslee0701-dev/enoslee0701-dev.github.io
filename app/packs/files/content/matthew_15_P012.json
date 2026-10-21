@@ -1,0 +1,160 @@
+{
+  "id": "MATTHEW_15_P012",
+  "book": "matthew",
+  "chapter": 15,
+  "page": 12,
+  "ref": "15:32-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_15_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_15_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ]
+    },
+    {
+      "id": "MATTHEW_15_P012_F2",
+      "box": [
+        0,
+        0.2389,
+        0.3301,
+        0.3932
+      ]
+    },
+    {
+      "id": "MATTHEW_15_P012_F3",
+      "box": [
+        0.3359,
+        0.2389,
+        0.6641,
+        0.3932
+      ],
+      "alt": {
+        "zh-CN": "我怜悯这群人，他们跟我在这里已经三天，没有东西吃了。我不愿意让他们饿着回去，怕他们在路上晕倒。"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P012_F4",
+      "box": [
+        0,
+        0.6354,
+        0.4912,
+        0.3646
+      ],
+      "alt": {
+        "zh-CN": "在这野外，我们从哪里弄这么多饼让这么多人吃饱呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P012_F5",
+      "box": [
+        0.4971,
+        0.6354,
+        0.5029,
+        0.3646
+      ],
+      "alt": {
+        "zh-CN": "你们有多少饼？——七个，还有几条小鱼。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_15_P012_B001",
+      "panel": "MATTHEW_15_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.6,
+        0.0047,
+        0.38,
+        0.0517
+      ],
+      "tail": null,
+      "text_key": "matthew.15.p12.b1"
+    },
+    {
+      "id": "MATTHEW_15_P012_B002",
+      "panel": "MATTHEW_15_P012_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5351,
+        0.2468,
+        0.4515,
+        0.0786
+      ],
+      "tail": [
+        0.7609,
+        0.3647
+      ],
+      "text_key": "matthew.15.p12.b2"
+    },
+    {
+      "id": "MATTHEW_15_P012_B003",
+      "panel": "MATTHEW_15_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3045,
+        0.6427,
+        0.1768,
+        0.0802
+      ],
+      "tail": [
+        0.3929,
+        0.7594
+      ],
+      "text_key": "matthew.15.p12.b3"
+    },
+    {
+      "id": "MATTHEW_15_P012_B004",
+      "panel": "MATTHEW_15_P012_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5172,
+        0.6427,
+        0.4626,
+        0.0311
+      ],
+      "tail": [
+        0.7485,
+        0.7103
+      ],
+      "text_key": "matthew.15.p12.b4"
+    },
+    {
+      "id": "MATTHEW_15_P012_B005",
+      "panel": "MATTHEW_15_P012_F5",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5172,
+        0.6812,
+        0.4626,
+        0.049
+      ],
+      "tail": [
+        0.7485,
+        0.7667
+      ],
+      "text_key": "matthew.15.p12.b5"
+    }
+  ]
+}

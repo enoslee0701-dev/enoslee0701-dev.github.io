@@ -1,0 +1,151 @@
+{
+  "id": "MARK_04_P002",
+  "book": "mark",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.172
+      ],
+      "alt": {
+        "zh-CN": "耶稣向岸上的人扬声说：你们听啊！"
+      }
+    },
+    {
+      "id": "MARK_04_P002_F2",
+      "box": [
+        0,
+        0.176,
+        1,
+        0.406
+      ],
+      "alt": {
+        "zh-CN": "有一个撒种的人出去撒种。"
+      }
+    },
+    {
+      "id": "MARK_04_P002_F3",
+      "box": [
+        0,
+        0.587,
+        0.491,
+        0.24
+      ],
+      "alt": {
+        "zh-CN": "撒的时候，有些种子落在路旁，"
+      }
+    },
+    {
+      "id": "MARK_04_P002_F4",
+      "box": [
+        0.5,
+        0.587,
+        0.5,
+        0.24
+      ],
+      "alt": {
+        "zh-CN": "飞鸟来把它们吃光了。"
+      }
+    },
+    {
+      "id": "MARK_04_P002_F5",
+      "box": [
+        0,
+        0.833,
+        1,
+        0.167
+      ],
+      "alt": {
+        "zh-CN": "岸上的男孩指着湖边啄食的麻雀，老农夫点头。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_04_P002_B001",
+      "panel": "MARK_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6943,
+        0.005,
+        0.3043,
+        0.155
+      ],
+      "tail": [
+        0.665,
+        0.06
+      ],
+      "text_key": "mark.4.p2.b1"
+    },
+    {
+      "id": "MARK_04_P002_B002",
+      "panel": "MARK_04_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7,
+        0.1841,
+        0.28,
+        0.0365
+      ],
+      "tail": [
+        0,
+        0.2612
+      ],
+      "text_key": "mark.4.p2.b2"
+    },
+    {
+      "id": "MARK_04_P002_B003",
+      "panel": "MARK_04_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0147,
+        0.5966,
+        0.2062,
+        0.0432
+      ],
+      "tail": [
+        0,
+        0.6638
+      ],
+      "text_key": "mark.4.p2.b3"
+    },
+    {
+      "id": "MARK_04_P002_B004",
+      "panel": "MARK_04_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.505,
+        0.762,
+        0.39,
+        0.068
+      ],
+      "tail": [
+        0.5,
+        0.796
+      ],
+      "text_key": "mark.4.p2.b4"
+    }
+  ]
+}

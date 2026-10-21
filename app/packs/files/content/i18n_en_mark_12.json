@@ -1,0 +1,552 @@
+{
+  "mark.12.p1.b1": {
+    "text": "A man planted a vineyard.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p1.b2": {
+    "text": "He put a wall around it, dug a wine vat, and built a watchtower.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p1.b3": {
+    "text": "Then he rented it out to some tenants and went away on a journey.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p2.b1": {
+    "text": "At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p2.b2": {
+    "text": "But they seized the servant, beat him, and sent him away empty-handed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p2.b3": {
+    "text": "They struck him over the head and treated him shamefully.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p2.b4": {
+    "text": "He sent still another, and this one they killed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p3.b1": {
+    "text": "Finally, having one beloved son, he sent him to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p3.b2": {
+    "text": "They will respect my son,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p3.b3": {
+    "text": "This is the heir. Come, let us kill him, and the inheritance will be ours.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p3.b4": {
+    "text": "So they seized the son, killed him, and threw him out of the vineyard.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p4.b1": {
+    "text": "What then will the owner of the vineyard do?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p4.b2": {
+    "text": "He will come and kill those tenants, and will give the vineyard to others.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p4.b3": {
+    "text": "The stone the builders rejected has become the cornerstone.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p4.b4": {
+    "text": "At this, the leaders sought to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p5.b1": {
+    "text": "Later, they sent some of the Pharisees and Herodians to catch Jesus in His words.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p5.b2": {
+    "text": "Teacher, … we know that You are honest and seek favor from no one.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p5.b3": {
+    "text": "Is it lawful to pay taxes to Caesar or not?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p5.b4": {
+    "text": "Should we pay them or not?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p6.b1": {
+    "text": "Why are you testing Me? Bring Me a denarius to inspect.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p6.b2": {
+    "text": "Whose image is this? And whose inscription?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p6.b3": {
+    "text": "Caesar’s,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p6.b4": {
+    "text": "Give to Caesar what is Caesar’s, and to God what is God’s.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p7.b1": {
+    "text": "The Sadducees, who say there is no resurrection,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p7.b2": {
+    "text": "Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p7.b3": {
+    "text": "In this way, none of the seven left any children. And last of all, the woman died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p7.b4": {
+    "text": "In the resurrection, then, whose wife will she be?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p8.b1": {
+    "text": "Aren’t you mistaken, because you do not know the Scriptures or the power of God?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p8.b2": {
+    "text": "When the dead rise, they will neither marry nor be given in marriage. Instead, they will be like the angels in heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p9.b1": {
+    "text": "But concerning the dead rising, have you not read about the burning bush in the Book of Moses,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p9.b2": {
+    "text": "I am the God of Abraham, the God of Isaac, and the God of Jacob",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p9.b3": {
+    "text": "He is not the God of the dead, but of the living.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p9.b4": {
+    "text": "You are badly mistaken!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p10.b1": {
+    "text": "Which commandment is the most important of all?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p10.b2": {
+    "text": "Hear O Israel, the Lord our God, the Lord is One.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p10.b3": {
+    "text": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p10.b4": {
+    "text": "The second is this: ‘Love your neighbor as yourself.’ No other commandment is greater than these.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p11.b1": {
+    "text": "Right, Teacher, … You have stated correctly that God is One",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p11.b2": {
+    "text": "And to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself, which is more important than all burnt offerings and sacrifices.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p11.b3": {
+    "text": "You are not far from the kingdom of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p11.b4": {
+    "text": "And no one dared to question Him any further.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p12.b1": {
+    "text": "How can the scribes say that the Christ is the Son of David?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p12.b2": {
+    "text": "The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p12.b3": {
+    "text": "David himself calls Him ‘Lord.’ So how can He be David’s son?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p12.b4": {
+    "text": "And the large crowd listened to Him with delight.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p13.b1": {
+    "text": "Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p13.b2": {
+    "text": "And to have the chief seats in the synagogues and the places of honor at banquets.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p13.b3": {
+    "text": "They defraud widows of their houses, and for a show make lengthy prayers.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p13.b4": {
+    "text": "These men will receive greater condemnation.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p14.b1": {
+    "text": "As Jesus was sitting opposite the treasury, He watched the crowd putting money into it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p14.b2": {
+    "text": "And many rich people put in large amounts.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p14.b3": {
+    "text": "Then one poor widow came and put in two small copper coins, which amounted to a small fraction of a denarius.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p15.b1": {
+    "text": "Truly I tell you, this poor widow has put more than all the others into the treasury.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p15.b2": {
+    "text": "For they all contributed out of their surplus,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.12.p15.b3": {
+    "text": "But she out of her poverty has put in all she had to live on.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 12:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

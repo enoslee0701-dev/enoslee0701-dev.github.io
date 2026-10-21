@@ -1,0 +1,151 @@
+{
+  "id": "MARK_07_P003",
+  "book": "mark",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_07_P003_F1",
+      "box": [
+        0.008,
+        0,
+        0.984,
+        0.297
+      ],
+      "alt": {
+        "zh-CN": "法利赛人和文士问耶稣：「你的门徒为什么不遵守祖先的传统，"
+      }
+    },
+    {
+      "id": "MARK_07_P003_F2",
+      "box": [
+        0.008,
+        0.301,
+        0.492,
+        0.24
+      ],
+      "alt": {
+        "zh-CN": "用不洁净的手吃饭呢？」"
+      }
+    },
+    {
+      "id": "MARK_07_P003_F3",
+      "box": [
+        0.507,
+        0.301,
+        0.485,
+        0.24
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「以赛亚指着你们这些伪君子所说的预言真对。经上写着："
+      }
+    },
+    {
+      "id": "MARK_07_P003_F4",
+      "box": [
+        0.008,
+        0.544,
+        0.984,
+        0.451
+      ],
+      "alt": {
+        "zh-CN": "『这百姓用嘴唇尊敬我，心却远离我。"
+      }
+    },
+    {
+      "id": "MARK_07_P003_F5",
+      "box": [
+        0.639,
+        0.74,
+        0.353,
+        0.254
+      ],
+      "alt": {
+        "zh-CN": "他们把人的规条当作教义教导人，所以拜我也是徒然的。』"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_07_P003_B001",
+      "panel": "MARK_07_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.003,
+        0.58,
+        0.105
+      ],
+      "tail": [
+        0.62,
+        0.06
+      ],
+      "text_key": "mark.7.p3.b1"
+    },
+    {
+      "id": "MARK_07_P003_B002",
+      "panel": "MARK_07_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.16,
+        0.41,
+        0.143
+      ],
+      "tail": [
+        0.67,
+        0.33
+      ],
+      "text_key": "mark.7.p3.b2"
+    },
+    {
+      "id": "MARK_07_P003_B003",
+      "panel": "MARK_07_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.355,
+        0.548,
+        0.27,
+        0.219
+      ],
+      "tail": [
+        0.35,
+        0.62
+      ],
+      "text_key": "mark.7.p3.b3"
+    },
+    {
+      "id": "MARK_07_P003_B004",
+      "panel": "MARK_07_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0,
+        0.85,
+        0.41,
+        0.143
+      ],
+      "tail": [
+        0.28,
+        0.82
+      ],
+      "text_key": "mark.7.p3.b4"
+    }
+  ]
+}

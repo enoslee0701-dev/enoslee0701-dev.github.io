@@ -1,0 +1,109 @@
+{
+  "id": "MATTHEW_17_P007",
+  "book": "matthew",
+  "chapter": 17,
+  "page": 7,
+  "ref": "17:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_17_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_17_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.236
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P007_F2",
+      "box": [
+        0,
+        0.24,
+        1,
+        0.505
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P007_F3",
+      "box": [
+        0.706,
+        0.367,
+        0.275,
+        0.362
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P007_F4",
+      "box": [
+        0,
+        0.7493,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "我带他到你的门徒那里，他们却不能医治他。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_17_P007_B001",
+      "panel": "MATTHEW_17_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.4,
+        0.0047,
+        0.57,
+        0.0448
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p7.b1"
+    },
+    {
+      "id": "MATTHEW_17_P007_B002",
+      "panel": "MATTHEW_17_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.68,
+        0.2552,
+        0.3,
+        0.101
+      ],
+      "tail": [
+        0.83,
+        0.4067
+      ],
+      "text_key": "matthew.17.p7.b2"
+    },
+    {
+      "id": "MATTHEW_17_P007_B003",
+      "panel": "MATTHEW_17_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.54,
+        0.7568,
+        0.42,
+        0.03
+      ],
+      "tail": [
+        0.75,
+        0.8119
+      ],
+      "text_key": "matthew.17.p7.b3"
+    }
+  ]
+}

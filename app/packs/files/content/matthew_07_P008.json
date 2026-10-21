@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_07_P008",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 8,
+  "ref": "7:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P008_F1",
+      "box": [
+        0.0068,
+        0,
+        0.9863,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "不是每一个称呼我「主啊，主啊」的人都能进天国；只有遵行我天父旨意的人才能进去。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P008_F2",
+      "box": [
+        0.0068,
+        0.2383,
+        0.9863,
+        0.4102
+      ],
+      "alt": {
+        "zh-CN": "在那一天，必有许多人对我说：「主啊，主啊，我们不是奉你的名传道、奉你的名赶鬼、奉你的名行了许多神迹吗？」"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P008_F3",
+      "box": [
+        0.0068,
+        0.6517,
+        0.5059,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "那时我要明明白白地告诉他们：「我从来不认识你们，你们这些作恶的人，离开我吧！」"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P008_F4",
+      "box": [
+        0.5195,
+        0.6517,
+        0.4727,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "（年轻的文士垂下眼睛，把书卷贴在胸前。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P008_B001",
+      "panel": "MATTHEW_07_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.455,
+        0.005,
+        0.53,
+        0.0364
+      ],
+      "tail": [
+        0.7366,
+        0.0645
+      ],
+      "text_key": "matthew.7.p8.b1"
+    },
+    {
+      "id": "MATTHEW_07_P008_B002",
+      "panel": "MATTHEW_07_P008_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.12,
+        0.465,
+        0.0291
+      ],
+      "tail": [
+        0.7366,
+        0.0983
+      ],
+      "text_key": "matthew.7.p8.b2"
+    },
+    {
+      "id": "MATTHEW_07_P008_B003",
+      "panel": "MATTHEW_07_P008_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0463,
+        0.2465,
+        0.9073,
+        0.0656
+      ],
+      "tail": [
+        0.5,
+        0.3531
+      ],
+      "text_key": "matthew.7.p8.b3"
+    },
+    {
+      "id": "MATTHEW_07_P008_B004",
+      "panel": "MATTHEW_07_P008_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.7,
+        0.46,
+        0.0857
+      ],
+      "tail": [
+        0.1737,
+        0.9948
+      ],
+      "text_key": "matthew.7.p8.b4"
+    }
+  ]
+}

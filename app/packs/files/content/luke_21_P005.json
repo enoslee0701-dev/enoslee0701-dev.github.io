@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_21_P005",
+  "book": "luke",
+  "chapter": 21,
+  "page": 5,
+  "ref": "21:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_21_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_21_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2246
+      ]
+    },
+    {
+      "id": "LUKE_21_P005_F2",
+      "box": [
+        0,
+        0.2292,
+        0.543,
+        0.2773
+      ]
+    },
+    {
+      "id": "LUKE_21_P005_F3",
+      "box": [
+        0.5488,
+        0.2292,
+        0.4512,
+        0.2773
+      ]
+    },
+    {
+      "id": "LUKE_21_P005_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ]
+    },
+    {
+      "id": "LUKE_21_P005_F5",
+      "box": [
+        0.578,
+        0.782,
+        0.422,
+        0.218
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_21_P005_B001",
+      "panel": "LUKE_21_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0067,
+        0.46,
+        0.0381
+      ],
+      "tail": [
+        0.73,
+        0.0673
+      ],
+      "text_key": "luke.21.p5.b1"
+    },
+    {
+      "id": "LUKE_21_P005_B002",
+      "panel": "LUKE_21_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5623,
+        0.2375,
+        0.2256,
+        0.0415
+      ],
+      "tail": null,
+      "text_key": "luke.21.p5.b2"
+    },
+    {
+      "id": "LUKE_21_P005_B003",
+      "panel": "LUKE_21_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5251,
+        0.34,
+        0.0685
+      ],
+      "tail": null,
+      "text_key": "luke.21.p5.b3"
+    },
+    {
+      "id": "LUKE_21_P005_B004",
+      "panel": "LUKE_21_P005_F5",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5991,
+        0.952,
+        0.3798,
+        0.0392
+      ],
+      "tail": null,
+      "text_key": "luke.21.p5.b4"
+    }
+  ]
+}

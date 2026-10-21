@@ -1,0 +1,148 @@
+{
+  "id": "MARK_12_P013",
+  "book": "mark",
+  "chapter": 12,
+  "page": 13,
+  "ref": "12:38-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_12_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_12_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.247
+      ],
+      "alt": {
+        "zh-CN": "耶稣在教导中说：「你们要提防经学家；他们喜欢穿着长袍走来走去，喜欢人们在街市上向他们问安，"
+      }
+    },
+    {
+      "id": "MARK_12_P013_F2",
+      "box": [
+        0.007,
+        0.25,
+        0.491,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "（路人向他们弯腰问安。）"
+      }
+    },
+    {
+      "id": "MARK_12_P013_F3",
+      "box": [
+        0.504,
+        0.25,
+        0.489,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "喜欢会堂里的高位、宴席上的首座。"
+      }
+    },
+    {
+      "id": "MARK_12_P013_F4",
+      "box": [
+        0,
+        0.524,
+        0.993,
+        0.47
+      ],
+      "alt": {
+        "zh-CN": "他们吞没寡妇的家产，假装作很长的祷告。"
+      }
+    },
+    {
+      "id": "MARK_12_P013_F5",
+      "box": [
+        0.637,
+        0.719,
+        0.355,
+        0.275
+      ],
+      "alt": {
+        "zh-CN": "这些人要受更重的惩罚！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_12_P013_B001",
+      "panel": "MARK_12_P013_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.13,
+        0.255,
+        0.36,
+        0.217
+      ],
+      "tail": null,
+      "text_key": "mark.12.p13.b1"
+    },
+    {
+      "id": "MARK_12_P013_B002",
+      "panel": "MARK_12_P013_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5187,
+        0.2581,
+        0.1858,
+        0.0325
+      ],
+      "tail": [
+        0.504,
+        0.3177
+      ],
+      "text_key": "mark.12.p13.b2"
+    },
+    {
+      "id": "MARK_12_P013_B003",
+      "panel": "MARK_12_P013_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0298,
+        0.5334,
+        0.3972,
+        0.0564
+      ],
+      "tail": [
+        0,
+        0.6368
+      ],
+      "text_key": "mark.12.p13.b3"
+    },
+    {
+      "id": "MARK_12_P013_B004",
+      "panel": "MARK_12_P013_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.645,
+        0.876,
+        0.34,
+        0.105
+      ],
+      "tail": [
+        0.86,
+        0.85
+      ],
+      "text_key": "mark.12.p13.b4"
+    }
+  ]
+}

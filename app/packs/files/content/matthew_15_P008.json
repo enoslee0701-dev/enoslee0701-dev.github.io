@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_15_P008",
+  "book": "matthew",
+  "chapter": 15,
+  "page": 8,
+  "ref": "15:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_15_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_15_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4349
+      ],
+      "alt": {
+        "zh-CN": "耶稣却一句话也不回答。"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P008_F2",
+      "box": [
+        0,
+        0.4382,
+        0.4307,
+        0.2487
+      ]
+    },
+    {
+      "id": "MATTHEW_15_P008_F3",
+      "box": [
+        0.4365,
+        0.4382,
+        0.5635,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "门徒上前来求他说：「这妇人在我们后面喊叫，请打发她走吧。」"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P008_F4",
+      "box": [
+        0,
+        0.6895,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「我被差遣，只是到以色列家迷失的羊那里去。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_15_P008_B001",
+      "panel": "MATTHEW_15_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.0087,
+        0.24,
+        0.0434
+      ],
+      "tail": null,
+      "text_key": "matthew.15.p8.b1"
+    },
+    {
+      "id": "MATTHEW_15_P008_B002",
+      "panel": "MATTHEW_15_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.459,
+        0.4407,
+        0.5184,
+        0.0198
+      ],
+      "tail": [
+        0.7182,
+        0.4854
+      ],
+      "text_key": "matthew.15.p8.b2"
+    },
+    {
+      "id": "MATTHEW_15_P008_B003",
+      "panel": "MATTHEW_15_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.6957,
+        0.42,
+        0.0496
+      ],
+      "tail": [
+        0.77,
+        0.7764
+      ],
+      "text_key": "matthew.15.p8.b3"
+    }
+  ]
+}

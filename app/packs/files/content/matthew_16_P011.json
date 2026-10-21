@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_16_P011",
+  "book": "matthew",
+  "chapter": 16,
+  "page": 11,
+  "ref": "16:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_16_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_16_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "因为凡想要救自己生命的，必失去生命；凡为我失去生命的，必得着生命。"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P011_F2",
+      "box": [
+        0,
+        0.2435,
+        1,
+        0.2077
+      ],
+      "alt": {
+        "zh-CN": "人就算赚得全世界，却赔上自己的生命，有什么益处呢？人还能拿什么换回生命呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P011_F3",
+      "box": [
+        0,
+        0.4538,
+        1,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "人子要在他父的荣耀里，和众天使一同降临；那时，他要按各人的行为报应各人。"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P011_F4",
+      "box": [
+        0,
+        0.8066,
+        1,
+        0.1934
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，站在这里的人中，有些人在死以前，必看见人子降临在他的国里。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_16_P011_B001",
+      "panel": "MATTHEW_16_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0048,
+        0.4,
+        0.0432
+      ],
+      "tail": [
+        0.22,
+        0.072
+      ],
+      "text_key": "matthew.16.p11.b1"
+    },
+    {
+      "id": "MATTHEW_16_P011_B002",
+      "panel": "MATTHEW_16_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.42,
+        0.2497,
+        0.56,
+        0.0456
+      ],
+      "tail": [
+        0.7,
+        0.3161
+      ],
+      "text_key": "matthew.16.p11.b2"
+    },
+    {
+      "id": "MATTHEW_16_P011_B003",
+      "panel": "MATTHEW_16_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.4643,
+        0.55,
+        0.0629
+      ],
+      "tail": [
+        0.305,
+        0.5622
+      ],
+      "text_key": "matthew.16.p11.b3"
+    },
+    {
+      "id": "MATTHEW_16_P011_B004",
+      "panel": "MATTHEW_16_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.74,
+        0.8143,
+        0.24,
+        0.1199
+      ],
+      "tail": [
+        0.86,
+        0.9535
+      ],
+      "text_key": "matthew.16.p11.b4"
+    }
+  ]
+}

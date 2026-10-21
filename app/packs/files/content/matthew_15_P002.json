@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_15_P002",
+  "book": "matthew",
+  "chapter": 15,
+  "page": 2,
+  "ref": "15:3-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_15_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_15_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "「你们为什么因着你们的传统违犯　神的诫命呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P002_F2",
+      "box": [
+        0,
+        0.2689,
+        0.3789,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "神说：『要孝敬父母』；又说：『咒骂父母的，必被处死。』"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P002_F3",
+      "box": [
+        0.3867,
+        0.2689,
+        0.6133,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "你们却说：『无论谁对父母说：我本来应当奉养你的，已经献给　神了，他就可以不孝敬父母。』"
+      }
+    },
+    {
+      "id": "MATTHEW_15_P002_F4",
+      "box": [
+        0,
+        0.7064,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "这就是你们借着传统，废弃了　神的诫命。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_15_P002_B001",
+      "panel": "MATTHEW_15_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.0079,
+        0.24,
+        0.0581
+      ],
+      "tail": [
+        0.5,
+        0.0924
+      ],
+      "text_key": "matthew.15.p2.b1"
+    },
+    {
+      "id": "MATTHEW_15_P002_B002",
+      "panel": "MATTHEW_15_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0909,
+        0.6585,
+        0.2803,
+        0.0389
+      ],
+      "tail": [
+        0.2311,
+        0.7018
+      ],
+      "text_key": "matthew.15.p2.b2"
+    },
+    {
+      "id": "MATTHEW_15_P002_B003",
+      "panel": "MATTHEW_15_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4051,
+        0.2776,
+        0.3434,
+        0.0432
+      ],
+      "tail": [
+        0.5768,
+        0.3641
+      ],
+      "text_key": "matthew.15.p2.b3"
+    },
+    {
+      "id": "MATTHEW_15_P002_B004",
+      "panel": "MATTHEW_15_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.7123,
+        0.48,
+        0.0411
+      ],
+      "tail": [
+        0.74,
+        0.7828
+      ],
+      "text_key": "matthew.15.p2.b4"
+    }
+  ]
+}

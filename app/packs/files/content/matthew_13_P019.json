@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_13_P019",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 19,
+  "ref": "13:53-56",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P019",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P019_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "耶稣讲完了这些比喻，就离开那里，回到自己的家乡，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P019_F2",
+      "box": [
+        0,
+        0.2604,
+        0.5176,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "在会堂里教导人，他们都很惊讶，说：「这人从哪里得到这样的智慧和能力呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P019_F3",
+      "box": [
+        0.5254,
+        0.2604,
+        0.4746,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "这不是那木匠的儿子吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P019_F4",
+      "box": [
+        0,
+        0.5964,
+        1,
+        0.4036
+      ],
+      "alt": {
+        "zh-CN": "他的妹妹们不是都和我们在一起吗？这人从哪里得到这一切呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P019_B001",
+      "panel": "MATTHEW_13_P019_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.56,
+        0.0078,
+        0.42,
+        0.0517
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p19.b1"
+    },
+    {
+      "id": "MATTHEW_13_P019_B002",
+      "panel": "MATTHEW_13_P019_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0207,
+        0.2671,
+        0.4761,
+        0.0334
+      ],
+      "tail": [
+        0.2588,
+        0.3339
+      ],
+      "text_key": "matthew.13.p19.b2"
+    },
+    {
+      "id": "MATTHEW_13_P019_B003",
+      "panel": "MATTHEW_13_P019_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5491,
+        0.2671,
+        0.4271,
+        0.0367
+      ],
+      "tail": [
+        0.7627,
+        0.3372
+      ],
+      "text_key": "matthew.13.p19.b3"
+    },
+    {
+      "id": "MATTHEW_13_P019_B004",
+      "panel": "MATTHEW_13_P019_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.02,
+        0.6085,
+        0.44,
+        0.0565
+      ],
+      "tail": [
+        0.24,
+        0.7054
+      ],
+      "text_key": "matthew.13.p19.b4"
+    }
+  ]
+}

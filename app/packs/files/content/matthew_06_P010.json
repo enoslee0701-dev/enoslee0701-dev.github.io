@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_06_P010",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 10,
+  "ref": "6:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "所以我告诉你们，不要为生活忧虑吃什么、喝什么；为身体忧虑穿什么。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P010_F2",
+      "box": [
+        0,
+        0.2396,
+        0.3535,
+        0.4837
+      ],
+      "alt": {
+        "zh-CN": "你们看天空的飞鸟，它们不种，不收，也不存粮在仓里，"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P010_F3",
+      "box": [
+        0.3594,
+        0.2396,
+        0.6406,
+        0.4837
+      ],
+      "alt": {
+        "zh-CN": "你们的天父尚且养活它们。你们不比飞鸟贵重得多吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P010_F4",
+      "box": [
+        0,
+        0.7272,
+        1,
+        0.2728
+      ],
+      "alt": {
+        "zh-CN": "你们当中谁能靠忧虑使寿命多加一刻呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P010_B001",
+      "panel": "MATTHEW_06_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.003,
+        0.003,
+        0.38,
+        0.0752
+      ],
+      "tail": [
+        0.14,
+        0.1057
+      ],
+      "text_key": "matthew.6.p10.b1"
+    },
+    {
+      "id": "MATTHEW_06_P010_B002",
+      "panel": "MATTHEW_06_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.55,
+        0.335,
+        0.087
+      ],
+      "tail": [
+        0.17,
+        0.47
+      ],
+      "text_key": "matthew.6.p10.b2"
+    },
+    {
+      "id": "MATTHEW_06_P010_B003",
+      "panel": "MATTHEW_06_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.365,
+        0.5,
+        0.28,
+        0.0483
+      ],
+      "tail": [
+        0.45,
+        0.73
+      ],
+      "text_key": "matthew.6.p10.b3"
+    },
+    {
+      "id": "MATTHEW_06_P010_B004",
+      "panel": "MATTHEW_06_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.86,
+        0.7327,
+        0.13,
+        0.0982
+      ],
+      "tail": [
+        0.925,
+        0.8582
+      ],
+      "text_key": "matthew.6.p10.b4"
+    }
+  ]
+}

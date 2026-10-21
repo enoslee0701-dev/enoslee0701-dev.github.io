@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_09_P005",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 5,
+  "ref": "9:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2012
+      ],
+      "alt": {
+        "zh-CN": "耶稣在马太家的屋里吃饭时，有许多税吏和罪人来，和耶稣以及他的门徒一同吃饭。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P005_F2",
+      "box": [
+        0,
+        0.2051,
+        1,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "（满屋灯火，耶稣和税吏、罪人坐在一张长桌边，一同说笑。）"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P005_F3",
+      "box": [
+        0,
+        0.6107,
+        0.5947,
+        0.3893
+      ],
+      "alt": {
+        "zh-CN": "法利赛人看见了，就对耶稣的门徒说：你们的老师为什么和税吏、罪人一起吃饭呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P005_F4",
+      "box": [
+        0.6025,
+        0.6107,
+        0.3975,
+        0.3893
+      ],
+      "alt": {
+        "zh-CN": "（法利赛人隔着窗格往里看，税吏正给耶稣倒酒。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P005_B001",
+      "panel": "MATTHEW_09_P005_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.012,
+        0.006,
+        0.38,
+        0.0442
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p5.b1"
+    },
+    {
+      "id": "MATTHEW_09_P005_B002",
+      "panel": "MATTHEW_09_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0178,
+        0.6185,
+        0.3568,
+        0.0242
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p5.b2"
+    },
+    {
+      "id": "MATTHEW_09_P005_B003",
+      "panel": "MATTHEW_09_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0178,
+        0.6505,
+        0.3568,
+        0.0302
+      ],
+      "tail": [
+        0.1962,
+        0.7196
+      ],
+      "text_key": "matthew.9.p5.b3"
+    }
+  ]
+}

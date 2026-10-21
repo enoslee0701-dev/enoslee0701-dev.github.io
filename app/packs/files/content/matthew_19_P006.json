@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_19_P006",
+  "book": "matthew",
+  "chapter": 19,
+  "page": 6,
+  "ref": "19:16-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_19_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_19_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ]
+    },
+    {
+      "id": "MATTHEW_19_P006_F2",
+      "box": [
+        0,
+        0.2598,
+        0.5088,
+        0.3164
+      ]
+    },
+    {
+      "id": "MATTHEW_19_P006_F3",
+      "box": [
+        0.5146,
+        0.2598,
+        0.4854,
+        0.3164
+      ]
+    },
+    {
+      "id": "MATTHEW_19_P006_F4",
+      "box": [
+        0,
+        0.5781,
+        1,
+        0.4219
+      ],
+      "alt": {
+        "zh-CN": "他说：「什么诫命？」耶稣说：「就是不可杀人；不可奸淫；不可偷盗；不可作假见证；要孝敬父母；又要爱人如己。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_19_P006_B001",
+      "panel": "MATTHEW_19_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0077,
+        0.3,
+        0.0565
+      ],
+      "tail": [
+        0.55,
+        0.0899
+      ],
+      "text_key": "matthew.19.p6.b1"
+    },
+    {
+      "id": "MATTHEW_19_P006_B002",
+      "panel": "MATTHEW_19_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.534,
+        0.2661,
+        0.4465,
+        0.0632
+      ],
+      "tail": [
+        0.7573,
+        0.3609
+      ],
+      "text_key": "matthew.19.p6.b2"
+    },
+    {
+      "id": "MATTHEW_19_P006_B003",
+      "panel": "MATTHEW_19_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8,
+        0.5865,
+        0.18,
+        0.0421
+      ],
+      "tail": [
+        0.89,
+        0.6708
+      ],
+      "text_key": "matthew.19.p6.b3"
+    },
+    {
+      "id": "MATTHEW_19_P006_B004",
+      "panel": "MATTHEW_19_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.5849,
+        0.32,
+        0.0843
+      ],
+      "tail": [
+        0.44,
+        0.7114
+      ],
+      "text_key": "matthew.19.p6.b4"
+    }
+  ]
+}

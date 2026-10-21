@@ -1,0 +1,100 @@
+{
+  "id": "MARK_03_P004",
+  "book": "mark",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P004",
+    "ratio": "2:3",
+    "master_version": 3
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.339
+      ],
+      "alt": {
+        "zh-CN": "会堂里众人围着被治好的人欢喜，法利赛人转身走出门去。"
+      }
+    },
+    {
+      "id": "MARK_03_P004_F2",
+      "box": [
+        0,
+        0.344,
+        1,
+        0.174
+      ],
+      "alt": {
+        "zh-CN": "他们在巷子里和希律一党的人会合商量，"
+      }
+    },
+    {
+      "id": "MARK_03_P004_F3",
+      "box": [
+        0,
+        0.522,
+        1,
+        0.478
+      ],
+      "alt": {
+        "zh-CN": "要怎样除掉耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P004_B001",
+      "panel": "MARK_03_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0102,
+        0.24,
+        0.0474
+      ],
+      "tail": null,
+      "text_key": "mark.3.p4.b1"
+    },
+    {
+      "id": "MARK_03_P004_B002",
+      "panel": "MARK_03_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3527,
+        0.25,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "mark.3.p4.b2"
+    },
+    {
+      "id": "MARK_03_P004_B003",
+      "panel": "MARK_03_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.28,
+        0.5316,
+        0.17,
+        0.0764
+      ],
+      "tail": null,
+      "text_key": "mark.3.p4.b3"
+    }
+  ]
+}

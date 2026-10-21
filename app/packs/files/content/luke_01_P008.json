@@ -1,0 +1,100 @@
+{
+  "id": "LUKE_01_P008",
+  "book": "luke",
+  "chapter": 1,
+  "page": 8,
+  "ref": "1:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "这些日子以后，他的妻子伊利莎白怀了孕，就隐居了五个月，"
+      }
+    },
+    {
+      "id": "LUKE_01_P008_F2",
+      "box": [
+        0,
+        0.248,
+        0.4629,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "（窗台上的杏树枝，从光秃到开满白花。）"
+      }
+    },
+    {
+      "id": "LUKE_01_P008_F3",
+      "box": [
+        0.4707,
+        0.248,
+        0.5293,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "（他说不出话，只是笑着给她端来热汤。）"
+      }
+    },
+    {
+      "id": "LUKE_01_P008_F4",
+      "box": [
+        0,
+        0.5521,
+        1,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "她说：「主在眷顾我的日子这样待我，要除去我在人前的羞耻。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P008_B001",
+      "panel": "LUKE_01_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.0073,
+        0.45,
+        0.0584
+      ],
+      "tail": null,
+      "text_key": "luke.1.p8.b1"
+    },
+    {
+      "id": "LUKE_01_P008_B002",
+      "panel": "LUKE_01_P008_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.7,
+        0.5655,
+        0.27,
+        0.1343
+      ],
+      "tail": [
+        0.835,
+        0.7446
+      ],
+      "text_key": "luke.1.p8.b2"
+    }
+  ]
+}

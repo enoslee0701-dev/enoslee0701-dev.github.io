@@ -1,0 +1,412 @@
+{
+  "luke.16.p1.b1": {
+    "text": "イエスはまた、弟子たちに言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p1.b2": {
+    "text": "「ある金持のところにひとりの家令がいたが、彼は主人の財産を浪費していると、告げ口をする者があった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p1.b3": {
+    "text": "『あなたについて聞いていることがあるが、あれはどうなのか。あなたの会計報告を出しなさい。もう家令をさせて置くわけにはいかないから』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b1": {
+    "text": "この家令は心の中で思った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b2": {
+    "text": "『どうしようか。主人がわたしの職を取り上げようとしている。土を掘るには力がないし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b3": {
+    "text": "物ごいするのは恥ずかしい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p2.b4": {
+    "text": "そうだ、わかった。こうしておけば、職をやめさせられる場合、人々がわたしをその家に迎えてくれるだろう』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b1": {
+    "text": "それから彼は、主人の負債者をひとりびとり呼び出して、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b2": {
+    "text": "『あなたは、わたしの主人にどれだけ負債がありますか』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b3": {
+    "text": "『油百樽です』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p3.b4": {
+    "text": "『ここにあなたの証書がある。すぐそこにすわって、五十樽と書き変えなさい』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b1": {
+    "text": "ところが主人は、この不正な家令の利口なやり方をほめた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b2": {
+    "text": "この世の子らはその時代に対しては、光の子らよりも利口である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b3": {
+    "text": "またあなたがたに言うが、不正の富を用いてでも、自分のために友だちをつくるがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p4.b4": {
+    "text": "そうすれば、富が無くなった場合、あなたがたを永遠のすまいに迎えてくれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b1": {
+    "text": "小事に忠実な人は、大事にも忠実である。そして、小事に不忠実な人は大事にも不忠実である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b2": {
+    "text": "だから、もしあなたがたが不正の富について忠実でなかったら、だれが真の富を任せるだろうか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b3": {
+    "text": "どの僕でも、ふたりの主人に兼ね仕えることはできない。一方を憎んで他方を愛し、あるいは、一方に親しんで他方をうとんじるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p5.b4": {
+    "text": "あなたがたは、神と富とに兼ね仕えることはできない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b1": {
+    "text": "欲の深いパリサイ人たちが、すべてこれらの言葉を聞いて、イエスをあざ笑った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b2": {
+    "text": "しかし、神はあなたがたの心をご存じである。人々の間で尊ばれるものは、神のみまえでは忌みきらわれる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b3": {
+    "text": "しかし、律法の一画が落ちるよりは、天地の滅びる方が、もっとたやすい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p6.b4": {
+    "text": "すべて自分の妻を出して他の女をめとる者は、姦淫を行うものであり、また、夫から出された女をめとる者も、姦淫を行うものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b1": {
+    "text": "ある金持がいた。彼は紫の衣や細布を着て、毎日ぜいたくに遊び暮していた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b2": {
+    "text": "ところが、ラザロという貧乏人が全身でき物でおおわれて、この金持の玄関の前にすわり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b3": {
+    "text": "その食卓から落ちるもので飢えをしのごうと望んでいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p7.b4": {
+    "text": "その上、犬がきて彼のでき物をなめていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p8.b1": {
+    "text": "この貧乏人がついに死に、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p8.b2": {
+    "text": "御使たちに連れられてアブラハムのふところに送られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p8.b3": {
+    "text": "金持も死んで葬られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b1": {
+    "text": "そして黄泉にいて苦しみながら、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b2": {
+    "text": "目をあげると、アブラハムとそのふところにいるラザロとが、はるかに見えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b3": {
+    "text": "『父、アブラハムよ、わたしをあわれんでください。ラザロをおつかわしになって、その指先を水でぬらし、わたしの舌を冷やさせてください。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p9.b4": {
+    "text": "わたしはこの火炎の中で苦しみもだえています』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b1": {
+    "text": "『子よ、思い出すがよい。あなたは生前よいものを受け、ラザロの方は悪いものを受けた。しかし今ここでは、彼は慰められ、あなたは苦しみもだえている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b2": {
+    "text": "わたしたちとあなたがたとの間には大きな淵がおいてあって、こちらからあなたがたの方へ渡ろうと思ってもできないし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b3": {
+    "text": "『父よ、ではお願いします。わたしの父の家へラザロをつかわしてください。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p10.b4": {
+    "text": "わたしに五人の兄弟がいますので、こんな苦しい所へ来ることがないように、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p11.b1": {
+    "text": "『彼らにはモーセと預言者とがある。それに聞くがよかろう』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p11.b2": {
+    "text": "『いえいえ、父アブラハムよ、もし死人の中からだれかが兄弟たちのところへ行ってくれましたら、彼らは悔い改めるでしょう』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.16.p11.b3": {
+    "text": "『もし彼らがモーセと預言者とに耳を傾けないなら、死人の中からよみがえってくる者があっても、彼らはその勧めを聞き入れはしないであろう』」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 16:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

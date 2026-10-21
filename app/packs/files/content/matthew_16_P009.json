@@ -1,0 +1,94 @@
+{
+  "id": "MATTHEW_16_P009",
+  "book": "matthew",
+  "chapter": 16,
+  "page": 9,
+  "ref": "16:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_16_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_16_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3574
+      ],
+      "alt": {
+        "zh-CN": "从那时起，耶稣开始向门徒说明，他必须上耶路撒冷去，受长老、祭司长和文士许多的苦，并且被杀，第三天复活。"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P009_F2",
+      "box": [
+        0,
+        0.3626,
+        1,
+        0.1393
+      ]
+    },
+    {
+      "id": "MATTHEW_16_P009_F3",
+      "box": [
+        0,
+        0.5059,
+        0.2891,
+        0.4941
+      ]
+    },
+    {
+      "id": "MATTHEW_16_P009_F4",
+      "box": [
+        0.2959,
+        0.5059,
+        0.7041,
+        0.4941
+      ],
+      "alt": {
+        "zh-CN": "彼得就把他拉到一边，劝他说：「主啊，千万不可这样！这事绝不会临到你身上。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_16_P009_B001",
+      "panel": "MATTHEW_16_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0107,
+        0.94,
+        0.0786
+      ],
+      "tail": null,
+      "text_key": "matthew.16.p9.b1"
+    },
+    {
+      "id": "MATTHEW_16_P009_B002",
+      "panel": "MATTHEW_16_P009_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.317,
+        0.5207,
+        0.2957,
+        0.0642
+      ],
+      "tail": [
+        0.4649,
+        0.6343
+      ],
+      "text_key": "matthew.16.p9.b2"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_18_P006",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 6,
+  "ref": "18:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4951,
+        0.2585
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P006_F2",
+      "box": [
+        0.502,
+        0,
+        0.498,
+        0.2585
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P006_F3",
+      "box": [
+        0,
+        0.2624,
+        1,
+        0.401
+      ],
+      "alt": {
+        "zh-CN": "「若是找到了，我实在告诉你们，他为这一只羊欢喜，比为那没有迷路的九十九只欢喜还大呢！」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P006_F4",
+      "box": [
+        0,
+        0.6673,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "「同样，你们在天上的父也不愿意这些小子中失丧一个。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P006_B001",
+      "panel": "MATTHEW_18_P006_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.2744,
+        0.37,
+        0.0521
+      ],
+      "tail": [
+        0.785,
+        0.3666
+      ],
+      "text_key": "matthew.18.p6.b1"
+    },
+    {
+      "id": "MATTHEW_18_P006_B002",
+      "panel": "MATTHEW_18_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.3306,
+        0.37,
+        0.0481
+      ],
+      "tail": [
+        0.785,
+        0.4188
+      ],
+      "text_key": "matthew.18.p6.b2"
+    },
+    {
+      "id": "MATTHEW_18_P006_B003",
+      "panel": "MATTHEW_18_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.6773,
+        0.45,
+        0.0499
+      ],
+      "tail": [
+        0.745,
+        0.7605
+      ],
+      "text_key": "matthew.18.p6.b3"
+    }
+  ]
+}

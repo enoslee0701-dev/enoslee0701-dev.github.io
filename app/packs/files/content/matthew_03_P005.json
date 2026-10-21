@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_03_P005",
+  "book": "matthew",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_03_P005_F1",
+      "box": [
+        0.0029,
+        0,
+        0.9951,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "那时，耶稣从加利利来到约旦河，到约翰那里，要受他的洗。"
+      }
+    },
+    {
+      "id": "MATTHEW_03_P005_F2",
+      "box": [
+        0.0029,
+        0.2194,
+        0.4971,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "（约翰在河里抬起头，看见了他，愣住了。）"
+      }
+    },
+    {
+      "id": "MATTHEW_03_P005_F3",
+      "box": [
+        0.5098,
+        0.2194,
+        0.4883,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "（排队的人回头，不明白发生了什么。）"
+      }
+    },
+    {
+      "id": "MATTHEW_03_P005_F4",
+      "box": [
+        0.0029,
+        0.5007,
+        0.9951,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "约翰想要拦住他，说：“我应该受你的洗，你怎么反倒到我这里来呢？”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_03_P005_B001",
+      "panel": "MATTHEW_03_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.6,
+        0.0022,
+        0.3781,
+        0.0474
+      ],
+      "tail": null,
+      "text_key": "matthew.3.p5.b1"
+    },
+    {
+      "id": "MATTHEW_03_P005_B002",
+      "panel": "MATTHEW_03_P005_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4009,
+        0.5057,
+        0.199,
+        0.0547
+      ],
+      "tail": null,
+      "text_key": "matthew.3.p5.b2"
+    },
+    {
+      "id": "MATTHEW_03_P005_B003",
+      "panel": "MATTHEW_03_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6199,
+        0.5107,
+        0.3582,
+        0.0996
+      ],
+      "tail": [
+        0.799,
+        0.6601
+      ],
+      "text_key": "matthew.3.p5.b3"
+    }
+  ]
+}

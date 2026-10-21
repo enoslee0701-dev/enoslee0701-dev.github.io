@@ -1,0 +1,103 @@
+{
+  "id": "MARK_12_P008",
+  "book": "mark",
+  "chapter": 12,
+  "page": 8,
+  "ref": "12:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_12_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_12_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.312
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「你们错了，不正是因为不明白圣经，也不知道神的大能吗？"
+      }
+    },
+    {
+      "id": "MARK_12_P008_F2",
+      "box": [
+        0.008,
+        0.317,
+        0.329,
+        0.285
+      ],
+      "alt": {
+        "zh-CN": "（撒都该人的笑容僵住了。）"
+      }
+    },
+    {
+      "id": "MARK_12_P008_F3",
+      "box": [
+        0.008,
+        0.317,
+        0.992,
+        0.403
+      ],
+      "alt": {
+        "zh-CN": "人从死里复活以后，也不娶也不嫁，而是像天上的天使一样。"
+      }
+    },
+    {
+      "id": "MARK_12_P008_F4",
+      "box": [
+        0,
+        0.726,
+        1,
+        0.274
+      ],
+      "alt": {
+        "zh-CN": "（一位老人抬起头来。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_12_P008_B001",
+      "panel": "MARK_12_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.0062,
+        0.24,
+        0.0374
+      ],
+      "tail": [
+        0.4,
+        0.06
+      ],
+      "text_key": "mark.12.p8.b1"
+    },
+    {
+      "id": "MARK_12_P008_B002",
+      "panel": "MARK_12_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.38,
+        0.535,
+        0.6,
+        0.105
+      ],
+      "tail": [
+        0.36,
+        0.71
+      ],
+      "text_key": "mark.12.p8.b2"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "MATTHEW_01_P008",
+  "book": "matthew",
+  "chapter": 1,
+  "page": 8,
+  "ref": "1:25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_01_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_01_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "但是约瑟没有和她同房，"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P008_F2",
+      "box": [
+        0,
+        0.2441,
+        0.3174,
+        0.4557
+      ],
+      "alt": {
+        "zh-CN": "（孩子要出生的那一夜，约瑟在门外等候。）"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P008_F3",
+      "box": [
+        0.3232,
+        0.2441,
+        0.6768,
+        0.4557
+      ],
+      "alt": {
+        "zh-CN": "直到她生了儿子，约瑟就给他取名叫耶稣。"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P008_F4",
+      "box": [
+        0,
+        0.7025,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "（孩子的小手紧紧握住约瑟的手指。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_01_P008_B001",
+      "panel": "MATTHEW_01_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.0048,
+        0.27,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p8.b1"
+    },
+    {
+      "id": "MATTHEW_01_P008_B002",
+      "panel": "MATTHEW_01_P008_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8037,
+        0.2532,
+        0.1827,
+        0.0546
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p8.b2"
+    }
+  ]
+}

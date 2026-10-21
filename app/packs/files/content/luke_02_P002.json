@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_02_P002",
+  "book": "luke",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "约瑟也从加利利的拿撒勒城上犹太去，到了大卫的城，叫伯利恒，"
+      }
+    },
+    {
+      "id": "LUKE_02_P002_F2",
+      "box": [
+        0,
+        0.2826,
+        0.6445,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "因为他是大卫家族的人。"
+      }
+    },
+    {
+      "id": "LUKE_02_P002_F3",
+      "box": [
+        0.6523,
+        0.2826,
+        0.3477,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "他要和已经许配给他的马利亚一同去登记。那时马利亚已经快要生产了。"
+      }
+    },
+    {
+      "id": "LUKE_02_P002_F4",
+      "box": [
+        0,
+        0.599,
+        1,
+        0.401
+      ],
+      "alt": {
+        "zh-CN": "（傍晚，远处山脊上就是伯利恒，城门口挤满了人。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P002_B001",
+      "panel": "LUKE_02_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0084,
+        0.23,
+        0.0893
+      ],
+      "tail": null,
+      "text_key": "luke.2.p2.b1"
+    },
+    {
+      "id": "LUKE_02_P002_B002",
+      "panel": "LUKE_02_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4769,
+        0.2889,
+        0.1546,
+        0.0627
+      ],
+      "tail": null,
+      "text_key": "luke.2.p2.b2"
+    },
+    {
+      "id": "LUKE_02_P002_B003",
+      "panel": "LUKE_02_P002_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.61,
+        0.38,
+        0.1443
+      ],
+      "tail": null,
+      "text_key": "luke.2.p2.b3"
+    }
+  ]
+}

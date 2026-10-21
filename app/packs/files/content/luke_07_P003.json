@@ -1,0 +1,100 @@
+{
+  "id": "LUKE_07_P003",
+  "book": "luke",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2018
+      ],
+      "alt": {
+        "zh-CN": "耶稣听见这话，就对他感到惊讶，"
+      }
+    },
+    {
+      "id": "LUKE_07_P003_F2",
+      "box": [
+        0,
+        0.2064,
+        0.6699,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "转身对跟随的众人说：“我告诉你们，这么大的信心，就是在以色列中，我也没有遇见过。”"
+      }
+    },
+    {
+      "id": "LUKE_07_P003_F3",
+      "box": [
+        0.6787,
+        0.2064,
+        0.3213,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "（那两个朋友跑回去。）"
+      }
+    },
+    {
+      "id": "LUKE_07_P003_F4",
+      "box": [
+        0,
+        0.4954,
+        1,
+        0.5046
+      ],
+      "alt": {
+        "zh-CN": "那些被托来的人回到百夫长家里，看见仆人已经好了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P003_B001",
+      "panel": "LUKE_07_P003_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.43,
+        0.2121,
+        0.3,
+        0.0654
+      ],
+      "tail": [
+        0.5426,
+        0.306
+      ],
+      "text_key": "luke.7.p3.b1"
+    },
+    {
+      "id": "LUKE_07_P003_B002",
+      "panel": "LUKE_07_P003_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1,
+        0.5105,
+        0.32,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "luke.7.p3.b2"
+    }
+  ]
+}

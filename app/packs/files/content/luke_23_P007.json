@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_23_P007",
+  "book": "luke",
+  "chapter": 23,
+  "page": 7,
+  "ref": "23:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_23_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_23_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ]
+    },
+    {
+      "id": "LUKE_23_P007_F2",
+      "box": [
+        0,
+        0.2448,
+        0.3672,
+        0.2617
+      ]
+    },
+    {
+      "id": "LUKE_23_P007_F3",
+      "box": [
+        0.375,
+        0.2448,
+        0.625,
+        0.2617
+      ]
+    },
+    {
+      "id": "LUKE_23_P007_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_23_P007_B001",
+      "panel": "LUKE_23_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.46,
+        0.005,
+        0.535,
+        0.0529
+      ],
+      "tail": [
+        0.725,
+        0.0842
+      ],
+      "text_key": "luke.23.p7.b1"
+    },
+    {
+      "id": "LUKE_23_P007_B002",
+      "panel": "LUKE_23_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0184,
+        0.4385,
+        0.3304,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "luke.23.p7.b2"
+    },
+    {
+      "id": "LUKE_23_P007_B003",
+      "panel": "LUKE_23_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.825,
+        0.2527,
+        0.1625,
+        0.0732
+      ],
+      "tail": null,
+      "text_key": "luke.23.p7.b3"
+    },
+    {
+      "id": "LUKE_23_P007_B004",
+      "panel": "LUKE_23_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5251,
+        0.47,
+        0.0734
+      ],
+      "tail": null,
+      "text_key": "luke.23.p7.b4"
+    }
+  ]
+}

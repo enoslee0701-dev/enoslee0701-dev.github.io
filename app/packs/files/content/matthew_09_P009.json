@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_09_P009",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 9,
+  "ref": "9:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2383
+      ],
+      "alt": {
+        "zh-CN": "耶稣说这话的时候，有一个管会堂的人来拜他，说："
+      }
+    },
+    {
+      "id": "MATTHEW_09_P009_F2",
+      "box": [
+        0,
+        0.2415,
+        0.5762,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "我的女儿刚刚死了，求你去把手按在她身上，她就会活过来。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P009_F3",
+      "box": [
+        0.5781,
+        0.2415,
+        0.4219,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "（一只手把陶杯放回桌上。）"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P009_F4",
+      "box": [
+        0,
+        0.5514,
+        1,
+        0.4486
+      ],
+      "alt": {
+        "zh-CN": "耶稣就起身跟他去，门徒也跟着去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P009_B001",
+      "panel": "MATTHEW_09_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0071,
+        0.36,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p9.b1"
+    },
+    {
+      "id": "MATTHEW_09_P009_B002",
+      "panel": "MATTHEW_09_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0058,
+        0.2476,
+        0.167,
+        0.0858
+      ],
+      "tail": [
+        0.0893,
+        0.3641
+      ],
+      "text_key": "matthew.9.p9.b2"
+    },
+    {
+      "id": "MATTHEW_09_P009_B003",
+      "panel": "MATTHEW_09_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5604,
+        0.32,
+        0.0628
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p9.b3"
+    }
+  ]
+}

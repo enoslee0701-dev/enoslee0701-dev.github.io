@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_01_P015",
+  "book": "luke",
+  "chapter": 1,
+  "page": 15,
+  "ref": "1:46-50",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "马利亚说：「我的心尊主为大，我的灵以神我的救主为乐，"
+      }
+    },
+    {
+      "id": "LUKE_01_P015_F2",
+      "box": [
+        0,
+        0.2923,
+        0.4893,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "因为他顾念他婢女的卑微；从今以后，万代都要称我有福。"
+      }
+    },
+    {
+      "id": "LUKE_01_P015_F3",
+      "box": [
+        0.5107,
+        0.2923,
+        0.4893,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "那有大能的为我做了大事，他的名是圣的。"
+      }
+    },
+    {
+      "id": "LUKE_01_P015_F4",
+      "box": [
+        0,
+        0.612,
+        1,
+        0.388
+      ],
+      "alt": {
+        "zh-CN": "他怜悯敬畏他的人，直到世世代代。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P015_B001",
+      "panel": "LUKE_01_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0086,
+        0.42,
+        0.0744
+      ],
+      "tail": [
+        0.76,
+        0.1116
+      ],
+      "text_key": "luke.1.p15.b1"
+    },
+    {
+      "id": "LUKE_01_P015_B002",
+      "panel": "LUKE_01_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0245,
+        0.3017,
+        0.3425,
+        0.0629
+      ],
+      "tail": [
+        0.1958,
+        0.3961
+      ],
+      "text_key": "luke.1.p15.b2"
+    },
+    {
+      "id": "LUKE_01_P015_B003",
+      "panel": "LUKE_01_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5352,
+        0.3017,
+        0.4403,
+        0.0629
+      ],
+      "tail": [
+        0.7554,
+        0.3961
+      ],
+      "text_key": "luke.1.p15.b3"
+    },
+    {
+      "id": "LUKE_01_P015_B004",
+      "panel": "LUKE_01_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.6236,
+        0.37,
+        0.0776
+      ],
+      "tail": [
+        0.785,
+        0.74
+      ],
+      "text_key": "luke.1.p15.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_24_P011",
+  "book": "luke",
+  "chapter": 24,
+  "page": 11,
+  "ref": "24:30-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_24_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_24_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ]
+    },
+    {
+      "id": "LUKE_24_P011_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.4069
+      ]
+    },
+    {
+      "id": "LUKE_24_P011_F3",
+      "box": [
+        0,
+        0.6569,
+        0.4053,
+        0.3431
+      ]
+    },
+    {
+      "id": "LUKE_24_P011_F4",
+      "box": [
+        0.4121,
+        0.6569,
+        0.5879,
+        0.3431
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_24_P011_B001",
+      "panel": "LUKE_24_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0073,
+        0.38,
+        0.0537
+      ],
+      "tail": null,
+      "text_key": "luke.24.p11.b1"
+    },
+    {
+      "id": "LUKE_24_P011_B002",
+      "panel": "LUKE_24_P011_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2596,
+        0.6,
+        0.0569
+      ],
+      "tail": null,
+      "text_key": "luke.24.p11.b2"
+    },
+    {
+      "id": "LUKE_24_P011_B003",
+      "panel": "LUKE_24_P011_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0162,
+        0.9314,
+        0.3728,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "luke.24.p11.b3"
+    },
+    {
+      "id": "LUKE_24_P011_B004",
+      "panel": "LUKE_24_P011_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4356,
+        0.6672,
+        0.5408,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "luke.24.p11.b4"
+    }
+  ]
+}

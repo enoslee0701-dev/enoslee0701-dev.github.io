@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_24_P014",
+  "book": "luke",
+  "chapter": 24,
+  "page": 14,
+  "ref": "24:41-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_24_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_24_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ]
+    },
+    {
+      "id": "LUKE_24_P014_F2",
+      "box": [
+        0,
+        0.2318,
+        0.501,
+        0.2767
+      ]
+    },
+    {
+      "id": "LUKE_24_P014_F3",
+      "box": [
+        0.5068,
+        0.2318,
+        0.4932,
+        0.2767
+      ]
+    },
+    {
+      "id": "LUKE_24_P014_F4",
+      "box": [
+        0,
+        0.5117,
+        1,
+        0.4883
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_24_P014_B001",
+      "panel": "LUKE_24_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0091,
+        0.42,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "luke.24.p14.b1"
+    },
+    {
+      "id": "LUKE_24_P014_B002",
+      "panel": "LUKE_24_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3507,
+        0.2401,
+        0.1402,
+        0.083
+      ],
+      "tail": [
+        0.4208,
+        0.3508
+      ],
+      "text_key": "luke.24.p14.b2"
+    },
+    {
+      "id": "LUKE_24_P014_B003",
+      "panel": "LUKE_24_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5265,
+        0.4725,
+        0.4537,
+        0.0304
+      ],
+      "tail": null,
+      "text_key": "luke.24.p14.b3"
+    },
+    {
+      "id": "LUKE_24_P014_B004",
+      "panel": "LUKE_24_P014_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.5263,
+        0.4,
+        0.0585
+      ],
+      "tail": null,
+      "text_key": "luke.24.p14.b4"
+    }
+  ]
+}

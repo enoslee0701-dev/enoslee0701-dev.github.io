@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_11_P002",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 2,
+  "ref": "11:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "你们回去，把你们所听见、所看见的告诉约翰："
+      }
+    },
+    {
+      "id": "MATTHEW_11_P002_F2",
+      "box": [
+        0,
+        0.248,
+        1,
+        0.403
+      ],
+      "alt": {
+        "zh-CN": "瞎眼的看见，瘸腿的行走，患麻风的得洁净，"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P002_F3",
+      "box": [
+        0,
+        0.6563,
+        0.5742,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "耳聋的听见，死人复活，穷人听到福音。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P002_F4",
+      "box": [
+        0.582,
+        0.6563,
+        0.418,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "凡不因我而跌倒的人就有福了！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P002_B001",
+      "panel": "MATTHEW_11_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0049,
+        0.36,
+        0.0339
+      ],
+      "tail": [
+        0.2,
+        0.0631
+      ],
+      "text_key": "matthew.11.p2.b1"
+    },
+    {
+      "id": "MATTHEW_11_P002_B002",
+      "panel": "MATTHEW_11_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.2561,
+        0.42,
+        0.0523
+      ],
+      "tail": [
+        0.77,
+        0.3487
+      ],
+      "text_key": "matthew.11.p2.b2"
+    },
+    {
+      "id": "MATTHEW_11_P002_B003",
+      "panel": "MATTHEW_11_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0172,
+        0.6632,
+        0.2583,
+        0.0446
+      ],
+      "tail": [
+        0.1463,
+        0.7422
+      ],
+      "text_key": "matthew.11.p2.b3"
+    },
+    {
+      "id": "MATTHEW_11_P002_B004",
+      "panel": "MATTHEW_11_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5945,
+        0.9107,
+        0.1755,
+        0.0756
+      ],
+      "tail": [
+        0.6823,
+        0.99
+      ],
+      "text_key": "matthew.11.p2.b4"
+    }
+  ]
+}

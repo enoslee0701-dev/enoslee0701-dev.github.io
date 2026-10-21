@@ -1,0 +1,118 @@
+{
+  "id": "MATTHEW_27_P006",
+  "book": "matthew",
+  "chapter": 27,
+  "page": 6,
+  "ref": "27:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_27_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_27_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.196
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P006_F2",
+      "box": [
+        0,
+        0.1992,
+        0.3232,
+        0.5417
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P006_F3",
+      "box": [
+        0.3311,
+        0.1992,
+        0.6689,
+        0.5417
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P006_F4",
+      "box": [
+        0,
+        0.7454,
+        1,
+        0.2546
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_27_P006_B001",
+      "panel": "MATTHEW_27_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0059,
+        0.42,
+        0.0352
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p6.b1"
+    },
+    {
+      "id": "MATTHEW_27_P006_B002",
+      "panel": "MATTHEW_27_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0905,
+        0.2073,
+        0.2197,
+        0.0595
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p6.b2"
+    },
+    {
+      "id": "MATTHEW_27_P006_B003",
+      "panel": "MATTHEW_27_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3579,
+        0.2073,
+        0.6153,
+        0.0541
+      ],
+      "tail": [
+        0.6656,
+        0.3156
+      ],
+      "text_key": "matthew.27.p6.b3"
+    },
+    {
+      "id": "MATTHEW_27_P006_B004",
+      "panel": "MATTHEW_27_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.76,
+        0.753,
+        0.23,
+        0.0763
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p6.b4"
+    }
+  ]
+}

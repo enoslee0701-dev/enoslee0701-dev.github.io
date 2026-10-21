@@ -1,0 +1,82 @@
+{
+  "id": "LUKE_07_P018",
+  "book": "luke",
+  "chapter": 7,
+  "page": 18,
+  "ref": "7:49-50",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P018",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P018_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2116
+      ]
+    },
+    {
+      "id": "LUKE_07_P018_F2",
+      "box": [
+        0,
+        0.2155,
+        1,
+        0.3652
+      ]
+    },
+    {
+      "id": "LUKE_07_P018_F3",
+      "box": [
+        0,
+        0.584,
+        1,
+        0.416
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P018_B001",
+      "panel": "LUKE_07_P018_F1",
+      "order": 1,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.15,
+        0.0063,
+        0.7,
+        0.0423
+      ],
+      "tail": [
+        0.5,
+        0.0698
+      ],
+      "text_key": "luke.7.p18.b1"
+    },
+    {
+      "id": "LUKE_07_P018_B002",
+      "panel": "LUKE_07_P018_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2265,
+        0.4,
+        0.0876
+      ],
+      "tail": [
+        0.78,
+        0.3506
+      ],
+      "text_key": "luke.7.p18.b2"
+    }
+  ]
+}

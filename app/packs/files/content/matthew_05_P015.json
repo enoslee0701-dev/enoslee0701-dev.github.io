@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_05_P015",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 15,
+  "ref": "5:43-45",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "你们听过有话说：『要爱你的邻舍，恨你的仇敌。』"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P015_F2",
+      "box": [
+        0,
+        0.2637,
+        0.5049,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "但我告诉你们，要爱你们的仇敌，为迫害你们的人祷告。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P015_F3",
+      "box": [
+        0.5127,
+        0.2637,
+        0.4873,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "这样就可以作你们天父的儿女；"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P015_F4",
+      "box": [
+        0,
+        0.6191,
+        1,
+        0.3809
+      ],
+      "alt": {
+        "zh-CN": "因为他让太阳照好人，也照坏人；降雨给义人，也给不义的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P015_B001",
+      "panel": "MATTHEW_05_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.0026,
+        0.34,
+        0.0285
+      ],
+      "tail": [
+        0.18,
+        0.057
+      ],
+      "text_key": "matthew.5.p15.b1"
+    },
+    {
+      "id": "MATTHEW_05_P015_B002",
+      "panel": "MATTHEW_05_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3837,
+        0.2707,
+        0.1161,
+        0.1193
+      ],
+      "tail": [
+        0.4418,
+        0.4251
+      ],
+      "text_key": "matthew.5.p15.b2"
+    },
+    {
+      "id": "MATTHEW_05_P015_B003",
+      "panel": "MATTHEW_05_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.565,
+        0.2707,
+        0.24,
+        0.0561
+      ],
+      "tail": [
+        0.6053,
+        0.3619
+      ],
+      "text_key": "matthew.5.p15.b3"
+    },
+    {
+      "id": "MATTHEW_05_P015_B004",
+      "panel": "MATTHEW_05_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.6229,
+        0.27,
+        0.0495
+      ],
+      "tail": [
+        0.145,
+        0.7105
+      ],
+      "text_key": "matthew.5.p15.b4"
+    }
+  ]
+}

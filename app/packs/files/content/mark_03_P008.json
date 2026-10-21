@@ -1,0 +1,100 @@
+{
+  "id": "MARK_03_P008",
+  "book": "mark",
+  "chapter": 3,
+  "page": 8,
+  "ref": "3:13",
+  "layout": "L1",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P008_F1",
+      "box": [
+        0.0293,
+        0.0182,
+        0.9404,
+        0.308
+      ],
+      "alt": {
+        "zh-CN": "耶稣离开海边的人群，独自上山。"
+      }
+    },
+    {
+      "id": "MARK_03_P008_F2",
+      "box": [
+        0.0293,
+        0.3366,
+        0.9404,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "他在山上，召他所要的人来；"
+      }
+    },
+    {
+      "id": "MARK_03_P008_F3",
+      "box": [
+        0.0293,
+        0.625,
+        0.9404,
+        0.3555
+      ],
+      "alt": {
+        "zh-CN": "他们就上山来到他那里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P008_B001",
+      "panel": "MARK_03_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.16,
+        0.03,
+        0.5,
+        0.0772
+      ],
+      "tail": null,
+      "text_key": "mark.3.p8.b1"
+    },
+    {
+      "id": "MARK_03_P008_B002",
+      "panel": "MARK_03_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.453,
+        0.3466,
+        0.4888,
+        0.0772
+      ],
+      "tail": null,
+      "text_key": "mark.3.p8.b2"
+    },
+    {
+      "id": "MARK_03_P008_B003",
+      "panel": "MARK_03_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.312,
+        0.6335,
+        0.611,
+        0.0735
+      ],
+      "tail": null,
+      "text_key": "mark.3.p8.b3"
+    }
+  ]
+}

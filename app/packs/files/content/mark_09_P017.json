@@ -1,0 +1,145 @@
+{
+  "id": "MARK_09_P017",
+  "book": "mark",
+  "chapter": 9,
+  "page": 17,
+  "ref": "9:38-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_09_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_09_P017_F1",
+      "box": [
+        0.008,
+        0,
+        0.985,
+        0.243
+      ],
+      "alt": {
+        "zh-CN": "约翰对耶稣说：「老师，我们看见一个人奉你的名赶鬼，我们就禁止他，因为他不跟从我们。」"
+      }
+    },
+    {
+      "id": "MARK_09_P017_F2",
+      "box": [
+        0.012,
+        0.248,
+        0.527,
+        0.231
+      ],
+      "alt": {
+        "zh-CN": "（回忆：约翰和雅各拦住那个奉耶稣的名赶鬼的人。）"
+      }
+    },
+    {
+      "id": "MARK_09_P017_F3",
+      "box": [
+        0.551,
+        0.248,
+        0.441,
+        0.231
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「不要禁止他；因为没有人奉我的名行神迹，转过头来就轻易毁谤我。"
+      }
+    },
+    {
+      "id": "MARK_09_P017_F4",
+      "box": [
+        0.008,
+        0.484,
+        0.984,
+        0.134
+      ],
+      "alt": {
+        "zh-CN": "不反对我们的，就是帮助我们的。"
+      }
+    },
+    {
+      "id": "MARK_09_P017_F5",
+      "box": [
+        0.013,
+        0.622,
+        0.973,
+        0.37
+      ],
+      "alt": {
+        "zh-CN": "凡因为你们属于基督，给你们一杯水喝的，我实在告诉你们，他一定会得到赏赐。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_09_P017_B001",
+      "panel": "MARK_09_P017_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.138,
+        0.805,
+        0.105
+      ],
+      "tail": [
+        0.36,
+        0.09
+      ],
+      "text_key": "mark.9.p17.b1"
+    },
+    {
+      "id": "MARK_09_P017_B002",
+      "panel": "MARK_09_P017_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.485,
+        0.44,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.9.p17.b2"
+    },
+    {
+      "id": "MARK_09_P017_B003",
+      "panel": "MARK_09_P017_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.69,
+        0.485,
+        0.3,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.9.p17.b3"
+    },
+    {
+      "id": "MARK_09_P017_B004",
+      "panel": "MARK_09_P017_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.09,
+        0.886,
+        0.815,
+        0.105
+      ],
+      "tail": [
+        0.4314,
+        0.7182
+      ],
+      "text_key": "mark.9.p17.b4"
+    }
+  ]
+}

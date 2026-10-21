@@ -1,0 +1,130 @@
+{
+  "id": "LUKE_06_P003",
+  "book": "luke",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "又有一个安息日，耶稣进了会堂教导人，那里有一个人的右手萎缩了。"
+      }
+    },
+    {
+      "id": "LUKE_06_P003_F2",
+      "box": [
+        0,
+        0.2819,
+        0.6357,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "文士和法利赛人暗中观察耶稣，看他在安息日治不治病，好找把柄控告他。"
+      }
+    },
+    {
+      "id": "LUKE_06_P003_F3",
+      "box": [
+        0.6406,
+        0.2819,
+        0.3594,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "（耶稣知道他们心里的意思。）"
+      }
+    },
+    {
+      "id": "LUKE_06_P003_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "耶稣对那只手萎缩的人说：“起来！站到中间来。”那人就起来，站着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P003_B001",
+      "panel": "LUKE_06_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.22,
+        0.0056,
+        0.56,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "luke.6.p3.b1"
+    },
+    {
+      "id": "LUKE_06_P003_B002",
+      "panel": "LUKE_06_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2416,
+        0.2887,
+        0.3687,
+        0.0496
+      ],
+      "tail": null,
+      "text_key": "luke.6.p3.b2"
+    },
+    {
+      "id": "LUKE_06_P003_B003",
+      "panel": "LUKE_06_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.63,
+        0.5251,
+        0.35,
+        0.0299
+      ],
+      "tail": [
+        0.805,
+        0.604
+      ],
+      "text_key": "luke.6.p3.b3"
+    },
+    {
+      "id": "LUKE_06_P003_B004",
+      "panel": "LUKE_06_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.63,
+        0.5648,
+        0.35,
+        0.0336
+      ],
+      "tail": null,
+      "text_key": "luke.6.p3.b4"
+    }
+  ]
+}

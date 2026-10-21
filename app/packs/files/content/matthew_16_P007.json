@@ -1,0 +1,88 @@
+{
+  "id": "MATTHEW_16_P007",
+  "book": "matthew",
+  "chapter": 16,
+  "page": 7,
+  "ref": "16:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_16_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_16_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他说：「西门·巴·约拿，你是有福的！因为这不是凡人指示你的，而是我在天上的父指示的。"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P007_F2",
+      "box": [
+        0.61,
+        0.2442,
+        0.386,
+        0.2158
+      ]
+    },
+    {
+      "id": "MATTHEW_16_P007_F3",
+      "box": [
+        0,
+        0.2402,
+        1,
+        0.7598
+      ],
+      "alt": {
+        "zh-CN": "我还告诉你，你是彼得，我要把我的教会建造在这磐石上；阴间的权柄不能胜过它。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_16_P007_B001",
+      "panel": "MATTHEW_16_P007_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.26,
+        0.55,
+        0.13
+      ],
+      "tail": [
+        0.32,
+        0.2
+      ],
+      "text_key": "matthew.16.p7.b1"
+    },
+    {
+      "id": "MATTHEW_16_P007_B002",
+      "panel": "MATTHEW_16_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.44,
+        0.52,
+        0.1367
+      ],
+      "tail": [
+        0.29,
+        0.63
+      ],
+      "text_key": "matthew.16.p7.b2"
+    }
+  ]
+}

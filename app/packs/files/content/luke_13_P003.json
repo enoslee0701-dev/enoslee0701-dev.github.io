@@ -1,0 +1,106 @@
+{
+  "id": "LUKE_13_P003",
+  "book": "luke",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ]
+    },
+    {
+      "id": "LUKE_13_P003_F2",
+      "box": [
+        0,
+        0.2676,
+        0.6631,
+        0.2676
+      ]
+    },
+    {
+      "id": "LUKE_13_P003_F3",
+      "box": [
+        0.6729,
+        0.2676,
+        0.3271,
+        0.2676
+      ]
+    },
+    {
+      "id": "LUKE_13_P003_F4",
+      "box": [
+        0,
+        0.541,
+        1,
+        0.459
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_13_P003_B001",
+      "panel": "LUKE_13_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0079,
+        0.48,
+        0.0523
+      ],
+      "tail": null,
+      "text_key": "luke.13.p3.b1"
+    },
+    {
+      "id": "LUKE_13_P003_B002",
+      "panel": "LUKE_13_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0133,
+        0.273,
+        0.2983,
+        0.0695
+      ],
+      "tail": [
+        0.1625,
+        0.3693
+      ],
+      "text_key": "luke.13.p3.b2"
+    },
+    {
+      "id": "LUKE_13_P003_B003",
+      "panel": "LUKE_13_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.5869,
+        0.36,
+        0.0918
+      ],
+      "tail": [
+        0.8,
+        0.7246
+      ],
+      "text_key": "luke.13.p3.b3"
+    }
+  ]
+}

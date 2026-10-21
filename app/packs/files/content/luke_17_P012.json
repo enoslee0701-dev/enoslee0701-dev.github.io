@@ -1,0 +1,85 @@
+{
+  "id": "LUKE_17_P012",
+  "book": "luke",
+  "chapter": 17,
+  "page": 12,
+  "ref": "17:34-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_17_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_17_P012_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.2441
+      ]
+    },
+    {
+      "id": "LUKE_17_P012_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.2441
+      ]
+    },
+    {
+      "id": "LUKE_17_P012_F3",
+      "box": [
+        0,
+        0.2487,
+        1,
+        0.4329
+      ]
+    },
+    {
+      "id": "LUKE_17_P012_F4",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_17_P012_B001",
+      "panel": "LUKE_17_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.0073,
+        0.4564,
+        0.0488
+      ],
+      "tail": null,
+      "text_key": "luke.17.p12.b1"
+    },
+    {
+      "id": "LUKE_17_P012_B002",
+      "panel": "LUKE_17_P012_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.2617,
+        0.38,
+        0.0779
+      ],
+      "tail": null,
+      "text_key": "luke.17.p12.b2"
+    }
+  ]
+}

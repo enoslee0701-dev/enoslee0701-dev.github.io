@@ -1,0 +1,673 @@
+{
+  "luke.2.p1.b1": {
+    "text": "当那些日子，凯撒奥古斯都有旨意下来，叫天下人民都报名上册。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "当那⁠些日⁠子，凯撒奥古斯都⁠有旨⁠意下⁠来，叫天⁠下人⁠民都报⁠名上册。"
+  },
+  "luke.2.p1.b2": {
+    "text": "这是居里扭作叙利亚巡抚的时候，头一次行报名上册的事。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这是居⁠里扭作叙⁠利⁠亚巡⁠抚的时⁠候，头一⁠次行报⁠名上册的事。"
+  },
+  "luke.2.p1.b3": {
+    "text": "众人各归各城，报名上册。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众⁠人各归各城，报⁠名上册。"
+  },
+  "luke.2.p2.b1": {
+    "text": "约瑟也从加利利的拿撒勒城上犹太去，到了大卫的城，名叫伯利恒，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠瑟也从加⁠利⁠利的拿⁠撒⁠勒城上犹⁠太去，到⁠了大⁠卫的城，名⁠叫伯⁠利⁠恒，"
+  },
+  "luke.2.p2.b2": {
+    "text": "因他本是大卫一族一家的人，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因他本是大⁠卫一⁠族一⁠家的人，"
+  },
+  "luke.2.p2.b3": {
+    "text": "要和他所聘之妻马利亚一同报名上册。那时马利亚的身孕已经重了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "要和他⁠所聘之妻马⁠利⁠亚一⁠同报⁠名上册。那⁠时马⁠利⁠亚的身⁠孕已⁠经重了。"
+  },
+  "luke.2.p3.b1": {
+    "text": "他们在那里的时候，马利亚的产期到了，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们在那⁠里的时⁠候，马⁠利⁠亚的产期到⁠了，"
+  },
+  "luke.2.p3.b2": {
+    "text": "就生了头胎的儿子，用布包起来，放在马槽里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就生了头胎的儿⁠子，用⁠布包起⁠来，放⁠在马槽里，"
+  },
+  "luke.2.p3.b3": {
+    "text": "因为客店里没有地方。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为客店里没⁠有地⁠方。"
+  },
+  "luke.2.p4.b1": {
+    "text": "在伯利恒之野地里有牧羊的人，夜间按着更次看守羊群。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在伯⁠利⁠恒之野⁠地里有牧⁠羊的人，夜⁠间按着更次看⁠守羊⁠群。"
+  },
+  "luke.2.p4.b2": {
+    "text": "有主的使者站在他们旁边，主的荣光四面照着他们；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有主的使⁠者站⁠在他⁠们旁⁠边，主的荣⁠光四⁠面照着他⁠们；"
+  },
+  "luke.2.p4.b3": {
+    "text": "牧羊的人就甚惧怕。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "牧⁠羊的人就甚惧⁠怕。"
+  },
+  "luke.2.p5.b1": {
+    "text": "不要惧怕！我报给你们大喜的信息，是关乎万民的；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠要惧⁠怕！我报给你⁠们大⁠喜的信⁠息，是关乎万⁠民的；"
+  },
+  "luke.2.p5.b2": {
+    "text": "因今天在大卫的城里，为你们生了救主，就是主基督。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因今⁠天在大⁠卫的城里，为你⁠们生了救⁠主，就⁠是主基⁠督。"
+  },
+  "luke.2.p5.b3": {
+    "text": "你们要看见一个婴孩，包着布，卧在马槽里，那就是记号了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要看⁠见一⁠个婴⁠孩，包着布，卧⁠在马槽里，那就⁠是记⁠号了。"
+  },
+  "luke.2.p6.b1": {
+    "text": "忽然，有一大队天兵同那天使赞美　神说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "忽⁠然，有⁠一大⁠队天⁠兵同那天⁠使赞⁠美　神说："
+  },
+  "luke.2.p6.b2": {
+    "text": "在至高之处荣耀归与　神！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在至⁠高之处荣⁠耀归与　神！"
+  },
+  "luke.2.p6.b3": {
+    "text": "在地上平安归与他所喜悦的人！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在地⁠上平⁠安归与他⁠所喜⁠悦的人！"
+  },
+  "luke.2.p7.b1": {
+    "text": "众天使离开他们，升天去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众天⁠使离⁠开他⁠们，升⁠天去⁠了。"
+  },
+  "luke.2.p7.b2": {
+    "text": "我们往伯利恒去，看看所成的事，就是主所指示我们的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们往伯⁠利⁠恒去，看⁠看所成的事，就⁠是主所指⁠示我⁠们的。"
+  },
+  "luke.2.p7.b3": {
+    "text": "他们急忙去了，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们急⁠忙去⁠了，"
+  },
+  "luke.2.p7.b4": {
+    "text": "就寻见马利亚和约瑟，又有那婴孩卧在马槽里；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就寻见马⁠利⁠亚和约⁠瑟，又⁠有那婴⁠孩卧⁠在马槽里；"
+  },
+  "luke.2.p8.b1": {
+    "text": "既然看见，就把天使论这孩子的话传开了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "既⁠然看⁠见，就⁠把天⁠使论这孩⁠子的⁠话传⁠开了。"
+  },
+  "luke.2.p8.b2": {
+    "text": "凡听见的，就诧异牧羊之人对他们所说的话。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡听⁠见的，就诧⁠异牧⁠羊之人对他⁠们所说的⁠话。"
+  },
+  "luke.2.p8.b3": {
+    "text": "马利亚却把这一切的事存在心里，反复思想。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "马⁠利⁠亚却把这一⁠切的事存⁠在心⁠里，反⁠复思⁠想。"
+  },
+  "luke.2.p8.b4": {
+    "text": "牧羊的人回去了，因所听见所看见的一切事，正如天使向他们所说的，就归荣耀与　神，赞美他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "牧⁠羊的人回⁠去了，因所听⁠见所看⁠见的一⁠切事，正⁠如天⁠使向他⁠们所说⁠的，就归荣⁠耀与　神，赞⁠美他。"
+  },
+  "luke.2.p9.b1": {
+    "text": "满了八天，……与他起名叫耶稣；这就是没有成胎以前，天使所起的名。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "满⁠了八⁠天，……与他起名⁠叫耶⁠稣；这就⁠是没⁠有成胎以⁠前，天⁠使所起的名。"
+  },
+  "luke.2.p9.b2": {
+    "text": "按摩西律法满了洁净的日子，他们带着孩子上耶路撒冷去，要把他献与主，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "按摩⁠西律⁠法满⁠了洁⁠净的日⁠子，他⁠们带着孩⁠子上耶⁠路撒⁠冷去，要把他献与主，"
+  },
+  "luke.2.p9.b3": {
+    "text": "正如主的律法上所记：「凡头生的男子必称圣归主。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "正⁠如主的律⁠法上⁠所记：「凡头生的男⁠子必称圣归主。」"
+  },
+  "luke.2.p9.b4": {
+    "text": "……或用一对斑鸠，或用两只雏鸽献祭。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……或用一⁠对斑鸠，或用两只雏鸽献祭。"
+  },
+  "luke.2.p10.b1": {
+    "text": "在耶路撒冷有一个人，名叫西面；这人又公义又虔诚，素常盼望以色列的安慰者来到，又有圣灵在他身上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在耶⁠路撒⁠冷有⁠一个⁠人，名⁠叫西⁠面；这人又公⁠义又虔⁠诚，素常盼⁠望以⁠色⁠列的安⁠慰者来⁠到，又⁠有圣⁠灵在他身⁠上。"
+  },
+  "luke.2.p10.b2": {
+    "text": "他得了圣灵的启示，知道自己未死以前，必看见主所立的基督。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他得⁠了圣⁠灵的启⁠示，知⁠道自⁠己未死以⁠前，必看⁠见主所立的基⁠督。"
+  },
+  "luke.2.p10.b3": {
+    "text": "他受了圣灵的感动，进入圣殿，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他受了圣⁠灵的感⁠动，进⁠入圣⁠殿，"
+  },
+  "luke.2.p10.b4": {
+    "text": "正遇见耶稣的父母抱着孩子进来，要照律法的规矩办理。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "正遇⁠见耶⁠稣的父⁠母抱着孩⁠子进⁠来，要照律⁠法的规⁠矩办⁠理。"
+  },
+  "luke.2.p11.b1": {
+    "text": "西面就用手接过他来，称颂　神说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "西⁠面就⁠用手接过他来，称⁠颂　神说："
+  },
+  "luke.2.p11.b2": {
+    "text": "主啊！如今可以照你的话，释放仆人安然去世；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主啊！如⁠今可⁠以照你的⁠话，释⁠放仆⁠人安⁠然去⁠世；"
+  },
+  "luke.2.p11.b3": {
+    "text": "因为我的眼睛已经看见你的救恩—就是你在万民面前所预备的：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:30-31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为我⁠的眼⁠睛已⁠经看⁠见你⁠的救恩—就⁠是你⁠在万⁠民面⁠前所预⁠备的："
+  },
+  "luke.2.p11.b4": {
+    "text": "是照亮外邦人的光，又是你民以色列的荣耀。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "是照⁠亮外⁠邦⁠人的光，又⁠是你民以⁠色⁠列的荣⁠耀。"
+  },
+  "luke.2.p12.b1": {
+    "text": "孩子的父母因这论耶稣的话就希奇。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "孩⁠子的父⁠母因这论耶⁠稣的⁠话就希⁠奇。"
+  },
+  "luke.2.p12.b2": {
+    "text": "西面给他们祝福，又对孩子的母亲马利亚说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "西⁠面给他⁠们祝⁠福，又对孩⁠子的母⁠亲马⁠利⁠亚说："
+  },
+  "luke.2.p12.b3": {
+    "text": "这孩子被立，是要叫以色列中许多人跌倒，许多人兴起；又要作毁谤的话柄，叫许多人心里的意念显露出来；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这孩⁠子被立，是要叫以⁠色⁠列中许⁠多人跌⁠倒，许⁠多人兴⁠起；又⁠要作毁⁠谤的⁠话柄，叫许⁠多人心⁠里的意⁠念显⁠露出⁠来；"
+  },
+  "luke.2.p12.b4": {
+    "text": "你自己的心也要被刀刺透。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你自⁠己的心也⁠要被刀刺透。"
+  },
+  "luke.2.p13.b1": {
+    "text": "又有女先知，名叫亚拿，是亚设支派法内力的女儿，年纪已经老迈，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有女先⁠知，名⁠叫亚拿，是亚设支⁠派法内力的女⁠儿，年⁠纪已⁠经老⁠迈，"
+  },
+  "luke.2.p13.b2": {
+    "text": "现在已经八十四岁，并不离开圣殿，禁食祈求，昼夜事奉　神。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "现⁠在已⁠经八十⁠四⁠岁，并⁠不离⁠开圣⁠殿，禁⁠食祈⁠求，昼⁠夜事奉　神。"
+  },
+  "luke.2.p13.b3": {
+    "text": "正当那时，她进前来称谢　神，将孩子的事对一切盼望耶路撒冷得救赎的人讲说。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "正⁠当那⁠时，她进前来称谢　神，将孩⁠子的事对一⁠切盼⁠望耶⁠路撒⁠冷得救⁠赎的人讲说。"
+  },
+  "luke.2.p14.b1": {
+    "text": "约瑟和马利亚照主的律法办完了一切的事，就回加利利，到自己的城拿撒勒去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠瑟和马⁠利⁠亚照主的律⁠法办完⁠了一⁠切的事，就回加⁠利⁠利，到自⁠己的城拿⁠撒⁠勒去⁠了。"
+  },
+  "luke.2.p14.b2": {
+    "text": "孩子渐渐长大，强健起来，充满智慧，又有　神的恩在他身上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "孩⁠子渐⁠渐长⁠大，强⁠健起⁠来，充⁠满智⁠慧，又⁠有　神的恩在他身⁠上。"
+  },
+  "luke.2.p15.b1": {
+    "text": "每年到逾越节，他父母就上耶路撒冷去。当他十二岁的时候，他们按着节期的规矩上去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:41-42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "每⁠年到逾⁠越⁠节，他父⁠母就上耶⁠路撒⁠冷去。当他十⁠二⁠岁的时⁠候，他⁠们按着节期的规⁠矩上⁠去。"
+  },
+  "luke.2.p15.b2": {
+    "text": "守满了节期，他们回去，孩童耶稣仍旧在耶路撒冷。他的父母并不知道，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "守满⁠了节期，他⁠们回⁠去，孩⁠童耶⁠稣仍⁠旧在耶⁠路撒⁠冷。他⁠的父⁠母并不⁠知⁠道，"
+  },
+  "luke.2.p15.b3": {
+    "text": "以为他在同行的人中间，走了一天的路程，就在亲族和熟识的人中找他，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:44"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠为他⁠在同⁠行的人中⁠间，走⁠了一⁠天的路⁠程，就⁠在亲族和熟⁠识的人⁠中找他，"
+  },
+  "luke.2.p15.b4": {
+    "text": "既找不着，就回耶路撒冷去找他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "既找不⁠着，就回耶⁠路撒⁠冷去找他。"
+  },
+  "luke.2.p16.b1": {
+    "text": "过了三天，就遇见他在殿里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "过了三⁠天，就遇⁠见他⁠在殿⁠里，"
+  },
+  "luke.2.p16.b2": {
+    "text": "坐在教师中间，一面听，一面问。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "坐⁠在教⁠师中⁠间，一⁠面听，一⁠面问。"
+  },
+  "luke.2.p16.b3": {
+    "text": "凡听见他的，都希奇他的聪明和他的应对。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡听⁠见他⁠的，都希⁠奇他⁠的聪⁠明和他⁠的应⁠对。"
+  },
+  "luke.2.p17.b1": {
+    "text": "他父母看见就很希奇。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他父⁠母看⁠见就很希⁠奇。"
+  },
+  "luke.2.p17.b2": {
+    "text": "我儿！为什么向我们这样行呢？看哪，你父亲和我伤心来找你！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我儿！为⁠什⁠么向我⁠们这⁠样行呢？看哪，你父⁠亲和我伤⁠心来找你！"
+  },
+  "luke.2.p17.b3": {
+    "text": "为什么找我呢？岂不知我应当以我父的事为念吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "为⁠什⁠么找我呢？岂⁠不知我应⁠当以我父的事为念吗？"
+  },
+  "luke.2.p17.b4": {
+    "text": "他所说的这话，他们不明白。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:50"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠所说⁠的这话，他⁠们不明⁠白。"
+  },
+  "luke.2.p18.b1": {
+    "text": "他就同他们下去，回到拿撒勒，并且顺从他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他就同他⁠们下⁠去，回⁠到拿⁠撒⁠勒，并⁠且顺⁠从他⁠们。"
+  },
+  "luke.2.p18.b2": {
+    "text": "他母亲把这一切的事都存在心里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他母⁠亲把这一⁠切的事都存⁠在心⁠里。"
+  },
+  "luke.2.p18.b3": {
+    "text": "耶稣的智慧和身量，并　神和人喜爱他的心，都一齐增长。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣的智⁠慧和身量，并　神和人喜⁠爱他⁠的心，都一⁠齐增⁠长。"
+  }
+}

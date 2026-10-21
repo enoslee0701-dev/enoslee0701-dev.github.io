@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_06_P002",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "你们祷告的时候，不要像那些伪善的人，喜欢站在会堂里和十字路口祷告，故意让人看见。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P002_F2",
+      "box": [
+        0.625,
+        0.2585,
+        0.3672,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "（年轻的文士捋着衣角繸子的手停住了，他低头看着。）"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P002_F3",
+      "box": [
+        0,
+        0.2956,
+        0.6172,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "你祷告的时候，要进你的内屋，关上门，"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P002_F4",
+      "box": [
+        0,
+        0.6048,
+        1,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "向你在暗中的父祷告；你父在暗中察看，必然报答你。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P002_B001",
+      "panel": "MATTHEW_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.66,
+        0.0058,
+        0.32,
+        0.0579
+      ],
+      "tail": [
+        0.82,
+        0.0927
+      ],
+      "text_key": "matthew.6.p2.b1"
+    },
+    {
+      "id": "MATTHEW_06_P002_B002",
+      "panel": "MATTHEW_06_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0185,
+        0.3048,
+        0.2345,
+        0.0673
+      ],
+      "tail": [
+        0.1357,
+        0.4027
+      ],
+      "text_key": "matthew.6.p2.b2"
+    },
+    {
+      "id": "MATTHEW_06_P002_B003",
+      "panel": "MATTHEW_06_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.66,
+        0.9328,
+        0.32,
+        0.0592
+      ],
+      "tail": [
+        0.82,
+        1
+      ],
+      "text_key": "matthew.6.p2.b3"
+    }
+  ]
+}

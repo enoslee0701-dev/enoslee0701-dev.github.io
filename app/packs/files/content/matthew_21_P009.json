@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_21_P009",
+  "book": "matthew",
+  "chapter": 21,
+  "page": 9,
+  "ref": "21:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_21_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_21_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2871
+      ]
+    },
+    {
+      "id": "MATTHEW_21_P009_F2",
+      "box": [
+        0,
+        0.291,
+        0.4971,
+        0.2773
+      ]
+    },
+    {
+      "id": "MATTHEW_21_P009_F3",
+      "box": [
+        0.502,
+        0.291,
+        0.498,
+        0.2773
+      ]
+    },
+    {
+      "id": "MATTHEW_21_P009_F4",
+      "box": [
+        0,
+        0.5723,
+        1,
+        0.4277
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_21_P009_B001",
+      "panel": "MATTHEW_21_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.26,
+        0.0086,
+        0.36,
+        0.0545
+      ],
+      "tail": [
+        0.44,
+        0.0918
+      ],
+      "text_key": "matthew.21.p9.b1"
+    },
+    {
+      "id": "MATTHEW_21_P009_B002",
+      "panel": "MATTHEW_21_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.2965,
+        0.4573,
+        0.036
+      ],
+      "tail": [
+        0.2486,
+        0.3602
+      ],
+      "text_key": "matthew.21.p9.b2"
+    },
+    {
+      "id": "MATTHEW_21_P009_B003",
+      "panel": "MATTHEW_21_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.42,
+        0.5809,
+        0.56,
+        0.0427
+      ],
+      "tail": [
+        0.7,
+        0.6664
+      ],
+      "text_key": "matthew.21.p9.b3"
+    },
+    {
+      "id": "MATTHEW_21_P009_B004",
+      "panel": "MATTHEW_21_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.9316,
+        0.42,
+        0.0598
+      ],
+      "tail": [
+        0.77,
+        1
+      ],
+      "text_key": "matthew.21.p9.b4"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "luke.19.p1.b1": {
+    "text": "예수께서 여리고로 들어 지나가시더라 삭개오라 이름하는 자가 있으니 세리장이요 또한 부자라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p1.b2": {
+    "text": "키가 작고 사람이 많아 할 수 없어",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p1.b3": {
+    "text": "앞으로 달려가 보기 위하여 뽕나무에 올라가니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p2.b1": {
+    "text": "예수께서 그 곳에 이르사 우러러 보시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p2.b2": {
+    "text": "삭개오야 속히 내려오라 내가 오늘 네 집에 유하여야 하겠다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p2.b3": {
+    "text": "급히 내려와 즐거워하며 영접하거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b1": {
+    "text": "저가 죄인의 집에 유하러 들어갔도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b2": {
+    "text": "삭개오가 서서 주께 여짜오되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b3": {
+    "text": "주여 보시옵소서 내 소유의 절반을 가난한 자들에게 주겠사오며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p3.b4": {
+    "text": "만일 뉘 것을 토색한 일이 있으면 사배나 갚겠나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p4.b1": {
+    "text": "오늘 구원이 이 집에 이르렀으니 이 사람도 아브라함의 자손임이 로다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p4.b2": {
+    "text": "인자의 온 것은 잃어버린 자를 찾아 구원하려 함이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b1": {
+    "text": "…비유를 더하여 말씀하시니 이는 자기가 예루살렘에 가까이 오셨고 저희는 하나님의 나라가 당장에 나타날 줄로 생각함이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b2": {
+    "text": "어떤 귀인이 왕위를 받아가지고 오려고 먼 나라로 갈 때에 그 종 열을 불러 은 열 므나를 주며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:12-13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b3": {
+    "text": "내가 돌아오기까지 장사하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p5.b4": {
+    "text": "우리는 이 사람이 우리의 왕 됨을 원치 아니하노이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b1": {
+    "text": "귀인이 왕위를 받아 가지고 돌아와서 은 준 종들의 각각 어떻게 장사한 것을 알고자 하여 저희를 부르니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b2": {
+    "text": "주여 주의 한 므나로 열 므나를 남겼나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b3": {
+    "text": "잘하였다 착한 종이여 네가 지극히 작은 것에 충성하였으니 열 고을 권세를 차지하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p6.b4": {
+    "text": "주여 주의 한 므나로 다섯 므나를 만들었나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b1": {
+    "text": "주여 보소서 주의 한 므나가 여기 있나이다 내가 수건으로 싸 두었었나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b2": {
+    "text": "이는 당신이 엄한 사람인 것을 내가 무서워함이라…",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b3": {
+    "text": "악한 종아 내가 네 말로 너를 판단하노니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p7.b4": {
+    "text": "그러면 어찌하여 내 은을 은행에 두지 아니하였느냐 그리하였으면 내가 와서 그 변리까지 찾았으리라 하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p8.b1": {
+    "text": "그 한 므나를 빼앗아 열 므나 있는 자에게 주라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p8.b2": {
+    "text": "주여 저에게 이미 열 므나가 있나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p8.b3": {
+    "text": "내가 너희에게 말하노니 무릇 있는 자는 받겠고 없는 자는 그 있는 것도 빼앗기리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b1": {
+    "text": "예수께서 이 말씀을 하시고 예루살렘을 향하여 앞서서 가시더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b2": {
+    "text": "감람원이라는 산의 벳바게와 베다니에 가까이 왔을 때에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b3": {
+    "text": "이르시되 너희 맞은편 마을로 가라 그리로 들어가면 아직 아무 사람도 타 보지 않은 나귀 새끼의 매여 있는 것을 보리니 풀어 끌고 오너라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p9.b4": {
+    "text": "만일 누가 너희에게 어찌하여 푸느냐 묻거든 이렇게 말하되 주가 쓰시겠다 하라 하시매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b1": {
+    "text": "보내심을 받은 자들이 가서 그 말씀하신대로 만난지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b2": {
+    "text": "어찌하여 나귀 새끼를 푸느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b3": {
+    "text": "주께서 쓰시겠다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p10.b4": {
+    "text": "그것을 예수께로 끌고 와서 자기들의 겉옷을 나귀새끼 위에 걸쳐 놓고 예수를 태우니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p11.b1": {
+    "text": "가실 때에 저희가 자기의 겉옷을 길에 펴더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p11.b2": {
+    "text": "이미 감람산에서 내려가는 편까지 가까이 오시매 제자의 온 무리가 자기의 본바 모든 능한 일을 인하여 기뻐하며 큰 소리로 하나님을 찬양하여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p11.b3": {
+    "text": "찬송하리로다 주의 이름으로 오시는 왕이여 하늘에는 평화요 가장 높은 곳에는 영광이로다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p12.b1": {
+    "text": "선생이여 당신의 제자들을 책망하소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p12.b2": {
+    "text": "내가 너희에게 말하노니 만일 이 사람들이 잠잠하면 돌들이 소리지르리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p13.b1": {
+    "text": "가까이 오사 성을 보시고 우시며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p13.b2": {
+    "text": "너도 오늘날 평화에 관한 일을 알았더면 좋을 뻔하였거니와",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p13.b3": {
+    "text": "지금 네 눈에 숨기웠도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p14.b1": {
+    "text": "날이 이를지라 네 원수들이 토성을 쌓고 너를 둘러 사면으로 가두고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p14.b2": {
+    "text": "돌 하나도 돌 위에 남기지 아니하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p14.b3": {
+    "text": "이는 권고 받는 날을 네가 알지 못함을 인함이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p15.b1": {
+    "text": "성전에 들어가사 장사하는 자들을 내어 쫓으시며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p15.b2": {
+    "text": "기록된바 내 집은 기도하는 집이 되리라 하였거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p15.b3": {
+    "text": "너희는 강도의 굴혈을 만들었도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p16.b1": {
+    "text": "예수께서 날마다 성전에서 가르치시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p16.b2": {
+    "text": "대제사장들과 서기관들과 백성의 두목들이 그를 죽이려고 꾀하되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p17.b1": {
+    "text": "어찌할 방침을 찾지 못하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.19.p17.b2": {
+    "text": "백성이 다 그에게 귀를 기울여 들으므로",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 19:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

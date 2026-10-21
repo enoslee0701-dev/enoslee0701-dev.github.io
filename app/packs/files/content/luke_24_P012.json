@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_24_P012",
+  "book": "luke",
+  "chapter": 24,
+  "page": 12,
+  "ref": "24:32-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_24_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_24_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2656
+      ]
+    },
+    {
+      "id": "LUKE_24_P012_F2",
+      "box": [
+        0,
+        0.2702,
+        0.3936,
+        0.3066
+      ]
+    },
+    {
+      "id": "LUKE_24_P012_F3",
+      "box": [
+        0.4023,
+        0.2702,
+        0.5977,
+        0.3066
+      ]
+    },
+    {
+      "id": "LUKE_24_P012_F4",
+      "box": [
+        0,
+        0.5807,
+        1,
+        0.4193
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_24_P012_B001",
+      "panel": "LUKE_24_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.24,
+        0.008,
+        0.52,
+        0.069
+      ],
+      "tail": [
+        0.5,
+        0.1036
+      ],
+      "text_key": "luke.24.p12.b1"
+    },
+    {
+      "id": "LUKE_24_P012_B002",
+      "panel": "LUKE_24_P012_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6892,
+        0.2825,
+        0.2868,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "luke.24.p12.b2"
+    },
+    {
+      "id": "LUKE_24_P012_B003",
+      "panel": "LUKE_24_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.17,
+        0.5891,
+        0.42,
+        0.0377
+      ],
+      "tail": [
+        0.38,
+        0.6687
+      ],
+      "text_key": "luke.24.p12.b3"
+    },
+    {
+      "id": "LUKE_24_P012_B004",
+      "panel": "LUKE_24_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.9455,
+        0.4,
+        0.0461
+      ],
+      "tail": null,
+      "text_key": "luke.24.p12.b4"
+    }
+  ]
+}

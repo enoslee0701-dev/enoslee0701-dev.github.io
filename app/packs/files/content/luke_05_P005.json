@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_05_P005",
+  "book": "luke",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.232
+      ],
+      "alt": {
+        "zh-CN": "他的伙伴，西庇太的儿子雅各和约翰，也是这样。"
+      }
+    },
+    {
+      "id": "LUKE_05_P005_F2",
+      "box": [
+        0,
+        0.237,
+        0.611,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "耶稣对西门说：“不要怕！从今以后，你要得人了。”"
+      }
+    },
+    {
+      "id": "LUKE_05_P005_F3",
+      "box": [
+        0.621,
+        0.237,
+        0.379,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "（西门抬起头来。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P005_F4",
+      "box": [
+        0,
+        0.5632,
+        1,
+        0.4368
+      ],
+      "alt": {
+        "zh-CN": "他们把两只船靠了岸，就撇下一切，跟从了耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P005_B001",
+      "panel": "LUKE_05_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0093,
+        0.34,
+        0.0696
+      ],
+      "tail": null,
+      "text_key": "luke.5.p5.b1"
+    },
+    {
+      "id": "LUKE_05_P005_B002",
+      "panel": "LUKE_05_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3422,
+        0.2466,
+        0.2505,
+        0.0545
+      ],
+      "tail": [
+        0.4675,
+        0.3332
+      ],
+      "text_key": "luke.5.p5.b2"
+    },
+    {
+      "id": "LUKE_05_P005_B003",
+      "panel": "LUKE_05_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.5763,
+        0.42,
+        0.0698
+      ],
+      "tail": null,
+      "text_key": "luke.5.p5.b3"
+    }
+  ]
+}

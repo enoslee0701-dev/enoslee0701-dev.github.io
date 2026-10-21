@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_02_P010",
+  "book": "luke",
+  "chapter": 2,
+  "page": 10,
+  "ref": "2:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "耶路撒冷有一个人名叫西面，他公义又虔诚，一直盼望以色列得安慰，圣灵在他身上。"
+      }
+    },
+    {
+      "id": "LUKE_02_P010_F2",
+      "box": [
+        0,
+        0.25,
+        0.4326,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "圣灵启示他，他死以前一定会看见主所立的基督。"
+      }
+    },
+    {
+      "id": "LUKE_02_P010_F3",
+      "box": [
+        0.4395,
+        0.25,
+        0.5605,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "他受圣灵感动，进了圣殿，"
+      }
+    },
+    {
+      "id": "LUKE_02_P010_F4",
+      "box": [
+        0,
+        0.5397,
+        1,
+        0.4603
+      ],
+      "alt": {
+        "zh-CN": "正遇见耶稣的父母抱着孩子进来，要照律法的规矩为他办事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P010_B001",
+      "panel": "LUKE_02_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0074,
+        0.36,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "luke.2.p10.b1"
+    },
+    {
+      "id": "LUKE_02_P010_B002",
+      "panel": "LUKE_02_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0173,
+        0.4558,
+        0.3979,
+        0.0714
+      ],
+      "tail": null,
+      "text_key": "luke.2.p10.b2"
+    },
+    {
+      "id": "LUKE_02_P010_B003",
+      "panel": "LUKE_02_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5516,
+        0.4272,
+        0.1345,
+        0.0857
+      ],
+      "tail": null,
+      "text_key": "luke.2.p10.b3"
+    },
+    {
+      "id": "LUKE_02_P010_B004",
+      "panel": "LUKE_02_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5489,
+        0.6,
+        0.0506
+      ],
+      "tail": null,
+      "text_key": "luke.2.p10.b4"
+    }
+  ]
+}

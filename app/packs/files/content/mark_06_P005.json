@@ -1,0 +1,151 @@
+{
+  "id": "MARK_06_P005",
+  "book": "mark",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.199
+      ],
+      "alt": {
+        "zh-CN": "又对他们说：你们无论到哪里，进了谁的家，"
+      }
+    },
+    {
+      "id": "MARK_06_P005_F2",
+      "box": [
+        0,
+        0.202,
+        0.496,
+        0.232
+      ],
+      "alt": {
+        "zh-CN": "就住在那里，直到离开那地方。"
+      }
+    },
+    {
+      "id": "MARK_06_P005_F3",
+      "box": [
+        0.504,
+        0.202,
+        0.496,
+        0.232
+      ],
+      "alt": {
+        "zh-CN": "哪里的人不接待你们、不听你们，"
+      }
+    },
+    {
+      "id": "MARK_06_P005_F4",
+      "box": [
+        0.01,
+        0.438,
+        0.986,
+        0.337
+      ],
+      "alt": {
+        "zh-CN": "你们离开那里的时候，就把脚上的尘土跺掉，"
+      }
+    },
+    {
+      "id": "MARK_06_P005_F5",
+      "box": [
+        0,
+        0.777,
+        1,
+        0.223
+      ],
+      "alt": {
+        "zh-CN": "作为对他们的见证。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_06_P005_B001",
+      "panel": "MARK_06_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.006,
+        0.39,
+        0.0318
+      ],
+      "tail": [
+        0.775,
+        0.0577
+      ],
+      "text_key": "mark.6.p5.b1"
+    },
+    {
+      "id": "MARK_06_P005_B002",
+      "panel": "MARK_06_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.16,
+        0.291,
+        0.335,
+        0.143
+      ],
+      "tail": [
+        0,
+        0.2693
+      ],
+      "text_key": "mark.6.p5.b2"
+    },
+    {
+      "id": "MARK_06_P005_B003",
+      "panel": "MARK_06_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.505,
+        0.33,
+        0.433,
+        0.105
+      ],
+      "tail": [
+        0.6231,
+        0.2693
+      ],
+      "text_key": "mark.6.p5.b3"
+    },
+    {
+      "id": "MARK_06_P005_B004",
+      "panel": "MARK_06_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.641,
+        0.4447,
+        0.3253,
+        0.037
+      ],
+      "tail": [
+        0.01,
+        0.5154
+      ],
+      "text_key": "mark.6.p5.b4"
+    }
+  ]
+}

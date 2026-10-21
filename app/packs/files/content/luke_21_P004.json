@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_21_P004",
+  "book": "luke",
+  "chapter": 21,
+  "page": 4,
+  "ref": "21:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_21_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_21_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ]
+    },
+    {
+      "id": "LUKE_21_P004_F2",
+      "box": [
+        0,
+        0.2539,
+        0.4863,
+        0.2839
+      ]
+    },
+    {
+      "id": "LUKE_21_P004_F3",
+      "box": [
+        0.4941,
+        0.2539,
+        0.5059,
+        0.2839
+      ]
+    },
+    {
+      "id": "LUKE_21_P004_F4",
+      "box": [
+        0,
+        0.5417,
+        1,
+        0.4583
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_21_P004_B001",
+      "panel": "LUKE_21_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.5,
+        0.0075,
+        0.46,
+        0.0426
+      ],
+      "tail": [
+        0.73,
+        0.0752
+      ],
+      "text_key": "luke.21.p4.b1"
+    },
+    {
+      "id": "LUKE_21_P004_B002",
+      "panel": "LUKE_21_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0195,
+        0.481,
+        0.4376,
+        0.0482
+      ],
+      "tail": [
+        0.2383,
+        0.5378
+      ],
+      "text_key": "luke.21.p4.b2"
+    },
+    {
+      "id": "LUKE_21_P004_B003",
+      "panel": "LUKE_21_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5143,
+        0.481,
+        0.4553,
+        0.0482
+      ],
+      "tail": null,
+      "text_key": "luke.21.p4.b3"
+    },
+    {
+      "id": "LUKE_21_P004_B004",
+      "panel": "LUKE_21_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5509,
+        0.2,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "luke.21.p4.b4"
+    }
+  ]
+}

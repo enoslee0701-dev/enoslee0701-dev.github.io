@@ -1,0 +1,154 @@
+{
+  "id": "MARK_13_P006",
+  "book": "mark",
+  "chapter": 13,
+  "page": 6,
+  "ref": "13:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_13_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_13_P006_F1",
+      "box": [
+        0.006,
+        0,
+        0.987,
+        0.186
+      ],
+      "alt": {
+        "zh-CN": "「你们看见那造成毁灭的可憎之物，立在不该立的地方（读的人要明白），"
+      }
+    },
+    {
+      "id": "MARK_13_P006_F2",
+      "box": [
+        0.007,
+        0.19,
+        0.986,
+        0.173
+      ],
+      "alt": {
+        "zh-CN": "（预言画面：一道黑影压到圣所的门上。）"
+      }
+    },
+    {
+      "id": "MARK_13_P006_F3",
+      "box": [
+        0.007,
+        0.367,
+        0.986,
+        0.331
+      ],
+      "alt": {
+        "zh-CN": "那时，在犹太的人应当逃到山上；"
+      }
+    },
+    {
+      "id": "MARK_13_P006_F4",
+      "box": [
+        0.008,
+        0.701,
+        0.489,
+        0.299
+      ],
+      "alt": {
+        "zh-CN": "在房顶上的，不要下来，也不要进屋拿东西；"
+      }
+    },
+    {
+      "id": "MARK_13_P006_F5",
+      "box": [
+        0.502,
+        0.701,
+        0.49,
+        0.299
+      ],
+      "alt": {
+        "zh-CN": "在田里的，也不要回去拿衣服。"
+      }
+    },
+    {
+      "id": "MARK_13_P006_F6",
+      "box": [
+        0.763,
+        0.829,
+        0.229,
+        0.167
+      ],
+      "alt": {
+        "zh-CN": "（外衣留在田边的石墙上。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_13_P006_B001",
+      "panel": "MARK_13_P006_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.37,
+        0.148,
+        0.62,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.13.p6.b1"
+    },
+    {
+      "id": "MARK_13_P006_B002",
+      "panel": "MARK_13_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6183,
+        0.3736,
+        0.3549,
+        0.0397
+      ],
+      "tail": [
+        0.007,
+        0.4464
+      ],
+      "text_key": "mark.13.p6.b2"
+    },
+    {
+      "id": "MARK_13_P006_B003",
+      "panel": "MARK_13_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.856,
+        0.43,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.13.p6.b3"
+    },
+    {
+      "id": "MARK_13_P006_B004",
+      "panel": "MARK_13_P006_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.452,
+        0.855,
+        0.31,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.13.p6.b4"
+    }
+  ]
+}

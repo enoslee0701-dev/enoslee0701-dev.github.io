@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_08_P012",
+  "book": "luke",
+  "chapter": 8,
+  "page": 12,
+  "ref": "8:34-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_08_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_08_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1732
+      ]
+    },
+    {
+      "id": "LUKE_08_P012_F2",
+      "box": [
+        0,
+        0.1777,
+        1,
+        0.4251
+      ]
+    },
+    {
+      "id": "LUKE_08_P012_F3",
+      "box": [
+        0,
+        0.6061,
+        0.4775,
+        0.3939
+      ]
+    },
+    {
+      "id": "LUKE_08_P012_F4",
+      "box": [
+        0.4844,
+        0.6061,
+        0.5156,
+        0.3939
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_08_P012_B001",
+      "panel": "LUKE_08_P012_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.1862,
+        0.59,
+        0.0606
+      ],
+      "tail": null,
+      "text_key": "luke.8.p12.b1"
+    },
+    {
+      "id": "LUKE_08_P012_B002",
+      "panel": "LUKE_08_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.497,
+        0.99,
+        0.051
+      ],
+      "tail": null,
+      "text_key": "luke.8.p12.b2"
+    },
+    {
+      "id": "LUKE_08_P012_B003",
+      "panel": "LUKE_08_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.3008,
+        0.8897,
+        0.1623,
+        0.0984
+      ],
+      "tail": [
+        0.382,
+        1
+      ],
+      "text_key": "luke.8.p12.b3"
+    },
+    {
+      "id": "LUKE_08_P012_B004",
+      "panel": "LUKE_08_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.505,
+        0.614,
+        0.3402,
+        0.0472
+      ],
+      "tail": null,
+      "text_key": "luke.8.p12.b4"
+    }
+  ]
+}

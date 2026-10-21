@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_06_P008",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 8,
+  "ref": "6:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "不要为自己积累财宝在地上；地上有虫蛀，"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P008_F2",
+      "box": [
+        0,
+        0.2897,
+        0.4727,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "（架上的铜器都锈绿了。）"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P008_F3",
+      "box": [
+        0.4795,
+        0.2897,
+        0.5205,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "会生锈，也有盗贼挖洞来偷。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P008_F4",
+      "box": [
+        0,
+        0.6042,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "因为你的财宝在哪里，你的心也在那里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P008_B001",
+      "panel": "MATTHEW_06_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.79,
+        0.0057,
+        0.19,
+        0.0627
+      ],
+      "tail": [
+        0.885,
+        0.0969
+      ],
+      "text_key": "matthew.6.p8.b1"
+    },
+    {
+      "id": "MATTHEW_06_P008_B002",
+      "panel": "MATTHEW_06_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4951,
+        0.299,
+        0.2082,
+        0.0619
+      ],
+      "tail": [
+        0.5992,
+        0.3919
+      ],
+      "text_key": "matthew.6.p8.b2"
+    },
+    {
+      "id": "MATTHEW_06_P008_B003",
+      "panel": "MATTHEW_06_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.6121,
+        0.3,
+        0.0435
+      ],
+      "tail": [
+        0.18,
+        0.6952
+      ],
+      "text_key": "matthew.6.p8.b3"
+    }
+  ]
+}

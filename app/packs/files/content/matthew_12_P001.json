@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_12_P001",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 1,
+  "ref": "12:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "那时，耶稣在安息日从麦田中间经过。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P001_F2",
+      "box": [
+        0,
+        0.2077,
+        1,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "他的门徒饿了，就掐下麦穗来吃。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P001_F3",
+      "box": [
+        0,
+        0.6576,
+        0.5771,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "法利赛人看见了，对耶稣说：「你看，你的门徒在做安息日不可以做的事！」"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P001_F4",
+      "box": [
+        0.582,
+        0.6576,
+        0.418,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "（年轻门徒搓麦的手停住了，人影罩在他手上。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P001_B001",
+      "panel": "MATTHEW_12_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0061,
+        0.44,
+        0.0367
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p1.b1"
+    },
+    {
+      "id": "MATTHEW_12_P001_B002",
+      "panel": "MATTHEW_12_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5476,
+        0.22,
+        0.0984
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p1.b2"
+    },
+    {
+      "id": "MATTHEW_12_P001_B003",
+      "panel": "MATTHEW_12_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.1616,
+        0.6644,
+        0.2077,
+        0.0856
+      ],
+      "tail": [
+        0.2654,
+        0.7842
+      ],
+      "text_key": "matthew.12.p1.b3"
+    }
+  ]
+}

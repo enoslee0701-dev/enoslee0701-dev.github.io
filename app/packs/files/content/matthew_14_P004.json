@@ -1,0 +1,109 @@
+{
+  "id": "MATTHEW_14_P004",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 4,
+  "ref": "14:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2064
+      ],
+      "alt": {
+        "zh-CN": "王就很忧愁，但因为他起了誓，又因为同席的客人，就吩咐给她；"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P004_F2",
+      "box": [
+        0,
+        0.2083,
+        1,
+        0.1523
+      ]
+    },
+    {
+      "id": "MATTHEW_14_P004_F3",
+      "box": [
+        0,
+        0.3633,
+        1,
+        0.3642
+      ],
+      "alt": {
+        "zh-CN": "于是派人去，在监牢里斩了约翰，"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P004_F4",
+      "box": [
+        0,
+        0.7308,
+        1,
+        0.2692
+      ],
+      "alt": {
+        "zh-CN": "把头放在盘子里，拿来交给那女孩；女孩拿去给她母亲。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P004_B001",
+      "panel": "MATTHEW_14_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0041,
+        0.36,
+        0.035
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p4.b1"
+    },
+    {
+      "id": "MATTHEW_14_P004_B002",
+      "panel": "MATTHEW_14_P004_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5163,
+        0.25,
+        0.1092
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p4.b2"
+    },
+    {
+      "id": "MATTHEW_14_P004_B003",
+      "panel": "MATTHEW_14_P004_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.47,
+        0.7335,
+        0.27,
+        0.0592
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p4.b3"
+    }
+  ]
+}

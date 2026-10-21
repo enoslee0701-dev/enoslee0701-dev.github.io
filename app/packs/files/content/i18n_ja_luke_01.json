@@ -1,0 +1,852 @@
+{
+  "luke.1.p1.b1": {
+    "text": "わたしたちの間に成就された出来事を、…物語に書き連ねようと、多くの人が手を着けましたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p1.b2": {
+    "text": "最初から親しく見た人々であって、御言に仕えた人々が伝えたとおり",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p1.b3": {
+    "text": "テオピロ閣下よ、わたしもすべての事を初めから詳しく調べていますので、ここに、それを順序正しく書きつづって、閣下に献じることにしました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p1.b4": {
+    "text": "すでにお聞きになっている事が確実であることを、これによって十分に知っていただきたいためであります。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p2.b1": {
+    "text": "ユダヤの王ヘロデの世に、アビヤの組の祭司で名をザカリヤという者がいた。その妻はアロン家の娘のひとりで、名をエリサベツといった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p2.b2": {
+    "text": "ふたりとも神のみまえに正しい人であって、主の戒めと定めとを、みな落度なく行っていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p2.b3": {
+    "text": "ところが、エリサベツは不妊の女であったため、彼らには子がなく、そしてふたりともすでに年老いていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p3.b1": {
+    "text": "さてザカリヤは、その組が当番になり神のみまえに祭司の務をしていたとき、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p3.b2": {
+    "text": "祭司職の慣例に従ってくじを引いたところ、主の聖所にはいって香をたくことになった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p3.b3": {
+    "text": "香をたいている間、多くの民衆はみな外で祈っていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p4.b1": {
+    "text": "すると主の御使が現れて、香壇の右に立った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p4.b2": {
+    "text": "ザカリヤはこれを見て、おじ惑い、恐怖の念に襲われた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p4.b3": {
+    "text": "「恐れるな、ザカリヤよ、あなたの祈が聞きいれられたのだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p4.b4": {
+    "text": "あなたの妻エリサベツは男の子を産むであろう。その子をヨハネと名づけなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p5.b1": {
+    "text": "彼はあなたに喜びと楽しみとをもたらし、多くの人々もその誕生を喜ぶであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p5.b2": {
+    "text": "彼は主のみまえに大いなる者となり、ぶどう酒や強い酒をいっさい飲まず、母の胎内にいる時からすでに聖霊に満たされており、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p5.b3": {
+    "text": "そして、イスラエルの多くの子らを、主なる彼らの神に立ち帰らせるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p5.b4": {
+    "text": "彼はエリヤの霊と力とをもって、みまえに先立って行き、父の心を子に向けさせ、…整えられた民を主に備えるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p6.b1": {
+    "text": "「どうしてそんな事が、わたしにわかるでしょうか。わたしは老人ですし、妻も年をとっています」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p6.b2": {
+    "text": "「わたしは神のみまえに立つガブリエルであって、この喜ばしい知らせをあなたに語り伝えるために、つかわされたものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p6.b3": {
+    "text": "時が来れば成就するわたしの言葉を信じなかったから、あなたはおしになり、この事の起る日まで、ものが言えなくなる」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p7.b1": {
+    "text": "民衆はザカリヤを待っていたので、彼が聖所内で暇どっているのを不思議に思っていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p7.b2": {
+    "text": "ついに彼は出てきたが、物が言えなかったので、人々は彼が聖所内でまぼろしを見たのだと悟った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p7.b3": {
+    "text": "彼は彼らに合図をするだけで、引きつづき、おしのままでいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p7.b4": {
+    "text": "それから務の期日が終ったので、家に帰った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p8.b1": {
+    "text": "そののち、妻エリサベツはみごもり、五か月のあいだ引きこもっていたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p8.b2": {
+    "text": "「主は、今わたしを心にかけてくださって、人々の間からわたしの恥を取り除くために、こうしてくださいました」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p9.b1": {
+    "text": "六か月目に、御使ガブリエルが、神からつかわされて、ナザレというガリラヤの町の一処女のもとにきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p9.b2": {
+    "text": "この処女はダビデ家の出であるヨセフという人のいいなづけになっていて、名をマリヤといった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p9.b3": {
+    "text": "「恵まれた女よ、おめでとう、主があなたと共におられます」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p9.b4": {
+    "text": "この言葉にマリヤはひどく胸騒ぎがして、このあいさつはなんの事であろうかと、思いめぐらしていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p10.b1": {
+    "text": "「恐れるな、マリヤよ、あなたは神から恵みをいただいているのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p10.b2": {
+    "text": "見よ、あなたはみごもって男の子を産むでしょう。その子をイエスと名づけなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p10.b3": {
+    "text": "彼は大いなる者となり、いと高き者の子と、となえられるでしょう。そして、主なる神は彼に父ダビデの王座をお与えになり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p10.b4": {
+    "text": "彼はとこしえにヤコブの家を支配し、その支配は限りなく続くでしょう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p11.b1": {
+    "text": "「どうして、そんな事があり得ましょうか。わたしにはまだ夫がありませんのに」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p11.b2": {
+    "text": "「聖霊があなたに臨み、いと高き者の力があなたをおおうでしょう。それゆえに、生れ出る子は聖なるものであり、神の子と、となえられるでしょう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p11.b3": {
+    "text": "あなたの親族エリサベツも老年ながら子を宿しています。不妊の女といわれていたのに、はや六か月になっています。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p11.b4": {
+    "text": "神には、なんでもできないことはありません」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p12.b1": {
+    "text": "「わたしは主のはしためです。お言葉どおりこの身に成りますように」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p12.b2": {
+    "text": "そして御使は彼女から離れて行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p13.b1": {
+    "text": "そのころ、マリヤは立って、大急ぎで山里へむかいユダの町に行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p13.b2": {
+    "text": "ザカリヤの家にはいってエリサベツにあいさつした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p13.b3": {
+    "text": "エリサベツがマリヤのあいさつを聞いたとき、その子が胎内でおどった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p13.b4": {
+    "text": "エリサベツは聖霊に満たされ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p14.b1": {
+    "text": "「あなたは女の中で祝福されたかた、あなたの胎の実も祝福されています。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p14.b2": {
+    "text": "主の母上がわたしのところにきてくださるとは、なんという光栄でしょう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p14.b3": {
+    "text": "ごらんなさい。あなたのあいさつの声がわたしの耳にはいったとき、子供が胎内で喜びおどりました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p14.b4": {
+    "text": "主のお語りになったことが必ず成就すると信じた女は、なんとさいわいなことでしょう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p15.b1": {
+    "text": "「わたしの魂は主をあがめ、 わたしの霊は救主なる神をたたえます。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:46-47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p15.b2": {
+    "text": "この卑しい女をさえ、心にかけてくださいました。今からのち代々の人々は、わたしをさいわいな女と言うでしょう、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p15.b3": {
+    "text": "力あるかたが、わたしに大きな事をしてくださったからです。そのみ名はきよく、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p15.b4": {
+    "text": "そのあわれみは、代々限りなく主をかしこみ恐れる者に及びます。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p16.b1": {
+    "text": "主はみ腕をもって力をふるい、心の思いのおごり高ぶる者を追い散らし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p16.b2": {
+    "text": "権力ある者を王座から引きおろし、卑しい者を引き上げ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p16.b3": {
+    "text": "飢えている者を良いもので飽かせ、富んでいる者を空腹のまま帰らせなさいます。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p16.b4": {
+    "text": "マリヤは、エリサベツのところに三か月ほど滞在してから、家に帰った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p17.b1": {
+    "text": "さてエリサベツは月が満ちて、男の子を産んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p17.b2": {
+    "text": "近所の人々や親族は、主が大きなあわれみを彼女におかけになったことを聞いて、共どもに喜んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p17.b3": {
+    "text": "八日目になったので、幼な子に割礼をするために人々がきて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p17.b4": {
+    "text": "父の名にちなんでザカリヤという名にしようとした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p18.b1": {
+    "text": "「いいえ、ヨハネという名にしなくてはいけません」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p18.b2": {
+    "text": "「あなたの親族の中には、そういう名のついた者は、ひとりもいません」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:61"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p18.b3": {
+    "text": "そして父親に、どんな名にしたいのですかと、合図で尋ねた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:62"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p19.b1": {
+    "text": "ザカリヤは書板を持ってこさせて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:63"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p19.b2": {
+    "text": "「その名はヨハネ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:63"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p19.b3": {
+    "text": "みんなの者は不思議に思った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:63"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p20.b1": {
+    "text": "すると、立ちどころにザカリヤの口が開けて…語り出して神をほめたたえた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:64"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p20.b2": {
+    "text": "近所の人々はみな恐れをいだき、またユダヤの山里の至るところに、これらの事がことごとく語り伝えられたので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:65"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p20.b3": {
+    "text": "「この子は、いったい、どんな者になるだろう」と語り合った。主のみ手が彼と共にあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:66"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p21.b1": {
+    "text": "父ザカリヤは聖霊に満たされ、預言して言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:67"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p21.b2": {
+    "text": "「主なるイスラエルの神は、ほむべきかな。神はその民を顧みてこれをあがない、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:68"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p21.b3": {
+    "text": "わたしたちのために救の角を僕ダビデの家にお立てになった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:69"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p21.b4": {
+    "text": "わたしたちを敵から、またすべてわたしたちを憎む者の手から、救い出すためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:71"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p22.b1": {
+    "text": "こうして、神はわたしたちの父祖たちにあわれみをかけ、その聖なる契約、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:72"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p22.b2": {
+    "text": "すなわち、父祖アブラハムにお立てになった誓いをおぼえて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:73"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p22.b3": {
+    "text": "わたしたちを敵の手から救い出し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:74"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p22.b4": {
+    "text": "生きている限り、きよく正しく、みまえに恐れなく仕えさせてくださるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:75"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p23.b1": {
+    "text": "幼な子よ、あなたは、いと高き者の預言者と呼ばれるであろう。主のみまえに先立って行き、その道を備え、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:76"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p23.b2": {
+    "text": "罪のゆるしによる救をその民に知らせるのであるから。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:77"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p23.b3": {
+    "text": "これはわたしたちの神のあわれみ深いみこころによる。また、そのあわれみによって、日の光が上からわたしたちに臨み、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:78"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p23.b4": {
+    "text": "暗黒と死の陰とに住む者を照し、わたしたちの足を平和の道へ導くであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:79"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p24.b1": {
+    "text": "幼な子は成長し、その霊も強くなり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:80"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p24.b2": {
+    "text": "荒野にいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:80"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.1.p24.b3": {
+    "text": "イスラエルに現れる日まで、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 1:80"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

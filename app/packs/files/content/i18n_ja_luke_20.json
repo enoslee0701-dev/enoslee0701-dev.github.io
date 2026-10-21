@@ -1,0 +1,512 @@
+{
+  "luke.20.p1.b1": {
+    "text": "ある日、イエスが宮で人々に教え、福音を宣べておられると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b2": {
+    "text": "祭司長や律法学者たちが、長老たちと共に近寄ってきて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b3": {
+    "text": "「何の権威によってこれらの事をするのですか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b4": {
+    "text": "そうする権威をあなたに与えたのはだれですか、わたしたちに言ってください」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p2.b1": {
+    "text": "「わたしも、ひと言たずねよう。それに答えてほしい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p2.b2": {
+    "text": "ヨハネのバプテスマは、天からであったか、人からであったか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b1": {
+    "text": "「もし天からだと言えば、では、なぜ彼を信じなかったのか、とイエスは言うだろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b2": {
+    "text": "しかし、もし人からだと言えば、……わたしたちを石で打つだろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b3": {
+    "text": "「どこからか、知りません」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b4": {
+    "text": "「わたしも何の権威によってこれらの事をするのか、あなたがたに言うまい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b1": {
+    "text": "そこでイエスは次の譬を民衆に語り出された、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b2": {
+    "text": "「ある人がぶどう園を造って農夫たちに貸し、長い旅に出た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b3": {
+    "text": "季節になったので、農夫たちのところへ、ひとりの僕を送って、……ところが、農夫たちは、その僕を袋だたきにし、から手で帰らせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b1": {
+    "text": "そこで彼はもうひとりの僕を送った。彼らはその僕も袋だたきにし、侮辱を加えて、から手で帰らせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b2": {
+    "text": "そこで更に三人目の者を送ったが、彼らはこの者も、傷を負わせて追い出した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b3": {
+    "text": "『どうしようか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b4": {
+    "text": "そうだ、わたしの愛子をつかわそう。これなら、たぶん敬ってくれるだろう』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b1": {
+    "text": "『あれはあと取りだ。あれを殺してしまおう。そうしたら、その財産はわれわれのものになるのだ』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b2": {
+    "text": "彼をぶどう園の外に追い出して殺した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b3": {
+    "text": "そのさい、ぶどう園の主人は、彼らをどうするだろうか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b1": {
+    "text": "彼は出てきて、この農夫たちを殺し、ぶどう園を他の人々に与えるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b2": {
+    "text": "「そんなことがあってはなりません」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b3": {
+    "text": "「それでは、『家造りらの捨てた石が隅のかしら石になった』と書いてあるのは、どういうことか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b4": {
+    "text": "すべてその石の上に落ちる者は打ち砕かれ、それがだれかの上に落ちかかるなら、その人はこなみじんにされるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b1": {
+    "text": "このとき、律法学者たちや祭司長たちはイエスに手をかけようと思ったが、民衆を恐れた。いまの譬が自分たちに当てて語られたのだと、悟ったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b2": {
+    "text": "そこで、彼らは機会をうかがい、義人を装うまわし者どもを送って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b3": {
+    "text": "イエスを総督の支配と権威とに引き渡すため、その言葉じりを捕えさせようとした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p9.b1": {
+    "text": "「先生、わたしたちは、あなたの語り教えられることが正しく、また、あなたは分け隔てをなさらず、真理に基いて神の道を教えておられることを、承知しています。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p9.b2": {
+    "text": "ところで、カイザルに貢を納めてよいでしょうか、いけないでしょうか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b1": {
+    "text": "「デナリを見せなさい。それにあるのは、だれの肖像、だれの記号なのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b2": {
+    "text": "「カイザルのです」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b3": {
+    "text": "「それなら、カイザルのものはカイザルに、神のものは神に返しなさい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b4": {
+    "text": "そこで彼らは、民衆の前でイエスの言葉じりを捕えることができず、その答に驚嘆して、黙ってしまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p11.b1": {
+    "text": "復活ということはないと言い張っていたサドカイ人のある者たちが、イエスに近寄ってきて質問した、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p11.b2": {
+    "text": "「先生、モーセは、わたしたちのためにこう書いています、『もしある人の兄が妻をめとり、子がなくて死んだなら、弟はこの女をめとって、兄のために子をもうけねばならない』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b1": {
+    "text": "ところで、ここに七人の兄弟がいました。長男は妻をめとりましたが、子がなくて死に、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b2": {
+    "text": "七人とも同様に、子をもうけずに死にました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b3": {
+    "text": "のちに、その女も死にました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b4": {
+    "text": "さて、復活の時には、この女は七人のうち、だれの妻になるのですか。七人とも彼女を妻にしたのですが」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b1": {
+    "text": "イエスは彼らに言われた、「この世の子らは、めとったり、とついだりするが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b2": {
+    "text": "かの世にはいって死人からの復活にあずかるにふさわしい者たちは、めとったり、とついだりすることはない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b3": {
+    "text": "彼らは天使に等しいものであり、また復活にあずかるゆえに、神の子でもあるので、もう死ぬことはあり得ないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p14.b1": {
+    "text": "死人がよみがえることは、モーセも柴の篇で、主を『アブラハムの神、イサクの神、ヤコブの神』と呼んで、これを示した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p14.b2": {
+    "text": "神は死んだ者の神ではなく、生きている者の神である。人はみな神に生きるものだからである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b1": {
+    "text": "律法学者のうちのある人々が答えて言った、「先生、仰せのとおりです」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b2": {
+    "text": "彼らはそれ以上何もあえて問いかけようとしなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b3": {
+    "text": "「どうして人々はキリストをダビデの子だと言うのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b4": {
+    "text": "このように、ダビデはキリストを主と呼んでいる。それなら、どうしてキリストはダビデの子であろうか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b1": {
+    "text": "民衆がみな聞いているとき、イエスは弟子たちに言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b2": {
+    "text": "「律法学者に気をつけなさい。彼らは長い衣を着て歩くのを好み、広場での敬礼……をよろこび、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b3": {
+    "text": "やもめたちの家を食い倒し、見えのために長い祈をする。彼らはもっときびしいさばきを受けるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 20:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

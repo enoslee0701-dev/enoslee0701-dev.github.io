@@ -1,0 +1,133 @@
+{
+  "id": "MARK_02_P010",
+  "book": "mark",
+  "chapter": 2,
+  "page": 10,
+  "ref": "2:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_02_P010",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_02_P010_F1",
+      "box": [
+        0.008,
+        0,
+        0.424,
+        0.227
+      ],
+      "alt": {
+        "zh-CN": "比喻：有人把新布补在旧衣服的破口上，"
+      }
+    },
+    {
+      "id": "MARK_02_P010_F2",
+      "box": [
+        0.438,
+        0,
+        0.555,
+        0.227
+      ],
+      "alt": {
+        "zh-CN": "新布一缩，旧衣服的破洞反而更大了。"
+      }
+    },
+    {
+      "id": "MARK_02_P010_F3",
+      "box": [
+        0.008,
+        0.24,
+        0.984,
+        0.385
+      ],
+      "alt": {
+        "zh-CN": "比喻：新酒装进旧皮袋，皮袋裂开，酒流了一地。"
+      }
+    },
+    {
+      "id": "MARK_02_P010_F4",
+      "box": [
+        0.673,
+        0.366,
+        0.319,
+        0.258
+      ],
+      "alt": {
+        "zh-CN": "新酒稳稳倒进新皮袋。"
+      }
+    },
+    {
+      "id": "MARK_02_P010_F5",
+      "box": [
+        0,
+        0.626,
+        1,
+        0.374
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：新酒要装在新皮袋里。问话的人彼此对看。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_02_P010_B001",
+      "panel": "MARK_02_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.012,
+        0.003,
+        0.515,
+        0.105
+      ],
+      "tail": [
+        0.008,
+        0.07
+      ],
+      "text_key": "mark.2.p10.b1"
+    },
+    {
+      "id": "MARK_02_P010_B002",
+      "panel": "MARK_02_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.243,
+        0.433,
+        0.143
+      ],
+      "tail": [
+        0.008,
+        0.33
+      ],
+      "text_key": "mark.2.p10.b2"
+    },
+    {
+      "id": "MARK_02_P010_B003",
+      "panel": "MARK_02_P010_F5",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.215,
+        0.629,
+        0.54,
+        0.068
+      ],
+      "tail": [
+        0.2,
+        0.675
+      ],
+      "text_key": "mark.2.p10.b3"
+    }
+  ]
+}

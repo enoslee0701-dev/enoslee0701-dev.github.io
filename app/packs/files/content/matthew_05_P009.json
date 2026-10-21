@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_05_P009",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 9,
+  "ref": "5:23-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2233
+      ],
+      "alt": {
+        "zh-CN": "所以，你在祭坛上献礼物的时候，如果想起弟兄对你有怨，"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P009_F2",
+      "box": [
+        0.0088,
+        0.2285,
+        0.9834,
+        0.4303
+      ],
+      "alt": {
+        "zh-CN": "就把礼物留在祭坛前，先去和弟兄和好，然后再来献礼物。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P009_F3",
+      "box": [
+        0,
+        0.6634,
+        0.5518,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "你和控告你的对头还在路上的时候，要赶快与他和解，免得他把你交给审判官，审判官交给差役，你就被关进监狱了。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P009_F4",
+      "box": [
+        0.5586,
+        0.6634,
+        0.4414,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你，哪怕还有一文钱没有还清，你绝不能从那里出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P009_B001",
+      "panel": "MATTHEW_05_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.0067,
+        0.4,
+        0.0401
+      ],
+      "tail": [
+        0.22,
+        0.0691
+      ],
+      "text_key": "matthew.5.p9.b1"
+    },
+    {
+      "id": "MATTHEW_05_P009_B002",
+      "panel": "MATTHEW_05_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5988,
+        0.2414,
+        0.3638,
+        0.0602
+      ],
+      "tail": [
+        0.7807,
+        0.3446
+      ],
+      "text_key": "matthew.5.p9.b2"
+    },
+    {
+      "id": "MATTHEW_05_P009_B003",
+      "panel": "MATTHEW_05_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.011,
+        0.6701,
+        0.2207,
+        0.037
+      ],
+      "tail": [
+        0.1214,
+        0.7408
+      ],
+      "text_key": "matthew.5.p9.b3"
+    },
+    {
+      "id": "MATTHEW_05_P009_B004",
+      "panel": "MATTHEW_05_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7881,
+        0.6735,
+        0.1986,
+        0.0673
+      ],
+      "tail": [
+        0.8874,
+        0.7745
+      ],
+      "text_key": "matthew.5.p9.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_11_P003",
+  "book": "luke",
+  "chapter": 11,
+  "page": 3,
+  "ref": "11:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_11_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_11_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "耶稣又说：“你们当中谁有一个朋友，半夜到他那里去，说：‘朋友！请借给我三个饼；"
+      }
+    },
+    {
+      "id": "LUKE_11_P003_F2",
+      "box": [
+        0,
+        0.2422,
+        0.3857,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "因为我有一个朋友出远门，来到我这里，我没有什么可以招待他。’"
+      }
+    },
+    {
+      "id": "LUKE_11_P003_F3",
+      "box": [
+        0.3955,
+        0.2422,
+        0.6045,
+        0.7578
+      ],
+      "alt": {
+        "zh-CN": "那人在里面回答说：‘不要打扰我，门已经关了，孩子们也都和我睡在床上，我不能起来给你。’"
+      }
+    },
+    {
+      "id": "LUKE_11_P003_F4",
+      "box": [
+        0,
+        0.5853,
+        0.3857,
+        0.4147
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_11_P003_B001",
+      "panel": "LUKE_11_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.0071,
+        0.42,
+        0.0475
+      ],
+      "tail": null,
+      "text_key": "luke.11.p3.b1"
+    },
+    {
+      "id": "LUKE_11_P003_B002",
+      "panel": "LUKE_11_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1736,
+        0.249,
+        0.2005,
+        0.088
+      ],
+      "tail": [
+        0.2739,
+        0.3708
+      ],
+      "text_key": "luke.11.p3.b2"
+    },
+    {
+      "id": "LUKE_11_P003_B003",
+      "panel": "LUKE_11_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4136,
+        0.2574,
+        0.3627,
+        0.1136
+      ],
+      "tail": [
+        0.595,
+        0.4468
+      ],
+      "text_key": "luke.11.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_16_P007",
+  "book": "luke",
+  "chapter": 16,
+  "page": 7,
+  "ref": "16:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_16_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_16_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2051
+      ]
+    },
+    {
+      "id": "LUKE_16_P007_F2",
+      "box": [
+        0,
+        0.209,
+        1,
+        0.4089
+      ]
+    },
+    {
+      "id": "LUKE_16_P007_F3",
+      "box": [
+        0,
+        0.6237,
+        0.4883,
+        0.3763
+      ]
+    },
+    {
+      "id": "LUKE_16_P007_F4",
+      "box": [
+        0.4971,
+        0.6237,
+        0.5029,
+        0.3763
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_16_P007_B001",
+      "panel": "LUKE_16_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.71,
+        0.0062,
+        0.27,
+        0.0553
+      ],
+      "tail": null,
+      "text_key": "luke.16.p7.b1"
+    },
+    {
+      "id": "LUKE_16_P007_B002",
+      "panel": "LUKE_16_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.4298,
+        0.4,
+        0.0654
+      ],
+      "tail": null,
+      "text_key": "luke.16.p7.b2"
+    },
+    {
+      "id": "LUKE_16_P007_B003",
+      "panel": "LUKE_16_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0195,
+        0.635,
+        0.4492,
+        0.0827
+      ],
+      "tail": null,
+      "text_key": "luke.16.p7.b3"
+    },
+    {
+      "id": "LUKE_16_P007_B004",
+      "panel": "LUKE_16_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7234,
+        0.635,
+        0.2615,
+        0.0827
+      ],
+      "tail": null,
+      "text_key": "luke.16.p7.b4"
+    }
+  ]
+}

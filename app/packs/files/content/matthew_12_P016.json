@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_12_P016",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 16,
+  "ref": "12:43-45",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.181
+      ],
+      "alt": {
+        "zh-CN": "「污鬼离开了一个人，就在没有水的地方走来走去，找安歇的地方，却找不到。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P016_F2",
+      "box": [
+        0,
+        0.1849,
+        0.6035,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "于是它说：『我要回到我出来的那个屋子去。』它到了，看见里面空着，打扫干净，收拾整齐了，"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P016_F3",
+      "box": [
+        0.6113,
+        0.1849,
+        0.3887,
+        0.2357
+      ]
+    },
+    {
+      "id": "MATTHEW_12_P016_F4",
+      "box": [
+        0,
+        0.4245,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "就去另带了七个比自己更恶的鬼来，都进去住在那里。那个人后来的情况比以前更糟。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P016_F5",
+      "box": [
+        0,
+        0.7259,
+        1,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "这邪恶的一代人也要这样。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P016_B001",
+      "panel": "MATTHEW_12_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.38,
+        0.0072,
+        0.58,
+        0.0506
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p16.b1"
+    },
+    {
+      "id": "MATTHEW_12_P016_B002",
+      "panel": "MATTHEW_12_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.0302,
+        0.192,
+        0.5431,
+        0.0424
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p16.b2"
+    },
+    {
+      "id": "MATTHEW_12_P016_B003",
+      "panel": "MATTHEW_12_P016_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.4304,
+        0.52,
+        0.0356
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p16.b3"
+    },
+    {
+      "id": "MATTHEW_12_P016_B004",
+      "panel": "MATTHEW_12_P016_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.7533,
+        0.42,
+        0.2192
+      ],
+      "tail": [
+        0.76,
+        0.9999
+      ],
+      "text_key": "matthew.12.p16.b4"
+    }
+  ]
+}

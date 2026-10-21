@@ -1,0 +1,130 @@
+{
+  "id": "LUKE_04_P015",
+  "book": "luke",
+  "chapter": 4,
+  "page": 15,
+  "ref": "4:42-44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1836
+      ],
+      "alt": {
+        "zh-CN": "天亮的时候，耶稣出来，到了一个荒野的地方。"
+      }
+    },
+    {
+      "id": "LUKE_04_P015_F2",
+      "box": [
+        0,
+        0.1875,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "众人去找他，找到了他，想留住他，不让他离开他们。"
+      }
+    },
+    {
+      "id": "LUKE_04_P015_F3",
+      "box": [
+        0,
+        0.4362,
+        1,
+        0.3691
+      ],
+      "alt": {
+        "zh-CN": "但耶稣对他们说：“我也必须到别的城去传上帝国的福音，因为我被差来正是为了这个。”"
+      }
+    },
+    {
+      "id": "LUKE_04_P015_F4",
+      "box": [
+        0,
+        0.8099,
+        1,
+        0.1901
+      ],
+      "alt": {
+        "zh-CN": "于是耶稣在加利利的各会堂里传道。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P015_B001",
+      "panel": "LUKE_04_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0055,
+        0.5,
+        0.0367
+      ],
+      "tail": null,
+      "text_key": "luke.4.p15.b1"
+    },
+    {
+      "id": "LUKE_04_P015_B002",
+      "panel": "LUKE_04_P015_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.1948,
+        0.47,
+        0.044
+      ],
+      "tail": null,
+      "text_key": "luke.4.p15.b2"
+    },
+    {
+      "id": "LUKE_04_P015_B003",
+      "panel": "LUKE_04_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.4473,
+        0.48,
+        0.0664
+      ],
+      "tail": [
+        0.27,
+        0.5506
+      ],
+      "text_key": "luke.4.p15.b3"
+    },
+    {
+      "id": "LUKE_04_P015_B004",
+      "panel": "LUKE_04_P015_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.8175,
+        0.5,
+        0.038
+      ],
+      "tail": null,
+      "text_key": "luke.4.p15.b4"
+    }
+  ]
+}

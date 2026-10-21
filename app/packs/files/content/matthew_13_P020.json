@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_13_P020",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 20,
+  "ref": "13:57-58",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P020",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P020_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2201
+      ],
+      "alt": {
+        "zh-CN": "他们就厌弃他。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P020_F2",
+      "box": [
+        0,
+        0.224,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：「先知除了在自己的家乡和自己的家里，没有不受人尊敬的。」"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P020_F3",
+      "box": [
+        0.006,
+        0.4935,
+        0.41,
+        0.189
+      ],
+      "alt": {
+        "zh-CN": "（门外一个病人，被家人抬走了。）"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P020_F4",
+      "box": [
+        0,
+        0.4922,
+        1,
+        0.5078
+      ],
+      "alt": {
+        "zh-CN": "耶稣因为他们不信，就没有在那里多行神迹。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P020_B001",
+      "panel": "MATTHEW_13_P020_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0088,
+        0.44,
+        0.0528
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p20.b1"
+    },
+    {
+      "id": "MATTHEW_13_P020_B002",
+      "panel": "MATTHEW_13_P020_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2319,
+        0.42,
+        0.0528
+      ],
+      "tail": [
+        0.77,
+        0.3111
+      ],
+      "text_key": "matthew.13.p20.b2"
+    },
+    {
+      "id": "MATTHEW_13_P020_B003",
+      "panel": "MATTHEW_13_P020_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.8883,
+        0.5,
+        0.0914
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p20.b3"
+    }
+  ]
+}

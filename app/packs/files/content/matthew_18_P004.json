@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_18_P004",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 4,
+  "ref": "18:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P004_F1",
+      "box": [
+        0,
+        0,
+        0.6045,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "「如果你的一只手或一只脚叫你跌倒，就砍下来丢掉。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P004_F2",
+      "box": [
+        0.6104,
+        0,
+        0.3896,
+        0.2435
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P004_F3",
+      "box": [
+        0,
+        0.2461,
+        1,
+        0.3945
+      ],
+      "alt": {
+        "zh-CN": "「如果你的一只眼叫你跌倒，就把它挖出来丢掉。你只有一只眼进入永生，强过有两只眼被丢在地狱的火里。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P004_F4",
+      "box": [
+        0,
+        0.6445,
+        1,
+        0.3555
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P004_B001",
+      "panel": "MATTHEW_18_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0242,
+        0.0073,
+        0.5561,
+        0.0584
+      ],
+      "tail": [
+        0.3023,
+        0.09
+      ],
+      "text_key": "matthew.18.p4.b1"
+    },
+    {
+      "id": "MATTHEW_18_P004_B002",
+      "panel": "MATTHEW_18_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.2579,
+        0.41,
+        0.048
+      ],
+      "tail": [
+        0.18,
+        0.3454
+      ],
+      "text_key": "matthew.18.p4.b2"
+    },
+    {
+      "id": "MATTHEW_18_P004_B003",
+      "panel": "MATTHEW_18_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.3139,
+        0.41,
+        0.0624
+      ],
+      "tail": [
+        0.18,
+        0.4158
+      ],
+      "text_key": "matthew.18.p4.b3"
+    }
+  ]
+}

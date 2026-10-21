@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_01_P013",
+  "book": "luke",
+  "chapter": 1,
+  "page": 13,
+  "ref": "1:39-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "那时，马利亚起身，急忙往山区去，到了犹大的一座城；"
+      }
+    },
+    {
+      "id": "LUKE_01_P013_F2",
+      "box": [
+        0,
+        0.2415,
+        0.498,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "她进了撒迦利亚的家，问候伊利莎白。"
+      }
+    },
+    {
+      "id": "LUKE_01_P013_F3",
+      "box": [
+        0.501,
+        0.2415,
+        0.499,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "伊利莎白一听见马利亚的问候，腹中的胎儿就跳动起来。"
+      }
+    },
+    {
+      "id": "LUKE_01_P013_F4",
+      "box": [
+        0,
+        0.5658,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "伊利莎白被圣灵充满，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P013_B001",
+      "panel": "LUKE_01_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0072,
+        0.3,
+        0.0718
+      ],
+      "tail": null,
+      "text_key": "luke.1.p13.b1"
+    },
+    {
+      "id": "LUKE_01_P013_B002",
+      "panel": "LUKE_01_P013_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0149,
+        0.2512,
+        0.2988,
+        0.0418
+      ],
+      "tail": null,
+      "text_key": "luke.1.p13.b2"
+    },
+    {
+      "id": "LUKE_01_P013_B003",
+      "panel": "LUKE_01_P013_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7755,
+        0.2512,
+        0.2095,
+        0.0709
+      ],
+      "tail": null,
+      "text_key": "luke.1.p13.b3"
+    },
+    {
+      "id": "LUKE_01_P013_B004",
+      "panel": "LUKE_01_P013_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5788,
+        0.24,
+        0.0521
+      ],
+      "tail": null,
+      "text_key": "luke.1.p13.b4"
+    }
+  ]
+}

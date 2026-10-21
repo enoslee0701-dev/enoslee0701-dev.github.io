@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_08_P008",
+  "book": "luke",
+  "chapter": 8,
+  "page": 8,
+  "ref": "8:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_08_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_08_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "有一天，耶稣和门徒上了船，对他们说：“我们到湖的对岸去吧。”他们就开船了。"
+      }
+    },
+    {
+      "id": "LUKE_08_P008_F2",
+      "box": [
+        0,
+        0.263,
+        0.5273,
+        0.1855
+      ],
+      "alt": {
+        "zh-CN": "船在走的时候，耶稣睡着了。"
+      }
+    },
+    {
+      "id": "LUKE_08_P008_F3",
+      "box": [
+        0,
+        0.263,
+        1,
+        0.737
+      ],
+      "alt": {
+        "zh-CN": "湖上突然刮起狂风，船里灌满了水，非常危险。"
+      }
+    },
+    {
+      "id": "LUKE_08_P008_F4",
+      "box": [
+        0.5176,
+        0.7194,
+        0.4824,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "（船舱里水漫上来，他还睡着。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_08_P008_B001",
+      "panel": "LUKE_08_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.0052,
+        0.37,
+        0.0361
+      ],
+      "tail": [
+        0.785,
+        0.0672
+      ],
+      "text_key": "luke.8.p8.b1"
+    },
+    {
+      "id": "LUKE_08_P008_B002",
+      "panel": "LUKE_08_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0158,
+        0.2667,
+        0.29,
+        0.0333
+      ],
+      "tail": null,
+      "text_key": "luke.8.p8.b2"
+    },
+    {
+      "id": "LUKE_08_P008_B003",
+      "panel": "LUKE_08_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.462,
+        0.27,
+        0.0737
+      ],
+      "tail": null,
+      "text_key": "luke.8.p8.b3"
+    }
+  ]
+}

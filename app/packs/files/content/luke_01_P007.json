@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_01_P007",
+  "book": "luke",
+  "chapter": 1,
+  "page": 7,
+  "ref": "1:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1764
+      ],
+      "alt": {
+        "zh-CN": "百姓在外面等候撒迦利亚，奇怪他为什么在殿里待了那么久。"
+      }
+    },
+    {
+      "id": "LUKE_01_P007_F2",
+      "box": [
+        0,
+        0.1784,
+        1,
+        0.336
+      ],
+      "alt": {
+        "zh-CN": "等他出来，却不能对他们说话，他们就知道他在殿里看见了异象；"
+      }
+    },
+    {
+      "id": "LUKE_01_P007_F3",
+      "box": [
+        0,
+        0.5182,
+        1,
+        0.164
+      ],
+      "alt": {
+        "zh-CN": "因为他一直向他们打手势，竟成了哑巴。"
+      }
+    },
+    {
+      "id": "LUKE_01_P007_F4",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "他供职的日子满了，就回家去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P007_B001",
+      "panel": "LUKE_01_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0053,
+        0.45,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "luke.1.p7.b1"
+    },
+    {
+      "id": "LUKE_01_P007_B002",
+      "panel": "LUKE_01_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1851,
+        0.4,
+        0.047
+      ],
+      "tail": null,
+      "text_key": "luke.1.p7.b2"
+    },
+    {
+      "id": "LUKE_01_P007_B003",
+      "panel": "LUKE_01_P007_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5231,
+        0.26,
+        0.036
+      ],
+      "tail": null,
+      "text_key": "luke.1.p7.b3"
+    },
+    {
+      "id": "LUKE_01_P007_B004",
+      "panel": "LUKE_01_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.745,
+        0.36,
+        0.0753
+      ],
+      "tail": null,
+      "text_key": "luke.1.p7.b4"
+    }
+  ]
+}

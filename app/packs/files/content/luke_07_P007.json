@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_07_P007",
+  "book": "luke",
+  "chapter": 7,
+  "page": 7,
+  "ref": "7:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "约翰的门徒把这些事都告诉约翰。"
+      }
+    },
+    {
+      "id": "LUKE_07_P007_F2",
+      "box": [
+        0,
+        0.2813,
+        0.4697,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "他就叫了两个门徒来，差他们到主那里去，说：“那将要来的是你吗？还是我们要等候别人呢？”"
+      }
+    },
+    {
+      "id": "LUKE_07_P007_F3",
+      "box": [
+        0.4775,
+        0.2813,
+        0.5225,
+        0.2773
+      ]
+    },
+    {
+      "id": "LUKE_07_P007_F4",
+      "box": [
+        0,
+        0.5638,
+        1,
+        0.4362
+      ],
+      "alt": {
+        "zh-CN": "那两个人来到耶稣那里，说：“施洗的约翰差我们来问你：‘那将要来的是你吗？还是我们要等候别人呢？’”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P007_B001",
+      "panel": "LUKE_07_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2263,
+        0.3,
+        0.0414
+      ],
+      "tail": null,
+      "text_key": "luke.7.p7.b1"
+    },
+    {
+      "id": "LUKE_07_P007_B002",
+      "panel": "LUKE_07_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0188,
+        0.5031,
+        0.4321,
+        0.0499
+      ],
+      "tail": [
+        0.2349,
+        0.5586
+      ],
+      "text_key": "luke.7.p7.b2"
+    },
+    {
+      "id": "LUKE_07_P007_B003",
+      "panel": "LUKE_07_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.5725,
+        0.53,
+        0.0567
+      ],
+      "tail": [
+        0.715,
+        0.6728
+      ],
+      "text_key": "luke.7.p7.b3"
+    }
+  ]
+}

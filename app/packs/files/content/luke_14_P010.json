@@ -1,0 +1,124 @@
+{
+  "id": "LUKE_14_P010",
+  "book": "luke",
+  "chapter": 14,
+  "page": 10,
+  "ref": "14:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_14_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_14_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2188
+      ]
+    },
+    {
+      "id": "LUKE_14_P010_F2",
+      "box": [
+        0,
+        0.2233,
+        1,
+        0.3848
+      ]
+    },
+    {
+      "id": "LUKE_14_P010_F3",
+      "box": [
+        0,
+        0.6126,
+        0.5137,
+        0.3874
+      ]
+    },
+    {
+      "id": "LUKE_14_P010_F4",
+      "box": [
+        0.5215,
+        0.6126,
+        0.4785,
+        0.3874
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_14_P010_B001",
+      "panel": "LUKE_14_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0088,
+        0.4,
+        0.0875
+      ],
+      "tail": null,
+      "text_key": "luke.14.p10.b1"
+    },
+    {
+      "id": "LUKE_14_P010_B002",
+      "panel": "LUKE_14_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.14,
+        0.2348,
+        0.5,
+        0.0577
+      ],
+      "tail": [
+        0.39,
+        0.331
+      ],
+      "text_key": "luke.14.p10.b2"
+    },
+    {
+      "id": "LUKE_14_P010_B003",
+      "panel": "LUKE_14_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0205,
+        0.8993,
+        0.4726,
+        0.0929
+      ],
+      "tail": [
+        0.2568,
+        1
+      ],
+      "text_key": "luke.14.p10.b3"
+    },
+    {
+      "id": "LUKE_14_P010_B004",
+      "panel": "LUKE_14_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5406,
+        0.6281,
+        0.2871,
+        0.1007
+      ],
+      "tail": [
+        0.6842,
+        0.7675
+      ],
+      "text_key": "luke.14.p10.b4"
+    }
+  ]
+}

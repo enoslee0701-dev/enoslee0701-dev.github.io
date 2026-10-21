@@ -1,0 +1,97 @@
+{
+  "id": "MATTHEW_13_P012",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 12,
+  "ref": "13:34-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "这些都是耶稣用比喻对众人说的话；不用比喻，他就不对他们说什么。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P012_F2",
+      "box": [
+        0,
+        0.2415,
+        0.3818,
+        0.569
+      ],
+      "alt": {
+        "zh-CN": "（农夫扛起锄头，提着灯，回头望着船。）"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P012_F3",
+      "box": [
+        0.3887,
+        0.2415,
+        0.6113,
+        0.569
+      ],
+      "alt": {
+        "zh-CN": "这是要应验先知的话：「我要开口用比喻，把创世以来所隐藏的事说出来。」"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P012_F4",
+      "box": [
+        0,
+        0.8145,
+        1,
+        0.1855
+      ],
+      "alt": {
+        "zh-CN": "（耶稣和门徒提着灯，走向那座房子。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P012_B001",
+      "panel": "MATTHEW_13_P012_F3",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.2472,
+        0.58,
+        0.0712
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p12.b1"
+    },
+    {
+      "id": "MATTHEW_13_P012_B002",
+      "panel": "MATTHEW_13_P012_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.39,
+        0.4,
+        0.0682
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p12.b2"
+    }
+  ]
+}

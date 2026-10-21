@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_07_P002",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P002_F1",
+      "box": [
+        0.0078,
+        0,
+        0.9854,
+        0.2383
+      ],
+      "alt": {
+        "zh-CN": "你自己眼中有梁木，怎么能对你弟兄说「让我去掉你眼中的木屑」呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P002_F2",
+      "box": [
+        0.0078,
+        0.2435,
+        0.3203,
+        0.4941
+      ],
+      "alt": {
+        "zh-CN": "你这伪善的人！先去掉自己眼中的梁木，"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P002_F3",
+      "box": [
+        0.3359,
+        0.2435,
+        0.6563,
+        0.4941
+      ],
+      "alt": {
+        "zh-CN": "然后才能看得清楚，去掉你弟兄眼中的木屑。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P002_F4",
+      "box": [
+        0.0078,
+        0.7435,
+        0.9834,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "不要把圣物给狗，也不要把你们的珍珠丢在猪前，免得它们践踏珍珠，又转过来咬你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P002_B001",
+      "panel": "MATTHEW_07_P002_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.018,
+        0.1,
+        0.24,
+        0.05
+      ],
+      "tail": [
+        0.1359,
+        0.0786
+      ],
+      "text_key": "matthew.7.p2.b1"
+    },
+    {
+      "id": "MATTHEW_07_P002_B002",
+      "panel": "MATTHEW_07_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.017,
+        0.44,
+        0.301,
+        0.0494
+      ],
+      "tail": [
+        0.1679,
+        0.3472
+      ],
+      "text_key": "matthew.7.p2.b2"
+    },
+    {
+      "id": "MATTHEW_07_P002_B003",
+      "panel": "MATTHEW_07_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8019,
+        0.2534,
+        0.1772,
+        0.079
+      ],
+      "tail": [
+        0.8905,
+        0.3818
+      ],
+      "text_key": "matthew.7.p2.b3"
+    },
+    {
+      "id": "MATTHEW_07_P002_B004",
+      "panel": "MATTHEW_07_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.64,
+        0.75,
+        0.34,
+        0.07
+      ],
+      "tail": [
+        0.8486,
+        0.9135
+      ],
+      "text_key": "matthew.7.p2.b4"
+    }
+  ]
+}

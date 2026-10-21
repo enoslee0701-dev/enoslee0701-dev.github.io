@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_05_P008",
+  "book": "luke",
+  "chapter": 5,
+  "page": 8,
+  "ref": "5:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "有一天，耶稣在教导人，有法利赛人和律法教师坐在旁边；他们是从加利利各乡村、犹太和耶路撒冷来的。"
+      }
+    },
+    {
+      "id": "LUKE_05_P008_F2",
+      "box": [
+        0,
+        0.2598,
+        0.4844,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "主的能力与耶稣同在，使他能医治病人。"
+      }
+    },
+    {
+      "id": "LUKE_05_P008_F3",
+      "box": [
+        0.4912,
+        0.2598,
+        0.5088,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "有人用褥子抬着一个瘫痪的人，想抬进去放在耶稣面前，"
+      }
+    },
+    {
+      "id": "LUKE_05_P008_F4",
+      "box": [
+        0,
+        0.5423,
+        1,
+        0.4577
+      ],
+      "alt": {
+        "zh-CN": "却因为人多，找不到办法抬进去，就上了房顶，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P008_B001",
+      "panel": "LUKE_05_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.22,
+        0.0051,
+        0.6,
+        0.0409
+      ],
+      "tail": null,
+      "text_key": "luke.5.p8.b1"
+    },
+    {
+      "id": "LUKE_05_P008_B002",
+      "panel": "LUKE_05_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1841,
+        0.2682,
+        0.2809,
+        0.0473
+      ],
+      "tail": null,
+      "text_key": "luke.5.p8.b2"
+    },
+    {
+      "id": "LUKE_05_P008_B003",
+      "panel": "LUKE_05_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5116,
+        0.2682,
+        0.4579,
+        0.0445
+      ],
+      "tail": null,
+      "text_key": "luke.5.p8.b3"
+    },
+    {
+      "id": "LUKE_05_P008_B004",
+      "panel": "LUKE_05_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.556,
+        0.3,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "luke.5.p8.b4"
+    }
+  ]
+}

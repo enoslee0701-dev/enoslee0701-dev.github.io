@@ -1,0 +1,97 @@
+{
+  "id": "MARK_15_P017",
+  "book": "mark",
+  "chapter": 15,
+  "page": 17,
+  "ref": "15:47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_15_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_15_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "（约瑟离开园子，回头望了一眼。）"
+      }
+    },
+    {
+      "id": "MARK_15_P017_F2",
+      "box": [
+        0,
+        0.2819,
+        0.5078,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "抹大拉的马利亚和约西的母亲马利亚"
+      }
+    },
+    {
+      "id": "MARK_15_P017_F3",
+      "box": [
+        0.5137,
+        0.2819,
+        0.4863,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "（她们记住了这个地方。）"
+      }
+    },
+    {
+      "id": "MARK_15_P017_F4",
+      "box": [
+        0,
+        0.6217,
+        1,
+        0.3783
+      ],
+      "alt": {
+        "zh-CN": "都看见了安放耶稣的地方。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_15_P017_B001",
+      "panel": "MARK_15_P017_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.514,
+        0.495,
+        0.102
+      ],
+      "tail": null,
+      "text_key": "mark.15.p17.b1"
+    },
+    {
+      "id": "MARK_15_P017_B002",
+      "panel": "MARK_15_P017_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.633,
+        0.3,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "mark.15.p17.b2"
+    }
+  ]
+}

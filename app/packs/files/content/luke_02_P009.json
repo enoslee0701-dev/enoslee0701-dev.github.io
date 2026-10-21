@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_02_P009",
+  "book": "luke",
+  "chapter": 2,
+  "page": 9,
+  "ref": "2:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "第八天，孩子受了割礼，起名叫耶稣，这是他还没有在母腹中成胎以前，天使给他起的名字。"
+      }
+    },
+    {
+      "id": "LUKE_02_P009_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.2083
+      ],
+      "alt": {
+        "zh-CN": "按摩西律法，洁净的日子满了，他们带着孩子上耶路撒冷，要把他献给主。"
+      }
+    },
+    {
+      "id": "LUKE_02_P009_F3",
+      "box": [
+        0,
+        0.5026,
+        0.3164,
+        0.4974
+      ],
+      "alt": {
+        "zh-CN": "正如主的律法上写的：「凡头生的男孩都要归主为圣。」"
+      }
+    },
+    {
+      "id": "LUKE_02_P009_F4",
+      "box": [
+        0.3252,
+        0.5026,
+        0.6748,
+        0.4974
+      ],
+      "alt": {
+        "zh-CN": "又照主的律法，献上一对斑鸠或两只雏鸽作祭物。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P009_B001",
+      "panel": "LUKE_02_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0085,
+        0.3,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "luke.2.p9.b1"
+    },
+    {
+      "id": "LUKE_02_P009_B002",
+      "panel": "LUKE_02_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.4203,
+        0.48,
+        0.0687
+      ],
+      "tail": null,
+      "text_key": "luke.2.p9.b2"
+    },
+    {
+      "id": "LUKE_02_P009_B003",
+      "panel": "LUKE_02_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0158,
+        0.5175,
+        0.2847,
+        0.1193
+      ],
+      "tail": null,
+      "text_key": "luke.2.p9.b3"
+    },
+    {
+      "id": "LUKE_02_P009_B004",
+      "panel": "LUKE_02_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7031,
+        0.5175,
+        0.2766,
+        0.0994
+      ],
+      "tail": null,
+      "text_key": "luke.2.p9.b4"
+    }
+  ]
+}

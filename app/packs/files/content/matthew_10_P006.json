@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_10_P006",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 6,
+  "ref": "10:16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P006_F1",
+      "box": [
+        0.0117,
+        0,
+        0.9756,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "我差你们出去，就像羊进到狼群里；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P006_F2",
+      "box": [
+        0.0117,
+        0.2246,
+        0.9756,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "（暮色的山谷里，一小群羊挤在一起往前走，四周岩石后面有狼的眼睛。）"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P006_F3",
+      "box": [
+        0.0117,
+        0.5117,
+        0.4854,
+        0.1595
+      ],
+      "alt": {
+        "zh-CN": "所以你们要机警像蛇，"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P006_F4",
+      "box": [
+        0.5039,
+        0.5117,
+        0.4834,
+        0.1595
+      ],
+      "alt": {
+        "zh-CN": "纯真像鸽子。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P006_F5",
+      "box": [
+        0.0117,
+        0.6751,
+        0.9756,
+        0.3203
+      ],
+      "alt": {
+        "zh-CN": "（十二个门徒紧张地望着耶稣。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P006_B001",
+      "panel": "MATTHEW_10_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3239,
+        0.0044,
+        0.4878,
+        0.0331
+      ],
+      "tail": [
+        0.5678,
+        0.0596
+      ],
+      "text_key": "matthew.10.p6.b1"
+    },
+    {
+      "id": "MATTHEW_10_P006_B002",
+      "panel": "MATTHEW_10_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0311,
+        0.5149,
+        0.4465,
+        0.035
+      ],
+      "tail": [
+        0.2544,
+        0.5659
+      ],
+      "text_key": "matthew.10.p6.b2"
+    },
+    {
+      "id": "MATTHEW_10_P006_B003",
+      "panel": "MATTHEW_10_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5136,
+        0.5691,
+        0.1256,
+        0.0638
+      ],
+      "tail": [
+        0.5764,
+        0.6489
+      ],
+      "text_key": "matthew.10.p6.b3"
+    }
+  ]
+}

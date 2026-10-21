@@ -1,0 +1,130 @@
+{
+  "id": "LUKE_08_P003",
+  "book": "luke",
+  "chapter": 8,
+  "page": 3,
+  "ref": "8:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_08_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_08_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2018
+      ],
+      "alt": {
+        "zh-CN": "有些落在荆棘里，荆棘一同生长，把它挤住了。"
+      }
+    },
+    {
+      "id": "LUKE_08_P003_F2",
+      "box": [
+        0,
+        0.2064,
+        0.6143,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "又有些落在好土里，生长起来，结出百倍的果实。”"
+      }
+    },
+    {
+      "id": "LUKE_08_P003_F3",
+      "box": [
+        0.6221,
+        0.2064,
+        0.3779,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "（人群里的老农夫点头笑。）"
+      }
+    },
+    {
+      "id": "LUKE_08_P003_F4",
+      "box": [
+        0,
+        0.5013,
+        1,
+        0.4987
+      ],
+      "alt": {
+        "zh-CN": "耶稣说了这些话，就大声说：“有耳可听的，就应当听！”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_08_P003_B001",
+      "panel": "LUKE_08_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0081,
+        0.42,
+        0.0484
+      ],
+      "tail": null,
+      "text_key": "luke.8.p3.b1"
+    },
+    {
+      "id": "LUKE_08_P003_B002",
+      "panel": "LUKE_08_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0184,
+        0.2151,
+        0.2457,
+        0.0523
+      ],
+      "tail": null,
+      "text_key": "luke.8.p3.b2"
+    },
+    {
+      "id": "LUKE_08_P003_B003",
+      "panel": "LUKE_08_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.5163,
+        0.38,
+        0.0405
+      ],
+      "tail": null,
+      "text_key": "luke.8.p3.b3"
+    },
+    {
+      "id": "LUKE_08_P003_B004",
+      "panel": "LUKE_08_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6,
+        0.5668,
+        0.38,
+        0.0342
+      ],
+      "tail": [
+        0.79,
+        0.6509
+      ],
+      "text_key": "luke.8.p3.b4"
+    }
+  ]
+}

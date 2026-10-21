@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_10_P011",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 11,
+  "ref": "10:32-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P011_F1",
+      "box": [
+        0.0098,
+        0.0033,
+        0.9814,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "凡在人面前承认我的，我在天上的父面前也必承认他；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P011_F2",
+      "box": [
+        0.0088,
+        0.3346,
+        0.2949,
+        0.3626
+      ],
+      "alt": {
+        "zh-CN": "我来不是给地上带来太平，而是带来刀剑。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P011_F3",
+      "box": [
+        0.3105,
+        0.3346,
+        0.6797,
+        0.3626
+      ],
+      "alt": {
+        "zh-CN": "因为我来是要让人和父亲疏远，女儿和母亲疏远，媳妇和婆婆疏远。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P011_F4",
+      "box": [
+        0.0098,
+        0.7012,
+        0.9795,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "人的仇敌就是自己家里的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P011_B001",
+      "panel": "MATTHEW_10_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2453,
+        0.0099,
+        0.4907,
+        0.036
+      ],
+      "tail": [
+        0.4907,
+        0.0787
+      ],
+      "text_key": "matthew.10.p11.b1"
+    },
+    {
+      "id": "MATTHEW_10_P011_B002",
+      "panel": "MATTHEW_10_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0176,
+        0.3419,
+        0.1621,
+        0.0471
+      ],
+      "tail": [
+        0.0987,
+        0.4253
+      ],
+      "text_key": "matthew.10.p11.b2"
+    },
+    {
+      "id": "MATTHEW_10_P011_B003",
+      "panel": "MATTHEW_10_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3377,
+        0.3419,
+        0.6253,
+        0.0435
+      ],
+      "tail": [
+        0.6504,
+        0.4217
+      ],
+      "text_key": "matthew.10.p11.b3"
+    },
+    {
+      "id": "MATTHEW_10_P011_B004",
+      "panel": "MATTHEW_10_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.382,
+        0.7071,
+        0.3918,
+        0.0351
+      ],
+      "tail": [
+        0.5779,
+        0.7715
+      ],
+      "text_key": "matthew.10.p11.b4"
+    }
+  ]
+}

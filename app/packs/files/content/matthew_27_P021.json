@@ -1,0 +1,100 @@
+{
+  "id": "MATTHEW_27_P021",
+  "book": "matthew",
+  "chapter": 27,
+  "page": 21,
+  "ref": "27:59-60",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_27_P021",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_27_P021_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P021_F2",
+      "box": [
+        0,
+        0.2493,
+        1,
+        0.3678
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P021_F3",
+      "box": [
+        0,
+        0.6217,
+        0.4951,
+        0.3783
+      ]
+    },
+    {
+      "id": "MATTHEW_27_P021_F4",
+      "box": [
+        0.5039,
+        0.6217,
+        0.4961,
+        0.3783
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_27_P021_B001",
+      "panel": "MATTHEW_27_P021_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.5362,
+        0.4,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p21.b1"
+    },
+    {
+      "id": "MATTHEW_27_P021_B002",
+      "panel": "MATTHEW_27_P021_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0792,
+        0.9243,
+        0.297,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p21.b2"
+    },
+    {
+      "id": "MATTHEW_27_P021_B003",
+      "panel": "MATTHEW_27_P021_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.9243,
+        0.4564,
+        0.0605
+      ],
+      "tail": null,
+      "text_key": "matthew.27.p21.b3"
+    }
+  ]
+}

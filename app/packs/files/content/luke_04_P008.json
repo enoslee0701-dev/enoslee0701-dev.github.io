@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_04_P008",
+  "book": "luke",
+  "chapter": 4,
+  "page": 8,
+  "ref": "4:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "众人都称赞他，并且对他口中所出的恩言感到惊奇；"
+      }
+    },
+    {
+      "id": "LUKE_04_P008_F2",
+      "box": [
+        0,
+        0.2813,
+        0.4648,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "又说：“这不是约瑟的儿子吗？”"
+      }
+    },
+    {
+      "id": "LUKE_04_P008_F3",
+      "box": [
+        0.4717,
+        0.2813,
+        0.5283,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：“你们一定会引这句俗语对我说：‘医生，医治你自己吧！我们听说你在迦百农所做的事，也在你自己家乡做吧。’”"
+      }
+    },
+    {
+      "id": "LUKE_04_P008_F4",
+      "box": [
+        0,
+        0.541,
+        1,
+        0.459
+      ],
+      "alt": {
+        "zh-CN": "又说：“我实在告诉你们，没有先知在自己家乡被人接纳的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P008_B001",
+      "panel": "LUKE_04_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.0055,
+        0.6,
+        0.036
+      ],
+      "tail": null,
+      "text_key": "luke.4.p8.b1"
+    },
+    {
+      "id": "LUKE_04_P008_B002",
+      "panel": "LUKE_04_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.2789,
+        0.2864,
+        0.1766,
+        0.0511
+      ],
+      "tail": [
+        0.3672,
+        0.3631
+      ],
+      "text_key": "luke.4.p8.b2"
+    },
+    {
+      "id": "LUKE_04_P008_B003",
+      "panel": "LUKE_04_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.548,
+        0.55,
+        0.1023
+      ],
+      "tail": [
+        0.8494,
+        0.4143
+      ],
+      "text_key": "luke.4.p8.b3"
+    },
+    {
+      "id": "LUKE_04_P008_B004",
+      "panel": "LUKE_04_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.775,
+        0.4,
+        0.0918
+      ],
+      "tail": [
+        0.56,
+        0.6879
+      ],
+      "text_key": "luke.4.p8.b4"
+    }
+  ]
+}

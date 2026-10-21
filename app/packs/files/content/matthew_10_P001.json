@@ -1,0 +1,97 @@
+{
+  "id": "MATTHEW_10_P001",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 1,
+  "ref": "10:1",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "耶稣把十二个门徒叫到身边来，"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P001_F2",
+      "box": [
+        0,
+        0.3346,
+        1,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "（耶稣指向山谷里的村子。）"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P001_F3",
+      "box": [
+        0,
+        0.6589,
+        0.583,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "赐给他们权柄，能赶出污鬼，医治各种疾病。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P001_F4",
+      "box": [
+        0.5898,
+        0.6589,
+        0.4102,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "（西门低头看着自己的手。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P001_B001",
+      "panel": "MATTHEW_10_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.01,
+        0.42,
+        0.0531
+      ],
+      "tail": null,
+      "text_key": "matthew.10.p1.b1"
+    },
+    {
+      "id": "MATTHEW_10_P001_B002",
+      "panel": "MATTHEW_10_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0233,
+        0.6656,
+        0.5363,
+        0.0604
+      ],
+      "tail": null,
+      "text_key": "matthew.10.p1.b2"
+    }
+  ]
+}

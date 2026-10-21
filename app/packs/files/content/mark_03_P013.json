@@ -1,0 +1,133 @@
+{
+  "id": "MARK_03_P013",
+  "book": "mark",
+  "chapter": 3,
+  "page": 13,
+  "ref": "3:22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P013_F1",
+      "box": [
+        0.024,
+        0.009,
+        0.302,
+        0.766
+      ],
+      "alt": {
+        "zh-CN": "从耶路撒冷下来的文士说："
+      }
+    },
+    {
+      "id": "MARK_03_P013_F2",
+      "box": [
+        0.338,
+        0.009,
+        0.64,
+        0.478
+      ],
+      "alt": {
+        "zh-CN": "他被别西卜附着了；"
+      }
+    },
+    {
+      "id": "MARK_03_P013_F3",
+      "box": [
+        0.338,
+        0.493,
+        0.64,
+        0.282
+      ],
+      "alt": {
+        "zh-CN": "又说：他是靠着鬼王赶鬼。"
+      }
+    },
+    {
+      "id": "MARK_03_P013_F4",
+      "box": [
+        0.024,
+        0.781,
+        0.954,
+        0.207
+      ],
+      "alt": {
+        "zh-CN": "屋里的耶稣抬起眼睛。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P013_B001",
+      "panel": "MARK_03_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0331,
+        0.0167,
+        0.2838,
+        0.0766
+      ],
+      "tail": null,
+      "text_key": "mark.3.p13.b1"
+    },
+    {
+      "id": "MARK_03_P013_B002",
+      "panel": "MARK_03_P013_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.755,
+        0.012,
+        0.228,
+        0.105
+      ],
+      "tail": [
+        0.745,
+        0.105
+      ],
+      "text_key": "mark.3.p13.b2"
+    },
+    {
+      "id": "MARK_03_P013_B003",
+      "panel": "MARK_03_P013_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.345,
+        0.497,
+        0.2227,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "mark.3.p13.b3"
+    },
+    {
+      "id": "MARK_03_P013_B004",
+      "panel": "MARK_03_P013_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.44,
+        0.709,
+        0.5,
+        0.066
+      ],
+      "tail": [
+        0.55,
+        0.62
+      ],
+      "text_key": "mark.3.p13.b4"
+    }
+  ]
+}

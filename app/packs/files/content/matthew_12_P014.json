@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_12_P014",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 14,
+  "ref": "12:38-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "那时，有几个文士和法利赛人对耶稣说："
+      }
+    },
+    {
+      "id": "MATTHEW_12_P014_F2",
+      "box": [
+        0,
+        0.2578,
+        0.5879,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "「老师，我们想看你显一个神迹。」"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P014_F3",
+      "box": [
+        0.5928,
+        0.2578,
+        0.4072,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "耶稣回答说：「一个邪恶、不忠的世代要求看神迹，除了先知约拿的神迹以外，不会再给他们别的神迹。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P014_F4",
+      "box": [
+        0,
+        0.6009,
+        1,
+        0.3991
+      ],
+      "alt": {
+        "zh-CN": "约拿怎样三天三夜在大鱼的肚子里，人子也要这样三天三夜在地里面。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P014_B001",
+      "panel": "MATTHEW_12_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.0077,
+        0.4,
+        0.0408
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p14.b1"
+    },
+    {
+      "id": "MATTHEW_12_P014_B002",
+      "panel": "MATTHEW_12_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2646,
+        0.2646,
+        0.3057,
+        0.0612
+      ],
+      "tail": [
+        0.4175,
+        0.3599
+      ],
+      "text_key": "matthew.12.p14.b2"
+    },
+    {
+      "id": "MATTHEW_12_P014_B003",
+      "panel": "MATTHEW_12_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6132,
+        0.5234,
+        0.3664,
+        0.0646
+      ],
+      "tail": [
+        0.7964,
+        0.5983
+      ],
+      "text_key": "matthew.12.p14.b3"
+    },
+    {
+      "id": "MATTHEW_12_P014_B004",
+      "panel": "MATTHEW_12_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.25,
+        0.6129,
+        0.5,
+        0.0598
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p14.b4"
+    }
+  ]
+}

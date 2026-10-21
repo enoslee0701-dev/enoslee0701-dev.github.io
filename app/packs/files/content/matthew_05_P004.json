@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_05_P004",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "人若因为我侮辱你们、迫害你们、捏造各种坏话诽谤你们，你们就有福了！"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P004_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "（比喻画面：有人指着四个门徒骂，把门摔上，一块石头扔到他们脚边。）"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P004_F3",
+      "box": [
+        0,
+        0.4805,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "要欢喜快乐，因为你们在天上的赏赐是大的。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P004_F4",
+      "box": [
+        0,
+        0.7917,
+        1,
+        0.2083
+      ],
+      "alt": {
+        "zh-CN": "在你们以前的先知，人也是这样迫害他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P004_B001",
+      "panel": "MATTHEW_05_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0068,
+        0.42,
+        0.0451
+      ],
+      "tail": [
+        0.76,
+        0.0745
+      ],
+      "text_key": "matthew.5.p4.b1"
+    },
+    {
+      "id": "MATTHEW_05_P004_B002",
+      "panel": "MATTHEW_05_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.4898,
+        0.41,
+        0.0401
+      ],
+      "tail": [
+        0.765,
+        0.5608
+      ],
+      "text_key": "matthew.5.p4.b2"
+    },
+    {
+      "id": "MATTHEW_05_P004_B003",
+      "panel": "MATTHEW_05_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.8,
+        0.38,
+        0.0916
+      ],
+      "tail": [
+        0.2,
+        0.9124
+      ],
+      "text_key": "matthew.5.p4.b3"
+    }
+  ]
+}

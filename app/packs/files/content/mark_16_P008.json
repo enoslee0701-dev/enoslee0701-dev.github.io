@@ -1,0 +1,145 @@
+{
+  "id": "MARK_16_P008",
+  "book": "mark",
+  "chapter": 16,
+  "page": 8,
+  "ref": "16:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_16_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_16_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1973
+      ],
+      "alt": {
+        "zh-CN": "耶稣又对他们说：「你们要到世界各地去，把福音传给所有的人听。"
+      }
+    },
+    {
+      "id": "MARK_16_P008_F2",
+      "box": [
+        0.0059,
+        0.1992,
+        0.9893,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "（几条路从一座小城往四面八方铺开，路上两个两个的人往外走。）"
+      }
+    },
+    {
+      "id": "MARK_16_P008_F3",
+      "box": [
+        0.0059,
+        0.4681,
+        0.5049,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "信而受洗的人必定得救；不信的人必被定罪。"
+      }
+    },
+    {
+      "id": "MARK_16_P008_F4",
+      "box": [
+        0.5146,
+        0.4681,
+        0.4805,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "信的人会有神迹伴随他们，"
+      }
+    },
+    {
+      "id": "MARK_16_P008_F5",
+      "box": [
+        0.0059,
+        0.7005,
+        0.9883,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "他们按手在病人身上，病人就会好。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_16_P008_B001",
+      "panel": "MARK_16_P008_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.205,
+        0.206,
+        0.79,
+        0.081
+      ],
+      "tail": [
+        0.62,
+        0.06
+      ],
+      "text_key": "mark.16.p8.b1"
+    },
+    {
+      "id": "MARK_16_P008_B002",
+      "panel": "MARK_16_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.021,
+        0.4727,
+        0.212,
+        0.0254
+      ],
+      "tail": [
+        0.0059,
+        0.5212
+      ],
+      "text_key": "mark.16.p8.b2"
+    },
+    {
+      "id": "MARK_16_P008_B003",
+      "panel": "MARK_16_P008_F5",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.685,
+        0.7035,
+        0.31,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.16.p8.b3"
+    },
+    {
+      "id": "MARK_16_P008_B004",
+      "panel": "MARK_16_P008_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.45,
+        0.89,
+        0.31,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.16.p8.b4"
+    }
+  ]
+}

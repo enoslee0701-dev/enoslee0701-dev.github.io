@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_08_P005",
+  "book": "matthew",
+  "chapter": 8,
+  "page": 5,
+  "ref": "8:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_08_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_08_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1882
+      ],
+      "alt": {
+        "zh-CN": "耶稣听了，觉得惊奇，对跟着他的人说："
+      }
+    },
+    {
+      "id": "MATTHEW_08_P005_F2",
+      "box": [
+        0,
+        0.1914,
+        1,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，这样大的信心，就是在以色列人当中，我也没有见过。"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P005_F3",
+      "box": [
+        0,
+        0.5313,
+        1,
+        0.2318
+      ],
+      "alt": {
+        "zh-CN": "我又告诉你们，将有许多人从东方、从西方来，在天国里和亚伯拉罕、以撒、雅各一同坐席；"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P005_F4",
+      "box": [
+        0,
+        0.7656,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "只有本国的子民反而被赶到外面的黑暗里，在那里要哀哭切齿了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_08_P005_B001",
+      "panel": "MATTHEW_08_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.67,
+        0.0056,
+        0.2,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "matthew.8.p5.b1"
+    },
+    {
+      "id": "MATTHEW_08_P005_B002",
+      "panel": "MATTHEW_08_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.1948,
+        0.48,
+        0.0471
+      ],
+      "tail": [
+        0.62,
+        0.2756
+      ],
+      "text_key": "matthew.8.p5.b2"
+    },
+    {
+      "id": "MATTHEW_08_P005_B003",
+      "panel": "MATTHEW_08_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.5359,
+        0.92,
+        0.037
+      ],
+      "tail": [
+        0.5,
+        0.5961
+      ],
+      "text_key": "matthew.8.p5.b3"
+    },
+    {
+      "id": "MATTHEW_08_P005_B004",
+      "panel": "MATTHEW_08_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.789,
+        0.44,
+        0.1875
+      ],
+      "tail": [
+        0.24,
+        0.9999
+      ],
+      "text_key": "matthew.8.p5.b4"
+    }
+  ]
+}

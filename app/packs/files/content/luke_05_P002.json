@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_05_P002",
+  "book": "luke",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "讲完了，耶稣对西门说：“把船开到水深的地方，下网打鱼。”"
+      }
+    },
+    {
+      "id": "LUKE_05_P002_F2",
+      "box": [
+        0,
+        0.2546,
+        0.5898,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "西门说：“老师，我们整夜劳苦，什么也没有打着。"
+      }
+    },
+    {
+      "id": "LUKE_05_P002_F3",
+      "box": [
+        0.5967,
+        0.2546,
+        0.4033,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "（他看着自己的手。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P002_F4",
+      "box": [
+        0,
+        0.5612,
+        1,
+        0.4388
+      ],
+      "alt": {
+        "zh-CN": "但是照你的话，我就下网。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P002_B001",
+      "panel": "LUKE_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0125,
+        0.46,
+        0.0548
+      ],
+      "tail": [
+        0.73,
+        0.0922
+      ],
+      "text_key": "luke.5.p2.b1"
+    },
+    {
+      "id": "LUKE_05_P002_B002",
+      "panel": "LUKE_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4188,
+        0.2636,
+        0.1592,
+        0.1082
+      ],
+      "tail": [
+        0.4984,
+        0.4019
+      ],
+      "text_key": "luke.5.p2.b2"
+    },
+    {
+      "id": "LUKE_05_P002_B003",
+      "panel": "LUKE_05_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5875,
+        0.32,
+        0.0965
+      ],
+      "tail": [
+        0.19,
+        0.7279
+      ],
+      "text_key": "luke.5.p2.b3"
+    }
+  ]
+}

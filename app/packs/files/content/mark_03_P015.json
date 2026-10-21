@@ -1,0 +1,169 @@
+{
+  "id": "MARK_03_P015",
+  "book": "mark",
+  "chapter": 3,
+  "page": 15,
+  "ref": "3:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P015_F1",
+      "box": [
+        0.014,
+        0.005,
+        0.721,
+        0.238
+      ],
+      "alt": {
+        "zh-CN": "如果撒但自己攻打自己、彼此分争，他就站立不住，"
+      }
+    },
+    {
+      "id": "MARK_03_P015_F2",
+      "box": [
+        0.747,
+        0.005,
+        0.239,
+        0.238
+      ],
+      "alt": {
+        "zh-CN": "必定灭亡。"
+      }
+    },
+    {
+      "id": "MARK_03_P015_F3",
+      "box": [
+        0.02,
+        0.251,
+        0.962,
+        0.413
+      ],
+      "alt": {
+        "zh-CN": "没有人能进到壮士家里，抢走他的家具；"
+      }
+    },
+    {
+      "id": "MARK_03_P015_F4",
+      "box": [
+        0.014,
+        0.671,
+        0.528,
+        0.325
+      ],
+      "alt": {
+        "zh-CN": "必须先把那壮士捆起来，"
+      }
+    },
+    {
+      "id": "MARK_03_P015_F5",
+      "box": [
+        0.459,
+        0.664,
+        0.527,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "才能抢他的家。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P015_B001",
+      "panel": "MARK_03_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.23,
+        0.012,
+        0.47,
+        0.105
+      ],
+      "tail": [
+        0.19,
+        0.085
+      ],
+      "text_key": "mark.3.p15.b1"
+    },
+    {
+      "id": "MARK_03_P015_B002",
+      "panel": "MARK_03_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.725,
+        0.008,
+        0.275,
+        0.068
+      ],
+      "tail": [
+        0.747,
+        0.04
+      ],
+      "text_key": "mark.3.p15.b2"
+    },
+    {
+      "id": "MARK_03_P015_B003",
+      "panel": "MARK_03_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.263,
+        0.29,
+        0.181
+      ],
+      "tail": [
+        0.02,
+        0.4533
+      ],
+      "text_key": "mark.3.p15.b3"
+    },
+    {
+      "id": "MARK_03_P015_B004",
+      "panel": "MARK_03_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.035,
+        0.679,
+        0.42,
+        0.068
+      ],
+      "tail": [
+        0.014,
+        0.7685
+      ],
+      "text_key": "mark.3.p15.b4"
+    },
+    {
+      "id": "MARK_03_P015_B005",
+      "panel": "MARK_03_P015_F5",
+      "order": 5,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.695,
+        0.3,
+        0.105
+      ],
+      "tail": [
+        0.459,
+        0.7835
+      ],
+      "text_key": "mark.3.p15.b5"
+    }
+  ]
+}

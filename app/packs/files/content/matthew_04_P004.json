@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_04_P004",
+  "book": "matthew",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "魔鬼又带他上了一座极高的山，把世上所有的国家和它们的荣华都指给他看，"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P004_F2",
+      "box": [
+        0.0068,
+        0.2624,
+        0.3584,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "对他说：“只要你跪下来拜我，我就把这一切都给你。”"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P004_F3",
+      "box": [
+        0.3721,
+        0.2624,
+        0.6211,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：“撒但，走开！"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P004_F4",
+      "box": [
+        0,
+        0.7135,
+        1,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "因为经上写着：‘要敬拜主你的神，只事奉他。’”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_04_P004_B001",
+      "panel": "MATTHEW_04_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.008,
+        0.0078,
+        0.325,
+        0.0672
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p4.b1"
+    },
+    {
+      "id": "MATTHEW_04_P004_B002",
+      "panel": "MATTHEW_04_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.0176,
+        0.2669,
+        0.2222,
+        0.0537
+      ],
+      "tail": [
+        0.1287,
+        0.3654
+      ],
+      "text_key": "matthew.4.p4.b2"
+    },
+    {
+      "id": "MATTHEW_04_P004_B003",
+      "panel": "MATTHEW_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.7572,
+        0.2669,
+        0.1863,
+        0.0492
+      ],
+      "tail": [
+        0.8504,
+        0.3609
+      ],
+      "text_key": "matthew.4.p4.b3"
+    },
+    {
+      "id": "MATTHEW_04_P004_B004",
+      "panel": "MATTHEW_04_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.7192,
+        0.46,
+        0.0487
+      ],
+      "tail": [
+        0.65,
+        0.7965
+      ],
+      "text_key": "matthew.4.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "matthew.13.p1.b1": {
+    "text": "その日、イエスは家を出て、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p1.b2": {
+    "text": "海べにすわっておられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p1.b3": {
+    "text": "ところが、大ぜいの群衆がみもとに集まったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p1.b4": {
+    "text": "イエスは舟に乗ってすわられ、群衆はみな岸に立っていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b1": {
+    "text": "イエスは譬で多くの事を語り、こう言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b2": {
+    "text": "見よ、種まきが種をまきに出て行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b3": {
+    "text": "まいているうちに、道ばたに落ちた種があった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b4": {
+    "text": "すると、鳥がきて食べてしまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p3.b1": {
+    "text": "ほかの種は土の薄い石地に落ちた。そこは土が深くないので、すぐ芽を出したが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p3.b2": {
+    "text": "日が上ると焼けて、根がないために枯れてしまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p3.b3": {
+    "text": "ほかの種はいばらの地に落ちた。すると、いばらが伸びて、ふさいでしまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b1": {
+    "text": "ほかの種は良い地に落ちて実を結び、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b2": {
+    "text": "あるものは百倍、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b3": {
+    "text": "あるものは六十倍、あるものは三十倍にもなった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b4": {
+    "text": "耳のある者は聞くがよい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b1": {
+    "text": "なぜ、彼らに譬でお話しになるのですか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b2": {
+    "text": "あなたがたには、天国の奥義を知ることが許されているが、彼らには許されていない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b3": {
+    "text": "おおよそ、持っている人は与えられて、いよいよ豊かになるが、持っていない人は、持っているものまでも取り上げられるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b4": {
+    "text": "だから、彼らには譬で語るのである。それは彼らが、見ても見ず、聞いても聞かず、また悟らないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b1": {
+    "text": "こうしてイザヤの言った預言が、彼らの上に成就したのである。『あなたがたは聞くには聞くが、決して悟らない。見るには見るが、決して認めない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b2": {
+    "text": "この民の心は鈍くなり、その耳は聞えにくく、その目は閉じている。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b3": {
+    "text": "しかし、あなたがたの目は見ており、耳は聞いているから、さいわいである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b4": {
+    "text": "…多くの預言者や義人は、あなたがたの見ていることを見ようと熱心に願ったが、見ることができず、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b1": {
+    "text": "そこで、種まきの譬を聞きなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b2": {
+    "text": "だれでも御国の言を聞いて悟らないならば、悪い者がきて、その人の心にまかれたものを奪いとって行く。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b3": {
+    "text": "石地にまかれたものというのは、御言を聞くと、すぐに喜んで受ける人のことである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b4": {
+    "text": "…御言のために困難や迫害が起ってくると、すぐつまずいてしまう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p8.b1": {
+    "text": "また、いばらの中にまかれたものとは、御言を聞くが、世の心づかいと富の惑わしとが御言をふさぐので、実を結ばなくなる人のことである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p8.b2": {
+    "text": "また、良い地にまかれたものとは、御言を聞いて悟る人のことであって、そういう人が実を結び、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p8.b3": {
+    "text": "百倍、あるいは六十倍、あるいは三十倍にもなるのである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b1": {
+    "text": "天国は、良い種を自分の畑にまいておいた人のようなものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b2": {
+    "text": "人々が眠っている間に敵がきて、麦の中に毒麦をまいて立ち去った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b3": {
+    "text": "芽がはえ出て実を結ぶと、同時に毒麦もあらわれてきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b4": {
+    "text": "ご主人様、畑におまきになったのは、良い種ではありませんでしたか。どうして毒麦がはえてきたのですか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b1": {
+    "text": "…『それは敵のしわざだ』。すると僕たちが言った『では行って、それを抜き集めましょうか』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b2": {
+    "text": "いや、毒麦を集めようとして、麦も一緒に抜くかも知れない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b3": {
+    "text": "収穫まで、両方とも育つままにしておけ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b4": {
+    "text": "…まず毒麦を集めて束にして焼き、麦の方は集めて倉に入れてくれ…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b1": {
+    "text": "天国は、一粒のからし種のようなものである。ある人がそれをとって畑にまくと、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b2": {
+    "text": "…成長すると、野菜の中でいちばん大きくなり、空の鳥がきて、その枝に宿るほどの木になる",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b3": {
+    "text": "天国は、パン種のようなものである。女がそれを取って三斗の粉の中に混ぜると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b4": {
+    "text": "全体がふくらんでくる",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p12.b1": {
+    "text": "イエスはこれらのことをすべて、譬で群衆に語られた。譬によらないでは何事も彼らに語られなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p12.b2": {
+    "text": "これは預言者によって言われたことが、成就するためである、「わたしは口を開いて譬を語り、世の初めから隠されていることを語り出そう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b1": {
+    "text": "それからイエスは、群衆をあとに残して家にはいられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b2": {
+    "text": "畑の毒麦の譬を説明してください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b3": {
+    "text": "良い種をまく者は、人の子である。 畑は世界である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:37-38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b4": {
+    "text": "…収穫とは世の終りのことで、刈る者は御使たちである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b1": {
+    "text": "だから、毒麦が集められて火で焼かれるように、世の終りにもそのとおりになるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b2": {
+    "text": "炉の火に投げ入れさせるであろう。そこでは泣き叫んだり、歯がみをしたりするであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b3": {
+    "text": "そのとき、義人たちは彼らの父の御国で、太陽のように輝きわたるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b4": {
+    "text": "耳のある者は聞くがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p15.b1": {
+    "text": "天国は、畑に隠してある宝のようなものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p15.b2": {
+    "text": "人がそれを見つけると隠しておき、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p15.b3": {
+    "text": "喜びのあまり、行って持ち物をみな売りはらい、そしてその畑を買うのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b1": {
+    "text": "また天国は、良い真珠を捜している商人のようなものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b2": {
+    "text": "高価な真珠一個を見いだすと、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b3": {
+    "text": "行って持ち物をみな売りはらい、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b4": {
+    "text": "そしてこれを買うのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b1": {
+    "text": "また天国は、海におろして、あらゆる種類の魚を囲みいれる網のようなものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b2": {
+    "text": "それがいっぱいになると岸に引き上げ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b3": {
+    "text": "そしてすわって、良いのを器に入れ、悪いのを外へ捨てるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b4": {
+    "text": "世の終りにも、そのとおりになるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p18.b1": {
+    "text": "あなたがたは、これらのことが皆わかったか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p18.b2": {
+    "text": "わかりました",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p18.b3": {
+    "text": "天国のことを学んだ学者は、新しいものと古いものとを、その倉から取り出す一家の主人のようなものである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b1": {
+    "text": "イエスはこれらの譬を語り終えてから、そこを立ち去られた。 そして郷里に行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:53-54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b2": {
+    "text": "この人は、この知恵とこれらの力あるわざとを、どこで習ってきたのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b3": {
+    "text": "この人は大工の子ではないか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b4": {
+    "text": "またその姉妹たちもみな、わたしたちと一緒にいるではないか。こんな数々のことを、いったい、どこで習ってきたのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p20.b1": {
+    "text": "こうして人々はイエスにつまずいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p20.b2": {
+    "text": "預言者は、自分の郷里や自分の家以外では、どこででも敬われないことはない",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p20.b3": {
+    "text": "そして彼らの不信仰のゆえに、そこでは力あるわざを、あまりなさらなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 13:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "MARK_03_P007",
+  "book": "mark",
+  "chapter": 3,
+  "page": 7,
+  "ref": "3:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P007",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "被污鬼附着的人一看见耶稣，就扑倒在他面前，"
+      }
+    },
+    {
+      "id": "MARK_03_P007_F2",
+      "box": [
+        0,
+        0.275,
+        1,
+        0.372
+      ],
+      "alt": {
+        "zh-CN": "大声喊：你是神的儿子。"
+      }
+    },
+    {
+      "id": "MARK_03_P007_F3",
+      "box": [
+        0,
+        0.651,
+        0.369,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "耶稣一再严厉地吩咐他们，不许把他是谁说出来。"
+      }
+    },
+    {
+      "id": "MARK_03_P007_F4",
+      "box": [
+        0.374,
+        0.651,
+        0.626,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "他们安静下来，耶稣转身走向小船。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P007_B001",
+      "panel": "MARK_03_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.0054,
+        0.33,
+        0.0379
+      ],
+      "tail": null,
+      "text_key": "mark.3.p7.b1"
+    },
+    {
+      "id": "MARK_03_P007_B002",
+      "panel": "MARK_03_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0187,
+        0.279,
+        0.2227,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "mark.3.p7.b2"
+    },
+    {
+      "id": "MARK_03_P007_B003",
+      "panel": "MARK_03_P007_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.6,
+        0.279,
+        0.4,
+        0.087
+      ],
+      "tail": [
+        0.575,
+        0.35
+      ],
+      "text_key": "mark.3.p7.b3"
+    },
+    {
+      "id": "MARK_03_P007_B004",
+      "panel": "MARK_03_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.653,
+        0.42,
+        0.14
+      ],
+      "tail": null,
+      "text_key": "mark.3.p7.b4"
+    }
+  ]
+}

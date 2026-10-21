@@ -1,0 +1,109 @@
+{
+  "id": "MATTHEW_25_P012",
+  "book": "matthew",
+  "chapter": 25,
+  "page": 12,
+  "ref": "25:37-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_25_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_25_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ]
+    },
+    {
+      "id": "MATTHEW_25_P012_F2",
+      "box": [
+        0,
+        0.2611,
+        0.39,
+        0.31
+      ]
+    },
+    {
+      "id": "MATTHEW_25_P012_F3",
+      "box": [
+        0,
+        0.2611,
+        1,
+        0.7389
+      ]
+    },
+    {
+      "id": "MATTHEW_25_P012_F4",
+      "box": [
+        0.5375,
+        0.7375,
+        0.4565,
+        0.2585
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_25_P012_B001",
+      "panel": "MATTHEW_25_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0051,
+        0.38,
+        0.0511
+      ],
+      "tail": [
+        0.21,
+        0.0818
+      ],
+      "text_key": "matthew.25.p12.b1"
+    },
+    {
+      "id": "MATTHEW_25_P012_B002",
+      "panel": "MATTHEW_25_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0117,
+        0.2673,
+        0.3666,
+        0.0372
+      ],
+      "tail": [
+        0.195,
+        0.3355
+      ],
+      "text_key": "matthew.25.p12.b2"
+    },
+    {
+      "id": "MATTHEW_25_P012_B003",
+      "panel": "MATTHEW_25_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.2685,
+        0.35,
+        0.0591
+      ],
+      "tail": [
+        0.575,
+        0.4015
+      ],
+      "text_key": "matthew.25.p12.b3"
+    }
+  ]
+}

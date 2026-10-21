@@ -1,0 +1,100 @@
+{
+  "id": "LUKE_19_P001",
+  "book": "luke",
+  "chapter": 19,
+  "page": 1,
+  "ref": "19:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_19_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_19_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ]
+    },
+    {
+      "id": "LUKE_19_P001_F2",
+      "box": [
+        0,
+        0.2194,
+        0.5898,
+        0.3281
+      ]
+    },
+    {
+      "id": "LUKE_19_P001_F3",
+      "box": [
+        0.5957,
+        0.2194,
+        0.4043,
+        0.3281
+      ]
+    },
+    {
+      "id": "LUKE_19_P001_F4",
+      "box": [
+        0,
+        0.5514,
+        1,
+        0.4486
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_19_P001_B001",
+      "panel": "LUKE_19_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0065,
+        0.42,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "luke.19.p1.b1"
+    },
+    {
+      "id": "LUKE_19_P001_B002",
+      "panel": "LUKE_19_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0118,
+        0.2292,
+        0.1651,
+        0.0656
+      ],
+      "tail": null,
+      "text_key": "luke.19.p1.b2"
+    },
+    {
+      "id": "LUKE_19_P001_B003",
+      "panel": "LUKE_19_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.5649,
+        0.37,
+        0.0807
+      ],
+      "tail": null,
+      "text_key": "luke.19.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_04_P003",
+  "book": "luke",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1764
+      ],
+      "alt": {
+        "zh-CN": "魔鬼又领他上了高山，一霎时把天下万国都指给他看，"
+      }
+    },
+    {
+      "id": "LUKE_04_P003_F2",
+      "box": [
+        0,
+        0.1797,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "对他说：“这一切权柄和荣华，我都要给你，因为这原是交给我的，我愿意给谁就给谁。"
+      }
+    },
+    {
+      "id": "LUKE_04_P003_F3",
+      "box": [
+        0,
+        0.4844,
+        0.333,
+        0.5156
+      ],
+      "alt": {
+        "zh-CN": "你若在我面前下拜，这一切都归你。”"
+      }
+    },
+    {
+      "id": "LUKE_04_P003_F4",
+      "box": [
+        0.3418,
+        0.4844,
+        0.6582,
+        0.5156
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：“经上记着：‘当拜主你的上帝，单要事奉他。’”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P003_B001",
+      "panel": "LUKE_04_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0071,
+        0.47,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "luke.4.p3.b1"
+    },
+    {
+      "id": "LUKE_04_P003_B002",
+      "panel": "LUKE_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.5,
+        0.1918,
+        0.46,
+        0.0602
+      ],
+      "tail": [
+        0.73,
+        0.2821
+      ],
+      "text_key": "luke.4.p3.b2"
+    },
+    {
+      "id": "LUKE_04_P003_B003",
+      "panel": "LUKE_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.02,
+        0.505,
+        0.293,
+        0.1237
+      ],
+      "tail": [
+        0.1665,
+        0.6803
+      ],
+      "text_key": "luke.4.p3.b3"
+    },
+    {
+      "id": "LUKE_04_P003_B004",
+      "panel": "LUKE_04_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7038,
+        0.4999,
+        0.2764,
+        0.1031
+      ],
+      "tail": [
+        0.842,
+        0.6546
+      ],
+      "text_key": "luke.4.p3.b4"
+    }
+  ]
+}

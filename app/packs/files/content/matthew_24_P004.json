@@ -1,0 +1,118 @@
+{
+  "id": "MATTHEW_24_P004",
+  "book": "matthew",
+  "chapter": 24,
+  "page": 4,
+  "ref": "24:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_24_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_24_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2246
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P004_F2",
+      "box": [
+        0,
+        0.2279,
+        1,
+        0.3438
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P004_F3",
+      "box": [
+        0,
+        0.5729,
+        0.4189,
+        0.4271
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P004_F4",
+      "box": [
+        0.4219,
+        0.5729,
+        0.5781,
+        0.4271
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P004_F5",
+      "box": [
+        0.7125,
+        0.7708,
+        0.2688,
+        0.2025
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_24_P004_B001",
+      "panel": "MATTHEW_24_P004_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.24,
+        0.2382,
+        0.52,
+        0.0618
+      ],
+      "tail": [
+        0,
+        0.3344
+      ],
+      "text_key": "matthew.24.p4.b1"
+    },
+    {
+      "id": "MATTHEW_24_P004_B002",
+      "panel": "MATTHEW_24_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0126,
+        0.8462,
+        0.2094,
+        0.1281
+      ],
+      "tail": [
+        0.1173,
+        1
+      ],
+      "text_key": "matthew.24.p4.b2"
+    },
+    {
+      "id": "MATTHEW_24_P004_B003",
+      "panel": "MATTHEW_24_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4392,
+        0.5857,
+        0.2081,
+        0.1025
+      ],
+      "tail": [
+        0.5433,
+        0.7309
+      ],
+      "text_key": "matthew.24.p4.b3"
+    }
+  ]
+}

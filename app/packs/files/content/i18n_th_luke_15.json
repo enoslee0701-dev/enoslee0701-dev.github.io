@@ -1,0 +1,452 @@
+{
+  "luke.15.p1.b1": {
+    "text": "พวก​คน​เก็บ​ภาษี​และ​คน​บาป​มา​รวม​ตัว​กัน​เพื่อ​ฟัง​พระเยซู",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p1.b2": {
+    "text": "“คน​นี้​ต้อนรับ​คน​บาป​และ​กิน​อาหาร​ร่วม​กับ​พวก​เขา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p1.b3": {
+    "text": "พระเยซู​จึง​เล่า​เรื่อง​อุปมา​นี้​ให้​เขา​ฟัง​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p2.b1": {
+    "text": "“สมมุติ​ว่า​คน​หนึ่ง​มี​แกะ​ร้อย​ตัว และ​มี​ตัว​หนึ่ง​หาย​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p2.b2": {
+    "text": "เขา​จะ​ไม่​ละ​แกะ​เก้า​สิบ​เก้า​ตัว​ไว้​ใน​ทุ่ง แล้ว​ไป​ตาม​หา​แกะ​ตัว​ที่​หาย​ไป​จน​กว่า​จะ​เจอ​หรือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p2.b3": {
+    "text": "เมื่อ​เขา​เจอ​ก็​แบก​มัน​บน​บ่า​ด้วย​ใจ​ยินดี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p3.b1": {
+    "text": "‘ดีใจ​กับ​ฉัน​หน่อย ฉัน​เจอ​แกะ​ตัว​ที่​หลง​หาย​ไป​แล้ว’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p3.b2": {
+    "text": "เรา​บอก​ว่า ใน​สวรรค์​จะ​มี​ความ​สุข​ยินดี​กับ​คน​บาป​หนึ่ง​คน​ที่​กลับ​ใจ​ใหม่",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p3.b3": {
+    "text": "มาก​กว่า​คน​ชอบ​ธรรม​เก้า​สิบ​เก้า​คน​ที่​ไม่​อยาก​กลับ​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b1": {
+    "text": "หรือ​สมมุติ​ว่า หญิง​คน​หนึ่ง​มี​เหรียญ​เงิน​สิบ​เหรียญ แล้ว​ทำ​หาย​ไป​หนึ่ง​เหรียญ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b2": {
+    "text": "เธอ​จะ​ไม่​จุด​ตะเกียง กวาด​บ้าน​และ​ค้น​หา​ทุก​ซอก​ทุก​มุม​จน​กว่า​จะ​เจอ​หรือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b3": {
+    "text": "‘ดีใจ​กับ​ฉัน​หน่อย ฉัน​เจอ​เหรียญ​ที่​หาย​ไป​แล้ว’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p4.b4": {
+    "text": "ใน​ทำนอง​เดียวกัน เรา​บอก​ว่า​เหล่า​ทูตสวรรค์​ของ​พระเจ้า​ก็​ยินดี​ที่​คน​บาป​หนึ่ง​คน​กลับ​ใจ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b1": {
+    "text": "“ชาย​คน​หนึ่ง​มี​ลูก​ชาย​สอง​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b2": {
+    "text": "‘ขอ​แบ่ง​ที่ดิน​ส่วน​ของ​ลูก​ให้​ด้วย’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b3": {
+    "text": "ต่อมา​ไม่​นาน ลูกชาย​คน​เล็ก​ก็​รวบรวม​สมบัติ​ทั้ง​หมด​ของ​ตน​แล้ว​เดิน​ทาง​ไป​เมือง​ไกล",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p5.b4": {
+    "text": "ผลาญ​เงิน​และ​ใช้​ชีวิต​เสเพล",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b1": {
+    "text": "พอ​เขา​หมด​ตัว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b2": {
+    "text": "ก็​เกิด​การ​กันดาร​อาหาร​อย่าง​หนัก​ทั่ว​ดินแดน​นั้น และ​เขา​เริ่ม​ขัดสน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b3": {
+    "text": "เขา​จึง​ไป​รับจ้าง​ชาว​เมือง​คน​หนึ่ง​ซึ่ง​ใช้​เขา​ออก​ไป​เลี้ยง​หมู​ใน​ทุ่ง​นา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p6.b4": {
+    "text": "เขา​หิว​มาก​จน​อยาก​จะ​กิน​ฝัก​ถั่ว​คารอบที่​หมู​กิน แต่​ก็​ไม่​มี​ใคร​ให้​อะไร​เขา​กิน​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b1": {
+    "text": "เมื่อ​คิด​ได้​ก็​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b2": {
+    "text": "‘ลูก​จ้าง​หลาย​คน​ของ​พ่อ​มี​อาหาร​เหลือเฟือ แต่​นี่​ฉัน​กำลัง​จะ​อด​ตาย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b3": {
+    "text": "ฉัน​จะ​กลับ​ไป​หา​พ่อ​และ​พูด​กับ​ท่าน​ว่า พ่อ ลูก​ทำ​บาป​ต่อ​สวรรค์​และ​ต่อ​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p7.b4": {
+    "text": "ไม่​คู่ควร​จะ​ได้​ชื่อ​ว่า​เป็น​ลูก​ของ​ท่าน​อีก ให้​ลูก​เป็น​เหมือน​ลูก​จ้าง​คน​หนึ่ง​ของ​ท่าน​เถิด’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b1": {
+    "text": "ดังนั้น​เขา​จึง​ลุก​ขึ้น​กลับ​ไป​หา​พ่อ​ของ​ตน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b2": {
+    "text": "แต่​ขณะ​ที่​เขา​ยัง​อยู่​แต่​ไกล พ่อ​มอง​เห็น​และ​สงสาร​จับ​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b3": {
+    "text": "จึง​วิ่ง​ไป​หา​ลูกชาย สวม​กอด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p8.b4": {
+    "text": "และ​จูบ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b1": {
+    "text": "‘พ่อ ลูก​ทำ​บาป​ต่อ​สวรรค์​และ​ต่อ​ท่าน​ด้วย ไม่​คู่ควร​จะ​ได้​ชื่อ​ว่า​เป็น​ลูก​ของ​ท่าน​อีก​ต่อไป’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b2": {
+    "text": "แต่​พ่อ​สั่ง​คน​รับใช้​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b3": {
+    "text": "‘เร็วเข้า! นำ​เสื้อ​ผ้า​ที่​ดี​ที่สุด​มา​ใส่​ให้​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p9.b4": {
+    "text": "เอา​แหวน​สวม​ที่​นิ้ว และ​รองเท้า​มา​สวม​ให้​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p10.b1": {
+    "text": "นำ​ลูก​วัว​ขุน​มา​ฆ่า​เลี้ยง​ฉลอง​กัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p10.b2": {
+    "text": "เพราะ​ลูก​คน​นี้​ของ​เรา​ตาย​ไป​แล้ว และ​กลับ​ฟื้น​ขึ้น​มา​อีก เขา​หาย​ไป​แล้ว​และ​ได้​พบ​กัน​อีก’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p10.b3": {
+    "text": "ดังนั้น​พวก​เขา​จึง​เริ่ม​ฉลอง​กัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p11.b1": {
+    "text": "ลูก​คน​โต​อยู่​ใน​ทุ่ง​นา เมื่อ​ใกล้​จะ​ถึง​บ้าน ก็​ได้ยิน​เสียง​ดนตรี​และ​เต้นรำ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p11.b2": {
+    "text": "เขา​จึง​เรียก​คน​รับใช้​คน​หนึ่ง​มา​ถาม​ว่า​เกิด​อะไร​ขึ้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p11.b3": {
+    "text": "‘น้อง​ของ​ท่าน​กลับ​มา​แล้ว พ่อ​ของ​ท่าน​จึง​ให้​ฆ่า​ลูก​วัว​ขุน เพราะ​เขา​กลับ​มา​อย่าง​ปลอดภัย’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b1": {
+    "text": "พี่​ชาย​ก็​โกรธ​และ​ไม่​ยอม​เข้า​บ้าน พ่อ​จึง​ออก​มา​ขอ​ร้อง​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b2": {
+    "text": "‘ดู​สิ! หลาย​ปี​มา​นี้ ลูก​ตรากตรำ​รับใช้​พ่อ และ​ไม่​เคย​ขัด​คำ​สั่ง​ของ​ท่าน​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b3": {
+    "text": "แม้​ลูก​แพะ​สัก​ตัว​ก็​ยัง​ไม่​เคย​ให้​ลูก​เพื่อ​เลี้ยง​ฉลอง​กับ​เพื่อน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p12.b4": {
+    "text": "แต่​เมื่อ​ลูก​คน​นี้​ของ​พ่อ​กลับ​มา ทั้ง​ๆ ที่​ผลาญ​สมบัติ​ของ​ท่าน​ไป​กับ​หญิง​โสเภณี ท่าน​ยัง​ฆ่า​ลูก​วัว​ขุน​เพื่อ​เขา’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p13.b1": {
+    "text": "‘ลูก เจ้า​อยู่​กับ​พ่อ​ตลอด​มา และ​ทุก​สิ่ง​ที่​พ่อ​มี​ก็​เป็น​ของ​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.15.p13.b2": {
+    "text": "แต่​เรา​ต้อง​ฉลอง​และ​ยินดี​กัน เพราะ​น้อง​คน​นี้​ของ​เจ้า​ตาย​ไป​แล้ว​กลับ​ฟื้น​ขึ้น​มา​อีก เขา​หาย​ไป​แล้ว​กลับ​ได้​พบ​กัน​อีก’ ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

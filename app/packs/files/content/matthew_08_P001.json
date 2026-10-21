@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_08_P001",
+  "book": "matthew",
+  "chapter": 8,
+  "page": 1,
+  "ref": "8:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_08_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_08_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2533
+      ],
+      "alt": {
+        "zh-CN": "耶稣下了山，有许多人跟着他。"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P001_F2",
+      "box": [
+        0.6162,
+        0.2585,
+        0.3838,
+        0.1471
+      ],
+      "alt": {
+        "zh-CN": "（路边的乱石后面，一个长大麻风的人望着走下来的人群。）"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P001_F3",
+      "box": [
+        0,
+        0.2585,
+        1,
+        0.4681
+      ],
+      "alt": {
+        "zh-CN": "有一个长大麻风的人来跪拜他，说："
+      }
+    },
+    {
+      "id": "MATTHEW_08_P001_F4",
+      "box": [
+        0,
+        0.7318,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "主啊，你若愿意，一定能使我洁净。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_08_P001_B001",
+      "panel": "MATTHEW_08_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.36,
+        0.0051,
+        0.4,
+        0.0329
+      ],
+      "tail": null,
+      "text_key": "matthew.8.p1.b1"
+    },
+    {
+      "id": "MATTHEW_08_P001_B002",
+      "panel": "MATTHEW_08_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.14,
+        0.6423,
+        0.4,
+        0.0561
+      ],
+      "tail": null,
+      "text_key": "matthew.8.p1.b2"
+    },
+    {
+      "id": "MATTHEW_08_P001_B003",
+      "panel": "MATTHEW_08_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.39,
+        0.7425,
+        0.17,
+        0.0965
+      ],
+      "tail": [
+        0.475,
+        0.8658
+      ],
+      "text_key": "matthew.8.p1.b3"
+    }
+  ]
+}

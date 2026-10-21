@@ -1,0 +1,124 @@
+{
+  "id": "MATTHEW_20_P010",
+  "book": "matthew",
+  "chapter": 20,
+  "page": 10,
+  "ref": "20:24-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_20_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_20_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ]
+    },
+    {
+      "id": "MATTHEW_20_P010_F2",
+      "box": [
+        0,
+        0.2487,
+        0.5518,
+        0.3203
+      ]
+    },
+    {
+      "id": "MATTHEW_20_P010_F3",
+      "box": [
+        0.5605,
+        0.2487,
+        0.4395,
+        0.3203
+      ]
+    },
+    {
+      "id": "MATTHEW_20_P010_F4",
+      "box": [
+        0,
+        0.5729,
+        1,
+        0.4271
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_20_P010_B001",
+      "panel": "MATTHEW_20_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0073,
+        0.42,
+        0.0537
+      ],
+      "tail": null,
+      "text_key": "matthew.20.p10.b1"
+    },
+    {
+      "id": "MATTHEW_20_P010_B002",
+      "panel": "MATTHEW_20_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.011,
+        0.2551,
+        0.2427,
+        0.0576
+      ],
+      "tail": [
+        0.1324,
+        0.3447
+      ],
+      "text_key": "matthew.20.p10.b2"
+    },
+    {
+      "id": "MATTHEW_20_P010_B003",
+      "panel": "MATTHEW_20_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7978,
+        0.2551,
+        0.1933,
+        0.064
+      ],
+      "tail": [
+        0.8945,
+        0.3511
+      ],
+      "text_key": "matthew.20.p10.b3"
+    },
+    {
+      "id": "MATTHEW_20_P010_B004",
+      "panel": "MATTHEW_20_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5814,
+        0.44,
+        0.0768
+      ],
+      "tail": [
+        0.24,
+        0.7009
+      ],
+      "text_key": "matthew.20.p10.b4"
+    }
+  ]
+}

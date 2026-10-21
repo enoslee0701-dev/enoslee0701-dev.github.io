@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_18_P010",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 10,
+  "ref": "18:23-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2624
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P010_F2",
+      "box": [
+        0,
+        0.2676,
+        0.4951,
+        0.3424
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P010_F3",
+      "box": [
+        0.5029,
+        0.2676,
+        0.4971,
+        0.3424
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P010_F4",
+      "box": [
+        0,
+        0.6159,
+        1,
+        0.3841
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P010_B001",
+      "panel": "MATTHEW_18_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.0079,
+        0.42,
+        0.0367
+      ],
+      "tail": [
+        0.76,
+        0.0708
+      ],
+      "text_key": "matthew.18.p10.b1"
+    },
+    {
+      "id": "MATTHEW_18_P010_B002",
+      "panel": "MATTHEW_18_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0149,
+        0.5415,
+        0.2475,
+        0.0582
+      ],
+      "tail": [
+        0.1387,
+        0.61
+      ],
+      "text_key": "matthew.18.p10.b2"
+    },
+    {
+      "id": "MATTHEW_18_P010_B003",
+      "panel": "MATTHEW_18_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8111,
+        0.2744,
+        0.1789,
+        0.0684
+      ],
+      "tail": [
+        0.9006,
+        0.377
+      ],
+      "text_key": "matthew.18.p10.b3"
+    },
+    {
+      "id": "MATTHEW_18_P010_B004",
+      "panel": "MATTHEW_18_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.55,
+        0.6313,
+        0.42,
+        0.0614
+      ],
+      "tail": [
+        0.76,
+        0.7311
+      ],
+      "text_key": "matthew.18.p10.b4"
+    }
+  ]
+}

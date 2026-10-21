@@ -1,0 +1,103 @@
+{
+  "id": "MARK_02_P013",
+  "book": "mark",
+  "chapter": 2,
+  "page": 13,
+  "ref": "2:27-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_02_P013",
+    "ratio": "2:3",
+    "master_version": 3
+  },
+  "panels": [
+    {
+      "id": "MARK_02_P013_F1",
+      "box": [
+        0,
+        0,
+        0.68,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "耶稣把门徒护在身后，说：安息日是为人设立的，人不是为安息日设立的。"
+      }
+    },
+    {
+      "id": "MARK_02_P013_F2",
+      "box": [
+        0.686,
+        0,
+        0.314,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "西门摊开手，掌心里是几穗麦子。"
+      }
+    },
+    {
+      "id": "MARK_02_P013_F3",
+      "box": [
+        0,
+        0.325,
+        1,
+        0.42
+      ],
+      "alt": {
+        "zh-CN": "风吹过麦田，耶稣说：所以，人子也是安息日的主。"
+      }
+    },
+    {
+      "id": "MARK_02_P013_F4",
+      "box": [
+        0,
+        0.749,
+        1,
+        0.251
+      ],
+      "alt": {
+        "zh-CN": "耶稣和门徒继续上路，法利赛人站在田埂上目送他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_02_P013_B001",
+      "panel": "MARK_02_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0,
+        0.178,
+        0.351,
+        0.143
+      ],
+      "tail": [
+        0.42,
+        0.21
+      ],
+      "text_key": "mark.2.p13.b1"
+    },
+    {
+      "id": "MARK_02_P013_B002",
+      "panel": "MARK_02_P013_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0,
+        0.329,
+        0.395,
+        0.122
+      ],
+      "tail": [
+        0.41,
+        0.43
+      ],
+      "text_key": "mark.2.p13.b2"
+    }
+  ]
+}

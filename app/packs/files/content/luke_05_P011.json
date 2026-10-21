@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_05_P011",
+  "book": "luke",
+  "chapter": 5,
+  "page": 11,
+  "ref": "5:27-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "这事以后，耶稣出去，看见一个税吏，名叫利未，坐在税关上，"
+      }
+    },
+    {
+      "id": "LUKE_05_P011_F2",
+      "box": [
+        0,
+        0.2819,
+        0.6289,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "就对他说：“你跟从我来。”"
+      }
+    },
+    {
+      "id": "LUKE_05_P011_F3",
+      "box": [
+        0.6357,
+        0.2819,
+        0.3643,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "（利未抬起头来。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P011_F4",
+      "box": [
+        0,
+        0.5397,
+        1,
+        0.4603
+      ],
+      "alt": {
+        "zh-CN": "他就撇下一切，起来，跟从了耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P011_B001",
+      "panel": "LUKE_05_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.6,
+        0.0084,
+        0.38,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "luke.5.p11.b1"
+    },
+    {
+      "id": "LUKE_05_P011_B002",
+      "panel": "LUKE_05_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3396,
+        0.2921,
+        0.176,
+        0.0355
+      ],
+      "tail": [
+        0.4276,
+        0.353
+      ],
+      "text_key": "luke.5.p11.b2"
+    },
+    {
+      "id": "LUKE_05_P011_B003",
+      "panel": "LUKE_05_P011_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.5535,
+        0.42,
+        0.0644
+      ],
+      "tail": null,
+      "text_key": "luke.5.p11.b3"
+    }
+  ]
+}

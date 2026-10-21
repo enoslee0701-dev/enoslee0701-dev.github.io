@@ -1,0 +1,115 @@
+{
+  "id": "MARK_11_P011",
+  "book": "mark",
+  "chapter": 11,
+  "page": 11,
+  "ref": "11:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_11_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_11_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.202
+      ],
+      "alt": {
+        "zh-CN": "耶稣回答说：「你们要信神。"
+      }
+    },
+    {
+      "id": "MARK_11_P011_F2",
+      "box": [
+        0,
+        0.206,
+        1,
+        0.208
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，无论谁对这座山说：『你离开这里，投到海里去！』"
+      }
+    },
+    {
+      "id": "MARK_11_P011_F3",
+      "box": [
+        0,
+        0.417,
+        1,
+        0.583
+      ],
+      "alt": {
+        "zh-CN": "只要他心里不疑惑，相信他所说的一定会成就，就必为他成就。"
+      }
+    },
+    {
+      "id": "MARK_11_P011_F4",
+      "box": [
+        0.593,
+        0.773,
+        0.407,
+        0.227
+      ],
+      "alt": {
+        "zh-CN": "（彼得和多马把这话放在心里。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_11_P011_B001",
+      "panel": "MARK_11_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.135,
+        0.36,
+        0.068
+      ],
+      "tail": [
+        0.28,
+        0.08
+      ],
+      "text_key": "mark.11.p11.b1"
+    },
+    {
+      "id": "MARK_11_P011_B002",
+      "panel": "MARK_11_P011_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.555,
+        0.423,
+        0.44,
+        0.181
+      ],
+      "tail": null,
+      "text_key": "mark.11.p11.b2"
+    },
+    {
+      "id": "MARK_11_P011_B003",
+      "panel": "MARK_11_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0,
+        0.895,
+        0.58,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.11.p11.b3"
+    }
+  ]
+}

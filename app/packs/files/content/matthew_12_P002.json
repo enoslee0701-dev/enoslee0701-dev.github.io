@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_12_P002",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 2,
+  "ref": "12:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：「大卫和跟随他的人饿了的时候所做的事，你们没有读过吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P002_F2",
+      "box": [
+        0,
+        0.2253,
+        0.708,
+        0.4759
+      ],
+      "alt": {
+        "zh-CN": "他怎样进了神的殿，吃了供在神面前的饼，"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P002_F3",
+      "box": [
+        0.7158,
+        0.2253,
+        0.2842,
+        0.4759
+      ],
+      "alt": {
+        "zh-CN": "这饼本来不是他和跟随他的人可以吃的，只有祭司才可以吃。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P002_F4",
+      "box": [
+        0,
+        0.7057,
+        1,
+        0.2943
+      ],
+      "alt": {
+        "zh-CN": "还有，律法上写着，安息日祭司在圣殿里做工，虽然违反了安息日，却没有罪，你们没有读过吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P002_B001",
+      "panel": "MATTHEW_12_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.445,
+        0.004,
+        0.33,
+        0.1284
+      ],
+      "tail": [
+        0.6,
+        0.1549
+      ],
+      "text_key": "matthew.12.p2.b1"
+    },
+    {
+      "id": "MATTHEW_12_P002_B002",
+      "panel": "MATTHEW_12_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3682,
+        0.2348,
+        0.3256,
+        0.0761
+      ],
+      "tail": [
+        0.531,
+        0.3585
+      ],
+      "text_key": "matthew.12.p2.b2"
+    },
+    {
+      "id": "MATTHEW_12_P002_B003",
+      "panel": "MATTHEW_12_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7272,
+        0.5584,
+        0.2614,
+        0.1332
+      ],
+      "tail": [
+        0.8579,
+        0.7012
+      ],
+      "text_key": "matthew.12.p2.b3"
+    },
+    {
+      "id": "MATTHEW_12_P002_B004",
+      "panel": "MATTHEW_12_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.24,
+        0.8587,
+        0.4,
+        0.1118
+      ],
+      "tail": [
+        0.44,
+        0.9999
+      ],
+      "text_key": "matthew.12.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_13_P001",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 1,
+  "ref": "13:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "那一天，耶稣从房子里出来，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P001_F2",
+      "box": [
+        0,
+        0.2292,
+        0.2461,
+        0.569
+      ],
+      "alt": {
+        "zh-CN": "坐在湖边。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P001_F3",
+      "box": [
+        0.252,
+        0.2292,
+        0.748,
+        0.569
+      ],
+      "alt": {
+        "zh-CN": "有许多人到他那里聚集，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P001_F4",
+      "box": [
+        0,
+        0.8027,
+        1,
+        0.1973
+      ],
+      "alt": {
+        "zh-CN": "他只好上船坐下，众人都站在岸上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P001_B001",
+      "panel": "MATTHEW_13_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0113,
+        0.3,
+        0.0901
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p1.b1"
+    },
+    {
+      "id": "MATTHEW_13_P001_B002",
+      "panel": "MATTHEW_13_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0738,
+        0.252,
+        0.1624,
+        0.1024
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p1.b2"
+    },
+    {
+      "id": "MATTHEW_13_P001_B003",
+      "panel": "MATTHEW_13_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6634,
+        0.2406,
+        0.3216,
+        0.0625
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p1.b3"
+    },
+    {
+      "id": "MATTHEW_13_P001_B004",
+      "panel": "MATTHEW_13_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.8106,
+        0.42,
+        0.0434
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p1.b4"
+    }
+  ]
+}

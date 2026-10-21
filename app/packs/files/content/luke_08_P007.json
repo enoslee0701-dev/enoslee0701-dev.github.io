@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_08_P007",
+  "book": "luke",
+  "chapter": 8,
+  "page": 7,
+  "ref": "8:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_08_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_08_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "耶稣的母亲和他的弟弟们来了，因为人多，不能到他跟前。"
+      }
+    },
+    {
+      "id": "LUKE_08_P007_F2",
+      "box": [
+        0,
+        0.2656,
+        0.3975,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "有人告诉他：“你母亲和你弟弟们站在外面，想要见你。”"
+      }
+    },
+    {
+      "id": "LUKE_08_P007_F3",
+      "box": [
+        0.4033,
+        0.2656,
+        0.5967,
+        0.7344
+      ],
+      "alt": {
+        "zh-CN": "耶稣回答说：“听了神的道而遵行的人，就是我的母亲、我的弟兄了。”"
+      }
+    },
+    {
+      "id": "LUKE_08_P007_F4",
+      "box": [
+        0,
+        0.6029,
+        0.3975,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "（门外，马利亚听见了，安静地点头。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_08_P007_B001",
+      "panel": "LUKE_08_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0079,
+        0.46,
+        0.0523
+      ],
+      "tail": null,
+      "text_key": "luke.8.p7.b1"
+    },
+    {
+      "id": "LUKE_08_P007_B002",
+      "panel": "LUKE_08_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.167,
+        0.2723,
+        0.2186,
+        0.0666
+      ],
+      "tail": [
+        0.2763,
+        0.3722
+      ],
+      "text_key": "luke.8.p7.b2"
+    },
+    {
+      "id": "LUKE_08_P007_B003",
+      "panel": "LUKE_08_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4212,
+        0.2803,
+        0.5608,
+        0.0734
+      ],
+      "tail": [
+        0.7016,
+        0.4271
+      ],
+      "text_key": "luke.8.p7.b3"
+    }
+  ]
+}

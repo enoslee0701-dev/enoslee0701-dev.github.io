@@ -1,0 +1,151 @@
+{
+  "id": "MARK_11_P015",
+  "book": "mark",
+  "chapter": 11,
+  "page": 15,
+  "ref": "11:31-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_11_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_11_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.204
+      ],
+      "alt": {
+        "zh-CN": "他们彼此商量说：「我们如果说『从天上来的』，"
+      }
+    },
+    {
+      "id": "MARK_11_P015_F2",
+      "box": [
+        0,
+        0.208,
+        0.437,
+        0.238
+      ],
+      "alt": {
+        "zh-CN": "他一定会说：『那你们为什么不信他呢？』"
+      }
+    },
+    {
+      "id": "MARK_11_P015_F3",
+      "box": [
+        0.444,
+        0.208,
+        0.556,
+        0.238
+      ],
+      "alt": {
+        "zh-CN": "如果说『从人间来的』，又怕百姓，"
+      }
+    },
+    {
+      "id": "MARK_11_P015_F4",
+      "box": [
+        0,
+        0.449,
+        1,
+        0.551
+      ],
+      "alt": {
+        "zh-CN": "因为众人都认定约翰是先知。」"
+      }
+    },
+    {
+      "id": "MARK_11_P015_F5",
+      "box": [
+        0.664,
+        0.715,
+        0.308,
+        0.262
+      ],
+      "alt": {
+        "zh-CN": "（年轻的文士攥紧了书卷。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_11_P015_B001",
+      "panel": "MARK_11_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.21,
+        0.003,
+        0.36,
+        0.104
+      ],
+      "tail": [
+        0.6,
+        0.1
+      ],
+      "text_key": "mark.11.p15.b1"
+    },
+    {
+      "id": "MARK_11_P015_B002",
+      "panel": "MARK_11_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.14,
+        0.381,
+        0.86,
+        0.066
+      ],
+      "tail": [
+        0.2,
+        0.36
+      ],
+      "text_key": "mark.11.p15.b2"
+    },
+    {
+      "id": "MARK_11_P015_B003",
+      "panel": "MARK_11_P015_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.52,
+        0.455,
+        0.45,
+        0.104
+      ],
+      "tail": [
+        0.47,
+        0.68
+      ],
+      "text_key": "mark.11.p15.b3"
+    },
+    {
+      "id": "MARK_11_P015_B004",
+      "panel": "MARK_11_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.08,
+        0.895,
+        0.45,
+        0.104
+      ],
+      "tail": [
+        0.4,
+        0.84
+      ],
+      "text_key": "mark.11.p15.b4"
+    }
+  ]
+}

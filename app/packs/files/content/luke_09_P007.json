@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_09_P007",
+  "book": "luke",
+  "chapter": 9,
+  "page": 7,
+  "ref": "9:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3893
+      ],
+      "alt": {
+        "zh-CN": "耶稣拿着这五个饼、两条鱼，望着天祝福，"
+      }
+    },
+    {
+      "id": "LUKE_09_P007_F2",
+      "box": [
+        0,
+        0.3932,
+        0.4551,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "擘开，递给门徒，摆在众人面前。"
+      }
+    },
+    {
+      "id": "LUKE_09_P007_F3",
+      "box": [
+        0.4629,
+        0.3932,
+        0.5371,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "他们都吃，并且都吃饱了；"
+      }
+    },
+    {
+      "id": "LUKE_09_P007_F4",
+      "box": [
+        0,
+        0.6999,
+        1,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "把剩下的碎块收拾起来，装满了十二个篮子。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P007_B001",
+      "panel": "LUKE_09_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0117,
+        0.42,
+        0.0622
+      ],
+      "tail": null,
+      "text_key": "luke.9.p7.b1"
+    },
+    {
+      "id": "LUKE_09_P007_B002",
+      "panel": "LUKE_09_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0182,
+        0.4023,
+        0.4186,
+        0.0393
+      ],
+      "tail": null,
+      "text_key": "luke.9.p7.b2"
+    },
+    {
+      "id": "LUKE_09_P007_B003",
+      "panel": "LUKE_09_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7314,
+        0.4023,
+        0.2524,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "luke.9.p7.b3"
+    },
+    {
+      "id": "LUKE_09_P007_B004",
+      "panel": "LUKE_09_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.7089,
+        0.5,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "luke.9.p7.b4"
+    }
+  ]
+}

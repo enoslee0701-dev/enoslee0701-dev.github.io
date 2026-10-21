@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_11_P006",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 6,
+  "ref": "11:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "我可以用什么来比喻这个世代呢？就好像孩子们坐在市场上呼唤同伴，说："
+      }
+    },
+    {
+      "id": "MATTHEW_11_P006_F2",
+      "box": [
+        0,
+        0.2311,
+        1,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "『我们为你们吹笛，你们不跳舞；"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P006_F3",
+      "box": [
+        0,
+        0.6289,
+        0.6377,
+        0.3711
+      ],
+      "alt": {
+        "zh-CN": "我们为你们唱哀歌，你们不捶胸。』"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P006_F4",
+      "box": [
+        0.6445,
+        0.6289,
+        0.3555,
+        0.3711
+      ],
+      "alt": {
+        "zh-CN": "（他看着孩子们，笑里带着一点难过。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P006_B001",
+      "panel": "MATTHEW_11_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0023,
+        0.56,
+        0.0388
+      ],
+      "tail": [
+        0.58,
+        0.064
+      ],
+      "text_key": "matthew.11.p6.b1"
+    },
+    {
+      "id": "MATTHEW_11_P006_B002",
+      "panel": "MATTHEW_11_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.239,
+        0.46,
+        0.0553
+      ],
+      "tail": [
+        0.75,
+        0.3338
+      ],
+      "text_key": "matthew.11.p6.b2"
+    },
+    {
+      "id": "MATTHEW_11_P006_B003",
+      "panel": "MATTHEW_11_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0128,
+        0.6363,
+        0.3188,
+        0.0519
+      ],
+      "tail": [
+        0.1722,
+        0.7253
+      ],
+      "text_key": "matthew.11.p6.b3"
+    }
+  ]
+}

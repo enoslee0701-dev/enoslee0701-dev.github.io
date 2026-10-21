@@ -1,0 +1,118 @@
+{
+  "id": "MATTHEW_28_P004",
+  "book": "matthew",
+  "chapter": 28,
+  "page": 4,
+  "ref": "28:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_28_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_28_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2135
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P004_F2",
+      "box": [
+        0,
+        0.2168,
+        0.4785,
+        0.2975
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P004_F3",
+      "box": [
+        0.4863,
+        0.2168,
+        0.5137,
+        0.2975
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P004_F4",
+      "box": [
+        0,
+        0.5182,
+        1,
+        0.4818
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_28_P004_B001",
+      "panel": "MATTHEW_28_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0064,
+        0.92,
+        0.0384
+      ],
+      "tail": null,
+      "text_key": "matthew.28.p4.b1"
+    },
+    {
+      "id": "MATTHEW_28_P004_B002",
+      "panel": "MATTHEW_28_P004_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7329,
+        0.2257,
+        0.2465,
+        0.0416
+      ],
+      "tail": null,
+      "text_key": "matthew.28.p4.b2"
+    },
+    {
+      "id": "MATTHEW_28_P004_B003",
+      "panel": "MATTHEW_28_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.6404,
+        0.2257,
+        0.077,
+        0.0535
+      ],
+      "tail": [
+        0.6789,
+        0.309
+      ],
+      "text_key": "matthew.28.p4.b3"
+    },
+    {
+      "id": "MATTHEW_28_P004_B004",
+      "panel": "MATTHEW_28_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.76,
+        0.5278,
+        0.23,
+        0.077
+      ],
+      "tail": null,
+      "text_key": "matthew.28.p4.b4"
+    }
+  ]
+}

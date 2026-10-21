@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_02_P002",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "希律王听了，心里很不安；"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P002_F2",
+      "box": [
+        0,
+        0.2624,
+        0.3799,
+        0.2715
+      ],
+      "alt": {
+        "zh-CN": "（希律紧紧攥着手杖。）"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P002_F3",
+      "box": [
+        0.3867,
+        0.2624,
+        0.6133,
+        0.2715
+      ],
+      "alt": {
+        "zh-CN": "整个耶路撒冷城的人也都不安。"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P002_F4",
+      "box": [
+        0,
+        0.5378,
+        1,
+        0.4622
+      ],
+      "alt": {
+        "zh-CN": "希律召集了所有的祭司长和民间的经学家，问他们：「基督应当生在哪里？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P002_B001",
+      "panel": "MATTHEW_02_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0078,
+        0.4,
+        0.0465
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p2.b1"
+    },
+    {
+      "id": "MATTHEW_02_P002_B002",
+      "panel": "MATTHEW_02_P002_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.399,
+        0.2678,
+        0.3679,
+        0.038
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p2.b2"
+    },
+    {
+      "id": "MATTHEW_02_P002_B003",
+      "panel": "MATTHEW_02_P002_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.547,
+        0.38,
+        0.0647
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p2.b3"
+    },
+    {
+      "id": "MATTHEW_02_P002_B004",
+      "panel": "MATTHEW_02_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.865,
+        0.5433,
+        0.125,
+        0.0924
+      ],
+      "tail": [
+        0.9275,
+        0.6819
+      ],
+      "text_key": "matthew.2.p2.b4"
+    }
+  ]
+}

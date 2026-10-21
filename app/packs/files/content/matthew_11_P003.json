@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_11_P003",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 3,
+  "ref": "11:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "他们离开的时候，耶稣就对众人谈论约翰，说："
+      }
+    },
+    {
+      "id": "MATTHEW_11_P003_F2",
+      "box": [
+        0.0068,
+        0.2721,
+        0.4727,
+        0.3932
+      ],
+      "alt": {
+        "zh-CN": "你们以前到旷野去，是要看什么呢？要看被风吹动的芦苇吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P003_F3",
+      "box": [
+        0.4883,
+        0.2721,
+        0.5117,
+        0.7279
+      ],
+      "alt": {
+        "zh-CN": "你们出去到底是要看什么？要看穿着华丽衣服的人吗？穿华丽衣服的人是在王宫里。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P003_F4",
+      "box": [
+        0,
+        0.6706,
+        0.4785,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "你们出去究竟是为了看什么？看先知吗？我告诉你们，是的，他比先知还要大。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P003_B001",
+      "panel": "MATTHEW_11_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0054,
+        0.4,
+        0.0375
+      ],
+      "tail": null,
+      "text_key": "matthew.11.p3.b1"
+    },
+    {
+      "id": "MATTHEW_11_P003_B002",
+      "panel": "MATTHEW_11_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2526,
+        0.28,
+        0.2127,
+        0.0393
+      ],
+      "tail": [
+        0.359,
+        0.3586
+      ],
+      "text_key": "matthew.11.p3.b2"
+    },
+    {
+      "id": "MATTHEW_11_P003_B003",
+      "panel": "MATTHEW_11_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5088,
+        0.4977,
+        0.4707,
+        0.0727
+      ],
+      "tail": [
+        0.7442,
+        0.6432
+      ],
+      "text_key": "matthew.11.p3.b3"
+    },
+    {
+      "id": "MATTHEW_11_P003_B004",
+      "panel": "MATTHEW_11_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2536,
+        0.6772,
+        0.2105,
+        0.0724
+      ],
+      "tail": [
+        0.3589,
+        0.7825
+      ],
+      "text_key": "matthew.11.p3.b4"
+    }
+  ]
+}

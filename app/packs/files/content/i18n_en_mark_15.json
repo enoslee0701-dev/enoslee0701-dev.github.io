@@ -1,0 +1,622 @@
+{
+  "mark.15.p1.b1": {
+    "text": "Early in the morning,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p1.b2": {
+    "text": "The chief priests, elders, scribes, and the whole Sanhedrin devised a plan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p1.b3": {
+    "text": "They bound Jesus, led Him away, and handed Him over to Pilate.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p2.b1": {
+    "text": "Are You the King of the Jews?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p2.b2": {
+    "text": "You have said so,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p2.b3": {
+    "text": "Have You no answer? Look how many charges they are bringing against You!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p2.b4": {
+    "text": "But to Pilate’s amazement, Jesus made no further reply.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p3.b1": {
+    "text": "Now it was Pilate’s custom at the feast to release to the people a prisoner of their choosing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p3.b2": {
+    "text": "And a man named Barabbas was imprisoned with the rebels who had committed murder during the insurrection.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p3.b3": {
+    "text": "Do you want me to release to you the King of the Jews?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p4.b1": {
+    "text": "What then do you want me to do with the One you call the King of the Jews?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p4.b2": {
+    "text": "Crucify Him!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p4.b3": {
+    "text": "Why? … What evil has He done?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p4.b4": {
+    "text": "Crucify Him!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p5.b1": {
+    "text": "And wishing to satisfy the crowd,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p5.b2": {
+    "text": "Pilate released Barabbas to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p5.b3": {
+    "text": "But he had Jesus flogged,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p5.b4": {
+    "text": "And handed Him over to be crucified.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p6.b1": {
+    "text": "Then the soldiers led Jesus away into the palace (that is, the Praetorium) and called the whole company together.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p6.b2": {
+    "text": "Twisted together a crown of thorns, and set it on His head.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p6.b3": {
+    "text": "Hail, King of the Jews!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p6.b4": {
+    "text": "They kept striking His head with a staff and spitting on Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p7.b1": {
+    "text": "After they had mocked Him, they removed the purple robe and put His own clothes back on Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p7.b2": {
+    "text": "Then they led Him out to crucify Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p7.b3": {
+    "text": "Now Simon of Cyrene, … was passing by on his way in from the country,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p7.b4": {
+    "text": "And the soldiers forced him to carry the cross of Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p8.b1": {
+    "text": "They brought Jesus to a place called Golgotha, which means The Place of the Skull.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p8.b2": {
+    "text": "There they offered Him wine mixed with myrrh, but He did not take it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p8.b3": {
+    "text": "And they crucified Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p8.b4": {
+    "text": "They also divided His garments by casting lots to decide what each of them would take.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p9.b1": {
+    "text": "It was the third hour when they crucified Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p9.b2": {
+    "text": "And the charge inscribed against Him read: THE KING OF THE JEWS.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p9.b3": {
+    "text": "Along with Jesus, they crucified two robbers, one on His right and one on His left.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p10.b1": {
+    "text": "Aha! You who are going to destroy the temple and rebuild it in three days, come down from the cross and save Yourself!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p10.b2": {
+    "text": "He saved others, but He cannot save Himself!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p10.b3": {
+    "text": "Let the Christ, the King of Israel, come down now from the cross, so that we may see and believe!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p10.b4": {
+    "text": "And even those who were crucified with Him berated Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p11.b1": {
+    "text": "From the sixth hour until the ninth hour darkness came over all the land.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p11.b2": {
+    "text": "At the ninth hour,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p11.b3": {
+    "text": "Eloi, Eloi, lema sabachthani?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p11.b4": {
+    "text": "Which means, My God, My God, why have You forsaken Me?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p12.b1": {
+    "text": "Behold, He is calling Elijah.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p12.b2": {
+    "text": "Let us see if Elijah comes to take Him down.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p12.b3": {
+    "text": "But Jesus let out a loud cry",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p12.b4": {
+    "text": "And breathed His last.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p13.b1": {
+    "text": "And the veil of the temple was torn in two from top to bottom.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p13.b2": {
+    "text": "When the centurion standing there in front of Jesus saw how He had breathed His last,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p13.b3": {
+    "text": "Truly this man was the Son of God!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p14.b1": {
+    "text": "And there were also women watching from a distance.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p14.b2": {
+    "text": "Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p14.b3": {
+    "text": "These women had followed Jesus and ministered to Him while He was in Galilee,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p14.b4": {
+    "text": "And there were many other women who had come up to Jerusalem with Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p15.b1": {
+    "text": "Now it was already evening. Since it was Preparation Day (that is, the day before the Sabbath),",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p15.b2": {
+    "text": "Joseph of Arimathea, a prominent Council member who himself was waiting for the kingdom of God,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p15.b3": {
+    "text": "Boldly went to Pilate to ask for the body of Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p15.b4": {
+    "text": "Pilate was surprised to hear that Jesus was already dead, so he summoned the centurion",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p16.b1": {
+    "text": "So Joseph bought a linen cloth,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p16.b2": {
+    "text": "Took down the body of Jesus,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p16.b3": {
+    "text": "Wrapped it in the cloth,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p16.b4": {
+    "text": "Then he rolled a stone against the entrance to the tomb.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p17.b1": {
+    "text": "Mary Magdalene and Mary the mother of Joseph",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.15.p17.b2": {
+    "text": "Saw where His body was placed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 15:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

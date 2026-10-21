@@ -1,0 +1,783 @@
+{
+  "mark.5.p1.b1": {
+    "text": "他们来到海那边格拉森人的地方。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们来⁠到海那⁠边格⁠拉⁠森人⁠的地⁠方。"
+  },
+  "mark.5.p1.b2": {
+    "text": "耶稣一下船，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣一⁠下船，"
+  },
+  "mark.5.p1.b3": {
+    "text": "就有一个被污鬼附着的人从坟茔里出来迎着他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠有一⁠个被污⁠鬼附⁠着的人从坟⁠茔里出⁠来迎着他。"
+  },
+  "mark.5.p2.b1": {
+    "text": "那人常住在坟茔里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那人常⁠住在坟⁠茔里，"
+  },
+  "mark.5.p2.b2": {
+    "text": "没有人能捆住他，就是用铁链也不能；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "没⁠有人能捆⁠住他，就⁠是用铁⁠链也⁠不⁠能；"
+  },
+  "mark.5.p2.b3": {
+    "text": "因为人屡次用脚镣和铁链捆锁他，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为人屡⁠次用脚⁠镣和铁⁠链捆锁他，"
+  },
+  "mark.5.p2.b4": {
+    "text": "铁链竟被他挣断了，脚镣也被他弄碎了；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "铁⁠链竟⁠被他挣断了，脚⁠镣也被他弄碎了；"
+  },
+  "mark.5.p2.b5": {
+    "text": "总没有人能制伏他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "总没⁠有人能制⁠伏他。"
+  },
+  "mark.5.p2.b6": {
+    "text": "他昼夜常在坟茔里和山中喊叫，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他昼⁠夜常⁠在坟⁠茔里和山⁠中喊⁠叫，"
+  },
+  "mark.5.p2.b7": {
+    "text": "又用石头砍自己。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又用石⁠头砍自⁠己。"
+  },
+  "mark.5.p3.b1": {
+    "text": "他远远地看见耶稣，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他远⁠远地看⁠见耶⁠稣，"
+  },
+  "mark.5.p3.b2": {
+    "text": "就跑过去拜他，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就跑⁠过⁠去拜他，"
+  },
+  "mark.5.p3.b3": {
+    "text": "大声呼叫说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "大⁠声呼⁠叫说："
+  },
+  "mark.5.p3.b4": {
+    "text": "至高神的儿子耶稣，我与你有什么相干？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "至⁠高神的儿⁠子耶⁠稣，我与你⁠有什⁠么相⁠干？"
+  },
+  "mark.5.p3.b5": {
+    "text": "我指着神恳求你，不要叫我受苦！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我指着神恳⁠求你，不⁠要叫我受⁠苦！"
+  },
+  "mark.5.p3.b6": {
+    "text": "是因耶稣曾吩咐他说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "是因耶⁠稣曾吩⁠咐他说："
+  },
+  "mark.5.p3.b7": {
+    "text": "污鬼啊，从这人身上出来吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "污⁠鬼啊，从这人身⁠上出⁠来吧！"
+  },
+  "mark.5.p4.b1": {
+    "text": "你名叫什么？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你名⁠叫什⁠么？"
+  },
+  "mark.5.p4.b2": {
+    "text": "我名叫『群』，因为我们多的缘故；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我名⁠叫『群』，因⁠为我⁠们多的缘⁠故；"
+  },
+  "mark.5.p4.b3": {
+    "text": "就再三地求耶稣，不要叫他们离开那地方。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就再⁠三地求耶⁠稣，不⁠要叫他⁠们离⁠开那地⁠方。"
+  },
+  "mark.5.p5.b1": {
+    "text": "求你打发我们往猪群里，附着猪去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "求你打⁠发我⁠们往猪群里，附⁠着猪⁠去。"
+  },
+  "mark.5.p5.b2": {
+    "text": "耶稣准了他们，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣准了他⁠们，"
+  },
+  "mark.5.p5.b3": {
+    "text": "于是那群猪闯下山崖，投在海里，淹死了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是那⁠群猪闯⁠下山⁠崖，投在海⁠里，淹⁠死了。"
+  },
+  "mark.5.p5.b4": {
+    "text": "猪的数目约有二千。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "猪的数⁠目约有二⁠千。"
+  },
+  "mark.5.p6.b1": {
+    "text": "众人就来，要看是什么事。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众⁠人就来，要看是什⁠么事。"
+  },
+  "mark.5.p6.b2": {
+    "text": "他们来到耶稣那里，看见那被鬼附着的人，……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们来⁠到耶⁠稣那⁠里，看⁠见那被鬼附⁠着的人，……"
+  },
+  "mark.5.p6.b3": {
+    "text": "坐着，穿上衣服，心里明白过来，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "坐着，穿⁠上衣⁠服，心⁠里明⁠白过⁠来，"
+  },
+  "mark.5.p6.b4": {
+    "text": "他们就害怕。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就害⁠怕。"
+  },
+  "mark.5.p7.b1": {
+    "text": "看见这事的，便将鬼附之人所遇见的",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看⁠见这事的，便将鬼附之人所遇⁠见的"
+  },
+  "mark.5.p7.b2": {
+    "text": "和那群猪的事都告诉了众人；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "和那⁠群猪的事都告⁠诉了众⁠人；"
+  },
+  "mark.5.p7.b3": {
+    "text": "众人就央求耶稣离开他们的境界。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众⁠人就央⁠求耶⁠稣离⁠开他⁠们的境⁠界。"
+  },
+  "mark.5.p8.b1": {
+    "text": "那从前被鬼附着的人恳求和耶稣同在。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那从⁠前被鬼附⁠着的人恳⁠求和耶⁠稣同在。"
+  },
+  "mark.5.p8.b2": {
+    "text": "你回家去，到你的亲属那里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你回⁠家去，到你⁠的亲⁠属那⁠里，"
+  },
+  "mark.5.p8.b3": {
+    "text": "将主为你所做的是何等大的事，是怎样怜悯你，都告诉他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "将主为你所做⁠的是何⁠等大的事，是怎⁠样怜⁠悯你，都告⁠诉他⁠们。"
+  },
+  "mark.5.p8.b4": {
+    "text": "在低加坡里传扬耶稣为他做了何等大的事，众人就都希奇。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在低加坡里传⁠扬耶⁠稣为他做⁠了何⁠等大的事，众⁠人就都希⁠奇。"
+  },
+  "mark.5.p9.b1": {
+    "text": "耶稣坐船又渡到那边去，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣坐⁠船又渡到那⁠边去，"
+  },
+  "mark.5.p9.b2": {
+    "text": "有一个管会堂的人，名叫睚鲁，来见耶稣，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个管会⁠堂的人，名⁠叫睚⁠鲁，来⁠见耶⁠稣，"
+  },
+  "mark.5.p9.b3": {
+    "text": "我的小女儿快要死了，求你去按手在她身上，使她痊愈，得以活了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠的小女⁠儿快⁠要死⁠了，求你去按手在她身⁠上，使她痊愈，得⁠以活⁠了。"
+  },
+  "mark.5.p9.b4": {
+    "text": "耶稣就和他同去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣就和他同⁠去。"
+  },
+  "mark.5.p10.b1": {
+    "text": "有一个女人，患了十二年的血漏，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个女⁠人，患了十⁠二年的血漏，"
+  },
+  "mark.5.p10.b2": {
+    "text": "在好些医生手里受了许多的苦，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在好⁠些医⁠生手⁠里受了许⁠多的苦，"
+  },
+  "mark.5.p10.b3": {
+    "text": "又花尽了她所有的，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又花尽了她所⁠有的，"
+  },
+  "mark.5.p10.b4": {
+    "text": "一点也不见好，病势反倒更重了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "一⁠点也不⁠见好，病⁠势反⁠倒更⁠重了。"
+  },
+  "mark.5.p11.b1": {
+    "text": "她听见耶稣的事，就从后头来，杂在众人中间，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "她听⁠见耶⁠稣的事，就从后⁠头来，杂在众⁠人中⁠间，"
+  },
+  "mark.5.p11.b2": {
+    "text": "我只摸他的衣裳，就必痊愈。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠只摸他⁠的衣⁠裳，就必痊愈。"
+  },
+  "mark.5.p11.b3": {
+    "text": "于是她血漏的源头立刻干了；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是她血漏的源⁠头立⁠刻干了；"
+  },
+  "mark.5.p11.b4": {
+    "text": "她便觉得身上的灾病好了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "她便觉⁠得身⁠上的灾病好⁠了。"
+  },
+  "mark.5.p12.b1": {
+    "text": "耶稣顿时心里觉得有能力从自己身上出去，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣顿⁠时心⁠里觉⁠得有能⁠力从自⁠己身⁠上出⁠去，"
+  },
+  "mark.5.p12.b2": {
+    "text": "谁摸我的衣裳？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "谁摸我⁠的衣⁠裳？"
+  },
+  "mark.5.p12.b3": {
+    "text": "你看众人拥挤你，还说『谁摸我』吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你看众⁠人拥⁠挤你，还⁠说『谁摸我』吗？"
+  },
+  "mark.5.p12.b4": {
+    "text": "耶稣周围观看，要见做这事的女人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣周⁠围观⁠看，要见做这事的女⁠人。"
+  },
+  "mark.5.p13.b1": {
+    "text": "那女人知道在自己身上所成的事，就恐惧战兢，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那女⁠人知⁠道在自⁠己身⁠上所成的事，就恐⁠惧战⁠兢，"
+  },
+  "mark.5.p13.b2": {
+    "text": "将实情全告诉他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "将实情全告⁠诉他。"
+  },
+  "mark.5.p13.b3": {
+    "text": "女儿，你的信救了你，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "女⁠儿，你⁠的信救了你，"
+  },
+  "mark.5.p13.b4": {
+    "text": "平平安安地回去吧！你的灾病痊愈了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "平⁠平安⁠安地回⁠去吧！你⁠的灾病痊愈了。"
+  },
+  "mark.5.p14.b1": {
+    "text": "你的女儿死了，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠的女⁠儿死⁠了，"
+  },
+  "mark.5.p14.b2": {
+    "text": "何必还劳动先生呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "何⁠必还劳⁠动先⁠生呢？"
+  },
+  "mark.5.p14.b3": {
+    "text": "不要怕，只要信！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠要怕，只⁠要信！"
+  },
+  "mark.5.p14.b4": {
+    "text": "于是带着彼得、雅各，和雅各的兄弟约翰同去，不许别人跟随他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是带着彼⁠得、雅⁠各，和雅⁠各的兄⁠弟约⁠翰同⁠去，不⁠许别⁠人跟⁠随他。"
+  },
+  "mark.5.p15.b1": {
+    "text": "他们来到管会堂的家里；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们来⁠到管会⁠堂的家⁠里；"
+  },
+  "mark.5.p15.b2": {
+    "text": "为什么乱嚷哭泣呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "为⁠什⁠么乱嚷哭⁠泣呢？"
+  },
+  "mark.5.p15.b3": {
+    "text": "孩子不是死了，是睡着了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "孩⁠子不⁠是死⁠了，是睡⁠着⁠了。"
+  },
+  "mark.5.p15.b4": {
+    "text": "他们就嗤笑耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就嗤⁠笑耶⁠稣。"
+  },
+  "mark.5.p16.b1": {
+    "text": "耶稣把他们都撵出去，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣把他⁠们都撵⁠出⁠去，"
+  },
+  "mark.5.p16.b2": {
+    "text": "大利大，古米！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "大⁠利大，古⁠米！"
+  },
+  "mark.5.p16.b3": {
+    "text": "（翻出来就是说：「闺女，我吩咐你起来！」）",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "（翻出⁠来就⁠是说：「闺⁠女，我吩⁠咐你起⁠来！」）"
+  },
+  "mark.5.p17.b1": {
+    "text": "那闺女立时起来走。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那闺⁠女立时起⁠来走。"
+  },
+  "mark.5.p17.b2": {
+    "text": "他们就大大地惊奇；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就大大⁠地惊⁠奇；"
+  },
+  "mark.5.p17.b3": {
+    "text": "闺女已经十二岁了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "闺⁠女已⁠经十⁠二⁠岁了。"
+  },
+  "mark.5.p18.b1": {
+    "text": "耶稣切切地嘱咐他们，不要叫人知道这事，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣切⁠切地嘱⁠咐他⁠们，不⁠要叫人知⁠道这事，"
+  },
+  "mark.5.p18.b2": {
+    "text": "又吩咐给她东西吃。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Mark 5:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又吩⁠咐给她东⁠西吃。"
+  }
+}

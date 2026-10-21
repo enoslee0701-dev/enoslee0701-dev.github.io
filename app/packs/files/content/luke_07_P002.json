@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_07_P002",
+  "book": "luke",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "耶稣就和他们一同去。离那家不远，百夫长托几个朋友去见耶稣，对他说："
+      }
+    },
+    {
+      "id": "LUKE_07_P002_F2",
+      "box": [
+        0,
+        0.2845,
+        0.4922,
+        0.2734
+      ]
+    },
+    {
+      "id": "LUKE_07_P002_F3",
+      "box": [
+        0.501,
+        0.2845,
+        0.499,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "“主啊，不要劳驾；因为你到我家里来，我不敢当。"
+      }
+    },
+    {
+      "id": "LUKE_07_P002_F4",
+      "box": [
+        0,
+        0.5618,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "我也认为自己不配去见你，只要你说一句话，我的仆人就会好。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P002_B001",
+      "panel": "LUKE_07_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.68,
+        0.0084,
+        0.3,
+        0.0729
+      ],
+      "tail": null,
+      "text_key": "luke.7.p2.b1"
+    },
+    {
+      "id": "LUKE_07_P002_B002",
+      "panel": "LUKE_07_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7006,
+        0.2927,
+        0.2495,
+        0.0464
+      ],
+      "tail": [
+        0.8254,
+        0.3664
+      ],
+      "text_key": "luke.7.p2.b2"
+    },
+    {
+      "id": "LUKE_07_P002_B003",
+      "panel": "LUKE_07_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.5749,
+        0.38,
+        0.0788
+      ],
+      "tail": [
+        0.79,
+        0.6975
+      ],
+      "text_key": "luke.7.p2.b3"
+    }
+  ]
+}

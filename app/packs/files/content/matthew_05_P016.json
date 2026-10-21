@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_05_P016",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 16,
+  "ref": "5:46-48",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P016_F1",
+      "box": [
+        0,
+        0,
+        0.501,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "你们如果只爱那些爱你们的人，有什么赏赐呢？连税吏不也是这样做吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P016_F2",
+      "box": [
+        0.5088,
+        0,
+        0.4912,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "你们如果只问候自己的弟兄，比别人有什么特别呢？连外邦人不也是这样做吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P016_F3",
+      "box": [
+        0,
+        0.2767,
+        1,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "（现场：四个听众一个个仰起脸，望着他。）"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P016_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "所以你们要完全，像你们的天父完全一样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P016_B001",
+      "panel": "MATTHEW_05_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.015,
+        0.0055,
+        0.4709,
+        0.0328
+      ],
+      "tail": [
+        0.2505,
+        0.0656
+      ],
+      "text_key": "matthew.5.p16.b1"
+    },
+    {
+      "id": "MATTHEW_05_P016_B002",
+      "panel": "MATTHEW_05_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5235,
+        0.0055,
+        0.4617,
+        0.0328
+      ],
+      "tail": [
+        0.7544,
+        0.0656
+      ],
+      "text_key": "matthew.5.p16.b2"
+    },
+    {
+      "id": "MATTHEW_05_P016_B003",
+      "panel": "MATTHEW_05_P016_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.5202,
+        0.5,
+        0.0489
+      ],
+      "tail": [
+        0.73,
+        0.6181
+      ],
+      "text_key": "matthew.5.p16.b3"
+    }
+  ]
+}

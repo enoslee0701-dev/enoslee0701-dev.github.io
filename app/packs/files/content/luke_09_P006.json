@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_09_P006",
+  "book": "luke",
+  "chapter": 9,
+  "page": 6,
+  "ref": "9:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2298
+      ],
+      "alt": {
+        "zh-CN": "那时，人数大约有五千。"
+      }
+    },
+    {
+      "id": "LUKE_09_P006_F2",
+      "box": [
+        0,
+        0.2318,
+        0.498,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "“叫他们一排一排地坐下，每排大约五十人。”"
+      }
+    },
+    {
+      "id": "LUKE_09_P006_F3",
+      "box": [
+        0.502,
+        0.2318,
+        0.498,
+        0.2448
+      ]
+    },
+    {
+      "id": "LUKE_09_P006_F4",
+      "box": [
+        0,
+        0.4792,
+        1,
+        0.5208
+      ],
+      "alt": {
+        "zh-CN": "门徒就照样做，叫众人都坐下。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P006_B001",
+      "panel": "LUKE_09_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0069,
+        0.45,
+        0.0459
+      ],
+      "tail": null,
+      "text_key": "luke.9.p6.b1"
+    },
+    {
+      "id": "LUKE_09_P006_B002",
+      "panel": "LUKE_09_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1743,
+        0.2367,
+        0.3087,
+        0.044
+      ],
+      "tail": [
+        0.3287,
+        0.3052
+      ],
+      "text_key": "luke.9.p6.b2"
+    },
+    {
+      "id": "LUKE_09_P006_B003",
+      "panel": "LUKE_09_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.5,
+        0.37,
+        0.0729
+      ],
+      "tail": null,
+      "text_key": "luke.9.p6.b3"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "LUKE_08_P002",
+  "book": "luke",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "当许多人聚集，又有人从各城里出来到耶稣那里的时候，耶稣就用比喻说："
+      }
+    },
+    {
+      "id": "LUKE_08_P002_F2",
+      "box": [
+        0,
+        0.2813,
+        0.4375,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "“有一个撒种的出去撒种。"
+      }
+    },
+    {
+      "id": "LUKE_08_P002_F3",
+      "box": [
+        0.4463,
+        0.2813,
+        0.5537,
+        0.7187
+      ],
+      "alt": {
+        "zh-CN": "撒的时候，有些落在路旁，被人践踏，天上的飞鸟又来吃光了。"
+      }
+    },
+    {
+      "id": "LUKE_08_P002_F4",
+      "box": [
+        0,
+        0.6882,
+        0.4375,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "有些落在石头地上，一长出来就枯干了，因为得不到水分。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_08_P002_B001",
+      "panel": "LUKE_08_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.011,
+        0.46,
+        0.066
+      ],
+      "tail": null,
+      "text_key": "luke.8.p2.b1"
+    },
+    {
+      "id": "LUKE_08_P002_B002",
+      "panel": "LUKE_08_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.21,
+        0.2934,
+        0.2187,
+        0.0804
+      ],
+      "tail": [
+        0.3194,
+        0.414
+      ],
+      "text_key": "luke.8.p2.b2"
+    },
+    {
+      "id": "LUKE_08_P002_B003",
+      "panel": "LUKE_08_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7508,
+        0.3029,
+        0.2325,
+        0.115
+      ],
+      "tail": null,
+      "text_key": "luke.8.p2.b3"
+    },
+    {
+      "id": "LUKE_08_P002_B004",
+      "panel": "LUKE_08_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0131,
+        0.6976,
+        0.4112,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "luke.8.p2.b4"
+    }
+  ]
+}

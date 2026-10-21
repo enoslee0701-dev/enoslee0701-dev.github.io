@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_04_P005",
+  "book": "luke",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "耶稣满有圣灵的能力回到加利利，他的名声传遍了四方。"
+      }
+    },
+    {
+      "id": "LUKE_04_P005_F2",
+      "box": [
+        0,
+        0.25,
+        0.5029,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "他在各会堂里教导人，众人都称赞他。"
+      }
+    },
+    {
+      "id": "LUKE_04_P005_F3",
+      "box": [
+        0.5117,
+        0.25,
+        0.4883,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "耶稣来到拿撒勒，就是他长大的地方。"
+      }
+    },
+    {
+      "id": "LUKE_04_P005_F4",
+      "box": [
+        0,
+        0.5938,
+        1,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "安息日他照常进了会堂，站起来要念圣经。有人把先知以赛亚的书交给他，他打开，找到一处写着："
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P005_B001",
+      "panel": "LUKE_04_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.1723,
+        0.5,
+        0.0639
+      ],
+      "tail": null,
+      "text_key": "luke.4.p5.b1"
+    },
+    {
+      "id": "LUKE_04_P005_B002",
+      "panel": "LUKE_04_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0201,
+        0.2602,
+        0.4526,
+        0.0442
+      ],
+      "tail": null,
+      "text_key": "luke.4.p5.b2"
+    },
+    {
+      "id": "LUKE_04_P005_B003",
+      "panel": "LUKE_04_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.7314,
+        0.2636,
+        0.2539,
+        0.0681
+      ],
+      "tail": null,
+      "text_key": "luke.4.p5.b3"
+    },
+    {
+      "id": "LUKE_04_P005_B004",
+      "panel": "LUKE_04_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.606,
+        0.46,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "luke.4.p5.b4"
+    }
+  ]
+}

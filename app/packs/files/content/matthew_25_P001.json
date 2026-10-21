@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_25_P001",
+  "book": "matthew",
+  "chapter": 25,
+  "page": 1,
+  "ref": "25:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_25_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_25_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2852
+      ]
+    },
+    {
+      "id": "MATTHEW_25_P001_F2",
+      "box": [
+        0,
+        0.2884,
+        0.4971,
+        0.3275
+      ]
+    },
+    {
+      "id": "MATTHEW_25_P001_F3",
+      "box": [
+        0.502,
+        0.2884,
+        0.498,
+        0.3275
+      ]
+    },
+    {
+      "id": "MATTHEW_25_P001_F4",
+      "box": [
+        0,
+        0.6191,
+        1,
+        0.3809
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_25_P001_B001",
+      "panel": "MATTHEW_25_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.0114,
+        0.38,
+        0.1026
+      ],
+      "tail": [
+        0.79,
+        0.1425
+      ],
+      "text_key": "matthew.25.p1.b1"
+    },
+    {
+      "id": "MATTHEW_25_P001_B002",
+      "panel": "MATTHEW_25_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2486,
+        0.295,
+        0.2336,
+        0.0491
+      ],
+      "tail": [
+        0,
+        0.3768
+      ],
+      "text_key": "matthew.25.p1.b2"
+    },
+    {
+      "id": "MATTHEW_25_P001_B003",
+      "panel": "MATTHEW_25_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5269,
+        0.2982,
+        0.4482,
+        0.072
+      ],
+      "tail": [
+        0.751,
+        0.403
+      ],
+      "text_key": "matthew.25.p1.b3"
+    },
+    {
+      "id": "MATTHEW_25_P001_B004",
+      "panel": "MATTHEW_25_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.36,
+        0.6267,
+        0.36,
+        0.0533
+      ],
+      "tail": [
+        0.54,
+        0.7181
+      ],
+      "text_key": "matthew.25.p1.b4"
+    }
+  ]
+}

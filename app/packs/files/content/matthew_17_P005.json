@@ -1,0 +1,100 @@
+{
+  "id": "MATTHEW_17_P005",
+  "book": "matthew",
+  "chapter": 17,
+  "page": 5,
+  "ref": "17:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_17_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_17_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P005_F2",
+      "box": [
+        0,
+        0.2448,
+        1,
+        0.431
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P005_F3",
+      "box": [
+        0,
+        0.681,
+        1,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "门徒问耶稣：「文士为什么说以利亚必须先来？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_17_P005_B001",
+      "panel": "MATTHEW_17_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.1681,
+        0.44,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p5.b1"
+    },
+    {
+      "id": "MATTHEW_17_P005_B002",
+      "panel": "MATTHEW_17_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2577,
+        0.34,
+        0.056
+      ],
+      "tail": [
+        0.2,
+        0.3568
+      ],
+      "text_key": "matthew.17.p5.b2"
+    },
+    {
+      "id": "MATTHEW_17_P005_B003",
+      "panel": "MATTHEW_17_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6938,
+        0.42,
+        0.0542
+      ],
+      "tail": [
+        0.24,
+        0.7799
+      ],
+      "text_key": "matthew.17.p5.b3"
+    }
+  ]
+}

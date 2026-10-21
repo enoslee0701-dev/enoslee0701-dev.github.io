@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_09_P006",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 6,
+  "ref": "9:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "耶稣听见了，就说：健康的人用不着医生，有病的人才用得着。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P006_F2",
+      "box": [
+        0,
+        0.2513,
+        0.2871,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "（比喻：医生跪在病人身边照顾他。）"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P006_F3",
+      "box": [
+        0.2988,
+        0.2513,
+        0.7012,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "经上说：「我喜爱怜恤，不喜爱祭祀。」"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P006_F4",
+      "box": [
+        0,
+        0.6686,
+        1,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "我来本不是召义人，而是召罪人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P006_B001",
+      "panel": "MATTHEW_09_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.005,
+        0.36,
+        0.0446
+      ],
+      "tail": [
+        0.48,
+        0.0744
+      ],
+      "text_key": "matthew.9.p6.b1"
+    },
+    {
+      "id": "MATTHEW_09_P006_B002",
+      "panel": "MATTHEW_09_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3058,
+        0.2554,
+        0.1753,
+        0.0992
+      ],
+      "tail": [
+        0.3935,
+        0.3959
+      ],
+      "text_key": "matthew.9.p6.b2"
+    },
+    {
+      "id": "MATTHEW_09_P006_B003",
+      "panel": "MATTHEW_09_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.49,
+        0.6719,
+        0.19,
+        0.0695
+      ],
+      "tail": [
+        0.585,
+        0.7745
+      ],
+      "text_key": "matthew.9.p6.b3"
+    }
+  ]
+}

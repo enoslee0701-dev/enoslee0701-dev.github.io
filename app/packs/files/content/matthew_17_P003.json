@@ -1,0 +1,103 @@
+{
+  "id": "MATTHEW_17_P003",
+  "book": "matthew",
+  "chapter": 17,
+  "page": 3,
+  "ref": "17:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_17_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_17_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "他正说话的时候，忽然有一朵明亮的云笼罩他们，"
+      }
+    },
+    {
+      "id": "MATTHEW_17_P003_F2",
+      "box": [
+        0,
+        0.3086,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "有声音从云中说：「这是我的爱子，我所喜悦的。你们要听他！」"
+      }
+    },
+    {
+      "id": "MATTHEW_17_P003_F3",
+      "box": [
+        0,
+        0.7096,
+        1,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "门徒听见了，就脸伏在地，非常害怕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_17_P003_B001",
+      "panel": "MATTHEW_17_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0091,
+        0.4,
+        0.0484
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p3.b1"
+    },
+    {
+      "id": "MATTHEW_17_P003_B002",
+      "panel": "MATTHEW_17_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.64,
+        0.3244,
+        0.33,
+        0.0949
+      ],
+      "tail": [
+        0.805,
+        0.4589
+      ],
+      "text_key": "matthew.17.p3.b2"
+    },
+    {
+      "id": "MATTHEW_17_P003_B003",
+      "panel": "MATTHEW_17_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7212,
+        0.44,
+        0.0464
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p3.b3"
+    }
+  ]
+}

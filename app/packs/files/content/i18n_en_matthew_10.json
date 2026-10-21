@@ -1,0 +1,502 @@
+{
+  "matthew.10.p1.b1": {
+    "text": "And calling His twelve disciples to Him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p1.b2": {
+    "text": "Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p2.b1": {
+    "text": "These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p2.b2": {
+    "text": "James son of Zebedee, and his brother John;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p2.b3": {
+    "text": "Philip and Bartholomew;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p2.b4": {
+    "text": "Thomas and Matthew the tax collector;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p2.b5": {
+    "text": "James son of Alphaeus, and Thaddaeus;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p2.b6": {
+    "text": "Simon the Zealot, and Judas Iscariot, who betrayed Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p3.b1": {
+    "text": "Do not go onto the road of the Gentiles or enter any town of the Samaritans.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p3.b2": {
+    "text": "Go rather to the lost sheep of Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p3.b3": {
+    "text": "As you go, preach this message: ‘The kingdom of heaven is near.’ Heal the sick, raise the dead, cleanse the lepers, drive out demons.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:7-8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p3.b4": {
+    "text": "Freely you have received; freely give.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p4.b1": {
+    "text": "Do not carry any gold or silver or copper in your belts.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p4.b2": {
+    "text": "Take no bag for the road, or second tunic, or sandals, or staff;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p4.b3": {
+    "text": "for the worker is worthy of his provisions.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p5.b1": {
+    "text": "Whatever town or village you enter, find out who is worthy there and stay at his house until you move on.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p5.b2": {
+    "text": "If the home is worthy, let your peace rest on it;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p5.b3": {
+    "text": "And if anyone will not welcome you or heed your words, shake the dust off your feet",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p5.b4": {
+    "text": "Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p6.b1": {
+    "text": "Behold, I am sending you out like sheep among wolves;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p6.b2": {
+    "text": "therefore be as shrewd as snakes",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p6.b3": {
+    "text": "and as innocent as doves.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p7.b1": {
+    "text": "But beware of men; for they will hand you over to their councils and flog you in their synagogues.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p7.b2": {
+    "text": "In that hour you will be given what to say.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p7.b3": {
+    "text": "For it will not be you speaking, but the Spirit of your Father speaking through you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p8.b1": {
+    "text": "Brother will betray brother to death, and a father his child;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p8.b2": {
+    "text": "You will be hated by everyone because of My name,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p8.b3": {
+    "text": "but the one who perseveres to the end will be saved.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p8.b4": {
+    "text": "When they persecute you in one town, flee to the next.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p9.b1": {
+    "text": "A disciple is not above his teacher, nor a servant above his master.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p9.b2": {
+    "text": "If the head of the house has been called Beelzebul, how much more the members of his household!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p9.b3": {
+    "text": "So do not be afraid of them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p9.b4": {
+    "text": "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the housetops.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p10.b1": {
+    "text": "Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p10.b2": {
+    "text": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from the will of your Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p10.b3": {
+    "text": "And even the very hairs of your head are all numbered.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p10.b4": {
+    "text": "So do not be afraid; you are worth more than many sparrows.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p11.b1": {
+    "text": "Therefore everyone who confesses Me before men, I will also confess him before My Father in heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p11.b2": {
+    "text": "I have not come to bring peace, but a sword.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p11.b3": {
+    "text": "For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p11.b4": {
+    "text": "A man’s enemies will be the members of his own household.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p12.b1": {
+    "text": "Anyone who loves his father or mother more than Me is not worthy of Me;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p12.b2": {
+    "text": "and anyone who does not take up his cross and follow Me is not worthy of Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p12.b3": {
+    "text": "Whoever finds his life will lose it, and whoever loses his life for My sake will find it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p13.b1": {
+    "text": "He who receives you receives Me,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p13.b2": {
+    "text": "and he who receives Me receives the One who sent Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p13.b3": {
+    "text": "Whoever receives a prophet because he is a prophet will receive a prophet’s reward,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p13.b4": {
+    "text": "and whoever receives a righteous man because he is a righteous man will receive a righteous man’s reward.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p14.b1": {
+    "text": "And if anyone gives even a cup of cold water to one of these little ones because he is My disciple,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.10.p14.b2": {
+    "text": "truly I tell you, he will never lose his reward.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 10:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

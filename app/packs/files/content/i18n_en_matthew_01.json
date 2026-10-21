@@ -1,0 +1,262 @@
+{
+  "matthew.1.p1.b1": {
+    "text": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p1.b2": {
+    "text": "Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p1.b3": {
+    "text": "Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p1.b4": {
+    "text": "and Jesse the father of David the king.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p2.b1": {
+    "text": "David was the father of Solomon by Uriah’s wife,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p2.b2": {
+    "text": "Solomon the father of Rehoboam,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p2.b3": {
+    "text": "and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p3.b1": {
+    "text": "After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p3.b2": {
+    "text": "and Jacob the father of Joseph, the husband of Mary,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p3.b3": {
+    "text": "of whom was born Jesus, who is called Christ.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p3.b4": {
+    "text": "In all, then, there were fourteen generations from Abraham to David, … and fourteen from the exile to the Christ.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p4.b1": {
+    "text": "This is how the birth of Jesus Christ came about:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p4.b2": {
+    "text": "His mother Mary was pledged in marriage to Joseph, but before they came together,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p4.b3": {
+    "text": "she was found to be with child through the Holy Spirit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p5.b1": {
+    "text": "Because Joseph her husband was a righteous man",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p5.b2": {
+    "text": "and was unwilling to disgrace her publicly,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p5.b3": {
+    "text": "he resolved to divorce her quietly.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p6.b1": {
+    "text": "But after he had pondered these things, an angel of the Lord appeared to him in a dream",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p6.b2": {
+    "text": "Joseph, son of David, do not be afraid",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p6.b3": {
+    "text": "to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p6.b4": {
+    "text": "She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p7.b1": {
+    "text": "All this took place to fulfill what the Lord had said through the prophet: “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:22-23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p7.b2": {
+    "text": "(which means, “God with us”).",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p7.b3": {
+    "text": "When Joseph woke up, he did as the angel of the Lord had commanded him, and embraced Mary as his wife.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p8.b1": {
+    "text": "But he had no union with her",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.1.p8.b2": {
+    "text": "until she gave birth to a Son. And he gave Him the name Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

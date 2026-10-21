@@ -1,0 +1,692 @@
+{
+  "luke.23.p1.b1": {
+    "text": "群衆はみな立ちあがって、イエスをピラトのところへ連れて行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p1.b2": {
+    "text": "「わたしたちは、この人が国民を惑わし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p1.b3": {
+    "text": "貢をカイザルに納めることを禁じ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p1.b4": {
+    "text": "また自分こそ王なるキリストだと、となえているところを目撃しました」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p2.b1": {
+    "text": "「あなたがユダヤ人の王であるか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p2.b2": {
+    "text": "「そのとおりである」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p2.b3": {
+    "text": "「わたしはこの人になんの罪もみとめない」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p2.b4": {
+    "text": "「彼は、ガリラヤからはじめてこの所まで、ユダヤ全国にわたって教え、民衆を煽動しているのです」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p3.b1": {
+    "text": "この人はガリラヤ人かと尋ね、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p3.b2": {
+    "text": "そしてヘロデの支配下のものであることを確かめたので、ちょうどこのころ、ヘロデがエルサレムにいたのをさいわい、そちらへイエスを送りとどけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p3.b3": {
+    "text": "ヘロデはイエスを見て非常に喜んだ。それは、かねてイエスのことを聞いていたので、会って見たいと長いあいだ思っていたし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p3.b4": {
+    "text": "またイエスが何か奇跡を行うのを見たいと望んでいたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p4.b1": {
+    "text": "それで、いろいろと質問を試みたが、イエスは何もお答えにならなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p4.b2": {
+    "text": "祭司長たちと律法学者たちとは立って、激しい語調でイエスを訴えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p4.b3": {
+    "text": "またヘロデはその兵卒どもと一緒になって、イエスを侮辱したり嘲弄したりしたあげく、はなやかな着物を着せてピラトへ送りかえした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p4.b4": {
+    "text": "ヘロデとピラトとは以前は互に敵視していたが、この日に親しい仲になった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p5.b1": {
+    "text": "ピラトは、祭司長たちと役人たちと民衆とを、呼び集めて言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p5.b2": {
+    "text": "おまえたちの面前でしらべたが、訴え出ているような罪は、この人に少しもみとめられなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p5.b3": {
+    "text": "ヘロデもまたみとめなかった。現に彼はイエスをわれわれに送りかえしてきた。この人はなんら死に当るようなことはしていないのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p5.b4": {
+    "text": "だから、彼をむち打ってから、ゆるしてやることにしよう」。〔",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p6.b1": {
+    "text": "「その人を殺せ。バラバをゆるしてくれ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p6.b2": {
+    "text": "このバラバは、都で起った暴動と殺人とのかどで、獄に投ぜられていた者である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p6.b3": {
+    "text": "ピラトはイエスをゆるしてやりたいと思って、もう一度かれらに呼びかけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p6.b4": {
+    "text": "「十字架につけよ、彼を十字架につけよ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p7.b1": {
+    "text": "「では、この人は、いったい、どんな悪事をしたのか。彼には死に当る罪は全くみとめられなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p7.b2": {
+    "text": "ところが、彼らは大声をあげて詰め寄り、イエスを十字架につけるように要求した。そして、その声が勝った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p7.b3": {
+    "text": "ピラトはついに彼らの願いどおりにすることに決定した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p7.b4": {
+    "text": "そして、暴動と殺人とのかどで獄に投ぜられた者の方を、彼らの要求に応じてゆるしてやり、イエスの方は彼らに引き渡して、その意のままにまかせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p8.b1": {
+    "text": "彼らがイエスをひいてゆく途中、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p8.b2": {
+    "text": "シモンというクレネ人が郊外から出てきたのを捕えて",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p8.b3": {
+    "text": "十字架を負わせ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p8.b4": {
+    "text": "それをになってイエスのあとから行かせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p9.b1": {
+    "text": "大ぜいの民衆と、悲しみ嘆いてやまない女たちの群れとが、イエスに従って行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p9.b2": {
+    "text": "「エルサレムの娘たちよ、わたしのために泣くな。むしろ、あなたがた自身のため、また自分の子供たちのために泣くがよい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p9.b3": {
+    "text": "もし、生木でさえもそうされるなら、枯木はどうされることであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p10.b1": {
+    "text": "さて、イエスと共に刑を受けるために、ほかにふたりの犯罪人も引かれていった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p10.b2": {
+    "text": "されこうべと呼ばれている所に着くと、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p10.b3": {
+    "text": "人々はそこでイエスを十字架につけ、犯罪人たちも、ひとりは右に、ひとりは左に、十字架につけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p11.b1": {
+    "text": "そのとき、イエスは言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p11.b2": {
+    "text": "「父よ、彼らをおゆるしください。彼らは何をしているのか、わからずにいるのです」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p11.b3": {
+    "text": "人々はイエスの着物をくじ引きで分け合った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p12.b1": {
+    "text": "民衆は立って見ていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p12.b2": {
+    "text": "「彼は他人を救った。もし彼が神のキリスト、選ばれた者であるなら、自分自身を救うがよい」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p12.b3": {
+    "text": "「あなたがユダヤ人の王なら、自分を救いなさい」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p12.b4": {
+    "text": "イエスの上には、「これはユダヤ人の王」と書いた札がかけてあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p13.b1": {
+    "text": "「あなたはキリストではないか。それなら、自分を救い、またわれわれも救ってみよ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p13.b2": {
+    "text": "「おまえは同じ刑を受けていながら、神を恐れないのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p13.b3": {
+    "text": "……こうなったのは当然だ。しかし、このかたは何も悪いことをしたのではない」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p14.b1": {
+    "text": "「イエスよ、あなたが御国の権威をもっておいでになる時には、わたしを思い出してください」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p14.b2": {
+    "text": "「よく言っておくが、あなたはきょう、わたしと一緒にパラダイスにいるであろう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p15.b1": {
+    "text": "時はもう昼の十二時ごろであったが、……全地は暗くなって、三時に及んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p15.b2": {
+    "text": "太陽は光を失い、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p15.b3": {
+    "text": "そして聖所の幕がまん中から裂けた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p16.b1": {
+    "text": "「わたしが自分の父の家にいるはずのことを、ご存じなかったのですか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 2:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p16.b2": {
+    "text": "「父よ、わたしの霊をみ手にゆだねます」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p16.b3": {
+    "text": "こう言ってついに息を引きとられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p17.b1": {
+    "text": "百卒長はこの有様を見て、神をあがめ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p17.b2": {
+    "text": "「ほんとうに、この人は正しい人であった」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p17.b3": {
+    "text": "この光景を見に集まってきた群衆も、これらの出来事を見て、みな胸を打ちながら帰って行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p18.b1": {
+    "text": "すべてイエスを知っていた者や、ガリラヤから従ってきた女たちも、遠い所に立って、これらのことを見ていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p19.b1": {
+    "text": "ここに、ヨセフという議員がいたが、善良で正しい人であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p19.b2": {
+    "text": "彼は議会の議決や行動には賛成していなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p19.b3": {
+    "text": "この人がピラトのところへ行って、イエスのからだの引取り方を願い出て、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p19.b4": {
+    "text": "それを取りおろして亜麻布に包み、まだだれも葬ったことのない、岩を掘って造った墓に納めた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p20.b1": {
+    "text": "この日は準備の日であって、安息日が始まりかけていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p20.b2": {
+    "text": "イエスと一緒にガリラヤからきた女たちは、あとについてきて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p20.b3": {
+    "text": "その墓を見、またイエスのからだが納められる様子を見とどけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p21.b1": {
+    "text": "そして帰って、香料と香油とを用意した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p21.b2": {
+    "text": "それからおきてに従って安息日を休んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 23:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

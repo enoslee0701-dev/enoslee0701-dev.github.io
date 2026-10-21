@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_14_P003",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 3,
+  "ref": "14:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "到了希律的生日，希罗底的女儿在众人面前跳舞，让希律很高兴。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P003_F2",
+      "box": [
+        0,
+        0.2292,
+        0.3037,
+        0.3353
+      ]
+    },
+    {
+      "id": "MATTHEW_14_P003_F3",
+      "box": [
+        0.3096,
+        0.2292,
+        0.6904,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "希律就起誓，答应她要什么都给她。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P003_F4",
+      "box": [
+        0,
+        0.5671,
+        1,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "女儿受了母亲的指使，就说：「请把施洗约翰的头放在盘子里，拿来给我。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P003_B001",
+      "panel": "MATTHEW_14_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0068,
+        0.4,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p3.b1"
+    },
+    {
+      "id": "MATTHEW_14_P003_B002",
+      "panel": "MATTHEW_14_P003_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3234,
+        0.2393,
+        0.1656,
+        0.0871
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p3.b2"
+    },
+    {
+      "id": "MATTHEW_14_P003_B003",
+      "panel": "MATTHEW_14_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5801,
+        0.34,
+        0.0253
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p3.b3"
+    },
+    {
+      "id": "MATTHEW_14_P003_B004",
+      "panel": "MATTHEW_14_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6141,
+        0.34,
+        0.0438
+      ],
+      "tail": [
+        0.19,
+        0.7012
+      ],
+      "text_key": "matthew.14.p3.b4"
+    }
+  ]
+}

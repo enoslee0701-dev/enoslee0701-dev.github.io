@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_05_P005",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "你们是世上的盐。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P005_F2",
+      "box": [
+        0,
+        0.2493,
+        0.4961,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "盐如果失去了咸味，怎能让它再咸呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P005_F3",
+      "box": [
+        0.5039,
+        0.2493,
+        0.4961,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "（现场：宽脸的门徒低头看着自己被湖水和盐泡裂的手。）"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P005_F4",
+      "box": [
+        0,
+        0.61,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "以后就没有用处，只好丢在外面，任人践踏。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P005_B001",
+      "panel": "MATTHEW_05_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.0073,
+        0.35,
+        0.0439
+      ],
+      "tail": [
+        0.795,
+        0.0756
+      ],
+      "text_key": "matthew.5.p5.b1"
+    },
+    {
+      "id": "MATTHEW_05_P005_B002",
+      "panel": "MATTHEW_05_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.005,
+        0.2564,
+        0.1785,
+        0.0534
+      ],
+      "tail": [
+        0.0943,
+        0.3454
+      ],
+      "text_key": "matthew.5.p5.b2"
+    },
+    {
+      "id": "MATTHEW_05_P005_B003",
+      "panel": "MATTHEW_05_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.6217,
+        0.36,
+        0.0585
+      ],
+      "tail": [
+        0.8,
+        0.7192
+      ],
+      "text_key": "matthew.5.p5.b3"
+    }
+  ]
+}

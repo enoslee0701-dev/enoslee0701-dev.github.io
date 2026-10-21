@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_10_P007",
+  "book": "luke",
+  "chapter": 10,
+  "page": 7,
+  "ref": "10:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_10_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_10_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2773
+      ]
+    },
+    {
+      "id": "LUKE_10_P007_F2",
+      "box": [
+        0,
+        0.2813,
+        1,
+        0.3522
+      ]
+    },
+    {
+      "id": "LUKE_10_P007_F3",
+      "box": [
+        0,
+        0.6374,
+        0.5518,
+        0.3626
+      ]
+    },
+    {
+      "id": "LUKE_10_P007_F4",
+      "box": [
+        0.5576,
+        0.6374,
+        0.4424,
+        0.3626
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_10_P007_B001",
+      "panel": "LUKE_10_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0083,
+        0.5,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "luke.10.p7.b1"
+    },
+    {
+      "id": "LUKE_10_P007_B002",
+      "panel": "LUKE_10_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.2919,
+        0.43,
+        0.0845
+      ],
+      "tail": [
+        0.755,
+        0.4116
+      ],
+      "text_key": "luke.10.p7.b2"
+    },
+    {
+      "id": "LUKE_10_P007_B003",
+      "panel": "LUKE_10_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0221,
+        0.6447,
+        0.5076,
+        0.0797
+      ],
+      "tail": [
+        0.2759,
+        0.7607
+      ],
+      "text_key": "luke.10.p7.b3"
+    },
+    {
+      "id": "LUKE_10_P007_B004",
+      "panel": "LUKE_10_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5753,
+        0.9275,
+        0.407,
+        0.0616
+      ],
+      "tail": null,
+      "text_key": "luke.10.p7.b4"
+    }
+  ]
+}

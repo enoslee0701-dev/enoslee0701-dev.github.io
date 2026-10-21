@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_07_P004",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 4,
+  "ref": "7:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P004_F1",
+      "box": [
+        0.0098,
+        0,
+        0.5391,
+        0.2943
+      ],
+      "alt": {
+        "zh-CN": "你们当中有谁，儿子向他要饼，反而给他石头呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P004_F2",
+      "box": [
+        0.5586,
+        0,
+        0.4336,
+        0.2943
+      ],
+      "alt": {
+        "zh-CN": "要鱼，反而给他蛇呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P004_F3",
+      "box": [
+        0.0098,
+        0.2988,
+        0.9824,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "你们虽然不好，尚且知道把好东西给儿女，"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P004_F4",
+      "box": [
+        0.0107,
+        0.7324,
+        0.9814,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "何况你们在天上的父，岂不更要把好东西给求他的人吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P004_B001",
+      "panel": "MATTHEW_07_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0152,
+        0.0059,
+        0.194,
+        0.0882
+      ],
+      "tail": [
+        0.1122,
+        0.1235
+      ],
+      "text_key": "matthew.7.p4.b1"
+    },
+    {
+      "id": "MATTHEW_07_P004_B002",
+      "panel": "MATTHEW_07_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5673,
+        0.2325,
+        0.1647,
+        0.0559
+      ],
+      "tail": [
+        0.6497,
+        0.2943
+      ],
+      "text_key": "matthew.7.p4.b2"
+    },
+    {
+      "id": "MATTHEW_07_P004_B003",
+      "panel": "MATTHEW_07_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0196,
+        0.3031,
+        0.3143,
+        0.0386
+      ],
+      "tail": [
+        0.1768,
+        0.3847
+      ],
+      "text_key": "matthew.7.p4.b3"
+    },
+    {
+      "id": "MATTHEW_07_P004_B004",
+      "panel": "MATTHEW_07_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5603,
+        0.7485,
+        0.4023,
+        0.1338
+      ],
+      "tail": [
+        0.7615,
+        0.9091
+      ],
+      "text_key": "matthew.7.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "MARK_12_P010",
+  "book": "mark",
+  "chapter": 12,
+  "page": 10,
+  "ref": "12:28-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_12_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_12_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.202
+      ],
+      "alt": {
+        "zh-CN": "有一个文士来，听见他们在辩论，知道耶稣回答得好，"
+      }
+    },
+    {
+      "id": "MARK_12_P010_F2",
+      "box": [
+        0,
+        0.206,
+        0.399,
+        0.249
+      ],
+      "alt": {
+        "zh-CN": "就问他：「诫命中哪一条是最重要的呢？」"
+      }
+    },
+    {
+      "id": "MARK_12_P010_F3",
+      "box": [
+        0.405,
+        0.206,
+        0.595,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "耶稣回答：「最重要的就是：『以色列啊，你要听，主—我们的神是独一的主。"
+      }
+    },
+    {
+      "id": "MARK_12_P010_F4",
+      "box": [
+        0,
+        0.46,
+        0.399,
+        0.245
+      ],
+      "alt": {
+        "zh-CN": "你要尽心、尽性、尽意、尽力爱主—你的神。』"
+      }
+    },
+    {
+      "id": "MARK_12_P010_F5",
+      "box": [
+        0,
+        0.709,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "其次就是：『要爱人如己。』再没有比这两条诫命更大的了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_12_P010_B001",
+      "panel": "MARK_12_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.09,
+        0.4,
+        0.105
+      ],
+      "tail": [
+        0.7,
+        0.075
+      ],
+      "text_key": "mark.12.p10.b1"
+    },
+    {
+      "id": "MARK_12_P010_B002",
+      "panel": "MARK_12_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.605,
+        0.525,
+        0.34,
+        0.181
+      ],
+      "tail": [
+        0.6,
+        0.45
+      ],
+      "text_key": "mark.12.p10.b2"
+    },
+    {
+      "id": "MARK_12_P010_B003",
+      "panel": "MARK_12_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.594,
+        0.555,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.12.p10.b3"
+    },
+    {
+      "id": "MARK_12_P010_B004",
+      "panel": "MARK_12_P010_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.27,
+        0.857,
+        0.5,
+        0.143
+      ],
+      "tail": [
+        0.2,
+        0.8
+      ],
+      "text_key": "mark.12.p10.b4"
+    }
+  ]
+}

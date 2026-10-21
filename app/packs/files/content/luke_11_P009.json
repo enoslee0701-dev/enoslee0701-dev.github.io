@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_11_P009",
+  "book": "luke",
+  "chapter": 11,
+  "page": 9,
+  "ref": "11:24-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_11_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_11_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "污鬼离开人的身体以后，就在没有水的地方游来游去，找安身的地方；"
+      }
+    },
+    {
+      "id": "LUKE_11_P009_F2",
+      "box": [
+        0,
+        0.2077,
+        0.498,
+        0.3262
+      ]
+    },
+    {
+      "id": "LUKE_11_P009_F3",
+      "box": [
+        0.5039,
+        0.2077,
+        0.4961,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "就去另外带了七个比自己更坏的鬼来，都进去住在那里。"
+      }
+    },
+    {
+      "id": "LUKE_11_P009_F4",
+      "box": [
+        0,
+        0.5378,
+        1,
+        0.4622
+      ],
+      "alt": {
+        "zh-CN": "那个人后来的情况比以前更糟了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_11_P009_B001",
+      "panel": "LUKE_11_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0041,
+        0.92,
+        0.0327
+      ],
+      "tail": null,
+      "text_key": "luke.11.p9.b1"
+    },
+    {
+      "id": "LUKE_11_P009_B002",
+      "panel": "LUKE_11_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.2142,
+        0.4564,
+        0.0521
+      ],
+      "tail": null,
+      "text_key": "luke.11.p9.b2"
+    },
+    {
+      "id": "LUKE_11_P009_B003",
+      "panel": "LUKE_11_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.547,
+        0.42,
+        0.0508
+      ],
+      "tail": [
+        0.73,
+        0.644
+      ],
+      "text_key": "luke.11.p9.b3"
+    }
+  ]
+}

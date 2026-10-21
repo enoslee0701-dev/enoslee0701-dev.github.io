@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_10_P007",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 7,
+  "ref": "10:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P007_F1",
+      "box": [
+        0.0088,
+        0,
+        0.9834,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "你们要提防人；因为他们会把你们交给议会，也会在会堂里鞭打你们，"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P007_F2",
+      "box": [
+        0.0088,
+        0.2474,
+        0.2412,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "（会堂墙上，一只手举起了鞭子。）"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P007_F3",
+      "box": [
+        0.2568,
+        0.2474,
+        0.7354,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "到那时候，自然会赐给你们该说的话；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P007_F4",
+      "box": [
+        0.0088,
+        0.7207,
+        0.9834,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "因为说话的不是你们自己，而是你们父的灵在你们里面说话。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P007_B001",
+      "panel": "MATTHEW_10_P007_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6565,
+        0.0024,
+        0.3258,
+        0.0365
+      ],
+      "tail": [
+        0.8594,
+        0.0633
+      ],
+      "text_key": "matthew.10.p7.b1"
+    },
+    {
+      "id": "MATTHEW_10_P007_B002",
+      "panel": "MATTHEW_10_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7615,
+        0.2768,
+        0.2206,
+        0.0657
+      ],
+      "tail": [
+        0.6318,
+        0.3694
+      ],
+      "text_key": "matthew.10.p7.b2"
+    },
+    {
+      "id": "MATTHEW_10_P007_B003",
+      "panel": "MATTHEW_10_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4022,
+        0.7289,
+        0.5507,
+        0.0384
+      ],
+      "tail": [
+        0.6776,
+        0.7948
+      ],
+      "text_key": "matthew.10.p7.b3"
+    }
+  ]
+}

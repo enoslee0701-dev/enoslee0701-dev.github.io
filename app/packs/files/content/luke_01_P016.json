@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_01_P016",
+  "book": "luke",
+  "chapter": 1,
+  "page": 16,
+  "ref": "1:51-56",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "他用膀臂施展大能，赶散那些心里狂妄骄傲的人；"
+      }
+    },
+    {
+      "id": "LUKE_01_P016_F2",
+      "box": [
+        0,
+        0.2298,
+        0.4902,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "他使有权柄的失去宝座，使卑微的人升高；"
+      }
+    },
+    {
+      "id": "LUKE_01_P016_F3",
+      "box": [
+        0.5059,
+        0.2298,
+        0.4941,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "他使饥饿的人饱享美食，使富足的人空手回去。（1:54–55 他扶助了他的仆人以色列，记念向亚伯拉罕和他的后裔施怜悯，直到永远。）"
+      }
+    },
+    {
+      "id": "LUKE_01_P016_F4",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "马利亚和伊利莎白同住了约三个月，就回家去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P016_B001",
+      "panel": "LUKE_01_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0068,
+        0.45,
+        0.0585
+      ],
+      "tail": [
+        0.255,
+        0.0878
+      ],
+      "text_key": "luke.1.p16.b1"
+    },
+    {
+      "id": "LUKE_01_P016_B002",
+      "panel": "LUKE_01_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0147,
+        0.2393,
+        0.2696,
+        0.0635
+      ],
+      "tail": [
+        0.1495,
+        0.3346
+      ],
+      "text_key": "luke.1.p16.b2"
+    },
+    {
+      "id": "LUKE_01_P016_B003",
+      "panel": "LUKE_01_P016_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5306,
+        0.2393,
+        0.4446,
+        0.0635
+      ],
+      "tail": [
+        0.7529,
+        0.3346
+      ],
+      "text_key": "luke.1.p16.b3"
+    },
+    {
+      "id": "LUKE_01_P016_B004",
+      "panel": "LUKE_01_P016_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.5616,
+        0.5,
+        0.0447
+      ],
+      "tail": null,
+      "text_key": "luke.1.p16.b4"
+    }
+  ]
+}

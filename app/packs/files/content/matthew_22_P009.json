@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_22_P009",
+  "book": "matthew",
+  "chapter": 22,
+  "page": 9,
+  "ref": "22:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_22_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_22_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ]
+    },
+    {
+      "id": "MATTHEW_22_P009_F2",
+      "box": [
+        0,
+        0.2715,
+        0.3691,
+        0.4701
+      ]
+    },
+    {
+      "id": "MATTHEW_22_P009_F3",
+      "box": [
+        0.376,
+        0.2715,
+        0.624,
+        0.4701
+      ]
+    },
+    {
+      "id": "MATTHEW_22_P009_F4",
+      "box": [
+        0,
+        0.7454,
+        1,
+        0.2546
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_22_P009_B001",
+      "panel": "MATTHEW_22_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.008,
+        0.14,
+        0.0585
+      ],
+      "tail": [
+        0.27,
+        0.0931
+      ],
+      "text_key": "matthew.22.p9.b1"
+    },
+    {
+      "id": "MATTHEW_22_P009_B002",
+      "panel": "MATTHEW_22_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0111,
+        0.5818,
+        0.1845,
+        0.141
+      ],
+      "tail": null,
+      "text_key": "matthew.22.p9.b2"
+    },
+    {
+      "id": "MATTHEW_22_P009_B003",
+      "panel": "MATTHEW_22_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3885,
+        0.2786,
+        0.1809,
+        0.0799
+      ],
+      "tail": [
+        0.479,
+        0.4055
+      ],
+      "text_key": "matthew.22.p9.b3"
+    },
+    {
+      "id": "MATTHEW_22_P009_B004",
+      "panel": "MATTHEW_22_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.18,
+        0.7492,
+        0.34,
+        0.0356
+      ],
+      "tail": null,
+      "text_key": "matthew.22.p9.b4"
+    }
+  ]
+}

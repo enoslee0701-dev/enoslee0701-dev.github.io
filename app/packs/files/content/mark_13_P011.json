@@ -1,0 +1,145 @@
+{
+  "id": "MARK_13_P011",
+  "book": "mark",
+  "chapter": 13,
+  "page": 11,
+  "ref": "13:28-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_13_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_13_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "「你们要从无花果树学一个比喻："
+      }
+    },
+    {
+      "id": "MARK_13_P011_F2",
+      "box": [
+        0,
+        0.2493,
+        0.6641,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "当树枝变嫩、长出叶子的时候，你们就知道夏天快到了。"
+      }
+    },
+    {
+      "id": "MARK_13_P011_F3",
+      "box": [
+        0.6709,
+        0.2493,
+        0.3291,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "同样，你们什么时候看见这些事发生，也应该知道人子（或译：神的国）近了，已经到门口了。"
+      }
+    },
+    {
+      "id": "MARK_13_P011_F4",
+      "box": [
+        0,
+        0.6452,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，这个世代还没有过去，这一切事都要发生。天地要过去，我的话却永远不会过去。」"
+      }
+    },
+    {
+      "id": "MARK_13_P011_F5",
+      "box": [
+        0.7061,
+        0.7897,
+        0.2881,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "（约翰手里拿着一片嫩绿的无花果叶。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_13_P011_B001",
+      "panel": "MARK_13_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.142,
+        0.4,
+        0.105
+      ],
+      "tail": [
+        0.36,
+        0.11
+      ],
+      "text_key": "mark.13.p11.b1"
+    },
+    {
+      "id": "MARK_13_P011_B002",
+      "panel": "MARK_13_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0,
+        0.545,
+        0.58,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.13.p11.b2"
+    },
+    {
+      "id": "MARK_13_P011_B003",
+      "panel": "MARK_13_P011_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.235,
+        0.657,
+        0.76,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.13.p11.b3"
+    },
+    {
+      "id": "MARK_13_P011_B004",
+      "panel": "MARK_13_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.89,
+        0.45,
+        0.105
+      ],
+      "tail": [
+        0.13,
+        0.8
+      ],
+      "text_key": "mark.13.p11.b4"
+    }
+  ]
+}

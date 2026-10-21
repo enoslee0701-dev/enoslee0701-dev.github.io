@@ -1,0 +1,130 @@
+{
+  "id": "LUKE_07_P012",
+  "book": "luke",
+  "chapter": 7,
+  "page": 12,
+  "ref": "7:31-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "主又说：“这样，我可用什么比这世代的人呢？他们好像什么呢？"
+      }
+    },
+    {
+      "id": "LUKE_07_P012_F2",
+      "box": [
+        0,
+        0.1992,
+        1,
+        0.2467
+      ]
+    },
+    {
+      "id": "LUKE_07_P012_F3",
+      "box": [
+        0,
+        0.4486,
+        1,
+        0.2144
+      ]
+    },
+    {
+      "id": "LUKE_07_P012_F4",
+      "box": [
+        0,
+        0.6686,
+        1,
+        0.3314
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P012_B001",
+      "panel": "LUKE_07_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0059,
+        0.43,
+        0.047
+      ],
+      "tail": [
+        0.765,
+        0.0725
+      ],
+      "text_key": "luke.7.p12.b1"
+    },
+    {
+      "id": "LUKE_07_P012_B002",
+      "panel": "LUKE_07_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2041,
+        0.94,
+        0.0394
+      ],
+      "tail": [
+        0.5,
+        0.2682
+      ],
+      "text_key": "luke.7.p12.b2"
+    },
+    {
+      "id": "LUKE_07_P012_B003",
+      "panel": "LUKE_07_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.455,
+        0.38,
+        0.0428
+      ],
+      "tail": [
+        0.79,
+        0.5192
+      ],
+      "text_key": "luke.7.p12.b3"
+    },
+    {
+      "id": "LUKE_07_P012_B004",
+      "panel": "LUKE_07_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.02,
+        0.6752,
+        0.46,
+        0.0331
+      ],
+      "tail": [
+        0.25,
+        0.7414
+      ],
+      "text_key": "luke.7.p12.b4"
+    }
+  ]
+}

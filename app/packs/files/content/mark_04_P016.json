@@ -1,0 +1,118 @@
+{
+  "id": "MARK_04_P016",
+  "book": "mark",
+  "chapter": 4,
+  "page": 16,
+  "ref": "4:39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_04_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_04_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.117
+      ],
+      "alt": {
+        "zh-CN": "耶稣醒了，"
+      }
+    },
+    {
+      "id": "MARK_04_P016_F2",
+      "box": [
+        0,
+        0.121,
+        1,
+        0.353
+      ],
+      "alt": {
+        "zh-CN": "他斥责风，对海说：住了吧！静了吧！"
+      }
+    },
+    {
+      "id": "MARK_04_P016_F3",
+      "box": [
+        0,
+        0.478,
+        1,
+        0.522
+      ],
+      "alt": {
+        "zh-CN": "风就停了，湖面大大地平静下来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_04_P016_B001",
+      "panel": "MARK_04_P016_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.07,
+        0.007,
+        0.21,
+        0.0702
+      ],
+      "tail": null,
+      "text_key": "mark.4.p16.b1"
+    },
+    {
+      "id": "MARK_04_P016_B002",
+      "panel": "MARK_04_P016_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.1281,
+        0.32,
+        0.03
+      ],
+      "tail": null,
+      "text_key": "mark.4.p16.b2"
+    },
+    {
+      "id": "MARK_04_P016_B003",
+      "panel": "MARK_04_P016_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.66,
+        0.1651,
+        0.32,
+        0.03
+      ],
+      "tail": [
+        0.82,
+        0.2304
+      ],
+      "text_key": "mark.4.p16.b3"
+    },
+    {
+      "id": "MARK_04_P016_B004",
+      "panel": "MARK_04_P016_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.4937,
+        0.38,
+        0.073
+      ],
+      "tail": null,
+      "text_key": "mark.4.p16.b4"
+    }
+  ]
+}

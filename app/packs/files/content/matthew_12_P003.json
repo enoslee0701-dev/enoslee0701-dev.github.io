@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_12_P003",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2038
+      ],
+      "alt": {
+        "zh-CN": "但我告诉你们，这里有一位比圣殿更大。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P003_F2",
+      "box": [
+        0,
+        0.207,
+        1,
+        0.4492
+      ],
+      "alt": {
+        "zh-CN": "『我喜爱怜悯，不喜爱祭祀。』你们如果明白这句话的意思，就不会把没有罪的人当作有罪的了。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P003_F3",
+      "box": [
+        0.6895,
+        0.4811,
+        0.3105,
+        0.1751
+      ],
+      "alt": {
+        "zh-CN": "（年轻门徒摊开手心里的麦粒，年长的门徒把手搭在他肩上。）"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P003_F4",
+      "box": [
+        0,
+        0.6589,
+        1,
+        0.3411
+      ],
+      "alt": {
+        "zh-CN": "因为人子是安息日的主。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P003_B001",
+      "panel": "MATTHEW_12_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0082,
+        0.4,
+        0.0611
+      ],
+      "tail": [
+        0.78,
+        0.0897
+      ],
+      "text_key": "matthew.12.p3.b1"
+    },
+    {
+      "id": "MATTHEW_12_P003_B002",
+      "panel": "MATTHEW_12_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.216,
+        0.32,
+        0.0539
+      ],
+      "tail": [
+        0.71,
+        0.3148
+      ],
+      "text_key": "matthew.12.p3.b2"
+    },
+    {
+      "id": "MATTHEW_12_P003_B003",
+      "panel": "MATTHEW_12_P003_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5978,
+        0.4,
+        0.0494
+      ],
+      "tail": [
+        0.22,
+        0.6562
+      ],
+      "text_key": "matthew.12.p3.b3"
+    },
+    {
+      "id": "MATTHEW_12_P003_B004",
+      "panel": "MATTHEW_12_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.02,
+        0.6691,
+        0.2,
+        0.075
+      ],
+      "tail": [
+        0.12,
+        0.7782
+      ],
+      "text_key": "matthew.12.p3.b4"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_01_P022",
+  "book": "luke",
+  "chapter": 1,
+  "page": 22,
+  "ref": "1:72-75",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P022",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P022_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1556
+      ],
+      "alt": {
+        "zh-CN": "向我们的列祖施怜悯，记念他的圣约，"
+      }
+    },
+    {
+      "id": "LUKE_01_P022_F2",
+      "box": [
+        0,
+        0.1589,
+        1,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "就是他向我们的祖宗亚伯拉罕所起的誓，"
+      }
+    },
+    {
+      "id": "LUKE_01_P022_F3",
+      "box": [
+        0,
+        0.4993,
+        1,
+        0.1921
+      ],
+      "alt": {
+        "zh-CN": "使我们从仇敌手中被救出来，"
+      }
+    },
+    {
+      "id": "LUKE_01_P022_F4",
+      "box": [
+        0,
+        0.6947,
+        1,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "就可以一生一世在他面前，无所惧怕地用圣洁和公义事奉他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P022_B001",
+      "panel": "LUKE_01_P022_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.0047,
+        0.45,
+        0.0466
+      ],
+      "tail": [
+        0.245,
+        0.0669
+      ],
+      "text_key": "luke.1.p22.b1"
+    },
+    {
+      "id": "LUKE_01_P022_B002",
+      "panel": "LUKE_01_P022_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.1691,
+        0.42,
+        0.0541
+      ],
+      "tail": [
+        0.76,
+        0.2571
+      ],
+      "text_key": "luke.1.p22.b2"
+    },
+    {
+      "id": "LUKE_01_P022_B003",
+      "panel": "LUKE_01_P022_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.05,
+        0.5051,
+        0.88,
+        0.0345
+      ],
+      "tail": [
+        0.49,
+        0.5588
+      ],
+      "text_key": "luke.1.p22.b3"
+    },
+    {
+      "id": "LUKE_01_P022_B004",
+      "panel": "LUKE_01_P022_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.7039,
+        0.4,
+        0.0519
+      ],
+      "tail": [
+        0.22,
+        0.7863
+      ],
+      "text_key": "luke.1.p22.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "MARK_09_P005",
+  "book": "mark",
+  "chapter": 9,
+  "page": 5,
+  "ref": "9:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_09_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_09_P005_F1",
+      "box": [
+        0.006,
+        0.003,
+        0.988,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "他们下山的时候，"
+      }
+    },
+    {
+      "id": "MARK_09_P005_F2",
+      "box": [
+        0.006,
+        0.271,
+        0.42,
+        0.247
+      ],
+      "alt": {
+        "zh-CN": "耶稣吩咐他们说：「在人子从死人中复活以前，不要把你们看见的告诉任何人。」"
+      }
+    },
+    {
+      "id": "MARK_09_P005_F3",
+      "box": [
+        0.435,
+        0.271,
+        0.559,
+        0.247
+      ],
+      "alt": {
+        "zh-CN": "（三个门徒听着，又想问。）"
+      }
+    },
+    {
+      "id": "MARK_09_P005_F4",
+      "box": [
+        0.006,
+        0.521,
+        0.987,
+        0.475
+      ],
+      "alt": {
+        "zh-CN": "门徒把这话记在心里，彼此讨论「从死里复活」是什么意思。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_09_P005_B001",
+      "panel": "MARK_09_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0356,
+        0.0136,
+        0.3754,
+        0.0477
+      ],
+      "tail": null,
+      "text_key": "mark.9.p5.b1"
+    },
+    {
+      "id": "MARK_09_P005_B002",
+      "panel": "MARK_09_P005_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.015,
+        0.08,
+        0.36,
+        0.181
+      ],
+      "tail": [
+        0.41,
+        0.19
+      ],
+      "text_key": "mark.9.p5.b2"
+    },
+    {
+      "id": "MARK_09_P005_B003",
+      "panel": "MARK_09_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.015,
+        0.755,
+        0.4,
+        0.177
+      ],
+      "tail": null,
+      "text_key": "mark.9.p5.b3"
+    }
+  ]
+}

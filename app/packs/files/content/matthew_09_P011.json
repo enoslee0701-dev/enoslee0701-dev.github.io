@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_09_P011",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 11,
+  "ref": "9:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "耶稣到了管会堂的家里，看见有吹笛的人，又有许多人在乱嚷，"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P011_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "退下去吧！这女孩不是死了，是睡着了。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P011_F3",
+      "box": [
+        0,
+        0.4896,
+        0.7061,
+        0.5104
+      ],
+      "alt": {
+        "zh-CN": "他们就嘲笑他。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P011_F4",
+      "box": [
+        0.71,
+        0.4896,
+        0.29,
+        0.5104
+      ],
+      "alt": {
+        "zh-CN": "（里屋的门缝里，一盏陶灯照着床上女孩安静的手。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P011_B001",
+      "panel": "MATTHEW_09_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0026,
+        0.38,
+        0.0361
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p11.b1"
+    },
+    {
+      "id": "MATTHEW_09_P011_B002",
+      "panel": "MATTHEW_09_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.05,
+        0.2649,
+        0.23,
+        0.0295
+      ],
+      "tail": [
+        0.165,
+        0.3171
+      ],
+      "text_key": "matthew.9.p11.b2"
+    },
+    {
+      "id": "MATTHEW_09_P011_B003",
+      "panel": "MATTHEW_09_P011_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.68,
+        0.2649,
+        0.3,
+        0.0363
+      ],
+      "tail": [
+        0.83,
+        0.3239
+      ],
+      "text_key": "matthew.9.p11.b3"
+    },
+    {
+      "id": "MATTHEW_09_P011_B004",
+      "panel": "MATTHEW_09_P011_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2118,
+        0.4947,
+        0.2683,
+        0.0561
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p11.b4"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_12_P004",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 4,
+  "ref": "12:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "耶稣离开那里，进了一个会堂。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P004_F2",
+      "box": [
+        0,
+        0.2344,
+        0.625,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "会堂里有一个人，一只手枯干了。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P004_F3",
+      "box": [
+        0.6299,
+        0.2344,
+        0.3701,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "（那人低下头，法利赛人的影子落在他身上。）"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P004_F4",
+      "box": [
+        0,
+        0.5833,
+        1,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "有人问耶稣：「安息日可以治病吗？」他们是想找把柄控告他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P004_B001",
+      "panel": "MATTHEW_12_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.56,
+        0.0069,
+        0.42,
+        0.0415
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p4.b1"
+    },
+    {
+      "id": "MATTHEW_12_P004_B002",
+      "panel": "MATTHEW_12_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2937,
+        0.2413,
+        0.25,
+        0.0623
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p4.b2"
+    },
+    {
+      "id": "MATTHEW_12_P004_B003",
+      "panel": "MATTHEW_12_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.5916,
+        0.36,
+        0.05
+      ],
+      "tail": [
+        0.8,
+        0.6833
+      ],
+      "text_key": "matthew.12.p4.b3"
+    },
+    {
+      "id": "MATTHEW_12_P004_B004",
+      "panel": "MATTHEW_12_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.9167,
+        0.4,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p4.b4"
+    }
+  ]
+}

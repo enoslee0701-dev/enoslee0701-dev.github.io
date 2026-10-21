@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_07_P007",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 7,
+  "ref": "7:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P007_F1",
+      "box": [
+        0.0078,
+        0.0033,
+        0.9844,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "好树不能结坏果子，坏树不能结好果子。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P007_F2",
+      "box": [
+        0.0078,
+        0.2988,
+        0.9844,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "凡不结好果子的树，就要被砍下来，"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P007_F3",
+      "box": [
+        0.6563,
+        0.541,
+        0.3359,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "丢在火里。"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P007_F4",
+      "box": [
+        0.0078,
+        0.7715,
+        0.9844,
+        0.224
+      ],
+      "alt": {
+        "zh-CN": "所以，凭着他们的果子，就可以认出他们来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P007_B001",
+      "panel": "MATTHEW_07_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7953,
+        0.0062,
+        0.187,
+        0.0758
+      ],
+      "tail": [
+        0.8888,
+        0.1112
+      ],
+      "text_key": "matthew.7.p7.b1"
+    },
+    {
+      "id": "MATTHEW_07_P007_B002",
+      "panel": "MATTHEW_07_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7559,
+        0.3035,
+        0.2264,
+        0.0704
+      ],
+      "tail": [
+        0.8691,
+        0.4208
+      ],
+      "text_key": "matthew.7.p7.b2"
+    },
+    {
+      "id": "MATTHEW_07_P007_B003",
+      "panel": "MATTHEW_07_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.663,
+        0.5478,
+        0.1007,
+        0.0454
+      ],
+      "tail": [
+        0.7134,
+        0.6159
+      ],
+      "text_key": "matthew.7.p7.b3"
+    },
+    {
+      "id": "MATTHEW_07_P007_B004",
+      "panel": "MATTHEW_07_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3622,
+        0.776,
+        0.5118,
+        0.038
+      ],
+      "tail": [
+        0.6181,
+        0.8364
+      ],
+      "text_key": "matthew.7.p7.b4"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_08_P011",
+  "book": "matthew",
+  "chapter": 8,
+  "page": 11,
+  "ref": "8:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_08_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_08_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2064
+      ],
+      "alt": {
+        "zh-CN": "你们这些信心小的人哪，为什么害怕呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P011_F2",
+      "box": [
+        0,
+        0.2103,
+        1,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "于是他起来，斥责风和海，"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P011_F3",
+      "box": [
+        0,
+        0.4329,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "风和海就完全平静了。"
+      }
+    },
+    {
+      "id": "MATTHEW_08_P011_F4",
+      "box": [
+        0,
+        0.7793,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "这到底是什么人？连风和海也听他的！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_08_P011_B001",
+      "panel": "MATTHEW_08_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.35,
+        0.0041,
+        0.33,
+        0.0454
+      ],
+      "tail": [
+        0.515,
+        0.0701
+      ],
+      "text_key": "matthew.8.p11.b1"
+    },
+    {
+      "id": "MATTHEW_08_P011_B002",
+      "panel": "MATTHEW_08_P011_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.74,
+        0.2147,
+        0.25,
+        0.0438
+      ],
+      "tail": null,
+      "text_key": "matthew.8.p11.b2"
+    },
+    {
+      "id": "MATTHEW_08_P011_B003",
+      "panel": "MATTHEW_08_P011_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.4432,
+        0.32,
+        0.041
+      ],
+      "tail": null,
+      "text_key": "matthew.8.p11.b3"
+    },
+    {
+      "id": "MATTHEW_08_P011_B004",
+      "panel": "MATTHEW_08_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.74,
+        0.9205,
+        0.255,
+        0.0772
+      ],
+      "tail": [
+        0.8675,
+        1
+      ],
+      "text_key": "matthew.8.p11.b4"
+    }
+  ]
+}

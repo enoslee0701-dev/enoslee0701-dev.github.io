@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_02_P001",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "希律作王的时候，耶稣在犹太的伯利恒出生了。"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P001_F2",
+      "box": [
+        0,
+        0.3626,
+        0.498,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "（三个博士仰头望着那颗星。）"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P001_F3",
+      "box": [
+        0.502,
+        0.3626,
+        0.498,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "有几位博士从东方来到耶路撒冷，问人说："
+      }
+    },
+    {
+      "id": "MATTHEW_02_P001_F4",
+      "box": [
+        0,
+        0.6725,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "「生下来要作犹太人君王的那一位在哪里？我们在东方看见了他的星，特地来拜他。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P001_B001",
+      "panel": "MATTHEW_02_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0072,
+        0.44,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p1.b1"
+    },
+    {
+      "id": "MATTHEW_02_P001_B002",
+      "panel": "MATTHEW_02_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8157,
+        0.3687,
+        0.1743,
+        0.0429
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p1.b2"
+    },
+    {
+      "id": "MATTHEW_02_P001_B003",
+      "panel": "MATTHEW_02_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6764,
+        0.36,
+        0.0262
+      ],
+      "tail": [
+        0.2,
+        0.7353
+      ],
+      "text_key": "matthew.2.p1.b3"
+    },
+    {
+      "id": "MATTHEW_02_P001_B004",
+      "panel": "MATTHEW_02_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.6764,
+        0.135,
+        0.0851
+      ],
+      "tail": [
+        0.5275,
+        0.7942
+      ],
+      "text_key": "matthew.2.p1.b4"
+    }
+  ]
+}

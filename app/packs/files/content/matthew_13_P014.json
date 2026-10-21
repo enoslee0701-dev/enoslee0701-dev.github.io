@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_13_P014",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 14,
+  "ref": "13:40-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2012
+      ],
+      "alt": {
+        "zh-CN": "把稗子拔出来用火烧掉，世界的末了也要这样。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P014_F2",
+      "box": [
+        0,
+        0.207,
+        0.2744,
+        0.5299
+      ],
+      "alt": {
+        "zh-CN": "人子要差遣他的天使，把一切叫人跌倒的和作恶的，从他的国里挑出来，丢在火炉里；在那里必要哀哭切齿了。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P014_F3",
+      "box": [
+        0.2822,
+        0.207,
+        0.7178,
+        0.5299
+      ],
+      "alt": {
+        "zh-CN": "那时，义人在他们父的国里，要发出光来，像太阳一样。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P014_F4",
+      "box": [
+        0,
+        0.7428,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "有耳可听的，就应当听！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P014_B001",
+      "panel": "MATTHEW_13_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.008,
+        0.42,
+        0.0603
+      ],
+      "tail": [
+        0,
+        0.0884
+      ],
+      "text_key": "matthew.13.p14.b1"
+    },
+    {
+      "id": "MATTHEW_13_P014_B002",
+      "panel": "MATTHEW_13_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.011,
+        0.2229,
+        0.2524,
+        0.0953
+      ],
+      "tail": [
+        0,
+        0.3712
+      ],
+      "text_key": "matthew.13.p14.b2"
+    },
+    {
+      "id": "MATTHEW_13_P014_B003",
+      "panel": "MATTHEW_13_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2966,
+        0.2229,
+        0.3158,
+        0.0847
+      ],
+      "tail": [
+        0.2822,
+        0.3606
+      ],
+      "text_key": "matthew.13.p14.b3"
+    },
+    {
+      "id": "MATTHEW_13_P014_B004",
+      "panel": "MATTHEW_13_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.7505,
+        0.16,
+        0.072
+      ],
+      "tail": [
+        0.4,
+        0.8482
+      ],
+      "text_key": "matthew.13.p14.b4"
+    }
+  ]
+}

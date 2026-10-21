@@ -1,0 +1,552 @@
+{
+  "luke.11.p1.b1": {
+    "text": "One day in a place where Jesus had just finished praying,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p1.b2": {
+    "text": "one of His disciples requested,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p1.b3": {
+    "text": "“Lord, teach us to pray, just as John taught his disciples.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p2.b1": {
+    "text": "“When you pray, say: ‘Father, hallowed be Your name.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p2.b2": {
+    "text": "Your kingdom come.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p2.b3": {
+    "text": "Give us each day our daily bread.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p2.b4": {
+    "text": "And forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p3.b1": {
+    "text": "“Suppose one of you goes to his friend at midnight and says, ‘Friend, lend me three loaves of bread,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p3.b2": {
+    "text": "because a friend of mine has come to me on a journey, and I have nothing to set before him.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p3.b3": {
+    "text": "‘Do not bother me. My door is already shut, and my children and I are in bed. I cannot get up to give you anything.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p4.b1": {
+    "text": "I tell you, even though he will not get up to provide for him because of his friendship, yet because of the man’s persistence, he will get up and give him as much as he needs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p4.b2": {
+    "text": "So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p4.b3": {
+    "text": "For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p5.b1": {
+    "text": "What father among you, if his son asks for a fish, will give him a snake instead?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p5.b2": {
+    "text": "Or if he asks for an egg, will give him a scorpion?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p5.b3": {
+    "text": "So if you who are evil know how to give good gifts to your children,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p5.b4": {
+    "text": "how much more will your Father in heaven give the Holy Spirit to those who ask Him!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p6.b1": {
+    "text": "One day Jesus was driving out a demon that was mute. And when the demon was gone, the man who had been mute spoke. The crowds were amazed,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p6.b2": {
+    "text": "“It is by Beelzebul, the prince of the demons, that He drives out demons.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p6.b3": {
+    "text": "And others tested Him by demanding a sign from heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p7.b1": {
+    "text": "Knowing their thoughts, Jesus said to them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p7.b2": {
+    "text": "“Every kingdom divided against itself will be laid waste,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p7.b3": {
+    "text": "And a house divided against a house will fall.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p7.b4": {
+    "text": "But if I drive out demons by the finger of God, then the kingdom of God has come upon you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p8.b1": {
+    "text": "When a strong man, fully armed, guards his house, his possessions are secure.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p8.b2": {
+    "text": "But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p8.b3": {
+    "text": "He who is not with Me is against Me, and he who does not gather with Me scatters.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p9.b1": {
+    "text": "When an unclean spirit comes out of a man, it passes through arid places seeking rest",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p9.b2": {
+    "text": "Then it goes and brings seven other spirits more wicked than itself, and they go in and dwell there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p9.b3": {
+    "text": "And the final plight of that man is worse than the first.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p10.b1": {
+    "text": "As Jesus was saying these things, a woman in the crowd raised her voice and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p10.b2": {
+    "text": "“Blessed is the womb that bore You, and blessed are the breasts that nursed You!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p10.b3": {
+    "text": "“Blessed rather are those who hear the word of God and obey it.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p11.b1": {
+    "text": "“This is a wicked generation.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p11.b2": {
+    "text": "For she came from the ends of the earth to hear the wisdom of Solomon,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p11.b3": {
+    "text": "The men of Nineveh … repented at the preaching of Jonah,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p11.b4": {
+    "text": "And now One greater than Jonah is here.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p12.b1": {
+    "text": "… he sets it on a stand, so those who enter can see the light.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p12.b2": {
+    "text": "Your eye is the lamp of your body.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p12.b3": {
+    "text": "Be careful, then, that the light within you is not darkness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p13.b1": {
+    "text": "As Jesus was speaking, a Pharisee invited Him to dine with him; so He went in and reclined at the table.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p13.b2": {
+    "text": "But the Pharisee was surprised to see that Jesus did not first wash before the meal.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p13.b3": {
+    "text": "“Now then, … you Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p13.b4": {
+    "text": "But give as alms the things that are within you, and you will see that everything is clean for you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p14.b1": {
+    "text": "Woe to you Pharisees! You pay tithes of mint, rue, and every herb, but you disregard justice and the love of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p14.b2": {
+    "text": "Woe to you Pharisees! You love the chief seats in the synagogues and the greetings in the marketplaces.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p14.b3": {
+    "text": "Woe to you! For you are like unmarked graves, which men walk over without even noticing.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p15.b1": {
+    "text": "“Teacher, when You say these things, You insult us as well.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p15.b2": {
+    "text": "“Woe to you as well, experts in the law! … You weigh men down with heavy burdens, but you yourselves will not lift a finger to lighten their load.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p15.b3": {
+    "text": "Woe to you! You build tombs for the prophets, but it was your fathers who killed them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p16.b1": {
+    "text": "Because of this, the wisdom of God said, ‘I will send them prophets and apostles; some of them they will kill and others they will persecute.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p16.b2": {
+    "text": "From the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p16.b3": {
+    "text": "Woe to you experts in the law! For you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p17.b1": {
+    "text": "As Jesus went on from there, the scribes and Pharisees began to oppose Him bitterly and to ply Him with questions about many things,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.11.p17.b2": {
+    "text": "waiting to catch Him in something He might say.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 11:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

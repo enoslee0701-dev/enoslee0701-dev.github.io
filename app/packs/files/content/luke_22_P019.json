@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_22_P019",
+  "book": "luke",
+  "chapter": 22,
+  "page": 19,
+  "ref": "22:49-51",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_22_P019",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_22_P019_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.204
+      ]
+    },
+    {
+      "id": "LUKE_22_P019_F2",
+      "box": [
+        0,
+        0.1875,
+        0.5,
+        0.2555
+      ]
+    },
+    {
+      "id": "LUKE_22_P019_F3",
+      "box": [
+        0.51,
+        0.208,
+        0.49,
+        0.235
+      ]
+    },
+    {
+      "id": "LUKE_22_P019_F4",
+      "box": [
+        0,
+        0.4479,
+        1,
+        0.5521
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_22_P019_B001",
+      "panel": "LUKE_22_P019_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.0082,
+        0.47,
+        0.0612
+      ],
+      "tail": [
+        0.735,
+        0.0898
+      ],
+      "text_key": "luke.22.p19.b1"
+    },
+    {
+      "id": "LUKE_22_P019_B002",
+      "panel": "LUKE_22_P019_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3868,
+        0.46,
+        0.0459
+      ],
+      "tail": null,
+      "text_key": "luke.22.p19.b2"
+    },
+    {
+      "id": "LUKE_22_P019_B003",
+      "panel": "LUKE_22_P019_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5247,
+        0.2151,
+        0.1764,
+        0.0423
+      ],
+      "tail": [
+        0.6129,
+        0.2809
+      ],
+      "text_key": "luke.22.p19.b3"
+    },
+    {
+      "id": "LUKE_22_P019_B004",
+      "panel": "LUKE_22_P019_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9227,
+        0.6,
+        0.0607
+      ],
+      "tail": null,
+      "text_key": "luke.22.p19.b4"
+    }
+  ]
+}

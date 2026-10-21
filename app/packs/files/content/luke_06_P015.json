@@ -1,0 +1,133 @@
+{
+  "id": "LUKE_06_P015",
+  "book": "luke",
+  "chapter": 6,
+  "page": 15,
+  "ref": "6:43-45",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4518
+      ],
+      "alt": {
+        "zh-CN": "“没有好树结坏果子，也没有坏树结好果子。"
+      }
+    },
+    {
+      "id": "LUKE_06_P015_F2",
+      "box": [
+        0,
+        0.4577,
+        0.4922,
+        0.2923
+      ]
+    },
+    {
+      "id": "LUKE_06_P015_F3",
+      "box": [
+        0.5,
+        0.4577,
+        0.5,
+        0.2923
+      ]
+    },
+    {
+      "id": "LUKE_06_P015_F4",
+      "box": [
+        0,
+        0.7552,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "因为心里所充满的，嘴里就说出来。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P015_B001",
+      "panel": "LUKE_06_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3,
+        0.009,
+        0.4,
+        0.0722
+      ],
+      "tail": [
+        0,
+        0.1264
+      ],
+      "text_key": "luke.6.p15.b1"
+    },
+    {
+      "id": "LUKE_06_P015_B002",
+      "panel": "LUKE_06_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.1673,
+        0.674,
+        0.3051,
+        0.0643
+      ],
+      "tail": [
+        0,
+        0.75
+      ],
+      "text_key": "luke.6.p15.b2"
+    },
+    {
+      "id": "LUKE_06_P015_B003",
+      "panel": "LUKE_06_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.65,
+        0.4665,
+        0.33,
+        0.0643
+      ],
+      "tail": [
+        0.5,
+        0.56
+      ],
+      "text_key": "luke.6.p15.b3"
+    },
+    {
+      "id": "LUKE_06_P015_B004",
+      "panel": "LUKE_06_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.7625,
+        0.55,
+        0.0489
+      ],
+      "tail": [
+        0.695,
+        0.8359
+      ],
+      "text_key": "luke.6.p15.b4"
+    }
+  ]
+}

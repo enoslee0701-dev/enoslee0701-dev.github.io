@@ -1,0 +1,118 @@
+{
+  "id": "MATTHEW_18_P008",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 8,
+  "ref": "18:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P008_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "「我实在告诉你们，凡你们在地上所捆绑的，在天上也要捆绑；凡你们在地上所释放的，在天上也要释放。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P008_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "「我又告诉你们，若是你们中间有两个人在地上同心合意地求什么事，我在天上的父必为他们成就。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P008_F3",
+      "box": [
+        0,
+        0.3236,
+        1,
+        0.6764
+      ],
+      "alt": {
+        "zh-CN": "「因为无论在哪里，有两三个人奉我的名聚集，那里就有我在他们中间。」"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P008_F4",
+      "box": [
+        0.569,
+        0.735,
+        0.425,
+        0.248
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P008_B001",
+      "panel": "MATTHEW_18_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0199,
+        0.0096,
+        0.4573,
+        0.0959
+      ],
+      "tail": [
+        0.2486,
+        0.1375
+      ],
+      "text_key": "matthew.18.p8.b1"
+    },
+    {
+      "id": "MATTHEW_18_P008_B002",
+      "panel": "MATTHEW_18_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5228,
+        0.0096,
+        0.4573,
+        0.0831
+      ],
+      "tail": [
+        0.7515,
+        0.1247
+      ],
+      "text_key": "matthew.18.p8.b2"
+    },
+    {
+      "id": "MATTHEW_18_P008_B003",
+      "panel": "MATTHEW_18_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7971,
+        0.52,
+        0.1623
+      ],
+      "tail": [
+        0.29,
+        1
+      ],
+      "text_key": "matthew.18.p8.b3"
+    }
+  ]
+}

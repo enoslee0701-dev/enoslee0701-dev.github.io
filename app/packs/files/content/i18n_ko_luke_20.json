@@ -1,0 +1,512 @@
+{
+  "luke.20.p1.b1": {
+    "text": "하루는 예수께서 성전에서 백성을 가르치시며 복음을 전하실새",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b2": {
+    "text": "대제사장들과 서기관들이 장로들과 함께 가까이 와서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b3": {
+    "text": "당신이 무슨 권세로 이런 일을 하는지",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p1.b4": {
+    "text": "이 권세를 준 이가 누구인지 우리에게 말하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p2.b1": {
+    "text": "나도 한 말을 너희에게 물으리니 내게 말하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p2.b2": {
+    "text": "요한의 세례가 하늘로서냐 사람에게로서냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b1": {
+    "text": "만일 하늘로서라 하면 어찌하여 저를 믿지 아니하였느냐 할 것이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b2": {
+    "text": "만일 사람에게로서라 하면 … 저희가 다 우리를 돌로 칠 것이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b3": {
+    "text": "어디로서인지 알지 못하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p3.b4": {
+    "text": "나도 무슨 권세로 이런 일을 하는지 너희에게 이르지 아니하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b1": {
+    "text": "이 비유로 백성에게 말씀하시되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b2": {
+    "text": "한 사람이 포도원을 만들어 농부들에게 세로 주고 타국에 가서 오래 있다가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p4.b3": {
+    "text": "때가 이르매 … 한 종을 농부들에게 보내니 농부들이 종을 심히 때리고 거저 보내었거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b1": {
+    "text": "다시 다른 종을 보내니 그도 심히 때리고 능욕하고 거저 보내었거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b2": {
+    "text": "다시 세번째 종을 보내니 이도 상하게 하고 내어 쫓은지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b3": {
+    "text": "어찌할꼬",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p5.b4": {
+    "text": "내 사랑하는 아들을 보내리니 저희가 혹 그는 공경하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b1": {
+    "text": "이는 상속자니 죽이고 그 유업을 우리의 것으로 만들자",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b2": {
+    "text": "포도원 밖에 내어쫓아 죽였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p6.b3": {
+    "text": "그런즉 포도원 주인이 이 사람들을 어떻게 하겠느뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b1": {
+    "text": "와서 그 농부들을 진멸하고 포도원을 다른 사람들에게 주리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b2": {
+    "text": "그렇게 되지 말아지이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b3": {
+    "text": "그러면 기록된 바 건축자들의 버린 돌이 모퉁이의 머릿돌이 되었느니라 함이 어찜이뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p7.b4": {
+    "text": "무릇 이 돌 위에 떨어지는 자는 깨어지겠고 이 돌이 사람 위에 떨어지면 저를 가루로 만들어 흩으리라 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b1": {
+    "text": "서기관들과 대제사장들이 예수의 이 비유는 자기들을 가리켜 말씀하심인줄 알고 즉시 잡고자 하되 백성을 두려워하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b2": {
+    "text": "이에 저희가 엿보다가 … 정탐들을 보내어 그들로 스스로 의인인 체하며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p8.b3": {
+    "text": "예수를 총독의 치리와 권세 아래 붙이려하여 … 예수의 말을 책잡게 하니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p9.b1": {
+    "text": "선생님이여 우리가 아노니 당신은 바로 말씀하시고 가르치시며 사람을 외모로 취치 아니하시고 오직 참으로써 하나님의 도를 가르치시나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p9.b2": {
+    "text": "우리가 가이사에게 세를 바치는 것이 가하니이까 불가하니이까 하니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b1": {
+    "text": "데나리온 하나를 내게 보이라 뉘 화상과 글이 여기 있느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b2": {
+    "text": "가이사의 것이니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b3": {
+    "text": "그런즉 가이사의 것은 가이사에게 하나님의 것은 하나님께 바치라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p10.b4": {
+    "text": "저희가 백성 앞에서 그의 말을 능히 책잡지 못하고 그의 대답을 기이히 여겨 잠잠하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p11.b1": {
+    "text": "부활이 없다 주장하는 사두개인 중 어떤이들이 와서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p11.b2": {
+    "text": "물어 가로되 선생님이여 모세가 우리에게 써 주기를 사람의 형이 만일 아내를 두고 자식이 없이 죽거든 그 동생이 그 아내를 취하여 형을 위하여 후사를 세울지니라 하였나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b1": {
+    "text": "그런데 칠 형제가 있었는데 맏이 아내를 취하였다가 자식이 없이 죽고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b2": {
+    "text": "일곱이 다 그와 같이 자식이 없이 죽고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b3": {
+    "text": "그 후에 여자도 죽었나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p12.b4": {
+    "text": "일곱이 다 저를 아내로 취하였으니 부활 때에 그 중에 뉘 아내가 되리이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b1": {
+    "text": "예수께서 이르시되 이 세상의 자녀들은 장가도 가고 시집도 가되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b2": {
+    "text": "저 세상과 및 죽은 자 가운데서 부활함을 얻기에 합당히 여김을 입은 자들은 장가가고 시집가는 일이 없으며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p13.b3": {
+    "text": "저희는 다시 죽을 수도 없나니 이는 천사와 동등이요 부활의 자녀로서 하나님의 자녀임이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p14.b1": {
+    "text": "죽은 자의 살아난다는 것은 모세도 가시나무떨기에 관한 글에 보였으되 주를 아브라함의 하나님이요 이삭의 하나님이요 야곱의 하나님이시라 칭하였나니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p14.b2": {
+    "text": "하나님은 죽은 자의 하나님이 아니요 산 자의 하나님이시라 하나님에게는 모든 사람이 살았느니라 하시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b1": {
+    "text": "서기관 중 어떤이들이 말하되 선생이여 말씀이 옳으니이다 하니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b2": {
+    "text": "저희는 아무 것도 감히 더 물을 수 없음이더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b3": {
+    "text": "사람들이 어찌하여 그리스도를 다윗의 자손이라 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p15.b4": {
+    "text": "그런즉 다윗이 그리스도를 주라 칭하였으니 어찌 그의 자손이 되겠느뇨 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b1": {
+    "text": "모든 백성이 들을 때에 예수께서 그 제자들에게 이르시되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b2": {
+    "text": "긴 옷을 입고 다니는 것을 원하며 시장에서 문안 받는 것과 … 서기관들을 삼가라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.20.p16.b3": {
+    "text": "저희는 과부의 가산을 삼키며 외식으로 길게 기도하니 그 받는 판결이 더욱 중하리라 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 20:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

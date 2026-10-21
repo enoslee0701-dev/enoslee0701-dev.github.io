@@ -1,0 +1,109 @@
+{
+  "id": "LUKE_09_P002",
+  "book": "luke",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P002_F1",
+      "box": [
+        0,
+        0,
+        0.504,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "无论进了哪一家，就住在那里，直到离开那地方。"
+      }
+    },
+    {
+      "id": "LUKE_09_P002_F2",
+      "box": [
+        0.5098,
+        0,
+        0.4902,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "凡不接待你们的人，你们离开那城的时候，要把脚上的尘土跺下去，作为反对他们的见证。”"
+      }
+    },
+    {
+      "id": "LUKE_09_P002_F3",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "门徒就出去，走遍各村各乡，传福音，到处医病。"
+      }
+    },
+    {
+      "id": "LUKE_09_P002_F4",
+      "box": [
+        0,
+        0.6445,
+        1,
+        0.3555
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P002_B001",
+      "panel": "LUKE_09_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2318,
+        0.0025,
+        0.262,
+        0.0346
+      ],
+      "tail": null,
+      "text_key": "luke.9.p2.b1"
+    },
+    {
+      "id": "LUKE_09_P002_B002",
+      "panel": "LUKE_09_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5196,
+        0.0025,
+        0.4705,
+        0.0296
+      ],
+      "tail": null,
+      "text_key": "luke.9.p2.b2"
+    },
+    {
+      "id": "LUKE_09_P002_B003",
+      "panel": "LUKE_09_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.04,
+        0.2578,
+        0.6,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "luke.9.p2.b3"
+    }
+  ]
+}

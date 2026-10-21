@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_09_P008",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 8,
+  "ref": "9:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P008_F1",
+      "box": [
+        0,
+        0,
+        0.418,
+        0.304
+      ],
+      "alt": {
+        "zh-CN": "没有人把新布补在旧衣服上，因为补上的新布反会扯坏旧衣服，破洞就更大了。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P008_F2",
+      "box": [
+        0.4248,
+        0,
+        0.5752,
+        0.304
+      ],
+      "alt": {
+        "zh-CN": "也没有人把新酒装进旧皮袋；不然皮袋会裂开，酒漏出来，连皮袋也坏了。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P008_F3",
+      "box": [
+        0,
+        0.3086,
+        1,
+        0.4258
+      ],
+      "alt": {
+        "zh-CN": "只有把新酒装进新皮袋，两样才都能保全。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P008_F4",
+      "box": [
+        0,
+        0.7389,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "（约翰的门徒在门口静静听着；他们身后的黑街上，一支火把正急急跑来。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P008_B001",
+      "panel": "MATTHEW_09_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0042,
+        0.003,
+        0.1588,
+        0.0547
+      ],
+      "tail": [
+        0,
+        0.0881
+      ],
+      "text_key": "matthew.9.p8.b1"
+    },
+    {
+      "id": "MATTHEW_09_P008_B002",
+      "panel": "MATTHEW_09_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.47,
+        0.316,
+        0.51,
+        0.0668
+      ],
+      "tail": [
+        0.46,
+        0.3
+      ],
+      "text_key": "matthew.9.p8.b2"
+    },
+    {
+      "id": "MATTHEW_09_P008_B003",
+      "panel": "MATTHEW_09_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.5896,
+        0.3,
+        0.1277
+      ],
+      "tail": [
+        0,
+        0.7344
+      ],
+      "text_key": "matthew.9.p8.b3"
+    }
+  ]
+}

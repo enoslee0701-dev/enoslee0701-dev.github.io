@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_21_P010",
+  "book": "luke",
+  "chapter": 21,
+  "page": 10,
+  "ref": "21:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_21_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_21_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2142
+      ]
+    },
+    {
+      "id": "LUKE_21_P010_F2",
+      "box": [
+        0,
+        0.2181,
+        0.623,
+        0.3112
+      ]
+    },
+    {
+      "id": "LUKE_21_P010_F3",
+      "box": [
+        0.6279,
+        0.2181,
+        0.3721,
+        0.3112
+      ]
+    },
+    {
+      "id": "LUKE_21_P010_F4",
+      "box": [
+        0,
+        0.5319,
+        1,
+        0.4681
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_21_P010_B001",
+      "panel": "LUKE_21_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.1285,
+        0.5,
+        0.0385
+      ],
+      "tail": null,
+      "text_key": "luke.21.p10.b1"
+    },
+    {
+      "id": "LUKE_21_P010_B002",
+      "panel": "LUKE_21_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0249,
+        0.2274,
+        0.5731,
+        0.0466
+      ],
+      "tail": null,
+      "text_key": "luke.21.p10.b2"
+    },
+    {
+      "id": "LUKE_21_P010_B003",
+      "panel": "LUKE_21_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6465,
+        0.2243,
+        0.3348,
+        0.0404
+      ],
+      "tail": [
+        0.8139,
+        0.2958
+      ],
+      "text_key": "luke.21.p10.b3"
+    },
+    {
+      "id": "LUKE_21_P010_B004",
+      "panel": "LUKE_21_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.9157,
+        0.46,
+        0.0702
+      ],
+      "tail": null,
+      "text_key": "luke.21.p10.b4"
+    }
+  ]
+}

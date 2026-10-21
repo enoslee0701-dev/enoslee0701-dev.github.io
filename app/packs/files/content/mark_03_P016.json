@@ -1,0 +1,154 @@
+{
+  "id": "MARK_03_P016",
+  "book": "mark",
+  "chapter": 3,
+  "page": 16,
+  "ref": "3:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P016_F1",
+      "box": [
+        0.009,
+        0.004,
+        0.982,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：我实在告诉你们，世人一切的罪和一切亵渎的话都可以得赦免；"
+      }
+    },
+    {
+      "id": "MARK_03_P016_F2",
+      "box": [
+        0.009,
+        0.28,
+        0.356,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "只是亵渎圣灵的，永远不得赦免，"
+      }
+    },
+    {
+      "id": "MARK_03_P016_F3",
+      "box": [
+        0.372,
+        0.28,
+        0.619,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "要担当永远的罪。"
+      }
+    },
+    {
+      "id": "MARK_03_P016_F4",
+      "box": [
+        0.009,
+        0.546,
+        0.982,
+        0.445
+      ],
+      "alt": {
+        "zh-CN": "耶稣说这话，是因为他们说：他是被污鬼附着的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P016_B001",
+      "panel": "MARK_03_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.006,
+        0.37,
+        0.181
+      ],
+      "tail": [
+        0.33,
+        0.07
+      ],
+      "text_key": "mark.3.p16.b1"
+    },
+    {
+      "id": "MARK_03_P016_B002",
+      "panel": "MARK_03_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.009,
+        0.462,
+        0.75,
+        0.081
+      ],
+      "tail": [
+        0.24,
+        0.445
+      ],
+      "text_key": "mark.3.p16.b2"
+    },
+    {
+      "id": "MARK_03_P016_B003",
+      "panel": "MARK_03_P016_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.555,
+        0.28,
+        0.105
+      ],
+      "tail": [
+        0.12,
+        0.7
+      ],
+      "text_key": "mark.3.p16.b3"
+    },
+    {
+      "id": "MARK_03_P016_B004",
+      "panel": "MARK_03_P016_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.31,
+        0.555,
+        0.43,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "mark.3.p16.b4"
+    },
+    {
+      "id": "MARK_03_P016_B005",
+      "panel": "MARK_03_P016_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.53,
+        0.623,
+        0.228,
+        0.141
+      ],
+      "tail": [
+        0.78,
+        0.61
+      ],
+      "text_key": "mark.3.p16.b5"
+    }
+  ]
+}

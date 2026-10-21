@@ -1,0 +1,652 @@
+{
+  "luke.24.p1.b1": {
+    "text": "안식 후 첫날 새벽에 이 여자들이 그 예비한 향품을 가지고 무덤에 가서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p1.b2": {
+    "text": "돌이 무덤에서 굴려 옮기운 것을 보고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p1.b3": {
+    "text": "들어가니 주 예수의 시체가 뵈지 아니하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b1": {
+    "text": "이를 인하여 근심할 때에 문득 찬란한 옷을 입은 두 사람이 곁에 섰는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b2": {
+    "text": "어찌하여 산 자를 죽은 자 가운데서 찾느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b3": {
+    "text": "여기 계시지 않고 살아나셨느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b4": {
+    "text": "인자가 죄인의 손에 넘기워 십자가에 못 박히고 제 삼일에 다시 살아나야 하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p3.b1": {
+    "text": "저희가 예수의 말씀을 기억하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p3.b2": {
+    "text": "(이 여자들은 막달라 마리아와 요안나와 야고보의 모친 마리아라 또 저희와 함께한 다른 여자들도 이것을 사도들에게 고하니라)",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p3.b3": {
+    "text": "사도들은 저희 말이 허탄한듯이 뵈어 믿지 아니하나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p4.b1": {
+    "text": "베드로는 일어나 무덤에 달려가서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p4.b2": {
+    "text": "구푸려 들여다 보니 세마포만 보이는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p4.b3": {
+    "text": "그 된 일을 기이히 여기며 집으로 돌아가니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b1": {
+    "text": "그 날에 저희 중 둘이 … 엠마오라 하는 촌으로 가면서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b2": {
+    "text": "이 모든 된 일을 서로 이야기하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b3": {
+    "text": "예수께서 가까이 이르러 저희와 동행하시나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b4": {
+    "text": "저희의 눈이 가리워져서 그인줄 알아보지 못하거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b1": {
+    "text": "너희가 길 가면서 서로 주고 받고 하는 이야기가 무엇이냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b2": {
+    "text": "두 사람이 슬픈 빛을 띠고 머물러 서더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b3": {
+    "text": "그 한 사람인 글로바라 하는 자가 대답하여 가로되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b4": {
+    "text": "당신이 예루살렘에 우거하면서 근일 거기서 된 일을 홀로 알지 못하느뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b1": {
+    "text": "무슨 일이뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b2": {
+    "text": "나사렛 예수의 일이니 그는 하나님과 모든 백성 앞에서 말과 일에 능하신 선지자여늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b3": {
+    "text": "우리 대제사장들과 관원들이 사형 판결에 넘겨 주어 십자가에 못 박았느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b4": {
+    "text": "우리는 이 사람이 이스라엘을 구속할 자라고 바랐노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b1": {
+    "text": "또한 우리 중에 어떤 여자들이 우리로 놀라게 하였으니 이는 저희가 새벽에 무덤에 갔다가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b2": {
+    "text": "와서 그가 살으셨다 하는 천사들의 나타남을 보았다 함이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b3": {
+    "text": "또 우리와 함께한 자 중에 두어 사람이 무덤에 가 과연 여자들의 말한 바와 같음을 보았으나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b4": {
+    "text": "예수는 보지 못하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p9.b1": {
+    "text": "미련하고 선지자들의 말한 모든 것을 마음에 더디 믿는 자들이여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p9.b2": {
+    "text": "그리스도가 이런 고난을 받고 자기의 영광에 들어가야 할 것이 아니냐 하시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p9.b3": {
+    "text": "이에 모세와 및 모든 선지자의 글로 시작하여 모든 성경에 쓴바 자기에 관한 것을 자세히 설명하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p10.b1": {
+    "text": "저희의 가는 촌에 가까이 가매 예수는 더 가려하는것 같이 하시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p10.b2": {
+    "text": "우리와 함께 유하사이다 때가 저물어 가고 날이 이미 기울었나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p10.b3": {
+    "text": "이에 저희와 함께 유하러 들어 가시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b1": {
+    "text": "저희와 함께 음식 잡수실 때에 떡을 가지사 축사하시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b2": {
+    "text": "떼어 저희에게 주시매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b3": {
+    "text": "저희 눈이 밝아져 그인줄 알아 보더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b4": {
+    "text": "예수는 저희에게 보이지 아니하시는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b1": {
+    "text": "길에서 우리에게 말씀하시고 우리에게 성경을 풀어 주실 때에 우리 속에서 마음이 뜨겁지 아니하더냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b2": {
+    "text": "곧 그시로 일어나 예루살렘에 돌아가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b3": {
+    "text": "주께서 과연 살아나시고 시몬에게 나타나셨다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b4": {
+    "text": "두 사람도 길에서 된 일과 예수께서 떡을 떼심으로 자기들에게 알려지신 것을 말하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b1": {
+    "text": "이 말을 할 때에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b2": {
+    "text": "너희에게 평강이 있을지어다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b3": {
+    "text": "저희가 놀라고 무서워하여 그 보는 것을 영으로 생각하는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b4": {
+    "text": "내 손과 발을 보고 나인줄 알라 또 나를 만져보라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b1": {
+    "text": "저희가 너무 기쁘므로 오히려 믿지 못하고 기이히 여길 때에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b2": {
+    "text": "여기 무슨 먹을 것이 있느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b3": {
+    "text": "이에 구운 생선 한 토막을 드리매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b4": {
+    "text": "받으사 그 앞에서 잡수시더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b1": {
+    "text": "모세의 율법과 선지자의 글과 시편에 나를 가리켜 기록된 모든 것이 이루어져야 하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b2": {
+    "text": "이에 저희 마음을 열어 성경을 깨닫게 하시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b3": {
+    "text": "이같이 그리스도가 고난을 받고 제 삼일에 죽은 자 가운데서 살아날 것과",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b4": {
+    "text": "또 그의 이름으로 죄 사함을 얻게 하는 회개가 예루살렘으로부터 시작하여 모든 족속에게 전파될 것이 기록되었으니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p16.b1": {
+    "text": "너희는 이 모든 일의 증인이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p16.b2": {
+    "text": "볼지어다 내가 내 아버지의 약속하신 것을 너희에게 보내리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p16.b3": {
+    "text": "너희는 위로부터 능력을 입히울 때까지 이 성에 유하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p17.b1": {
+    "text": "예수께서 저희를 데리고 베다니 앞까지 나가사",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p17.b2": {
+    "text": "손을 들어 저희에게 축복하시더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p17.b3": {
+    "text": "축복하실 때에 저희를 떠나 (하늘로 올리우)시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p18.b1": {
+    "text": "그에게 경배하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p18.b2": {
+    "text": "큰 기쁨으로",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p18.b3": {
+    "text": "예루살렘에 돌아가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p19.b1": {
+    "text": "늘 성전에 있어 하나님을 찬송하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 24:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

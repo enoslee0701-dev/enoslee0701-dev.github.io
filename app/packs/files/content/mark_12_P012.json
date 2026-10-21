@@ -1,0 +1,133 @@
+{
+  "id": "MARK_12_P012",
+  "book": "mark",
+  "chapter": 12,
+  "page": 12,
+  "ref": "12:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_12_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_12_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.245
+      ],
+      "alt": {
+        "zh-CN": "耶稣在圣殿里教导人，问他们：「经学家怎么说基督是大卫的子孙呢？"
+      }
+    },
+    {
+      "id": "MARK_12_P012_F2",
+      "box": [
+        0.006,
+        0.249,
+        0.989,
+        0.419
+      ],
+      "alt": {
+        "zh-CN": "大卫被圣灵感动，说：『主对我主说：你坐在我的右边，等我使你的仇敌作你的脚凳。』"
+      }
+    },
+    {
+      "id": "MARK_12_P012_F3",
+      "box": [
+        0.633,
+        0.473,
+        0.361,
+        0.191
+      ],
+      "alt": {
+        "zh-CN": "大卫既然亲自称他为主，他怎么又是大卫的子孙呢？」"
+      }
+    },
+    {
+      "id": "MARK_12_P012_F4",
+      "box": [
+        0,
+        0.672,
+        1,
+        0.328
+      ],
+      "alt": {
+        "zh-CN": "众人都喜欢听他讲。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_12_P012_B001",
+      "panel": "MARK_12_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1,
+        0.128,
+        0.42,
+        0.105
+      ],
+      "tail": [
+        0.36,
+        0.08
+      ],
+      "text_key": "mark.12.p12.b1"
+    },
+    {
+      "id": "MARK_12_P012_B002",
+      "panel": "MARK_12_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.255,
+        0.3,
+        0.256
+      ],
+      "tail": null,
+      "text_key": "mark.12.p12.b2"
+    },
+    {
+      "id": "MARK_12_P012_B003",
+      "panel": "MARK_12_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.262,
+        0.42,
+        0.143
+      ],
+      "tail": [
+        0.76,
+        0.5
+      ],
+      "text_key": "mark.12.p12.b3"
+    },
+    {
+      "id": "MARK_12_P012_B004",
+      "panel": "MARK_12_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.53,
+        0.676,
+        0.4,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "mark.12.p12.b4"
+    }
+  ]
+}

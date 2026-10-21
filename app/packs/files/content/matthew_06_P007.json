@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_06_P007",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 7,
+  "ref": "6:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "你们禁食的时候，不要像那些伪善的人，面带愁容；……故意让人看出他们在禁食。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P007_F2",
+      "box": [
+        0,
+        0.2435,
+        0.3252,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，他们已经得到他们的赏赐了。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P007_F3",
+      "box": [
+        0.333,
+        0.2435,
+        0.667,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "你禁食的时候，要梳头洗脸，"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P007_F4",
+      "box": [
+        0,
+        0.7298,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "不让人看出你在禁食，只让你在暗中的父看见；你父在暗中察看，必然报答你。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P007_B001",
+      "panel": "MATTHEW_06_P007_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.66,
+        0.0072,
+        0.31,
+        0.0477
+      ],
+      "tail": [
+        0.815,
+        0.0788
+      ],
+      "text_key": "matthew.6.p7.b1"
+    },
+    {
+      "id": "MATTHEW_06_P007_B002",
+      "panel": "MATTHEW_06_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.1626,
+        0.6289,
+        0.1528,
+        0.0819
+      ],
+      "tail": [
+        0.239,
+        0.7253
+      ],
+      "text_key": "matthew.6.p7.b2"
+    },
+    {
+      "id": "MATTHEW_06_P007_B003",
+      "panel": "MATTHEW_06_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.353,
+        0.258,
+        0.2267,
+        0.0722
+      ],
+      "tail": [
+        0.4664,
+        0.3784
+      ],
+      "text_key": "matthew.6.p7.b3"
+    },
+    {
+      "id": "MATTHEW_06_P007_B004",
+      "panel": "MATTHEW_06_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.842,
+        0.53,
+        0.15
+      ],
+      "tail": [
+        0.29,
+        0.82
+      ],
+      "text_key": "matthew.6.p7.b4"
+    }
+  ]
+}

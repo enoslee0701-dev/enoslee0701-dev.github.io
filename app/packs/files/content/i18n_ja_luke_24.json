@@ -1,0 +1,652 @@
+{
+  "luke.24.p1.b1": {
+    "text": "週の初めの日、夜明け前に、女たちは用意しておいた香料を携えて、墓に行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p1.b2": {
+    "text": "ところが、石が墓からころがしてあるので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p1.b3": {
+    "text": "中にはいってみると、主イエスのからだが見当らなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b1": {
+    "text": "そのため途方にくれていると、見よ、輝いた衣を着たふたりの者が、彼らに現れた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b2": {
+    "text": "「あなたがたは、なぜ生きた方を死人の中にたずねているのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b3": {
+    "text": "そのかたは、ここにはおられない。よみがえられたのだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p2.b4": {
+    "text": "人の子は必ず罪人らの手に渡され、十字架につけられ、そして三日目によみがえる",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p3.b1": {
+    "text": "そこで女たちはその言葉を思い出し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p3.b2": {
+    "text": "この女たちというのは、マグダラのマリヤ、ヨハンナ、およびヤコブの母マリヤであった。彼女たちと一緒にいたほかの女たちも、このことを使徒たちに話した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p3.b3": {
+    "text": "ところが、使徒たちには、それが愚かな話のように思われて、それを信じなかった。〔",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p4.b1": {
+    "text": "ペテロは立って墓へ走って行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p4.b2": {
+    "text": "かがんで中を見ると、亜麻布だけがそこにあったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p4.b3": {
+    "text": "事の次第を不思議に思いながら帰って行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b1": {
+    "text": "この日、ふたりの弟子が、……エマオという村へ行きながら、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b2": {
+    "text": "このいっさいの出来事について互に語り合っていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b3": {
+    "text": "イエスご自身が近づいてきて、彼らと一緒に歩いて行かれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p5.b4": {
+    "text": "しかし、彼らの目がさえぎられて、イエスを認めることができなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b1": {
+    "text": "「歩きながら互に語り合っているその話は、なんのことなのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b2": {
+    "text": "彼らは悲しそうな顔をして立ちどまった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b3": {
+    "text": "そのひとりのクレオパという者が、答えて言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p6.b4": {
+    "text": "「あなたはエルサレムに泊まっていながら、あなただけが、この都でこのごろ起ったことをご存じないのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b1": {
+    "text": "「それは、どんなことか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b2": {
+    "text": "「ナザレのイエスのことです。あのかたは、神とすべての民衆との前で、わざにも言葉にも力ある預言者でしたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b3": {
+    "text": "祭司長たちや役人たちが、死刑に処するために引き渡し、十字架につけたのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p7.b4": {
+    "text": "わたしたちは、イスラエルを救うのはこの人であろうと、望みをかけていました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b1": {
+    "text": "ところが、わたしたちの仲間である数人の女が、わたしたちを驚かせました。というのは、彼らが朝早く墓に行きますと、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b2": {
+    "text": "帰ってきましたが、そのとき御使が現れて、『イエスは生きておられる』と告げたと申すのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b3": {
+    "text": "それで、わたしたちの仲間が数人、墓に行って見ますと、果して女たちが言ったとおりで、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p8.b4": {
+    "text": "イエスは見当りませんでした」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p9.b1": {
+    "text": "「ああ、愚かで心のにぶいため、預言者たちが説いたすべての事を信じられない者たちよ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p9.b2": {
+    "text": "キリストは必ず、これらの苦難を受けて、その栄光に入るはずではなかったのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p9.b3": {
+    "text": "こう言って、モーセやすべての預言者からはじめて、聖書全体にわたり、ご自身についてしるしてある事どもを、説きあかされた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p10.b1": {
+    "text": "それから、彼らは行こうとしていた村に近づいたが、イエスがなお先へ進み行かれる様子であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p10.b2": {
+    "text": "「わたしたちと一緒にお泊まり下さい。もう夕暮になっており、日もはや傾いています」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p10.b3": {
+    "text": "イエスは、彼らと共に泊まるために、家にはいられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b1": {
+    "text": "一緒に食卓につかれたとき、パンを取り、祝福して",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b2": {
+    "text": "さき、彼らに渡しておられるうちに、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b3": {
+    "text": "彼らの目が開けて、それがイエスであることがわかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p11.b4": {
+    "text": "すると、み姿が見えなくなった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b1": {
+    "text": "「道々お話しになったとき、また聖書を説き明してくださったとき、お互の心が内に燃えたではないか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b2": {
+    "text": "そして、すぐに立ってエルサレムに帰って",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b3": {
+    "text": "「主は、ほんとうによみがえって、シモンに現れなさった」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p12.b4": {
+    "text": "そこでふたりの者は、途中であったことや、パンをおさきになる様子でイエスだとわかったことなどを話した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b1": {
+    "text": "こう話していると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b2": {
+    "text": "「やすかれ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b3": {
+    "text": "彼らは恐れ驚いて、霊を見ているのだと思った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p13.b4": {
+    "text": "わたしの手や足を見なさい。まさしくわたしなのだ。さわって見なさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b1": {
+    "text": "彼らは喜びのあまり、まだ信じられないで不思議に思っていると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b2": {
+    "text": "「ここに何か食物があるか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b3": {
+    "text": "彼らが焼いた魚の一きれをさしあげると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p14.b4": {
+    "text": "イエスはそれを取って、みんなの前で食べられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b1": {
+    "text": "モーセの律法と預言書と詩篇とに、わたしについて書いてあることは、必ずことごとく成就する」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b2": {
+    "text": "そこでイエスは、聖書を悟らせるために彼らの心を開いて",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b3": {
+    "text": "「こう、しるしてある。キリストは苦しみを受けて、三日目に死人の中からよみがえる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p15.b4": {
+    "text": "そして、その名によって罪のゆるしを得させる悔改めが、エルサレムからはじまって、もろもろの国民に宣べ伝えられる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p16.b1": {
+    "text": "あなたがたは、これらの事の証人である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p16.b2": {
+    "text": "見よ、わたしの父が約束されたものを、あなたがたに贈る。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p16.b3": {
+    "text": "だから、上から力を授けられるまでは、あなたがたは都にとどまっていなさい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p17.b1": {
+    "text": "それから、イエスは彼らをベタニヤの近くまで連れて行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p17.b2": {
+    "text": "手をあげて彼らを祝福された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p17.b3": {
+    "text": "祝福しておられるうちに、彼らを離れて、〔天にあげられた。〕",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p18.b1": {
+    "text": "イエスを拝し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p18.b2": {
+    "text": "非常な喜びをもって",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p18.b3": {
+    "text": "エルサレムに帰り、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.24.p19.b1": {
+    "text": "絶えず宮にいて、神をほめたたえていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Luke 24:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

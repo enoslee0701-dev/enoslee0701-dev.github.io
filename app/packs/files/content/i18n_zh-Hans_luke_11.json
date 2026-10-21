@@ -1,0 +1,607 @@
+{
+  "luke.11.p1.b1": {
+    "text": "耶稣在一个地方祷告；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣在一⁠个地⁠方祷⁠告；"
+  },
+  "luke.11.p1.b2": {
+    "text": "祷告完了，有个门徒对他说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "祷⁠告完⁠了，有个门⁠徒对他说："
+  },
+  "luke.11.p1.b3": {
+    "text": "求主教导我们祷告，像约翰教导他的门徒。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "求主教⁠导我⁠们祷⁠告，像约⁠翰教⁠导他⁠的门⁠徒。"
+  },
+  "luke.11.p2.b1": {
+    "text": "你们祷告的时候，要说：我们在天上的父：愿人都尊你的名为圣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们祷⁠告的时⁠候，要说：我⁠们在天⁠上的父：愿人都尊你⁠的名⁠为圣。"
+  },
+  "luke.11.p2.b2": {
+    "text": "愿你的国降临；愿你的旨意行在地上，如同行在天上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "愿你⁠的国降⁠临；愿你⁠的旨⁠意行在地⁠上，如⁠同行在天⁠上。"
+  },
+  "luke.11.p2.b3": {
+    "text": "我们日用的饮食，天天赐给我们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们日⁠用的饮⁠食，天⁠天赐⁠给我⁠们。"
+  },
+  "luke.11.p2.b4": {
+    "text": "赦免我们的罪，因为我们也赦免凡亏欠我们的人。不叫我们遇见试探；救我们脱离凶恶。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "赦⁠免我⁠们的罪，因⁠为我⁠们也赦⁠免凡亏⁠欠我⁠们的人。不叫我⁠们遇⁠见试⁠探；救我⁠们脱⁠离凶⁠恶。"
+  },
+  "luke.11.p3.b1": {
+    "text": "你们中间谁有一个朋友半夜到他那里去，说：『朋友！请借给我三个饼；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们中⁠间谁⁠有一⁠个朋⁠友半⁠夜到他那⁠里去，说：『朋⁠友！请借⁠给我三个饼；"
+  },
+  "luke.11.p3.b2": {
+    "text": "因为我有一个朋友行路，来到我这里，我没有什么给他摆上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为我⁠有一⁠个朋⁠友行⁠路，来⁠到我这⁠里，我没⁠有什⁠么给他摆上。"
+  },
+  "luke.11.p3.b3": {
+    "text": "不要搅扰我，门已经关闭，孩子们也同我在床上了，我不能起来给你。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠要搅⁠扰我，门已⁠经关⁠闭，孩⁠子们也同我⁠在床⁠上了，我不⁠能起⁠来给你。"
+  },
+  "luke.11.p4.b1": {
+    "text": "我告诉你们，虽不因他是朋友起来给他，但因他情词迫切地直求，就必起来照他所需用的给他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我告⁠诉你⁠们，虽不因他⁠是朋⁠友起⁠来给他，但因他情词迫⁠切地直求，就必起⁠来照他所⁠需用的给他。"
+  },
+  "luke.11.p4.b2": {
+    "text": "我又告诉你们，你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠又告⁠诉你⁠们，你⁠们祈⁠求，就给你⁠们；寻⁠找，就寻见；叩门，就给你⁠们开⁠门。"
+  },
+  "luke.11.p4.b3": {
+    "text": "因为，凡祈求的，就得着；寻找的，就寻见；叩门的，就给他开门。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为，凡祈⁠求的，就⁠得着；寻⁠找的，就寻见；叩门的，就给他开⁠门。"
+  },
+  "luke.11.p5.b1": {
+    "text": "你们中间作父亲的，谁有儿子求饼，反给他石头呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们中⁠间作父⁠亲的，谁⁠有儿⁠子求饼，反给他石⁠头呢？"
+  },
+  "luke.11.p5.b2": {
+    "text": "求鸡蛋，反给他蝎子呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "求鸡⁠蛋，反给他蝎⁠子呢？"
+  },
+  "luke.11.p5.b3": {
+    "text": "你们虽然不好，尚且知道拿好东西给儿女；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们虽⁠然不⁠好，尚⁠且知⁠道拿⁠好东⁠西给儿⁠女；"
+  },
+  "luke.11.p5.b4": {
+    "text": "何况天父，岂不更将圣灵给求他的人吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "何⁠况天⁠父，岂⁠不更将圣⁠灵给求他⁠的人吗？"
+  },
+  "luke.11.p6.b1": {
+    "text": "耶稣赶出一个叫人哑巴的鬼；鬼出去了，哑巴就说出话来；众人都希奇。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣赶⁠出一⁠个叫人哑⁠巴的鬼；鬼出⁠去了，哑⁠巴就说⁠出话⁠来；众⁠人都希⁠奇。"
+  },
+  "luke.11.p6.b2": {
+    "text": "他是靠着鬼王别西卜赶鬼。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠是靠着鬼⁠王别⁠西⁠卜赶鬼。"
+  },
+  "luke.11.p6.b3": {
+    "text": "又有人试探耶稣，向他求从天上来的神迹。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有人试⁠探耶⁠稣，向他求从天上⁠来的神⁠迹。"
+  },
+  "luke.11.p7.b1": {
+    "text": "他晓得他们的意念，便对他们说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他晓⁠得他⁠们的意⁠念，便对他⁠们说："
+  },
+  "luke.11.p7.b2": {
+    "text": "凡一国自相纷争，就成为荒场；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡一⁠国自相纷⁠争，就成⁠为荒场；"
+  },
+  "luke.11.p7.b3": {
+    "text": "凡一家自相纷争，就必败落。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡一⁠家自相纷⁠争，就必⁠败落。"
+  },
+  "luke.11.p7.b4": {
+    "text": "我若靠着　神的能力赶鬼，这就是　神的国临到你们了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我若靠着　神的能⁠力赶鬼，这就⁠是　神⁠的国临⁠到你⁠们了。"
+  },
+  "luke.11.p8.b1": {
+    "text": "壮士披挂整齐，看守自己的住宅，他所有的都平安无事；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "壮⁠士披⁠挂整⁠齐，看⁠守自⁠己的住⁠宅，他所⁠有的都平⁠安无⁠事；"
+  },
+  "luke.11.p8.b2": {
+    "text": "但有一个比他更壮的来，胜过他，就夺去他所倚靠的盔甲兵器，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但⁠有一⁠个比他更壮的来，胜⁠过他，就夺去他⁠所倚⁠靠的盔⁠甲兵⁠器，"
+  },
+  "luke.11.p8.b3": {
+    "text": "不与我相合的，就是敌我的；不同我收聚的，就是分散的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不与我相⁠合的，就⁠是敌我⁠的；不⁠同我收聚的，就⁠是分⁠散的。"
+  },
+  "luke.11.p9.b1": {
+    "text": "污鬼离了人身，就在无水之地过来过去，寻求安歇之处；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "污⁠鬼离⁠了人⁠身，就⁠在无水之⁠地过⁠来过⁠去，寻⁠求安⁠歇之处；"
+  },
+  "luke.11.p9.b2": {
+    "text": "便去另带了七个比自己更恶的鬼来，都进去住在那里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "便⁠去另带了七⁠个比自⁠己更恶的鬼来，都进⁠去住⁠在那⁠里。"
+  },
+  "luke.11.p9.b3": {
+    "text": "那人末后的景况比先前更不好了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那人末后的景⁠况比先⁠前更⁠不好⁠了。"
+  },
+  "luke.11.p10.b1": {
+    "text": "耶稣正说这话的时候，众人中间有一个女人大声说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣正说这话的时⁠候，众⁠人中⁠间有一⁠个女⁠人大⁠声说："
+  },
+  "luke.11.p10.b2": {
+    "text": "怀你胎的和乳养你的有福了！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "怀你胎的和乳养你⁠的有⁠福了！"
+  },
+  "luke.11.p10.b3": {
+    "text": "是，却还不如听　神之道而遵守的人有福。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "是，却还不⁠如听　神之⁠道而遵⁠守的人有⁠福。"
+  },
+  "luke.11.p11.b1": {
+    "text": "这世代是一个邪恶的世代。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这世⁠代是一⁠个邪⁠恶的世⁠代。"
+  },
+  "luke.11.p11.b2": {
+    "text": "她从地极而来，要听所罗门的智慧话。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "她从地极而⁠来，要听所⁠罗⁠门的智⁠慧话。"
+  },
+  "luke.11.p11.b3": {
+    "text": "尼尼微人听了约拿所传的就悔改了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "尼尼微人听了约拿所传的就悔⁠改了。"
+  },
+  "luke.11.p11.b4": {
+    "text": "看哪，在这里有一人比约拿更大。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，在这⁠里有一⁠人比约拿更⁠大。"
+  },
+  "luke.11.p12.b1": {
+    "text": "……总是放在灯台上，使进来的人得见亮光。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……总⁠是放⁠在灯⁠台上，使进⁠来的人得见亮⁠光。"
+  },
+  "luke.11.p12.b2": {
+    "text": "你眼睛就是身上的灯。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你眼⁠睛就⁠是身⁠上的灯。"
+  },
+  "luke.11.p12.b3": {
+    "text": "所以，你要省察，恐怕你里头的光或者黑暗了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "所⁠以，你⁠要省⁠察，恐⁠怕你里⁠头的光或⁠者黑⁠暗了。"
+  },
+  "luke.11.p13.b1": {
+    "text": "说话的时候，有一个法利赛人请耶稣同他吃饭，耶稣就进去坐席。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "说⁠话的时⁠候，有一⁠个法⁠利⁠赛人请耶⁠稣同他吃⁠饭，耶⁠稣就进⁠去坐⁠席。"
+  },
+  "luke.11.p13.b2": {
+    "text": "这法利赛人看见耶稣饭前不洗手便诧异。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这法⁠利⁠赛人看⁠见耶⁠稣饭前不洗⁠手便诧⁠异。"
+  },
+  "luke.11.p13.b3": {
+    "text": "如今你们法利赛人洗净杯盘的外面，你们里面却满了勒索和邪恶。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "如⁠今你⁠们法⁠利⁠赛人洗⁠净杯⁠盘的外⁠面，你⁠们里⁠面却满⁠了勒⁠索和邪⁠恶。"
+  },
+  "luke.11.p13.b4": {
+    "text": "只要把里面的施舍给人，凡物于你们就都洁净了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠要把里⁠面的施⁠舍给⁠人，凡物于你⁠们就都洁⁠净了。"
+  },
+  "luke.11.p14.b1": {
+    "text": "你们法利赛人有祸了！因为你们将薄荷、芸香并各样菜蔬献上十分之一，那公义和爱　神的事反倒不行了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们法⁠利⁠赛人有祸了！因⁠为你⁠们将薄⁠荷、芸香并各⁠样菜⁠蔬献⁠上十⁠分之⁠一，那公⁠义和爱　神的事反⁠倒不⁠行⁠了。"
+  },
+  "luke.11.p14.b2": {
+    "text": "你们法利赛人有祸了！因为你们喜爱会堂里的首位，又喜爱人在街市上问你们的安。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们法⁠利⁠赛人有祸了！因⁠为你⁠们喜⁠爱会⁠堂里的首⁠位，又喜⁠爱人在街⁠市上问你⁠们的安。"
+  },
+  "luke.11.p14.b3": {
+    "text": "你们有祸了！因为你们如同不显露的坟墓，走在上面的人并不知道。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:44"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们有祸了！因⁠为你⁠们如⁠同不显⁠露的坟⁠墓，走⁠在上⁠面的人并不⁠知⁠道。"
+  },
+  "luke.11.p15.b1": {
+    "text": "夫子！你这样说也把我们糟蹋了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "夫⁠子！你这⁠样说也⁠把我⁠们糟⁠蹋了。"
+  },
+  "luke.11.p15.b2": {
+    "text": "你们律法师也有祸了！因为你们把难担的担子放在人身上，自己一个指头却不肯动。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们律法⁠师也⁠有祸了！因⁠为你⁠们把难担的担⁠子放⁠在人身⁠上，自⁠己一⁠个指⁠头却不⁠肯动。"
+  },
+  "luke.11.p15.b3": {
+    "text": "你们有祸了！因为你们修造先知的坟墓，那先知正是你们的祖宗所杀的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们有祸了！因⁠为你⁠们修⁠造先⁠知的坟⁠墓，那先⁠知正⁠是你⁠们的祖⁠宗所杀的。"
+  },
+  "luke.11.p16.b1": {
+    "text": "所以　神用智慧曾说：『我要差遣先知和使徒到他们那里去，有的他们要杀害，有的他们要逼迫』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "所⁠以　神用智⁠慧曾说：『我⁠要差⁠遣先⁠知和使⁠徒到他⁠们那⁠里去，有的他⁠们要杀⁠害，有的他⁠们要逼⁠迫』"
+  },
+  "luke.11.p16.b2": {
+    "text": "就是从亚伯的血起，直到被杀在坛和殿中间撒迦利亚的血为止。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠是从亚⁠伯的血起，直⁠到被杀在坛和殿中⁠间撒迦利⁠亚的血为⁠止。"
+  },
+  "luke.11.p16.b3": {
+    "text": "你们律法师有祸了！因为你们把知识的钥匙夺了去，自己不进去，正要进去的人你们也阻挡他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们律法⁠师有祸了！因⁠为你⁠们把知⁠识的钥⁠匙夺了去，自⁠己不⁠进⁠去，正⁠要进⁠去的人你⁠们也阻⁠挡他⁠们。"
+  },
+  "luke.11.p17.b1": {
+    "text": "耶稣从那里出来，文士和法利赛人就极力地催逼他，引动他多说话，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:53"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣从那⁠里出⁠来，文⁠士和法⁠利⁠赛人就极⁠力地催⁠逼他，引动他多说⁠话，"
+  },
+  "luke.11.p17.b2": {
+    "text": "私下窥听，要拿他的话柄。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 11:54"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "私下窥听，要拿他的⁠话柄。"
+  }
+}

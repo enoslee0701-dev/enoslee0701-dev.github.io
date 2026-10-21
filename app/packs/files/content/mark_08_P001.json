@@ -1,0 +1,130 @@
+{
+  "id": "MARK_08_P001",
+  "book": "mark",
+  "chapter": 8,
+  "page": 1,
+  "ref": "8:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_08_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_08_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.227
+      ],
+      "alt": {
+        "zh-CN": "那时，又有许多人聚集在耶稣那里，他们没有东西吃了。"
+      }
+    },
+    {
+      "id": "MARK_08_P001_F2",
+      "box": [
+        0,
+        0.23,
+        0.425,
+        0.26
+      ],
+      "alt": {
+        "zh-CN": "（一只倒空的食袋，只抖出几粒碎屑。）"
+      }
+    },
+    {
+      "id": "MARK_08_P001_F3",
+      "box": [
+        0.431,
+        0.23,
+        0.569,
+        0.26
+      ],
+      "alt": {
+        "zh-CN": "（老人把最后一点碎屑给了孙子。）"
+      }
+    },
+    {
+      "id": "MARK_08_P001_F4",
+      "box": [
+        0,
+        0.492,
+        1,
+        0.508
+      ],
+      "alt": {
+        "zh-CN": "耶稣叫门徒来，说：「我可怜这些人，他们跟我在这里已经三天，没有东西吃了。"
+      }
+    },
+    {
+      "id": "MARK_08_P001_F5",
+      "box": [
+        0.575,
+        0.729,
+        0.425,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "如果我让他们饿着回家，他们会在路上累倒，因为有些人是从很远的地方来的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_08_P001_B001",
+      "panel": "MARK_08_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.45,
+        0.005,
+        0.5,
+        0.078
+      ],
+      "tail": null,
+      "text_key": "mark.8.p1.b1"
+    },
+    {
+      "id": "MARK_08_P001_B002",
+      "panel": "MARK_08_P001_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5022,
+        0.4,
+        0.0508
+      ],
+      "tail": [
+        0.57,
+        0.55
+      ],
+      "text_key": "mark.8.p1.b2"
+    },
+    {
+      "id": "MARK_08_P001_B003",
+      "panel": "MARK_08_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.005,
+        0.855,
+        0.565,
+        0.143
+      ],
+      "tail": [
+        0.47,
+        0.84
+      ],
+      "text_key": "mark.8.p1.b3"
+    }
+  ]
+}

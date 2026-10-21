@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_05_P002",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:3-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "“心灵贫乏的人有福了！因为天国是他们的。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P002_F2",
+      "box": [
+        0,
+        0.2415,
+        1,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "哀伤的人有福了！因为他们必得安慰。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P002_F3",
+      "box": [
+        0,
+        0.6751,
+        0.499,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "温柔的人有福了！因为他们必承受土地。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P002_F4",
+      "box": [
+        0.5059,
+        0.6751,
+        0.4941,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "渴慕公义如饥似渴的人有福了！因为他们必得饱足。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P002_B001",
+      "panel": "MATTHEW_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0072,
+        0.42,
+        0.0527
+      ],
+      "tail": [
+        0.76,
+        0.0839
+      ],
+      "text_key": "matthew.5.p2.b1"
+    },
+    {
+      "id": "MATTHEW_05_P002_B002",
+      "panel": "MATTHEW_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.01,
+        0.2458,
+        0.4,
+        0.0322
+      ],
+      "tail": [
+        0.21,
+        0.321
+      ],
+      "text_key": "matthew.5.p2.b2"
+    },
+    {
+      "id": "MATTHEW_05_P002_B003",
+      "panel": "MATTHEW_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2196,
+        0.6816,
+        0.2694,
+        0.0389
+      ],
+      "tail": [
+        0.3543,
+        0.753
+      ],
+      "text_key": "matthew.5.p2.b3"
+    },
+    {
+      "id": "MATTHEW_05_P002_B004",
+      "panel": "MATTHEW_05_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5108,
+        0.6816,
+        0.1136,
+        0.0779
+      ],
+      "tail": [
+        0.5676,
+        0.792
+      ],
+      "text_key": "matthew.5.p2.b4"
+    }
+  ]
+}

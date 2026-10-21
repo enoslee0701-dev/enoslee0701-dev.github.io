@@ -1,0 +1,151 @@
+{
+  "id": "MARK_12_P002",
+  "book": "mark",
+  "chapter": 12,
+  "page": 2,
+  "ref": "12:2-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_12_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_12_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.229
+      ],
+      "alt": {
+        "zh-CN": "到了收成的时候，园主打发一个仆人到园户那里，要收葡萄园的果子。"
+      }
+    },
+    {
+      "id": "MARK_12_P002_F2",
+      "box": [
+        0,
+        0.233,
+        0.497,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "园户抓住他，打了他，叫他空手回去。"
+      }
+    },
+    {
+      "id": "MARK_12_P002_F3",
+      "box": [
+        0.503,
+        0.233,
+        0.497,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "园主又打发一个仆人去，他们打伤他的头，并且侮辱他。"
+      }
+    },
+    {
+      "id": "MARK_12_P002_F4",
+      "box": [
+        0,
+        0.487,
+        1,
+        0.307
+      ],
+      "alt": {
+        "zh-CN": "园主又打发一个仆人去，他们就杀了他。"
+      }
+    },
+    {
+      "id": "MARK_12_P002_F5",
+      "box": [
+        0,
+        0.798,
+        1,
+        0.202
+      ],
+      "alt": {
+        "zh-CN": "后来又打发好些仆人去，有被他们打的，有被他们杀的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_12_P002_B001",
+      "panel": "MARK_12_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.29,
+        0.112,
+        0.7,
+        0.105
+      ],
+      "tail": [
+        0,
+        0.0595
+      ],
+      "text_key": "mark.12.p2.b1"
+    },
+    {
+      "id": "MARK_12_P002_B002",
+      "panel": "MARK_12_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.015,
+        0.34,
+        0.325,
+        0.143
+      ],
+      "tail": [
+        0,
+        0.2955
+      ],
+      "text_key": "mark.12.p2.b2"
+    },
+    {
+      "id": "MARK_12_P002_B003",
+      "panel": "MARK_12_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.355,
+        0.34,
+        0.27,
+        0.143
+      ],
+      "tail": [
+        0.503,
+        0.2955
+      ],
+      "text_key": "mark.12.p2.b3"
+    },
+    {
+      "id": "MARK_12_P002_B004",
+      "panel": "MARK_12_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8,
+        0.4993,
+        0.17,
+        0.0675
+      ],
+      "tail": [
+        0,
+        0.5975
+      ],
+      "text_key": "mark.12.p2.b4"
+    }
+  ]
+}

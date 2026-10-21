@@ -1,0 +1,582 @@
+{
+  "matthew.5.p1.b1": {
+    "text": "イエスはこの群衆を見て、山に登り、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p1.b2": {
+    "text": "座につかれると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p1.b3": {
+    "text": "弟子たちがみもとに近寄ってきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p1.b4": {
+    "text": "そこで、イエスは口を開き、彼らに教えて言われた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b1": {
+    "text": "「こころの貧しい人たちは、さいわいである、天国は彼らのものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b2": {
+    "text": "悲しんでいる人たちは、さいわいである、彼らは慰められるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b3": {
+    "text": "柔和な人たちは、さいわいである、彼らは地を受けつぐであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b4": {
+    "text": "義に飢えかわいている人たちは、さいわいである、彼らは飽き足りるようになるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b1": {
+    "text": "あわれみ深い人たちは、さいわいである、彼らはあわれみを受けるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b2": {
+    "text": "心の清い人たちは、さいわいである、彼らは神を見るであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b3": {
+    "text": "平和をつくり出す人たちは、さいわいである、彼らは神の子と呼ばれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b4": {
+    "text": "義のために迫害されてきた人たちは、さいわいである、天国は彼らのものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p4.b1": {
+    "text": "わたしのために人々があなたがたをののしり、また迫害し、あなたがたに対し偽って様々の悪口を言う時には、あなたがたは、さいわいである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p4.b2": {
+    "text": "喜び、よろこべ、天においてあなたがたの受ける報いは大きい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p4.b3": {
+    "text": "あなたがたより前の預言者たちも、同じように迫害されたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p5.b1": {
+    "text": "あなたがたは、地の塩である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p5.b2": {
+    "text": "もし塩のききめがなくなったら、何によってその味が取りもどされようか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p5.b3": {
+    "text": "もはや、なんの役にも立たず、ただ外に捨てられて、人々にふみつけられるだけである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b1": {
+    "text": "あなたがたは、世の光である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b2": {
+    "text": "山の上にある町は隠れることができない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b3": {
+    "text": "また、あかりをつけて、それを枡の下におく者はいない。むしろ燭台の上において、家の中のすべてのものを照させるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b4": {
+    "text": "そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p7.b1": {
+    "text": "わたしが律法や預言者を廃するためにきた、と思ってはならない。廃するためではなく、成就するためにきたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p7.b2": {
+    "text": "よく言っておく。天地が滅び行くまでは、律法の一点、一画もすたることはなく、ことごとく全うされるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p7.b3": {
+    "text": "わたしは言っておく。あなたがたの義が律法学者やパリサイ人の義にまさっていなければ、決して天国に、はいることはできない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b1": {
+    "text": "昔の人々に『殺すな。殺す者は裁判を受けねばならない』と言われていたことは、あなたがたの聞いているところである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b2": {
+    "text": "しかし、わたしはあなたがたに言う。兄弟に対して怒る者は、だれでも裁判を受けねばならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b3": {
+    "text": "兄弟にむかって愚か者と言う者は、議会に引きわたされるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b4": {
+    "text": "また、ばか者と言う者は、地獄の火に投げ込まれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b1": {
+    "text": "だから、祭壇に供え物をささげようとする場合、兄弟が自分に対して何かうらみをいだいていることを、そこで思い出したなら、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b2": {
+    "text": "その供え物を祭壇の前に残しておき、まず行ってその兄弟と和解し、それから帰ってきて、供え物をささげることにしなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b3": {
+    "text": "あなたを訴える者と一緒に道を行く時には、その途中で早く仲直りをしなさい。そうしないと、その訴える者はあなたを裁判官にわたし、裁判官は下役にわたし、そして、あなたは獄に入れられるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b4": {
+    "text": "よくあなたに言っておく。最後の一コドラントを支払ってしまうまでは、決してそこから出てくることはできない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b1": {
+    "text": "『姦淫するな』と言われていたことは、あなたがたの聞いているところである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b2": {
+    "text": "しかし、わたしはあなたがたに言う。だれでも、情欲をいだいて女を見る者は、心の中ですでに姦淫をしたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b3": {
+    "text": "もしあなたの右の目が罪を犯させるなら、それを抜き出して捨てなさい。五体の一部を失っても、全身が地獄に投げ入れられない方が、あなたにとって益である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b4": {
+    "text": "もしあなたの右の手が罪を犯させるなら、それを切って捨てなさい。五体の一部を失っても、全身が地獄に落ち込まない方が、あなたにとって益である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p11.b1": {
+    "text": "また『妻を出す者は離縁状を渡せ』と言われている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p11.b2": {
+    "text": "しかし、わたしはあなたがたに言う。だれでも、不品行以外の理由で自分の妻を出す者は、姦淫を行わせるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p11.b3": {
+    "text": "また出された女をめとる者も、姦淫を行うのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b1": {
+    "text": "また昔の人々に『いつわり誓うな、誓ったことは、すべて主に対して果せ』と言われていたことは、あなたがたの聞いているところである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b2": {
+    "text": "しかし、わたしはあなたがたに言う。いっさい誓ってはならない。天をさして誓うな。そこは神の御座であるから。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b3": {
+    "text": "また、自分の頭をさして誓うな。あなたは髪の毛一すじさえ、白くも黒くもすることができない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b4": {
+    "text": "あなたがたの言葉は、ただ、しかり、しかり、否、否、であるべきだ。それ以上に出ることは、悪から来るのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b1": {
+    "text": "『目には目を、歯には歯を』と言われていたことは、あなたがたの聞いているところである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b2": {
+    "text": "しかし、わたしはあなたがたに言う。悪人に手向かうな。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b3": {
+    "text": "もし、だれかがあなたの右の頬を打つなら、ほかの頬をも向けてやりなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b4": {
+    "text": "あなたを訴えて、下着を取ろうとする者には、上着をも与えなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p14.b1": {
+    "text": "もし、だれかが、あなたをしいて一マイル行かせようとするなら、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p14.b2": {
+    "text": "その人と共に二マイル行きなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p14.b3": {
+    "text": "求める者には与え、借りようとする者を断るな。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b1": {
+    "text": "『隣り人を愛し、敵を憎め』と言われていたことは、あなたがたの聞いているところである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b2": {
+    "text": "しかし、わたしはあなたがたに言う。敵を愛し、迫害する者のために祈れ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b3": {
+    "text": "こうして、天にいますあなたがたの父の子となるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b4": {
+    "text": "天の父は、悪い者の上にも良い者の上にも、太陽をのぼらせ、正しい者にも正しくない者にも、雨を降らして下さるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p16.b1": {
+    "text": "あなたがたが自分を愛する者を愛したからとて、なんの報いがあろうか。そのようなことは取税人でもするではないか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p16.b2": {
+    "text": "兄弟だけにあいさつをしたからとて、なんのすぐれた事をしているだろうか。そのようなことは異邦人でもしているではないか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p16.b3": {
+    "text": "それだから、あなたがたの天の父が完全であられるように、あなたがたも完全な者となりなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Matthew 5:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

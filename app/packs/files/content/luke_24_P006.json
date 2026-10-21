@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_24_P006",
+  "book": "luke",
+  "chapter": 24,
+  "page": 6,
+  "ref": "24:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_24_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_24_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ]
+    },
+    {
+      "id": "LUKE_24_P006_F2",
+      "box": [
+        0,
+        0.2318,
+        1,
+        0.4089
+      ]
+    },
+    {
+      "id": "LUKE_24_P006_F3",
+      "box": [
+        0,
+        0.6452,
+        0.5967,
+        0.3548
+      ]
+    },
+    {
+      "id": "LUKE_24_P006_F4",
+      "box": [
+        0.6074,
+        0.6452,
+        0.3926,
+        0.3548
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_24_P006_B001",
+      "panel": "LUKE_24_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.67,
+        0.0069,
+        0.3,
+        0.0457
+      ],
+      "tail": [
+        0.82,
+        0.0754
+      ],
+      "text_key": "luke.24.p6.b1"
+    },
+    {
+      "id": "LUKE_24_P006_B002",
+      "panel": "LUKE_24_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.2441,
+        0.38,
+        0.0572
+      ],
+      "tail": null,
+      "text_key": "luke.24.p6.b2"
+    },
+    {
+      "id": "LUKE_24_P006_B003",
+      "panel": "LUKE_24_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0119,
+        0.6558,
+        0.2386,
+        0.0638
+      ],
+      "tail": null,
+      "text_key": "luke.24.p6.b3"
+    },
+    {
+      "id": "LUKE_24_P006_B004",
+      "panel": "LUKE_24_P006_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0239,
+        0.8936,
+        0.3281,
+        0.0922
+      ],
+      "tail": [
+        0.188,
+        1
+      ],
+      "text_key": "luke.24.p6.b4"
+    }
+  ]
+}

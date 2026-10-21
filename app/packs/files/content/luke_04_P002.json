@@ -1,0 +1,106 @@
+{
+  "id": "LUKE_04_P002",
+  "book": "luke",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "魔鬼对他说：“你若是上帝的儿子，就吩咐这块石头变成食物吧。”"
+      }
+    },
+    {
+      "id": "LUKE_04_P002_F2",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.5059
+      ],
+      "alt": {
+        "zh-CN": "耶稣回答：“经上记着：‘人活着不是单靠食物，而是靠上帝口里所出的一切话。’”"
+      }
+    },
+    {
+      "id": "LUKE_04_P002_F3",
+      "box": [
+        0,
+        0.7591,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "（天快亮了，石头还是石头。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_04_P002_B001",
+      "panel": "LUKE_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.5,
+        0.0098,
+        0.46,
+        0.0738
+      ],
+      "tail": [
+        0.73,
+        0.1082
+      ],
+      "text_key": "luke.4.p2.b1"
+    },
+    {
+      "id": "LUKE_04_P002_B002",
+      "panel": "LUKE_04_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.2652,
+        0.43,
+        0.0301
+      ],
+      "tail": null,
+      "text_key": "luke.4.p2.b2"
+    },
+    {
+      "id": "LUKE_04_P002_B003",
+      "panel": "LUKE_04_P002_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.3054,
+        0.43,
+        0.1014
+      ],
+      "tail": [
+        0.755,
+        0.4574
+      ],
+      "text_key": "luke.4.p2.b3"
+    }
+  ]
+}

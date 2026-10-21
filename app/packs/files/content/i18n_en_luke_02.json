@@ -1,0 +1,612 @@
+{
+  "luke.2.p1.b1": {
+    "text": "Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p1.b2": {
+    "text": "This was the first census to take place while Quirinius was governor of Syria.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p1.b3": {
+    "text": "And everyone went to his own town to register.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p2.b1": {
+    "text": "So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p2.b2": {
+    "text": "since he was from the house and line of David.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p2.b3": {
+    "text": "He went there to register with Mary, who was pledged to him in marriage and was expecting a child.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p3.b1": {
+    "text": "While they were there, the time came for her Child to be born.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p3.b2": {
+    "text": "And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p3.b3": {
+    "text": "because there was no room for them in the inn.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p4.b1": {
+    "text": "And there were shepherds residing in the fields nearby, keeping watch over their flocks by night.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p4.b2": {
+    "text": "Just then an angel of the Lord stood before them, and the glory of the Lord shone around them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p4.b3": {
+    "text": "and they were terrified.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p5.b1": {
+    "text": "“Do not be afraid! For behold, I bring you good news of great joy that will be for all the people:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p5.b2": {
+    "text": "Today in the city of David a Savior has been born to you. He is Christ the Lord!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p5.b3": {
+    "text": "And this will be a sign to you: You will find a baby wrapped in swaddling cloths and lying in a manger.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p6.b1": {
+    "text": "And suddenly there appeared with the angel a great multitude of the heavenly host, praising God and saying:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p6.b2": {
+    "text": "“Glory to God in the highest,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p6.b3": {
+    "text": "and on earth peace to men on whom His favor rests!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b1": {
+    "text": "When the angels had left them and gone into heaven,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b2": {
+    "text": "“Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b3": {
+    "text": "So they hurried off",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b4": {
+    "text": "and found Mary and Joseph and the Baby, who was lying in the manger.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b1": {
+    "text": "After they had seen the Child, they spread the message they had received about Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b2": {
+    "text": "And all who heard it were amazed at what the shepherds said to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b3": {
+    "text": "But Mary treasured up all these things and pondered them in her heart.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b4": {
+    "text": "The shepherds returned, glorifying and praising God for all they had heard and seen, which was just as the angel had told them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b1": {
+    "text": "When the eight days … had passed, He was named Jesus, the name the angel had given Him before He had been conceived.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b2": {
+    "text": "And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b3": {
+    "text": "(as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”),",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b4": {
+    "text": "… “A pair of turtledoves or two young pigeons.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b1": {
+    "text": "Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b2": {
+    "text": "The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b3": {
+    "text": "Led by the Spirit, he went into the temple courts.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b4": {
+    "text": "And when the parents brought in the child Jesus to do for Him what was customary under the Law,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b1": {
+    "text": "Simeon took Him in his arms and blessed God, saying:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b2": {
+    "text": "“Sovereign Lord, as You have promised, You now dismiss Your servant in peace.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b3": {
+    "text": "For my eyes have seen Your salvation, which You have prepared in the sight of all people,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:30-31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b4": {
+    "text": "a light for revelation to the Gentiles, and for glory to Your people Israel.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b1": {
+    "text": "The Child’s father and mother were amazed at what was spoken about Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b2": {
+    "text": "Then Simeon blessed them and said to His mother Mary:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b3": {
+    "text": "“Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against, so that the thoughts of many hearts will be revealed—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:34-35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b4": {
+    "text": "and a sword will pierce your soul as well.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p13.b1": {
+    "text": "There was also a prophetess named Anna, the daughter of Phanuel, of the tribe of Asher, who was well along in years.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p13.b2": {
+    "text": "and then was a widow to the age of eighty-four. She never left the temple, but worshiped night and day, fasting and praying.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p13.b3": {
+    "text": "Coming forward at that moment, she gave thanks to God and spoke about the Child to all who were waiting for the redemption of Jerusalem.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p14.b1": {
+    "text": "When Jesus’ parents had done everything required by the Law of the Lord, they returned to Galilee, to their own town of Nazareth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p14.b2": {
+    "text": "And the Child grew and became strong. He was filled with wisdom, and the grace of God was upon Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b1": {
+    "text": "Every year His parents went to Jerusalem for the Feast of the Passover. And when He was twelve years old, they went up according to the custom of the Feast.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:41-42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b2": {
+    "text": "When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b3": {
+    "text": "Assuming He was in their company, they traveled on for a day before they began to look for Him among their relatives and friends.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b4": {
+    "text": "When they could not find Him, they returned to Jerusalem to search for Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p16.b1": {
+    "text": "Finally, after three days they found Him in the temple courts,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p16.b2": {
+    "text": "sitting among the teachers, listening to them and asking them questions.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p16.b3": {
+    "text": "And all who heard Him were astounded at His understanding and His answers.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b1": {
+    "text": "When His parents saw Him, they were astonished.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b2": {
+    "text": "“Child, why have You done this to us?” … “Your father and I have been anxiously searching for You.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b3": {
+    "text": "“Why were you looking for Me?” … “Did you not know that I had to be in My Father’s house ?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b4": {
+    "text": "But they did not understand the statement He was making to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p18.b1": {
+    "text": "Then He went down to Nazareth with them and was obedient to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p18.b2": {
+    "text": "But His mother treasured up all these things in her heart.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p18.b3": {
+    "text": "And Jesus grew in wisdom and stature, and in favor with God and man.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 2:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

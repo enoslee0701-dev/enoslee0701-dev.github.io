@@ -1,0 +1,612 @@
+{
+  "luke.2.p1.b1": {
+    "text": "ใน​สมัย​นั้น ซีซาร์​ออกัสตัส​ออก​คำ​สั่ง​ให้​สำรวจ​สำมะโน​ประชากร​ทั่ว​จักรวรรดิ​โรมัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p1.b2": {
+    "text": "(นี่​เป็น​การ​สำรวจ​สำมะโน​ประชากร​ครั้ง​แรก​ใน​สมัย​ที่​คีรินิอัส​เป็น​ผู้ว่าราชการ​ซีเรีย)",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p1.b3": {
+    "text": "ทุก​คน​ก็​ไป​ที่​เมือง​ของ​ตน​เอง​เพื่อ​ขึ้น​ทะเบียน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p2.b1": {
+    "text": "โยเซฟ​จึง​เดินทาง​จาก​เมือง​นาซาเร็ธ​ใน​แคว้น​กาลิลี ขึ้น​ไป​ที่​เบธเลเฮม​เมือง​ของ​ดาวิด​ใน​แคว้น​ยูเดีย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p2.b2": {
+    "text": "เพราะ​เขา​สืบ​เชื้อสาย​มา​จาก​ดาวิด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p2.b3": {
+    "text": "จึง​ไป​ขึ้น​ทะเบียน​ที่​นั่น​กับ​มารีย์​คู่​หมั้น​ซึ่ง​กำลัง​ตั้ง​ท้อง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p3.b1": {
+    "text": "ขณะ​ที่​พวก​เขา​อยู่​ที่​นั่น​ก็​ถึง​กำหนด​คลอด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p3.b2": {
+    "text": "และ​มารีย์​คลอด​ลูก​ชาย​หัว​ปี เธอ​ห่อ​ตัว​ลูก​ด้วย​ผ้าอ้อม แล้ว​วาง​ไว้​ใน​ราง​หญ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p3.b3": {
+    "text": "เนื่องจาก​พวก​เขา​หา​ห้อง​พัก​ไม่​ได้​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p4.b1": {
+    "text": "ใน​แถบ​นั้น มี​คน​เลี้ยง​แกะ​อยู่​กลาง​ทุ่ง​เฝ้า​ฝูง​แกะ​ตอน​กลาง​คืน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p4.b2": {
+    "text": "ทูต​สวรรค์​องค์​หนึ่ง​ของ​องค์​พระผู้เป็นเจ้า​มา​ปรากฏ และ​สง่า​ราศี​ของ​องค์​พระผู้เป็นเจ้า​ส่อง​สว่าง​รอบ​คน​เลี้ยง​แกะ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p4.b3": {
+    "text": "และ​พวก​เขา​ก็​หวาด​กลัว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p5.b1": {
+    "text": "“อย่า​กลัว​เลย เรา​นำ​ข่าว​ดี​มา​ซึ่ง​จะ​ทำ​ให้​ทุก​คน​ชื่นชม​ยินดี​อย่าง​ยิ่ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p5.b2": {
+    "text": "วัน​นี้​ที่​เมือง​ของ​ดาวิด พระ​ผู้​ช่วย​ให้​รอด​มา​เกิด​แล้ว พระองค์​คือ​พระเมสสิยาห์ องค์​พระผู้เป็นเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p5.b3": {
+    "text": "นี่​จะ​เป็น​หมาย​สำคัญ​แก่​เจ้า เจ้า​จะ​พบ​ทารก​พัน​ผ้าอ้อม​นอน​อยู่​ใน​ราง​หญ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p6.b1": {
+    "text": "ทัน​ใด​นั้น ทูต​สวรรค์​กลุ่ม​ใหญ่​มา​ปรากฏ​พร้อม​กับ​ทูต​สวรรค์​องค์​นั้น​ร่วม​สรรเสริญ​พระเจ้า​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p6.b2": {
+    "text": "“เกียรติ​มี​แด่​พระเจ้า​ใน​ที่​สูง​สุด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p6.b3": {
+    "text": "และ​สันติสุข​มี​แด่​ผู้​ที่​พระองค์​โปรดปราน​บน​โลก​นี้”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b1": {
+    "text": "เมื่อ​ทูต​สวรรค์​จาก​ไป และ​กลับ​สู่​สวรรค์​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b2": {
+    "text": "“ไป​เบธเลเฮม​กัน​เถอะ ไป​ดู​เหตุการณ์​ที่​เกิดขึ้น​ตาม​ที่​องค์​พระผู้เป็นเจ้า​ได้​บอก​เรา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b3": {
+    "text": "ดังนั้น พวก​เขา​จึง​รีบ​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p7.b4": {
+    "text": "พบ​มารีย์ โยเซฟ​และ​ทารก​ที่​นอน​อยู่​ใน​ราง​หญ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b1": {
+    "text": "เมื่อ​ได้​เห็น​แล้ว​ก็​กระจาย​ข่าว​เรื่อง​ที่​ทูตสวรรค์​บอก​เรื่อง​เด็ก​คน​นี้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b2": {
+    "text": "ทุก​คน​ที่​ได้ยิน​สิ่ง​ที่​คน​เลี้ยง​แกะ​พูด​ก็​ประหลาด​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b3": {
+    "text": "แต่​มารีย์​เก็บ​เรื่อง​ทั้งหมด​นี้​ไว้​และ​ใคร่ครวญ​อยู่​ใน​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p8.b4": {
+    "text": "คน​เลี้ยง​แกะ​กลับ​ไป แล้ว​สรรเสริญ​พระเจ้า​สำหรับ​ทุก​สิ่ง​ที่​ได้ยิน​และ​ได้​เห็น​เหมือน​ที่​ทูตสวรรค์​ได้​บอก​ไว้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b1": {
+    "text": "เมื่อ​ครบ​แปด​วัน ก็​ถึง​เวลา​เข้า​สุหนัต​ของ​เด็ก​คน​นั้น​ที่​ถูก​ตั้ง​ชื่อ​ว่า​เยซู ตาม​ชื่อ​ที่​ทูตสวรรค์​ได้​บอก​ไว้​ตั้งแต่​เขา​ยัง​ไม่​ปฏิสนธิ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b2": {
+    "text": "เมื่อ​ถึง​เวลา​พิธี​ชำระ​ตาม​กฎ​บัญญัติ​ของ​โมเสส โยเซฟ​กับ​มารีย์​ก็​นำ​พระเยซู​มา​ที่​เยรูซาเล็ม เพื่อ​มอบ​แด่​องค์​พระผู้เป็นเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b3": {
+    "text": "(ตาม​ที่​เขียน​ไว้​ใน​กฎ​บัญญัติ​ของ​องค์​พระผู้เป็นเจ้า​ว่า “ลูก​ชาย​หัว​ปี​ทุก​คน​จะ​ต้อง​มอบ​แด่​องค์​พระผู้เป็นเจ้า”)",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p9.b4": {
+    "text": "… “นก​เขา​หรือ​นก​พิราบ​หนุ่ม​สอง​ตัว”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b1": {
+    "text": "มี​ชาย​คน​หนึ่ง​ใน​เยรูซาเล็ม​ชื่อ​สิเมโอน เป็น​คน​ชอบธรรม​และ​ยำเกรง​พระเจ้า เขา​เฝ้า​รอ​เวลา​ที่​ชน​อิสราเอล​จะ​ได้​รับ​การ​ปลอบโยน และ​พระวิญญาณ​บริสุทธิ์​ก็​อยู่​กับ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b2": {
+    "text": "พระวิญญาณ​บริสุทธิ์​เปิดเผย​แก่​เขา​ว่า​เขา​จะ​ไม่​ตาย​จนกว่า​จะ​ได้​เห็น​พระเมสสิยาห์​ของ​องค์​พระผู้เป็นเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b3": {
+    "text": "พระวิญญาณ​พา​เขา​มา​ที่​ลาน​วิหาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p10.b4": {
+    "text": "เมื่อ​พ่อ​แม่​นำ​ทารก​เยซู​มา​ทำ​พิธี​ตาม​ธรรมเนียม​ของ​กฎ​บัญญัติ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b1": {
+    "text": "สิเมโอน​ก็​อุ้ม​พระเยซู และ​สรรเสริญ​พระเจ้า​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b2": {
+    "text": "“ข้า​แต่​องค์​พระผู้เป็นเจ้า​องค์​เจ้า​นาย ดัง​ที่​พระองค์​ได้​สัญญา​ไว้ ตอน​นี้​ขอ​ให้​ผู้​รับใช้​ของ​พระองค์​ไป​เป็น​สุข",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b3": {
+    "text": "เพราะ​ตา​ของ​ข้าพเจ้า​ได้​เห็น​ความ​รอด ที่​พระองค์​จัด​เตรียม​ไว้​ต่อหน้า​ชน​ชาติ​ทั้งปวง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:30-31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p11.b4": {
+    "text": "เป็น​แสง​สว่าง​ของ​คน​ที่​ไม่​ใช่​ยิว และ​เป็น​เกียรติ​แก่​อิสราเอล ชนชาติ​ของ​พระองค์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b1": {
+    "text": "พ่อ​แม่​ก็​แปลกใจ​ใน​สิ่ง​ที่​สิเมโอน​พูด​ถึง​ลูก​ของ​ตน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b2": {
+    "text": "แล้ว​สิเมโอน​อวยพร​คน​ทั้ง​สอง และ​พูด​กับ​มารีย์​ผู้​เป็น​แม่​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b3": {
+    "text": "“เด็ก​คน​นี้​ถูก​ลิขิต​เพื่อ​ทำ​ให้​คน​อิสราเอล​มากมาย​ล้ม​ลง​หรือ​ลุก​ขึ้น และ​เป็น​หมาย​สำคัญ​ซึ่ง​จะ​ถูก​ต่อต้าน เพื่อ​ความ​คิด​ใน​ใจ​ของ​คน​มากมาย​จะ​ถูก​เปิดเผย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:34-35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p12.b4": {
+    "text": "และ​ดาบ​จะ​แทง​ทะลุ​จิตใจ​เจ้า​เอง​ด้วย”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p13.b1": {
+    "text": "มี​ผู้​เผย​พระวจนะ​คน​หนึ่ง​ชื่อ​อันนา เป็น​ลูก​สาว​ของ​ฟานูเอล​ตระกูล​อาเชอร์ เธอ​ชรา​มาก​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p13.b2": {
+    "text": "แล้ว​ก็​เป็น​หม้าย​มา​จน​อายุ 84 ปี เธอ​ไม่​เคย​ออก​จาก​วิหาร​เลย แต่​เฝ้า​นมัสการ​ทั้ง​วัน​ทั้ง​คืน อด​อาหาร​และ​อธิษฐาน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p13.b3": {
+    "text": "เธอ​เข้า​มา​หา​พวก​เขา ขอบคุณ​พระเจ้า และ​พูด​ถึง​เด็ก​คน​นี้​ให้​ทุก​คน​ที่​เฝ้า​รอ​การ​ไถ่​เยรูซาเล็ม​ฟัง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p14.b1": {
+    "text": "เมื่อ​โยเซฟ​กับ​มารีย์​ทำ​ทุก​อย่าง​ตาม​กฎ​ของ​องค์​พระผู้เป็นเจ้า​แล้ว พวก​เขา​ก็​กลับ​นาซาเร็ธ​เมือง​ของ​ตน​ใน​กาลิลี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p14.b2": {
+    "text": "และ​เด็ก​น้อย​ผู้​นี้​เติบโต​และ​แข็งแรง เขา​เปี่ยม​ด้วย​สติ​ปัญญา และ​พระคุณ​ของ​พระเจ้า​อยู่​กับ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b1": {
+    "text": "พ่อ​แม่​ของ​พระเยซู​ไป​ที่​เยรูซาเล็ม​ทุก​ปี เพื่อ​ร่วม​เทศกาล​ปัสกา เมื่อ​พระเยซู​อายุ​ได้​สิบ​สอง​ปี พวก​เขา​เดินทาง​ขึ้น​ไป​ร่วม​เทศกาล​ตาม​ธรรมเนียม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:41-42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b2": {
+    "text": "หลัง​จาก​เทศกาล​สิ้น​สุด​ลง ขณะ​ที่​พ่อ​แม่​เดินทาง​กลับ​บ้าน เด็ก​ชาย​เยซู​ยัง​อยู่​ใน​เยรูซาเล็ม แต่​พวก​เขา​ไม่​รู้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b3": {
+    "text": "คิด​ว่า​อยู่​ใน​กลุ่ม​คน​ที่​มา​ด้วย​กัน เมื่อ​เดินทาง​ได้​หนึ่ง​วัน​พวก​เขา​ก็​เริ่ม​หา​พระเยซู​ใน​กลุ่ม​ญาติ​และ​เพื่อน​ฝูง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p15.b4": {
+    "text": "เมื่อ​ไม่​พบ พวก​เขา​จึง​กลับ​ไป​ตาม​หา​ที่​เยรูซาเล็ม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p16.b1": {
+    "text": "สาม​วัน​ต่อมา พวก​เขา​พบ​พระเยซู … ใน​ลาน​วิหาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p16.b2": {
+    "text": "นั่ง​อยู่​ท่ามกลาง​พวก​ครู​สอน​กฎ​บัญญัติ กำลัง​ฟัง​และ​ซัก​ถาม​ครู​เหล่า​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p16.b3": {
+    "text": "ทุก​คน​ที่​ได้​ฟัง​ประหลาด​ใจ​ใน​ความ​เข้าใจ​และ​คำ​ตอบ​ของ​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b1": {
+    "text": "เมื่อ​พ่อ​แม่​เห็น​ก็​ประหลาด​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b2": {
+    "text": "“ลูก ทำไม​ทำ​กับ​พ่อ​แม่​อย่าง​นี้ เรา​ร้อนใจ​ตาม​หา​ลูก”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b3": {
+    "text": "“ตาม​หา​ลูก​ทำไม ไม่​รู้​หรือ​ว่า​ลูก​ต้อง​อยู่ใน​บ้าน​ของ​พระบิดา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p17.b4": {
+    "text": "แต่​พวก​เขา​ไม่​เข้าใจ​สิ่ง​ที่​พระองค์​พูด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p18.b1": {
+    "text": "แล้ว​พระองค์​กลับ​ลง​ไป​ที่​นาซาเร็ธ​กับ​พ่อ​แม่​และ​เชื่อฟัง​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p18.b2": {
+    "text": "ส่วน​แม่​เก็บ​เรื่อง​ทั้ง​หมด​นี้​ไว้​ใน​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.2.p18.b3": {
+    "text": "พระเยซู​เจริญ​เติบโต​ทั้ง​ทาง​สติ​ปัญญา​และ​ร่างกาย เป็น​ที่​ชื่น​ชม​ทั้ง​กับ​พระเจ้า​และ​มนุษย์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Luke 2:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

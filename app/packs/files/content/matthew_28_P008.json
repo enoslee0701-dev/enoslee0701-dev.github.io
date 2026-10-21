@@ -1,0 +1,124 @@
+{
+  "id": "MATTHEW_28_P008",
+  "book": "matthew",
+  "chapter": 28,
+  "page": 8,
+  "ref": "28:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_28_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_28_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2656
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P008_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.3574
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P008_F3",
+      "box": [
+        0,
+        0.6309,
+        0.5303,
+        0.3691
+      ]
+    },
+    {
+      "id": "MATTHEW_28_P008_F4",
+      "box": [
+        0.5352,
+        0.6309,
+        0.4648,
+        0.3691
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_28_P008_B001",
+      "panel": "MATTHEW_28_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.008,
+        0.4,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "matthew.28.p8.b1"
+    },
+    {
+      "id": "MATTHEW_28_P008_B002",
+      "panel": "MATTHEW_28_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.25,
+        0.2802,
+        0.5,
+        0.0428
+      ],
+      "tail": [
+        0.5,
+        0.3587
+      ],
+      "text_key": "matthew.28.p8.b2"
+    },
+    {
+      "id": "MATTHEW_28_P008_B003",
+      "panel": "MATTHEW_28_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.1326,
+        0.642,
+        0.3818,
+        0.0812
+      ],
+      "tail": [
+        0.3235,
+        0.7601
+      ],
+      "text_key": "matthew.28.p8.b3"
+    },
+    {
+      "id": "MATTHEW_28_P008_B004",
+      "panel": "MATTHEW_28_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.5491,
+        0.6383,
+        0.2416,
+        0.0516
+      ],
+      "tail": [
+        0.6699,
+        0.7268
+      ],
+      "text_key": "matthew.28.p8.b4"
+    }
+  ]
+}

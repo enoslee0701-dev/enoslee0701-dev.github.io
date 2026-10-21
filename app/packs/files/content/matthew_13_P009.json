@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_13_P009",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 9,
+  "ref": "13:24-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1758
+      ],
+      "alt": {
+        "zh-CN": "他又讲了一个比喻对他们说：「天国好像人把好种子撒在田里，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P009_F2",
+      "box": [
+        0,
+        0.1771,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "在人睡觉的时候，有仇敌来，把稗子撒在麦子里就走了。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P009_F3",
+      "box": [
+        0,
+        0.6042,
+        0.4863,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "到麦子长苗吐穗的时候，稗子也显出来了。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P009_F4",
+      "box": [
+        0.4951,
+        0.6042,
+        0.5049,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "田主的仆人来对他说：『主人，你不是把好种子撒在田里吗？哪里来的稗子呢？』"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P009_B001",
+      "panel": "MATTHEW_13_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0105,
+        0.4,
+        0.0703
+      ],
+      "tail": [
+        0.23,
+        0.0984
+      ],
+      "text_key": "matthew.13.p9.b1"
+    },
+    {
+      "id": "MATTHEW_13_P009_B002",
+      "panel": "MATTHEW_13_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.1898,
+        0.4,
+        0.0678
+      ],
+      "tail": [
+        0,
+        0.3
+      ],
+      "text_key": "matthew.13.p9.b2"
+    },
+    {
+      "id": "MATTHEW_13_P009_B003",
+      "panel": "MATTHEW_13_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0195,
+        0.6121,
+        0.4473,
+        0.0395
+      ],
+      "tail": [
+        0,
+        0.6912
+      ],
+      "text_key": "matthew.13.p9.b3"
+    },
+    {
+      "id": "MATTHEW_13_P009_B004",
+      "panel": "MATTHEW_13_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6264,
+        0.6121,
+        0.2019,
+        0.0712
+      ],
+      "tail": [
+        0.4951,
+        0.7229
+      ],
+      "text_key": "matthew.13.p9.b4"
+    }
+  ]
+}

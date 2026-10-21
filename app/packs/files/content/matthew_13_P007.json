@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_13_P007",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 7,
+  "ref": "13:18-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1947
+      ],
+      "alt": {
+        "zh-CN": "「所以，你们要听这撒种的比喻。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P007_F2",
+      "box": [
+        0,
+        0.1979,
+        0.3994,
+        0.4727
+      ],
+      "alt": {
+        "zh-CN": "凡听见天国的道理却不明白的，那恶者就来，把撒在他心里的夺去……"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P007_F3",
+      "box": [
+        0.4053,
+        0.1979,
+        0.5947,
+        0.4727
+      ],
+      "alt": {
+        "zh-CN": "撒在石头地上的，就是人听了道，立刻欢喜领受，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P007_F4",
+      "box": [
+        0,
+        0.6745,
+        1,
+        0.3255
+      ],
+      "alt": {
+        "zh-CN": "……一旦为道遭遇患难或逼迫，立刻就跌倒了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P007_B001",
+      "panel": "MATTHEW_13_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.0234,
+        0.22,
+        0.0895
+      ],
+      "tail": [
+        0.77,
+        0.1324
+      ],
+      "text_key": "matthew.13.p7.b1"
+    },
+    {
+      "id": "MATTHEW_13_P007_B002",
+      "panel": "MATTHEW_13_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2396,
+        0.491,
+        0.1517,
+        0.0898
+      ],
+      "tail": [
+        0,
+        0.6281
+      ],
+      "text_key": "matthew.13.p7.b2"
+    },
+    {
+      "id": "MATTHEW_13_P007_B003",
+      "panel": "MATTHEW_13_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4231,
+        0.2121,
+        0.2497,
+        0.0661
+      ],
+      "tail": [
+        0.4053,
+        0.3255
+      ],
+      "text_key": "matthew.13.p7.b3"
+    },
+    {
+      "id": "MATTHEW_13_P007_B004",
+      "panel": "MATTHEW_13_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.64,
+        0.6843,
+        0.35,
+        0.039
+      ],
+      "tail": [
+        0,
+        0.7559
+      ],
+      "text_key": "matthew.13.p7.b4"
+    }
+  ]
+}

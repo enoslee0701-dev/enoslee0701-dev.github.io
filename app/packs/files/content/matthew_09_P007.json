@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_09_P007",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 7,
+  "ref": "9:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "那时，约翰的门徒来见耶稣，说："
+      }
+    },
+    {
+      "id": "MATTHEW_09_P007_F2",
+      "box": [
+        0,
+        0.25,
+        0.5137,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "我们和法利赛人常常禁食，你的门徒却不禁食，这是为什么呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P007_F3",
+      "box": [
+        0.5215,
+        0.25,
+        0.4785,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "新郎和陪伴他的人在一起的时候，陪伴的人怎能悲伤呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P007_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "但日子将到，新郎要离开他们，那时候他们就要禁食。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P007_B001",
+      "panel": "MATTHEW_09_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.27,
+        0.0025,
+        0.2,
+        0.0419
+      ],
+      "tail": null,
+      "text_key": "matthew.9.p7.b1"
+    },
+    {
+      "id": "MATTHEW_09_P007_B002",
+      "panel": "MATTHEW_09_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2569,
+        0.2533,
+        0.2465,
+        0.0524
+      ],
+      "tail": [
+        0.3802,
+        0.3385
+      ],
+      "text_key": "matthew.9.p7.b2"
+    },
+    {
+      "id": "MATTHEW_09_P007_B003",
+      "panel": "MATTHEW_09_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5311,
+        0.2533,
+        0.311,
+        0.0393
+      ],
+      "tail": [
+        0.6866,
+        0.3254
+      ],
+      "text_key": "matthew.9.p7.b3"
+    },
+    {
+      "id": "MATTHEW_09_P007_B004",
+      "panel": "MATTHEW_09_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.76,
+        0.8748,
+        0.23,
+        0.1168
+      ],
+      "tail": [
+        0,
+        1
+      ],
+      "text_key": "matthew.9.p7.b4"
+    }
+  ]
+}

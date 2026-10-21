@@ -1,0 +1,112 @@
+{
+  "id": "MATTHEW_01_P002",
+  "book": "matthew",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:6-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_01_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4775,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "大卫和乌利亚的妻子生了所罗门。"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P002_F2",
+      "box": [
+        0.4824,
+        0,
+        0.5176,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "所罗门生了罗波安。"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P002_F3",
+      "box": [
+        0,
+        0.388,
+        1,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "（王一代一代传下去，国却越来越暗。）"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P002_F4",
+      "box": [
+        0,
+        0.5859,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "百姓被掳到巴比伦去的时候，约西亚生了耶哥尼雅和他的兄弟们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_01_P002_B001",
+      "panel": "MATTHEW_01_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0143,
+        0.0077,
+        0.2626,
+        0.0462
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p2.b1"
+    },
+    {
+      "id": "MATTHEW_01_P002_B002",
+      "panel": "MATTHEW_01_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5083,
+        0.3392,
+        0.4658,
+        0.0385
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p2.b2"
+    },
+    {
+      "id": "MATTHEW_01_P002_B003",
+      "panel": "MATTHEW_01_P002_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.59,
+        0.23,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p2.b3"
+    }
+  ]
+}

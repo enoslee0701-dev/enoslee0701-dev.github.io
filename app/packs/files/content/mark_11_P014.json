@@ -1,0 +1,151 @@
+{
+  "id": "MARK_11_P014",
+  "book": "mark",
+  "chapter": 11,
+  "page": 14,
+  "ref": "11:29-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_11_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_11_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.204
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：「我要问你们一个问题，你们回答我，"
+      }
+    },
+    {
+      "id": "MARK_11_P014_F2",
+      "box": [
+        0,
+        0.209,
+        0.343,
+        0.228
+      ],
+      "alt": {
+        "zh-CN": "我就告诉你们我凭什么权柄做这些事。"
+      }
+    },
+    {
+      "id": "MARK_11_P014_F3",
+      "box": [
+        0.355,
+        0.209,
+        0.642,
+        0.504
+      ],
+      "alt": {
+        "zh-CN": "约翰的洗礼是从天上来的，还是从人间来的？"
+      }
+    },
+    {
+      "id": "MARK_11_P014_F4",
+      "box": [
+        0,
+        0.441,
+        0.343,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "你们回答我吧。」"
+      }
+    },
+    {
+      "id": "MARK_11_P014_F5",
+      "box": [
+        0,
+        0.717,
+        1,
+        0.283
+      ],
+      "alt": {
+        "zh-CN": "（众人都看着祭司长和长老。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_11_P014_B001",
+      "panel": "MARK_11_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.402,
+        0.006,
+        0.27,
+        0.143
+      ],
+      "tail": [
+        0.32,
+        0.07
+      ],
+      "text_key": "mark.11.p14.b1"
+    },
+    {
+      "id": "MARK_11_P014_B002",
+      "panel": "MARK_11_P014_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.47,
+        0.214,
+        0.52,
+        0.105
+      ],
+      "tail": [
+        0.356,
+        0.27
+      ],
+      "text_key": "mark.11.p14.b2"
+    },
+    {
+      "id": "MARK_11_P014_B003",
+      "panel": "MARK_11_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.37,
+        0.606,
+        0.6,
+        0.105
+      ],
+      "tail": [
+        0.356,
+        0.66
+      ],
+      "text_key": "mark.11.p14.b3"
+    },
+    {
+      "id": "MARK_11_P014_B004",
+      "panel": "MARK_11_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0,
+        0.607,
+        0.228,
+        0.105
+      ],
+      "tail": [
+        0.17,
+        0.56
+      ],
+      "text_key": "mark.11.p14.b4"
+    }
+  ]
+}

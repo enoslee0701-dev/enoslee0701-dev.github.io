@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_01_P010",
+  "book": "luke",
+  "chapter": 1,
+  "page": 10,
+  "ref": "1:30-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "天使对她说：「马利亚，不要怕！你在神面前已经蒙恩了。"
+      }
+    },
+    {
+      "id": "LUKE_01_P010_F2",
+      "box": [
+        0,
+        0.3177,
+        0.4463,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "你要怀孕生一个儿子，要给他起名叫耶稣。"
+      }
+    },
+    {
+      "id": "LUKE_01_P010_F3",
+      "box": [
+        0.4531,
+        0.3177,
+        0.5469,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "他将成为大的，被称为至高者的儿子；主神要把他祖先大卫的王位给他。"
+      }
+    },
+    {
+      "id": "LUKE_01_P010_F4",
+      "box": [
+        0,
+        0.5632,
+        1,
+        0.4368
+      ],
+      "alt": {
+        "zh-CN": "他要作雅各家的王，直到永远；他的国度没有穷尽。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P010_B001",
+      "panel": "LUKE_01_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.0094,
+        0.4,
+        0.0629
+      ],
+      "tail": [
+        0.62,
+        0.1038
+      ],
+      "text_key": "luke.1.p10.b1"
+    },
+    {
+      "id": "LUKE_01_P010_B002",
+      "panel": "LUKE_01_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0179,
+        0.3226,
+        0.2677,
+        0.0437
+      ],
+      "tail": [
+        0.1518,
+        0.3906
+      ],
+      "text_key": "luke.1.p10.b2"
+    },
+    {
+      "id": "LUKE_01_P010_B003",
+      "panel": "LUKE_01_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.655,
+        0.325,
+        0.342,
+        0.0534
+      ],
+      "tail": [
+        0.8332,
+        0.4027
+      ],
+      "text_key": "luke.1.p10.b3"
+    },
+    {
+      "id": "LUKE_01_P010_B004",
+      "panel": "LUKE_01_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.5763,
+        0.57,
+        0.0786
+      ],
+      "tail": [
+        0.685,
+        0.6986
+      ],
+      "text_key": "luke.1.p10.b4"
+    }
+  ]
+}

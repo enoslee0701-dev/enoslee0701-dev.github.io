@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_18_P013",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 13,
+  "ref": "18:32-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "于是主人叫他来，对他说：『你这恶仆！你求我，我就免了你全部的债，你不也应该怜悯你的同伴，像我怜悯你一样吗？』"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P013_F2",
+      "box": [
+        0,
+        0.3112,
+        0.4961,
+        0.3464
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P013_F3",
+      "box": [
+        0.5039,
+        0.3112,
+        0.4961,
+        0.3464
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P013_F4",
+      "box": [
+        0,
+        0.6615,
+        1,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "「如果你们各人不从心里饶恕自己的弟兄，我的天父也要这样对待你们。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P013_B001",
+      "panel": "MATTHEW_18_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.0092,
+        0.45,
+        0.0735
+      ],
+      "tail": [
+        0.745,
+        0.1134
+      ],
+      "text_key": "matthew.18.p13.b1"
+    },
+    {
+      "id": "MATTHEW_18_P013_B002",
+      "panel": "MATTHEW_18_P013_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5237,
+        0.3216,
+        0.4564,
+        0.0623
+      ],
+      "tail": [
+        0.7519,
+        0.4185
+      ],
+      "text_key": "matthew.18.p13.b2"
+    },
+    {
+      "id": "MATTHEW_18_P013_B003",
+      "panel": "MATTHEW_18_P013_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.6818,
+        0.19,
+        0.088
+      ],
+      "tail": [
+        0.515,
+        0.8037
+      ],
+      "text_key": "matthew.18.p13.b3"
+    }
+  ]
+}

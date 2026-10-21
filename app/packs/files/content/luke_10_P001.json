@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_10_P001",
+  "book": "luke",
+  "chapter": 10,
+  "page": 1,
+  "ref": "10:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_10_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_10_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "这件事以后，主又选立了七十个人，派他们两个两个地走在他前面，到他自己要去的各城各地方去，"
+      }
+    },
+    {
+      "id": "LUKE_10_P001_F2",
+      "box": [
+        0,
+        0.2689,
+        0.5254,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "他对他们说：“要收割的庄稼很多，做工的人却很少。"
+      }
+    },
+    {
+      "id": "LUKE_10_P001_F3",
+      "box": [
+        0.5332,
+        0.2689,
+        0.4668,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "所以你们要祈求庄稼的主人，派工人去收割他的庄稼。"
+      }
+    },
+    {
+      "id": "LUKE_10_P001_F4",
+      "box": [
+        0,
+        0.541,
+        1,
+        0.459
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_10_P001_B001",
+      "panel": "LUKE_10_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.3,
+        0.0053,
+        0.66,
+        0.0369
+      ],
+      "tail": null,
+      "text_key": "luke.10.p1.b1"
+    },
+    {
+      "id": "LUKE_10_P001_B002",
+      "panel": "LUKE_10_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1997,
+        0.2769,
+        0.3152,
+        0.0427
+      ],
+      "tail": [
+        0.3573,
+        0.3463
+      ],
+      "text_key": "luke.10.p1.b2"
+    },
+    {
+      "id": "LUKE_10_P001_B003",
+      "panel": "LUKE_10_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5519,
+        0.2742,
+        0.4294,
+        0.0427
+      ],
+      "tail": [
+        0.7666,
+        0.3436
+      ],
+      "text_key": "luke.10.p1.b3"
+    }
+  ]
+}

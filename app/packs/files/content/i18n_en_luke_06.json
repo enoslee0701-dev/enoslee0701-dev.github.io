@@ -1,0 +1,632 @@
+{
+  "luke.6.p1.b1": {
+    "text": "One Sabbath Jesus was passing through the grainfields,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p1.b2": {
+    "text": "and His disciples began to pick the heads of grain, rub them in their hands, and eat them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p1.b3": {
+    "text": "“Why are you doing what is unlawful on the Sabbath?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p2.b1": {
+    "text": "“Have you not read what David did when he and his companions were hungry?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p2.b2": {
+    "text": "He entered the house of God, took the consecrated bread and gave it to his companions,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p2.b3": {
+    "text": "and ate what is lawful only for the priests to eat.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p2.b4": {
+    "text": "“The Son of Man is Lord of the Sabbath.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p3.b1": {
+    "text": "On another Sabbath Jesus entered the synagogue and was teaching, and a man was there whose right hand was withered.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p3.b2": {
+    "text": "Looking for a reason to accuse Jesus, the scribes and Pharisees were watching Him closely to see if He would heal on the Sabbath.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p3.b3": {
+    "text": "“Get up and stand among us.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p3.b4": {
+    "text": "So he got up and stood there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p4.b1": {
+    "text": "“I ask you, which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p4.b2": {
+    "text": "“Stretch out your hand.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p4.b3": {
+    "text": "He did so, and it was restored.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p4.b4": {
+    "text": "But the scribes and Pharisees were filled with rage and began to discuss with one another what they might do to Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p5.b1": {
+    "text": "In those days Jesus went out to the mountain to pray,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p5.b2": {
+    "text": "and He spent the night in prayer to God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p5.b3": {
+    "text": "When daylight came,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p5.b4": {
+    "text": "He called His disciples to Him",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p6.b1": {
+    "text": "and chose twelve of them, whom He also designated as apostles:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p6.b2": {
+    "text": "Simon, whom He named Peter, and his brother Andrew; James and John;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p6.b3": {
+    "text": "Philip and Bartholomew; Matthew and Thomas;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:14-15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p6.b4": {
+    "text": "James son of Alphaeus and Simon called the Zealot; Judas son of James,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:15-16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p6.b5": {
+    "text": "and Judas Iscariot, who became a traitor.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p7.b1": {
+    "text": "Then Jesus came down with them and stood on a level place.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p7.b2": {
+    "text": "… a great number of people from all over Judea, Jerusalem, and the sea coast of Tyre and Sidon.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p7.b3": {
+    "text": "They had come to hear Him and to be healed of their diseases, and those troubled by unclean spirits were healed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p7.b4": {
+    "text": "The entire crowd was trying to touch Him, because power was coming from Him and healing them all.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p8.b1": {
+    "text": "Looking up at His disciples, Jesus said:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p8.b2": {
+    "text": "“Blessed are you who are poor, for yours is the kingdom of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p8.b3": {
+    "text": "Blessed are you who hunger now, for you will be filled.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p8.b4": {
+    "text": "Blessed are you who weep now, for you will laugh.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p9.b1": {
+    "text": "Blessed are you when people hate you, and when they exclude you and insult you and reject your name as evil because of the Son of Man.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p9.b2": {
+    "text": "Rejoice in that day and leap for joy, because great is your reward in heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p9.b3": {
+    "text": "For their fathers treated the prophets in the same way.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p10.b1": {
+    "text": "But woe to you who are rich, for you have already received your comfort.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p10.b2": {
+    "text": "Woe to you who are well fed now, for you will hunger.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p10.b3": {
+    "text": "Woe to you who laugh now, for you will mourn and weep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p10.b4": {
+    "text": "Woe to you when all men speak well of you, for their fathers treated the false prophets in the same way.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p11.b1": {
+    "text": "But to those of you who will listen, I say: Love your enemies, do good to those who hate you,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p11.b2": {
+    "text": "If someone strikes you on one cheek, turn to him the other also.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p11.b3": {
+    "text": "And if someone takes your cloak, do not withhold your tunic as well.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p11.b4": {
+    "text": "Do to others as you would have them do to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p12.b1": {
+    "text": "If you love those who love you, what credit is that to you? Even sinners love those who love them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p12.b2": {
+    "text": "But love your enemies, do good to them, and lend to them, expecting nothing in return. Then your reward will be great,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p12.b3": {
+    "text": "and you will be sons of the Most High; for He is kind to the ungrateful and wicked.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p12.b4": {
+    "text": "Be merciful, just as your Father is merciful.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p13.b1": {
+    "text": "Do not judge, and you will not be judged. Do not condemn, and you will not be condemned.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p13.b2": {
+    "text": "Forgive, and you will be forgiven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p13.b3": {
+    "text": "Give, and it will be given to you. A good measure, pressed down, shaken together, and running over will be poured into your lap.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p13.b4": {
+    "text": "For with the measure you use, it will be measured back to you.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p14.b1": {
+    "text": "Jesus also told them a parable:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p14.b2": {
+    "text": "“Can a blind man lead a blind man? Will they not both fall into a pit?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p14.b3": {
+    "text": "Why do you look at the speck in your brother’s eye, but fail to notice the beam in your own eye?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p14.b4": {
+    "text": "You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p15.b1": {
+    "text": "No good tree bears bad fruit, nor does a bad tree bear good fruit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p15.b2": {
+    "text": "Indeed, figs are not gathered from thornbushes,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p15.b3": {
+    "text": "nor grapes from brambles.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p15.b4": {
+    "text": "For out of the overflow of the heart, the mouth speaks.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p16.b1": {
+    "text": "Why do you call Me ‘Lord, Lord,’ but not do what I say?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p16.b2": {
+    "text": "He is like a man building a house, who dug down deep and laid his foundation on the rock.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p16.b3": {
+    "text": "When the flood came, the torrent crashed against that house but could not shake it, because it was well built.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.6.p16.b4": {
+    "text": "The torrent crashed against that house, and immediately it fell—and great was its destruction!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Luke 6:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

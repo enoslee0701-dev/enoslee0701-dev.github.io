@@ -1,0 +1,124 @@
+{
+  "id": "MATTHEW_26_P015",
+  "book": "matthew",
+  "chapter": 26,
+  "page": 15,
+  "ref": "26:40-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_26_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_26_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2715
+      ]
+    },
+    {
+      "id": "MATTHEW_26_P015_F2",
+      "box": [
+        0,
+        0.2747,
+        0.3418,
+        0.4779
+      ]
+    },
+    {
+      "id": "MATTHEW_26_P015_F3",
+      "box": [
+        0.3467,
+        0.2747,
+        0.6533,
+        0.4779
+      ]
+    },
+    {
+      "id": "MATTHEW_26_P015_F4",
+      "box": [
+        0,
+        0.7559,
+        1,
+        0.2441
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_26_P015_B001",
+      "panel": "MATTHEW_26_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.0081,
+        0.45,
+        0.0543
+      ],
+      "tail": null,
+      "text_key": "matthew.26.p15.b1"
+    },
+    {
+      "id": "MATTHEW_26_P015_B002",
+      "panel": "MATTHEW_26_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0137,
+        0.6379,
+        0.3144,
+        0.1003
+      ],
+      "tail": [
+        0,
+        0.7526
+      ],
+      "text_key": "matthew.26.p15.b2"
+    },
+    {
+      "id": "MATTHEW_26_P015_B003",
+      "panel": "MATTHEW_26_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7909,
+        0.289,
+        0.1959,
+        0.1051
+      ],
+      "tail": [
+        0.8889,
+        0.4419
+      ],
+      "text_key": "matthew.26.p15.b3"
+    },
+    {
+      "id": "MATTHEW_26_P015_B004",
+      "panel": "MATTHEW_26_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.29,
+        0.7608,
+        0.24,
+        0.0463
+      ],
+      "tail": [
+        0,
+        0.8315
+      ],
+      "text_key": "matthew.26.p15.b4"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_12_P011",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 11,
+  "ref": "12:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "耶稣知道他们心里的想法，就对他们说："
+      }
+    },
+    {
+      "id": "MATTHEW_12_P011_F2",
+      "box": [
+        0,
+        0.2604,
+        0.6465,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "「一个国自己内部分裂，就会荒废；一座城、一个家自己内部分裂，也站立不住。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P011_F3",
+      "box": [
+        0.6523,
+        0.2604,
+        0.3477,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "我如果是靠别西卜赶鬼，你们自己的子弟赶鬼又是靠谁呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P011_F4",
+      "box": [
+        0,
+        0.5814,
+        1,
+        0.4186
+      ],
+      "alt": {
+        "zh-CN": "我如果是靠　神的灵赶鬼，这就表明　神的国已经来到你们中间了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P011_B001",
+      "panel": "MATTHEW_12_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.0026,
+        0.36,
+        0.036
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p11.b1"
+    },
+    {
+      "id": "MATTHEW_12_P011_B002",
+      "panel": "MATTHEW_12_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0194,
+        0.2668,
+        0.2715,
+        0.0413
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p11.b2"
+    },
+    {
+      "id": "MATTHEW_12_P011_B003",
+      "panel": "MATTHEW_12_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6697,
+        0.5146,
+        0.3129,
+        0.054
+      ],
+      "tail": [
+        0.8262,
+        0.5781
+      ],
+      "text_key": "matthew.12.p11.b3"
+    },
+    {
+      "id": "MATTHEW_12_P011_B004",
+      "panel": "MATTHEW_12_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.594,
+        0.3,
+        0.0753
+      ],
+      "tail": [
+        0.18,
+        0.7112
+      ],
+      "text_key": "matthew.12.p11.b4"
+    }
+  ]
+}

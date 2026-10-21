@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_01_P005",
+  "book": "luke",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2279
+      ],
+      "alt": {
+        "zh-CN": "「你一定会欢喜快乐；有许多人也会因他的出生而喜乐。」"
+      }
+    },
+    {
+      "id": "LUKE_01_P005_F2",
+      "box": [
+        0,
+        0.2298,
+        0.4482,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "「他在主面前将成为伟大的人，淡酒浓酒都不喝，还在母腹里就被圣灵充满。」"
+      }
+    },
+    {
+      "id": "LUKE_01_P005_F3",
+      "box": [
+        0.4521,
+        0.2298,
+        0.5479,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "「他要使许多以色列人回转，归向主——他们的神。」"
+      }
+    },
+    {
+      "id": "LUKE_01_P005_F4",
+      "box": [
+        0,
+        0.5612,
+        1,
+        0.4388
+      ],
+      "alt": {
+        "zh-CN": "「他要带着以利亚的心志和能力，走在主的前面，使父亲的心转向儿女，……为主预备好合用的百姓。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P005_B001",
+      "panel": "LUKE_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0091,
+        0.44,
+        0.0683
+      ],
+      "tail": [
+        0.25,
+        0.1002
+      ],
+      "text_key": "luke.1.p5.b1"
+    },
+    {
+      "id": "LUKE_01_P005_B002",
+      "panel": "LUKE_01_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0179,
+        0.2364,
+        0.3944,
+        0.0723
+      ],
+      "tail": [
+        0.2151,
+        0.3416
+      ],
+      "text_key": "luke.1.p5.b2"
+    },
+    {
+      "id": "LUKE_01_P005_B003",
+      "panel": "LUKE_01_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4795,
+        0.2364,
+        0.4821,
+        0.0493
+      ],
+      "tail": [
+        0.7206,
+        0.3186
+      ],
+      "text_key": "luke.1.p5.b3"
+    },
+    {
+      "id": "LUKE_01_P005_B004",
+      "panel": "LUKE_01_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.57,
+        0.22,
+        0.0833
+      ],
+      "tail": [
+        0.67,
+        0.6972
+      ],
+      "text_key": "luke.1.p5.b4"
+    }
+  ]
+}

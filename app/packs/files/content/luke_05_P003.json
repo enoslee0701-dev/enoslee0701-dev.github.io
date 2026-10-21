@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_05_P003",
+  "book": "luke",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "他们下了网，就圈住许多鱼，网几乎要破裂，"
+      }
+    },
+    {
+      "id": "LUKE_05_P003_F2",
+      "box": [
+        0,
+        0.2331,
+        0.5508,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "（他们死死拽住要断的网。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P003_F3",
+      "box": [
+        0.5586,
+        0.2331,
+        0.4414,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "就招呼另一只船上的同伴来帮忙。"
+      }
+    },
+    {
+      "id": "LUKE_05_P003_F4",
+      "box": [
+        0,
+        0.5234,
+        1,
+        0.4766
+      ],
+      "alt": {
+        "zh-CN": "他们来了，把鱼装满了两只船，船都快要沉下去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P003_B001",
+      "panel": "LUKE_05_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0091,
+        0.42,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "luke.5.p3.b1"
+    },
+    {
+      "id": "LUKE_05_P003_B002",
+      "panel": "LUKE_05_P003_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8146,
+        0.2417,
+        0.1765,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "luke.5.p3.b2"
+    },
+    {
+      "id": "LUKE_05_P003_B003",
+      "panel": "LUKE_05_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.9428,
+        0.36,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "luke.5.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_02_P010",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 10,
+  "ref": "2:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2148
+      ],
+      "alt": {
+        "zh-CN": "希律死后，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P010_F2",
+      "box": [
+        0,
+        0.2188,
+        0.4893,
+        0.3216
+      ],
+      "alt": {
+        "zh-CN": "主的使者在埃及向约瑟梦中显现，说：「起来！带着孩子和他母亲回以色列地去，因为要害这孩子性命的人已经死了。」"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P010_F3",
+      "box": [
+        0.4971,
+        0.2188,
+        0.5029,
+        0.3216
+      ],
+      "alt": {
+        "zh-CN": "约瑟就起来，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P010_F4",
+      "box": [
+        0,
+        0.5423,
+        1,
+        0.4577
+      ],
+      "alt": {
+        "zh-CN": "带着孩子和他母亲回到以色列地。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P010_B001",
+      "panel": "MATTHEW_02_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0064,
+        0.3,
+        0.0429
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p10.b1"
+    },
+    {
+      "id": "MATTHEW_02_P010_B002",
+      "panel": "MATTHEW_02_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0147,
+        0.4889,
+        0.2935,
+        0.045
+      ],
+      "tail": [
+        0.1614,
+        0.5404
+      ],
+      "text_key": "matthew.2.p10.b2"
+    },
+    {
+      "id": "MATTHEW_02_P010_B003",
+      "panel": "MATTHEW_02_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8089,
+        0.2284,
+        0.1106,
+        0.0514
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p10.b3"
+    },
+    {
+      "id": "MATTHEW_02_P010_B004",
+      "panel": "MATTHEW_02_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5515,
+        0.42,
+        0.0549
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p10.b4"
+    }
+  ]
+}

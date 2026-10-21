@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_05_P012",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 12,
+  "ref": "5:33-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P012_F1",
+      "box": [
+        0.0068,
+        0,
+        0.9873,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "你们又听过有吩咐古人的话说：『不可违背誓言，向主起的誓要谨守。』"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P012_F2",
+      "box": [
+        0.0068,
+        0.2604,
+        0.5576,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "但我告诉你们，什么誓都不可起。不可指着天起誓，因为天是神的宝座；"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P012_F3",
+      "box": [
+        0.5703,
+        0.2604,
+        0.4238,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "也不可指着自己的头起誓，因为你不能使一根头发变白或变黑。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P012_F4",
+      "box": [
+        0.0068,
+        0.5521,
+        0.9873,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "你们说话，是，就说是；不是，就说不是；多说的就是出于那恶者。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P012_B001",
+      "panel": "MATTHEW_05_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.545,
+        0.097,
+        0.445,
+        0.155
+      ],
+      "tail": [
+        0.651,
+        0.0976
+      ],
+      "text_key": "matthew.5.p12.b1"
+    },
+    {
+      "id": "MATTHEW_05_P012_B002",
+      "panel": "MATTHEW_05_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.018,
+        0.4796,
+        0.2788,
+        0.0634
+      ],
+      "tail": [
+        0.1574,
+        0.5488
+      ],
+      "text_key": "matthew.5.p12.b2"
+    },
+    {
+      "id": "MATTHEW_05_P012_B003",
+      "panel": "MATTHEW_05_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8754,
+        0.2662,
+        0.1101,
+        0.0865
+      ],
+      "tail": [
+        0.9305,
+        0.3815
+      ],
+      "text_key": "matthew.5.p12.b3"
+    },
+    {
+      "id": "MATTHEW_05_P012_B004",
+      "panel": "MATTHEW_05_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.303,
+        0.5611,
+        0.4442,
+        0.0537
+      ],
+      "tail": [
+        0.5251,
+        0.6596
+      ],
+      "text_key": "matthew.5.p12.b4"
+    }
+  ]
+}

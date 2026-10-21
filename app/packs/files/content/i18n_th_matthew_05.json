@@ -1,0 +1,582 @@
+{
+  "matthew.5.p1.b1": {
+    "text": "เมื่อ​พระเยซู​เห็น​ฝูง​ชน​มากมาย​จึง​ขึ้น​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p1.b2": {
+    "text": "นั่ง​บน​เนิน​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p1.b3": {
+    "text": "พวก​สาวก​พา​กัน​มา​หา​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p1.b4": {
+    "text": "พระองค์​จึง​เริ่มต้น​สอน​พวก​เขา พระองค์​กล่าว​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b1": {
+    "text": "“พระพร​เป็น​ของ​คน​ที่​ยากจน​ฝ่าย​วิญญาณ เพราะ​อาณาจักร​สวรรค์​เป็น​ของ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b2": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​โศก​เศร้า เพราะ​เขา​จะ​ได้​รับ​การ​ปลอบ​ประโลม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b3": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​อ่อน​สุภาพ เพราะ​เขา​จะ​ได้​รับ​แผ่นดิน​โลก​เป็น​มรดก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p2.b4": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​หิว​กระหาย​ความ​ชอบ​ธรรม เพราะ​เขา​จะ​อิ่ม​บริบูรณ์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b1": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​เมตตา เพราะ​เขา​จะ​ได้​รับ​ความ​เมตตา​ตอบ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b2": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​มี​จิตใจ​บริสุทธิ์ เพราะ​เขา​จะ​เห็น​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b3": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​สร้าง​สันติ เพราะ​พระเจ้า​จะ​เรียก​เขา​ว่า​ลูก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p3.b4": {
+    "text": "พระพร​เป็น​ของ​คน​ที่​ถูก​ข่มเหง​เพราะ​ความ​ชอบ​ธรรม เพราะ​อาณาจักร​สวรรค์​เป็น​ของ​เขา​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p4.b1": {
+    "text": "พระพร​เป็น​ของ​ท่าน เมื่อ​ผู้​คน​ดูถูก ข่มเหง และ​กล่าว​ร้าย​ท่าน​ต่าง​ๆ เพราะ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p4.b2": {
+    "text": "จง​ชื่น​ชม​ยินดี​เพราะ​รางวัล​ของ​ท่าน​ใน​สวรรค์​นั้น​ยิ่งใหญ่",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p4.b3": {
+    "text": "เนื่องจาก​พวก​เขา​ได้​ข่มเหง​พวก​ผู้​เผย​พระวจนะ ที่​อยู่​ก่อน​ท่าน​ด้วย​วิธีการ​อย่าง​เดียวกัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p5.b1": {
+    "text": "พวก​ท่าน​เป็น​เกลือ​ของ​โลก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p5.b2": {
+    "text": "แต่​ถ้า​เกลือ​นั้น​หมด​ความ​เค็ม​แล้ว จะ​ทำ​ให้​กลับ​มา​เค็ม​อีก​ได้​อย่างไร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p5.b3": {
+    "text": "มัน​ใช้​ประโยชน์​อะไร​ไม่ได้​อีก​แล้ว นอกจาก​สาด​ทิ้ง​ถูก​เหยียบ​ย่ำ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b1": {
+    "text": "พวก​ท่าน​เป็น​แสง​สว่าง​ของ​โลก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b2": {
+    "text": "เมือง​ที่​ตั้ง​อยู่​บน​ภูเขา​จะ​ซ่อน​ไว้​ไม่ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b3": {
+    "text": "หรือ​ไม่​มี​ใคร​จุด​ตะเกียง​แล้ว​เอา​ฝา​ครอบ แต่​จะ​ตั้ง​ไว้​บน​เชิง​ตะเกียง เพื่อ​ส่อง​สว่าง​แก่​ทุก​คน​ใน​บ้าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p6.b4": {
+    "text": "ใน​ทำนอง​เดียวกัน จง​ให้​ความ​สว่าง​ของ​ท่าน​ฉาย​ส่อง​ต่อ​คน​ทั้งหลาย เพื่อ​เขา​จะ​เห็น​การ​ดี​ของ​ท่าน และ​ให้​เกียรติ​แก่​พระบิดา​ผู้​สถิต​ใน​สวรรค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p7.b1": {
+    "text": "อย่า​คิด​ว่า​เรา​มา​ยกเลิก​กฎ​บัญญัติ​หรือ​ถ้อยคำ​ของ​ผู้​เผย​พระวจนะ เรา​ไม่ได้​มา​ยกเลิก​แต่​มา​ทำ​ให้​สำเร็จ​ครบ​ถ้วน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p7.b2": {
+    "text": "เรา​บอก​ความ​จริง​ว่า ก่อน​ฟ้า​และ​ดิน​สลาย​ไป แม้​อักษร​เล็ก​ที่สุด​สัก​ตัว​หนึ่ง​หรือ​สัก​จุด​หนึ่ง​ใน​กฎ​บัญญัติ​จะ​ไม่​หาย​ไป จนกว่า​ทุก​สิ่ง​จะ​ถูก​ทำ​ให้​สำเร็จ​ครบ​ถ้วน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p7.b3": {
+    "text": "เรา​บอก​พวก​ท่าน​ว่า ถ้า​ความ​ชอบ​ธรรม​ของ​พวก​ท่าน​ไม่​มาก​กว่า​พวก​ฟาริสี​และ​ครู​สอน​กฎ​บัญญัติ ท่าน​ก็​จะ​ไม่ได้​เข้า​อาณาจักร​สวรรค์​อย่าง​แน่นอน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b1": {
+    "text": "พวก​ท่าน​ได้ยิน​คำ​ซึ่ง​กล่าว​แก่​คน​สมัย​ก่อน​ว่า ‘อย่า​ฆ่า​คน และ​ถ้า​ใคร​ฆ่า​คน​จะ​ถูก​ตัดสิน​ลงโทษ’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b2": {
+    "text": "แต่​เรา​บอก​ว่า ใคร​ที่​โกรธ​พี่​น้อง​ของ​ตน จะ​ถูก​ตัดสิน​ลงโทษ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b3": {
+    "text": "ใคร​ที่​พูด​กับ​พี่​น้อง​ว่า ‘รากา’ จะ​ถูก​นำ​ตัว​ขึ้น​ศาล",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p8.b4": {
+    "text": "และ​ใคร​ที่​พูด​ว่า ‘ไอ้​โง่’ ก็​สมควร​แก่​ไฟ​นรก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b1": {
+    "text": "ด้วย​เหตุ​นี้ ถ้า​พวก​ท่าน​กำลัง​ถวาย​เครื่อง​บูชา​ที่​แท่น​บูชา​แล้ว​นึก​ขึ้น​ได้​ว่า​มี​พี่​น้อง​ขุ่น​เคือง​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b2": {
+    "text": "จง​วาง​เครื่อง​บูชา​ไว้​หน้า​แท่น​แล้ว​ไป​คืนดี​กับ​เขา​ก่อน จึง​ค่อย​กลับ​มา​ถวาย​เครื่อง​บูชา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b3": {
+    "text": "จง​รีบ​ตกลง​กับ​คู่ความ​ของ​พวก​ท่าน​ขณะ​กำลัง​ไป​ศาล ไม่​เช่น​นั้น​คู่ความ​อาจ​มอบ​ท่าน​ให้​แก่​ผู้​พิพากษา แล้ว​ผู้​พิพากษา​อาจ​จะ​มอบ​ท่าน​ให้​กับ​ผู้​คุม และ​ท่าน​อาจ​ถูก​โยน​เข้า​คุก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p9.b4": {
+    "text": "เรา​บอก​ความ​จริง​ว่า​ท่าน​จะ​ออก​มา​ไม่​ได้​จน​กว่า​จะ​ใช้​หนี้​ครบ​ทุก​บาท​ทุก​สตางค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b1": {
+    "text": "พวก​ท่าน​ได้ยิน​คำ​ซึ่ง​กล่าว​ว่า ‘อย่า​คบ​ชู้’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b2": {
+    "text": "แต่​เรา​บอก​ว่า ใคร​มอง​ผู้หญิง​ด้วย​ราคะ​ตัณหา ก็​ได้​คบ​ชู้​กับ​หญิง​นั้น​ใน​ใจ​ของ​เขา​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b3": {
+    "text": "ถ้า​ตา​ข้าง​ขวา​ของ​ท่าน​เป็น​เหตุ​ให้​ทำ​บาป จง​ควัก​ทิ้ง​เสีย ถึง​จะ​เสีย​อวัยวะ​หนึ่ง​ไป​ก็​ยัง​ดี​กว่า​ทั้ง​ตัว​ต้อง​ถูก​โยน​ลง​นรก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p10.b4": {
+    "text": "และ​ถ้า​มือ​ขวา​ของ​ท่าน​เป็น​เหตุ​ให้​ทำ​บาป​ก็​ตัด​และ​โยน​ทิ้ง​เสีย ถึง​จะ​เสีย​อวัยวะ​หนึ่ง​ไป​ก็​ยัง​ดี​กว่า​ทั้ง​ตัว​ต้อง​ลง​นรก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p11.b1": {
+    "text": "มี​คำ​กล่าว​ว่า ‘ใคร​ที่​หย่า​ภรรยา​ต้อง​เขียน​หนังสือ​หย่า​ให้​เธอ’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p11.b2": {
+    "text": "แต่​เรา​บอก​ว่า ใคร​ที่​หย่า​กับ​ภรรยา​ด้วย​เหตุ​อื่น​นอกจาก​การ​ทำ​บาป​ทาง​เพศ ก็​ทำ​ให้​เธอ​จำต้อง​เป็น​คน​คบ​ชู้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p11.b3": {
+    "text": "และ​ใคร​แต่งงาน​กับ​หญิง​ที่​หย่า​แล้ว​ก็​คบ​ชู้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b1": {
+    "text": "พวก​ท่าน​ได้ยิน​คำ​ซึ่ง​กล่าว​แก่​คน​สมัย​ก่อน​ว่า ‘อย่า​ผิด​คำ​สาบาน แต่​จง​ทำ​ตาม​คำ​ปฏิญาณ​ที่​ให้​ไว้​กับ​องค์​พระผู้เป็นเจ้า’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b2": {
+    "text": "แต่​เรา​บอก​ว่า อย่า​สาบาน​เลย​แม้​ต่อ​สวรรค์ เพราะ​สวรรค์​เป็น​บัลลังก์​ของ​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b3": {
+    "text": "และ​อย่า​สาบาน​โดย​อ้าง​ศีรษะ​ของ​ตน เพราะ​ท่าน​ไม่​สามารถ​ทำ​ให้​เส้นผม​สัก​เส้น​เดียว​กลาย​เป็น​สี​ขาว​หรือ​ดำ​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p12.b4": {
+    "text": "จง​พูด​เพียง​ว่า ‘ใช่’ หรือ ‘ไม่​ใช่’ เท่านั้น คำ​พูด​ที่​เกิน​กว่า​นี้​มา​จาก​มาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b1": {
+    "text": "พวก​ท่าน​ได้ยิน​คำ​กล่าว​ว่า ‘ตา​ต้อง​ชดใช้​ด้วย​ตา และ​ฟัน​ด้วย​ฟัน’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b2": {
+    "text": "แต่​เรา​บอก​ว่า อย่า​ต่อสู้​กับ​คน​ชั่ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b3": {
+    "text": "ถ้า​มี​ใคร​ตบ​แก้ม​ขวา​ของ​ท่าน จง​หัน​อีก​ข้าง​หนึ่ง​ให้​เขา​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p13.b4": {
+    "text": "ถ้า​ใคร​ต้องการ​ฟ้องร้อง​เอา​เสื้อ​ของ​ท่าน จง​ให้​เสื้อ​คลุม​ไป​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p14.b1": {
+    "text": "ถ้า​มี​คน​บังคับ​ให้​ไป​หนึ่ง​กิโลเมตร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p14.b2": {
+    "text": "จง​ไป​กับ​เขา​สอง​กิโลเมตร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p14.b3": {
+    "text": "จง​ให้​แก่​คน​ที่​ขอ และ​อย่า​เมิน​หน้า​หนี​คน​ที่​ต้องการ​ขอ​ยืม​จาก​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b1": {
+    "text": "พวก​ท่าน​ได้ยิน​คำ​กล่าว​ไว้​ว่า ‘จง​รัก​เพื่อนบ้าน และ​เกลียด​ชัง​ศัตรู’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b2": {
+    "text": "แต่​เรา​บอก​ว่า จง​รัก​ศัตรู​และ​อธิษฐาน​เผื่อ​คน​ที่​ข่มเหง​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b3": {
+    "text": "เพื่อ​ท่าน​จะ​เป็น​ลูก​ของ​พระบิดา​ใน​สวรรค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p15.b4": {
+    "text": "พระองค์​ให้​ดวง​อาทิตย์​ขึ้น​แก่​ทั้ง​คน​ชั่ว​และ​คน​ดี และ​ให้​ฝน​ตก​แก่​ทั้ง​คน​ชอบ​ธรรม​และ​คน​อธรรม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p16.b1": {
+    "text": "ถ้า​ท่าน​รัก​เฉพาะ​คน​ที่​รัก​ท่าน แล้ว​จะ​ได้​รางวัล​อะไร แม้​คน​เก็บ​ภาษี​ก็​ทำ​อย่าง​นั้น​ไม่​ใช่​หรือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p16.b2": {
+    "text": "ถ้า​ท่าน​ทักทาย​เฉพาะ​พี่​น้อง​ของ​ตัวเอง แล้ว​ท่าน​ทำ​อะไร​มาก​กว่า​คน​อื่น คน​ที่​ไม่​รู้จัก​พระเจ้า​ก็​ทำ​อย่าง​นั้น​ไม่​ใช่​หรือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.5.p16.b3": {
+    "text": "ดังนั้น​จง​ดี​พร้อม​เหมือน​พระบิดา​ใน​สวรรค์​ของ​ท่าน​ดี​พร้อม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Matthew 5:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

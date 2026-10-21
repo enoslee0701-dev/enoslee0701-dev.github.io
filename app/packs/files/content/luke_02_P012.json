@@ -1,0 +1,133 @@
+{
+  "id": "LUKE_02_P012",
+  "book": "luke",
+  "chapter": 2,
+  "page": 12,
+  "ref": "2:33-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2142
+      ],
+      "alt": {
+        "zh-CN": "孩子的父母听了西面论到耶稣的话，都很惊奇。"
+      }
+    },
+    {
+      "id": "LUKE_02_P012_F2",
+      "box": [
+        0,
+        0.2181,
+        0.5586,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "西面为他们祝福，又对孩子的母亲马利亚说："
+      }
+    },
+    {
+      "id": "LUKE_02_P012_F3",
+      "box": [
+        0.5654,
+        0.2181,
+        0.4346,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "这孩子被立，是要叫以色列中许多人跌倒，许多人兴起；他要成为被人反对的记号，使许多人心里的意念显露出来；"
+      }
+    },
+    {
+      "id": "LUKE_02_P012_F4",
+      "box": [
+        0,
+        0.5625,
+        1,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "你自己的心也要被刀刺透。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P012_B001",
+      "panel": "LUKE_02_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0064,
+        0.37,
+        0.0556
+      ],
+      "tail": null,
+      "text_key": "luke.2.p12.b1"
+    },
+    {
+      "id": "LUKE_02_P012_B002",
+      "panel": "LUKE_02_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1676,
+        0.5103,
+        0.3686,
+        0.0407
+      ],
+      "tail": null,
+      "text_key": "luke.2.p12.b2"
+    },
+    {
+      "id": "LUKE_02_P012_B003",
+      "panel": "LUKE_02_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.685,
+        0.57,
+        0.31,
+        0.1019
+      ],
+      "tail": [
+        0.9131,
+        0.3608
+      ],
+      "text_key": "luke.2.p12.b3"
+    },
+    {
+      "id": "LUKE_02_P012_B004",
+      "panel": "LUKE_02_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.655,
+        0.36,
+        0.0962
+      ],
+      "tail": [
+        0.21,
+        0.7155
+      ],
+      "text_key": "luke.2.p12.b4"
+    }
+  ]
+}

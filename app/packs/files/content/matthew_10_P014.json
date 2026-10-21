@@ -1,0 +1,103 @@
+{
+  "id": "MATTHEW_10_P014",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 14,
+  "ref": "10:42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P014_F1",
+      "box": [
+        0.0049,
+        0,
+        0.9902,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "无论是谁，只因为他是我的门徒，就给这些微小的人中的一个喝一杯凉水，"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P014_F2",
+      "box": [
+        0.0059,
+        0.2389,
+        0.2842,
+        0.4648
+      ],
+      "alt": {
+        "zh-CN": "（小女孩把小陶杯浸进清水里。）"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P014_F3",
+      "box": [
+        0.2979,
+        0.2389,
+        0.6973,
+        0.4648
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，这人一定会得到赏赐。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P014_F4",
+      "box": [
+        0.0059,
+        0.7083,
+        0.9883,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "（十二个门徒两个两个走下禾场，散到各条田埂上去。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P014_B001",
+      "panel": "MATTHEW_10_P014_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6881,
+        0.0071,
+        0.297,
+        0.0424
+      ],
+      "tail": [
+        0.8366,
+        0.0731
+      ],
+      "text_key": "matthew.10.p14.b1"
+    },
+    {
+      "id": "MATTHEW_10_P014_B002",
+      "panel": "MATTHEW_10_P014_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3118,
+        0.2482,
+        0.237,
+        0.0604
+      ],
+      "tail": [
+        0.4303,
+        0.3551
+      ],
+      "text_key": "matthew.10.p14.b2"
+    }
+  ]
+}

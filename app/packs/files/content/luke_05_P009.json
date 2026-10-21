@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_05_P009",
+  "book": "luke",
+  "chapter": 5,
+  "page": 9,
+  "ref": "5:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_05_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_05_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "从瓦缝间把他连同褥子缒到人群当中，正落在耶稣面前。"
+      }
+    },
+    {
+      "id": "LUKE_05_P009_F2",
+      "box": [
+        0,
+        0.2923,
+        0.6768,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "（褥子落在耶稣面前。）"
+      }
+    },
+    {
+      "id": "LUKE_05_P009_F3",
+      "box": [
+        0.6846,
+        0.2923,
+        0.3154,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "耶稣看见他们的信心，就对瘫痪的人说："
+      }
+    },
+    {
+      "id": "LUKE_05_P009_F4",
+      "box": [
+        0,
+        0.5723,
+        1,
+        0.4277
+      ],
+      "alt": {
+        "zh-CN": "“你的罪赦了。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_05_P009_B001",
+      "panel": "LUKE_05_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0087,
+        0.25,
+        0.0692
+      ],
+      "tail": null,
+      "text_key": "luke.5.p9.b1"
+    },
+    {
+      "id": "LUKE_05_P009_B002",
+      "panel": "LUKE_05_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7004,
+        0.5071,
+        0.2838,
+        0.055
+      ],
+      "tail": null,
+      "text_key": "luke.5.p9.b2"
+    },
+    {
+      "id": "LUKE_05_P009_B003",
+      "panel": "LUKE_05_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5809,
+        0.3,
+        0.0427
+      ],
+      "tail": [
+        0.17,
+        0.6664
+      ],
+      "text_key": "luke.5.p9.b3"
+    }
+  ]
+}

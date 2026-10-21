@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_16_P004",
+  "book": "luke",
+  "chapter": 16,
+  "page": 4,
+  "ref": "16:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_16_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_16_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5557,
+        0.2878
+      ]
+    },
+    {
+      "id": "LUKE_16_P004_F2",
+      "box": [
+        0.5674,
+        0,
+        0.4326,
+        0.2878
+      ]
+    },
+    {
+      "id": "LUKE_16_P004_F3",
+      "box": [
+        0,
+        0.293,
+        1,
+        0.36
+      ]
+    },
+    {
+      "id": "LUKE_16_P004_F4",
+      "box": [
+        0,
+        0.6576,
+        1,
+        0.3424
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_16_P004_B001",
+      "panel": "LUKE_16_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2112,
+        0.0058,
+        0.3278,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "luke.16.p4.b1"
+    },
+    {
+      "id": "LUKE_16_P004_B002",
+      "panel": "LUKE_16_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5847,
+        0.2418,
+        0.3979,
+        0.0402
+      ],
+      "tail": null,
+      "text_key": "luke.16.p4.b2"
+    },
+    {
+      "id": "LUKE_16_P004_B003",
+      "panel": "LUKE_16_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.81,
+        0.3038,
+        0.18,
+        0.0864
+      ],
+      "tail": [
+        0.9,
+        0.4262
+      ],
+      "text_key": "luke.16.p4.b3"
+    },
+    {
+      "id": "LUKE_16_P004_B004",
+      "panel": "LUKE_16_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.6747,
+        0.5,
+        0.1198
+      ],
+      "tail": [
+        0.27,
+        0.8287
+      ],
+      "text_key": "luke.16.p4.b4"
+    }
+  ]
+}

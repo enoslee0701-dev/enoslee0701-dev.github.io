@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_11_P004",
+  "book": "luke",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.266
+      ],
+      "alt": {
+        "zh-CN": "我告诉你们，即使他不因为是朋友而起来给他，也会因为他不顾情面地一直恳求，就起来照他所需要的给他。"
+      }
+    },
+    {
+      "id": "LUKE_11_P004_F2",
+      "box": [
+        0.504,
+        0.244,
+        0.496,
+        0.226
+      ]
+    },
+    {
+      "id": "LUKE_11_P004_F3",
+      "box": [
+        0,
+        0.272,
+        1,
+        0.301
+      ],
+      "alt": {
+        "zh-CN": "我又告诉你们，你们祈求，就会得到；寻找，就会找到；敲门，就会给你们开门。"
+      }
+    },
+    {
+      "id": "LUKE_11_P004_F4",
+      "box": [
+        0,
+        0.578,
+        1,
+        0.422
+      ],
+      "alt": {
+        "zh-CN": "因为凡祈求的，就得到；寻找的，就找到；敲门的，就给他开门。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_11_P004_B001",
+      "panel": "LUKE_11_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0053,
+        0.94,
+        0.0399
+      ],
+      "tail": null,
+      "text_key": "luke.11.p4.b1"
+    },
+    {
+      "id": "LUKE_11_P004_B002",
+      "panel": "LUKE_11_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.278,
+        0.46,
+        0.0632
+      ],
+      "tail": [
+        0.25,
+        0.3713
+      ],
+      "text_key": "luke.11.p4.b2"
+    },
+    {
+      "id": "LUKE_11_P004_B003",
+      "panel": "LUKE_11_P004_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.9156,
+        0.44,
+        0.0759
+      ],
+      "tail": null,
+      "text_key": "luke.11.p4.b3"
+    }
+  ]
+}

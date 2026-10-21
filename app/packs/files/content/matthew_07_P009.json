@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_07_P009",
+  "book": "matthew",
+  "chapter": 7,
+  "page": 9,
+  "ref": "7:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_07_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_07_P009_F1",
+      "box": [
+        0.0068,
+        0,
+        0.9863,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "所以，凡听见我这些话又去实行的，"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P009_F2",
+      "box": [
+        0.0078,
+        0.25,
+        0.6416,
+        0.4434
+      ],
+      "alt": {
+        "zh-CN": "就像一个聪明人，把房子盖在磐石上；"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P009_F3",
+      "box": [
+        0.6572,
+        0.25,
+        0.335,
+        0.4434
+      ],
+      "alt": {
+        "zh-CN": "（农夫把第一块方石稳稳放在磐石上。）"
+      }
+    },
+    {
+      "id": "MATTHEW_07_P009_F4",
+      "box": [
+        0.0078,
+        0.6973,
+        0.9854,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "雨打下来，洪水冲过来，大风吹过来，撞击那房子，房子却没有倒塌，因为它的根基建在磐石上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_07_P009_B001",
+      "panel": "MATTHEW_07_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4013,
+        0.0025,
+        0.4339,
+        0.0296
+      ],
+      "tail": [
+        0.6183,
+        0.0568
+      ],
+      "text_key": "matthew.7.p9.b1"
+    },
+    {
+      "id": "MATTHEW_07_P009_B002",
+      "panel": "MATTHEW_07_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.027,
+        0.2544,
+        0.4491,
+        0.0443
+      ],
+      "tail": [
+        0.2516,
+        0.343
+      ],
+      "text_key": "matthew.7.p9.b2"
+    },
+    {
+      "id": "MATTHEW_07_P009_B003",
+      "panel": "MATTHEW_07_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0177,
+        0.7034,
+        0.2759,
+        0.0363
+      ],
+      "tail": [
+        0.1556,
+        0.77
+      ],
+      "text_key": "matthew.7.p9.b3"
+    },
+    {
+      "id": "MATTHEW_07_P009_B004",
+      "panel": "MATTHEW_07_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6286,
+        0.7034,
+        0.2759,
+        0.0423
+      ],
+      "tail": [
+        0.7666,
+        0.776
+      ],
+      "text_key": "matthew.7.p9.b4"
+    }
+  ]
+}

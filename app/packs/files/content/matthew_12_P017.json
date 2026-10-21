@@ -1,0 +1,94 @@
+{
+  "id": "MATTHEW_12_P017",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 17,
+  "ref": "12:46-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "耶稣还在对众人讲话的时候，他的母亲和弟弟们站在外面，要和他说话。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P017_F2",
+      "box": [
+        0,
+        0.2493,
+        0.459,
+        0.278
+      ]
+    },
+    {
+      "id": "MATTHEW_12_P017_F3",
+      "box": [
+        0.4668,
+        0.2493,
+        0.5332,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "有人告诉他：「你的母亲和你的弟弟们站在外面，要和你说话。」"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P017_F4",
+      "box": [
+        0,
+        0.5313,
+        1,
+        0.4687
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P017_B001",
+      "panel": "MATTHEW_12_P017_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0049,
+        0.67,
+        0.0441
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p17.b1"
+    },
+    {
+      "id": "MATTHEW_12_P017_B002",
+      "panel": "MATTHEW_12_P017_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7334,
+        0.2549,
+        0.2506,
+        0.0611
+      ],
+      "tail": [
+        0.8587,
+        0.3438
+      ],
+      "text_key": "matthew.12.p17.b2"
+    }
+  ]
+}

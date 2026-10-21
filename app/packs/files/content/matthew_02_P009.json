@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_02_P009",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 9,
+  "ref": "2:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "希律发现自己被博士愚弄了，就大发烈怒，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P009_F2",
+      "box": [
+        0,
+        0.3099,
+        0.3564,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "（希律的手指抠进椅子扶手。）"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P009_F3",
+      "box": [
+        0.3643,
+        0.3099,
+        0.6357,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "派人把伯利恒城里和周围一带两岁以内的男孩，按照他向博士仔细查问的时间，全都杀了。"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P009_F4",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "这就应验了耶利米先知的话：「在拉玛听见哀号痛哭的声音，是拉结为她的儿女哭泣，不肯接受安慰，因为他们都不在了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P009_B001",
+      "panel": "MATTHEW_02_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0061,
+        0.4,
+        0.0488
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p9.b1"
+    },
+    {
+      "id": "MATTHEW_02_P009_B002",
+      "panel": "MATTHEW_02_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.555,
+        0.3147,
+        0.4195,
+        0.029
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p9.b2"
+    },
+    {
+      "id": "MATTHEW_02_P009_B003",
+      "panel": "MATTHEW_02_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5616,
+        0.3,
+        0.0536
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p9.b3"
+    },
+    {
+      "id": "MATTHEW_02_P009_B004",
+      "panel": "MATTHEW_02_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.9463,
+        0.4,
+        0.0447
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p9.b4"
+    }
+  ]
+}

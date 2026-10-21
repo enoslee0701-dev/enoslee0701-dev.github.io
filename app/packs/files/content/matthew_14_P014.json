@@ -1,0 +1,109 @@
+{
+  "id": "MATTHEW_14_P014",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 14,
+  "ref": "14:34-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "他们渡过湖，来到革尼撒勒。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P014_F2",
+      "box": [
+        0,
+        0.2507,
+        0.4971,
+        0.2715
+      ],
+      "alt": {
+        "zh-CN": "那里的人一认出是耶稣，"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P014_F3",
+      "box": [
+        0.5039,
+        0.2507,
+        0.4961,
+        0.2715
+      ],
+      "alt": {
+        "zh-CN": "就派人到附近各地，把所有的病人带到他那里，"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P014_F4",
+      "box": [
+        0,
+        0.5254,
+        1,
+        0.4746
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P014_B001",
+      "panel": "MATTHEW_14_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0049,
+        0.44,
+        0.0197
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p14.b1"
+    },
+    {
+      "id": "MATTHEW_14_P014_B002",
+      "panel": "MATTHEW_14_P014_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2983,
+        0.2616,
+        0.1888,
+        0.038
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p14.b2"
+    },
+    {
+      "id": "MATTHEW_14_P014_B003",
+      "panel": "MATTHEW_14_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5138,
+        0.2561,
+        0.4762,
+        0.0325
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p14.b3"
+    }
+  ]
+}

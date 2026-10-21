@@ -1,0 +1,121 @@
+{
+  "id": "LUKE_21_P007",
+  "book": "luke",
+  "chapter": 21,
+  "page": 7,
+  "ref": "21:16-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_21_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_21_P007_F1",
+      "box": [
+        0,
+        0,
+        0.5225,
+        0.2702
+      ]
+    },
+    {
+      "id": "LUKE_21_P007_F2",
+      "box": [
+        0.5303,
+        0,
+        0.4697,
+        0.2702
+      ]
+    },
+    {
+      "id": "LUKE_21_P007_F3",
+      "box": [
+        0,
+        0.2734,
+        1,
+        0.7266
+      ]
+    },
+    {
+      "id": "LUKE_21_P007_F4",
+      "box": [
+        0,
+        0.6233,
+        0.41,
+        0.3767
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_21_P007_B001",
+      "panel": "LUKE_21_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0157,
+        0.0081,
+        0.4702,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "luke.21.p7.b1"
+    },
+    {
+      "id": "LUKE_21_P007_B002",
+      "panel": "LUKE_21_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5867,
+        0.1027,
+        0.1784,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "luke.21.p7.b2"
+    },
+    {
+      "id": "LUKE_21_P007_B003",
+      "panel": "LUKE_21_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5,
+        0.2952,
+        0.46,
+        0.0944
+      ],
+      "tail": [
+        0.73,
+        0.4623
+      ],
+      "text_key": "luke.21.p7.b3"
+    },
+    {
+      "id": "LUKE_21_P007_B004",
+      "panel": "LUKE_21_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0164,
+        0.6308,
+        0.3772,
+        0.0376
+      ],
+      "tail": [
+        0.205,
+        0.7061
+      ],
+      "text_key": "luke.21.p7.b4"
+    }
+  ]
+}

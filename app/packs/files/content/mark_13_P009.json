@@ -1,0 +1,157 @@
+{
+  "id": "MARK_13_P009",
+  "book": "mark",
+  "chapter": 13,
+  "page": 9,
+  "ref": "13:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_13_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_13_P009_F1",
+      "box": [
+        0.009,
+        0,
+        0.983,
+        0.21
+      ],
+      "alt": {
+        "zh-CN": "「但是在那些日子，那场灾难以后，"
+      }
+    },
+    {
+      "id": "MARK_13_P009_F2",
+      "box": [
+        0.009,
+        0.212,
+        0.574,
+        0.242
+      ],
+      "alt": {
+        "zh-CN": "太阳要变黑，月亮也不发光，"
+      }
+    },
+    {
+      "id": "MARK_13_P009_F3",
+      "box": [
+        0.588,
+        0.212,
+        0.404,
+        0.242
+      ],
+      "alt": {
+        "zh-CN": "（预言画面：羊圈上空的月亮没有光。）"
+      }
+    },
+    {
+      "id": "MARK_13_P009_F4",
+      "box": [
+        0.009,
+        0.456,
+        0.983,
+        0.269
+      ],
+      "alt": {
+        "zh-CN": "星星要从天上坠落，"
+      }
+    },
+    {
+      "id": "MARK_13_P009_F5",
+      "box": [
+        0.009,
+        0.728,
+        0.983,
+        0.272
+      ],
+      "alt": {
+        "zh-CN": "天上的万象都要震动。"
+      }
+    },
+    {
+      "id": "MARK_13_P009_F6",
+      "box": [
+        0.752,
+        0.775,
+        0.24,
+        0.218
+      ],
+      "alt": {
+        "zh-CN": "（彼得仰着脸望着夜空。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_13_P009_B001",
+      "panel": "MARK_13_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.33,
+        0.003,
+        0.62,
+        0.068
+      ],
+      "tail": [
+        0.29,
+        0.06
+      ],
+      "text_key": "mark.13.p9.b1"
+    },
+    {
+      "id": "MARK_13_P009_B002",
+      "panel": "MARK_13_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.009,
+        0.352,
+        0.43,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "mark.13.p9.b2"
+    },
+    {
+      "id": "MARK_13_P009_B003",
+      "panel": "MARK_13_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0287,
+        0.4614,
+        0.2949,
+        0.0322
+      ],
+      "tail": [
+        0.009,
+        0.5205
+      ],
+      "text_key": "mark.13.p9.b3"
+    },
+    {
+      "id": "MARK_13_P009_B004",
+      "panel": "MARK_13_P009_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.34,
+        0.733,
+        0.4,
+        0.068
+      ],
+      "tail": null,
+      "text_key": "mark.13.p9.b4"
+    }
+  ]
+}

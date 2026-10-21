@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_12_P012",
+  "book": "matthew",
+  "chapter": 12,
+  "page": 12,
+  "ref": "12:29-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_12_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_12_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "人怎么能进到壮士家里，抢走他的家具呢？除非先把那壮士捆起来，才能抢他的家财。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P012_F2",
+      "box": [
+        0,
+        0.2246,
+        1,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "不和我一起的，就是反对我的；不和我一起收聚的，就是在分散。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P012_F3",
+      "box": [
+        0,
+        0.5983,
+        0.4688,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "所以我告诉你们：人的一切罪和亵渎的话都可以得赦免，唯独亵渎圣灵，总不能得赦免。"
+      }
+    },
+    {
+      "id": "MATTHEW_12_P012_F4",
+      "box": [
+        0.475,
+        0.5983,
+        0.525,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "说话冒犯人子的，还可以得赦免；唯独说话冒犯圣灵的，今世来世都不能得赦免。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_12_P012_B001",
+      "panel": "MATTHEW_12_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0066,
+        0.4,
+        0.0398
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p12.b1"
+    },
+    {
+      "id": "MATTHEW_12_P012_B002",
+      "panel": "MATTHEW_12_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.232,
+        0.27,
+        0.0518
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p12.b2"
+    },
+    {
+      "id": "MATTHEW_12_P012_B003",
+      "panel": "MATTHEW_12_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0141,
+        0.8875,
+        0.2578,
+        0.1004
+      ],
+      "tail": [
+        0.143,
+        1
+      ],
+      "text_key": "matthew.12.p12.b3"
+    },
+    {
+      "id": "MATTHEW_12_P012_B004",
+      "panel": "MATTHEW_12_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4908,
+        0.6063,
+        0.2362,
+        0.0682
+      ],
+      "tail": null,
+      "text_key": "matthew.12.p12.b4"
+    }
+  ]
+}

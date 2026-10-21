@@ -1,0 +1,136 @@
+{
+  "id": "MARK_03_P014",
+  "book": "mark",
+  "chapter": 3,
+  "page": 14,
+  "ref": "3:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_03_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_03_P014_F1",
+      "box": [
+        0.02,
+        0.008,
+        0.961,
+        0.318
+      ],
+      "alt": {
+        "zh-CN": "耶稣把他们叫过来，用比喻对他们说："
+      }
+    },
+    {
+      "id": "MARK_03_P014_F2",
+      "box": [
+        0.02,
+        0.333,
+        0.313,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "撒但怎么能赶出撒但呢？"
+      }
+    },
+    {
+      "id": "MARK_03_P014_F3",
+      "box": [
+        0.342,
+        0.333,
+        0.639,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "一个国家如果内部分裂，就站立不住；"
+      }
+    },
+    {
+      "id": "MARK_03_P014_F4",
+      "box": [
+        0.02,
+        0.63,
+        0.961,
+        0.363
+      ],
+      "alt": {
+        "zh-CN": "一个家如果内部分裂，也站立不住。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_03_P014_B001",
+      "panel": "MARK_03_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.26,
+        0.012,
+        0.72,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "mark.3.p14.b1"
+    },
+    {
+      "id": "MARK_03_P014_B002",
+      "panel": "MARK_03_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.025,
+        0.336,
+        0.48,
+        0.068
+      ],
+      "tail": [
+        0.2,
+        0.475
+      ],
+      "text_key": "mark.3.p14.b2"
+    },
+    {
+      "id": "MARK_03_P014_B003",
+      "panel": "MARK_03_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.35,
+        0.518,
+        0.42,
+        0.105
+      ],
+      "tail": [
+        0.342,
+        0.57
+      ],
+      "text_key": "mark.3.p14.b3"
+    },
+    {
+      "id": "MARK_03_P014_B004",
+      "panel": "MARK_03_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.885,
+        0.42,
+        0.105
+      ],
+      "tail": [
+        0.02,
+        0.93
+      ],
+      "text_key": "mark.3.p14.b4"
+    }
+  ]
+}

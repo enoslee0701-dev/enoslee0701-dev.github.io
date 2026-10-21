@@ -1,0 +1,732 @@
+{
+  "matthew.13.p1.b1": {
+    "text": "That same day Jesus went out of the house",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p1.b2": {
+    "text": "and sat by the sea.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p1.b3": {
+    "text": "Such large crowds gathered around Him",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p1.b4": {
+    "text": "that He got into a boat and sat down, while all the people stood on the shore.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b1": {
+    "text": "And He told them many things in parables, saying,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b2": {
+    "text": "A farmer went out to sow his seed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b3": {
+    "text": "And as he was sowing, some seed fell along the path,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p2.b4": {
+    "text": "and the birds came and devoured it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p3.b1": {
+    "text": "Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p3.b2": {
+    "text": "But when the sun rose, the seedlings were scorched, and they withered because they had no root.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p3.b3": {
+    "text": "Other seed fell among thorns, which grew up and choked the seedlings.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b1": {
+    "text": "Still other seed fell on good soil and produced a crop—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b2": {
+    "text": "a hundredfold,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b3": {
+    "text": "sixtyfold, or thirtyfold.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p4.b4": {
+    "text": "He who has ears, let him hear.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b1": {
+    "text": "Why do You speak to the people in parables?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b2": {
+    "text": "The knowledge of the mysteries of the kingdom of heaven has been given to you, but not to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b3": {
+    "text": "Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken away from him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p5.b4": {
+    "text": "This is why I speak to them in parables: ‘Though seeing, they do not see; though hearing, they do not hear or understand.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b1": {
+    "text": "… the prophecy of Isaiah is fulfilled: ‘You will be ever hearing but never understanding; you will be ever seeing but never perceiving.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b2": {
+    "text": "For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b3": {
+    "text": "But blessed are your eyes because they see, and your ears because they hear.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p6.b4": {
+    "text": "… many prophets and righteous men longed to see what you see but did not see it, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b1": {
+    "text": "Consider, then, the parable of the sower:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b2": {
+    "text": "When anyone hears the message of the kingdom but does not understand it, the evil one comes and snatches away what was sown in his heart. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b3": {
+    "text": "The seed sown on rocky ground is the one who hears the word and at once receives it with joy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p7.b4": {
+    "text": "… When trouble or persecution comes because of the word, he quickly falls away.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p8.b1": {
+    "text": "The seed sown among the thorns is the one who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, and it becomes unfruitful.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p8.b2": {
+    "text": "But the seed sown on good soil is the one who hears the word and understands it. He indeed bears fruit and produces a crop—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p8.b3": {
+    "text": "a hundredfold, sixtyfold, or thirtyfold.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b1": {
+    "text": "The kingdom of heaven is like a man who sowed good seed in his field.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b2": {
+    "text": "But while everyone was asleep, his enemy came and sowed weeds among the wheat, and slipped away.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b3": {
+    "text": "When the wheat sprouted and bore grain, then the weeds also appeared.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p9.b4": {
+    "text": "Sir, didn’t you sow good seed in your field? Where then did the weeds come from?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b1": {
+    "text": "An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b2": {
+    "text": "No,’ he said, ‘if you pull the weeds now, you might uproot the wheat with them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b3": {
+    "text": "Let both grow together until the harvest.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p10.b4": {
+    "text": "… First collect the weeds and tie them in bundles to be burned; then gather the wheat into my barn.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b1": {
+    "text": "The kingdom of heaven is like a mustard seed that a man planted in his field.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b2": {
+    "text": "… yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b3": {
+    "text": "The kingdom of heaven is like leaven that a woman took and mixed into three measures of flour,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p11.b4": {
+    "text": "until all of it was leavened.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p12.b1": {
+    "text": "Jesus spoke all these things to the crowds in parables. He did not tell them anything without using a parable.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p12.b2": {
+    "text": "So was fulfilled what was spoken through the prophet: “I will open My mouth in parables; I will utter things hidden since the foundation of the world.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b1": {
+    "text": "Then Jesus dismissed the crowds and went into the house.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b2": {
+    "text": "Explain to us the parable of the weeds in the field.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b3": {
+    "text": "The One who sows the good seed is the Son of Man. The field is the world,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:37-38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p13.b4": {
+    "text": "… The harvest is the end of the age, and the harvesters are angels.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b1": {
+    "text": "As the weeds are collected and burned in the fire, so will it be at the end of the age.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b2": {
+    "text": "And they will throw them into the fiery furnace, where there will be weeping and gnashing of teeth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b3": {
+    "text": "Then the righteous will shine like the sun in the kingdom of their Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p14.b4": {
+    "text": "He who has ears, let him hear.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p15.b1": {
+    "text": "The kingdom of heaven is like treasure hidden in a field.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p15.b2": {
+    "text": "When a man found it, he hid it again,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p15.b3": {
+    "text": "and in his joy he went and sold all he had and bought that field.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b1": {
+    "text": "Again, the kingdom of heaven is like a merchant in search of fine pearls.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b2": {
+    "text": "When he found one very precious pearl,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b3": {
+    "text": "he went away and sold all he had",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p16.b4": {
+    "text": "and bought it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b1": {
+    "text": "Once again, the kingdom of heaven is like a net that was cast into the sea and caught all kinds of fish.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b2": {
+    "text": "When it was full, the men pulled it ashore.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b3": {
+    "text": "Then they sat down and sorted the good fish into containers, but threw the bad away.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p17.b4": {
+    "text": "So will it be at the end of the age:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p18.b1": {
+    "text": "Have you understood all these things?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p18.b2": {
+    "text": "Yes,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p18.b3": {
+    "text": "… every scribe who has been discipled in the kingdom of heaven is like a homeowner who brings out of his storeroom new treasures as well as old.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b1": {
+    "text": "When Jesus had finished these parables, He withdrew from that place. Coming to His hometown,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:53-54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b2": {
+    "text": "Where did this man get such wisdom and miraculous powers?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b3": {
+    "text": "Isn’t this the carpenter’s son?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p19.b4": {
+    "text": "Aren’t all His sisters with us as well? Where then did this man get all these things?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p20.b1": {
+    "text": "And they took offense at Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p20.b2": {
+    "text": "Only in his hometown and in his own household is a prophet without honor.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "matthew.13.p20.b3": {
+    "text": "And He did not do many miracles there, because of their unbelief.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Matthew 13:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

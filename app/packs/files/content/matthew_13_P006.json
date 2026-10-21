@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_13_P006",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 6,
+  "ref": "13:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "在他们身上正应验了以赛亚的预言：「你们听是要听见，却不明白；看是要看见，却不晓得；"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P006_F2",
+      "box": [
+        0,
+        0.2298,
+        0.2588,
+        0.4935
+      ],
+      "alt": {
+        "zh-CN": "因为这百姓的心麻木了，耳朵发沉，眼睛闭着……」"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P006_F3",
+      "box": [
+        0.2656,
+        0.2298,
+        0.7344,
+        0.4935
+      ],
+      "alt": {
+        "zh-CN": "「但你们的眼睛是有福的，因为看见了；你们的耳朵也是有福的，因为听见了。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P006_F4",
+      "box": [
+        0,
+        0.7285,
+        1,
+        0.2715
+      ],
+      "alt": {
+        "zh-CN": "从前有许多先知和义人想看你们所看的，却没有看见……」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P006_B001",
+      "panel": "MATTHEW_13_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0068,
+        0.44,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p6.b1"
+    },
+    {
+      "id": "MATTHEW_13_P006_B002",
+      "panel": "MATTHEW_13_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0104,
+        0.5851,
+        0.238,
+        0.1283
+      ],
+      "tail": null,
+      "text_key": "matthew.13.p6.b2"
+    },
+    {
+      "id": "MATTHEW_13_P006_B003",
+      "panel": "MATTHEW_13_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2876,
+        0.6246,
+        0.2937,
+        0.0888
+      ],
+      "tail": [
+        0.4345,
+        0.7233
+      ],
+      "text_key": "matthew.13.p6.b3"
+    },
+    {
+      "id": "MATTHEW_13_P006_B004",
+      "panel": "MATTHEW_13_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.7394,
+        0.44,
+        0.0814
+      ],
+      "tail": [
+        0,
+        0.848
+      ],
+      "text_key": "matthew.13.p6.b4"
+    }
+  ]
+}

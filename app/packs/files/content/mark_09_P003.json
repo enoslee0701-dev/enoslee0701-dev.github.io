@@ -1,0 +1,118 @@
+{
+  "id": "MARK_09_P003",
+  "book": "mark",
+  "chapter": 9,
+  "page": 3,
+  "ref": "9:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_09_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_09_P003_F1",
+      "box": [
+        0.008,
+        0.001,
+        0.985,
+        0.176
+      ],
+      "alt": {
+        "zh-CN": "（雅各和约翰吓得伏在地上。）"
+      }
+    },
+    {
+      "id": "MARK_09_P003_F2",
+      "box": [
+        0.008,
+        0.183,
+        0.309,
+        0.561
+      ],
+      "alt": {
+        "zh-CN": "彼得对耶稣说：「老师，我们在这里真好！"
+      }
+    },
+    {
+      "id": "MARK_09_P003_F3",
+      "box": [
+        0.326,
+        0.183,
+        0.667,
+        0.561
+      ],
+      "alt": {
+        "zh-CN": "我们来搭三座棚，一座给你，一座给摩西，一座给以利亚。」"
+      }
+    },
+    {
+      "id": "MARK_09_P003_F4",
+      "box": [
+        0.008,
+        0.749,
+        0.985,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "彼得不知道该说什么才好，因为他们非常害怕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_09_P003_B001",
+      "panel": "MARK_09_P003_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.02,
+        0.585,
+        0.28,
+        0.155
+      ],
+      "tail": [
+        0.17,
+        0.34
+      ],
+      "text_key": "mark.9.p3.b1"
+    },
+    {
+      "id": "MARK_09_P003_B002",
+      "panel": "MARK_09_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.33,
+        0.585,
+        0.47,
+        0.155
+      ],
+      "tail": [
+        0.33,
+        0.5
+      ],
+      "text_key": "mark.9.p3.b2"
+    },
+    {
+      "id": "MARK_09_P003_B003",
+      "panel": "MARK_09_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5793,
+        0.7688,
+        0.3841,
+        0.0843
+      ],
+      "tail": null,
+      "text_key": "mark.9.p3.b3"
+    }
+  ]
+}

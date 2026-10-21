@@ -1,0 +1,130 @@
+{
+  "id": "MATTHEW_18_P007",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 7,
+  "ref": "18:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2923
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P007_F2",
+      "box": [
+        0,
+        0.2962,
+        0.3428,
+        0.3757
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P007_F3",
+      "box": [
+        0.3545,
+        0.2962,
+        0.6455,
+        0.3757
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P007_F4",
+      "box": [
+        0,
+        0.6758,
+        1,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "「他若不听，你就另外带一两个人同去……若是不听他们，就告诉教会。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P007_B001",
+      "panel": "MATTHEW_18_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0088,
+        0.56,
+        0.0438
+      ],
+      "tail": [
+        0.68,
+        0.0818
+      ],
+      "text_key": "matthew.18.p7.b1"
+    },
+    {
+      "id": "MATTHEW_18_P007_B002",
+      "panel": "MATTHEW_18_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3868,
+        0.3075,
+        0.5809,
+        0.0676
+      ],
+      "tail": [
+        0.6772,
+        0.4127
+      ],
+      "text_key": "matthew.18.p7.b2"
+    },
+    {
+      "id": "MATTHEW_18_P007_B003",
+      "panel": "MATTHEW_18_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.6823,
+        0.4,
+        0.0291
+      ],
+      "tail": [
+        0.22,
+        0.7438
+      ],
+      "text_key": "matthew.18.p7.b3"
+    },
+    {
+      "id": "MATTHEW_18_P007_B004",
+      "panel": "MATTHEW_18_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.9352,
+        0.42,
+        0.0486
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "matthew.18.p7.b4"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_04_P006",
+  "book": "matthew",
+  "chapter": 4,
+  "page": 6,
+  "ref": "4:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_04_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_04_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "后来他离开拿撒勒，到迦百农去住。"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P006_F2",
+      "box": [
+        0,
+        0.2207,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "那些坐在黑暗中的百姓，"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P006_F3",
+      "box": [
+        0.627,
+        0.2279,
+        0.3604,
+        0.1009
+      ],
+      "alt": {
+        "zh-CN": "（湖对岸的山上透出一线晨光。）"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P006_F4",
+      "box": [
+        0,
+        0.5833,
+        1,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "看见了大光；住在死亡阴影之地的人，有光照在他们身上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_04_P006_B001",
+      "panel": "MATTHEW_04_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0065,
+        0.42,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p6.b1"
+    },
+    {
+      "id": "MATTHEW_04_P006_B002",
+      "panel": "MATTHEW_04_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2315,
+        0.4,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p6.b2"
+    },
+    {
+      "id": "MATTHEW_04_P006_B003",
+      "panel": "MATTHEW_04_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.5896,
+        0.22,
+        0.0375
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p6.b3"
+    },
+    {
+      "id": "MATTHEW_04_P006_B004",
+      "panel": "MATTHEW_04_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5916,
+        0.3,
+        0.05
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p6.b4"
+    }
+  ]
+}

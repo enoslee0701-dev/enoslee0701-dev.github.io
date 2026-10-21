@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_06_P009",
+  "book": "luke",
+  "chapter": 6,
+  "page": 9,
+  "ref": "6:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "人因为人子的缘故恨你们、排斥你们、辱骂你们、把你们的名当作恶名丢弃，你们就有福了！"
+      }
+    },
+    {
+      "id": "LUKE_06_P009_F2",
+      "box": [
+        0,
+        0.2624,
+        1,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "在那日你们要欢喜跳跃，因为你们在天上的赏赐是大的。"
+      }
+    },
+    {
+      "id": "LUKE_06_P009_F3",
+      "box": [
+        0,
+        0.6979,
+        0.5127,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "他们的祖先也是这样对待先知的。"
+      }
+    },
+    {
+      "id": "LUKE_06_P009_F4",
+      "box": [
+        0.5215,
+        0.6979,
+        0.4785,
+        0.3021
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P009_B001",
+      "panel": "LUKE_06_P009_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.005,
+        0.275,
+        0.225,
+        0.1688
+      ],
+      "tail": [
+        0,
+        0.45
+      ],
+      "text_key": "luke.6.p9.b1"
+    },
+    {
+      "id": "LUKE_06_P009_B002",
+      "panel": "LUKE_06_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.271,
+        0.38,
+        0.0773
+      ],
+      "tail": [
+        0,
+        0.3913
+      ],
+      "text_key": "luke.6.p9.b2"
+    },
+    {
+      "id": "LUKE_06_P009_B003",
+      "panel": "LUKE_06_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0103,
+        0.707,
+        0.1538,
+        0.0604
+      ],
+      "tail": [
+        0,
+        0.7976
+      ],
+      "text_key": "luke.6.p9.b3"
+    }
+  ]
+}

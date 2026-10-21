@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_13_P008",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 8,
+  "ref": "13:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "撒在荆棘里的，就是人听了道，后来世上的忧虑和钱财的迷惑把道挤住了，不能结出果实。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P008_F2",
+      "box": [
+        0,
+        0.2702,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "撒在好土里的，就是人听了道并且明白，后来结出果实，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P008_F3",
+      "box": [
+        0,
+        0.6693,
+        0.4619,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "有一百倍的，有六十倍的，有三十倍的。」"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P008_F4",
+      "box": [
+        0.4678,
+        0.6693,
+        0.5322,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "（暮色里，湖上的小船亮着一盏灯，岸上的人还没散。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P008_B001",
+      "panel": "MATTHEW_13_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.008,
+        0.4,
+        0.0692
+      ],
+      "tail": [
+        0,
+        0.1038
+      ],
+      "text_key": "matthew.13.p8.b1"
+    },
+    {
+      "id": "MATTHEW_13_P008_B002",
+      "panel": "MATTHEW_13_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.2781,
+        0.2,
+        0.0633
+      ],
+      "tail": [
+        0,
+        0.381
+      ],
+      "text_key": "matthew.13.p8.b2"
+    },
+    {
+      "id": "MATTHEW_13_P008_B003",
+      "panel": "MATTHEW_13_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3049,
+        0.6759,
+        0.1478,
+        0.0661
+      ],
+      "tail": [
+        0,
+        0.7751
+      ],
+      "text_key": "matthew.13.p8.b3"
+    }
+  ]
+}

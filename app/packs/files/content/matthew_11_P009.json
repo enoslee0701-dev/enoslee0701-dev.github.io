@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_11_P009",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 9,
+  "ref": "11:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "迦百农啊，你已经被高举到天上，"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P009_F2",
+      "box": [
+        0,
+        0.252,
+        0.5234,
+        0.748
+      ],
+      "alt": {
+        "zh-CN": "将来必坠落到阴间；"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P009_F3",
+      "box": [
+        0.5313,
+        0.252,
+        0.4687,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "因为在你那里所行的神迹，如果行在所多玛，它就会存留到今天。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P009_F4",
+      "box": [
+        0.5313,
+        0.5775,
+        0.4687,
+        0.4225
+      ],
+      "alt": {
+        "zh-CN": "但我告诉你们，在审判的日子，所多玛所受的，会比你还轻呢！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P009_B001",
+      "panel": "MATTHEW_11_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0074,
+        0.56,
+        0.0446
+      ],
+      "tail": [
+        0.68,
+        0.0768
+      ],
+      "text_key": "matthew.11.p9.b1"
+    },
+    {
+      "id": "MATTHEW_11_P009_B002",
+      "panel": "MATTHEW_11_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0209,
+        0.8953,
+        0.4815,
+        0.0822
+      ],
+      "tail": [
+        0.2617,
+        1
+      ],
+      "text_key": "matthew.11.p9.b2"
+    },
+    {
+      "id": "MATTHEW_11_P009_B003",
+      "panel": "MATTHEW_11_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.2584,
+        0.4312,
+        0.0577
+      ],
+      "tail": [
+        0.7656,
+        0.3482
+      ],
+      "text_key": "matthew.11.p9.b3"
+    },
+    {
+      "id": "MATTHEW_11_P009_B004",
+      "panel": "MATTHEW_11_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.9155,
+        0.4312,
+        0.076
+      ],
+      "tail": [
+        0.7656,
+        1
+      ],
+      "text_key": "matthew.11.p9.b4"
+    }
+  ]
+}

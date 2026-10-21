@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_01_P014",
+  "book": "luke",
+  "chapter": 1,
+  "page": 14,
+  "ref": "1:42-45",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "她大声喊着说：「你在妇女中是有福的！你腹中的胎儿也是有福的！"
+      }
+    },
+    {
+      "id": "LUKE_01_P014_F2",
+      "box": [
+        0,
+        0.2539,
+        0.5615,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "我主的母亲到我这里来，我怎么当得起呢？"
+      }
+    },
+    {
+      "id": "LUKE_01_P014_F3",
+      "box": [
+        0.5664,
+        0.2539,
+        0.4336,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "因为你问候的声音一传到我耳中，我腹中的胎儿就欢喜跳动。"
+      }
+    },
+    {
+      "id": "LUKE_01_P014_F4",
+      "box": [
+        0,
+        0.5033,
+        1,
+        0.4967
+      ],
+      "alt": {
+        "zh-CN": "这相信的女子是有福的！因为主对她说的话都要实现。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P014_B001",
+      "panel": "LUKE_01_P014_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.34,
+        0.0075,
+        0.29,
+        0.0753
+      ],
+      "tail": [
+        0.485,
+        0.1079
+      ],
+      "text_key": "luke.1.p14.b1"
+    },
+    {
+      "id": "LUKE_01_P014_B002",
+      "panel": "LUKE_01_P014_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2976,
+        0.303,
+        0.247,
+        0.037
+      ],
+      "tail": [
+        0.4211,
+        0.323
+      ],
+      "text_key": "luke.1.p14.b2"
+    },
+    {
+      "id": "LUKE_01_P014_B003",
+      "panel": "LUKE_01_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5881,
+        0.2613,
+        0.3902,
+        0.0592
+      ],
+      "tail": [
+        0.7832,
+        0.3452
+      ],
+      "text_key": "luke.1.p14.b3"
+    },
+    {
+      "id": "LUKE_01_P014_B004",
+      "panel": "LUKE_01_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.527,
+        0.62,
+        0.0347
+      ],
+      "tail": [
+        0.34,
+        0.5976
+      ],
+      "text_key": "luke.1.p14.b4"
+    }
+  ]
+}

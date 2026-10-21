@@ -1,0 +1,76 @@
+{
+  "id": "MATTHEW_04_P007",
+  "book": "matthew",
+  "chapter": 4,
+  "page": 7,
+  "ref": "4:17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_04_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_04_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.7083
+      ],
+      "alt": {
+        "zh-CN": "从那时起，耶稣开始传道，说：“天国近了，你们应当悔改！”"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P007_F2",
+      "box": [
+        0,
+        0.7122,
+        1,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "（远处的湖边，有两个人在撒网。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_04_P007_B001",
+      "panel": "MATTHEW_04_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0142,
+        0.37,
+        0.0708
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p7.b1"
+    },
+    {
+      "id": "MATTHEW_04_P007_B002",
+      "panel": "MATTHEW_04_P007_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4,
+        0.0212,
+        0.36,
+        0.0849
+      ],
+      "tail": [
+        0.58,
+        0.1769
+      ],
+      "text_key": "matthew.4.p7.b2"
+    }
+  ]
+}

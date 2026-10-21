@@ -1,0 +1,151 @@
+{
+  "id": "MATTHEW_09_P013",
+  "book": "matthew",
+  "chapter": 9,
+  "page": 13,
+  "ref": "9:27-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_09_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_09_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "大卫的子孙，可怜我们吧！"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P013_F2",
+      "box": [
+        0,
+        0.2656,
+        0.5977,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "你们相信我能做这件事吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P013_F3",
+      "box": [
+        0.6045,
+        0.2656,
+        0.3955,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "主啊，我们相信。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P013_F4",
+      "box": [
+        0,
+        0.5397,
+        1,
+        0.1224
+      ],
+      "alt": {
+        "zh-CN": "照着你们的信心成全给你们吧。"
+      }
+    },
+    {
+      "id": "MATTHEW_09_P013_F5",
+      "box": [
+        0,
+        0.6654,
+        1,
+        0.3346
+      ],
+      "alt": {
+        "zh-CN": "（他们的眼睛睁开了，一个看着耶稣，一个望着门外天亮。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_09_P013_B001",
+      "panel": "MATTHEW_09_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.3,
+        0.0052,
+        0.38,
+        0.0419
+      ],
+      "tail": [
+        0.49,
+        0.0733
+      ],
+      "text_key": "matthew.9.p13.b1"
+    },
+    {
+      "id": "MATTHEW_09_P013_B002",
+      "panel": "MATTHEW_09_P013_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2809,
+        0.2683,
+        0.1852,
+        0.0487
+      ],
+      "tail": [
+        0.3735,
+        0.3441
+      ],
+      "text_key": "matthew.9.p13.b2"
+    },
+    {
+      "id": "MATTHEW_09_P013_B003",
+      "panel": "MATTHEW_09_P013_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6203,
+        0.2683,
+        0.3638,
+        0.0324
+      ],
+      "tail": [
+        0.8022,
+        0.3278
+      ],
+      "text_key": "matthew.9.p13.b3"
+    },
+    {
+      "id": "MATTHEW_09_P013_B004",
+      "panel": "MATTHEW_09_P013_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.015,
+        0.672,
+        0.32,
+        0.1101
+      ],
+      "tail": [
+        0.12,
+        0.66
+      ],
+      "text_key": "matthew.9.p13.b4"
+    }
+  ]
+}

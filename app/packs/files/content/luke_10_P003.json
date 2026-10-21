@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_10_P003",
+  "book": "luke",
+  "chapter": 10,
+  "page": 3,
+  "ref": "10:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_10_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_10_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "你们要住在那一家，吃喝他们供给的，因为工人得工钱是应该的；"
+      }
+    },
+    {
+      "id": "LUKE_10_P003_F2",
+      "box": [
+        0.3953,
+        0.2393,
+        0.6047,
+        0.1733
+      ],
+      "alt": {
+        "zh-CN": "不要从这一家搬到那一家。"
+      }
+    },
+    {
+      "id": "LUKE_10_P003_F3",
+      "box": [
+        0,
+        0.4173,
+        1,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "神的国已经临近你们了。"
+      }
+    },
+    {
+      "id": "LUKE_10_P003_F4",
+      "box": [
+        0,
+        0.7923,
+        1,
+        0.2077
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_10_P003_B001",
+      "panel": "LUKE_10_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2439,
+        0.32,
+        0.0702
+      ],
+      "tail": null,
+      "text_key": "luke.10.p3.b1"
+    },
+    {
+      "id": "LUKE_10_P003_B002",
+      "panel": "LUKE_10_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5888,
+        0.2428,
+        0.1995,
+        0.0311
+      ],
+      "tail": null,
+      "text_key": "luke.10.p3.b2"
+    },
+    {
+      "id": "LUKE_10_P003_B003",
+      "panel": "LUKE_10_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.4247,
+        0.42,
+        0.0518
+      ],
+      "tail": [
+        0.77,
+        0.5135
+      ],
+      "text_key": "luke.10.p3.b3"
+    }
+  ]
+}

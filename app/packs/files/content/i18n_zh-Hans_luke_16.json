@@ -1,0 +1,453 @@
+{
+  "luke.16.p1.b1": {
+    "text": "耶稣又对门徒说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣又对门⁠徒说："
+  },
+  "luke.16.p1.b2": {
+    "text": "有一个财主的管家，别人向他主人告他浪费主人的财物。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个财⁠主的管⁠家，别⁠人向他主⁠人告他浪⁠费主⁠人的财⁠物。"
+  },
+  "luke.16.p1.b3": {
+    "text": "我听见你这事怎么样呢？把你所经管的交代明白，因你不能再作我的管家。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我听⁠见你这事怎⁠么样呢？把你所经⁠管的交⁠代明⁠白，因你不⁠能再作我⁠的管⁠家。"
+  },
+  "luke.16.p2.b1": {
+    "text": "那管家心里说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那管⁠家心⁠里说："
+  },
+  "luke.16.p2.b2": {
+    "text": "主人辞我，不用我再作管家，我将来做什么？锄地呢？无力；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主⁠人辞我，不⁠用我⁠再作管⁠家，我将⁠来做什⁠么？锄地呢？无⁠力；"
+  },
+  "luke.16.p2.b3": {
+    "text": "讨饭呢？怕羞。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "讨⁠饭呢？怕⁠羞。"
+  },
+  "luke.16.p2.b4": {
+    "text": "我知道怎么行，好叫人在我不作管家之后，接我到他们家里去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠知⁠道怎⁠么行，好叫人在我⁠不作管⁠家之⁠后，接我⁠到他⁠们家⁠里去。"
+  },
+  "luke.16.p3.b1": {
+    "text": "于是把欠他主人债的，一个一个地叫了来，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是把欠他主⁠人债的，一⁠个一⁠个地叫⁠了来，"
+  },
+  "luke.16.p3.b2": {
+    "text": "你欠我主人多少？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你欠我主⁠人多⁠少？"
+  },
+  "luke.16.p3.b3": {
+    "text": "一百篓油。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "一⁠百篓油。"
+  },
+  "luke.16.p3.b4": {
+    "text": "拿你的帐，快坐下，写五十。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "拿你⁠的帐，快坐⁠下，写五⁠十。"
+  },
+  "luke.16.p4.b1": {
+    "text": "主人就夸奖这不义的管家做事聪明；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主⁠人就夸⁠奖这不⁠义的管⁠家做⁠事聪⁠明；"
+  },
+  "luke.16.p4.b2": {
+    "text": "因为今世之子，在世事之上，较比光明之子更加聪明。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为今⁠世之⁠子，在世⁠事之⁠上，较比光⁠明之⁠子更⁠加聪⁠明。"
+  },
+  "luke.16.p4.b3": {
+    "text": "我又告诉你们，要借着那不义的钱财结交朋友，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠又告⁠诉你⁠们，要借⁠着那不⁠义的钱⁠财结⁠交朋⁠友，"
+  },
+  "luke.16.p4.b4": {
+    "text": "到了钱财无用的时候，他们可以接你们到永存的帐幕里去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "到⁠了钱⁠财无⁠用的时⁠候，他⁠们可⁠以接你⁠们到永⁠存的帐幕里去。"
+  },
+  "luke.16.p5.b1": {
+    "text": "人在最小的事上忠心，在大事上也忠心；在最小的事上不义，在大事上也不义。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人在最⁠小的事上忠⁠心，在大⁠事上也忠⁠心；在最⁠小的事上不⁠义，在大⁠事上也⁠不义。"
+  },
+  "luke.16.p5.b2": {
+    "text": "倘若你们在不义的钱财上不忠心，谁还把那真实的钱财托付你们呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "倘⁠若你⁠们在不⁠义的钱⁠财上不忠⁠心，谁还⁠把那真⁠实的钱⁠财托⁠付你⁠们呢？"
+  },
+  "luke.16.p5.b3": {
+    "text": "一个仆人不能事奉两个主；不是恶这个爱那个，就是重这个轻那个。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "一⁠个仆⁠人不⁠能事奉两个主；不⁠是恶这⁠个爱那⁠个，就⁠是重这⁠个轻那⁠个。"
+  },
+  "luke.16.p5.b4": {
+    "text": "你们不能又事奉　神，又事奉玛门。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们不⁠能又事奉　神，又事奉玛门。"
+  },
+  "luke.16.p6.b1": {
+    "text": "法利赛人是贪爱钱财的；他们听见这一切话，就嗤笑耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "法⁠利⁠赛人是贪爱钱⁠财的；他⁠们听⁠见这一⁠切话，就嗤⁠笑耶⁠稣。"
+  },
+  "luke.16.p6.b2": {
+    "text": "你们的心，　神却知道；因为人所尊贵的，是　神看为可憎恶的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们的心，　神却知⁠道；因⁠为人所尊⁠贵的，是　神看为可憎⁠恶的。"
+  },
+  "luke.16.p6.b3": {
+    "text": "天地废去较比律法的一点一画落空还容易。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "天⁠地废去较比律⁠法的一⁠点一画落⁠空还容⁠易。"
+  },
+  "luke.16.p6.b4": {
+    "text": "凡休妻另娶的就是犯奸淫；娶被休之妻的也是犯奸淫。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡休妻另娶的就⁠是犯奸⁠淫；娶被休之妻的也⁠是犯奸⁠淫。"
+  },
+  "luke.16.p7.b1": {
+    "text": "有一个财主穿着紫色袍和细麻布衣服，天天奢华宴乐。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个财⁠主穿⁠着紫⁠色袍和细⁠麻⁠布衣⁠服，天⁠天奢⁠华宴乐。"
+  },
+  "luke.16.p7.b2": {
+    "text": "又有一个讨饭的，名叫拉撒路，浑身生疮，被人放在财主门口，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有一⁠个讨⁠饭的，名⁠叫拉撒路，浑⁠身生疮，被⁠人放⁠在财⁠主门⁠口，"
+  },
+  "luke.16.p7.b3": {
+    "text": "要得财主桌子上掉下来的零碎充饥，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "要得财⁠主桌⁠子上掉下⁠来的零⁠碎充饥，"
+  },
+  "luke.16.p7.b4": {
+    "text": "并且狗来舔他的疮。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并⁠且狗来舔他⁠的疮。"
+  },
+  "luke.16.p8.b1": {
+    "text": "后来那讨饭的死了，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "后⁠来那讨⁠饭的死⁠了，"
+  },
+  "luke.16.p8.b2": {
+    "text": "被天使带去放在亚伯拉罕的怀里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "被天⁠使带⁠去放⁠在亚⁠伯拉⁠罕的怀里。"
+  },
+  "luke.16.p8.b3": {
+    "text": "财主也死了，并且埋葬了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "财⁠主也死⁠了，并⁠且埋⁠葬了。"
+  },
+  "luke.16.p9.b1": {
+    "text": "他在阴间受痛苦，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠在阴⁠间受痛⁠苦，"
+  },
+  "luke.16.p9.b2": {
+    "text": "举目远远地望见亚伯拉罕，又望见拉撒路在他怀里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "举目远⁠远地望见亚⁠伯拉⁠罕，又望见拉撒路在他怀里，"
+  },
+  "luke.16.p9.b3": {
+    "text": "我祖亚伯拉罕哪，可怜我吧！打发拉撒路来，用指头尖蘸点水，凉凉我的舌头；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我祖亚⁠伯拉⁠罕哪，可⁠怜我吧！打⁠发拉撒路来，用指⁠头尖蘸点水，凉⁠凉我⁠的舌⁠头；"
+  },
+  "luke.16.p9.b4": {
+    "text": "因为我在这火焰里，极其痛苦。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为我⁠在这火⁠焰里，极⁠其痛⁠苦。"
+  },
+  "luke.16.p10.b1": {
+    "text": "儿啊，你该回想你生前享过福，拉撒路也受过苦；如今他在这里得安慰，你倒受痛苦。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "儿啊，你该回⁠想你生⁠前享过福，拉撒路也受过苦；如⁠今他⁠在这⁠里得安⁠慰，你倒受痛⁠苦。"
+  },
+  "luke.16.p10.b2": {
+    "text": "在你我之间，有深渊限定，以致人要从这边过到你们那边是不能的；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在你⁠我之⁠间，有深⁠渊限⁠定，以⁠致人要从这⁠边过到你⁠们那⁠边是不⁠能的；"
+  },
+  "luke.16.p10.b3": {
+    "text": "我祖啊！既是这样，求你打发拉撒路到我父家去；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我祖啊！既⁠是这⁠样，求你打⁠发拉撒路到我父家去；"
+  },
+  "luke.16.p10.b4": {
+    "text": "因为我还有五个弟兄，……免得他们也来到这痛苦的地方。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为我还⁠有五个弟⁠兄，……免⁠得他⁠们也来⁠到这痛⁠苦的地⁠方。"
+  },
+  "luke.16.p11.b1": {
+    "text": "他们有摩西和先知的话可以听从。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们有摩⁠西和先⁠知的⁠话可⁠以听⁠从。"
+  },
+  "luke.16.p11.b2": {
+    "text": "我祖亚伯拉罕哪，不是的，若有一个从死里复活的，到他们那里去的，他们必要悔改。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我祖亚⁠伯拉⁠罕哪，不⁠是的，若⁠有一⁠个从死里复⁠活的，到他⁠们那⁠里去的，他⁠们必⁠要悔⁠改。"
+  },
+  "luke.16.p11.b3": {
+    "text": "若不听从摩西和先知的话，就是有一个从死里复活的，他们也是不听劝。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 16:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若不听⁠从摩⁠西和先⁠知的⁠话，就⁠是有一⁠个从死里复⁠活的，他⁠们也⁠是不听劝。"
+  }
+}

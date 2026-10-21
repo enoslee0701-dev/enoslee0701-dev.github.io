@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_02_P003",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2279
+      ],
+      "alt": {
+        "zh-CN": "他们回答：「在犹太的伯利恒。因为先知这样写着："
+      }
+    },
+    {
+      "id": "MATTHEW_02_P003_F2",
+      "box": [
+        0,
+        0.2318,
+        1,
+        0.3835
+      ],
+      "alt": {
+        "zh-CN": "『犹大地的伯利恒啊，你在犹大的城中绝不是最小的；"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P003_F3",
+      "box": [
+        0,
+        0.6204,
+        0.4395,
+        0.3796
+      ],
+      "alt": {
+        "zh-CN": "因为将来有一位君王要从你那里出来，牧养我的子民以色列。』」"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P003_F4",
+      "box": [
+        0.4473,
+        0.6204,
+        0.5527,
+        0.3796
+      ],
+      "alt": {
+        "zh-CN": "（祭司长和文士们答完就走了。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P003_B001",
+      "panel": "MATTHEW_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0027,
+        0.44,
+        0.0296
+      ],
+      "tail": [
+        0.24,
+        0.0551
+      ],
+      "text_key": "matthew.2.p3.b1"
+    },
+    {
+      "id": "MATTHEW_02_P003_B002",
+      "panel": "MATTHEW_02_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2376,
+        0.92,
+        0.0441
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p3.b2"
+    },
+    {
+      "id": "MATTHEW_02_P003_B003",
+      "panel": "MATTHEW_02_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4584,
+        0.625,
+        0.5305,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p3.b3"
+    }
+  ]
+}

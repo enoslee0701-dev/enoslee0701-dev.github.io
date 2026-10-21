@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_06_P009",
+  "book": "matthew",
+  "chapter": 6,
+  "page": 9,
+  "ref": "6:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_06_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_06_P009_F1",
+      "box": [
+        0,
+        0,
+        0.4951,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "眼睛是身体的灯。你的眼睛若明亮，全身就光明；"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P009_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "你的眼睛若昏暗，全身就黑暗。你里面的光若黑暗了，那黑暗是多么大呢！"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P009_F3",
+      "box": [
+        0,
+        0.3424,
+        1,
+        0.3737
+      ],
+      "alt": {
+        "zh-CN": "一个人不能服事两个主人；……你们不能又服事上帝，又服事钱财。"
+      }
+    },
+    {
+      "id": "MATTHEW_06_P009_F4",
+      "box": [
+        0,
+        0.7201,
+        1,
+        0.2799
+      ],
+      "alt": {
+        "zh-CN": "（年轻的文士把腋下的书卷拿到手里，低头看着。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_06_P009_B001",
+      "panel": "MATTHEW_06_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2872,
+        0.0101,
+        0.193,
+        0.0608
+      ],
+      "tail": [
+        0.3837,
+        0.1047
+      ],
+      "text_key": "matthew.6.p9.b1"
+    },
+    {
+      "id": "MATTHEW_06_P009_B002",
+      "panel": "MATTHEW_06_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5188,
+        0.0101,
+        0.2728,
+        0.0675
+      ],
+      "tail": [
+        0.6552,
+        0.1114
+      ],
+      "text_key": "matthew.6.p9.b2"
+    },
+    {
+      "id": "MATTHEW_06_P009_B003",
+      "panel": "MATTHEW_06_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.41,
+        0.3499,
+        0.21,
+        0.0635
+      ],
+      "tail": [
+        0.515,
+        0.4508
+      ],
+      "text_key": "matthew.6.p9.b3"
+    }
+  ]
+}

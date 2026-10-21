@@ -1,0 +1,112 @@
+{
+  "id": "MATTHEW_04_P005",
+  "book": "matthew",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "于是魔鬼离开了耶稣，"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P005_F2",
+      "box": [
+        0.0078,
+        0.2454,
+        0.377,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "（两个穿白衣的人提着灯来到耶稣身边。）"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P005_F3",
+      "box": [
+        0.3936,
+        0.2454,
+        0.5986,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "有天使来服侍他。"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P005_F4",
+      "box": [
+        0,
+        0.6517,
+        1,
+        0.3483
+      ],
+      "alt": {
+        "zh-CN": "耶稣听说约翰被关进了监狱，就退回加利利去；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_04_P005_B001",
+      "panel": "MATTHEW_04_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0072,
+        0.42,
+        0.0481
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p5.b1"
+    },
+    {
+      "id": "MATTHEW_04_P005_B002",
+      "panel": "MATTHEW_04_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8006,
+        0.2534,
+        0.1795,
+        0.0642
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p5.b2"
+    },
+    {
+      "id": "MATTHEW_04_P005_B003",
+      "panel": "MATTHEW_04_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.72,
+        0.6587,
+        0.26,
+        0.0487
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p5.b3"
+    }
+  ]
+}

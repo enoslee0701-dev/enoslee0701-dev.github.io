@@ -1,0 +1,157 @@
+{
+  "id": "MARK_04_P003",
+  "book": "mark",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_04_P003_F1",
+      "box": [
+        0,
+        0,
+        0.243,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "有些种子落在土浅的石头地上，土不深，"
+      }
+    },
+    {
+      "id": "MARK_04_P003_F2",
+      "box": [
+        0.249,
+        0,
+        0.286,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "苗发得最快，"
+      }
+    },
+    {
+      "id": "MARK_04_P003_F3",
+      "box": [
+        0.542,
+        0,
+        0.458,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "太阳一晒，因为没有根，就枯干了；"
+      }
+    },
+    {
+      "id": "MARK_04_P003_F4",
+      "box": [
+        0,
+        0.379,
+        1,
+        0.621
+      ],
+      "alt": {
+        "zh-CN": "有些落在荆棘里，荆棘长起来把它挤住，就不结实。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_04_P003_B001",
+      "panel": "MARK_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0122,
+        0.0113,
+        0.2187,
+        0.075
+      ],
+      "tail": [
+        0,
+        0.1238
+      ],
+      "text_key": "mark.4.p3.b1"
+    },
+    {
+      "id": "MARK_04_P003_B002",
+      "panel": "MARK_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.263,
+        0.268,
+        0.257,
+        0.105
+      ],
+      "tail": [
+        0.249,
+        0.33
+      ],
+      "text_key": "mark.4.p3.b2"
+    },
+    {
+      "id": "MARK_04_P003_B003",
+      "panel": "MARK_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.555,
+        0.005,
+        0.43,
+        0.143
+      ],
+      "tail": [
+        0.542,
+        0.08
+      ],
+      "text_key": "mark.4.p3.b3"
+    },
+    {
+      "id": "MARK_04_P003_B004",
+      "panel": "MARK_04_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3976,
+        0.42,
+        0.0556
+      ],
+      "tail": [
+        0,
+        0.5153
+      ],
+      "text_key": "mark.4.p3.b4"
+    },
+    {
+      "id": "MARK_04_P003_B005",
+      "panel": "MARK_04_P003_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.4657,
+        0.42,
+        0.0437
+      ],
+      "tail": [
+        0,
+        0.5715
+      ],
+      "text_key": "mark.4.p3.b5"
+    }
+  ]
+}

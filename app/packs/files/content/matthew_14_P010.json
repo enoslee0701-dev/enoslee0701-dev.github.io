@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_14_P010",
+  "book": "matthew",
+  "chapter": 14,
+  "page": 10,
+  "ref": "14:24-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_14_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_14_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "那时船在湖中，因为逆风，被浪颠簸。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P010_F2",
+      "box": [
+        0,
+        0.2682,
+        0.47,
+        0.3128
+      ],
+      "alt": {
+        "zh-CN": "天快亮的时候，耶稣在湖面上走，往门徒那里去。"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P010_F3",
+      "box": [
+        0.475,
+        0.2682,
+        0.525,
+        0.3128
+      ],
+      "alt": {
+        "zh-CN": "门徒喊叫：「是鬼！」"
+      }
+    },
+    {
+      "id": "MATTHEW_14_P010_F4",
+      "box": [
+        0,
+        0.586,
+        1,
+        0.414
+      ],
+      "alt": {
+        "zh-CN": "耶稣立刻对他们说：「放心，是我，不要怕！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_14_P010_B001",
+      "panel": "MATTHEW_14_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0053,
+        0.34,
+        0.0317
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p10.b1"
+    },
+    {
+      "id": "MATTHEW_14_P010_B002",
+      "panel": "MATTHEW_14_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0094,
+        0.2745,
+        0.188,
+        0.0375
+      ],
+      "tail": null,
+      "text_key": "matthew.14.p10.b2"
+    },
+    {
+      "id": "MATTHEW_14_P010_B003",
+      "panel": "MATTHEW_14_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4908,
+        0.2745,
+        0.168,
+        0.0531
+      ],
+      "tail": [
+        0.5748,
+        0.3589
+      ],
+      "text_key": "matthew.14.p10.b3"
+    },
+    {
+      "id": "MATTHEW_14_P010_B004",
+      "panel": "MATTHEW_14_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5984,
+        0.34,
+        0.0828
+      ],
+      "tail": [
+        0.19,
+        0.7226
+      ],
+      "text_key": "matthew.14.p10.b4"
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "matthew.5.p1.b1": {
+    "text": "耶稣看见这许多的人，就上了山，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣看⁠见这许⁠多的人，就上⁠了山，"
+  },
+  "matthew.5.p1.b2": {
+    "text": "既已坐下，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "既⁠已坐⁠下，"
+  },
+  "matthew.5.p1.b3": {
+    "text": "门徒到他跟前来，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "门⁠徒到他跟⁠前来，"
+  },
+  "matthew.5.p1.b4": {
+    "text": "他就开口教训他们，说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他就开⁠口教⁠训他⁠们，说："
+  },
+  "matthew.5.p2.b1": {
+    "text": "虚心的人有福了！因为天国是他们的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "虚⁠心的人有⁠福了！因⁠为天⁠国是他⁠们的。"
+  },
+  "matthew.5.p2.b2": {
+    "text": "哀恸的人有福了！因为他们必得安慰。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "哀⁠恸的人有⁠福了！因⁠为他⁠们必⁠得安⁠慰。"
+  },
+  "matthew.5.p2.b3": {
+    "text": "温柔的人有福了！因为他们必承受地土。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "温⁠柔的人有⁠福了！因⁠为他⁠们必承⁠受地土。"
+  },
+  "matthew.5.p2.b4": {
+    "text": "饥渴慕义的人有福了！因为他们必得饱足。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "饥⁠渴慕义的人有⁠福了！因⁠为他⁠们必⁠得饱⁠足。"
+  },
+  "matthew.5.p3.b1": {
+    "text": "怜恤人的人有福了！因为他们必蒙怜恤。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "怜恤人⁠的人有⁠福了！因⁠为他⁠们必蒙怜恤。"
+  },
+  "matthew.5.p3.b2": {
+    "text": "清心的人有福了！因为他们必得见　神。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "清⁠心的人有⁠福了！因⁠为他⁠们必⁠得见　神。"
+  },
+  "matthew.5.p3.b3": {
+    "text": "使人和睦的人有福了！因为他们必称为　神的儿子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "使人和⁠睦的人有⁠福了！因⁠为他⁠们必称⁠为　神的儿⁠子。"
+  },
+  "matthew.5.p3.b4": {
+    "text": "为义受逼迫的人有福了！因为天国是他们的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "为义受逼⁠迫的人有⁠福了！因⁠为天⁠国是他⁠们的。"
+  },
+  "matthew.5.p4.b1": {
+    "text": "人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若⁠因我辱⁠骂你⁠们，逼⁠迫你⁠们，捏⁠造各⁠样坏话毁⁠谤你⁠们，你⁠们就⁠有福了！"
+  },
+  "matthew.5.p4.b2": {
+    "text": "应当欢喜快乐，因为你们在天上的赏赐是大的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "应⁠当欢⁠喜快⁠乐，因⁠为你⁠们在天⁠上的赏⁠赐是大的。"
+  },
+  "matthew.5.p4.b3": {
+    "text": "在你们以前的先知，人也是这样逼迫他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在你⁠们以⁠前的先⁠知，人也⁠是这⁠样逼⁠迫他⁠们。"
+  },
+  "matthew.5.p5.b1": {
+    "text": "你们是世上的盐。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们是世⁠上的盐。"
+  },
+  "matthew.5.p5.b2": {
+    "text": "盐若失了味，怎能叫它再咸呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "盐若失了味，怎⁠能叫它再咸呢？"
+  },
+  "matthew.5.p5.b3": {
+    "text": "以后无用，不过丢在外面，被人践踏了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠后无⁠用，不⁠过丢在外⁠面，被⁠人践⁠踏了。"
+  },
+  "matthew.5.p6.b1": {
+    "text": "你们是世上的光。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们是世⁠上的光。"
+  },
+  "matthew.5.p6.b2": {
+    "text": "城造在山上是不能隐藏的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "城造在山⁠上是不⁠能隐⁠藏的。"
+  },
+  "matthew.5.p6.b3": {
+    "text": "人点灯，不放在斗底下，是放在灯台上，就照亮一家的人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人点⁠灯，不放⁠在斗底⁠下，是放⁠在灯⁠台上，就照⁠亮一⁠家的人。"
+  },
+  "matthew.5.p6.b4": {
+    "text": "你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣耀归给你们在天上的父。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们的光也当这⁠样照⁠在人⁠前，叫他⁠们看⁠见你⁠们的好行⁠为，便将荣⁠耀归给你⁠们在天⁠上的父。"
+  },
+  "matthew.5.p7.b1": {
+    "text": "莫想我来要废掉律法和先知。我来不是要废掉，乃是要成全。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "莫想我⁠来要废⁠掉律⁠法和先⁠知。我⁠来不⁠是要废⁠掉，乃⁠是要成⁠全。"
+  },
+  "matthew.5.p7.b2": {
+    "text": "我实在告诉你们，就是到天地都废去了，律法的一点一画也不能废去，都要成全。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实⁠在告⁠诉你⁠们，就⁠是到天⁠地都废去⁠了，律⁠法的一⁠点一画也⁠不⁠能废去，都⁠要成⁠全。"
+  },
+  "matthew.5.p7.b3": {
+    "text": "我告诉你们，你们的义若不胜于文士和法利赛人的义，断不能进天国。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我告⁠诉你⁠们，你⁠们的义若不⁠胜于文⁠士和法⁠利⁠赛人的义，断不⁠能进天⁠国。"
+  },
+  "matthew.5.p8.b1": {
+    "text": "你们听见有吩咐古人的话，说：『不可杀人』；又说：『凡杀人的难免受审判。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们听⁠见有吩⁠咐古⁠人的⁠话，说：『不⁠可杀⁠人』；又说：『凡杀⁠人的难⁠免受审⁠判。』"
+  },
+  "matthew.5.p8.b2": {
+    "text": "只是我告诉你们，凡向弟兄动怒的，难免受审断；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是我告⁠诉你⁠们，凡向弟⁠兄动⁠怒的，难⁠免受⁠审断；"
+  },
+  "matthew.5.p8.b3": {
+    "text": "凡骂弟兄是拉加的，难免公会的审断；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡骂弟⁠兄是拉加的，难⁠免公⁠会的审断；"
+  },
+  "matthew.5.p8.b4": {
+    "text": "凡骂弟兄是魔利的，难免地狱的火。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡骂弟⁠兄是魔利的，难⁠免地⁠狱的火。"
+  },
+  "matthew.5.p9.b1": {
+    "text": "所以，你在祭坛上献礼物的时候，若想起弟兄向你怀怨，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "所⁠以，你⁠在祭⁠坛上献礼⁠物的时⁠候，若想⁠起弟⁠兄向你怀怨，"
+  },
+  "matthew.5.p9.b2": {
+    "text": "就把礼物留在坛前，先去同弟兄和好，然后来献礼物。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠把礼⁠物留⁠在坛前，先⁠去同弟⁠兄和好，然⁠后来献礼⁠物。"
+  },
+  "matthew.5.p9.b3": {
+    "text": "你同告你的对头还在路上，就赶紧与他和息，恐怕他把你送给审判官，审判官交付衙役，你就下在监里了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你同告你⁠的对⁠头还在路⁠上，就赶⁠紧与他和息，恐⁠怕他把你送⁠给审⁠判官，审⁠判官交⁠付衙⁠役，你就下在监里了。"
+  },
+  "matthew.5.p9.b4": {
+    "text": "我实在告诉你，若有一文钱没有还清，你断不能从那里出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实⁠在告⁠诉你，若⁠有一⁠文⁠钱没⁠有还⁠清，你断不⁠能从那⁠里出⁠来。"
+  },
+  "matthew.5.p10.b1": {
+    "text": "你们听见有话说：『不可奸淫。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们听⁠见有话⁠说：『不⁠可奸⁠淫。』"
+  },
+  "matthew.5.p10.b2": {
+    "text": "只是我告诉你们，凡看见妇女就动淫念的，这人心里已经与她犯奸淫了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是我告⁠诉你⁠们，凡看⁠见妇⁠女就动淫念的，这人心⁠里已⁠经与她犯奸⁠淫了。"
+  },
+  "matthew.5.p10.b3": {
+    "text": "若是你的右眼叫你跌倒，就剜出来丢掉，宁可失去百体中的一体，不叫全身丢在地狱里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠是你⁠的右⁠眼叫你跌⁠倒，就剜出⁠来丢⁠掉，宁⁠可失⁠去百体中⁠的一⁠体，不叫全⁠身丢在地⁠狱里。"
+  },
+  "matthew.5.p10.b4": {
+    "text": "若是右手叫你跌倒，就砍下来丢掉，宁可失去百体中的一体，不叫全身下入地狱。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠是右⁠手叫你跌⁠倒，就砍⁠下⁠来丢⁠掉，宁⁠可失⁠去百体中⁠的一⁠体，不叫全⁠身下入地⁠狱。"
+  },
+  "matthew.5.p11.b1": {
+    "text": "又有话说：『人若休妻，就当给她休书。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有话⁠说：『人若休妻，就当给她休书。』"
+  },
+  "matthew.5.p11.b2": {
+    "text": "只是我告诉你们，凡休妻的，若不是为淫乱的缘故，就是叫她作淫妇了；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是我告⁠诉你⁠们，凡休妻的，若不⁠是为淫⁠乱的缘⁠故，就⁠是叫她作淫⁠妇了；"
+  },
+  "matthew.5.p11.b3": {
+    "text": "人若娶这被休的妇人，也是犯奸淫了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若娶这被休的妇⁠人，也⁠是犯奸⁠淫了。"
+  },
+  "matthew.5.p12.b1": {
+    "text": "你们又听见有吩咐古人的话，说：『不可背誓，所起的誓总要向主谨守。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们又听⁠见有吩⁠咐古⁠人的⁠话，说：『不⁠可背誓，所起的誓总要向主谨⁠守。』"
+  },
+  "matthew.5.p12.b2": {
+    "text": "只是我告诉你们，什么誓都不可起。不可指着天起誓，因为天是　神的座位；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是我告⁠诉你⁠们，什⁠么誓都不⁠可起。不⁠可指着天起⁠誓，因⁠为天是　神的座⁠位；"
+  },
+  "matthew.5.p12.b3": {
+    "text": "又不可指着你的头起誓，因为你不能使一根头发变黑变白了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又不⁠可指着你⁠的头起⁠誓，因⁠为你不⁠能使一⁠根头⁠发变黑变⁠白了。"
+  },
+  "matthew.5.p12.b4": {
+    "text": "你们的话，是，就说是；不是，就说不是；若再多说就是出于那恶者。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们的⁠话，是，就说是；不⁠是，就说不⁠是；若再多⁠说就⁠是出⁠于那恶者。"
+  },
+  "matthew.5.p13.b1": {
+    "text": "你们听见有话说：『以眼还眼，以牙还牙。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们听⁠见有话⁠说：『以⁠眼还⁠眼，以⁠牙还⁠牙。』"
+  },
+  "matthew.5.p13.b2": {
+    "text": "只是我告诉你们，不要与恶人作对。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是我告⁠诉你⁠们，不⁠要与恶人作对。"
+  },
+  "matthew.5.p13.b3": {
+    "text": "有人打你的右脸，连左脸也转过来由他打；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠人打你⁠的右脸，连左脸也转⁠过⁠来由他打；"
+  },
+  "matthew.5.p13.b4": {
+    "text": "有人想要告你，要拿你的里衣，连外衣也由他拿去；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠人想⁠要告你，要拿你⁠的里⁠衣，连外⁠衣也由他拿⁠去；"
+  },
+  "matthew.5.p14.b1": {
+    "text": "有人强逼你走一里路，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠人强⁠逼你走一里路，"
+  },
+  "matthew.5.p14.b2": {
+    "text": "你就同他走二里；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你就同他走二⁠里；"
+  },
+  "matthew.5.p14.b3": {
+    "text": "有求你的，就给他；有向你借贷的，不可推辞。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有求你⁠的，就给他；有向你借⁠贷的，不⁠可推⁠辞。"
+  },
+  "matthew.5.p15.b1": {
+    "text": "你们听见有话说：『当爱你的邻舍，恨你的仇敌。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们听⁠见有话⁠说：『当爱你⁠的邻舍，恨你⁠的仇⁠敌。』"
+  },
+  "matthew.5.p15.b2": {
+    "text": "只是我告诉你们，要爱你们的仇敌，为那逼迫你们的祷告。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:44"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是我告⁠诉你⁠们，要爱你⁠们的仇⁠敌，为那逼⁠迫你⁠们的祷⁠告。"
+  },
+  "matthew.5.p15.b3": {
+    "text": "这样就可以作你们天父的儿子；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠样就可⁠以作你⁠们天⁠父的儿⁠子；"
+  },
+  "matthew.5.p15.b4": {
+    "text": "因为他叫日头照好人，也照歹人；降雨给义人，也给不义的人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为他叫日头照好⁠人，也照歹⁠人；降⁠雨给义人，也给不⁠义的人。"
+  },
+  "matthew.5.p16.b1": {
+    "text": "你们若单爱那爱你们的人，有什么赏赐呢？就是税吏不也是这样行吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们若单爱那爱你⁠们的人，有什⁠么赏⁠赐呢？就⁠是税⁠吏不也⁠是这⁠样行吗？"
+  },
+  "matthew.5.p16.b2": {
+    "text": "你们若单请你弟兄的安，比人有什么长处呢？就是外邦人不也是这样行吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们若单请你弟⁠兄的安，比人有什⁠么长⁠处呢？就⁠是外⁠邦⁠人不也⁠是这⁠样行吗？"
+  },
+  "matthew.5.p16.b3": {
+    "text": "所以，你们要完全，像你们的天父完全一样。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Matthew 5:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "所⁠以，你⁠们要完⁠全，像你⁠们的天⁠父完⁠全一⁠样。"
+  }
+}

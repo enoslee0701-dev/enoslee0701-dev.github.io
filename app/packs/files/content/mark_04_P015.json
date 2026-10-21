@@ -1,0 +1,133 @@
+{
+  "id": "MARK_04_P015",
+  "book": "mark",
+  "chapter": 4,
+  "page": 15,
+  "ref": "4:38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_04_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_04_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.216
+      ],
+      "alt": {
+        "zh-CN": "浪又打进船里，门徒蹚着水扑向船尾。"
+      }
+    },
+    {
+      "id": "MARK_04_P015_F2",
+      "box": [
+        0,
+        0.218,
+        1,
+        0.38
+      ],
+      "alt": {
+        "zh-CN": "耶稣在船尾，枕着枕头睡觉。"
+      }
+    },
+    {
+      "id": "MARK_04_P015_F3",
+      "box": [
+        0,
+        0.602,
+        0.45,
+        0.398
+      ],
+      "alt": {
+        "zh-CN": "门徒叫醒他，说：夫子！"
+      }
+    },
+    {
+      "id": "MARK_04_P015_F4",
+      "box": [
+        0.455,
+        0.602,
+        0.545,
+        0.398
+      ],
+      "alt": {
+        "zh-CN": "我们要丧命了，你不管吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_04_P015_B001",
+      "panel": "MARK_04_P015_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.2256,
+        0.18,
+        0.1216
+      ],
+      "tail": null,
+      "text_key": "mark.4.p15.b1"
+    },
+    {
+      "id": "MARK_04_P015_B002",
+      "panel": "MARK_04_P015_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.005,
+        0.46,
+        0.245,
+        0.0477
+      ],
+      "tail": null,
+      "text_key": "mark.4.p15.b2"
+    },
+    {
+      "id": "MARK_04_P015_B003",
+      "panel": "MARK_04_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.225,
+        0.9403,
+        0.216,
+        0.0517
+      ],
+      "tail": [
+        0.333,
+        1
+      ],
+      "text_key": "mark.4.p15.b3"
+    },
+    {
+      "id": "MARK_04_P015_B004",
+      "panel": "MARK_04_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.46,
+        0.905,
+        0.53,
+        0.09
+      ],
+      "tail": [
+        0.62,
+        0.87
+      ],
+      "text_key": "mark.4.p15.b4"
+    }
+  ]
+}

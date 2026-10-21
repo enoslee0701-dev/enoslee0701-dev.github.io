@@ -1,0 +1,136 @@
+{
+  "id": "LUKE_01_P021",
+  "book": "luke",
+  "chapter": 1,
+  "page": 21,
+  "ref": "1:67-71",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P021",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P021_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2279
+      ],
+      "alt": {
+        "zh-CN": "他父亲撒迦利亚被圣灵充满，就预言说："
+      }
+    },
+    {
+      "id": "LUKE_01_P021_F2",
+      "box": [
+        0,
+        0.2311,
+        1,
+        0.431
+      ],
+      "alt": {
+        "zh-CN": "「主以色列的神是应当称颂的，因为他眷顾他的百姓，为他们施行救赎，"
+      }
+    },
+    {
+      "id": "LUKE_01_P021_F3",
+      "box": [
+        0,
+        0.666,
+        0.4893,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "在他仆人大卫家中，为我们兴起了拯救的角，（1:70 正如主借着从创世以来圣先知的口所说的话，）"
+      }
+    },
+    {
+      "id": "LUKE_01_P021_F4",
+      "box": [
+        0.5039,
+        0.666,
+        0.4961,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "拯救我们脱离仇敌和一切恨我们之人的手，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P021_B001",
+      "panel": "LUKE_01_P021_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0068,
+        0.4,
+        0.0638
+      ],
+      "tail": null,
+      "text_key": "luke.1.p21.b1"
+    },
+    {
+      "id": "LUKE_01_P021_B002",
+      "panel": "LUKE_01_P021_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2397,
+        0.47,
+        0.0603
+      ],
+      "tail": [
+        0.735,
+        0.3431
+      ],
+      "text_key": "luke.1.p21.b2"
+    },
+    {
+      "id": "LUKE_01_P021_B003",
+      "panel": "LUKE_01_P021_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0245,
+        0.676,
+        0.4305,
+        0.0734
+      ],
+      "tail": [
+        0.2398,
+        0.7828
+      ],
+      "text_key": "luke.1.p21.b3"
+    },
+    {
+      "id": "LUKE_01_P021_B004",
+      "panel": "LUKE_01_P021_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5287,
+        0.676,
+        0.4365,
+        0.0668
+      ],
+      "tail": [
+        0.747,
+        0.7762
+      ],
+      "text_key": "luke.1.p21.b4"
+    }
+  ]
+}

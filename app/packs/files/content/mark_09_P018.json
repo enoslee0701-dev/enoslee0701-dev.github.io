@@ -1,0 +1,136 @@
+{
+  "id": "MARK_09_P018",
+  "book": "mark",
+  "chapter": 9,
+  "page": 18,
+  "ref": "9:42-44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_09_P018",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_09_P018_F1",
+      "box": [
+        0.007,
+        0,
+        0.985,
+        0.296
+      ],
+      "alt": {
+        "zh-CN": "「凡是使这些信我的小子中的一个跌倒的，"
+      }
+    },
+    {
+      "id": "MARK_09_P018_F2",
+      "box": [
+        0.009,
+        0.299,
+        0.981,
+        0.382
+      ],
+      "alt": {
+        "zh-CN": "倒不如把一块大磨石拴在他的脖子上，扔进海里。"
+      }
+    },
+    {
+      "id": "MARK_09_P018_F3",
+      "box": [
+        0.01,
+        0.684,
+        0.31,
+        0.311
+      ],
+      "alt": {
+        "zh-CN": "如果你的一只手使你跌倒，就把它砍下来；"
+      }
+    },
+    {
+      "id": "MARK_09_P018_F4",
+      "box": [
+        0.33,
+        0.684,
+        0.662,
+        0.311
+      ],
+      "alt": {
+        "zh-CN": "你缺了一部分肢体进入永生，总比有两只手却落到地狱、进入那不灭的火里好。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_09_P018_B001",
+      "panel": "MARK_09_P018_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.19,
+        0.37,
+        0.105
+      ],
+      "tail": [
+        0.7,
+        0.12
+      ],
+      "text_key": "mark.9.p18.b1"
+    },
+    {
+      "id": "MARK_09_P018_B002",
+      "panel": "MARK_09_P018_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.305,
+        0.45,
+        0.143
+      ],
+      "tail": [
+        0.8772,
+        0.681
+      ],
+      "text_key": "mark.9.p18.b2"
+    },
+    {
+      "id": "MARK_09_P018_B003",
+      "panel": "MARK_09_P018_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.008,
+        0.852,
+        0.32,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.9.p18.b3"
+    },
+    {
+      "id": "MARK_09_P018_B004",
+      "panel": "MARK_09_P018_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.34,
+        0.852,
+        0.53,
+        0.143
+      ],
+      "tail": [
+        0.79,
+        0.77
+      ],
+      "text_key": "mark.9.p18.b4"
+    }
+  ]
+}

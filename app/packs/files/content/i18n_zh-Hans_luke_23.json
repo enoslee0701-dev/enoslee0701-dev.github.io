@@ -1,0 +1,760 @@
+{
+  "luke.23.p1.b1": {
+    "text": "众人都起来，把耶稣解到彼拉多面前，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众⁠人都起⁠来，把耶⁠稣解到彼⁠拉⁠多面⁠前，"
+  },
+  "luke.23.p1.b2": {
+    "text": "我们见这人诱惑国民，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们见这人诱⁠惑国⁠民，"
+  },
+  "luke.23.p1.b3": {
+    "text": "禁止纳税给凯撒，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "禁⁠止纳⁠税给凯撒，"
+  },
+  "luke.23.p1.b4": {
+    "text": "并说自己是基督，是王。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并说自⁠己是基⁠督，是王。"
+  },
+  "luke.23.p2.b1": {
+    "text": "你是犹太人的王吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠是犹⁠太⁠人的王吗？"
+  },
+  "luke.23.p2.b2": {
+    "text": "你说的是。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你说的⁠是。"
+  },
+  "luke.23.p2.b3": {
+    "text": "我查不出这人有什么罪来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我查⁠不⁠出这人有什⁠么罪来。"
+  },
+  "luke.23.p2.b4": {
+    "text": "他煽惑百姓，在犹太遍地传道，从加利利起，直到这里了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他煽⁠惑百⁠姓，在犹⁠太遍⁠地传⁠道，从加⁠利⁠利起，直⁠到这⁠里了。"
+  },
+  "luke.23.p3.b1": {
+    "text": "这人是加利利人吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这人是加⁠利⁠利人吗？"
+  },
+  "luke.23.p3.b2": {
+    "text": "既晓得耶稣属希律所管，就把他送到希律那里去。那时希律正在耶路撒冷。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "既晓⁠得耶⁠稣属希⁠律所⁠管，就⁠把他送⁠到希⁠律那⁠里去。那⁠时希⁠律正⁠在耶⁠路撒⁠冷。"
+  },
+  "luke.23.p3.b3": {
+    "text": "希律看见耶稣，就很欢喜；因为听见过他的事，久已想要见他，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "希⁠律看⁠见耶⁠稣，就很欢⁠喜；因⁠为听⁠见过他⁠的事，久⁠已想⁠要见他，"
+  },
+  "luke.23.p3.b4": {
+    "text": "并且指望看他行一件神迹，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并⁠且指⁠望看他行一⁠件神⁠迹，"
+  },
+  "luke.23.p4.b1": {
+    "text": "于是问他许多的话，耶稣却一言不答。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是问他许⁠多的⁠话，耶⁠稣却一⁠言不答。"
+  },
+  "luke.23.p4.b2": {
+    "text": "祭司长和文士都站着，极力地告他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "祭⁠司⁠长和文⁠士都站着，极⁠力地告他。"
+  },
+  "luke.23.p4.b3": {
+    "text": "希律和他的兵丁就藐视耶稣，戏弄他，给他穿上华丽衣服，把他送回彼拉多那里去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "希⁠律和他⁠的兵⁠丁就藐⁠视耶⁠稣，戏⁠弄他，给他穿⁠上华⁠丽衣⁠服，把他送回彼⁠拉⁠多那⁠里去。"
+  },
+  "luke.23.p4.b4": {
+    "text": "从前希律和彼拉多彼此有仇，在那一天就成了朋友。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从⁠前希⁠律和彼⁠拉⁠多彼⁠此有⁠仇，在那一⁠天就成⁠了朋⁠友。"
+  },
+  "luke.23.p5.b1": {
+    "text": "彼拉多传齐了祭司长和官府并百姓，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多传齐了祭⁠司⁠长和官⁠府并百⁠姓，"
+  },
+  "luke.23.p5.b2": {
+    "text": "看哪，我也曾将你们告他的事，在你们面前审问他，并没有查出他什么罪来；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，我⁠也曾将你⁠们告他⁠的事，在你⁠们面⁠前审⁠问他，并没⁠有查⁠出他什⁠么罪来；"
+  },
+  "luke.23.p5.b3": {
+    "text": "就是希律也是如此，所以把他送回来。可见他没有做什么该死的事。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠是希⁠律也⁠是如⁠此，所⁠以把他送回⁠来。可⁠见他没⁠有做什⁠么该⁠死的事。"
+  },
+  "luke.23.p5.b4": {
+    "text": "故此，我要责打他，把他释放了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "故⁠此，我⁠要责⁠打他，把他释⁠放了。"
+  },
+  "luke.23.p6.b1": {
+    "text": "除掉这个人！释放巴拉巴给我们！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "除⁠掉这⁠个人！释⁠放巴⁠拉⁠巴给我⁠们！"
+  },
+  "luke.23.p6.b2": {
+    "text": "这巴拉巴是因在城里作乱杀人，下在监里的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这巴⁠拉⁠巴是因在城里作乱杀⁠人，下在监里的。"
+  },
+  "luke.23.p6.b3": {
+    "text": "彼拉多愿意释放耶稣，就又劝解他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多愿⁠意释⁠放耶⁠稣，就又劝⁠解他⁠们。"
+  },
+  "luke.23.p6.b4": {
+    "text": "钉他十字架！钉他十字架！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "钉他十⁠字⁠架！钉他十⁠字⁠架！"
+  },
+  "luke.23.p7.b1": {
+    "text": "为什么呢？这人做了什么恶事呢？我并没有查出他什么该死的罪来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "为⁠什⁠么呢？这人做⁠了什⁠么恶事呢？我并没⁠有查⁠出他什⁠么该⁠死的罪来。"
+  },
+  "luke.23.p7.b2": {
+    "text": "他们大声催逼彼拉多，求他把耶稣钉在十字架上。他们的声音就得了胜。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们大⁠声催⁠逼彼⁠拉⁠多，求他把耶⁠稣钉⁠在十⁠字⁠架上。他⁠们的声⁠音就⁠得了胜。"
+  },
+  "luke.23.p7.b3": {
+    "text": "彼拉多这才照他们所求的定案，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多这才照他⁠们所求的定⁠案，"
+  },
+  "luke.23.p7.b4": {
+    "text": "把他们所求的那作乱杀人、下在监里的释放了，把耶稣交给他们，任凭他们的意思行。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "把他⁠们所求的那作乱杀⁠人、下在监里的释⁠放了，把耶⁠稣交⁠给他⁠们，任⁠凭他⁠们的意⁠思行。"
+  },
+  "luke.23.p8.b1": {
+    "text": "带耶稣去的时候，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "带耶⁠稣去的时⁠候，"
+  },
+  "luke.23.p8.b2": {
+    "text": "有一个古利奈人西门，从乡下来；他们就抓住他，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个古⁠利⁠奈人西⁠门，从乡⁠下来；他⁠们就抓⁠住他，"
+  },
+  "luke.23.p8.b3": {
+    "text": "把十字架搁在他身上，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "把十⁠字⁠架搁⁠在他身⁠上，"
+  },
+  "luke.23.p8.b4": {
+    "text": "叫他背着跟随耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "叫他背着跟⁠随耶⁠稣。"
+  },
+  "luke.23.p9.b1": {
+    "text": "有许多百姓跟随耶稣，内中有好些妇女；妇女们为他号咷痛哭。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有许⁠多百⁠姓跟⁠随耶⁠稣，内中⁠有好⁠些妇⁠女；妇⁠女们为他号咷痛⁠哭。"
+  },
+  "luke.23.p9.b2": {
+    "text": "耶路撒冷的女子，不要为我哭，当为自己和自己的儿女哭。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠路撒⁠冷的女⁠子，不⁠要为⁠我哭，当为自⁠己和自⁠己的儿⁠女哭。"
+  },
+  "luke.23.p9.b3": {
+    "text": "这些事既行在有汁水的树上，那枯干的树将来怎么样呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠些事既行在有汁水的树上，那枯⁠干的树将⁠来怎⁠么样呢？"
+  },
+  "luke.23.p10.b1": {
+    "text": "又有两个犯人，和耶稣一同带来处死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有两个犯⁠人，和耶⁠稣一⁠同带⁠来处⁠死。"
+  },
+  "luke.23.p10.b2": {
+    "text": "到了一个地方，名叫「髑髅地」，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "到⁠了一⁠个地⁠方，名⁠叫「髑⁠髅⁠地」，"
+  },
+  "luke.23.p10.b3": {
+    "text": "就在那里把耶稣钉在十字架上，又钉了两个犯人：一个在左边，一个在右边。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠在那⁠里把耶⁠稣钉⁠在十⁠字⁠架上，又钉⁠了两个犯⁠人：一⁠个在左⁠边，一⁠个在右⁠边。"
+  },
+  "luke.23.p11.b1": {
+    "text": "当下耶稣说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "当⁠下耶⁠稣说："
+  },
+  "luke.23.p11.b2": {
+    "text": "父啊！赦免他们；因为他们所做的，他们不晓得。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "父啊！赦⁠免他⁠们；因⁠为他⁠们所做⁠的，他⁠们不⁠晓⁠得。"
+  },
+  "luke.23.p11.b3": {
+    "text": "兵丁就拈阄分他的衣服。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "兵⁠丁就拈阄分他⁠的衣⁠服。"
+  },
+  "luke.23.p12.b1": {
+    "text": "百姓站在那里观看。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "百⁠姓站⁠在那⁠里观⁠看。"
+  },
+  "luke.23.p12.b2": {
+    "text": "他救了别人；他若是基督，　神所拣选的，可以救自己吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他救了别⁠人；他若⁠是基⁠督，　神⁠所拣⁠选的，可⁠以救自⁠己吧！"
+  },
+  "luke.23.p12.b3": {
+    "text": "你若是犹太人的王，可以救自己吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你若⁠是犹⁠太⁠人的王，可⁠以救自⁠己吧！"
+  },
+  "luke.23.p12.b4": {
+    "text": "在耶稣以上有一个牌子写着：「这是犹太人的王。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在耶⁠稣以⁠上有一⁠个牌⁠子写着：「这是犹⁠太⁠人的王。」"
+  },
+  "luke.23.p13.b1": {
+    "text": "你不是基督吗？可以救自己和我们吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你不⁠是基⁠督吗？可⁠以救自⁠己和我⁠们吧！"
+  },
+  "luke.23.p13.b2": {
+    "text": "你既是一样受刑的，还不怕　神吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你既⁠是一⁠样受⁠刑的，还不⁠怕　神吗？"
+  },
+  "luke.23.p13.b3": {
+    "text": "我们是应该的，……但这个人没有做过一件不好的事。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们是应⁠该的，……但这⁠个人没⁠有做过一⁠件不⁠好的事。"
+  },
+  "luke.23.p14.b1": {
+    "text": "耶稣啊，你得国降临的时候，求你记念我！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣啊，你得国降⁠临的时⁠候，求你记念我！"
+  },
+  "luke.23.p14.b2": {
+    "text": "我实在告诉你，今日你要同我在乐园里了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实⁠在告⁠诉你，今⁠日你⁠要同我⁠在乐⁠园里了。"
+  },
+  "luke.23.p15.b1": {
+    "text": "那时约有午正，遍地都黑暗了，直到申初，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:44"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那⁠时约有午正，遍⁠地都黑⁠暗了，直⁠到申初，"
+  },
+  "luke.23.p15.b2": {
+    "text": "日头变黑了；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "日头变黑⁠了；"
+  },
+  "luke.23.p15.b3": {
+    "text": "殿里的幔子从当中裂为两半。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "殿⁠里的幔子从当⁠中裂为两半。"
+  },
+  "luke.23.p16.b1": {
+    "text": "岂不知我应当以我父的事为念吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 2:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "岂⁠不知我应⁠当以我父的事为念吗？"
+  },
+  "luke.23.p16.b2": {
+    "text": "父啊！我将我的灵魂交在你手里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "父啊！我将我⁠的灵⁠魂交在你手⁠里。"
+  },
+  "luke.23.p16.b3": {
+    "text": "说了这话，气就断了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.23.p17.b1": {
+    "text": "百夫长看见所成的事，就归荣耀与　神，说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "百⁠夫⁠长看⁠见所成的事，就归荣⁠耀与　神，说："
+  },
+  "luke.23.p17.b2": {
+    "text": "这真是个义人！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这真⁠是个义人！"
+  },
+  "luke.23.p17.b3": {
+    "text": "聚集观看的众人见了这所成的事都捶着胸回去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "聚⁠集观⁠看的众⁠人见⁠了这所成的事都捶着胸回⁠去了。"
+  },
+  "luke.23.p18.b1": {
+    "text": "还有一切与耶稣熟识的人，和从加利利跟着他来的妇女们，都远远地站着看这些事。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "还⁠有一⁠切与耶⁠稣熟⁠识的人，和从加⁠利⁠利跟⁠着他来的妇⁠女们，都远⁠远地站着看这⁠些事。"
+  },
+  "luke.23.p19.b1": {
+    "text": "有一个人名叫约瑟，是个议士，为人善良公义；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:50"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠一个⁠人名⁠叫约⁠瑟，是个议士，为⁠人善⁠良公⁠义；"
+  },
+  "luke.23.p19.b2": {
+    "text": "众人所谋所为，他并没有附从。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众⁠人所谋所为，他并没⁠有附从。"
+  },
+  "luke.23.p19.b3": {
+    "text": "这人去见彼拉多，求耶稣的身体，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这人⁠去见彼⁠拉⁠多，求耶⁠稣的身⁠体，"
+  },
+  "luke.23.p19.b4": {
+    "text": "就取下来，用细麻布裹好，安放在石头凿成的坟墓里；那里头从来没有葬过人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:53"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就取下⁠来，用细⁠麻⁠布裹⁠好，安放⁠在石⁠头凿⁠成的坟⁠墓里；那⁠里头从⁠来没⁠有葬过⁠人。"
+  },
+  "luke.23.p20.b1": {
+    "text": "那日是预备日，安息日也快到了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:54"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那日是预⁠备⁠日，安⁠息⁠日也快到⁠了。"
+  },
+  "luke.23.p20.b2": {
+    "text": "那些从加利利和耶稣同来的妇女跟在后面，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:55"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那⁠些从加⁠利⁠利和耶⁠稣同来的妇⁠女跟⁠在后⁠面，"
+  },
+  "luke.23.p20.b3": {
+    "text": "看见了坟墓和他的身体怎样安放。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:55"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看⁠见了坟⁠墓和他⁠的身⁠体怎⁠样安⁠放。"
+  },
+  "luke.23.p21.b1": {
+    "text": "她们就回去，预备了香料香膏。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:56"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "她⁠们就回⁠去，预⁠备了香⁠料香⁠膏。"
+  },
+  "luke.23.p21.b2": {
+    "text": "她们在安息日，便遵着诫命安息了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Luke 23:56"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "她⁠们在安⁠息⁠日，便遵着诫命安⁠息了。"
+  }
+}

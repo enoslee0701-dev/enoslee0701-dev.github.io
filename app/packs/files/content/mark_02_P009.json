@@ -1,0 +1,121 @@
+{
+  "id": "MARK_02_P009",
+  "book": "mark",
+  "chapter": 2,
+  "page": 9,
+  "ref": "2:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_02_P009",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_02_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.239
+      ],
+      "alt": {
+        "zh-CN": "耶稣笑着回答：新郎和陪伴的人同在的时候，陪伴的人怎能禁食呢？"
+      }
+    },
+    {
+      "id": "MARK_02_P009_F2",
+      "box": [
+        0,
+        0.244,
+        1,
+        0.234
+      ],
+      "alt": {
+        "zh-CN": "比喻：婚筵上，新郎和朋友们一同欢喜吃喝。"
+      }
+    },
+    {
+      "id": "MARK_02_P009_F3",
+      "box": [
+        0,
+        0.482,
+        1,
+        0.297
+      ],
+      "alt": {
+        "zh-CN": "比喻：新郎的座位空了，灯熄了大半，朋友们忧愁地坐着。"
+      }
+    },
+    {
+      "id": "MARK_02_P009_F4",
+      "box": [
+        0,
+        0.784,
+        1,
+        0.216
+      ],
+      "alt": {
+        "zh-CN": "耶稣低下眼睛说：那日他们就要禁食。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_02_P009_B001",
+      "panel": "MARK_02_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.24,
+        0.134,
+        0.57,
+        0.105
+      ],
+      "tail": [
+        0.38,
+        0.0621
+      ],
+      "text_key": "mark.2.p9.b1"
+    },
+    {
+      "id": "MARK_02_P009_B002",
+      "panel": "MARK_02_P009_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4,
+        0.4909,
+        0.24,
+        0.0653
+      ],
+      "tail": [
+        0,
+        0.5859
+      ],
+      "text_key": "mark.2.p9.b2"
+    },
+    {
+      "id": "MARK_02_P009_B003",
+      "panel": "MARK_02_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.74,
+        0.7948,
+        0.24,
+        0.0864
+      ],
+      "tail": [
+        0.86,
+        0.9028
+      ],
+      "text_key": "mark.2.p9.b3"
+    }
+  ]
+}

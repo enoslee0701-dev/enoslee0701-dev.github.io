@@ -1,0 +1,103 @@
+{
+  "id": "LUKE_07_P011",
+  "book": "luke",
+  "chapter": 7,
+  "page": 11,
+  "ref": "7:29-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ],
+      "alt": {
+        "zh-CN": "众百姓和税吏听见了约翰的话，就受了他的洗，（7:29 或译，同和合本小字）"
+      }
+    },
+    {
+      "id": "LUKE_07_P011_F2",
+      "box": [
+        0,
+        0.2656,
+        0.498,
+        0.2474
+      ]
+    },
+    {
+      "id": "LUKE_07_P011_F3",
+      "box": [
+        0.5068,
+        0.2656,
+        0.4932,
+        0.2474
+      ]
+    },
+    {
+      "id": "LUKE_07_P011_F4",
+      "box": [
+        0,
+        0.5176,
+        1,
+        0.4824
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P011_B001",
+      "panel": "LUKE_07_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0052,
+        0.38,
+        0.052
+      ],
+      "tail": null,
+      "text_key": "luke.7.p11.b1"
+    },
+    {
+      "id": "LUKE_07_P011_B002",
+      "panel": "LUKE_07_P011_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.249,
+        0.2705,
+        0.239,
+        0.0494
+      ],
+      "tail": null,
+      "text_key": "luke.7.p11.b2"
+    },
+    {
+      "id": "LUKE_07_P011_B003",
+      "panel": "LUKE_07_P011_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.5272,
+        0.42,
+        0.0482
+      ],
+      "tail": null,
+      "text_key": "luke.7.p11.b3"
+    }
+  ]
+}

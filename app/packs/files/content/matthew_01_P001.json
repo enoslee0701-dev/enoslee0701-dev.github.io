@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_01_P001",
+  "book": "matthew",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "这是耶稣基督的家谱。他是亚伯拉罕的后代，也是大卫的后代。"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P001_F2",
+      "box": [
+        0,
+        0.3327,
+        0.5977,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕生了以撒，以撒生了雅各，雅各生了犹大和他的兄弟们。"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P001_F3",
+      "box": [
+        0.6055,
+        0.3327,
+        0.3945,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "撒门和喇合生了波阿斯，波阿斯和路得生了俄备得。"
+      }
+    },
+    {
+      "id": "MATTHEW_01_P001_F4",
+      "box": [
+        0,
+        0.7077,
+        1,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "耶西生了大卫王。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_01_P001_B001",
+      "panel": "MATTHEW_01_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.59,
+        0.0066,
+        0.39,
+        0.0656
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p1.b1"
+    },
+    {
+      "id": "MATTHEW_01_P001_B002",
+      "panel": "MATTHEW_01_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1913,
+        0.3401,
+        0.3347,
+        0.0444
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p1.b2"
+    },
+    {
+      "id": "MATTHEW_01_P001_B003",
+      "panel": "MATTHEW_01_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.7165,
+        0.38,
+        0.0496
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p1.b3"
+    },
+    {
+      "id": "MATTHEW_01_P001_B004",
+      "panel": "MATTHEW_01_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.43,
+        0.7165,
+        0.27,
+        0.0292
+      ],
+      "tail": null,
+      "text_key": "matthew.1.p1.b4"
+    }
+  ]
+}

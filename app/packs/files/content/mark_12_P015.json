@@ -1,0 +1,127 @@
+{
+  "id": "MARK_12_P015",
+  "book": "mark",
+  "chapter": 12,
+  "page": 15,
+  "ref": "12:43-44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_12_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MARK_12_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.247
+      ],
+      "alt": {
+        "zh-CN": "耶稣叫门徒来，说：「我实在告诉你们，这个穷寡妇投进奉献箱里的，比所有的人投的都多。"
+      }
+    },
+    {
+      "id": "MARK_12_P015_F2",
+      "box": [
+        0.007,
+        0.251,
+        0.519,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "（门徒们想不通。）"
+      }
+    },
+    {
+      "id": "MARK_12_P015_F3",
+      "box": [
+        0.533,
+        0.251,
+        0.46,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "因为他们都是从自己的富余中拿出来投进去；"
+      }
+    },
+    {
+      "id": "MARK_12_P015_F4",
+      "box": [
+        0,
+        0.533,
+        1,
+        0.467
+      ],
+      "alt": {
+        "zh-CN": "但这个寡妇是从她的不足中，把她一切养生的都投进去了。」"
+      }
+    },
+    {
+      "id": "MARK_12_P015_F5",
+      "box": [
+        0.594,
+        0.685,
+        0.406,
+        0.315
+      ],
+      "alt": {
+        "zh-CN": "（耶稣站起来，望着她走远。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_12_P015_B001",
+      "panel": "MARK_12_P015_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.007,
+        0.386,
+        0.52,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.12.p15.b1"
+    },
+    {
+      "id": "MARK_12_P015_B002",
+      "panel": "MARK_12_P015_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.535,
+        0.2,
+        0.458,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "mark.12.p15.b2"
+    },
+    {
+      "id": "MARK_12_P015_B003",
+      "panel": "MARK_12_P015_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3,
+        0.6171,
+        0.25,
+        0.056
+      ],
+      "tail": [
+        0,
+        0.7198
+      ],
+      "text_key": "mark.12.p15.b3"
+    }
+  ]
+}

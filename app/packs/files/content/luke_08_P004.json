@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_08_P004",
+  "book": "luke",
+  "chapter": 8,
+  "page": 4,
+  "ref": "8:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_08_P004",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "LUKE_08_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "门徒问耶稣：“这个比喻是什么意思呢？”"
+      }
+    },
+    {
+      "id": "LUKE_08_P004_F2",
+      "box": [
+        0,
+        0.2513,
+        0.5449,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "他说：“神国的奥秘只让你们知道；"
+      }
+    },
+    {
+      "id": "LUKE_08_P004_F3",
+      "box": [
+        0.5498,
+        0.2513,
+        0.4502,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "至于别人，就用比喻，让他们看也看不见，听也听不明白。"
+      }
+    },
+    {
+      "id": "LUKE_08_P004_F4",
+      "box": [
+        0,
+        0.5208,
+        1,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "这比喻的意思是这样：种子就是神的道。那些在路旁的，是人听了道，随后魔鬼来，从他们心里把道夺走，免得他们信了得救。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_08_P004_B001",
+      "panel": "LUKE_08_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0099,
+        0.4,
+        0.0497
+      ],
+      "tail": [
+        0.78,
+        0.0845
+      ],
+      "text_key": "luke.8.p4.b1"
+    },
+    {
+      "id": "LUKE_08_P004_B002",
+      "panel": "LUKE_08_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2997,
+        0.2566,
+        0.2343,
+        0.0292
+      ],
+      "tail": [
+        0.4169,
+        0.3124
+      ],
+      "text_key": "luke.8.p4.b2"
+    },
+    {
+      "id": "LUKE_08_P004_B003",
+      "panel": "LUKE_08_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5678,
+        0.2593,
+        0.4141,
+        0.0452
+      ],
+      "tail": [
+        0.7749,
+        0.3311
+      ],
+      "text_key": "luke.8.p4.b3"
+    },
+    {
+      "id": "LUKE_08_P004_B004",
+      "panel": "LUKE_08_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.5352,
+        0.44,
+        0.0814
+      ],
+      "tail": [
+        0.25,
+        0.6645
+      ],
+      "text_key": "luke.8.p4.b4"
+    }
+  ]
+}

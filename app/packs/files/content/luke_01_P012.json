@@ -1,0 +1,100 @@
+{
+  "id": "LUKE_01_P012",
+  "book": "luke",
+  "chapter": 1,
+  "page": 12,
+  "ref": "1:38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_01_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_01_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1647
+      ],
+      "alt": {
+        "zh-CN": "（她垂下眼睛，两手慢慢放到胸前。）"
+      }
+    },
+    {
+      "id": "LUKE_01_P012_F2",
+      "box": [
+        0,
+        0.1667,
+        1,
+        0.4551
+      ],
+      "alt": {
+        "zh-CN": "马利亚说：「我是主的使女，愿照你的话成就在我身上。」"
+      }
+    },
+    {
+      "id": "LUKE_01_P012_F3",
+      "box": [
+        0,
+        0.6243,
+        0.497,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "天使就离开她走了。"
+      }
+    },
+    {
+      "id": "LUKE_01_P012_F4",
+      "box": [
+        0.503,
+        0.6243,
+        0.497,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "（她一个人坐回磨前，望着门外南边的山。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_01_P012_B001",
+      "panel": "LUKE_01_P012_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.74,
+        0.1804,
+        0.24,
+        0.0682
+      ],
+      "tail": [
+        0.86,
+        0.2941
+      ],
+      "text_key": "luke.1.p12.b1"
+    },
+    {
+      "id": "LUKE_01_P012_B002",
+      "panel": "LUKE_01_P012_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.6318,
+        0.3479,
+        0.0525
+      ],
+      "tail": null,
+      "text_key": "luke.1.p12.b2"
+    }
+  ]
+}

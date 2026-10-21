@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_06_P007",
+  "book": "luke",
+  "chapter": 6,
+  "page": 7,
+  "ref": "6:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "耶稣和他们下了山，站在一块平地上；"
+      }
+    },
+    {
+      "id": "LUKE_06_P007_F2",
+      "box": [
+        0,
+        0.2656,
+        0.4883,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "许多门徒，还有一大群百姓，从犹太全地、耶路撒冷，以及推罗、西顿的沿海一带来，要听他讲道，也希望治好他们的病。"
+      }
+    },
+    {
+      "id": "LUKE_06_P007_F3",
+      "box": [
+        0.4971,
+        0.2656,
+        0.5029,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "还有被污鬼折磨的人，也得到了医治。"
+      }
+    },
+    {
+      "id": "LUKE_06_P007_F4",
+      "box": [
+        0,
+        0.5547,
+        1,
+        0.4453
+      ],
+      "alt": {
+        "zh-CN": "众人都想要摸他，因为有能力从他身上发出来，治好了他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P007_B001",
+      "panel": "LUKE_06_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.0104,
+        0.48,
+        0.0626
+      ],
+      "tail": null,
+      "text_key": "luke.6.p7.b1"
+    },
+    {
+      "id": "LUKE_06_P007_B002",
+      "panel": "LUKE_06_P007_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.445,
+        0.088,
+        0.55,
+        0.0566
+      ],
+      "tail": null,
+      "text_key": "luke.6.p7.b2"
+    },
+    {
+      "id": "LUKE_06_P007_B003",
+      "panel": "LUKE_06_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.829,
+        0.4978,
+        0.1609,
+        0.0424
+      ],
+      "tail": null,
+      "text_key": "luke.6.p7.b3"
+    },
+    {
+      "id": "LUKE_06_P007_B004",
+      "panel": "LUKE_06_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.5636,
+        0.35,
+        0.0445
+      ],
+      "tail": null,
+      "text_key": "luke.6.p7.b4"
+    }
+  ]
+}

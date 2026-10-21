@@ -1,0 +1,136 @@
+{
+  "id": "MATTHEW_24_P007",
+  "book": "matthew",
+  "chapter": 24,
+  "page": 7,
+  "ref": "24:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_24_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_24_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P007_F2",
+      "box": [
+        0,
+        0.2467,
+        0.499,
+        0.293
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P007_F3",
+      "box": [
+        0.5039,
+        0.2467,
+        0.4961,
+        0.293
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P007_F4",
+      "box": [
+        0,
+        0.5417,
+        1,
+        0.4583
+      ]
+    },
+    {
+      "id": "MATTHEW_24_P007_F5",
+      "box": [
+        0.712,
+        0.715,
+        0.282,
+        0.277
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_24_P007_B001",
+      "panel": "MATTHEW_24_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.0073,
+        0.42,
+        0.0681
+      ],
+      "tail": [
+        0,
+        0.0997
+      ],
+      "text_key": "matthew.24.p7.b1"
+    },
+    {
+      "id": "MATTHEW_24_P007_B002",
+      "panel": "MATTHEW_24_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.2555,
+        0.459,
+        0.0703
+      ],
+      "tail": [
+        0.2495,
+        0.3551
+      ],
+      "text_key": "matthew.24.p7.b2"
+    },
+    {
+      "id": "MATTHEW_24_P007_B003",
+      "panel": "MATTHEW_24_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.56,
+        0.48,
+        0.1099
+      ],
+      "tail": [
+        0.27,
+        0.7157
+      ],
+      "text_key": "matthew.24.p7.b3"
+    },
+    {
+      "id": "MATTHEW_24_P007_B004",
+      "panel": "MATTHEW_24_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3,
+        0.8442,
+        0.38,
+        0.1283
+      ],
+      "tail": [
+        0.49,
+        1
+      ],
+      "text_key": "matthew.24.p7.b4"
+    }
+  ]
+}

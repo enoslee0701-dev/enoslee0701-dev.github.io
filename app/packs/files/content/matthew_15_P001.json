@@ -1,0 +1,112 @@
+{
+  "id": "MATTHEW_15_P001",
+  "book": "matthew",
+  "chapter": 15,
+  "page": 1,
+  "ref": "15:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_15_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_15_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "那时，有法利赛人和文士从耶路撒冷来见耶稣，说："
+      }
+    },
+    {
+      "id": "MATTHEW_15_P001_F2",
+      "box": [
+        0,
+        0.2396,
+        0.4395,
+        0.2695
+      ]
+    },
+    {
+      "id": "MATTHEW_15_P001_F3",
+      "box": [
+        0.4453,
+        0.2396,
+        0.5547,
+        0.2695
+      ]
+    },
+    {
+      "id": "MATTHEW_15_P001_F4",
+      "box": [
+        0,
+        0.5117,
+        1,
+        0.4883
+      ],
+      "alt": {
+        "zh-CN": "「你的门徒为什么违犯古人的传统呢？他们吃饭的时候不洗手。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_15_P001_B001",
+      "panel": "MATTHEW_15_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0071,
+        0.5,
+        0.0401
+      ],
+      "tail": null,
+      "text_key": "matthew.15.p1.b1"
+    },
+    {
+      "id": "MATTHEW_15_P001_B002",
+      "panel": "MATTHEW_15_P001_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.5215,
+        0.36,
+        0.0303
+      ],
+      "tail": [
+        0.36,
+        0.6006
+      ],
+      "text_key": "matthew.15.p1.b2"
+    },
+    {
+      "id": "MATTHEW_15_P001_B003",
+      "panel": "MATTHEW_15_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.5615,
+        0.36,
+        0.0282
+      ],
+      "tail": [
+        0.36,
+        0.6385
+      ],
+      "text_key": "matthew.15.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_06_P001",
+  "book": "luke",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.222
+      ],
+      "alt": {
+        "zh-CN": "有一个安息日，耶稣从麦田经过。"
+      }
+    },
+    {
+      "id": "LUKE_06_P001_F2",
+      "box": [
+        0,
+        0.2285,
+        0.7383,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "他的门徒摘了麦穗，用手搓着吃。"
+      }
+    },
+    {
+      "id": "LUKE_06_P001_F3",
+      "box": [
+        0.749,
+        0.2285,
+        0.251,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "（麦壳落在一个人的衣角上。）"
+      }
+    },
+    {
+      "id": "LUKE_06_P001_F4",
+      "box": [
+        0,
+        0.5371,
+        1,
+        0.4629
+      ],
+      "alt": {
+        "zh-CN": "有几个法利赛人说：“你们为什么做安息日不可以做的事呢？”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P001_B001",
+      "panel": "LUKE_06_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0089,
+        0.2,
+        0.0799
+      ],
+      "tail": null,
+      "text_key": "luke.6.p1.b1"
+    },
+    {
+      "id": "LUKE_06_P001_B002",
+      "panel": "LUKE_06_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0443,
+        0.233,
+        0.4134,
+        0.0302
+      ],
+      "tail": null,
+      "text_key": "luke.6.p1.b2"
+    },
+    {
+      "id": "LUKE_06_P001_B003",
+      "panel": "LUKE_06_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.26,
+        0.551,
+        0.32,
+        0.0786
+      ],
+      "tail": [
+        0.42,
+        0.6759
+      ],
+      "text_key": "luke.6.p1.b3"
+    }
+  ]
+}

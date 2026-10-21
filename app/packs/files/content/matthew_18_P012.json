@@ -1,0 +1,112 @@
+{
+  "id": "MATTHEW_18_P012",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 12,
+  "ref": "18:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "他的同伴就跪下求他说：『宽容我吧，将来我一定还清。』"
+      }
+    },
+    {
+      "id": "MATTHEW_18_P012_F2",
+      "box": [
+        0,
+        0.3008,
+        0.6143,
+        0.2897
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P012_F3",
+      "box": [
+        0.624,
+        0.3008,
+        0.376,
+        0.2897
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P012_F4",
+      "box": [
+        0,
+        0.5957,
+        1,
+        0.4043
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P012_B001",
+      "panel": "MATTHEW_18_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.3,
+        0.0118,
+        0.52,
+        0.0472
+      ],
+      "tail": [
+        0.56,
+        0.0886
+      ],
+      "text_key": "matthew.18.p12.b1"
+    },
+    {
+      "id": "MATTHEW_18_P012_B002",
+      "panel": "MATTHEW_18_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2027,
+        0.3066,
+        0.2825,
+        0.0521
+      ],
+      "tail": [
+        0.344,
+        0.3877
+      ],
+      "text_key": "matthew.18.p12.b2"
+    },
+    {
+      "id": "MATTHEW_18_P012_B003",
+      "panel": "MATTHEW_18_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.44,
+        0.5997,
+        0.54,
+        0.0404
+      ],
+      "tail": [
+        0.71,
+        0.6805
+      ],
+      "text_key": "matthew.18.p12.b3"
+    }
+  ]
+}

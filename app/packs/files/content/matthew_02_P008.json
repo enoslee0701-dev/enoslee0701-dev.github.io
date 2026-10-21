@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_02_P008",
+  "book": "matthew",
+  "chapter": 2,
+  "page": 8,
+  "ref": "2:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_02_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_02_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.224
+      ],
+      "alt": {
+        "zh-CN": "约瑟就起来，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P008_F2",
+      "box": [
+        0,
+        0.2279,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "连夜带着孩子和他母亲往埃及去，"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P008_F3",
+      "box": [
+        0,
+        0.4577,
+        1,
+        0.2031
+      ],
+      "alt": {
+        "zh-CN": "（他们在月光下穿过旷野。）"
+      }
+    },
+    {
+      "id": "MATTHEW_02_P008_F4",
+      "box": [
+        0,
+        0.6647,
+        1,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "在那里一直住到希律死了。这是要应验主借先知所说的话：「我从埃及召我的儿子出来。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_02_P008_B001",
+      "panel": "MATTHEW_02_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.64,
+        0.0045,
+        0.22,
+        0.0448
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p8.b1"
+    },
+    {
+      "id": "MATTHEW_02_P008_B002",
+      "panel": "MATTHEW_02_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.2324,
+        0.27,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p8.b2"
+    },
+    {
+      "id": "MATTHEW_02_P008_B003",
+      "panel": "MATTHEW_02_P008_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.6681,
+        0.33,
+        0.0301
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p8.b3"
+    },
+    {
+      "id": "MATTHEW_02_P008_B004",
+      "panel": "MATTHEW_02_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6681,
+        0.44,
+        0.0335
+      ],
+      "tail": null,
+      "text_key": "matthew.2.p8.b4"
+    }
+  ]
+}

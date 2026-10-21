@@ -1,0 +1,127 @@
+{
+  "id": "LUKE_09_P004",
+  "book": "luke",
+  "chapter": 9,
+  "page": 4,
+  "ref": "9:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_09_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_09_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "使徒回来，把所做的事告诉耶稣。"
+      }
+    },
+    {
+      "id": "LUKE_09_P004_F2",
+      "box": [
+        0,
+        0.2943,
+        0.5,
+        0.2974
+      ],
+      "alt": {
+        "zh-CN": "耶稣就带他们悄悄地离开那里，往一座叫伯赛大的城去。"
+      }
+    },
+    {
+      "id": "LUKE_09_P004_F3",
+      "box": [
+        0.5063,
+        0.2943,
+        0.4937,
+        0.2974
+      ],
+      "alt": {
+        "zh-CN": "但众人知道了，就跟着他去。"
+      }
+    },
+    {
+      "id": "LUKE_09_P004_F4",
+      "box": [
+        0,
+        0.5958,
+        1,
+        0.4042
+      ],
+      "alt": {
+        "zh-CN": "耶稣就接待他们，向他们讲论　神国的事，医治那些需要医治的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_09_P004_B001",
+      "panel": "LUKE_09_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.71,
+        0.0058,
+        0.27,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "luke.9.p4.b1"
+    },
+    {
+      "id": "LUKE_09_P004_B002",
+      "panel": "LUKE_09_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3032,
+        0.275,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "luke.9.p4.b2"
+    },
+    {
+      "id": "LUKE_09_P004_B003",
+      "panel": "LUKE_09_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8025,
+        0.3835,
+        0.1826,
+        0.0892
+      ],
+      "tail": null,
+      "text_key": "luke.9.p4.b3"
+    },
+    {
+      "id": "LUKE_09_P004_B004",
+      "panel": "LUKE_09_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6079,
+        0.42,
+        0.0565
+      ],
+      "tail": null,
+      "text_key": "luke.9.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "MATTHEW_18_P001",
+  "book": "matthew",
+  "chapter": 18,
+  "page": 1,
+  "ref": "18:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_18_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_18_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2396
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P001_F2",
+      "box": [
+        0,
+        0.2422,
+        1,
+        0.349
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P001_F3",
+      "box": [
+        0,
+        0.5931,
+        0.4658,
+        0.4069
+      ]
+    },
+    {
+      "id": "MATTHEW_18_P001_F4",
+      "box": [
+        0.4688,
+        0.5931,
+        0.5312,
+        0.4069
+      ],
+      "alt": {
+        "zh-CN": "耶稣就叫了一个小孩子来，让他站在他们中间，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_18_P001_B001",
+      "panel": "MATTHEW_18_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0072,
+        0.38,
+        0.0335
+      ],
+      "tail": null,
+      "text_key": "matthew.18.p1.b1"
+    },
+    {
+      "id": "MATTHEW_18_P001_B002",
+      "panel": "MATTHEW_18_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.43,
+        0.2527,
+        0.35,
+        0.0418
+      ],
+      "tail": [
+        0.605,
+        0.3294
+      ],
+      "text_key": "matthew.18.p1.b2"
+    },
+    {
+      "id": "MATTHEW_18_P001_B003",
+      "panel": "MATTHEW_18_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6494,
+        0.9186,
+        0.3294,
+        0.0651
+      ],
+      "tail": null,
+      "text_key": "matthew.18.p1.b3"
+    }
+  ]
+}

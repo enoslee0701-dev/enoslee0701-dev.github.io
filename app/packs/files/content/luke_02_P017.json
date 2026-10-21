@@ -1,0 +1,133 @@
+{
+  "id": "LUKE_02_P017",
+  "book": "luke",
+  "chapter": 2,
+  "page": 17,
+  "ref": "2:48-50",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "他父母看见他，非常惊奇。"
+      }
+    },
+    {
+      "id": "LUKE_02_P017_F2",
+      "box": [
+        0,
+        0.3327,
+        0.4434,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "孩子！你为什么这样对我们呢？你看，你父亲和我都焦急地在找你！"
+      }
+    },
+    {
+      "id": "LUKE_02_P017_F3",
+      "box": [
+        0.4502,
+        0.3327,
+        0.5498,
+        0.6673
+      ],
+      "alt": {
+        "zh-CN": "为什么找我呢？难道不知道我应该在我父亲的家里吗？"
+      }
+    },
+    {
+      "id": "LUKE_02_P017_F4",
+      "box": [
+        0,
+        0.6693,
+        0.4434,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "他说的这话，他们不明白。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P017_B001",
+      "panel": "LUKE_02_P017_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0098,
+        0.38,
+        0.0655
+      ],
+      "tail": null,
+      "text_key": "luke.2.p17.b1"
+    },
+    {
+      "id": "LUKE_02_P017_B002",
+      "panel": "LUKE_02_P017_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0177,
+        0.3394,
+        0.4079,
+        0.0865
+      ],
+      "tail": [
+        0.2217,
+        0.4592
+      ],
+      "text_key": "luke.2.p17.b2"
+    },
+    {
+      "id": "LUKE_02_P017_B003",
+      "panel": "LUKE_02_P017_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7581,
+        0.346,
+        0.2199,
+        0.08
+      ],
+      "tail": [
+        0.8681,
+        0.4927
+      ],
+      "text_key": "luke.2.p17.b3"
+    },
+    {
+      "id": "LUKE_02_P017_B004",
+      "panel": "LUKE_02_P017_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0177,
+        0.9008,
+        0.4079,
+        0.0859
+      ],
+      "tail": null,
+      "text_key": "luke.2.p17.b4"
+    }
+  ]
+}

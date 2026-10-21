@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_13_P003",
+  "book": "matthew",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "「有些落在土浅的石头地上，土不深，苗发得最快，"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P003_F2",
+      "box": [
+        0,
+        0.2389,
+        0.3555,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "（嫩苗很快冒了出来。）"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P003_F3",
+      "box": [
+        0.3604,
+        0.2389,
+        0.6396,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "太阳一出来一晒，因为没有根，就枯干了。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P003_F4",
+      "box": [
+        0,
+        0.6081,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "有些落在荆棘里，荆棘长起来，把它挤住了。"
+      }
+    },
+    {
+      "id": "MATTHEW_13_P003_F5",
+      "box": [
+        0.621,
+        0.661,
+        0.375,
+        0.331
+      ],
+      "alt": {
+        "zh-CN": "（岸上的寡妇停下了手里的纺锤。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_13_P003_B001",
+      "panel": "MATTHEW_13_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.0094,
+        0.42,
+        0.0705
+      ],
+      "tail": [
+        0,
+        0.1034
+      ],
+      "text_key": "matthew.13.p3.b1"
+    },
+    {
+      "id": "MATTHEW_13_P003_B002",
+      "panel": "MATTHEW_13_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3796,
+        0.2535,
+        0.2558,
+        0.0657
+      ],
+      "tail": [
+        0.3604,
+        0.3557
+      ],
+      "text_key": "matthew.13.p3.b2"
+    },
+    {
+      "id": "MATTHEW_13_P003_B003",
+      "panel": "MATTHEW_13_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.8824,
+        0.36,
+        0.1097
+      ],
+      "tail": [
+        0,
+        1
+      ],
+      "text_key": "matthew.13.p3.b3"
+    }
+  ]
+}

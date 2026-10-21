@@ -1,0 +1,124 @@
+{
+  "id": "MATTHEW_21_P016",
+  "book": "matthew",
+  "chapter": 21,
+  "page": 16,
+  "ref": "21:38-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_21_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_21_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2493
+      ]
+    },
+    {
+      "id": "MATTHEW_21_P016_F2",
+      "box": [
+        0,
+        0.2539,
+        1,
+        0.4076
+      ]
+    },
+    {
+      "id": "MATTHEW_21_P016_F3",
+      "box": [
+        0,
+        0.666,
+        0.4971,
+        0.334
+      ]
+    },
+    {
+      "id": "MATTHEW_21_P016_F4",
+      "box": [
+        0.5039,
+        0.666,
+        0.4961,
+        0.334
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_21_P016_B001",
+      "panel": "MATTHEW_21_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.56,
+        0.005,
+        0.42,
+        0.0598
+      ],
+      "tail": [
+        0.77,
+        0.0897
+      ],
+      "text_key": "matthew.21.p16.b1"
+    },
+    {
+      "id": "MATTHEW_21_P016_B002",
+      "panel": "MATTHEW_21_P016_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2621,
+        0.44,
+        0.0652
+      ],
+      "tail": null,
+      "text_key": "matthew.21.p16.b2"
+    },
+    {
+      "id": "MATTHEW_21_P016_B003",
+      "panel": "MATTHEW_21_P016_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6727,
+        0.4573,
+        0.0467
+      ],
+      "tail": [
+        0.2486,
+        0.7528
+      ],
+      "text_key": "matthew.21.p16.b3"
+    },
+    {
+      "id": "MATTHEW_21_P016_B004",
+      "panel": "MATTHEW_21_P016_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5237,
+        0.6727,
+        0.4564,
+        0.0601
+      ],
+      "tail": [
+        0.7519,
+        0.7662
+      ],
+      "text_key": "matthew.21.p16.b4"
+    }
+  ]
+}

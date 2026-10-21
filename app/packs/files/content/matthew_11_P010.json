@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_11_P010",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 10,
+  "ref": "11:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "父啊，天地的主，我赞美你！"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P010_F2",
+      "box": [
+        0,
+        0.25,
+        0.293,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "因为你把这些事向聪明有学问的人隐藏起来，"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P010_F3",
+      "box": [
+        0.3008,
+        0.25,
+        0.6992,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "却向小孩子显明出来。父啊，是的，这正是你的美意。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P010_F4",
+      "box": [
+        0,
+        0.6823,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "我父已经把一切都交给了我；除了父，没有人认识子；除了子和子愿意启示的人，也没有人认识父。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P010_B001",
+      "panel": "MATTHEW_11_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0049,
+        0.44,
+        0.0394
+      ],
+      "tail": [
+        0.76,
+        0.069
+      ],
+      "text_key": "matthew.11.p10.b1"
+    },
+    {
+      "id": "MATTHEW_11_P010_B002",
+      "panel": "MATTHEW_11_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0117,
+        0.2586,
+        0.2695,
+        0.0471
+      ],
+      "tail": [
+        0.1465,
+        0.3486
+      ],
+      "text_key": "matthew.11.p10.b2"
+    },
+    {
+      "id": "MATTHEW_11_P010_B003",
+      "panel": "MATTHEW_11_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6364,
+        0.2586,
+        0.3496,
+        0.0514
+      ],
+      "tail": [
+        0.8112,
+        0.3529
+      ],
+      "text_key": "matthew.11.p10.b3"
+    },
+    {
+      "id": "MATTHEW_11_P010_B004",
+      "panel": "MATTHEW_11_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.7014,
+        0.44,
+        0.1906
+      ],
+      "tail": [
+        0.76,
+        0.9238
+      ],
+      "text_key": "matthew.11.p10.b4"
+    }
+  ]
+}

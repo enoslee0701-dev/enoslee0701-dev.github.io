@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_05_P006",
+  "book": "matthew",
+  "chapter": 5,
+  "page": 6,
+  "ref": "5:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_05_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_05_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "你们是世上的光。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P006_F2",
+      "box": [
+        0.0068,
+        0.25,
+        0.9873,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "建在山上的城是不能隐藏的。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P006_F3",
+      "box": [
+        0.0039,
+        0.6543,
+        0.4971,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "人点了灯，不会放在斗底下，而是放在灯台上，照亮全家的人。"
+      }
+    },
+    {
+      "id": "MATTHEW_05_P006_F4",
+      "box": [
+        0.5107,
+        0.6543,
+        0.4844,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "你们的光也应当这样照在人前，让他们看见你们的好行为，就把荣耀归给你们在天上的父。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_05_P006_B001",
+      "panel": "MATTHEW_05_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0074,
+        0.39,
+        0.0493
+      ],
+      "tail": [
+        0.775,
+        0.0814
+      ],
+      "text_key": "matthew.5.p6.b1"
+    },
+    {
+      "id": "MATTHEW_05_P006_B002",
+      "panel": "MATTHEW_05_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0364,
+        0.262,
+        0.4442,
+        0.048
+      ],
+      "tail": [
+        0.2585,
+        0.35
+      ],
+      "text_key": "matthew.5.p6.b2"
+    },
+    {
+      "id": "MATTHEW_05_P006_B003",
+      "panel": "MATTHEW_05_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2773,
+        0.6611,
+        0.2137,
+        0.0582
+      ],
+      "tail": [
+        0.3842,
+        0.7535
+      ],
+      "text_key": "matthew.5.p6.b3"
+    },
+    {
+      "id": "MATTHEW_05_P006_B004",
+      "panel": "MATTHEW_05_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8304,
+        0.7467,
+        0.1598,
+        0.0547
+      ],
+      "tail": [
+        0.9103,
+        0.8356
+      ],
+      "text_key": "matthew.5.p6.b4"
+    }
+  ]
+}

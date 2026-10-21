@@ -1,0 +1,133 @@
+{
+  "id": "MATTHEW_16_P004",
+  "book": "matthew",
+  "chapter": 16,
+  "page": 4,
+  "ref": "16:8-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_16_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_16_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "耶稣知道了，就说：「你们这小信的人，为什么因为没有饼彼此议论呢？"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P004_F2",
+      "box": [
+        0,
+        0.3092,
+        1,
+        0.222
+      ],
+      "alt": {
+        "zh-CN": "你们还不明白吗？不记得那五个饼分给五千人，又收拾了多少篮子的碎块吗？也不记得那七个饼分给四千人，又收拾了多少筐子的碎块吗？"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P004_F3",
+      "box": [
+        0,
+        0.5384,
+        0.3447,
+        0.4616
+      ]
+    },
+    {
+      "id": "MATTHEW_16_P004_F4",
+      "box": [
+        0.3555,
+        0.5384,
+        0.6445,
+        0.4616
+      ],
+      "alt": {
+        "zh-CN": "门徒这才明白，他不是叫他们防备饼的酵，而是防备法利赛人和撒都该人的教导。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_16_P004_B001",
+      "panel": "MATTHEW_16_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.006,
+        0.4,
+        0.0483
+      ],
+      "tail": [
+        0.5,
+        0.0845
+      ],
+      "text_key": "matthew.16.p4.b1"
+    },
+    {
+      "id": "MATTHEW_16_P004_B002",
+      "panel": "MATTHEW_16_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.3136,
+        0.44,
+        0.0444
+      ],
+      "tail": [
+        0.24,
+        0.3802
+      ],
+      "text_key": "matthew.16.p4.b2"
+    },
+    {
+      "id": "MATTHEW_16_P004_B003",
+      "panel": "MATTHEW_16_P004_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.54,
+        0.3136,
+        0.44,
+        0.0444
+      ],
+      "tail": [
+        0.76,
+        0.3802
+      ],
+      "text_key": "matthew.16.p4.b3"
+    },
+    {
+      "id": "MATTHEW_16_P004_B004",
+      "panel": "MATTHEW_16_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7164,
+        0.5522,
+        0.2578,
+        0.0923
+      ],
+      "tail": null,
+      "text_key": "matthew.16.p4.b4"
+    }
+  ]
+}

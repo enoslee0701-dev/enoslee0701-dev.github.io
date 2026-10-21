@@ -1,0 +1,133 @@
+{
+  "id": "LUKE_06_P014",
+  "book": "luke",
+  "chapter": 6,
+  "page": 14,
+  "ref": "6:39-42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "耶稣又用比喻对他们说：“瞎子能领瞎子吗？两个人不是都要掉进坑里吗？"
+      }
+    },
+    {
+      "id": "LUKE_06_P014_F2",
+      "box": [
+        0,
+        0.3073,
+        0.3145,
+        0.3743
+      ]
+    },
+    {
+      "id": "LUKE_06_P014_F3",
+      "box": [
+        0.3242,
+        0.3073,
+        0.6758,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "为什么看见你弟兄眼中有刺，却不理会自己眼中有梁木呢？"
+      }
+    },
+    {
+      "id": "LUKE_06_P014_F4",
+      "box": [
+        0,
+        0.6875,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "你这假冒为善的人！先除掉自己眼中的梁木，然后才能看得清楚，除掉你弟兄眼中的刺。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P014_B001",
+      "panel": "LUKE_06_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.006,
+        0.3,
+        0.0414
+      ],
+      "tail": null,
+      "text_key": "luke.6.p14.b1"
+    },
+    {
+      "id": "LUKE_06_P014_B002",
+      "panel": "LUKE_06_P014_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.54,
+        0.008,
+        0.455,
+        0.0791
+      ],
+      "tail": [
+        1,
+        0.07
+      ],
+      "text_key": "luke.6.p14.b2"
+    },
+    {
+      "id": "LUKE_06_P014_B003",
+      "panel": "LUKE_06_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6283,
+        0.3148,
+        0.3581,
+        0.0524
+      ],
+      "tail": [
+        0.3242,
+        0.4046
+      ],
+      "text_key": "luke.6.p14.b3"
+    },
+    {
+      "id": "LUKE_06_P014_B004",
+      "panel": "LUKE_06_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6938,
+        0.4,
+        0.0468
+      ],
+      "tail": [
+        0.5,
+        0.7718
+      ],
+      "text_key": "luke.6.p14.b4"
+    }
+  ]
+}

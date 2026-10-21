@@ -1,0 +1,115 @@
+{
+  "id": "LUKE_03_P008",
+  "book": "luke",
+  "chapter": 3,
+  "page": 8,
+  "ref": "3:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_03_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_03_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "天就开了，"
+      }
+    },
+    {
+      "id": "LUKE_03_P008_F2",
+      "box": [
+        0,
+        0.2669,
+        0.6436,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "圣灵降在他身上，样子好像鸽子；"
+      }
+    },
+    {
+      "id": "LUKE_03_P008_F3",
+      "box": [
+        0.6514,
+        0.2669,
+        0.3486,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "又有声音从天上来，说：“你是我的爱子，我喜悦你。”"
+      }
+    },
+    {
+      "id": "LUKE_03_P008_F4",
+      "box": [
+        0,
+        0.7096,
+        1,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "（人们散去时，有人回头望着他。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_03_P008_B001",
+      "panel": "LUKE_03_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0104,
+        0.42,
+        0.0469
+      ],
+      "tail": null,
+      "text_key": "luke.3.p8.b1"
+    },
+    {
+      "id": "LUKE_03_P008_B002",
+      "panel": "LUKE_03_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3862,
+        0.2757,
+        0.2445,
+        0.0568
+      ],
+      "tail": null,
+      "text_key": "luke.3.p8.b2"
+    },
+    {
+      "id": "LUKE_03_P008_B003",
+      "panel": "LUKE_03_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.6793,
+        0.3982,
+        0.2928,
+        0.175
+      ],
+      "tail": [
+        0.8257,
+        0.6169
+      ],
+      "text_key": "luke.3.p8.b3"
+    }
+  ]
+}

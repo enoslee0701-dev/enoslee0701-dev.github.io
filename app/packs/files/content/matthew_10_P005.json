@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_10_P005",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P005_F1",
+      "box": [
+        0.0127,
+        0,
+        0.9766,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "要打听那里谁是好人，就住在他家，一直住到离开的时候。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P005_F2",
+      "box": [
+        0.0127,
+        0.2272,
+        0.4346,
+        0.4668
+      ],
+      "alt": {
+        "zh-CN": "那家如果配得平安，你们祝愿的平安就会临到那家；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P005_F3",
+      "box": [
+        0.4561,
+        0.2272,
+        0.5332,
+        0.4668
+      ],
+      "alt": {
+        "zh-CN": "凡是不接待你们、不听你们话的人，……要把脚上的尘土跺掉。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P005_F4",
+      "box": [
+        0.0127,
+        0.6986,
+        0.9766,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "在审判的日子，所多玛和蛾摩拉受的，比那城还容易受！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P005_B001",
+      "panel": "MATTHEW_10_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6182,
+        0.0045,
+        0.3515,
+        0.0356
+      ],
+      "tail": [
+        0.7939,
+        0.0624
+      ],
+      "text_key": "matthew.10.p5.b1"
+    },
+    {
+      "id": "MATTHEW_10_P005_B002",
+      "panel": "MATTHEW_10_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0996,
+        0.2365,
+        0.3302,
+        0.056
+      ],
+      "tail": [
+        0.2647,
+        0.3392
+      ],
+      "text_key": "matthew.10.p5.b2"
+    },
+    {
+      "id": "MATTHEW_10_P005_B003",
+      "panel": "MATTHEW_10_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5201,
+        0.6193,
+        0.4478,
+        0.0653
+      ],
+      "tail": [
+        0.744,
+        0.694
+      ],
+      "text_key": "matthew.10.p5.b3"
+    },
+    {
+      "id": "MATTHEW_10_P005_B004",
+      "panel": "MATTHEW_10_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3447,
+        0.7046,
+        0.5078,
+        0.0421
+      ],
+      "tail": [
+        0.5986,
+        0.7768
+      ],
+      "text_key": "matthew.10.p5.b4"
+    }
+  ]
+}

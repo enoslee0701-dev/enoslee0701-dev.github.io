@@ -1,0 +1,532 @@
+{
+  "mark.11.p1.b1": {
+    "text": "저희가 예루살렘에 가까이 와서 감람산 벳바게와 베다니에 이르렀을 때에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p1.b2": {
+    "text": "너희 맞은편 마을로 가라 그리로 들어가면 곧 … 나귀 새끼의 매여 있는 것을 보리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p1.b3": {
+    "text": "아직 아무 사람도 타 보지 않은 … 풀어 끌고 오너라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p1.b4": {
+    "text": "만일 누가 너희에게 왜 이리 하느냐 묻거든 주가 쓰시겠다하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p2.b1": {
+    "text": "제자들이 가서 본즉 나귀 새끼가 문앞 거리에 매여 있는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p2.b2": {
+    "text": "나귀 새끼를 풀어 무엇하려느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p2.b3": {
+    "text": "제자들이 예수의 이르신대로 말한대 이에 허락하는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p3.b1": {
+    "text": "나귀 새끼를 예수께로 끌고 와서 자기들의 겉옷을 그 위에 걸쳐 두매 예수께서 타시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p3.b2": {
+    "text": "많은 사람은 자기 겉옷과 다른이들은 밭에서 벤 나무가지를 길에 펴며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p4.b1": {
+    "text": "호산나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p4.b2": {
+    "text": "찬송하리로다 주의 이름으로 오시는이여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p4.b3": {
+    "text": "찬송하리로다 오는 우리 조상 다윗의 나라여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p4.b4": {
+    "text": "가장 높은 곳에서 호산나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p5.b1": {
+    "text": "예수께서 예루살렘에 이르러 성전에 들어가사",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p5.b2": {
+    "text": "모든 것을 둘러 보시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p5.b3": {
+    "text": "때가 이미 저물매 열 두 제자를 데리시고 베다니에 나가시다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p6.b1": {
+    "text": "이튿날 저희가 베다니에서 나왔을 때에 예수께서 시장하신지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p6.b2": {
+    "text": "멀리서 잎사귀 있는 한 무화과나무를 보시고 혹 그 나무에 무엇이 있을까 하여 가셨더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p6.b3": {
+    "text": "가서 보신즉 잎사귀 외에 아무 것도 없더라 이는 무화과의 때가 아님이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p6.b4": {
+    "text": "이제부터 영원토록 사람이 네게서 열매를 따 먹지 못하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p7.b1": {
+    "text": "저희가 예루살렘에 들어가니라 예수께서 성전에 들어가사",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p7.b2": {
+    "text": "성전 안에서 매매하는 자들을 내어 쫓으시며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p7.b3": {
+    "text": "돈 바꾸는 자들의 상과 비둘기 파는 자들의 의자를 둘러 엎으시며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p8.b1": {
+    "text": "아무나 기구를 가지고 성전 안으로 지나다님을 허치 아니하시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p8.b2": {
+    "text": "기록된바 내 집은 만민의 기도하는 집이라 칭함을 받으리라고 하지 아니하였느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p8.b3": {
+    "text": "너희는 강도의 굴혈을 만들었도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p9.b1": {
+    "text": "대제사장들과 서기관들이 듣고 예수를 어떻게 멸할까 하고 꾀하니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p9.b2": {
+    "text": "이는 무리가 다 그의 교훈을 기이히 여기므로 그를 두려워함일러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p9.b3": {
+    "text": "매양 저물매 저희가 성밖으로 나가더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p10.b1": {
+    "text": "저희가 아침에 지나갈 때에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p10.b2": {
+    "text": "무화과나무가 뿌리로부터 마른 것을 보고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p10.b3": {
+    "text": "랍비여 보소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p10.b4": {
+    "text": "저주하신 무화과 나무가 말랐나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p11.b1": {
+    "text": "하나님을 믿으라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p11.b2": {
+    "text": "내가 진실로 너희에게 이르노니 누구든지 이 산더러 들리어 바다에 던지우라 하며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p11.b3": {
+    "text": "그 말하는 것이 이룰줄 믿고 마음에 의심치 아니하면 그대로 되리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p12.b1": {
+    "text": "그러므로 내가 너희에게 말하노니 무엇이든지 기도하고 구하는 것은 받은 줄로 믿으라 그리하면 너희에게 그대로 되리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p12.b2": {
+    "text": "서서 기도할 때에 아무에게나 혐의가 있거든 용서하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p12.b3": {
+    "text": "그리하여야 하늘에 계신 너희 아버지도 너희 허물을 사하여 주시리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p13.b1": {
+    "text": "저희가 다시 예루살렘에 들어가니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p13.b2": {
+    "text": "예수께서 성전에서 걸어다니실 때에 대제사장들과 서기관들과 장로들이 나아와",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p13.b3": {
+    "text": "무슨 권세로 이런 일을 하느뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p13.b4": {
+    "text": "누가 이런 일 할 이 권세를 주었느뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p14.b1": {
+    "text": "나도 한 말을 너희에게 물으리니 대답하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p14.b2": {
+    "text": "그리하면 나도 무슨 권세로 이런 일을 하는지 이르리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p14.b3": {
+    "text": "요한의 세례가 하늘로서냐 사람에게로서냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p14.b4": {
+    "text": "내게 대답하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p15.b1": {
+    "text": "만일 하늘로서라 하면",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p15.b2": {
+    "text": "어찌하여 저를 믿지 아니하였느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p15.b3": {
+    "text": "그러면 사람에게로서라 할까 하였으나 … 저희가 백성을 무서워하는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p15.b4": {
+    "text": "모든 사람이 요한을 참 선지자로 여기므로",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p16.b1": {
+    "text": "우리가 알지 못하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.11.p16.b2": {
+    "text": "나도 무슨 권세로 이런 일을 하는지 너희에게 이르지 아니하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Mark 11:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

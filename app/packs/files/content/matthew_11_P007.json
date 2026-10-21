@@ -1,0 +1,139 @@
+{
+  "id": "MATTHEW_11_P007",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 7,
+  "ref": "11:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "约翰来了，不吃也不喝，人们就说他被鬼附了；"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P007_F2",
+      "box": [
+        0,
+        0.2305,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "人子来了，也吃也喝，"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P007_F3",
+      "box": [
+        0,
+        0.6504,
+        0.4834,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "人们又说他是贪吃好酒的人，是税吏和罪人的朋友。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P007_F4",
+      "box": [
+        0.4883,
+        0.6504,
+        0.5117,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "然而智慧总是由她的儿女证明是对的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P007_B001",
+      "panel": "MATTHEW_11_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.36,
+        0.0045,
+        0.36,
+        0.0454
+      ],
+      "tail": [
+        0.54,
+        0.0726
+      ],
+      "text_key": "matthew.11.p7.b1"
+    },
+    {
+      "id": "MATTHEW_11_P007_B002",
+      "panel": "MATTHEW_11_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2368,
+        0.42,
+        0.0396
+      ],
+      "tail": [
+        0.77,
+        0.3181
+      ],
+      "text_key": "matthew.11.p7.b2"
+    },
+    {
+      "id": "MATTHEW_11_P007_B003",
+      "panel": "MATTHEW_11_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2127,
+        0.9301,
+        0.261,
+        0.0629
+      ],
+      "tail": [
+        0.3432,
+        1
+      ],
+      "text_key": "matthew.11.p7.b3"
+    },
+    {
+      "id": "MATTHEW_11_P007_B004",
+      "panel": "MATTHEW_11_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8618,
+        0.6574,
+        0.1279,
+        0.0978
+      ],
+      "tail": [
+        0.9258,
+        0.7902
+      ],
+      "text_key": "matthew.11.p7.b4"
+    }
+  ]
+}

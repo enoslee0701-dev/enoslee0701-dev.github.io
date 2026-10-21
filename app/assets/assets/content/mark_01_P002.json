@@ -1,0 +1,112 @@
+{
+  "id": "MARK_01_P002",
+  "book": "mark",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_01_P002",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.269
+      ],
+      "alt": {
+        "zh-CN": "约翰站在约旦河中，招呼岸上的人下水。"
+      }
+    },
+    {
+      "id": "MARK_01_P002_F2",
+      "box": [
+        0,
+        0.271,
+        1,
+        0.404
+      ],
+      "alt": {
+        "zh-CN": "从高处看，人群像一条河一样从山坡上涌向约旦河。"
+      }
+    },
+    {
+      "id": "MARK_01_P002_F3",
+      "box": [
+        0,
+        0.678,
+        0.315,
+        0.322
+      ],
+      "alt": {
+        "zh-CN": "一个男人跪在水里，闭着眼流泪认罪。"
+      }
+    },
+    {
+      "id": "MARK_01_P002_F4",
+      "box": [
+        0.323,
+        0.677,
+        0.677,
+        0.323
+      ],
+      "alt": {
+        "zh-CN": "约翰在约旦河里为一个年轻人施洗。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_01_P002_B001",
+      "panel": "MARK_01_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.015,
+        0.128,
+        0.63,
+        0.139
+      ],
+      "tail": null,
+      "text_key": "mark.1.p2.b1"
+    },
+    {
+      "id": "MARK_01_P002_B002",
+      "panel": "MARK_01_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2791,
+        0.42,
+        0.0565
+      ],
+      "tail": null,
+      "text_key": "mark.1.p2.b2"
+    },
+    {
+      "id": "MARK_01_P002_B003",
+      "panel": "MARK_01_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0158,
+        0.6844,
+        0.2835,
+        0.0322
+      ],
+      "tail": null,
+      "text_key": "mark.1.p2.b3"
+    }
+  ]
+}

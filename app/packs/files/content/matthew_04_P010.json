@@ -1,0 +1,127 @@
+{
+  "id": "MATTHEW_04_P010",
+  "book": "matthew",
+  "chapter": 4,
+  "page": 10,
+  "ref": "4:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_04_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_04_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "耶稣走遍加利利，在各会堂里教导人，宣讲天国的福音，医治百姓各种疾病。"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P010_F2",
+      "box": [
+        0,
+        0.2422,
+        1,
+        0.3477
+      ],
+      "alt": {
+        "zh-CN": "他的名声传遍了叙利亚，那里的人把所有生病的都带到他那里，"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P010_F3",
+      "box": [
+        0.6406,
+        0.4577,
+        0.3594,
+        0.1322
+      ],
+      "alt": {
+        "zh-CN": "耶稣治好了他们。"
+      }
+    },
+    {
+      "id": "MATTHEW_04_P010_F4",
+      "box": [
+        0,
+        0.5931,
+        1,
+        0.4069
+      ],
+      "alt": {
+        "zh-CN": "当时，有许多人从加利利、低加坡里、耶路撒冷、犹太和约旦河东来跟随他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_04_P010_B001",
+      "panel": "MATTHEW_04_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.0048,
+        0.46,
+        0.0285
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p10.b1"
+    },
+    {
+      "id": "MATTHEW_04_P010_B002",
+      "panel": "MATTHEW_04_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2492,
+        0.5,
+        0.0556
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p10.b2"
+    },
+    {
+      "id": "MATTHEW_04_P010_B003",
+      "panel": "MATTHEW_04_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6514,
+        0.5529,
+        0.1186,
+        0.033
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p10.b3"
+    },
+    {
+      "id": "MATTHEW_04_P010_B004",
+      "panel": "MATTHEW_04_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.9186,
+        0.4,
+        0.0691
+      ],
+      "tail": null,
+      "text_key": "matthew.4.p10.b4"
+    }
+  ]
+}

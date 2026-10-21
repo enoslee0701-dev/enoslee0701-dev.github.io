@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_16_P003",
+  "book": "matthew",
+  "chapter": 16,
+  "page": 3,
+  "ref": "16:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_16_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_16_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "门徒到了湖的对岸，忘了带饼。"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P003_F2",
+      "box": [
+        0,
+        0.2292,
+        0.4697,
+        0.2845
+      ]
+    },
+    {
+      "id": "MATTHEW_16_P003_F3",
+      "box": [
+        0.4805,
+        0.2292,
+        0.5195,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：「你们要谨慎，防备法利赛人和撒都该人的酵。」"
+      }
+    },
+    {
+      "id": "MATTHEW_16_P003_F4",
+      "box": [
+        0,
+        0.5195,
+        1,
+        0.4805
+      ],
+      "alt": {
+        "zh-CN": "门徒彼此议论说：「这是因为我们没有带饼吧。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_16_P003_B001",
+      "panel": "MATTHEW_16_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0067,
+        0.3,
+        0.0289
+      ],
+      "tail": null,
+      "text_key": "matthew.16.p3.b1"
+    },
+    {
+      "id": "MATTHEW_16_P003_B002",
+      "panel": "MATTHEW_16_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7403,
+        0.2377,
+        0.2389,
+        0.0682
+      ],
+      "tail": [
+        0.8598,
+        0.3344
+      ],
+      "text_key": "matthew.16.p3.b2"
+    },
+    {
+      "id": "MATTHEW_16_P003_B003",
+      "panel": "MATTHEW_16_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.9327,
+        0.26,
+        0.0576
+      ],
+      "tail": [
+        0.15,
+        1
+      ],
+      "text_key": "matthew.16.p3.b3"
+    }
+  ]
+}

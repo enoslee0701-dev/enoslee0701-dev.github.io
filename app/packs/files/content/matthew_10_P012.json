@@ -1,0 +1,121 @@
+{
+  "id": "MATTHEW_10_P012",
+  "book": "matthew",
+  "chapter": 10,
+  "page": 12,
+  "ref": "10:37-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_10_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_10_P012_F1",
+      "box": [
+        0.0088,
+        0.0026,
+        0.9834,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "爱父母胜过爱我的，不配做我的门徒；"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P012_F2",
+      "box": [
+        0.0098,
+        0.2611,
+        0.3271,
+        0.4264
+      ],
+      "alt": {
+        "zh-CN": "不背起自己的十字架跟从我的，也不配做我的门徒。"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P012_F3",
+      "box": [
+        0.3428,
+        0.2611,
+        0.6494,
+        0.4264
+      ],
+      "alt": {
+        "zh-CN": "（一个人弯着腰扛起一根木梁，一步一步走上山路。）"
+      }
+    },
+    {
+      "id": "MATTHEW_10_P012_F4",
+      "box": [
+        0.0088,
+        0.6901,
+        0.9834,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "想保全自己生命的，反而会失去生命；为我失去生命的，反而会得着生命。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_10_P012_B001",
+      "panel": "MATTHEW_10_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7168,
+        0.0077,
+        0.2556,
+        0.0435
+      ],
+      "tail": [
+        0.8446,
+        0.0768
+      ],
+      "text_key": "matthew.10.p12.b1"
+    },
+    {
+      "id": "MATTHEW_10_P012_B002",
+      "panel": "MATTHEW_10_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0229,
+        0.5937,
+        0.3009,
+        0.0852
+      ],
+      "tail": [
+        0.1734,
+        0.6875
+      ],
+      "text_key": "matthew.10.p12.b2"
+    },
+    {
+      "id": "MATTHEW_10_P012_B003",
+      "panel": "MATTHEW_10_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5792,
+        0.6962,
+        0.3933,
+        0.0457
+      ],
+      "tail": [
+        0.7759,
+        0.7724
+      ],
+      "text_key": "matthew.10.p12.b3"
+    }
+  ]
+}

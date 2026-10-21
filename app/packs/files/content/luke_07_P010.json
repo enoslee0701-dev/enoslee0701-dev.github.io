@@ -1,0 +1,118 @@
+{
+  "id": "LUKE_07_P010",
+  "book": "luke",
+  "chapter": 7,
+  "page": 10,
+  "ref": "7:27-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_07_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_07_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "经上记着说：‘我要差遣我的使者在你前面预备道路’，所说的就是这个人。"
+      }
+    },
+    {
+      "id": "LUKE_07_P010_F2",
+      "box": [
+        0,
+        0.2474,
+        0.5,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "我告诉你们，凡妇人所生的，没有一个比约翰大的；"
+      }
+    },
+    {
+      "id": "LUKE_07_P010_F3",
+      "box": [
+        0.5117,
+        0.2474,
+        0.4883,
+        0.2474
+      ]
+    },
+    {
+      "id": "LUKE_07_P010_F4",
+      "box": [
+        0,
+        0.5,
+        1,
+        0.5
+      ],
+      "alt": {
+        "zh-CN": "然而　神国里最小的比他还大。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_07_P010_B001",
+      "panel": "LUKE_07_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.0048,
+        0.48,
+        0.0484
+      ],
+      "tail": [
+        0.74,
+        0.0774
+      ],
+      "text_key": "luke.7.p10.b1"
+    },
+    {
+      "id": "LUKE_07_P010_B002",
+      "panel": "LUKE_07_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.2548,
+        0.19,
+        0.0593
+      ],
+      "tail": [
+        0.395,
+        0.3388
+      ],
+      "text_key": "luke.7.p10.b2"
+    },
+    {
+      "id": "LUKE_07_P010_B003",
+      "panel": "LUKE_07_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.51,
+        0.3,
+        0.05
+      ],
+      "tail": [
+        0.17,
+        0.61
+      ],
+      "text_key": "luke.7.p10.b3"
+    }
+  ]
+}

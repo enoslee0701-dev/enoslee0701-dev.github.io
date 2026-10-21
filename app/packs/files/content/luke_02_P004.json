@@ -1,0 +1,100 @@
+{
+  "id": "LUKE_02_P004",
+  "book": "luke",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "在伯利恒的野地里，有一些牧羊人夜里轮班看守羊群。"
+      }
+    },
+    {
+      "id": "LUKE_02_P004_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.2324
+      ],
+      "alt": {
+        "zh-CN": "（篝火边，祖父拄杖守着，父亲添柴，少年抱着小羊打瞌睡。）"
+      }
+    },
+    {
+      "id": "LUKE_02_P004_F3",
+      "box": [
+        0,
+        0.5091,
+        1,
+        0.4909
+      ],
+      "alt": {
+        "zh-CN": "忽然，主的天使站在他们旁边，主的荣光四面照着他们，牧羊人非常害怕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P004_B001",
+      "panel": "LUKE_02_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.04,
+        0.0106,
+        0.6,
+        0.0584
+      ],
+      "tail": null,
+      "text_key": "luke.2.p4.b1"
+    },
+    {
+      "id": "LUKE_02_P004_B002",
+      "panel": "LUKE_02_P004_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5238,
+        0.46,
+        0.0687
+      ],
+      "tail": null,
+      "text_key": "luke.2.p4.b2"
+    },
+    {
+      "id": "LUKE_02_P004_B003",
+      "panel": "LUKE_02_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9313,
+        0.4,
+        0.0539
+      ],
+      "tail": null,
+      "text_key": "luke.2.p4.b3"
+    }
+  ]
+}

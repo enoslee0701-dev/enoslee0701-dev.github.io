@@ -1,0 +1,139 @@
+{
+  "id": "LUKE_06_P002",
+  "book": "luke",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们说：“经上记着大卫和跟随他的人饥饿的时候所做的事，你们连这个也没有读过吗？"
+      }
+    },
+    {
+      "id": "LUKE_06_P002_F2",
+      "box": [
+        0,
+        0.2734,
+        0.5576,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "他怎样进了上帝的殿，拿陈设饼吃，又给跟随的人吃？"
+      }
+    },
+    {
+      "id": "LUKE_06_P002_F3",
+      "box": [
+        0.5645,
+        0.2734,
+        0.4355,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "这饼除了祭司以外，别人都不可以吃。”"
+      }
+    },
+    {
+      "id": "LUKE_06_P002_F4",
+      "box": [
+        0,
+        0.5326,
+        1,
+        0.4674
+      ],
+      "alt": {
+        "zh-CN": "又对他们说：“人子是安息日的主。”"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_06_P002_B001",
+      "panel": "LUKE_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.008,
+        0.46,
+        0.0804
+      ],
+      "tail": [
+        0.26,
+        0.1152
+      ],
+      "text_key": "luke.6.p2.b1"
+    },
+    {
+      "id": "LUKE_06_P002_B002",
+      "panel": "LUKE_06_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0223,
+        0.281,
+        0.5018,
+        0.0509
+      ],
+      "tail": [
+        0.2732,
+        0.3574
+      ],
+      "text_key": "luke.6.p2.b2"
+    },
+    {
+      "id": "LUKE_06_P002_B003",
+      "panel": "LUKE_06_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5776,
+        0.281,
+        0.2177,
+        0.056
+      ],
+      "tail": [
+        0.6865,
+        0.3625
+      ],
+      "text_key": "luke.6.p2.b3"
+    },
+    {
+      "id": "LUKE_06_P002_B004",
+      "panel": "LUKE_06_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5466,
+        0.3,
+        0.0794
+      ],
+      "tail": [
+        0.18,
+        0.6727
+      ],
+      "text_key": "luke.6.p2.b4"
+    }
+  ]
+}

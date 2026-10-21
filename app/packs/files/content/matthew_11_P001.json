@@ -1,0 +1,115 @@
+{
+  "id": "MATTHEW_11_P001",
+  "book": "matthew",
+  "chapter": 11,
+  "page": 1,
+  "ref": "11:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_11_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_11_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1862
+      ],
+      "alt": {
+        "zh-CN": "耶稣嘱咐完十二个门徒，就离开那里，到各城去传道、教导人。"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P001_F2",
+      "box": [
+        0,
+        0.1901,
+        0.6846,
+        0.4779
+      ],
+      "alt": {
+        "zh-CN": "约翰在监狱里听到基督所做的事，就派了两个门徒去，"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P001_F3",
+      "box": [
+        0.6924,
+        0.1901,
+        0.3076,
+        0.4779
+      ],
+      "alt": {
+        "zh-CN": "（两个门徒在路上赶路。）"
+      }
+    },
+    {
+      "id": "MATTHEW_11_P001_F4",
+      "box": [
+        0,
+        0.6719,
+        1,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "问他：「那位要来的就是你吗？还是我们要等另一位？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_11_P001_B001",
+      "panel": "MATTHEW_11_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.45,
+        0.012,
+        0.53,
+        0.0372
+      ],
+      "tail": null,
+      "text_key": "matthew.11.p1.b1"
+    },
+    {
+      "id": "MATTHEW_11_P001_B002",
+      "panel": "MATTHEW_11_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0137,
+        0.6107,
+        0.2464,
+        0.0477
+      ],
+      "tail": null,
+      "text_key": "matthew.11.p1.b2"
+    },
+    {
+      "id": "MATTHEW_11_P001_B003",
+      "panel": "MATTHEW_11_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.6817,
+        0.34,
+        0.0426
+      ],
+      "tail": [
+        0.81,
+        0.7571
+      ],
+      "text_key": "matthew.11.p1.b3"
+    }
+  ]
+}

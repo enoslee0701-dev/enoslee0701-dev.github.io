@@ -1,0 +1,112 @@
+{
+  "id": "LUKE_02_P003",
+  "book": "luke",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "他们在伯利恒的时候，马利亚生产的日子到了。"
+      }
+    },
+    {
+      "id": "LUKE_02_P003_F2",
+      "box": [
+        0,
+        0.2604,
+        0.4971,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "（店主指给他们客店后面山坡下的牲口间。）"
+      }
+    },
+    {
+      "id": "LUKE_02_P003_F3",
+      "box": [
+        0.5039,
+        0.2604,
+        0.4961,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "（约瑟把干草铺进石槽，垫上自己的斗篷。）"
+      }
+    },
+    {
+      "id": "LUKE_02_P003_F4",
+      "box": [
+        0,
+        0.5911,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "她生下了头胎的儿子，用布包好，放在马槽里，因为客店里没有地方。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_02_P003_B001",
+      "panel": "LUKE_02_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.4,
+        0.0077,
+        0.57,
+        0.041
+      ],
+      "tail": null,
+      "text_key": "luke.2.p3.b1"
+    },
+    {
+      "id": "LUKE_02_P003_B002",
+      "panel": "LUKE_02_P003_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6034,
+        0.32,
+        0.0572
+      ],
+      "tail": null,
+      "text_key": "luke.2.p3.b2"
+    },
+    {
+      "id": "LUKE_02_P003_B003",
+      "panel": "LUKE_02_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.9346,
+        0.37,
+        0.049
+      ],
+      "tail": null,
+      "text_key": "luke.2.p3.b3"
+    }
+  ]
+}

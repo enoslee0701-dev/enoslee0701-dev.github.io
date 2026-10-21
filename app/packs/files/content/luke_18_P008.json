@@ -1,0 +1,124 @@
+{
+  "id": "LUKE_18_P008",
+  "book": "luke",
+  "chapter": 18,
+  "page": 8,
+  "ref": "18:24-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "LUKE_18_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "LUKE_18_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ]
+    },
+    {
+      "id": "LUKE_18_P008_F2",
+      "box": [
+        0,
+        0.2461,
+        1,
+        0.3952
+      ]
+    },
+    {
+      "id": "LUKE_18_P008_F3",
+      "box": [
+        0,
+        0.6458,
+        0.501,
+        0.3542
+      ]
+    },
+    {
+      "id": "LUKE_18_P008_F4",
+      "box": [
+        0.5098,
+        0.6458,
+        0.4902,
+        0.3542
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "LUKE_18_P008_B001",
+      "panel": "LUKE_18_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0072,
+        0.36,
+        0.0529
+      ],
+      "tail": [
+        0.48,
+        0.0842
+      ],
+      "text_key": "luke.18.p8.b1"
+    },
+    {
+      "id": "LUKE_18_P008_B002",
+      "panel": "LUKE_18_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.499,
+        0.36,
+        0.079
+      ],
+      "tail": null,
+      "text_key": "luke.18.p8.b2"
+    },
+    {
+      "id": "LUKE_18_P008_B003",
+      "panel": "LUKE_18_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.02,
+        0.6564,
+        0.4609,
+        0.0566
+      ],
+      "tail": [
+        0.2505,
+        0.7484
+      ],
+      "text_key": "luke.18.p8.b3"
+    },
+    {
+      "id": "LUKE_18_P008_B004",
+      "panel": "LUKE_18_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5245,
+        0.66,
+        0.1372,
+        0.1487
+      ],
+      "tail": [
+        0.5931,
+        0.8441
+      ],
+      "text_key": "luke.18.p8.b4"
+    }
+  ]
+}

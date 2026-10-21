@@ -1,0 +1,97 @@
+{
+  "id": "MATTHEW_17_P010",
+  "book": "matthew",
+  "chapter": 17,
+  "page": 10,
+  "ref": "17:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MATTHEW_17_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MATTHEW_17_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2676
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P010_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.2617
+      ]
+    },
+    {
+      "id": "MATTHEW_17_P010_F3",
+      "box": [
+        0,
+        0.5365,
+        1,
+        0.4635
+      ],
+      "alt": {
+        "zh-CN": "门徒就非常忧愁。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MATTHEW_17_P010_B001",
+      "panel": "MATTHEW_17_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.008,
+        0.6,
+        0.0401
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p10.b1"
+    },
+    {
+      "id": "MATTHEW_17_P010_B002",
+      "panel": "MATTHEW_17_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.2813,
+        0.32,
+        0.0785
+      ],
+      "tail": [
+        0.64,
+        0.386
+      ],
+      "text_key": "matthew.17.p10.b2"
+    },
+    {
+      "id": "MATTHEW_17_P010_B003",
+      "panel": "MATTHEW_17_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9258,
+        0.45,
+        0.0556
+      ],
+      "tail": null,
+      "text_key": "matthew.17.p10.b3"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "luke.10.p1.b1": {
+    "text": "이후에 주께서 달리 칠십인을 세우사 친히 가시려는 각동 각처로 둘씩 앞서 보내시며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p1.b2": {
+    "text": "추수할 것은 많되 일군이 적으니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p1.b3": {
+    "text": "그러므로 추수하는 주인에게 청하여 추수할 일군들을 보내어 주소서 하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p2.b1": {
+    "text": "갈지어다 내가 너희를 보냄이 어린 양을 이리 가운데로 보냄과 같도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p2.b2": {
+    "text": "전대나 주머니나 신을 가지지 말며 길에서 아무에게도 문안하지 말며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p2.b3": {
+    "text": "이 집이 평안할찌어다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p2.b4": {
+    "text": "만일 평안을 받을 사람이 거기 있으면 너희 빈 평안이 그에게 머물것이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p3.b1": {
+    "text": "그 집에 유하며 주는 것을 먹고 마시라 일군이 그 삯을 얻는 것이 마땅하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p3.b2": {
+    "text": "이 집에서 저 집으로 옮기지 말라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p3.b3": {
+    "text": "하나님의 나라가 너희에게 가까이 왔다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p4.b1": {
+    "text": "어느 동네에 들어가든지 너희를 영접지 아니하거든 그 거리로 나와서 말하되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p4.b2": {
+    "text": "너희 동네에서 우리 발에 묻은 먼지도 너희에게 떨어버리노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p4.b3": {
+    "text": "그러나 하나님의 나라가 가까이 온줄을 알라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p4.b4": {
+    "text": "내가 너희에게 말하노니 저날에 소돔이 그 동네보다 견디기 쉬우리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p5.b1": {
+    "text": "화 있을찐저 고라신아 화 있을찐저 벳새다야",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p5.b2": {
+    "text": "너희에게서 행한 모든 권능을 두로와 시돈에서 행하였더면 저희가 벌써 베옷을 입고 재에 앉아 회개하였으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p5.b3": {
+    "text": "가버나움아 네가 하늘에까지 높아지겠느냐 음부에까지 낮아지리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p5.b4": {
+    "text": "너희 말을 듣는 자는 곧 내 말을 듣는 것이요 너희를 저버리는 자는 곧 나를 저버리는 것이요 나를 저버리는 자는 나 보내신 이를 저버리는 것이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p6.b1": {
+    "text": "주여 주의 이름으로 귀신들도 우리에게 항복하더이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p6.b2": {
+    "text": "사단이 하늘로서 번개 같이 떨어지는 것을 내가 보았노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p6.b3": {
+    "text": "내가 너희에게 뱀과 전갈을 밟으며 원수의 모든 능력을 제어할 권세를 주었으니 너희를 해할 자가 결단코 없으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p6.b4": {
+    "text": "그러나 귀신들이 너희에게 항복하는 것으로 기뻐하지 말고 너희 이름이 하늘에 기록된 것으로 기뻐하라 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p7.b1": {
+    "text": "이 때에 예수께서 성령으로 기뻐하사 가라사대",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p7.b2": {
+    "text": "천지의 주재이신 아버지여 이것을 지혜롭고 슬기있는 자들에게는 숨기시고 어린 아이들에게는 나타내심을 감사하나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p7.b3": {
+    "text": "너희의 보는 것을 보는 눈은 복이 있도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p7.b4": {
+    "text": "내가 너희에게 말하노니 많은 선지자와 임금이 너희 보는 바를 보고자 하였으되 보지 못하였으며 너희 듣는 바를 듣고자 하였으되 듣지 못하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p8.b1": {
+    "text": "선생님 내가 무엇을 하여야 영생을 얻으리이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p8.b2": {
+    "text": "율법에 무엇이라 기록되었으며 네가 어떻게 읽느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p8.b3": {
+    "text": "네 마음을 다하며 목숨을 다하며 힘을 다하며 뜻을 다하여 주 너의 하나님을 사랑하고 또한 네 이웃을 네 몸과 같이 사랑하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p8.b4": {
+    "text": "네 대답이 옳도다 이를 행하라 그러면 살리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p9.b1": {
+    "text": "그러면 내 이웃이 누구오니이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p9.b2": {
+    "text": "어떤 사람이 예루살렘에서 여리고로 내려가다가 강도를 만나매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p9.b3": {
+    "text": "강도들이 그 옷을 벗기고 때려 거반 죽은 것을 버리고 갔더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p9.b4": {
+    "text": "마침 한 제사장이 그 길로 내려가다가 그를 보고 피하여 지나가고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p10.b1": {
+    "text": "또 이와 같이 한 레위인도 그곳에 이르러 그를 보고 피하여 지나가되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p10.b2": {
+    "text": "어떤 사마리아인은 여행하는 중 거기 이르러 그를 보고 불쌍히 여겨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p11.b1": {
+    "text": "가까이 가서 기름과 포도주를 그 상처에 붓고 싸매고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p11.b2": {
+    "text": "자기 짐승에 태워",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p11.b3": {
+    "text": "주막으로 데리고 가서 돌보아 주고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p12.b1": {
+    "text": "이튿날에 데나리온 둘을 내어 주막 주인에게 주며 가로되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p12.b2": {
+    "text": "이 사람을 돌보아 주라 부비가 더 들면 내가 돌아 올 때에 갚으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p13.b1": {
+    "text": "네 의견에는 이 세 사람 중에 누가 강도 만난 자의 이웃이 되겠느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p13.b2": {
+    "text": "자비를 베푼 자니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p13.b3": {
+    "text": "가서 너도 이와 같이 하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p14.b1": {
+    "text": "… 예수께서 한 촌에 들어가시매 마르다라 이름하는 한 여자가 자기 집으로 영접하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p14.b2": {
+    "text": "그에게 마리아라 하는 동생이 있어 주의 발아래 앉아 그의 말씀을 듣더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p14.b3": {
+    "text": "주여 내 동생이 나 혼자 일하게 두는 것을 생각지 아니하시나이까 저를 명하사 나를 도와주라 하소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p15.b1": {
+    "text": "마르다야 마르다야",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p15.b2": {
+    "text": "네가 많은 일로 염려하고 근심하나 그러나 부족한것 하나가 있도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:41-42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "luke.10.p15.b3": {
+    "text": "마리아는 이 좋은 편을 택하였으니 빼앗기지 아니하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Luke 10:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}
