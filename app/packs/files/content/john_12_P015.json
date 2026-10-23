@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_12_P015",
+  "book": "john",
+  "chapter": 12,
+  "page": 15,
+  "ref": "12:37-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "他虽然在他们面前行了许多神迹，他们还是不信他。"
+      }
+    },
+    {
+      "id": "JOHN_12_P015_F2",
+      "box": [
+        0,
+        0.2194,
+        0.6016,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "主啊，我们所传的有谁信呢？主的能力向谁显明呢？"
+      }
+    },
+    {
+      "id": "JOHN_12_P015_F3",
+      "box": [
+        0.6084,
+        0.2194,
+        0.3916,
+        0.334
+      ]
+    },
+    {
+      "id": "JOHN_12_P015_F4",
+      "box": [
+        0,
+        0.5573,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "主使他们瞎了眼，硬了心，免得他们眼睛看见，心里明白，回转过来，我就医治他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P015_B001",
+      "panel": "JOHN_12_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1734,
+        0.94,
+        0.039
+      ],
+      "tail": null,
+      "text_key": "john.12.p15.b1"
+    },
+    {
+      "id": "JOHN_12_P015_B002",
+      "panel": "JOHN_12_P015_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.018,
+        0.2294,
+        0.5414,
+        0.0801
+      ],
+      "tail": null,
+      "text_key": "john.12.p15.b2"
+    },
+    {
+      "id": "JOHN_12_P015_B003",
+      "panel": "JOHN_12_P015_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5706,
+        0.92,
+        0.1062
+      ],
+      "tail": null,
+      "text_key": "john.12.p15.b3"
+    }
+  ]
+}

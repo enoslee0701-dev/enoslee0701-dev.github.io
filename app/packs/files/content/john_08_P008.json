@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_08_P008",
+  "book": "john",
+  "chapter": 8,
+  "page": 8,
+  "ref": "8:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2689
+      ],
+      "alt": {
+        "zh-CN": "你的父亲在哪里？"
+      }
+    },
+    {
+      "id": "JOHN_08_P008_F2",
+      "box": [
+        0,
+        0.2721,
+        1,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "你们不认识我，也不认识我的父；如果认识我，也就会认识我的父。"
+      }
+    },
+    {
+      "id": "JOHN_08_P008_F3",
+      "box": [
+        0,
+        0.5462,
+        1,
+        0.4538
+      ],
+      "alt": {
+        "zh-CN": "这些话是耶稣在圣殿的奉献箱旁教导人时说的；也没有人抓他，因为他的时候还没有到。"
+      }
+    },
+    {
+      "id": "JOHN_08_P008_F4",
+      "box": [
+        0.797,
+        0.549,
+        0.194,
+        0.229
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P008_B001",
+      "panel": "JOHN_08_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0108,
+        0.4,
+        0.0591
+      ],
+      "tail": [
+        0.23,
+        0.0968
+      ],
+      "text_key": "john.8.p8.b1"
+    },
+    {
+      "id": "JOHN_08_P008_B002",
+      "panel": "JOHN_08_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.2883,
+        0.42,
+        0.1354
+      ],
+      "tail": [
+        0.76,
+        0.4508
+      ],
+      "text_key": "john.8.p8.b2"
+    },
+    {
+      "id": "JOHN_08_P008_B003",
+      "panel": "JOHN_08_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.9229,
+        0.4,
+        0.068
+      ],
+      "tail": null,
+      "text_key": "john.8.p8.b3"
+    }
+  ]
+}

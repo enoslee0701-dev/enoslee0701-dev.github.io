@@ -1,0 +1,282 @@
+{
+  "john.17.p1.b1": {
+    "text": "When Jesus had spoken these things, He lifted up His eyes to heaven and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p1.b2": {
+    "text": "Father, the hour has come. Glorify Your Son, that Your Son may glorify You.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p1.b3": {
+    "text": "Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p2.b1": {
+    "text": "I have glorified You on earth by accomplishing the work You gave Me to do.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p2.b2": {
+    "text": "And now, Father, glorify Me in Your presence with the glory I had with You before the world existed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p3.b1": {
+    "text": "I have revealed Your name to those You have given Me out of the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p3.b2": {
+    "text": "They were Yours; You gave them to Me, and they have kept Your word.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p3.b3": {
+    "text": "For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p4.b1": {
+    "text": "I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p4.b2": {
+    "text": "I will no longer be in the world, but they are in the world, and I am coming to You.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p4.b3": {
+    "text": "Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p5.b1": {
+    "text": "While I was with them, I protected and preserved them by Your name, the name You gave Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p5.b2": {
+    "text": "Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p5.b3": {
+    "text": "But now I am coming to You; and I am saying these things while I am in the world, so that they may have My joy fulfilled within them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p6.b1": {
+    "text": "… the world has hated them; for they are not of the world, just as I am not of the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p6.b2": {
+    "text": "I am not asking that You take them out of the world, but that You keep them from the evil one.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p7.b1": {
+    "text": "Sanctify them by the truth; Your word is truth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p7.b2": {
+    "text": "As You sent Me into the world, I have also sent them into the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p7.b3": {
+    "text": "For them I sanctify Myself, so that they too may be sanctified by the truth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p8.b1": {
+    "text": "I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p8.b2": {
+    "text": "that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p9.b1": {
+    "text": "I have given them the glory You gave Me, so that they may be one as We are one—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p9.b2": {
+    "text": "I in them and You in Me—that they may be perfectly united …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p9.b3": {
+    "text": "Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p9.b4": {
+    "text": "… because You loved Me before the foundation of the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p10.b1": {
+    "text": "Righteous Father, although the world has not known You, I know You, and they know that You sent Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p10.b2": {
+    "text": "And I have made Your name known to them and will continue to make it known,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.17.p10.b3": {
+    "text": "so that the love You have for Me may be in them, and I in them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 17:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

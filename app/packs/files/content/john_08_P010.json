@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_08_P010",
+  "book": "john",
+  "chapter": 8,
+  "page": 10,
+  "ref": "8:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "你是谁？"
+      }
+    },
+    {
+      "id": "JOHN_08_P010_F2",
+      "box": [
+        0,
+        0.2526,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "你们把人子举起来以后，就会知道我是基督，也会知道我没有一件事是凭自己做的。"
+      }
+    },
+    {
+      "id": "JOHN_08_P010_F3",
+      "box": [
+        0,
+        0.4798,
+        1,
+        0.5202
+      ],
+      "alt": {
+        "zh-CN": "耶稣说这些话的时候，就有很多人信了他。"
+      }
+    },
+    {
+      "id": "JOHN_08_P010_F4",
+      "box": [
+        0.5957,
+        0.7539,
+        0.4043,
+        0.2461
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P010_B001",
+      "panel": "JOHN_08_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0099,
+        0.36,
+        0.0547
+      ],
+      "tail": [
+        0.21,
+        0.0895
+      ],
+      "text_key": "john.8.p10.b1"
+    },
+    {
+      "id": "JOHN_08_P010_B002",
+      "panel": "JOHN_08_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2637,
+        0.41,
+        0.1158
+      ],
+      "tail": [
+        0.765,
+        0.4018
+      ],
+      "text_key": "john.8.p10.b2"
+    },
+    {
+      "id": "JOHN_08_P010_B003",
+      "panel": "JOHN_08_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.8231,
+        0.28,
+        0.13
+      ],
+      "tail": null,
+      "text_key": "john.8.p10.b3"
+    }
+  ]
+}

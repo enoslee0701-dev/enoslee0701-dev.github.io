@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_03_P007",
+  "book": "john",
+  "chapter": 3,
+  "page": 7,
+  "ref": "3:18-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "光来到了世上，世人……却不爱光，反倒爱黑暗，"
+      }
+    },
+    {
+      "id": "JOHN_03_P007_F2",
+      "box": [
+        0.475,
+        0.2389,
+        0.5175,
+        0.1745
+      ],
+      "alt": {
+        "zh-CN": "（一个人迎着门里的光走近。）"
+      }
+    },
+    {
+      "id": "JOHN_03_P007_F3",
+      "box": [
+        0,
+        0.2389,
+        1,
+        0.7611
+      ],
+      "alt": {
+        "zh-CN": "但是遵行真理的人一定会来就近光，好显明他所做的事是靠着　神而做的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P007_B001",
+      "panel": "JOHN_03_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0094,
+        0.4,
+        0.0707
+      ],
+      "tail": [
+        0.23,
+        0.1037
+      ],
+      "text_key": "john.3.p7.b1"
+    },
+    {
+      "id": "JOHN_03_P007_B002",
+      "panel": "JOHN_03_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.2693,
+        0.42,
+        0.2131
+      ],
+      "tail": [
+        0.25,
+        0.5585
+      ],
+      "text_key": "john.3.p7.b2"
+    }
+  ]
+}

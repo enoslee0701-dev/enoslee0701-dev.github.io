@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_04_P017",
+  "book": "john",
+  "chapter": 4,
+  "page": 17,
+  "ref": "4:53",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "他就知道，这正是耶稣对他说「你的儿子活了」的那个时刻；"
+      }
+    },
+    {
+      "id": "JOHN_04_P017_F2",
+      "box": [
+        0,
+        0.2428,
+        0.6045,
+        0.2161
+      ]
+    },
+    {
+      "id": "JOHN_04_P017_F3",
+      "box": [
+        0.6084,
+        0.2428,
+        0.3916,
+        0.2161
+      ]
+    },
+    {
+      "id": "JOHN_04_P017_F4",
+      "box": [
+        0,
+        0.4609,
+        1,
+        0.5391
+      ],
+      "alt": {
+        "zh-CN": "他自己和全家都信了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P017_B001",
+      "panel": "JOHN_04_P017_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0072,
+        0.45,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "john.4.p17.b1"
+    },
+    {
+      "id": "JOHN_04_P017_B002",
+      "panel": "JOHN_04_P017_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.4717,
+        0.47,
+        0.0646
+      ],
+      "tail": null,
+      "text_key": "john.4.p17.b2"
+    }
+  ]
+}

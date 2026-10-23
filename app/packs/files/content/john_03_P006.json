@@ -1,0 +1,121 @@
+{
+  "id": "JOHN_03_P006",
+  "book": "john",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "神爱世上的人，甚至把他独一的儿子赐给他们，"
+      }
+    },
+    {
+      "id": "JOHN_03_P006_F2",
+      "box": [
+        0.004,
+        0.2415,
+        0.41,
+        0.242
+      ],
+      "alt": {
+        "zh-CN": "（尼哥德慕放下手，抬头看着耶稣。）"
+      }
+    },
+    {
+      "id": "JOHN_03_P006_F3",
+      "box": [
+        0,
+        0.2402,
+        1,
+        0.4935
+      ],
+      "alt": {
+        "zh-CN": "使一切信他的人不至于灭亡，反而得到永生。"
+      }
+    },
+    {
+      "id": "JOHN_03_P006_F4",
+      "box": [
+        0,
+        0.7389,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "因为　神差他的儿子到世上来，不是要定世人的罪，而是要使世人藉着他得救。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P006_B001",
+      "panel": "JOHN_03_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0095,
+        0.46,
+        0.0807
+      ],
+      "tail": [
+        0.26,
+        0.114
+      ],
+      "text_key": "john.3.p6.b1"
+    },
+    {
+      "id": "JOHN_03_P006_B002",
+      "panel": "JOHN_03_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.43,
+        0.2501,
+        0.54,
+        0.0444
+      ],
+      "tail": [
+        0.7,
+        0.3439
+      ],
+      "text_key": "john.3.p6.b2"
+    },
+    {
+      "id": "JOHN_03_P006_B003",
+      "panel": "JOHN_03_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.68,
+        0.7546,
+        0.29,
+        0.1618
+      ],
+      "tail": [
+        0.825,
+        0.9425
+      ],
+      "text_key": "john.3.p6.b3"
+    }
+  ]
+}

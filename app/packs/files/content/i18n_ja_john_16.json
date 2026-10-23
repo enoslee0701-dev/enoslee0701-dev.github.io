@@ -1,0 +1,332 @@
+{
+  "john.16.p1.b1": {
+    "text": "わたしがこれらのことを語ったのは、あなたがたがつまずくことのないためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p1.b2": {
+    "text": "人々はあなたがたを会堂から追い出すであろう。更にあなたがたを殺す者がみな、それによって自分たちは神に仕えているのだと思う時が来るであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p1.b3": {
+    "text": "わたしがあなたがたにこれらのことを言ったのは、彼らの時がきた場合、わたしが彼らについて言ったことを、思い起させるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p2.b1": {
+    "text": "けれども今わたしは、わたしをつかわされたかたのところに行こうとしている。しかし、あなたがたのうち、だれも『どこへ行くのか』と尋ねる者はない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p2.b2": {
+    "text": "かえって、わたしがこれらのことを言ったために、あなたがたの心は憂いで満たされている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p2.b3": {
+    "text": "しかし、わたしはほんとうのことをあなたがたに言うが、わたしが去って行くことは、あなたがたの益になるのだ。わたしが去って行かなければ、あなたがたのところに助け主はこないであろう。もし行けば、それをあなたがたにつかわそう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p3.b1": {
+    "text": "それがきたら、罪と義とさばきとについて、世の人の目を開くであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p3.b2": {
+    "text": "義についてと言ったのは、わたしが父のみもとに行き、あなたがたは、もはやわたしを見なくなるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p3.b3": {
+    "text": "さばきについてと言ったのは、この世の君がさばかれるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p4.b1": {
+    "text": "わたしには、あなたがたに言うべきことがまだ多くあるが、あなたがたは今はそれに堪えられない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p4.b2": {
+    "text": "けれども真理の御霊が来る時には、あなたがたをあらゆる真理に導いてくれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p4.b3": {
+    "text": "御霊はわたしに栄光を得させるであろう。わたしのものを受けて、それをあなたがたに知らせるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b1": {
+    "text": "しばらくすれば、あなたがたはもうわたしを見なくなる。しかし、またしばらくすれば、わたしに会えるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b2": {
+    "text": "『しばらくすれば』と言われるのは、どういうことか。わたしたちには、その言葉の意味がわからない",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b3": {
+    "text": "イエスは、彼らが尋ねたがっていることに気がついて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b4": {
+    "text": "… しばらくすればわたしを見なくなる、またしばらくすればわたしに会えるであろうと、わたしが言ったことで、互に論じ合っているのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b1": {
+    "text": "… あなたがたは憂えているが、その憂いは喜びに変るであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b2": {
+    "text": "女が子を産む場合には、その時がきたというので、不安を感じる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b3": {
+    "text": "しかし、子を産んでしまえば、もはやその苦しみをおぼえてはいない。ひとりの人がこの世に生れた、という喜びがあるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b4": {
+    "text": "… わたしは再びあなたがたと会うであろう。そして、あなたがたの心は喜びに満たされるであろう。その喜びをあなたがたから取り去る者はいない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p7.b1": {
+    "text": "その日には、あなたがたがわたしに問うことは、何もないであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p7.b2": {
+    "text": "… あなたがたが父に求めるものはなんでも、わたしの名によって下さるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p7.b3": {
+    "text": "… 求めなさい、そうすれば、与えられるであろう。そして、あなたがたの喜びが満ちあふれるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p8.b1": {
+    "text": "わたしはこれらのことを比喩で話したが、… あからさまに、父のことをあなたがたに話してきかせる時が来るであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p8.b2": {
+    "text": "その日には、あなたがたは、わたしの名によって求めるであろう。… 父ご自身があなたがたを愛しておいでになるからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:26-27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p8.b3": {
+    "text": "わたしは父から出てこの世にきたが、またこの世を去って、父のみもとに行くのである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b1": {
+    "text": "今はあからさまにお話しになって、少しも比喩ではお話しになりません。… このことによって、わたしたちはあなたが神からこられたかたであると信じます",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b2": {
+    "text": "あなたがたは今信じているのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b3": {
+    "text": "見よ、あなたがたは散らされて、それぞれ自分の家に帰り、わたしをひとりだけ残す時が来るであろう。いや、すでにきている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b4": {
+    "text": "しかし、わたしはひとりでいるのではない。父がわたしと一緒におられるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p10.b1": {
+    "text": "これらのことをあなたがたに話したのは、わたしにあって平安を得るためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p10.b2": {
+    "text": "あなたがたは、この世ではなやみがある。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p10.b3": {
+    "text": "しかし、勇気を出しなさい。わたしはすでに世に勝っている",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

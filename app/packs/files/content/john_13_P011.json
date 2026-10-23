@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_13_P011",
+  "book": "john",
+  "chapter": 13,
+  "page": 11,
+  "ref": "13:31-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "现在人子得了荣耀，　神也在人子身上得了荣耀。"
+      }
+    },
+    {
+      "id": "JOHN_13_P011_F2",
+      "box": [
+        0,
+        0.2253,
+        0.5537,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "孩子们，我和你们在一起的时候不多了；"
+      }
+    },
+    {
+      "id": "JOHN_13_P011_F3",
+      "box": [
+        0.5596,
+        0.2253,
+        0.4404,
+        0.3535
+      ]
+    },
+    {
+      "id": "JOHN_13_P011_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "以后你们会找我，但我要去的地方，你们不能去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P011_B001",
+      "panel": "JOHN_13_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0066,
+        0.4,
+        0.0575
+      ],
+      "tail": [
+        0.78,
+        0.0862
+      ],
+      "text_key": "john.13.p11.b1"
+    },
+    {
+      "id": "JOHN_13_P011_B002",
+      "panel": "JOHN_13_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0166,
+        0.2359,
+        0.2214,
+        0.0919
+      ],
+      "tail": [
+        0.1273,
+        0.3631
+      ],
+      "text_key": "john.13.p11.b2"
+    },
+    {
+      "id": "JOHN_13_P011_B003",
+      "panel": "JOHN_13_P011_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.12,
+        0.5869,
+        0.76,
+        0.0292
+      ],
+      "tail": [
+        0.5,
+        0.6578
+      ],
+      "text_key": "john.13.p11.b3"
+    }
+  ]
+}

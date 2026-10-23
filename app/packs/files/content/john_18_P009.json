@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_18_P009",
+  "book": "john",
+  "chapter": 18,
+  "page": 9,
+  "ref": "18:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "你就这样回答大祭司吗？"
+      }
+    },
+    {
+      "id": "JOHN_18_P009_F2",
+      "box": [
+        0,
+        0.2507,
+        0.2725,
+        0.4544
+      ]
+    },
+    {
+      "id": "JOHN_18_P009_F3",
+      "box": [
+        0.2793,
+        0.2507,
+        0.7207,
+        0.4544
+      ],
+      "alt": {
+        "zh-CN": "如果我说错了，你可以指出错在哪里；如果我说得对，你为什么打我呢？"
+      }
+    },
+    {
+      "id": "JOHN_18_P009_F4",
+      "box": [
+        0,
+        0.7083,
+        1,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "亚那就把耶稣押到大祭司该亚法那里，仍然捆着押去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P009_B001",
+      "panel": "JOHN_18_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6,
+        0.0049,
+        0.25,
+        0.0544
+      ],
+      "tail": [
+        0.725,
+        0.084
+      ],
+      "text_key": "john.18.p9.b1"
+    },
+    {
+      "id": "JOHN_18_P009_B002",
+      "panel": "JOHN_18_P009_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5676,
+        0.3507,
+        0.1873,
+        0.0727
+      ],
+      "tail": [
+        0.6613,
+        0.4688
+      ],
+      "text_key": "john.18.p9.b2"
+    },
+    {
+      "id": "JOHN_18_P009_B003",
+      "panel": "JOHN_18_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.72,
+        0.34,
+        0.0641
+      ],
+      "tail": null,
+      "text_key": "john.18.p9.b3"
+    }
+  ]
+}

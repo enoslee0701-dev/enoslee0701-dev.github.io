@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_20_P007",
+  "book": "john",
+  "chapter": 20,
+  "page": 7,
+  "ref": "20:16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1979
+      ],
+      "alt": {
+        "zh-CN": "耶稣叫她：「马利亚。」"
+      }
+    },
+    {
+      "id": "JOHN_20_P007_F2",
+      "box": [
+        0,
+        0.2005,
+        1,
+        0.112
+      ]
+    },
+    {
+      "id": "JOHN_20_P007_F3",
+      "box": [
+        0,
+        0.3151,
+        1,
+        0.4876
+      ],
+      "alt": {
+        "zh-CN": "马利亚转过身来，用希伯来话对他说：「拉波尼！」"
+      }
+    },
+    {
+      "id": "JOHN_20_P007_F4",
+      "box": [
+        0,
+        0.806,
+        1,
+        0.194
+      ],
+      "alt": {
+        "zh-CN": "「拉波尼」就是「老师」的意思。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P007_B001",
+      "panel": "JOHN_20_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0079,
+        0.4,
+        0.0435
+      ],
+      "tail": [
+        0.76,
+        0.0712
+      ],
+      "text_key": "john.20.p7.b1"
+    },
+    {
+      "id": "JOHN_20_P007_B002",
+      "panel": "JOHN_20_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.3297,
+        0.4,
+        0.0682
+      ],
+      "tail": [
+        0.76,
+        0.4467
+      ],
+      "text_key": "john.20.p7.b2"
+    },
+    {
+      "id": "JOHN_20_P007_B003",
+      "panel": "JOHN_20_P007_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.8254,
+        0.6,
+        0.0582
+      ],
+      "tail": null,
+      "text_key": "john.20.p7.b3"
+    }
+  ]
+}

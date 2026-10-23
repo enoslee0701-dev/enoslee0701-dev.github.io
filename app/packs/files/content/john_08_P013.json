@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_08_P013",
+  "book": "john",
+  "chapter": 8,
+  "page": 13,
+  "ref": "8:42-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "如果上帝是你们的父亲，你们就会爱我，因为我是从上帝那里来的……"
+      }
+    },
+    {
+      "id": "JOHN_08_P013_F2",
+      "box": [
+        0,
+        0.2643,
+        0.5,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "你们为什么不明白我的话呢？"
+      }
+    },
+    {
+      "id": "JOHN_08_P013_F3",
+      "box": [
+        0.5088,
+        0.2643,
+        0.4912,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "你们是出于你们的父亲魔鬼，你们父亲的欲望你们偏要去做。"
+      }
+    },
+    {
+      "id": "JOHN_08_P013_F4",
+      "box": [
+        0,
+        0.5247,
+        1,
+        0.4753
+      ],
+      "alt": {
+        "zh-CN": "你们中间有谁能证明我有罪呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P013_B001",
+      "panel": "JOHN_08_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0078,
+        0.46,
+        0.0469
+      ],
+      "tail": [
+        0.73,
+        0.0808
+      ],
+      "text_key": "john.8.p13.b1"
+    },
+    {
+      "id": "JOHN_08_P013_B002",
+      "panel": "JOHN_08_P013_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.2695,
+        0.18,
+        0.0567
+      ],
+      "tail": [
+        0.11,
+        0.352
+      ],
+      "text_key": "john.8.p13.b2"
+    },
+    {
+      "id": "JOHN_08_P013_B003",
+      "panel": "JOHN_08_P013_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5186,
+        0.4705,
+        0.2456,
+        0.0464
+      ],
+      "tail": [
+        0.6414,
+        0.5221
+      ],
+      "text_key": "john.8.p13.b3"
+    },
+    {
+      "id": "JOHN_08_P013_B004",
+      "panel": "JOHN_08_P013_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.5342,
+        0.3,
+        0.0665
+      ],
+      "tail": [
+        0.47,
+        0.6482
+      ],
+      "text_key": "john.8.p13.b4"
+    }
+  ]
+}

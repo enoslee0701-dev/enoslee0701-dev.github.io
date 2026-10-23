@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_01_P010",
+  "book": "john",
+  "chapter": 1,
+  "page": 10,
+  "ref": "1:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1621
+      ],
+      "alt": {
+        "zh-CN": "第二天，约翰看见耶稣向他走来，就说："
+      }
+    },
+    {
+      "id": "JOHN_01_P010_F2",
+      "box": [
+        0,
+        0.1667,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "「看哪，神的羔羊，除去世人罪孽的那一位！"
+      }
+    },
+    {
+      "id": "JOHN_01_P010_F3",
+      "box": [
+        0,
+        0.5618,
+        1,
+        0.2038
+      ],
+      "alt": {
+        "zh-CN": "这就是我说过的：『有一位在我以后来，却比我更大，因为他本来就在我以前。』"
+      }
+    },
+    {
+      "id": "JOHN_01_P010_F4",
+      "box": [
+        0,
+        0.7708,
+        1,
+        0.2292
+      ],
+      "alt": {
+        "zh-CN": "我原先不认识他；我来用水施洗，是为了让以色列人认出他来。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P010_B001",
+      "panel": "JOHN_01_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.013,
+        0.42,
+        0.1296
+      ],
+      "tail": null,
+      "text_key": "john.1.p10.b1"
+    },
+    {
+      "id": "JOHN_01_P010_B002",
+      "panel": "JOHN_01_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.1784,
+        0.48,
+        0.078
+      ],
+      "tail": [
+        0.27,
+        0.2954
+      ],
+      "text_key": "john.1.p10.b2"
+    },
+    {
+      "id": "JOHN_01_P010_B003",
+      "panel": "JOHN_01_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7045,
+        0.55,
+        0.055
+      ],
+      "tail": [
+        0.305,
+        0.7656
+      ],
+      "text_key": "john.1.p10.b3"
+    },
+    {
+      "id": "JOHN_01_P010_B004",
+      "panel": "JOHN_01_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7937,
+        0.48,
+        0.1833
+      ],
+      "tail": [
+        0.27,
+        0.9999
+      ],
+      "text_key": "john.1.p10.b4"
+    }
+  ]
+}

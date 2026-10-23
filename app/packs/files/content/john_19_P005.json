@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_19_P005",
+  "book": "john",
+  "chapter": 19,
+  "page": 5,
+  "ref": "19:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_19_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_19_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1868
+      ],
+      "alt": {
+        "zh-CN": "从那时起，彼拉多想要释放耶稣，"
+      }
+    },
+    {
+      "id": "JOHN_19_P005_F2",
+      "box": [
+        0,
+        0.1901,
+        1,
+        0.4225
+      ],
+      "alt": {
+        "zh-CN": "你如果释放这个人，就不是凯撒的朋友。凡是自称为王的，就是反叛凯撒。"
+      }
+    },
+    {
+      "id": "JOHN_19_P005_F3",
+      "box": [
+        0.675,
+        0.432,
+        0.32,
+        0.177
+      ]
+    },
+    {
+      "id": "JOHN_19_P005_F4",
+      "box": [
+        0,
+        0.6172,
+        1,
+        0.3828
+      ],
+      "alt": {
+        "zh-CN": "彼拉多听到这话，就把耶稣带出来，到一个叫「铺华石处」的地方，在那里坐上审判台。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_19_P005_B001",
+      "panel": "JOHN_19_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0056,
+        0.3,
+        0.0448
+      ],
+      "tail": null,
+      "text_key": "john.19.p5.b1"
+    },
+    {
+      "id": "JOHN_19_P005_B002",
+      "panel": "JOHN_19_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.01,
+        0.1986,
+        0.32,
+        0.1267
+      ],
+      "tail": [
+        0.17,
+        0.3676
+      ],
+      "text_key": "john.19.p5.b2"
+    },
+    {
+      "id": "JOHN_19_P005_B003",
+      "panel": "JOHN_19_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.8852,
+        0.55,
+        0.1033
+      ],
+      "tail": null,
+      "text_key": "john.19.p5.b3"
+    }
+  ]
+}

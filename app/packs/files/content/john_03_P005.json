@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_03_P005",
+  "book": "john",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.403
+      ],
+      "alt": {
+        "zh-CN": "摩西怎样在旷野把铜蛇举起来，"
+      }
+    },
+    {
+      "id": "JOHN_03_P005_F2",
+      "box": [
+        0,
+        0.4069,
+        1,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "（旷野里的人抬起头，望着举起来的铜蛇。）"
+      }
+    },
+    {
+      "id": "JOHN_03_P005_F3",
+      "box": [
+        0,
+        0.6745,
+        1,
+        0.3255
+      ],
+      "alt": {
+        "zh-CN": "人子也必定要照样被举起来，使一切信他的人都得到永生。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P005_B001",
+      "panel": "JOHN_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.0161,
+        0.4,
+        0.0886
+      ],
+      "tail": [
+        0.24,
+        0.145
+      ],
+      "text_key": "john.3.p5.b1"
+    },
+    {
+      "id": "JOHN_03_P005_B002",
+      "panel": "JOHN_03_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.29,
+        0.682,
+        0.33,
+        0.0699
+      ],
+      "tail": [
+        0.455,
+        0.7845
+      ],
+      "text_key": "john.3.p5.b2"
+    }
+  ]
+}

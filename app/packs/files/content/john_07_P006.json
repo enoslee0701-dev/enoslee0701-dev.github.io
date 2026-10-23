@@ -1,0 +1,106 @@
+{
+  "id": "JOHN_07_P006",
+  "book": "john",
+  "chapter": 7,
+  "page": 6,
+  "ref": "7:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2728
+      ]
+    },
+    {
+      "id": "JOHN_07_P006_F2",
+      "box": [
+        0,
+        0.276,
+        1,
+        0.418
+      ],
+      "alt": {
+        "zh-CN": "这不是他们想要杀的那个人吗？／难道官长真的知道这是基督吗？"
+      }
+    },
+    {
+      "id": "JOHN_07_P006_F3",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "可是我们知道这个人是从哪里来的；基督来的时候，却没有人知道他从哪里来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P006_B001",
+      "panel": "JOHN_07_P006_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.22,
+        0.2802,
+        0.74,
+        0.0418
+      ],
+      "tail": [
+        0.59,
+        0.3638
+      ],
+      "text_key": "john.7.p6.b1"
+    },
+    {
+      "id": "JOHN_07_P006_B002",
+      "panel": "JOHN_07_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.5937,
+        0.42,
+        0.0836
+      ],
+      "tail": [
+        0.23,
+        0.694
+      ],
+      "text_key": "john.7.p6.b2"
+    },
+    {
+      "id": "JOHN_07_P006_B003",
+      "panel": "JOHN_07_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.53,
+        0.7046,
+        0.44,
+        0.0693
+      ],
+      "tail": [
+        0.75,
+        0.804
+      ],
+      "text_key": "john.7.p6.b3"
+    }
+  ]
+}

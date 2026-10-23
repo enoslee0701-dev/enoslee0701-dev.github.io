@@ -1,0 +1,103 @@
+{
+  "id": "JOHN_02_P008",
+  "book": "john",
+  "chapter": 2,
+  "page": 8,
+  "ref": "2:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_02_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_02_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1198
+      ],
+      "alt": {
+        "zh-CN": "（耶稣正视他们。）"
+      }
+    },
+    {
+      "id": "JOHN_02_P008_F2",
+      "box": [
+        0,
+        0.1243,
+        1,
+        0.4974
+      ],
+      "alt": {
+        "zh-CN": "耶稣回答：「你们拆毁这殿，我三天之内要把它再建起来。」"
+      }
+    },
+    {
+      "id": "JOHN_02_P008_F3",
+      "box": [
+        0,
+        0.6257,
+        0.6572,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "犹太人说：「这殿用了四十六年才建成，你三天之内就要把它再建起来吗？」"
+      }
+    },
+    {
+      "id": "JOHN_02_P008_F4",
+      "box": [
+        0.665,
+        0.6257,
+        0.335,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "（他没有再回答。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_02_P008_B001",
+      "panel": "JOHN_02_P008_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.56,
+        0.1392,
+        0.41,
+        0.0994
+      ],
+      "tail": [
+        0.765,
+        0.2883
+      ],
+      "text_key": "john.2.p8.b1"
+    },
+    {
+      "id": "JOHN_02_P008_B002",
+      "panel": "JOHN_02_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0263,
+        0.9027,
+        0.6046,
+        0.086
+      ],
+      "tail": [
+        0.3286,
+        1
+      ],
+      "text_key": "john.2.p8.b2"
+    }
+  ]
+}

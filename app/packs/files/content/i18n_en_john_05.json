@@ -1,0 +1,432 @@
+{
+  "john.5.p1.b1": {
+    "text": "Some time later there was a feast of the Jews, and Jesus went up to Jerusalem.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p1.b2": {
+    "text": "Now there is in Jerusalem near the Sheep Gate a pool with five covered colonnades, … On these walkways lay a great number of the sick, the blind, the lame, and the paralyzed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p1.b3": {
+    "text": "One man there had been an invalid for thirty-eight years.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b1": {
+    "text": "When Jesus saw him lying there and realized that he had spent a long time in this condition,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b2": {
+    "text": "“Do you want to get well?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b3": {
+    "text": "“Sir,” … “I have no one to help me into the pool when the water is stirred.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b4": {
+    "text": "While I am on my way, someone else goes in before me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p3.b1": {
+    "text": "“Get up, pick up your mat, and walk.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p3.b2": {
+    "text": "Immediately the man was made well, and he picked up his mat and began to walk. Now this happened on the Sabbath day,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b1": {
+    "text": "“This is the Sabbath! It is unlawful for you to carry your mat.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b2": {
+    "text": "“The man who made me well told me, ‘Pick up your mat and walk.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b3": {
+    "text": "“Who is this man who told you to pick it up and walk?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b4": {
+    "text": "But the man who was healed did not know who it was, for Jesus had slipped away while the crowd was there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p5.b1": {
+    "text": "Afterward, Jesus found the man at the temple",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p5.b2": {
+    "text": "“See, you have been made well. Stop sinning, or something worse may happen to you.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p5.b3": {
+    "text": "And the man went away and told the Jews that it was Jesus who had made him well.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p6.b1": {
+    "text": "Now because Jesus was doing these things on the Sabbath, the Jews began to persecute Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p6.b2": {
+    "text": "“To this very day My Father is at His work, and I too am working.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p6.b3": {
+    "text": "Because of this, the Jews tried all the harder to kill Him. Not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p7.b1": {
+    "text": "“Truly, truly, I tell you, the Son can do nothing by Himself, unless He sees the Father doing it. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p7.b2": {
+    "text": "For whatever the Father does, the Son also does.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p7.b3": {
+    "text": "The Father loves the Son and shows Him all He does. And to your amazement, He will show Him even greater works than these.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p8.b1": {
+    "text": "For just as the Father raises the dead and gives them life, so also the Son gives life to whom He wishes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p8.b2": {
+    "text": "… Whoever does not honor the Son does not honor the Father who sent Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p8.b3": {
+    "text": "Truly, truly, I tell you, whoever hears My word and believes Him who sent Me has eternal life and will not come under judgment. Indeed, he has crossed over from death to life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p9.b1": {
+    "text": "Truly, truly, I tell you, the hour is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p9.b2": {
+    "text": "Do not be amazed at this,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p9.b3": {
+    "text": "for the hour is coming when all who are in their graves will hear His voice …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p10.b1": {
+    "text": "I can do nothing by Myself; I judge only as I hear. And My judgment is just, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p10.b2": {
+    "text": "If I testify about Myself, My testimony is not valid.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p10.b3": {
+    "text": "There is another who testifies about Me, and I know that His testimony about Me is valid.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p11.b1": {
+    "text": "You have sent to John, and he has testified to the truth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p11.b2": {
+    "text": "… I say these things so that you may be saved.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p11.b3": {
+    "text": "John was a lamp that burned and gave light, and you were willing for a season to bask in his light.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p12.b1": {
+    "text": "… For the works that the Father has given Me to accomplish—the very works I am doing—testify about Me that the Father has sent Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p12.b2": {
+    "text": "And the Father who sent Me has Himself testified about Me. You have never heard His voice nor seen His form,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p12.b3": {
+    "text": "nor does His word abide in you, because you do not believe the One He sent.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p13.b1": {
+    "text": "You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p13.b2": {
+    "text": "yet you refuse to come to Me to have life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b1": {
+    "text": "I have come in My Father’s name, and you have not received Me; …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b2": {
+    "text": "How can you believe if you accept glory from one another, yet do not seek the glory that comes from the only God?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b3": {
+    "text": "If you had believed Moses, you would believe Me, because he wrote about Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b4": {
+    "text": "But since you do not believe what he wrote, how will you believe what I say?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 5:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

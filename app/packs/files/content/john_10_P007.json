@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_10_P007",
+  "book": "john",
+  "chapter": 10,
+  "page": 7,
+  "ref": "10:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P007_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "我另外有羊，不属于这个羊圈；我必须领他们来，他们也会听我的声音，"
+      }
+    },
+    {
+      "id": "JOHN_10_P007_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "而且要合成一群，归一个牧人。"
+      }
+    },
+    {
+      "id": "JOHN_10_P007_F3",
+      "box": [
+        0,
+        0.4486,
+        0.3105,
+        0.5514
+      ],
+      "alt": {
+        "zh-CN": "我父爱我，因为我把命舍去，好再取回来。"
+      }
+    },
+    {
+      "id": "JOHN_10_P007_F4",
+      "box": [
+        0.3184,
+        0.4486,
+        0.6816,
+        0.5514
+      ],
+      "alt": {
+        "zh-CN": "没有人能夺去我的命，是我自己舍的。我有权柄舍去，也有权柄取回来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P007_B001",
+      "panel": "JOHN_10_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0199,
+        0.0133,
+        0.4573,
+        0.0976
+      ],
+      "tail": [
+        0.2486,
+        0.1553
+      ],
+      "text_key": "john.10.p7.b1"
+    },
+    {
+      "id": "JOHN_10_P007_B002",
+      "panel": "JOHN_10_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5247,
+        0.3463,
+        0.4554,
+        0.0843
+      ],
+      "tail": [
+        0.7524,
+        0.444
+      ],
+      "text_key": "john.10.p7.b2"
+    },
+    {
+      "id": "JOHN_10_P007_B003",
+      "panel": "JOHN_10_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0124,
+        0.4596,
+        0.2856,
+        0.1102
+      ],
+      "tail": [
+        0.1552,
+        0.6249
+      ],
+      "text_key": "john.10.p7.b3"
+    },
+    {
+      "id": "JOHN_10_P007_B004",
+      "panel": "JOHN_10_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.6728,
+        0.4596,
+        0.3067,
+        0.1102
+      ],
+      "tail": [
+        0.8262,
+        0.6249
+      ],
+      "text_key": "john.10.p7.b4"
+    }
+  ]
+}

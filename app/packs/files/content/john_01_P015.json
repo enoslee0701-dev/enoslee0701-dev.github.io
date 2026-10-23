@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_01_P015",
+  "book": "john",
+  "chapter": 1,
+  "page": 15,
+  "ref": "1:43-46",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "「来跟从我吧！」"
+      }
+    },
+    {
+      "id": "JOHN_01_P015_F2",
+      "box": [
+        0,
+        0.2604,
+        0.498,
+        0.2995
+      ]
+    },
+    {
+      "id": "JOHN_01_P015_F3",
+      "box": [
+        0.5088,
+        0.2604,
+        0.4912,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "「摩西在律法书上写的、先知们也写过的那一位，我们找到了，就是约瑟的儿子，拿撒勒人耶稣。」"
+      }
+    },
+    {
+      "id": "JOHN_01_P015_F4",
+      "box": [
+        0,
+        0.5645,
+        1,
+        0.4355
+      ],
+      "alt": {
+        "zh-CN": "「你来看看吧！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P015_B001",
+      "panel": "JOHN_01_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.0077,
+        0.27,
+        0.0561
+      ],
+      "tail": [
+        0.585,
+        0.0893
+      ],
+      "text_key": "john.1.p15.b1"
+    },
+    {
+      "id": "JOHN_01_P015_B002",
+      "panel": "JOHN_01_P015_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5235,
+        0.2664,
+        0.2554,
+        0.0599
+      ],
+      "tail": [
+        0.6512,
+        0.3563
+      ],
+      "text_key": "john.1.p15.b2"
+    },
+    {
+      "id": "JOHN_01_P015_B003",
+      "panel": "JOHN_01_P015_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.5732,
+        0.34,
+        0.0587
+      ],
+      "tail": [
+        0.57,
+        0.6755
+      ],
+      "text_key": "john.1.p15.b3"
+    },
+    {
+      "id": "JOHN_01_P015_B004",
+      "panel": "JOHN_01_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4,
+        0.6407,
+        0.34,
+        0.0195
+      ],
+      "tail": [
+        0.57,
+        0.7038
+      ],
+      "text_key": "john.1.p15.b4"
+    }
+  ]
+}

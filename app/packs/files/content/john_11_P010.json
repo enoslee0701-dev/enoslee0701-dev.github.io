@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_11_P010",
+  "book": "john",
+  "chapter": 11,
+  "page": 10,
+  "ref": "11:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2858
+      ]
+    },
+    {
+      "id": "JOHN_11_P010_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.3835
+      ],
+      "alt": {
+        "zh-CN": "耶稣流泪了。"
+      }
+    },
+    {
+      "id": "JOHN_11_P010_F3",
+      "box": [
+        0,
+        0.6751,
+        0.5186,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "你看，他多么爱这个人！"
+      }
+    },
+    {
+      "id": "JOHN_11_P010_F4",
+      "box": [
+        0.5244,
+        0.6751,
+        0.4756,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "他既然能开瞎子的眼睛，难道不能让这人不死吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P010_B001",
+      "panel": "JOHN_11_P010_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.72,
+        0.5959,
+        0.26,
+        0.0536
+      ],
+      "tail": null,
+      "text_key": "john.11.p10.b1"
+    },
+    {
+      "id": "JOHN_11_P010_B002",
+      "panel": "JOHN_11_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0207,
+        0.6816,
+        0.4667,
+        0.0422
+      ],
+      "tail": [
+        0.2541,
+        0.7563
+      ],
+      "text_key": "john.11.p10.b2"
+    },
+    {
+      "id": "JOHN_11_P010_B003",
+      "panel": "JOHN_11_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5434,
+        0.6816,
+        0.4375,
+        0.0389
+      ],
+      "tail": [
+        0.7622,
+        0.753
+      ],
+      "text_key": "john.11.p10.b3"
+    }
+  ]
+}

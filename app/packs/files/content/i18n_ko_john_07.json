@@ -1,0 +1,492 @@
+{
+  "john.7.p1.b1": {
+    "text": "이후에 예수께서 갈릴리에서 다니시고 유대에서 다니려 아니하심은 유대인들이 죽이려 함이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p1.b2": {
+    "text": "유대인의 명절인 초막절이 가까운지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p1.b3": {
+    "text": "당신의 행하는 일을 제자들도 보게 여기를 떠나 유대로 가소서 … 이 일을 행하려 하거든 자신을 세상에 나타내소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:3-4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p1.b4": {
+    "text": "이는 그 형제들이라도 예수를 믿지 아니함이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p2.b1": {
+    "text": "내 때는 아직 이르지 아니하였거니와 너희 때는 늘 준비되어 있느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p2.b2": {
+    "text": "세상이 너희를 미워하지 못하되 나를 미워하나니 이는 내가 세상의 행사를 악하다 증거함이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p2.b3": {
+    "text": "너희는 명절에 올라가라 나는 내 때가 아직 차지 못하였으니 이 명절에 아직 올라가지 아니하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p2.b4": {
+    "text": "이 말씀을 하시고 갈릴리에 머물러 계시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p3.b1": {
+    "text": "그 형제들이 명절에 올라간 후 자기도 올라가시되 나타내지 않고 비밀히 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p3.b2": {
+    "text": "그가 어디 있느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p3.b3": {
+    "text": "좋은 사람이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p3.b4": {
+    "text": "아니라 무리를 미혹하게 한다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p4.b1": {
+    "text": "이미 명절의 중간이 되어 예수께서 성전에 올라가사 가르치시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p4.b2": {
+    "text": "이 사람은 배우지 아니하였거늘 어떻게 글을 아느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p4.b3": {
+    "text": "내 교훈은 내 것이 아니요 나를 보내신 이의 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p4.b4": {
+    "text": "사람이 하나님의 뜻을 행하려 하면 이 교훈이 하나님께로서 왔는지 내가 스스로 말함인지 알리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p5.b1": {
+    "text": "모세가 너희에게 율법을 주지 아니하였느냐 너희 중에 율법을 지키는 자가 없도다 너희가 어찌하여 나를 죽이려 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p5.b2": {
+    "text": "당신은 귀신이 들렸도다 누가 당신을 죽이려 하나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p5.b3": {
+    "text": "… 내가 안식일에 사람의 전신을 건전케 한 것으로 너희가 나를 노여워하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p5.b4": {
+    "text": "외모로 판단하지 말고 공의의 판단으로 판단하라 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p6.b1": {
+    "text": "이는 저희가 죽이고자 하는 그 사람이 아니냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p6.b2": {
+    "text": "당국자들은 이 사람을 참으로 그리스도인 줄 알았는가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p6.b3": {
+    "text": "그러나 우리는 이 사람이 어디서 왔는지 아노라 그리스도께서 오실 때에는 어디서 오시는지 아는 자가 없으리라 하는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p7.b1": {
+    "text": "너희가 나를 알고 내가 어디서 온 것도 알거니와 내가 스스로 온 것이 아니로라 나를 보내신 이는 참이시니 너희는 그를 알지 못하나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p7.b2": {
+    "text": "저희가 예수를 잡고자 하나 손을 대는 자가 없으니 이는 그의 때가 아직 이르지 아니하였음이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p7.b3": {
+    "text": "그리스도께서 오실지라도 그 행하실 표적이 이 사람의 행한 것보다 더 많으랴",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p8.b1": {
+    "text": "예수께 대하여 무리의 수군거리는 것이 바리새인들에게 들린지라 대제사장들과 바리새인들이 그를 잡으려고 하속들을 보내니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p8.b2": {
+    "text": "내가 너희와 함께 조금 더 있다가 나를 보내신 이에게로 돌아가겠노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p8.b3": {
+    "text": "너희가 나를 찾아도 만나지 못할 터이요 나 있는 곳에 오지도 못하리라 하신대",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p8.b4": {
+    "text": "이 사람이 어디로 가기에 우리가 저를 만나지 못하리요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p9.b1": {
+    "text": "명절 끝날 곧 큰날에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p9.b2": {
+    "text": "누구든지 목마르거든 내게로 와서 마시라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p9.b3": {
+    "text": "나를 믿는 자는 성경에 이름과 같이 그 배에서 생수의 강이 흘러나리라 하시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p9.b4": {
+    "text": "이는 그를 믿는 자의 받을 성령을 가리켜 말씀하신 것이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p10.b1": {
+    "text": "이가 참으로 그 선지자라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p10.b2": {
+    "text": "그리스도라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p10.b3": {
+    "text": "그리스도가 어찌 갈릴리에서 나오겠느냐 성경에 이르기를 그리스도는 다윗의 씨로 또 다윗의 살던 촌 베들레헴에서 나오리라 하지 아니하였느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:41-42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p10.b4": {
+    "text": "예수를 인하여 무리 중에서 쟁론이 되니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p10.b5": {
+    "text": "그 중에는 그를 잡고자 하는 자들도 있으나 손을 대는 자가 없었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p11.b1": {
+    "text": "하속들이 대제사장들과 바리새인들에게로 오니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p11.b2": {
+    "text": "어찌하여 잡아오지 아니하였느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p11.b3": {
+    "text": "그 사람의 말하는 것처럼 말한 사람은 이때까지 없었나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p11.b4": {
+    "text": "너희도 미혹되었느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p12.b1": {
+    "text": "당국자들이나 바리새인 중에 그를 믿는 이가 있느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p12.b2": {
+    "text": "율법을 알지 못하는 이 무리는 저주를 받은 자로다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p12.b3": {
+    "text": "그 중에 한 사람 곧 전에 예수께 왔던 니고데모가 저희에게 말하되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p12.b4": {
+    "text": "우리 율법은 사람의 말을 듣고 그 행한 것을 알기 전에 판결하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p13.b1": {
+    "text": "너도 갈릴리에서 왔느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.7.p13.b2": {
+    "text": "상고하여 보라 갈릴리에서는 선지자가 나지 못하느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 7:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

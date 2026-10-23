@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_18_P015",
+  "book": "john",
+  "chapter": 18,
+  "page": 15,
+  "ref": "18:39-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "但你们有个惯例，在逾越节要我释放一个人给你们；你们要我释放犹太人的王给你们吗？"
+      }
+    },
+    {
+      "id": "JOHN_18_P015_F2",
+      "box": [
+        0,
+        0.304,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "不要这个人，要巴拉巴！"
+      }
+    },
+    {
+      "id": "JOHN_18_P015_F3",
+      "box": [
+        0,
+        0.6992,
+        0.5254,
+        0.3008
+      ]
+    },
+    {
+      "id": "JOHN_18_P015_F4",
+      "box": [
+        0.5322,
+        0.6992,
+        0.4678,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "这巴拉巴是个强盗。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P015_B001",
+      "panel": "JOHN_18_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.009,
+        0.6,
+        0.0778
+      ],
+      "tail": [
+        0.5,
+        0.1168
+      ],
+      "text_key": "john.18.p15.b1"
+    },
+    {
+      "id": "JOHN_18_P015_B002",
+      "panel": "JOHN_18_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.5,
+        0.3157,
+        0.46,
+        0.0702
+      ],
+      "tail": [
+        0.73,
+        0.4249
+      ],
+      "text_key": "john.18.p15.b2"
+    },
+    {
+      "id": "JOHN_18_P015_B003",
+      "panel": "JOHN_18_P015_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5509,
+        0.7112,
+        0.1871,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "john.18.p15.b3"
+    }
+  ]
+}

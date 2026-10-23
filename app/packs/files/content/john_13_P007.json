@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_13_P007",
+  "book": "john",
+  "chapter": 13,
+  "page": 7,
+  "ref": "13:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "耶稣说了这些话，心里很难过，就明白地说："
+      }
+    },
+    {
+      "id": "JOHN_13_P007_F2",
+      "box": [
+        0,
+        0.2077,
+        0.5625,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，你们当中有一个人要出卖我。"
+      }
+    },
+    {
+      "id": "JOHN_13_P007_F3",
+      "box": [
+        0.5693,
+        0.2077,
+        0.4307,
+        0.3027
+      ]
+    },
+    {
+      "id": "JOHN_13_P007_F4",
+      "box": [
+        0,
+        0.515,
+        1,
+        0.485
+      ],
+      "alt": {
+        "zh-CN": "门徒们你看我、我看你，猜不出他说的是谁。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P007_B001",
+      "panel": "JOHN_13_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0123,
+        0.28,
+        0.143
+      ],
+      "tail": null,
+      "text_key": "john.13.p7.b1"
+    },
+    {
+      "id": "JOHN_13_P007_B002",
+      "panel": "JOHN_13_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0169,
+        0.2138,
+        0.2362,
+        0.0847
+      ],
+      "tail": [
+        0.135,
+        0.3288
+      ],
+      "text_key": "john.13.p7.b2"
+    },
+    {
+      "id": "JOHN_13_P007_B003",
+      "panel": "JOHN_13_P007_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.5247,
+        0.5,
+        0.063
+      ],
+      "tail": null,
+      "text_key": "john.13.p7.b3"
+    }
+  ]
+}

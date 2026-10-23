@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_21_P006",
+  "book": "john",
+  "chapter": 21,
+  "page": 6,
+  "ref": "21:15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_21_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_21_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "他们吃完早饭以后，耶稣对西门彼得说："
+      }
+    },
+    {
+      "id": "JOHN_21_P006_F2",
+      "box": [
+        0,
+        0.2441,
+        0.498,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "约翰的儿子西门，你爱我胜过这些人吗？"
+      }
+    },
+    {
+      "id": "JOHN_21_P006_F3",
+      "box": [
+        0.5049,
+        0.2441,
+        0.4951,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "主啊，是的，你知道我爱你。"
+      }
+    },
+    {
+      "id": "JOHN_21_P006_F4",
+      "box": [
+        0,
+        0.5944,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "你要喂养我的小羊。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_21_P006_B001",
+      "panel": "JOHN_21_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.72,
+        0.0048,
+        0.26,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "john.21.p6.b1"
+    },
+    {
+      "id": "JOHN_21_P006_B002",
+      "panel": "JOHN_21_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2888,
+        0.2545,
+        0.1942,
+        0.0692
+      ],
+      "tail": [
+        0.3859,
+        0.3583
+      ],
+      "text_key": "john.21.p6.b2"
+    },
+    {
+      "id": "JOHN_21_P006_B003",
+      "panel": "JOHN_21_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5198,
+        0.2545,
+        0.198,
+        0.0692
+      ],
+      "tail": [
+        0.6188,
+        0.3583
+      ],
+      "text_key": "john.21.p6.b3"
+    },
+    {
+      "id": "JOHN_21_P006_B004",
+      "panel": "JOHN_21_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.39,
+        0.6066,
+        0.24,
+        0.0486
+      ],
+      "tail": [
+        0.51,
+        0.6958
+      ],
+      "text_key": "john.21.p6.b4"
+    }
+  ]
+}

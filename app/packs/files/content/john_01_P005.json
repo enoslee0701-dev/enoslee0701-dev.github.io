@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_01_P005",
+  "book": "john",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "凡接待他、信他名的人，"
+      }
+    },
+    {
+      "id": "JOHN_01_P005_F2",
+      "box": [
+        0,
+        0.2454,
+        0.6758,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "他就给他们权柄，成为神的儿女。"
+      }
+    },
+    {
+      "id": "JOHN_01_P005_F3",
+      "box": [
+        0.6807,
+        0.2454,
+        0.3193,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "（窗后的孩子望着外面的光。）"
+      }
+    },
+    {
+      "id": "JOHN_01_P005_F4",
+      "box": [
+        0,
+        0.5332,
+        1,
+        0.4668
+      ],
+      "alt": {
+        "zh-CN": "他们不是从血统生的，不是从肉体的意思生的，也不是从人的意思生的，而是从神生的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P005_B001",
+      "panel": "JOHN_01_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.0121,
+        0.31,
+        0.0726
+      ],
+      "tail": null,
+      "text_key": "john.1.p5.b1"
+    },
+    {
+      "id": "JOHN_01_P005_B002",
+      "panel": "JOHN_01_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0203,
+        0.2539,
+        0.3041,
+        0.0483
+      ],
+      "tail": null,
+      "text_key": "john.1.p5.b2"
+    },
+    {
+      "id": "JOHN_01_P005_B003",
+      "panel": "JOHN_01_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5472,
+        0.66,
+        0.07
+      ],
+      "tail": null,
+      "text_key": "john.1.p5.b3"
+    }
+  ]
+}

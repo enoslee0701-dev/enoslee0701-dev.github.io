@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_02_P010",
+  "book": "john",
+  "chapter": 2,
+  "page": 10,
+  "ref": "2:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_02_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_02_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "耶稣在耶路撒冷过逾越节的时候，"
+      }
+    },
+    {
+      "id": "JOHN_02_P010_F2",
+      "box": [
+        0,
+        0.3294,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "许多人看见他行的神迹，就信了他的名。"
+      }
+    },
+    {
+      "id": "JOHN_02_P010_F3",
+      "box": [
+        0,
+        0.5911,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "耶稣却不把自己交托给他们，因为他认识所有的人，也不需要谁告诉他人是怎样的；他知道人心里想的是什么。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_02_P010_B001",
+      "panel": "JOHN_02_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0097,
+        0.55,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "john.2.p10.b1"
+    },
+    {
+      "id": "JOHN_02_P010_B002",
+      "panel": "JOHN_02_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5491,
+        0.92,
+        0.0336
+      ],
+      "tail": null,
+      "text_key": "john.2.p10.b2"
+    },
+    {
+      "id": "JOHN_02_P010_B003",
+      "panel": "JOHN_02_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6034,
+        0.42,
+        0.0981
+      ],
+      "tail": null,
+      "text_key": "john.2.p10.b3"
+    }
+  ]
+}

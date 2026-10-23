@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_01_P017",
+  "book": "john",
+  "chapter": 1,
+  "page": 17,
+  "ref": "1:50-51",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "「因为我说在无花果树下看见你，你就信了吗？你将要看见比这更大的事。」"
+      }
+    },
+    {
+      "id": "JOHN_01_P017_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.1693
+      ],
+      "alt": {
+        "zh-CN": "「我实在告诉你们，」"
+      }
+    },
+    {
+      "id": "JOHN_01_P017_F3",
+      "box": [
+        0,
+        0.4141,
+        1,
+        0.373
+      ],
+      "alt": {
+        "zh-CN": "「你们将要看见天开了，神的使者在人子身上上去下来。」"
+      }
+    },
+    {
+      "id": "JOHN_01_P017_F4",
+      "box": [
+        0,
+        0.7917,
+        1,
+        0.2083
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P017_B001",
+      "panel": "JOHN_01_P017_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0095,
+        0.4,
+        0.0663
+      ],
+      "tail": [
+        0.23,
+        0.0995
+      ],
+      "text_key": "john.1.p17.b1"
+    },
+    {
+      "id": "JOHN_01_P017_B002",
+      "panel": "JOHN_01_P017_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.246,
+        0.3,
+        0.0372
+      ],
+      "tail": [
+        0.45,
+        0.3001
+      ],
+      "text_key": "john.1.p17.b2"
+    },
+    {
+      "id": "JOHN_01_P017_B003",
+      "panel": "JOHN_01_P017_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.429,
+        0.6,
+        0.082
+      ],
+      "tail": [
+        0.5,
+        0.5483
+      ],
+      "text_key": "john.1.p17.b3"
+    }
+  ]
+}

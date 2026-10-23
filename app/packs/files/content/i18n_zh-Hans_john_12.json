@@ -1,0 +1,673 @@
+{
+  "john.12.p1.b1": {
+    "text": "逾越节前六日，耶稣来到伯大尼，就是他叫拉撒路从死里复活之处。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "逾⁠越⁠节前六⁠日，耶⁠稣来⁠到伯⁠大⁠尼，就⁠是他叫拉撒路从死里复⁠活之处。"
+  },
+  "john.12.p1.b2": {
+    "text": "有人在那里给耶稣预备筵席；马大伺候，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠人在那⁠里给耶⁠稣预⁠备筵⁠席；马大伺⁠候，"
+  },
+  "john.12.p1.b3": {
+    "text": "拉撒路也在那同耶稣坐席的人中。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "拉撒路也⁠在那同耶⁠稣坐⁠席的人⁠中。"
+  },
+  "john.12.p2.b1": {
+    "text": "马利亚就拿着一斤极贵的真哪哒香膏，抹耶稣的脚，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "马⁠利⁠亚就⁠拿着一⁠斤极贵⁠的真哪⁠哒香⁠膏，抹耶⁠稣的脚，"
+  },
+  "john.12.p2.b2": {
+    "text": "又用自己头发去擦，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又用自⁠己头⁠发去擦，"
+  },
+  "john.12.p2.b3": {
+    "text": "屋里就满了膏的香气。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "屋里就满⁠了膏的香⁠气。"
+  },
+  "john.12.p3.b1": {
+    "text": "有一个门徒，就是那将要卖耶稣的加略人犹大，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个门⁠徒，就⁠是那将⁠要卖耶⁠稣的加⁠略人犹⁠大，"
+  },
+  "john.12.p3.b2": {
+    "text": "这香膏为什么不卖三十两银子周济穷人呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这香⁠膏为⁠什⁠么不卖三⁠十两银⁠子周⁠济穷⁠人呢？"
+  },
+  "john.12.p3.b3": {
+    "text": "他说这话，并不是挂念穷人，乃因他是个贼，又带着钱囊，常取其中所存的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他说这话，并⁠不是挂⁠念穷⁠人，乃因他⁠是个贼，又带着钱囊，常取其⁠中所⁠存的。"
+  },
+  "john.12.p4.b1": {
+    "text": "由她吧！她是为我安葬之日存留的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "由她吧！她⁠是为⁠我安⁠葬之日存⁠留的。"
+  },
+  "john.12.p4.b2": {
+    "text": "因为常有穷人和你们同在，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为常⁠有穷⁠人和你⁠们同在，"
+  },
+  "john.12.p4.b3": {
+    "text": "只是你们不常有我。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是你⁠们不常⁠有我。"
+  },
+  "john.12.p5.b1": {
+    "text": "有许多犹太人知道耶稣在那里，就来了，……也是要看他从死里所复活的拉撒路。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有许⁠多犹⁠太⁠人知⁠道耶⁠稣在那⁠里，就来了，……也⁠是要看他从死里所复⁠活的拉撒路。"
+  },
+  "john.12.p5.b2": {
+    "text": "但祭司长商议连拉撒路也要杀了；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但祭⁠司⁠长商⁠议连拉撒路也⁠要杀了；"
+  },
+  "john.12.p5.b3": {
+    "text": "因有好些犹太人为拉撒路的缘故，回去信了耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因有好⁠些犹⁠太⁠人为拉撒路的缘⁠故，回⁠去信了耶⁠稣。"
+  },
+  "john.12.p6.b1": {
+    "text": "第二天，有许多上来过节的人听见耶稣将到耶路撒冷，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "第⁠二天，有许⁠多上⁠来过⁠节的人听⁠见耶⁠稣将到耶⁠路撒⁠冷，"
+  },
+  "john.12.p6.b2": {
+    "text": "就拿着棕树枝出去迎接他，喊着说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠拿着棕⁠树枝出⁠去迎⁠接他，喊着说："
+  },
+  "john.12.p6.b3": {
+    "text": "和散那！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "和⁠散⁠那！"
+  },
+  "john.12.p6.b4": {
+    "text": "奉主名来的以色列王是应当称颂的！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "奉主名来的以⁠色⁠列王是应⁠当称⁠颂的！"
+  },
+  "john.12.p7.b1": {
+    "text": "耶稣得了一个驴驹，就骑上，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣得⁠了一⁠个驴驹，就骑⁠上，"
+  },
+  "john.12.p7.b2": {
+    "text": "锡安的民哪，不要惧怕！你的王骑着驴驹来了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "锡安的民哪，不⁠要惧⁠怕！你⁠的王骑着驴驹来了。"
+  },
+  "john.12.p7.b3": {
+    "text": "这些事门徒起先不明白，等到耶稣得了荣耀以后才想起这话是指着他写的，……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠些事门⁠徒起⁠先不明⁠白，等⁠到耶⁠稣得⁠了荣⁠耀以⁠后才想⁠起这话是指着他写⁠的，……"
+  },
+  "john.12.p8.b1": {
+    "text": "当耶稣呼唤拉撒路，叫他从死复活出坟墓的时候，同耶稣在那里的众人就作见证。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "当耶⁠稣呼⁠唤拉撒路，叫他从死复⁠活出坟⁠墓的时⁠候，同耶⁠稣在那⁠里的众⁠人就作见⁠证。"
+  },
+  "john.12.p8.b2": {
+    "text": "众人因听见耶稣行了这神迹，就去迎接他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众⁠人因听⁠见耶⁠稣行了这神⁠迹，就⁠去迎⁠接他。"
+  },
+  "john.12.p8.b3": {
+    "text": "看哪，你们是徒劳无益，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，你⁠们是徒⁠劳无⁠益，"
+  },
+  "john.12.p8.b4": {
+    "text": "世人都随从他去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "世⁠人都随⁠从他去⁠了。"
+  },
+  "john.12.p9.b1": {
+    "text": "那时，上来过节礼拜的人中，有几个希腊人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那⁠时，上⁠来过⁠节礼⁠拜的人⁠中，有几⁠个希⁠腊人。"
+  },
+  "john.12.p9.b2": {
+    "text": "先生，我们愿意见耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "先⁠生，我⁠们愿意⁠见耶⁠稣。"
+  },
+  "john.12.p9.b3": {
+    "text": "腓力去告诉安得烈，安得烈同腓力去告诉耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "腓⁠力去告⁠诉安⁠得⁠烈，安⁠得⁠烈同腓⁠力去告⁠诉耶⁠稣。"
+  },
+  "john.12.p10.b1": {
+    "text": "人子得荣耀的时候到了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人⁠子得荣⁠耀的时⁠候到⁠了。"
+  },
+  "john.12.p10.b2": {
+    "text": "我实实在在地告诉你们，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实实⁠在在地告⁠诉你⁠们，"
+  },
+  "john.12.p10.b3": {
+    "text": "一粒麦子不落在地里死了，仍旧是一粒……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "一⁠粒麦⁠子不落⁠在地里死⁠了，仍⁠旧是一⁠粒……"
+  },
+  "john.12.p10.b4": {
+    "text": "若是死了，就结出许多子粒来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠是死⁠了，就结⁠出许⁠多子粒来。"
+  },
+  "john.12.p11.b1": {
+    "text": "爱惜自己生命的，就失丧生命；在这世上恨恶自己生命的，就要保守生命到永生。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "爱⁠惜自⁠己生⁠命的，就失丧生⁠命；在这世⁠上恨恶自⁠己生⁠命的，就⁠要保⁠守生⁠命到永⁠生。"
+  },
+  "john.12.p11.b2": {
+    "text": "若有人服事我，就当跟从我；我在哪里，服事我的人也要在那里；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠有人服事我，就当跟从我；我⁠在哪⁠里，服事我⁠的人也⁠要在那⁠里；"
+  },
+  "john.12.p11.b3": {
+    "text": "若有人服事我，我父必尊重他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠有人服事我，我父必尊⁠重他。"
+  },
+  "john.12.p12.b1": {
+    "text": "我现在心里忧愁，我说什么才好呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我现⁠在心⁠里忧⁠愁，我说什⁠么才⁠好呢？"
+  },
+  "john.12.p12.b2": {
+    "text": "父啊，救我脱离这时候；但我原是为这时候来的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "父啊，救我脱⁠离这时⁠候；但我原⁠是为这时⁠候来的。"
+  },
+  "john.12.p12.b3": {
+    "text": "父啊，愿你荣耀你的名！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "父啊，愿你荣⁠耀你⁠的名！"
+  },
+  "john.12.p12.b4": {
+    "text": "我已经荣耀了我的名，还要再荣耀。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我已⁠经荣⁠耀了我⁠的名，还要再荣⁠耀。"
+  },
+  "john.12.p13.b1": {
+    "text": "打雷了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "打⁠雷了。"
+  },
+  "john.12.p13.b2": {
+    "text": "有天使对他说话。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有天⁠使对他说⁠话。"
+  },
+  "john.12.p13.b3": {
+    "text": "这声音不是为我，是为你们来的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这声⁠音不⁠是为⁠我，是为你⁠们来的。"
+  },
+  "john.12.p13.b4": {
+    "text": "现在这世界受审判，这世界的王要被赶出去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "现⁠在这世⁠界受审⁠判，这世⁠界的王要被赶⁠出⁠去。"
+  },
+  "john.12.p13.b5": {
+    "text": "我若从地上被举起来，就要吸引万人来归我。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我若从地⁠上被举⁠起⁠来，就⁠要吸⁠引万⁠人来归我。"
+  },
+  "john.12.p13.b6": {
+    "text": "耶稣这话原是指着自己将要怎样死说的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣这话原⁠是指着自⁠己将⁠要怎⁠样死说⁠的。"
+  },
+  "john.12.p14.b1": {
+    "text": "……基督是永存的，你怎么说「人子必须被举起来」呢？这人子是谁呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……基⁠督是永⁠存的，你怎⁠么⁠说「人⁠子必⁠须被举⁠起⁠来」呢？这人⁠子是谁呢？"
+  },
+  "john.12.p14.b2": {
+    "text": "光在你们中间还有不多的时候，应当趁着有光行走，免得黑暗临到你们；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "光在你⁠们中⁠间还⁠有不⁠多的时⁠候，应⁠当趁着有⁠光行⁠走，免⁠得黑⁠暗临⁠到你⁠们；"
+  },
+  "john.12.p14.b3": {
+    "text": "你们应当趁着有光，信从这光，使你们成为光明之子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们应⁠当趁着有⁠光，信从这光，使你⁠们成⁠为光⁠明之⁠子。"
+  },
+  "john.12.p14.b4": {
+    "text": "耶稣说了这话，就离开他们隐藏了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣说了这话，就离⁠开他⁠们隐⁠藏了。"
+  },
+  "john.12.p15.b1": {
+    "text": "他虽然在他们面前行了许多神迹，他们还是不信他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他虽⁠然在他⁠们面⁠前行了许⁠多神⁠迹，他⁠们还⁠是不⁠信他。"
+  },
+  "john.12.p15.b2": {
+    "text": "主啊，我们所传的有谁信呢？主的膀臂向谁显露呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主啊，我⁠们所传的有谁信呢？主的膀⁠臂向谁显⁠露呢？"
+  },
+  "john.12.p15.b3": {
+    "text": "主叫他们瞎了眼，硬了心，免得他们眼睛看见，心里明白，回转过来，我就医治他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主叫他⁠们瞎⁠了⁠眼，硬了心，免⁠得他⁠们眼⁠睛看⁠见，心⁠里明⁠白，回转⁠过⁠来，我就医⁠治他⁠们。"
+  },
+  "john.12.p16.b1": {
+    "text": "虽然如此，官长中却有好些信他的，只因法利赛人的缘故，就不承认，恐怕被赶出会堂。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "虽⁠然如⁠此，官长中却有好⁠些信他⁠的，只⁠因法⁠利⁠赛人的缘⁠故，就⁠不承⁠认，恐⁠怕被赶⁠出会⁠堂。"
+  },
+  "john.12.p16.b2": {
+    "text": "这是因他们爱人的荣耀过于爱　神的荣耀。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这是因他⁠们爱⁠人的荣⁠耀过⁠于爱　神的荣⁠耀。"
+  },
+  "john.12.p16.b3": {
+    "text": "信我的，不是信我，乃是信那差我来的。人看见我，就是看见那差我来的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:44-45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "信我⁠的，不⁠是信我，乃⁠是信那差我⁠来的。人看⁠见我，就⁠是看⁠见那差我⁠来的。"
+  },
+  "john.12.p16.b4": {
+    "text": "我到世上来，乃是光，叫凡信我的，不住在黑暗里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠到世⁠上来，乃⁠是光，叫凡信我⁠的，不⁠住在黑⁠暗里。"
+  },
+  "john.12.p17.b1": {
+    "text": "若有人听见我的话不遵守，我不审判他。我来本不是要审判世界，乃是要拯救世界。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠有人听⁠见我的⁠话不遵⁠守，我⁠不审⁠判他。我⁠来本不⁠是要审⁠判世⁠界，乃⁠是要拯⁠救世⁠界。"
+  },
+  "john.12.p17.b2": {
+    "text": "弃绝我、不领受我话的人，有审判他的—就是我所讲的道在末日要审判他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "弃⁠绝我、不领⁠受我话的人，有审⁠判他⁠的—就⁠是我所讲⁠的道在末⁠日要审⁠判他。"
+  },
+  "john.12.p17.b3": {
+    "text": "……惟有差我来的父已经给我命令，叫我说什么，讲什么。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……惟⁠有差我⁠来的父已⁠经给我命⁠令，叫我说什⁠么，讲什⁠么。"
+  },
+  "john.12.p17.b4": {
+    "text": "我也知道他的命令就是永生。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 12:50"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠也知⁠道他⁠的命⁠令就⁠是永⁠生。"
+  }
+}

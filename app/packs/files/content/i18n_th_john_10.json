@@ -1,0 +1,462 @@
+{
+  "john.10.p1.b1": {
+    "text": "“พวก​ท่าน​ฟาริสี เรา​บอก​ความ​จริง​ว่า คน​ที่​ไม่ได้​เข้า​คอก​แกะ​ทาง​ประตู​แต่​ปีน​เข้า​ทาง​อื่น ก็​เป็น​ขโมย​และ​โจร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p1.b2": {
+    "text": "ส่วน​คน​ที่​เข้า​ทาง​ประตู​คือ​คน​เลี้ยง​แกะ ยาม​เปิด​ประตู​ให้​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p1.b3": {
+    "text": "และ​แกะ​ฟัง​เสียง​ของ​เขา เขา​เรียก​ชื่อ​แกะ​และ​นำ​ฝูง​แกะ​ออก​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b1": {
+    "text": "เมื่อ​นำ​แกะ​ออก​มา​ทั้งหมด​แล้ว เขา​ก็​เดิน​นำ​หน้า พวก​แกะ​ก็​ตาม​ไป​เพราะ​รู้จัก​เสียง​ของ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b2": {
+    "text": "แต่​แกะ​จะ​ไม่​มี​วัน​ตาม​คน​แปลก​หน้า อัน​ที่​จริง​พวก​มัน​จะ​วิ่ง​หนี​เพราะ​ไม่​รู้จัก​เสียง​ของ​คน​แปลก​หน้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b3": {
+    "text": "พระเยซู​ใช้​คำ​พูด​ใน​เชิง​เปรียบ​เทียบ​นี้ แต่​พวก​ฟาริสี​ไม่​เข้าใจ​ว่า​พระองค์​กำลัง​บอก​อะไร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b1": {
+    "text": "“เรา​บอก​ความ​จริง​ว่า เรา​เป็น​ประตู​สำหรับ​แกะ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b2": {
+    "text": "เรา​เป็น​ประตู​นั้น ใคร​เข้า​มา​ทาง​เรา​จะ​รอด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b3": {
+    "text": "เขา​จะ​เข้า​ออก​และ​พบ​ทุ่ง​หญ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b1": {
+    "text": "ขโมย​มา​เพื่อ​ฉกชิง ฆ่า และ​ทำลาย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b2": {
+    "text": "แต่​เรา​มา​เพื่อ​พวก​เขา​จะ​มี​ชีวิต และ​มี​อย่าง​บริบูรณ์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b3": {
+    "text": "เรา​เป็น​คน​เลี้ยง​แกะ​ที่​ดี คน​เลี้ยง​ที่​ดี​ย่อม​สละ​ชีวิต​เพื่อ​ฝูง​แกะ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b1": {
+    "text": "คน​รับจ้าง​ไม่​ใช่​คน​เลี้ยง​ซึ่ง​เป็น​เจ้า​ของ​แกะ ดังนั้น​เมื่อ​เห็น​หมา​ป่า​มา เขา​ก็​ละทิ้ง​ฝูง​แกะ​และ​หนี​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b2": {
+    "text": "แล้ว​หมา​ป่า​ก็​เข้า​ทำร้าย​ฝูง​แกะ​และ​ทำ​ให้​กระจัด​กระจาย​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b3": {
+    "text": "คน​นั้น​หนี​เพราะ​เขา​เป็น​คน​รับจ้าง​และ​ไม่​ห่วง​แกะ​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b1": {
+    "text": "เรา​เป็น​คน​เลี้ยง​แกะ​ที่​ดี เรา​รู้จัก​แกะ​ของ​เรา​และ​แกะ​ของ​เรา​รู้จัก​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b2": {
+    "text": "เหมือน​กับ​ที่​พระบิดา​รู้จัก​เรา​และ​เรา​รู้จัก​พระบิดา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b3": {
+    "text": "และ​เรา​ยอม​สละ​ชีวิต​ของ​เรา​เพื่อ​แกะ​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b1": {
+    "text": "เรา​มี​แกะ​อื่น​ที่​ไม่​ใช่​ของ​คอก​นี้​ซึ่ง​เรา​ต้อง​พา​มา​ด้วย แกะ​เหล่า​นั้น​จะ​ฟัง​เสียง​ของ​เรา​เช่น​กัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b2": {
+    "text": "และ​จะ​รวม​กัน​เป็น​ฝูง​เดียว มี​คน​เลี้ยง​คน​เดียว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b3": {
+    "text": "เหตุผล​ที่​พระบิดา​ของ​เรา​รัก​เรา ก็​เพราะ​เรา​ยอม​สละ​ชีวิต​ของ​เรา​เพียง​เพื่อ​จะ​รับ​ชีวิต​นั้น​คืน​มา​อีก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b4": {
+    "text": "ไม่​มี​ใคร​เอา​ชีวิต​ไป​จาก​เรา แต่​เรา​ยอม​สละ​เอง เรา​มี​สิทธิ​อำนาจ​ที่​จะ​สละ​ชีวิต​และ​ที่​จะ​รับ​ชีวิต​คืน​มา​อีก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b1": {
+    "text": "ถ้อยคำ​เหล่า​นี้​ทำ​ให้​พวก​ยิว​แตกแยก​กัน​อีก​ครั้ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b2": {
+    "text": "“เขา​ถูก​ผี​สิง​และ​คลุ้มคลั่ง ฟัง​เขา​ทำไม”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b3": {
+    "text": "“นี่​ไม่​ใช่​คำ​พูด​ของ​คน​ที่​ถูก​ผี​สิง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b4": {
+    "text": "ผี​จะ​ทำ​ให้​คน​ตาบอด​มอง​เห็น​ได้​หรือ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b1": {
+    "text": "แล้ว​ก็​ถึง​เทศกาล​ฉลอง​วิหาร​ที่​กรุง​เยรูซาเล็ม ขณะ​นั้น​เป็น​ช่วง​ฤดู​หนาว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b2": {
+    "text": "พระเยซู​เดิน​อยู่​ที่​เฉลียง​ของ​โซโลมอน​ใน​ลาน​วิหาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b3": {
+    "text": "“ท่าน​จะ​ให้​เรา​ข้อง​ใจ​นาน​แค่​ไหน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b4": {
+    "text": "ถ้า​ท่าน​เป็น​พระ​เมสสิยาห์​ก็​บอก​มา​ตรง​ๆ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b1": {
+    "text": "“เรา​บอก​แล้ว แต่​ท่าน​ก็​ไม่​เชื่อ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b2": {
+    "text": "แกะ​ของ​เรา​ฟัง​เสียง​ของ​เรา เรา​รู้จัก​แกะ​เหล่า​นั้น และ​แกะ​นั้น​ตาม​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b3": {
+    "text": "…ไม่​มี​ใคร​ชิง​แกะ​นั้น​ไป​จาก​มือ​ของ​เรา​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b4": {
+    "text": "เรา​กับ​พระบิดา​เป็น​หนึ่ง​เดียวกัน”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b1": {
+    "text": "อีก​ครั้ง​หนึ่ง​ที่​พวก​ยิว​หยิบ​ก้อน​หิน​ขึ้น​จะ​ขว้าง​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b2": {
+    "text": "“เรา​ได้​แสดง​ให้​ท่าน​เห็น​การ​ดี​มากมาย​จาก​พระบิดา แล้ว​ท่าน​หยิบ​ก้อน​หิน​จะ​ขว้าง​เรา​เพราะ​อะไร”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b3": {
+    "text": "“ที่​เรา​จะ​ขว้าง​ก้อน​หิน​ใส่​ท่าน​ไม่​ใช่​เพราะ​การ​ดี​ใด​ๆ แต่​เพราะ​ท่าน​พูด​หมิ่น​ประมาท​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b4": {
+    "text": "เพราะ​ท่าน​เป็น​เพียง​มนุษย์​แต่​อ้าง​ตัว​เป็น​พระเจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b1": {
+    "text": "“ไม่ได้​มี​เขียน​ไว้​ใน​หนังสือ​กฎ​บัญญัติ​ของ​ท่าน​หรือ​ว่า ‘เรา​กล่าว​ว่า​พวก​เจ้า​เป็น “เทพเจ้า” ’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b2": {
+    "text": "…พระคัมภีร์​เป็น​โมฆะ​ไม่​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b3": {
+    "text": "…เพื่อ​ท่าน​จะ​รู้​และ​เข้าใจ​ว่า​พระบิดา​อยู่​ใน​เรา​และ​เรา​อยู่​ใน​พระบิดา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b4": {
+    "text": "อีก​ครั้ง​หนึ่ง พวก​เขา​พยายาม​จับ​พระองค์ แต่​พระองค์​รอดพ้น​เงื้อม​มือ​ของ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b1": {
+    "text": "จาก​นั้น​พระเยซู​ข้าม​แม่น้ำ​จอร์แดน​กลับ​ไป​ยัง​ที่​ซึ่ง​เมื่อก่อน​ยอห์น​เคย​ให้​บัพติศมา พระองค์​พัก​อยู่​ที่​นั่น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b2": {
+    "text": "“ถึงแม้​ยอห์น​ไม่​เคย​ทำ​หมาย​สำคัญ​ใด​ๆ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b3": {
+    "text": "แต่​ทุก​อย่าง​ที่​ยอห์น​บอก​เกี่ยว​กับ​ท่าน​ผู้​นี้​ล้วน​เป็น​จริง”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b4": {
+    "text": "และ​ที่​นั่น​มี​หลาย​คน​เชื่อ​ใน​พระเยซู",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 10:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_06_P007",
+  "book": "john",
+  "chapter": 6,
+  "page": 7,
+  "ref": "6:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "到了晚上，他的门徒下到海边，"
+      }
+    },
+    {
+      "id": "JOHN_06_P007_F2",
+      "box": [
+        0,
+        0.2546,
+        1,
+        0.2005
+      ],
+      "alt": {
+        "zh-CN": "天已经黑了，耶稣还没有到他们那里。"
+      }
+    },
+    {
+      "id": "JOHN_06_P007_F3",
+      "box": [
+        0,
+        0.4583,
+        1,
+        0.5417
+      ],
+      "alt": {
+        "zh-CN": "忽然刮起大风，海浪翻腾起来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P007_B001",
+      "panel": "JOHN_06_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0075,
+        0.45,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "john.6.p7.b1"
+    },
+    {
+      "id": "JOHN_06_P007_B002",
+      "panel": "JOHN_06_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.2626,
+        0.46,
+        0.0401
+      ],
+      "tail": null,
+      "text_key": "john.6.p7.b2"
+    },
+    {
+      "id": "JOHN_06_P007_B003",
+      "panel": "JOHN_06_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.4746,
+        0.42,
+        0.0866
+      ],
+      "tail": null,
+      "text_key": "john.6.p7.b3"
+    }
+  ]
+}

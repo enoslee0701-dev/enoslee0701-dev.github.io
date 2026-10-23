@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_10_P013",
+  "book": "john",
+  "chapter": 10,
+  "page": 13,
+  "ref": "10:40-42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "耶稣又到约旦河东边，就是约翰起初施洗的地方，住了下来。"
+      }
+    },
+    {
+      "id": "JOHN_10_P013_F2",
+      "box": [
+        0,
+        0.248,
+        0.3682,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "约翰一件神迹也没有行过，"
+      }
+    },
+    {
+      "id": "JOHN_10_P013_F3",
+      "box": [
+        0.376,
+        0.248,
+        0.624,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "但约翰指着这个人说的一切都是真的。"
+      }
+    },
+    {
+      "id": "JOHN_10_P013_F4",
+      "box": [
+        0,
+        0.5299,
+        1,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "在那里，有许多人信了耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P013_B001",
+      "panel": "JOHN_10_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0073,
+        0.48,
+        0.0537
+      ],
+      "tail": null,
+      "text_key": "john.10.p13.b1"
+    },
+    {
+      "id": "JOHN_10_P013_B002",
+      "panel": "JOHN_10_P013_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.0147,
+        0.2535,
+        0.3387,
+        0.061
+      ],
+      "tail": [
+        0.1841,
+        0.3422
+      ],
+      "text_key": "john.10.p13.b2"
+    },
+    {
+      "id": "JOHN_10_P013_B003",
+      "panel": "JOHN_10_P013_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.7754,
+        0.2535,
+        0.2121,
+        0.0499
+      ],
+      "tail": [
+        0.8815,
+        0.3311
+      ],
+      "text_key": "john.10.p13.b3"
+    },
+    {
+      "id": "JOHN_10_P013_B004",
+      "panel": "JOHN_10_P013_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5393,
+        0.4,
+        0.0376
+      ],
+      "tail": null,
+      "text_key": "john.10.p13.b4"
+    }
+  ]
+}

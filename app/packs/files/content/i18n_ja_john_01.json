@@ -1,0 +1,602 @@
+{
+  "john.1.p1.b1": {
+    "text": "初めに言があった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p1.b2": {
+    "text": "言は神と共にあった。言は神であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p1.b3": {
+    "text": "この言は初めに神と共にあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p2.b1": {
+    "text": "すべてのものは、これによってできた。できたもののうち、一つとしてこれによらないものはなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p2.b2": {
+    "text": "この言に命があった。そしてこの命は人の光であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p2.b3": {
+    "text": "光はやみの中に輝いている。そして、やみはこれに勝たなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p3.b1": {
+    "text": "ここにひとりの人があって、神からつかわされていた。その名をヨハネと言った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p3.b2": {
+    "text": "この人はあかしのためにきた。光についてあかしをし、彼によってすべての人が信じるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p3.b3": {
+    "text": "彼は光ではなく、ただ、光についてあかしをするためにきたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p4.b1": {
+    "text": "すべての人を照すまことの光があって、世にきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p4.b2": {
+    "text": "彼は世にいた。そして、世は彼によってできたのであるが、世は彼を知らずにいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p4.b3": {
+    "text": "彼は自分のところにきたのに、自分の民は彼を受けいれなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p5.b1": {
+    "text": "しかし、彼を受けいれた者、すなわち、その名を信じた人々には、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p5.b2": {
+    "text": "彼は神の子となる力を与えたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p5.b3": {
+    "text": "それらの人は、血すじによらず、肉の欲によらず、また、人の欲にもよらず、ただ神によって生れたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p6.b1": {
+    "text": "そして言は肉体となり、わたしたちのうちに宿った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p6.b2": {
+    "text": "…めぐみとまこととに満ちていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p6.b3": {
+    "text": "わたしたちはその栄光を見た。それは父のひとり子としての栄光であって、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b1": {
+    "text": "「『わたしのあとに来るかたは、わたしよりもすぐれたかたである。わたしよりも先におられたからである』とわたしが言ったのは、この人のことである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b2": {
+    "text": "わたしたちすべての者は、その満ち満ちているものの中から受けて、めぐみにめぐみを加えられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b3": {
+    "text": "律法はモーセをとおして与えられ、めぐみとまこととは、イエス・キリストをとおしてきたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b4": {
+    "text": "神を見た者はまだひとりもいない。ただ父のふところにいるひとり子なる神だけが、神をあらわしたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b1": {
+    "text": "ユダヤ人たちが、エルサレムから祭司たちやレビ人たちをヨハネのもとにつかわして、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b2": {
+    "text": "「あなたはどなたですか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b3": {
+    "text": "「わたしはキリストではない」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b4": {
+    "text": "「あなたはどなたですか。わたしたちをつかわした人々に、答を持って行けるようにしていただきたい。あなた自身をだれだと考えるのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b1": {
+    "text": "「わたしは、…『主の道をまっすぐにせよと荒野で呼ばわる者の声』である」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b2": {
+    "text": "「では、あなたがキリストでもエリヤでもまたあの預言者でもないのなら、なぜバプテスマを授けるのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b3": {
+    "text": "「わたしは水でバプテスマを授けるが、あなたがたの知らないかたが、あなたがたの中に立っておられる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b4": {
+    "text": "それがわたしのあとにあとにおいでになる方であって、わたしはその人のくつのひもを解く値うちもない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b1": {
+    "text": "その翌日、ヨハネはイエスが自分の方にこられるのを見て言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b2": {
+    "text": "「見よ、世の罪を取り除く神の小羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b3": {
+    "text": "『わたしのあとに来るかたは、わたしよりもすぐれたかたである。わたしよりも先におられたからである』とわたしが言ったのは、この人のことである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b4": {
+    "text": "わたしはこのかたを知らなかった。しかし、このかたがイスラエルに現れてくださるそのことのために、わたしはきて、水でバプテスマを授けているのである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p11.b1": {
+    "text": "「わたしは、御霊がはとのように天から下って、彼の上にとどまるのを見た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p11.b2": {
+    "text": "…水でバプテスマを授けるようにと、わたしをおつかわしになったそのかたが、わたしに言われた、『ある人の上に、御霊が下ってとどまるのを見たら、その人こそは、御霊によってバプテスマを授けるかたである』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p11.b3": {
+    "text": "わたしはそれを見たので、このかたこそ神の子であると、あかしをしたのである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b1": {
+    "text": "その翌日、ヨハネはまたふたりの弟子たちと一緒に立っていたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b2": {
+    "text": "イエスが歩いておられるのに目をとめて言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b3": {
+    "text": "「見よ、神の小羊」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b4": {
+    "text": "そのふたりの弟子は、ヨハネがそう言うのを聞いて、イエスについて行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b1": {
+    "text": "「何か願いがあるのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b2": {
+    "text": "「ラビ…どこにおとまりなのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b3": {
+    "text": "「きてごらんなさい。そうしたらわかるだろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b4": {
+    "text": "…その日はイエスのところに泊まった。時は午後四時ごろであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b1": {
+    "text": "ヨハネから聞いて、イエスについて行ったふたりのうちのひとりは、シモン・ペテロの兄弟アンデレであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b2": {
+    "text": "「わたしたちはメシヤ…にいま出会った」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b3": {
+    "text": "そしてシモンをイエスのもとにつれてきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b4": {
+    "text": "「あなたはヨハネの子シモンである。あなたをケパ…と呼ぶことにする」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b1": {
+    "text": "「わたしに従ってきなさい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b2": {
+    "text": "「わたしたちは、モーセが律法の中にしるしており、預言者たちがしるしていた人、ヨセフの子、ナザレのイエスにいま出会った」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b3": {
+    "text": "「ナザレから、なんのよいものが出ようか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b4": {
+    "text": "「きて見なさい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b1": {
+    "text": "「見よ、あの人こそ、ほんとうのイスラエル人である。その心には偽りがない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b2": {
+    "text": "「どうしてわたしをご存じなのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b3": {
+    "text": "「ピリポがあなたを呼ぶ前に、わたしはあなたが、いちじくの木の下にいるのを見た」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b4": {
+    "text": "「先生、あなたは神の子です。あなたはイスラエルの王です」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p17.b1": {
+    "text": "「あなたが、いちじくの木の下にいるのを見たと、わたしが言ったので信じるのか。これよりも、もっと大きなことを、あなたは見るであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p17.b2": {
+    "text": "「よくよくあなたがたに言っておく。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p17.b3": {
+    "text": "天が開けて、神の御使たちが人の子の上に上り下りするのを、あなたがたは見るであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 1:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_04_P008",
+  "book": "john",
+  "chapter": 4,
+  "page": 8,
+  "ref": "4:25-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "我知道弥赛亚（就是那被称为基督的）要来；他来了，必把一切的事都告诉我们。"
+      }
+    },
+    {
+      "id": "JOHN_04_P008_F2",
+      "box": [
+        0,
+        0.321,
+        1,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "现在和你说话的这一位，就是他！"
+      }
+    },
+    {
+      "id": "JOHN_04_P008_F3",
+      "box": [
+        0,
+        0.6882,
+        1,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "（她怔住了，绳子从手里滑下。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P008_B001",
+      "panel": "JOHN_04_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0095,
+        0.32,
+        0.0824
+      ],
+      "tail": [
+        0.19,
+        0.1236
+      ],
+      "text_key": "john.4.p8.b1"
+    },
+    {
+      "id": "JOHN_04_P008_B002",
+      "panel": "JOHN_04_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.34,
+        0.3319,
+        0.18,
+        0.0873
+      ],
+      "tail": [
+        0.43,
+        0.4556
+      ],
+      "text_key": "john.4.p8.b2"
+    }
+  ]
+}

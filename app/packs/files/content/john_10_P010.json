@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_10_P010",
+  "book": "john",
+  "chapter": 10,
+  "page": 10,
+  "ref": "10:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "我已经跟你们说过了，你们却不信。"
+      }
+    },
+    {
+      "id": "JOHN_10_P010_F2",
+      "box": [
+        0,
+        0.3255,
+        0.3516,
+        0.4499
+      ],
+      "alt": {
+        "zh-CN": "我的羊认得我的声音，我认识它们，它们也跟随我。"
+      }
+    },
+    {
+      "id": "JOHN_10_P010_F3",
+      "box": [
+        0.3604,
+        0.3255,
+        0.6396,
+        0.4499
+      ],
+      "alt": {
+        "zh-CN": "……没有人能把它们从我手中抢走。"
+      }
+    },
+    {
+      "id": "JOHN_10_P010_F4",
+      "box": [
+        0,
+        0.7799,
+        1,
+        0.2201
+      ],
+      "alt": {
+        "zh-CN": "我和父本是一体。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P010_B001",
+      "panel": "JOHN_10_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.49,
+        0.0064,
+        0.28,
+        0.0642
+      ],
+      "tail": [
+        0.63,
+        0.1027
+      ],
+      "text_key": "john.10.p10.b1"
+    },
+    {
+      "id": "JOHN_10_P010_B002",
+      "panel": "JOHN_10_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0141,
+        0.3345,
+        0.3234,
+        0.0764
+      ],
+      "tail": [
+        0.1758,
+        0.4559
+      ],
+      "text_key": "john.10.p10.b2"
+    },
+    {
+      "id": "JOHN_10_P010_B003",
+      "panel": "JOHN_10_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.386,
+        0.3345,
+        0.3198,
+        0.0719
+      ],
+      "tail": [
+        0.5459,
+        0.4514
+      ],
+      "text_key": "john.10.p10.b3"
+    },
+    {
+      "id": "JOHN_10_P010_B004",
+      "panel": "JOHN_10_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.76,
+        0.8063,
+        0.22,
+        0.1716
+      ],
+      "tail": [
+        0.87,
+        0.9999
+      ],
+      "text_key": "john.10.p10.b4"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_08_P004",
+  "book": "john",
+  "chapter": 8,
+  "page": 4,
+  "ref": "8:9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1999
+      ],
+      "alt": {
+        "zh-CN": "他们听了这话，就从年老的开始，一个一个地都走了……"
+      }
+    },
+    {
+      "id": "JOHN_08_P004_F2",
+      "box": [
+        0,
+        0.2044,
+        1,
+        0.196
+      ]
+    },
+    {
+      "id": "JOHN_08_P004_F3",
+      "box": [
+        0,
+        0.4043,
+        1,
+        0.2148
+      ]
+    },
+    {
+      "id": "JOHN_08_P004_F4",
+      "box": [
+        0,
+        0.6237,
+        1,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "只剩下耶稣一个人，还有那妇人仍然站在当中。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P004_B001",
+      "panel": "JOHN_08_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.29,
+        0.1399,
+        0.2,
+        0.0539
+      ],
+      "tail": null,
+      "text_key": "john.8.p4.b1"
+    },
+    {
+      "id": "JOHN_08_P004_B002",
+      "panel": "JOHN_08_P004_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.635,
+        0.46,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "john.8.p4.b2"
+    }
+  ]
+}

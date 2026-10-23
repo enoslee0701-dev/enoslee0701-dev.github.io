@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_13_P003",
+  "book": "john",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "你永远不可以洗我的脚！"
+      }
+    },
+    {
+      "id": "JOHN_13_P003_F2",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "我若不洗你，你就和我没有关系了。"
+      }
+    },
+    {
+      "id": "JOHN_13_P003_F3",
+      "box": [
+        0,
+        0.543,
+        1,
+        0.457
+      ],
+      "alt": {
+        "zh-CN": "主啊，不只是我的脚，连手和头也要洗！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P003_B001",
+      "panel": "JOHN_13_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.2,
+        0.0059,
+        0.42,
+        0.0593
+      ],
+      "tail": [
+        0.41,
+        0.0949
+      ],
+      "text_key": "john.13.p3.b1"
+    },
+    {
+      "id": "JOHN_13_P003_B002",
+      "panel": "JOHN_13_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.3116,
+        0.45,
+        0.0712
+      ],
+      "tail": [
+        0.745,
+        0.4066
+      ],
+      "text_key": "john.13.p3.b2"
+    },
+    {
+      "id": "JOHN_13_P003_B003",
+      "panel": "JOHN_13_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.5521,
+        0.45,
+        0.0594
+      ],
+      "tail": [
+        0.745,
+        0.6572
+      ],
+      "text_key": "john.13.p3.b3"
+    }
+  ]
+}

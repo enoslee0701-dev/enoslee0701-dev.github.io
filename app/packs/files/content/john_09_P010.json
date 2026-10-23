@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_09_P010",
+  "book": "john",
+  "chapter": 9,
+  "page": 10,
+  "ref": "9:26-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "他对你做了什么？是怎么开了你的眼睛的？"
+      }
+    },
+    {
+      "id": "JOHN_09_P010_F2",
+      "box": [
+        0,
+        0.3132,
+        0.4844,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "难道你们也想做他的门徒吗？"
+      }
+    },
+    {
+      "id": "JOHN_09_P010_F3",
+      "box": [
+        0.4912,
+        0.3132,
+        0.5088,
+        0.293
+      ]
+    },
+    {
+      "id": "JOHN_09_P010_F4",
+      "box": [
+        0,
+        0.6094,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "你才是他的门徒；我们是摩西的门徒。……至于这个人，我们不知道他是从哪里来的！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P010_B001",
+      "panel": "JOHN_09_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.0093,
+        0.24,
+        0.0745
+      ],
+      "tail": [
+        0.37,
+        0.1149
+      ],
+      "text_key": "john.9.p10.b1"
+    },
+    {
+      "id": "JOHN_09_P010_B002",
+      "panel": "JOHN_09_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0194,
+        0.3191,
+        0.4456,
+        0.0439
+      ],
+      "tail": [
+        0.2422,
+        0.3923
+      ],
+      "text_key": "john.9.p10.b2"
+    },
+    {
+      "id": "JOHN_09_P010_B003",
+      "panel": "JOHN_09_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.2,
+        0.6172,
+        0.77,
+        0.0196
+      ],
+      "tail": [
+        0.585,
+        0.6759
+      ],
+      "text_key": "john.9.p10.b3"
+    },
+    {
+      "id": "JOHN_09_P010_B004",
+      "panel": "JOHN_09_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.6447,
+        0.77,
+        0.0233
+      ],
+      "tail": [
+        0.585,
+        0.7071
+      ],
+      "text_key": "john.9.p10.b4"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "JOHN_04_P005",
+  "book": "john",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "你去叫你丈夫也来这里。"
+      }
+    },
+    {
+      "id": "JOHN_04_P005_F2",
+      "box": [
+        0,
+        0.2396,
+        0.4961,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "我没有丈夫。"
+      }
+    },
+    {
+      "id": "JOHN_04_P005_F3",
+      "box": [
+        0.5039,
+        0.2396,
+        0.4961,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "你说没有丈夫，这话不错。你已经有过五个丈夫，现在跟你的也不是你的丈夫。"
+      }
+    },
+    {
+      "id": "JOHN_04_P005_F4",
+      "box": [
+        0,
+        0.5859,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "（她低下头，没有说话。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P005_B001",
+      "panel": "JOHN_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0071,
+        0.42,
+        0.0565
+      ],
+      "tail": [
+        0.24,
+        0.0872
+      ],
+      "text_key": "john.4.p5.b1"
+    },
+    {
+      "id": "JOHN_04_P005_B002",
+      "panel": "JOHN_04_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0248,
+        0.2464,
+        0.4464,
+        0.0445
+      ],
+      "tail": [
+        0.248,
+        0.3251
+      ],
+      "text_key": "john.4.p5.b2"
+    },
+    {
+      "id": "JOHN_04_P005_B003",
+      "panel": "JOHN_04_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5287,
+        0.2464,
+        0.4464,
+        0.0684
+      ],
+      "tail": [
+        0.7519,
+        0.349
+      ],
+      "text_key": "john.4.p5.b3"
+    }
+  ]
+}

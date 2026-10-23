@@ -1,0 +1,612 @@
+{
+  "john.12.p1.b1": {
+    "text": "Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p1.b2": {
+    "text": "So they hosted a dinner for Jesus there. Martha served,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p1.b3": {
+    "text": "And Lazarus was among those reclining at the table with Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p2.b1": {
+    "text": "Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p2.b2": {
+    "text": "And wiped them with her hair.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p2.b3": {
+    "text": "And the house was filled with the fragrance of the perfume.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p3.b1": {
+    "text": "But one of His disciples, Judas Iscariot, who was going to betray Him, asked,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p3.b2": {
+    "text": "Why wasn’t this perfume sold for three hundred denarii and the money given to the poor?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p3.b3": {
+    "text": "Judas did not say this because he cared about the poor, but because he was a thief. As keeper of the money bag, he used to take from what was put into it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p4.b1": {
+    "text": "Leave her alone, … She has kept this perfume in preparation for the day of My burial.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p4.b2": {
+    "text": "The poor you will always have with you,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p4.b3": {
+    "text": "But you will not always have Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p5.b1": {
+    "text": "Meanwhile a large crowd of Jews learned that Jesus was there. And they came … also to see Lazarus, whom He had raised from the dead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p5.b2": {
+    "text": "So the chief priests made plans to kill Lazarus as well,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p5.b3": {
+    "text": "for on account of him many of the Jews were deserting them and believing in Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p6.b1": {
+    "text": "The next day the great crowd that had come to the feast heard that Jesus was coming to Jerusalem.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p6.b2": {
+    "text": "They took palm branches and went out to meet Him, shouting:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p6.b3": {
+    "text": "Hosanna!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p6.b4": {
+    "text": "Blessed is He who comes in the name of the Lord! Blessed is the King of Israel!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p7.b1": {
+    "text": "Finding a young donkey, Jesus sat on it,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p7.b2": {
+    "text": "“Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p7.b3": {
+    "text": "At first His disciples did not understand these things, but after Jesus was glorified they remembered … that these very things had also been written about Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p8.b1": {
+    "text": "Meanwhile, many people continued to testify that they had been with Jesus when He called Lazarus from the tomb and raised him from the dead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p8.b2": {
+    "text": "That is also why the crowd went out to meet Him, because they heard that He had performed this sign.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p8.b3": {
+    "text": "You can see that this is doing you no good.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p8.b4": {
+    "text": "Look how the whole world has gone after Him!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p9.b1": {
+    "text": "Now there were some Greeks among those who went up to worship at the feast.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p9.b2": {
+    "text": "Sir, we want to see Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p9.b3": {
+    "text": "Philip relayed this appeal to Andrew, and both of them went and told Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p10.b1": {
+    "text": "The hour has come for the Son of Man to be glorified.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p10.b2": {
+    "text": "Truly, truly, I tell you,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p10.b3": {
+    "text": "Unless a kernel of wheat falls to the ground and dies, it remains only a seed;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p10.b4": {
+    "text": "But if it dies, it bears much fruit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p11.b1": {
+    "text": "Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p11.b2": {
+    "text": "If anyone serves Me, he must follow Me; and where I am, My servant will be as well.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p11.b3": {
+    "text": "If anyone serves Me, the Father will honor him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p12.b1": {
+    "text": "Now My soul is troubled, and what shall I say?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p12.b2": {
+    "text": "Father, save Me from this hour? No, it is for this purpose that I have come to this hour.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p12.b3": {
+    "text": "Father, glorify Your name!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p12.b4": {
+    "text": "I have glorified it, and I will glorify it again.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p13.b1": {
+    "text": "It had thundered.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p13.b2": {
+    "text": "An angel had spoken to Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p13.b3": {
+    "text": "This voice was not for My benefit, but yours.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p13.b4": {
+    "text": "Now judgment is upon this world; now the prince of this world will be cast out.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p13.b5": {
+    "text": "And I, when I am lifted up from the earth, will draw everyone to Myself.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p13.b6": {
+    "text": "He said this to indicate the kind of death He was going to die.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p14.b1": {
+    "text": "… the Christ will remain forever. So how can you say that the Son of Man must be lifted up? Who is this Son of Man?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p14.b2": {
+    "text": "For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p14.b3": {
+    "text": "While you have the Light, believe in the Light, so that you may become sons of light.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p14.b4": {
+    "text": "After Jesus had spoken these things, He went away and was hidden from them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p15.b1": {
+    "text": "Although Jesus had performed so many signs in their presence, they still did not believe in Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p15.b2": {
+    "text": "Lord, who has believed our message? And to whom has the arm of the Lord been revealed?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p15.b3": {
+    "text": "“He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p16.b1": {
+    "text": "Nevertheless, many of the leaders believed in Him; but because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p16.b2": {
+    "text": "For they loved praise from men more than praise from God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p16.b3": {
+    "text": "Whoever believes in Me does not believe in Me alone, but in the One who sent Me. And whoever sees Me sees the One who sent Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:44-45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p16.b4": {
+    "text": "I have come into the world as a light, so that no one who believes in Me should remain in darkness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p17.b1": {
+    "text": "As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p17.b2": {
+    "text": "There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p17.b3": {
+    "text": "… the Father who sent Me has commanded Me what to say and how to say it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.12.p17.b4": {
+    "text": "And I know that His command leads to eternal life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 12:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

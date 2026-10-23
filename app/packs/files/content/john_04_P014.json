@@ -1,0 +1,127 @@
+{
+  "id": "JOHN_04_P014",
+  "book": "john",
+  "chapter": 4,
+  "page": 14,
+  "ref": "4:43-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1699
+      ],
+      "alt": {
+        "zh-CN": "过了那两天，耶稣离开那里，往加利利去。"
+      }
+    },
+    {
+      "id": "JOHN_04_P014_F2",
+      "box": [
+        0,
+        0.1751,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "耶稣又来到加利利的迦拿，就是他以前把水变成酒的地方。"
+      }
+    },
+    {
+      "id": "JOHN_04_P014_F3",
+      "box": [
+        0,
+        0.4264,
+        0.43,
+        0.18
+      ],
+      "alt": {
+        "zh-CN": "有一位大臣，他的儿子在迦百农生病了。"
+      }
+    },
+    {
+      "id": "JOHN_04_P014_F4",
+      "box": [
+        0,
+        0.4264,
+        1,
+        0.5736
+      ],
+      "alt": {
+        "zh-CN": "他听说耶稣从犹太来到加利利，就去见他，求他下去医治他的儿子，因为他的儿子快要死了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P014_B001",
+      "panel": "JOHN_04_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.25,
+        0.0051,
+        0.5,
+        0.0373
+      ],
+      "tail": null,
+      "text_key": "john.4.p14.b1"
+    },
+    {
+      "id": "JOHN_04_P014_B002",
+      "panel": "JOHN_04_P014_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1825,
+        0.5,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "john.4.p14.b2"
+    },
+    {
+      "id": "JOHN_04_P014_B003",
+      "panel": "JOHN_04_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0215,
+        0.5668,
+        0.387,
+        0.036
+      ],
+      "tail": null,
+      "text_key": "john.4.p14.b3"
+    },
+    {
+      "id": "JOHN_04_P014_B004",
+      "panel": "JOHN_04_P014_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.44,
+        0.435,
+        0.34,
+        0.1003
+      ],
+      "tail": null,
+      "text_key": "john.4.p14.b4"
+    }
+  ]
+}

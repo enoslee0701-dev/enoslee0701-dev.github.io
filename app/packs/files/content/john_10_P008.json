@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_10_P008",
+  "book": "john",
+  "chapter": 10,
+  "page": 8,
+  "ref": "10:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "犹太人因为这些话又起了分歧。"
+      }
+    },
+    {
+      "id": "JOHN_10_P008_F2",
+      "box": [
+        0,
+        0.248,
+        0.4951,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "他是被鬼附了，而且疯了，为什么要听他呢？"
+      }
+    },
+    {
+      "id": "JOHN_10_P008_F3",
+      "box": [
+        0.5039,
+        0.248,
+        0.4961,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "这不是被鬼附的人会说的话。"
+      }
+    },
+    {
+      "id": "JOHN_10_P008_F4",
+      "box": [
+        0,
+        0.5508,
+        1,
+        0.4492
+      ],
+      "alt": {
+        "zh-CN": "鬼怎么能叫瞎子的眼睛看见呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P008_B001",
+      "panel": "JOHN_10_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0049,
+        0.92,
+        0.0439
+      ],
+      "tail": null,
+      "text_key": "john.10.p8.b1"
+    },
+    {
+      "id": "JOHN_10_P008_B002",
+      "panel": "JOHN_10_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0198,
+        0.254,
+        0.4554,
+        0.0446
+      ],
+      "tail": [
+        0.2475,
+        0.3283
+      ],
+      "text_key": "john.10.p8.b2"
+    },
+    {
+      "id": "JOHN_10_P008_B003",
+      "panel": "JOHN_10_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.254,
+        0.4564,
+        0.0535
+      ],
+      "tail": [
+        0.7519,
+        0.3373
+      ],
+      "text_key": "john.10.p8.b3"
+    },
+    {
+      "id": "JOHN_10_P008_B004",
+      "panel": "JOHN_10_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.5598,
+        0.36,
+        0.0539
+      ],
+      "tail": [
+        0.21,
+        0.6586
+      ],
+      "text_key": "john.10.p8.b4"
+    }
+  ]
+}

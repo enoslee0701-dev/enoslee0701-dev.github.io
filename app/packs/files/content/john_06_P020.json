@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_06_P020",
+  "book": "john",
+  "chapter": 6,
+  "page": 20,
+  "ref": "6:67-69",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P020",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P020_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "你们也要走吗？"
+      }
+    },
+    {
+      "id": "JOHN_06_P020_F2",
+      "box": [
+        0,
+        0.2708,
+        0.5537,
+        0.235
+      ]
+    },
+    {
+      "id": "JOHN_06_P020_F3",
+      "box": [
+        0.5596,
+        0.2708,
+        0.4404,
+        0.235
+      ]
+    },
+    {
+      "id": "JOHN_06_P020_F4",
+      "box": [
+        0,
+        0.5098,
+        1,
+        0.4902
+      ],
+      "alt": {
+        "zh-CN": "主啊，你有永生的话语，我们还跟从谁呢？ / 我们已经信了，也知道你是神的圣者。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P020_B001",
+      "panel": "JOHN_06_P020_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.008,
+        0.42,
+        0.0481
+      ],
+      "tail": [
+        0.24,
+        0.0829
+      ],
+      "text_key": "john.6.p20.b1"
+    },
+    {
+      "id": "JOHN_06_P020_B002",
+      "panel": "JOHN_06_P020_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.5245,
+        0.25,
+        0.0833
+      ],
+      "tail": [
+        0.155,
+        0.6568
+      ],
+      "text_key": "john.6.p20.b2"
+    },
+    {
+      "id": "JOHN_06_P020_B003",
+      "panel": "JOHN_06_P020_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.5245,
+        0.3,
+        0.098
+      ],
+      "tail": [
+        0.65,
+        0.6715
+      ],
+      "text_key": "john.6.p20.b3"
+    }
+  ]
+}

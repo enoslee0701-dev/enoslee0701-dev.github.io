@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_15_P009",
+  "book": "john",
+  "chapter": 15,
+  "page": 9,
+  "ref": "15:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_15_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_15_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "恨我的人，也恨我的父。"
+      }
+    },
+    {
+      "id": "JOHN_15_P009_F2",
+      "box": [
+        0,
+        0.2858,
+        0.3564,
+        0.4792
+      ]
+    },
+    {
+      "id": "JOHN_15_P009_F3",
+      "box": [
+        0.3643,
+        0.2858,
+        0.6357,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "但现在他们连我和我的父都看见了，也都恨了。"
+      }
+    },
+    {
+      "id": "JOHN_15_P009_F4",
+      "box": [
+        0,
+        0.7689,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "这是要应验他们律法上所写的话：『他们无缘无故地恨我。』"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_15_P009_B001",
+      "panel": "JOHN_15_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0085,
+        0.42,
+        0.062
+      ],
+      "tail": [
+        0.77,
+        0.0987
+      ],
+      "text_key": "john.15.p9.b1"
+    },
+    {
+      "id": "JOHN_15_P009_B002",
+      "panel": "JOHN_15_P009_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3834,
+        0.2954,
+        0.2924,
+        0.0575
+      ],
+      "tail": [
+        0.5296,
+        0.4008
+      ],
+      "text_key": "john.15.p9.b2"
+    },
+    {
+      "id": "JOHN_15_P009_B003",
+      "panel": "JOHN_15_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.7781,
+        0.56,
+        0.0508
+      ],
+      "tail": null,
+      "text_key": "john.15.p9.b3"
+    }
+  ]
+}

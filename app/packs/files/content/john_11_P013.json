@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_11_P013",
+  "book": "john",
+  "chapter": 11,
+  "page": 13,
+  "ref": "11:43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ]
+    },
+    {
+      "id": "JOHN_11_P013_F2",
+      "box": [
+        0,
+        0.2539,
+        1,
+        0.4388
+      ],
+      "alt": {
+        "zh-CN": "拉撒路，出来！"
+      }
+    },
+    {
+      "id": "JOHN_11_P013_F3",
+      "box": [
+        0,
+        0.6953,
+        0.582,
+        0.3047
+      ]
+    },
+    {
+      "id": "JOHN_11_P013_F4",
+      "box": [
+        0.5898,
+        0.6953,
+        0.4102,
+        0.3047
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P013_B001",
+      "panel": "JOHN_11_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0075,
+        0.4,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "john.11.p13.b1"
+    },
+    {
+      "id": "JOHN_11_P013_B002",
+      "panel": "JOHN_11_P013_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.62,
+        0.2627,
+        0.36,
+        0.0702
+      ],
+      "tail": [
+        0.8,
+        0.3768
+      ],
+      "text_key": "john.11.p13.b2"
+    }
+  ]
+}

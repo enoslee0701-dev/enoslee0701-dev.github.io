@@ -1,0 +1,541 @@
+{
+  "john.7.p1.b1": {
+    "text": "这事以后，耶稣在加利利游行，不愿在犹太游行，因为犹太人想要杀他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这事以⁠后，耶⁠稣在加⁠利⁠利游⁠行，不⁠愿在犹⁠太游⁠行，因⁠为犹⁠太⁠人想⁠要杀他。"
+  },
+  "john.7.p1.b2": {
+    "text": "当时犹太人的住棚节近了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "当⁠时犹⁠太⁠人的住棚节近了。"
+  },
+  "john.7.p1.b3": {
+    "text": "你离开这里上犹太去吧，叫你的门徒也看见你所行的事。……你如果行这些事，就当将自己显明给世人看。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:3-4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你离⁠开这⁠里上犹⁠太去吧，叫你⁠的门⁠徒也看⁠见你所行的事。……你如⁠果行这⁠些事，就当将自⁠己显⁠明给世⁠人看。"
+  },
+  "john.7.p1.b4": {
+    "text": "因为连他的弟兄说这话，是因为不信他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为连他⁠的弟⁠兄说这话，是因⁠为不⁠信他。"
+  },
+  "john.7.p2.b1": {
+    "text": "我的时候还没有到；你们的时候常是方便的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠的时⁠候还没⁠有到；你⁠们的时⁠候常是方⁠便的。"
+  },
+  "john.7.p2.b2": {
+    "text": "世人不能恨你们，却是恨我，因为我指证他们所做的事是恶的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "世⁠人不⁠能恨你⁠们，却是恨我，因⁠为我指⁠证他⁠们所做⁠的事是恶的。"
+  },
+  "john.7.p2.b3": {
+    "text": "你们上去过节吧，我现在不上去过这节，因为我的时候还没有满。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们上⁠去过⁠节吧，我现⁠在不⁠上⁠去过这节，因⁠为我⁠的时⁠候还没⁠有满。"
+  },
+  "john.7.p2.b4": {
+    "text": "耶稣说了这话，仍旧住在加利利。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣说了这话，仍⁠旧住⁠在加⁠利⁠利。"
+  },
+  "john.7.p3.b1": {
+    "text": "但他弟兄上去以后，他也上去过节，不是明去，似乎是暗去的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但他弟⁠兄上⁠去以⁠后，他也上⁠去过⁠节，不⁠是明去，似⁠乎⁠是暗去的。"
+  },
+  "john.7.p3.b2": {
+    "text": "他在哪里？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠在哪⁠里？"
+  },
+  "john.7.p3.b3": {
+    "text": "他是好人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠是好⁠人。"
+  },
+  "john.7.p3.b4": {
+    "text": "不然，他是迷惑众人的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠然，他⁠是迷⁠惑众⁠人的。"
+  },
+  "john.7.p4.b1": {
+    "text": "到了节期，耶稣上殿里去教训人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "到⁠了节期，耶⁠稣上殿⁠里去教⁠训人。"
+  },
+  "john.7.p4.b2": {
+    "text": "这个人没有学过，怎么明白书呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠个人没⁠有学过，怎⁠么明⁠白书呢？"
+  },
+  "john.7.p4.b3": {
+    "text": "我的教训不是我自己的，乃是那差我来者的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠的教⁠训不⁠是我自⁠己的，乃⁠是那差我⁠来者的。"
+  },
+  "john.7.p4.b4": {
+    "text": "人若立志遵着他的旨意行，就必晓得这教训或是出于　神，或是我凭着自己说的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若立⁠志遵着他⁠的旨⁠意行，就必晓⁠得这教⁠训或⁠是出⁠于　神，或⁠是我凭着自⁠己说⁠的。"
+  },
+  "john.7.p5.b1": {
+    "text": "摩西岂不是传律法给你们吗？你们却没有一个人守律法。为什么想要杀我呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "摩⁠西岂⁠不⁠是传律⁠法给你⁠们吗？你⁠们却⁠没⁠有一⁠个人守律⁠法。为⁠什⁠么想⁠要杀我呢？"
+  },
+  "john.7.p5.b2": {
+    "text": "你是被鬼附着了！谁想要杀你？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠是被鬼附⁠着了！谁想⁠要杀你？"
+  },
+  "john.7.p5.b3": {
+    "text": "我在安息日叫一个人全然好了，你们就向我生气吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠在安⁠息⁠日叫一⁠个人全⁠然好⁠了，你⁠们就向我生⁠气吗？"
+  },
+  "john.7.p5.b4": {
+    "text": "不可按外貌断定是非，总要按公平断定是非。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠可按外⁠貌断⁠定是⁠非，总要按公⁠平断⁠定是⁠非。"
+  },
+  "john.7.p6.b1": {
+    "text": "这不是他们想要杀的人吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这不⁠是他⁠们想⁠要杀的人吗？"
+  },
+  "john.7.p6.b2": {
+    "text": "难道官长真知道这是基督吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "难⁠道官长真知⁠道这是基⁠督吗？"
+  },
+  "john.7.p6.b3": {
+    "text": "然而，我们知道这个人从哪里来；只是基督来的时候，没有人知道他从哪里来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "然⁠而，我⁠们知⁠道这⁠个人从哪⁠里来；只⁠是基⁠督来的时⁠候，没⁠有人知⁠道他从哪⁠里来。"
+  },
+  "john.7.p7.b1": {
+    "text": "你们也知道我，也知道我从哪里来；我来并不是由于自己。但那差我来的是真的。你们不认识他，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们也知⁠道我，也知⁠道我从哪⁠里来；我⁠来并⁠不是由⁠于自⁠己。但那差我⁠来的⁠是真⁠的。你⁠们不认⁠识他，"
+  },
+  "john.7.p7.b2": {
+    "text": "他们就想要捉拿耶稣；只是没有人下手，因为他的时候还没有到。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就想⁠要捉⁠拿耶⁠稣；只⁠是没⁠有人下⁠手，因⁠为他⁠的时⁠候还没⁠有到。"
+  },
+  "john.7.p7.b3": {
+    "text": "基督来的时候，他所行的神迹岂能比这人所行的更多吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "基⁠督来的时⁠候，他⁠所行的神⁠迹岂能比这人所行的更⁠多吗？"
+  },
+  "john.7.p8.b1": {
+    "text": "法利赛人听见众人为耶稣这样纷纷议论，祭司长和法利赛人就打发差役去捉拿他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "法⁠利⁠赛人听⁠见众⁠人为耶⁠稣这⁠样纷⁠纷议⁠论，祭⁠司⁠长和法⁠利⁠赛人就打⁠发差⁠役去捉⁠拿他。"
+  },
+  "john.7.p8.b2": {
+    "text": "我还有不多的时候和你们同在，以后就回到差我来的那里去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我还⁠有不⁠多的时⁠候和你⁠们同在，以⁠后就回⁠到差我⁠来的那⁠里去。"
+  },
+  "john.7.p8.b3": {
+    "text": "你们要找我，却找不着；我所在的地方你们不能到。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要找我，却找不⁠着；我所⁠在的地⁠方你⁠们不⁠能到。"
+  },
+  "john.7.p8.b4": {
+    "text": "这人要往哪里去，叫我们找不着呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这人要往哪⁠里去，叫我⁠们找不⁠着呢？"
+  },
+  "john.7.p9.b1": {
+    "text": "节期的末日，就是最大之日，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "节期的末⁠日，就⁠是最⁠大之日，"
+  },
+  "john.7.p9.b2": {
+    "text": "人若渴了，可以到我这里来喝。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若渴⁠了，可⁠以到我这⁠里来喝。"
+  },
+  "john.7.p9.b3": {
+    "text": "信我的人就如经上所说：『从他腹中要流出活水的江河来。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "信我⁠的人就如经上⁠所说：『从他腹⁠中要流⁠出活⁠水的江⁠河来。』"
+  },
+  "john.7.p9.b4": {
+    "text": "耶稣这话是指着信他之人要受圣灵说的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣这话是指着⁠信他之人要受圣⁠灵说⁠的。"
+  },
+  "john.7.p10.b1": {
+    "text": "这真是那先知。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这真⁠是那先⁠知。"
+  },
+  "john.7.p10.b2": {
+    "text": "这是基督。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这是基⁠督。"
+  },
+  "john.7.p10.b3": {
+    "text": "基督岂是从加利利出来的吗？经上岂不是说『基督是大卫的后裔，从大卫本乡伯利恒出来的』吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:41-42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "基⁠督岂是从加⁠利⁠利出⁠来的吗？经上岂⁠不⁠是说『基⁠督是大⁠卫的后⁠裔，从大⁠卫本乡伯⁠利⁠恒出⁠来的』吗？"
+  },
+  "john.7.p10.b4": {
+    "text": "于是众人因着耶稣起了纷争。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是众⁠人因着耶⁠稣起⁠了纷⁠争。"
+  },
+  "john.7.p10.b5": {
+    "text": "其中有人要捉拿他，只是无人下手。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:44"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "其⁠中有⁠人要捉⁠拿他，只⁠是无⁠人下⁠手。"
+  },
+  "john.7.p11.b1": {
+    "text": "差役回到祭司长和法利赛人那里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "差⁠役回⁠到祭⁠司⁠长和法⁠利⁠赛人那⁠里。"
+  },
+  "john.7.p11.b2": {
+    "text": "你们为什么没有带他来呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们为⁠什⁠么没⁠有带他来呢？"
+  },
+  "john.7.p11.b3": {
+    "text": "从来没有像他这样说话的！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从⁠来没⁠有像他这⁠样说⁠话的！"
+  },
+  "john.7.p11.b4": {
+    "text": "你们也受了迷惑吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们也受了迷⁠惑吗？"
+  },
+  "john.7.p12.b1": {
+    "text": "官长或是法利赛人岂有信他的呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "官长或⁠是法⁠利⁠赛人岂有信他⁠的呢？"
+  },
+  "john.7.p12.b2": {
+    "text": "但这些不明白律法的百姓是被咒诅的！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但这⁠些不明⁠白律⁠法的百⁠姓是被咒诅的！"
+  },
+  "john.7.p12.b3": {
+    "text": "内中有尼哥德慕，就是从前去见耶稣的，对他们说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:50"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "内中⁠有尼哥⁠德慕，就⁠是从⁠前去见耶⁠稣的，对他⁠们说："
+  },
+  "john.7.p12.b4": {
+    "text": "不先听本人的口供，不知道他所做的事，难道我们的律法还定他的罪吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不先听本⁠人的口⁠供，不⁠知⁠道他⁠所做⁠的事，难⁠道我⁠们的律⁠法还定他⁠的罪吗？"
+  },
+  "john.7.p13.b1": {
+    "text": "你也是出于加利利吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你也⁠是出⁠于加⁠利⁠利吗？"
+  },
+  "john.7.p13.b2": {
+    "text": "你且去查考，就可知道加利利没有出过先知。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 7:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你且去查⁠考，就可知⁠道加⁠利⁠利没⁠有出⁠过先⁠知。"
+  }
+}

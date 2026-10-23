@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_01_P003",
+  "book": "john",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.194
+      ],
+      "alt": {
+        "zh-CN": "有一个人，是神差来的，名叫约翰。"
+      }
+    },
+    {
+      "id": "JOHN_01_P003_F2",
+      "box": [
+        0,
+        0.1979,
+        0.4629,
+        0.3737
+      ],
+      "alt": {
+        "zh-CN": "他来是要作见证，为那光作见证，好让所有的人都因他而信。"
+      }
+    },
+    {
+      "id": "JOHN_01_P003_F3",
+      "box": [
+        0.4688,
+        0.1979,
+        0.5312,
+        0.3737
+      ],
+      "alt": {
+        "zh-CN": "（路上早起的人停下来，顺着他指的方向看。）"
+      }
+    },
+    {
+      "id": "JOHN_01_P003_F4",
+      "box": [
+        0,
+        0.5749,
+        1,
+        0.4251
+      ],
+      "alt": {
+        "zh-CN": "他自己不是那光，而是来为那光作见证的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P003_B001",
+      "panel": "JOHN_01_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.0078,
+        0.45,
+        0.0465
+      ],
+      "tail": null,
+      "text_key": "john.1.p3.b1"
+    },
+    {
+      "id": "JOHN_01_P003_B002",
+      "panel": "JOHN_01_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0139,
+        0.2091,
+        0.1851,
+        0.0822
+      ],
+      "tail": null,
+      "text_key": "john.1.p3.b2"
+    },
+    {
+      "id": "JOHN_01_P003_B003",
+      "panel": "JOHN_01_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5919,
+        0.25,
+        0.102
+      ],
+      "tail": null,
+      "text_key": "john.1.p3.b3"
+    }
+  ]
+}

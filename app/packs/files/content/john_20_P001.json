@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_20_P001",
+  "book": "john",
+  "chapter": 20,
+  "page": 1,
+  "ref": "20:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1992
+      ],
+      "alt": {
+        "zh-CN": "七天的第一天清早，天还黑的时候，"
+      }
+    },
+    {
+      "id": "JOHN_20_P001_F2",
+      "box": [
+        0,
+        0.2025,
+        0.2607,
+        0.4342
+      ]
+    },
+    {
+      "id": "JOHN_20_P001_F3",
+      "box": [
+        0.2666,
+        0.2025,
+        0.7334,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "抹大拉的马利亚来到坟墓那里，看见石头已经从坟墓口挪开了。"
+      }
+    },
+    {
+      "id": "JOHN_20_P001_F4",
+      "box": [
+        0,
+        0.64,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "有人把主从坟墓里挪走了，我们不知道他们把他放在哪里了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P001_B001",
+      "panel": "JOHN_20_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.008,
+        0.42,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "john.20.p1.b1"
+    },
+    {
+      "id": "JOHN_20_P001_B002",
+      "panel": "JOHN_20_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2886,
+        0.2155,
+        0.2933,
+        0.0694
+      ],
+      "tail": null,
+      "text_key": "john.20.p1.b2"
+    },
+    {
+      "id": "JOHN_20_P001_B003",
+      "panel": "JOHN_20_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.58,
+        0.6472,
+        0.4,
+        0.0468
+      ],
+      "tail": [
+        0.78,
+        0.73
+      ],
+      "text_key": "john.20.p1.b3"
+    }
+  ]
+}

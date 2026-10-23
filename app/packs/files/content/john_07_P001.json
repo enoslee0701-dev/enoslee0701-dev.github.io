@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_07_P001",
+  "book": "john",
+  "chapter": 7,
+  "page": 1,
+  "ref": "7:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2025
+      ],
+      "alt": {
+        "zh-CN": "这些事以后，耶稣在加利利各处走动，不愿在犹太走动，因为犹太人想要杀他。"
+      }
+    },
+    {
+      "id": "JOHN_07_P001_F2",
+      "box": [
+        0,
+        0.2077,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "那时，犹太人的住棚节快到了。"
+      }
+    },
+    {
+      "id": "JOHN_07_P001_F3",
+      "box": [
+        0,
+        0.457,
+        1,
+        0.543
+      ],
+      "alt": {
+        "zh-CN": "你离开这里到犹太去吧，让你的门徒也看见你做的事……你既然做这些事，就该向世人显明自己。／因为连他的弟兄也不信他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P001_B001",
+      "panel": "JOHN_07_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.0061,
+        0.47,
+        0.0445
+      ],
+      "tail": null,
+      "text_key": "john.7.p1.b1"
+    },
+    {
+      "id": "JOHN_07_P001_B002",
+      "panel": "JOHN_07_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2126,
+        0.46,
+        0.0269
+      ],
+      "tail": null,
+      "text_key": "john.7.p1.b2"
+    },
+    {
+      "id": "JOHN_07_P001_B003",
+      "panel": "JOHN_07_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.4624,
+        0.19,
+        0.1031
+      ],
+      "tail": [
+        0.575,
+        0.6198
+      ],
+      "text_key": "john.7.p1.b3"
+    },
+    {
+      "id": "JOHN_07_P001_B004",
+      "panel": "JOHN_07_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.8914,
+        0.3,
+        0.0923
+      ],
+      "tail": null,
+      "text_key": "john.7.p1.b4"
+    }
+  ]
+}

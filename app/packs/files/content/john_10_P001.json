@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_10_P001",
+  "book": "john",
+  "chapter": 10,
+  "page": 1,
+  "ref": "10:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，人进羊圈，不从门进去，却从别处爬进去，那人就是贼，就是强盗。"
+      }
+    },
+    {
+      "id": "JOHN_10_P001_F2",
+      "box": [
+        0,
+        0.3079,
+        0.4971,
+        0.2611
+      ]
+    },
+    {
+      "id": "JOHN_10_P001_F3",
+      "box": [
+        0.5059,
+        0.3079,
+        0.4941,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "从门进去的，才是羊的牧人。看门的给他开门；"
+      }
+    },
+    {
+      "id": "JOHN_10_P001_F4",
+      "box": [
+        0,
+        0.5742,
+        1,
+        0.4258
+      ],
+      "alt": {
+        "zh-CN": "羊也听他的声音。他叫着自己每一只羊的名字，把它们领出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P001_B001",
+      "panel": "JOHN_10_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.31,
+        0.006,
+        0.27,
+        0.0663
+      ],
+      "tail": [
+        0.445,
+        0.1024
+      ],
+      "text_key": "john.10.p1.b1"
+    },
+    {
+      "id": "JOHN_10_P001_B002",
+      "panel": "JOHN_10_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7431,
+        0.3157,
+        0.2421,
+        0.0443
+      ],
+      "tail": [
+        0.8642,
+        0.3861
+      ],
+      "text_key": "john.10.p1.b2"
+    },
+    {
+      "id": "JOHN_10_P001_B003",
+      "panel": "JOHN_10_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.68,
+        0.5827,
+        0.3,
+        0.0596
+      ],
+      "tail": [
+        0.83,
+        0.6849
+      ],
+      "text_key": "john.10.p1.b3"
+    }
+  ]
+}

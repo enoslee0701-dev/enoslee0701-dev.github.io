@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_12_P012",
+  "book": "john",
+  "chapter": 12,
+  "page": 12,
+  "ref": "12:27-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P012_F1",
+      "box": [
+        0,
+        0,
+        0.498,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "我现在心里忧愁，我该说什么呢？"
+      }
+    },
+    {
+      "id": "JOHN_12_P012_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "父啊，救我脱离这时刻吗？但我正是为这时刻来的。"
+      }
+    },
+    {
+      "id": "JOHN_12_P012_F3",
+      "box": [
+        0,
+        0.2507,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "父啊，愿你荣耀你的名！"
+      }
+    },
+    {
+      "id": "JOHN_12_P012_F4",
+      "box": [
+        0,
+        0.5651,
+        1,
+        0.4349
+      ],
+      "alt": {
+        "zh-CN": "我已经荣耀了我的名，还要再荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P012_B001",
+      "panel": "JOHN_12_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0149,
+        0.0075,
+        0.3486,
+        0.0547
+      ],
+      "tail": [
+        0.1892,
+        0.0871
+      ],
+      "text_key": "john.12.p12.b1"
+    },
+    {
+      "id": "JOHN_12_P012_B002",
+      "panel": "JOHN_12_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8214,
+        0.0597,
+        0.1686,
+        0.179
+      ],
+      "tail": [
+        0.9057,
+        0.2487
+      ],
+      "text_key": "john.12.p12.b2"
+    },
+    {
+      "id": "JOHN_12_P012_B003",
+      "panel": "JOHN_12_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.55,
+        0.2632,
+        0.42,
+        0.0875
+      ],
+      "tail": [
+        0.76,
+        0.382
+      ],
+      "text_key": "john.12.p12.b3"
+    },
+    {
+      "id": "JOHN_12_P012_B004",
+      "panel": "JOHN_12_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.46,
+        0.5738,
+        0.52,
+        0.0521
+      ],
+      "tail": [
+        0.72,
+        0.6694
+      ],
+      "text_key": "john.12.p12.b4"
+    }
+  ]
+}

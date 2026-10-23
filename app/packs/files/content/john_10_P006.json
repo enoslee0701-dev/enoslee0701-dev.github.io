@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_10_P006",
+  "book": "john",
+  "chapter": 10,
+  "page": 6,
+  "ref": "10:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2396
+      ]
+    },
+    {
+      "id": "JOHN_10_P006_F2",
+      "box": [
+        0,
+        0.2441,
+        1,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "我是好牧人；我认识我的羊，我的羊也认识我，"
+      }
+    },
+    {
+      "id": "JOHN_10_P006_F3",
+      "box": [
+        0,
+        0.6484,
+        0.4961,
+        0.3516
+      ],
+      "alt": {
+        "zh-CN": "正像父认识我，我也认识父一样；"
+      }
+    },
+    {
+      "id": "JOHN_10_P006_F4",
+      "box": [
+        0.5039,
+        0.6484,
+        0.4961,
+        0.3516
+      ],
+      "alt": {
+        "zh-CN": "而且我为羊舍命。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P006_B001",
+      "panel": "JOHN_10_P006_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.2521,
+        0.4,
+        0.052
+      ],
+      "tail": [
+        0.68,
+        0.3441
+      ],
+      "text_key": "john.10.p6.b1"
+    },
+    {
+      "id": "JOHN_10_P006_B002",
+      "panel": "JOHN_10_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3175,
+        0.6589,
+        0.1637,
+        0.1265
+      ],
+      "tail": [
+        0.3994,
+        0.8206
+      ],
+      "text_key": "john.10.p6.b2"
+    },
+    {
+      "id": "JOHN_10_P006_B003",
+      "panel": "JOHN_10_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.9297,
+        0.4564,
+        0.0597
+      ],
+      "tail": [
+        0.7519,
+        1
+      ],
+      "text_key": "john.10.p6.b3"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_04_P002",
+  "book": "john",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "有一个撒马利亚的女人来打水。"
+      }
+    },
+    {
+      "id": "JOHN_04_P002_F2",
+      "box": [
+        0,
+        0.3594,
+        0.4971,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "请给我水喝。"
+      }
+    },
+    {
+      "id": "JOHN_04_P002_F3",
+      "box": [
+        0.5039,
+        0.3594,
+        0.4961,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "（她把水罐抱到身边，打量着他。）"
+      }
+    },
+    {
+      "id": "JOHN_04_P002_F4",
+      "box": [
+        0,
+        0.6921,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "你是犹太人，怎么向我这个撒马利亚女人要水喝呢？——原来犹太人和撒马利亚人是不来往的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P002_B001",
+      "panel": "JOHN_04_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.0106,
+        0.38,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "john.4.p2.b1"
+    },
+    {
+      "id": "JOHN_04_P002_B002",
+      "panel": "JOHN_04_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2386,
+        0.366,
+        0.2485,
+        0.036
+      ],
+      "tail": [
+        0.3629,
+        0.4348
+      ],
+      "text_key": "john.4.p2.b2"
+    },
+    {
+      "id": "JOHN_04_P002_B003",
+      "panel": "JOHN_04_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.7013,
+        0.36,
+        0.0369
+      ],
+      "tail": [
+        0.5,
+        0.769
+      ],
+      "text_key": "john.4.p2.b3"
+    },
+    {
+      "id": "JOHN_04_P002_B004",
+      "panel": "JOHN_04_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.32,
+        0.7444,
+        0.36,
+        0.0246
+      ],
+      "tail": null,
+      "text_key": "john.4.p2.b4"
+    }
+  ]
+}

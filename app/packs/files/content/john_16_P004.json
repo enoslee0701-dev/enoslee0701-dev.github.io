@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_16_P004",
+  "book": "john",
+  "chapter": 16,
+  "page": 4,
+  "ref": "16:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_16_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_16_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "我还有很多事要告诉你们，但你们现在还承受不了。"
+      }
+    },
+    {
+      "id": "JOHN_16_P004_F2",
+      "box": [
+        0,
+        0.2617,
+        0.2852,
+        0.4531
+      ]
+    },
+    {
+      "id": "JOHN_16_P004_F3",
+      "box": [
+        0.293,
+        0.2617,
+        0.707,
+        0.4531
+      ],
+      "alt": {
+        "zh-CN": "等真理的圣灵来了，他要引导你们进入一切的真理；"
+      }
+    },
+    {
+      "id": "JOHN_16_P004_F4",
+      "box": [
+        0,
+        0.7181,
+        1,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "他要使我得荣耀，因为他要把从我这里领受的告诉你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_16_P004_B001",
+      "panel": "JOHN_16_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.0077,
+        0.32,
+        0.0567
+      ],
+      "tail": [
+        0.48,
+        0.0902
+      ],
+      "text_key": "john.16.p4.b1"
+    },
+    {
+      "id": "JOHN_16_P004_B002",
+      "panel": "JOHN_16_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.7596,
+        0.2753,
+        0.2262,
+        0.0996
+      ],
+      "tail": [
+        0.8727,
+        0.4202
+      ],
+      "text_key": "john.16.p4.b2"
+    },
+    {
+      "id": "JOHN_16_P004_B003",
+      "panel": "JOHN_16_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.7407,
+        0.38,
+        0.2255
+      ],
+      "tail": [
+        0.79,
+        0.9944
+      ],
+      "text_key": "john.16.p4.b3"
+    }
+  ]
+}

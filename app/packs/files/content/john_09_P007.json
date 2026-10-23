@@ -1,0 +1,145 @@
+{
+  "id": "JOHN_09_P007",
+  "book": "john",
+  "chapter": 9,
+  "page": 7,
+  "ref": "9:13-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "耶稣用泥开他眼睛的那天是安息日。"
+      }
+    },
+    {
+      "id": "JOHN_09_P007_F2",
+      "box": [
+        0,
+        0.2845,
+        0.499,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "这个人不是从上帝那里来的，因为他不守安息日。"
+      }
+    },
+    {
+      "id": "JOHN_09_P007_F3",
+      "box": [
+        0.5039,
+        0.2845,
+        0.4961,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "一个罪人怎么能行这样的神迹呢？"
+      }
+    },
+    {
+      "id": "JOHN_09_P007_F4",
+      "box": [
+        0,
+        0.526,
+        1,
+        0.1283
+      ]
+    },
+    {
+      "id": "JOHN_09_P007_F5",
+      "box": [
+        0,
+        0.6563,
+        1,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "他是一位先知。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P007_B001",
+      "panel": "JOHN_09_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0085,
+        0.42,
+        0.0563
+      ],
+      "tail": null,
+      "text_key": "john.9.p7.b1"
+    },
+    {
+      "id": "JOHN_09_P007_B002",
+      "panel": "JOHN_09_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.2917,
+        0.459,
+        0.0621
+      ],
+      "tail": [
+        0.2495,
+        0.3777
+      ],
+      "text_key": "john.9.p7.b2"
+    },
+    {
+      "id": "JOHN_09_P007_B003",
+      "panel": "JOHN_09_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.2917,
+        0.4564,
+        0.0621
+      ],
+      "tail": [
+        0.7519,
+        0.3777
+      ],
+      "text_key": "john.9.p7.b3"
+    },
+    {
+      "id": "JOHN_09_P007_B004",
+      "panel": "JOHN_09_P007_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.6701,
+        0.33,
+        0.055
+      ],
+      "tail": [
+        0.635,
+        0.7595
+      ],
+      "text_key": "john.9.p7.b4"
+    }
+  ]
+}

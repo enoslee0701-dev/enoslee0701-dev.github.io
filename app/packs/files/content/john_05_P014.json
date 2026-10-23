@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_05_P014",
+  "book": "john",
+  "chapter": 5,
+  "page": 14,
+  "ref": "5:41-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "我奉我父的名来，你们却不接待我……"
+      }
+    },
+    {
+      "id": "JOHN_05_P014_F2",
+      "box": [
+        0,
+        0.2493,
+        0.5791,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "你们彼此接受荣耀，却不寻求从独一的　神而来的荣耀，怎么能信我呢？"
+      }
+    },
+    {
+      "id": "JOHN_05_P014_F3",
+      "box": [
+        0.5879,
+        0.2493,
+        0.4121,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "你们如果信摩西，也一定会信我，因为他的书上有指着我写的话。"
+      }
+    },
+    {
+      "id": "JOHN_05_P014_F4",
+      "box": [
+        0,
+        0.5996,
+        1,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "你们如果不信他的书，怎么能信我的话呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P014_B001",
+      "panel": "JOHN_05_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0073,
+        0.48,
+        0.0584
+      ],
+      "tail": [
+        0.27,
+        0.09
+      ],
+      "text_key": "john.5.p14.b1"
+    },
+    {
+      "id": "JOHN_05_P014_B002",
+      "panel": "JOHN_05_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0116,
+        0.2562,
+        0.2026,
+        0.0621
+      ],
+      "tail": [
+        0.1129,
+        0.3528
+      ],
+      "text_key": "john.5.p14.b2"
+    },
+    {
+      "id": "JOHN_05_P014_B003",
+      "panel": "JOHN_05_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6085,
+        0.2597,
+        0.3708,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "john.5.p14.b3"
+    },
+    {
+      "id": "JOHN_05_P014_B004",
+      "panel": "JOHN_05_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.26,
+        0.6116,
+        0.44,
+        0.068
+      ],
+      "tail": [
+        0.48,
+        0.7196
+      ],
+      "text_key": "john.5.p14.b4"
+    }
+  ]
+}

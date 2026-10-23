@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_10_P003",
+  "book": "john",
+  "chapter": 10,
+  "page": 3,
+  "ref": "10:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2533
+      ]
+    },
+    {
+      "id": "JOHN_10_P003_F2",
+      "box": [
+        0,
+        0.2578,
+        1,
+        0.4043
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，我就是羊的门。"
+      }
+    },
+    {
+      "id": "JOHN_10_P003_F3",
+      "box": [
+        0,
+        0.6673,
+        0.4854,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "我就是门；凡从我进来的，一定得救，"
+      }
+    },
+    {
+      "id": "JOHN_10_P003_F4",
+      "box": [
+        0.4961,
+        0.6673,
+        0.5039,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "并且可以进进出出，找到草吃。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P003_B001",
+      "panel": "JOHN_10_P003_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.03,
+        0.2699,
+        0.45,
+        0.0727
+      ],
+      "tail": [
+        0.255,
+        0.383
+      ],
+      "text_key": "john.10.p3.b1"
+    },
+    {
+      "id": "JOHN_10_P003_B002",
+      "panel": "JOHN_10_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0194,
+        0.6773,
+        0.4465,
+        0.0865
+      ],
+      "tail": [
+        0.2427,
+        0.7971
+      ],
+      "text_key": "john.10.p3.b2"
+    },
+    {
+      "id": "JOHN_10_P003_B003",
+      "panel": "JOHN_10_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5163,
+        0.6773,
+        0.4635,
+        0.0665
+      ],
+      "tail": [
+        0.7481,
+        0.7771
+      ],
+      "text_key": "john.10.p3.b3"
+    }
+  ]
+}

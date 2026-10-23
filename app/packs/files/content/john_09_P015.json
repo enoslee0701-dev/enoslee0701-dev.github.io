@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_09_P015",
+  "book": "john",
+  "chapter": 9,
+  "page": 15,
+  "ref": "9:39-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "我来到这世上是为了审判，使看不见的能看见，能看见的反而瞎了。"
+      }
+    },
+    {
+      "id": "JOHN_09_P015_F2",
+      "box": [
+        0,
+        0.3145,
+        0.4961,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "难道我们也是瞎子吗？"
+      }
+    },
+    {
+      "id": "JOHN_09_P015_F3",
+      "box": [
+        0.5039,
+        0.3145,
+        0.4961,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "如果你们是瞎子，就没有罪了；"
+      }
+    },
+    {
+      "id": "JOHN_09_P015_F4",
+      "box": [
+        0,
+        0.5918,
+        1,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "但现在你们说「我们看得见」，所以你们的罪还在。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P015_B001",
+      "panel": "JOHN_09_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.68,
+        0.0062,
+        0.31,
+        0.065
+      ],
+      "tail": [
+        0.835,
+        0.1022
+      ],
+      "text_key": "john.9.p15.b1"
+    },
+    {
+      "id": "JOHN_09_P015_B002",
+      "panel": "JOHN_09_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.32,
+        0.4564,
+        0.0437
+      ],
+      "tail": [
+        0.248,
+        0.391
+      ],
+      "text_key": "john.9.p15.b2"
+    },
+    {
+      "id": "JOHN_09_P015_B003",
+      "panel": "JOHN_09_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.5237,
+        0.5113,
+        0.4564,
+        0.0683
+      ],
+      "tail": [
+        0.7519,
+        0.5879
+      ],
+      "text_key": "john.9.p15.b3"
+    },
+    {
+      "id": "JOHN_09_P015_B004",
+      "panel": "JOHN_09_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.03,
+        0.604,
+        0.44,
+        0.0612
+      ],
+      "tail": [
+        0.25,
+        0.706
+      ],
+      "text_key": "john.9.p15.b4"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_20_P008",
+  "book": "john",
+  "chapter": 20,
+  "page": 8,
+  "ref": "20:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "耶稣说：「不要拉住我，因为我还没有升上去见我的父。」"
+      }
+    },
+    {
+      "id": "JOHN_20_P008_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "「你到我的弟兄们那里去，告诉他们：我要升上去见我的父，也是你们的父；见我的神，也是你们的神。」"
+      }
+    },
+    {
+      "id": "JOHN_20_P008_F3",
+      "box": [
+        0,
+        0.6139,
+        0.4141,
+        0.3861
+      ]
+    },
+    {
+      "id": "JOHN_20_P008_F4",
+      "box": [
+        0.4209,
+        0.6139,
+        0.5791,
+        0.3861
+      ],
+      "alt": {
+        "zh-CN": "抹大拉的马利亚就去告诉门徒：「我已经看见了主！」又把主对她说的话告诉他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P008_B001",
+      "panel": "JOHN_20_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.008,
+        0.45,
+        0.0588
+      ],
+      "tail": [
+        0.745,
+        0.0936
+      ],
+      "text_key": "john.20.p8.b1"
+    },
+    {
+      "id": "JOHN_20_P008_B002",
+      "panel": "JOHN_20_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.281,
+        0.36,
+        0.1015
+      ],
+      "tail": [
+        0.8,
+        0.4164
+      ],
+      "text_key": "john.20.p8.b2"
+    },
+    {
+      "id": "JOHN_20_P008_B003",
+      "panel": "JOHN_20_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4383,
+        0.6255,
+        0.2663,
+        0.054
+      ],
+      "tail": [
+        0.5715,
+        0.7181
+      ],
+      "text_key": "john.20.p8.b3"
+    },
+    {
+      "id": "JOHN_20_P008_B004",
+      "panel": "JOHN_20_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7105,
+        0.9228,
+        0.2663,
+        0.0617
+      ],
+      "tail": null,
+      "text_key": "john.20.p8.b4"
+    }
+  ]
+}

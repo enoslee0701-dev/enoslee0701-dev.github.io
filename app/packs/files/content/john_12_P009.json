@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_12_P009",
+  "book": "john",
+  "chapter": 12,
+  "page": 9,
+  "ref": "12:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "那时，上来过节礼拜的人当中，有几个希腊人。"
+      }
+    },
+    {
+      "id": "JOHN_12_P009_F2",
+      "box": [
+        0,
+        0.2995,
+        0.5381,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "先生，我们想见耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_12_P009_F3",
+      "box": [
+        0.5459,
+        0.2995,
+        0.4541,
+        0.2904
+      ]
+    },
+    {
+      "id": "JOHN_12_P009_F4",
+      "box": [
+        0,
+        0.5938,
+        1,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "腓力去告诉安得烈，安得烈和腓力就去告诉耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P009_B001",
+      "panel": "JOHN_12_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.003,
+        0.4,
+        0.0413
+      ],
+      "tail": null,
+      "text_key": "john.12.p9.b1"
+    },
+    {
+      "id": "JOHN_12_P009_B002",
+      "panel": "JOHN_12_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2152,
+        0.3024,
+        0.3067,
+        0.0348
+      ],
+      "tail": [
+        0.3686,
+        0.3662
+      ],
+      "text_key": "john.12.p9.b2"
+    },
+    {
+      "id": "JOHN_12_P009_B003",
+      "panel": "JOHN_12_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.606,
+        0.45,
+        0.065
+      ],
+      "tail": null,
+      "text_key": "john.12.p9.b3"
+    }
+  ]
+}

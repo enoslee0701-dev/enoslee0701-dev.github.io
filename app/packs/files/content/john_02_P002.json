@@ -1,0 +1,103 @@
+{
+  "id": "JOHN_02_P002",
+  "book": "john",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "母亲，这跟我有什么关系呢？我的时候还没有到。"
+      }
+    },
+    {
+      "id": "JOHN_02_P002_F2",
+      "box": [
+        0,
+        0.3346,
+        1,
+        0.1973
+      ],
+      "alt": {
+        "zh-CN": "（母亲听了，安静地点点头。）"
+      }
+    },
+    {
+      "id": "JOHN_02_P002_F3",
+      "box": [
+        0,
+        0.5365,
+        1,
+        0.4635
+      ],
+      "alt": {
+        "zh-CN": "他告诉你们做什么，你们就照着做。"
+      }
+    },
+    {
+      "id": "JOHN_02_P002_F4",
+      "box": [
+        0.465,
+        0.779,
+        0.535,
+        0.221
+      ],
+      "alt": {
+        "zh-CN": "（用人们互相看看，又看向耶稣。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_02_P002_B001",
+      "panel": "JOHN_02_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0099,
+        0.45,
+        0.0528
+      ],
+      "tail": [
+        0.745,
+        0.0957
+      ],
+      "text_key": "john.2.p2.b1"
+    },
+    {
+      "id": "JOHN_02_P002_B002",
+      "panel": "JOHN_02_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5458,
+        0.46,
+        0.0463
+      ],
+      "tail": [
+        0.25,
+        0.6385
+      ],
+      "text_key": "john.2.p2.b2"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "MARK_01_P017",
+  "book": "mark",
+  "chapter": 1,
+  "page": 17,
+  "ref": "1:40-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MARK_01_P017",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "MARK_01_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.576
+      ],
+      "alt": {
+        "zh-CN": "长大麻风的人跪在耶稣脚前，伸出双手恳求。"
+      }
+    },
+    {
+      "id": "MARK_01_P017_F2",
+      "box": [
+        0,
+        0.583,
+        0.582,
+        0.417
+      ],
+      "alt": {
+        "zh-CN": "耶稣低头看他，满面怜悯。"
+      }
+    },
+    {
+      "id": "MARK_01_P017_F3",
+      "box": [
+        0.594,
+        0.583,
+        0.406,
+        0.417
+      ],
+      "alt": {
+        "zh-CN": "旁观的老人和妇人惊讶地看着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MARK_01_P017_B001",
+      "panel": "MARK_01_P017_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0115,
+        0.36,
+        0.0691
+      ],
+      "tail": null,
+      "text_key": "mark.1.p17.b1"
+    },
+    {
+      "id": "MARK_01_P017_B002",
+      "panel": "MARK_01_P017_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0115,
+        0.2,
+        0.0921
+      ],
+      "tail": [
+        0.5,
+        0.1612
+      ],
+      "text_key": "mark.1.p17.b2"
+    },
+    {
+      "id": "MARK_01_P017_B003",
+      "panel": "MARK_01_P017_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0116,
+        0.5997,
+        0.1047,
+        0.1
+      ],
+      "tail": null,
+      "text_key": "mark.1.p17.b3"
+    }
+  ]
+}

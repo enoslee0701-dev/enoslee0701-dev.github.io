@@ -1,0 +1,127 @@
+{
+  "id": "JOHN_01_P012",
+  "book": "john",
+  "chapter": 1,
+  "page": 12,
+  "ref": "1:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "又过了一天，约翰和他的两个门徒站在那里。"
+      }
+    },
+    {
+      "id": "JOHN_01_P012_F2",
+      "box": [
+        0,
+        0.2259,
+        1,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "「看哪，这是神的羔羊！」"
+      }
+    },
+    {
+      "id": "JOHN_01_P012_F3",
+      "box": [
+        0,
+        0.584,
+        1,
+        0.1549
+      ]
+    },
+    {
+      "id": "JOHN_01_P012_F4",
+      "box": [
+        0,
+        0.7448,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "两个门徒听见他这话，就跟从了耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P012_B001",
+      "panel": "JOHN_01_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0088,
+        0.42,
+        0.0573
+      ],
+      "tail": null,
+      "text_key": "john.1.p12.b1"
+    },
+    {
+      "id": "JOHN_01_P012_B002",
+      "panel": "JOHN_01_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2365,
+        0.5,
+        0.0303
+      ],
+      "tail": null,
+      "text_key": "john.1.p12.b2"
+    },
+    {
+      "id": "JOHN_01_P012_B003",
+      "panel": "JOHN_01_P012_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.2739,
+        0.5,
+        0.0333
+      ],
+      "tail": [
+        0.28,
+        0.3425
+      ],
+      "text_key": "john.1.p12.b3"
+    },
+    {
+      "id": "JOHN_01_P012_B004",
+      "panel": "JOHN_01_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.755,
+        0.66,
+        0.0408
+      ],
+      "tail": null,
+      "text_key": "john.1.p12.b4"
+    }
+  ]
+}

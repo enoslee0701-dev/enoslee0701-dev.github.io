@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_05_P012",
+  "book": "john",
+  "chapter": 5,
+  "page": 12,
+  "ref": "5:36-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "……父交给我要我完成的事，就是我所做的事，这就证明我是父所差来的。"
+      }
+    },
+    {
+      "id": "JOHN_05_P012_F2",
+      "box": [
+        0,
+        0.2591,
+        1,
+        0.3939
+      ],
+      "alt": {
+        "zh-CN": "差我来的父也为我作过见证。你们从来没有听见过他的声音，也没有见过他的形象。"
+      }
+    },
+    {
+      "id": "JOHN_05_P012_F3",
+      "box": [
+        0,
+        0.6569,
+        1,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "你们并没有让他的道存在心里，因为你们不信他所差来的那一位。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P012_B001",
+      "panel": "JOHN_05_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0051,
+        0.45,
+        0.0509
+      ],
+      "tail": [
+        0.255,
+        0.0815
+      ],
+      "text_key": "john.5.p12.b1"
+    },
+    {
+      "id": "JOHN_05_P012_B002",
+      "panel": "JOHN_05_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.267,
+        0.5,
+        0.063
+      ],
+      "tail": [
+        0.28,
+        0.3694
+      ],
+      "text_key": "john.5.p12.b2"
+    },
+    {
+      "id": "JOHN_05_P012_B003",
+      "panel": "JOHN_05_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.77,
+        0.6638,
+        0.21,
+        0.1509
+      ],
+      "tail": [
+        0.875,
+        0.849
+      ],
+      "text_key": "john.5.p12.b3"
+    }
+  ]
+}

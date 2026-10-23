@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_14_P004",
+  "book": "john",
+  "chapter": 14,
+  "page": 4,
+  "ref": "14:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_14_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_14_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2025
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，我所做的事，信我的人也要做，"
+      }
+    },
+    {
+      "id": "JOHN_14_P004_F2",
+      "box": [
+        0,
+        0.207,
+        0.4785,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "而且要做比这更大的事，因为我到父那里去。"
+      }
+    },
+    {
+      "id": "JOHN_14_P004_F3",
+      "box": [
+        0.4854,
+        0.207,
+        0.5146,
+        0.3014
+      ]
+    },
+    {
+      "id": "JOHN_14_P004_F4",
+      "box": [
+        0,
+        0.513,
+        1,
+        0.487
+      ],
+      "alt": {
+        "zh-CN": "你们奉我的名无论求什么，我必成就，使父因儿子得荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_14_P004_B001",
+      "panel": "JOHN_14_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.71,
+        0.0081,
+        0.27,
+        0.0648
+      ],
+      "tail": [
+        0,
+        0.0932
+      ],
+      "text_key": "john.14.p4.b1"
+    },
+    {
+      "id": "JOHN_14_P004_B002",
+      "panel": "JOHN_14_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0144,
+        0.216,
+        0.1722,
+        0.0723
+      ],
+      "tail": [
+        0,
+        0.3184
+      ],
+      "text_key": "john.14.p4.b2"
+    },
+    {
+      "id": "JOHN_14_P004_B003",
+      "panel": "JOHN_14_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.75,
+        0.5227,
+        0.23,
+        0.0925
+      ],
+      "tail": [
+        0.865,
+        0.6639
+      ],
+      "text_key": "john.14.p4.b3"
+    }
+  ]
+}

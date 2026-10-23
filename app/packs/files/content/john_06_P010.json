@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_06_P010",
+  "book": "john",
+  "chapter": 6,
+  "page": 10,
+  "ref": "6:26-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "你们找我，不是因为看见了神迹，而是因为吃饼吃饱了。"
+      }
+    },
+    {
+      "id": "JOHN_06_P010_F2",
+      "box": [
+        0,
+        0.2298,
+        0.4941,
+        0.3027
+      ]
+    },
+    {
+      "id": "JOHN_06_P010_F3",
+      "box": [
+        0.5049,
+        0.2298,
+        0.4951,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "不要为会坏掉的食物劳碌，要为存到永生的食物劳碌，"
+      }
+    },
+    {
+      "id": "JOHN_06_P010_F4",
+      "box": [
+        0,
+        0.5371,
+        1,
+        0.4629
+      ],
+      "alt": {
+        "zh-CN": "我们该做什么，才算做神的工作呢？ / 信神所差来的，这就是做神的工作。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P010_B001",
+      "panel": "JOHN_06_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0068,
+        0.45,
+        0.0406
+      ],
+      "tail": [
+        0.255,
+        0.07
+      ],
+      "text_key": "john.6.p10.b1"
+    },
+    {
+      "id": "JOHN_06_P010_B002",
+      "panel": "JOHN_06_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7525,
+        0.4296,
+        0.2326,
+        0.0908
+      ],
+      "tail": [
+        0.8688,
+        0.5325
+      ],
+      "text_key": "john.6.p10.b2"
+    },
+    {
+      "id": "JOHN_06_P010_B003",
+      "panel": "JOHN_06_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5464,
+        0.25,
+        0.0648
+      ],
+      "tail": [
+        0.145,
+        0.6575
+      ],
+      "text_key": "john.6.p10.b3"
+    },
+    {
+      "id": "JOHN_06_P010_B004",
+      "panel": "JOHN_06_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.551,
+        0.23,
+        0.1296
+      ],
+      "tail": [
+        0.555,
+        0.7269
+      ],
+      "text_key": "john.6.p10.b4"
+    }
+  ]
+}

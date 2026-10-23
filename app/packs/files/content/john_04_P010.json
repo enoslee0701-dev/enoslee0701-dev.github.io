@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_04_P010",
+  "book": "john",
+  "chapter": 4,
+  "page": 10,
+  "ref": "4:31-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "拉比，请吃吧。"
+      }
+    },
+    {
+      "id": "JOHN_04_P010_F2",
+      "box": [
+        0,
+        0.2891,
+        0.5049,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "我有食物吃，是你们不知道的。"
+      }
+    },
+    {
+      "id": "JOHN_04_P010_F3",
+      "box": [
+        0.5137,
+        0.2891,
+        0.4863,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "难道有人拿什么东西给他吃了吗？"
+      }
+    },
+    {
+      "id": "JOHN_04_P010_F4",
+      "box": [
+        0,
+        0.5592,
+        1,
+        0.4408
+      ],
+      "alt": {
+        "zh-CN": "我的食物，就是遵行差我来那一位的旨意，完成他的工作。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P010_B001",
+      "panel": "JOHN_04_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0085,
+        0.45,
+        0.0569
+      ],
+      "tail": [
+        0.255,
+        0.0939
+      ],
+      "text_key": "john.4.p10.b1"
+    },
+    {
+      "id": "JOHN_04_P010_B002",
+      "panel": "JOHN_04_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0151,
+        0.2944,
+        0.4746,
+        0.0371
+      ],
+      "tail": [
+        0.2524,
+        0.358
+      ],
+      "text_key": "john.4.p10.b2"
+    },
+    {
+      "id": "JOHN_04_P010_B003",
+      "panel": "JOHN_04_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.538,
+        0.2944,
+        0.4376,
+        0.0424
+      ],
+      "tail": [
+        0.7568,
+        0.3633
+      ],
+      "text_key": "john.4.p10.b3"
+    },
+    {
+      "id": "JOHN_04_P010_B004",
+      "panel": "JOHN_04_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.568,
+        0.42,
+        0.0528
+      ],
+      "tail": [
+        0.76,
+        0.6649
+      ],
+      "text_key": "john.4.p10.b4"
+    }
+  ]
+}

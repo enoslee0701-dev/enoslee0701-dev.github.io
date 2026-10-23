@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_16_P008",
+  "book": "john",
+  "chapter": 16,
+  "page": 8,
+  "ref": "16:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_16_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_16_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "这些事，我是用比喻告诉你们的；时候快到了，……我要把父清楚地告诉你们。"
+      }
+    },
+    {
+      "id": "JOHN_16_P008_F2",
+      "box": [
+        0,
+        0.2507,
+        0.2783,
+        0.5039
+      ],
+      "alt": {
+        "zh-CN": "到那一天，你们要奉我的名祈求；……父自己爱你们；"
+      }
+    },
+    {
+      "id": "JOHN_16_P008_F3",
+      "box": [
+        0.2852,
+        0.2507,
+        0.7148,
+        0.5039
+      ],
+      "alt": {
+        "zh-CN": "我从父那里出来，到了世界；我又要离开世界，到父那里去。"
+      }
+    },
+    {
+      "id": "JOHN_16_P008_F4",
+      "box": [
+        0,
+        0.7591,
+        1,
+        0.2409
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_16_P008_B001",
+      "panel": "JOHN_16_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.63,
+        0.0098,
+        0.34,
+        0.0736
+      ],
+      "tail": [
+        0.8,
+        0.1079
+      ],
+      "text_key": "john.16.p8.b1"
+    },
+    {
+      "id": "JOHN_16_P008_B002",
+      "panel": "JOHN_16_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0111,
+        0.6236,
+        0.2504,
+        0.1108
+      ],
+      "tail": [
+        0.1363,
+        0.7546
+      ],
+      "text_key": "john.16.p8.b2"
+    },
+    {
+      "id": "JOHN_16_P008_B003",
+      "panel": "JOHN_16_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.7427,
+        0.2709,
+        0.2358,
+        0.1108
+      ],
+      "tail": [
+        0.8606,
+        0.4321
+      ],
+      "text_key": "john.16.p8.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_15_P010",
+  "book": "john",
+  "chapter": 15,
+  "page": 10,
+  "ref": "15:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_15_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_15_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2533
+      ],
+      "alt": {
+        "zh-CN": "但我要从父那里差派保惠师来，就是从父那里出来的真理的灵；"
+      }
+    },
+    {
+      "id": "JOHN_15_P010_F2",
+      "box": [
+        0,
+        0.2565,
+        1,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "他来了，就要为我作见证。"
+      }
+    },
+    {
+      "id": "JOHN_15_P010_F3",
+      "box": [
+        0,
+        0.6725,
+        0.4756,
+        0.3275
+      ]
+    },
+    {
+      "id": "JOHN_15_P010_F4",
+      "box": [
+        0.4834,
+        0.6725,
+        0.5166,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "你们也要作见证，因为你们从一开始就和我在一起。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_15_P010_B001",
+      "panel": "JOHN_15_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0101,
+        0.42,
+        0.0557
+      ],
+      "tail": [
+        0,
+        0.0911
+      ],
+      "text_key": "john.15.p10.b1"
+    },
+    {
+      "id": "JOHN_15_P010_B002",
+      "panel": "JOHN_15_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.2648,
+        0.28,
+        0.0496
+      ],
+      "tail": [
+        0.84,
+        0.3557
+      ],
+      "text_key": "john.15.p10.b2"
+    },
+    {
+      "id": "JOHN_15_P010_B003",
+      "panel": "JOHN_15_P010_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.69,
+        0.679,
+        0.2944,
+        0.0458
+      ],
+      "tail": [
+        0.8372,
+        0.7575
+      ],
+      "text_key": "john.15.p10.b3"
+    }
+  ]
+}

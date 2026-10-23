@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_20_P005",
+  "book": "john",
+  "chapter": 20,
+  "page": 5,
+  "ref": "20:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "她看见两个穿白衣的天使，坐在原来放耶稣身体的地方，一个在头那边，一个在脚那边。"
+      }
+    },
+    {
+      "id": "JOHN_20_P005_F2",
+      "box": [
+        0,
+        0.3802,
+        0.4492,
+        0.2695
+      ]
+    },
+    {
+      "id": "JOHN_20_P005_F3",
+      "box": [
+        0.458,
+        0.3802,
+        0.542,
+        0.2695
+      ],
+      "alt": {
+        "zh-CN": "天使问她：「你为什么哭？」"
+      }
+    },
+    {
+      "id": "JOHN_20_P005_F4",
+      "box": [
+        0,
+        0.6536,
+        1,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "她说：「有人把我的主挪走了，我不知道放在哪里。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P005_B001",
+      "panel": "JOHN_20_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0113,
+        0.42,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "john.20.p5.b1"
+    },
+    {
+      "id": "JOHN_20_P005_B002",
+      "panel": "JOHN_20_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.729,
+        0.391,
+        0.2493,
+        0.0539
+      ],
+      "tail": [
+        0.8537,
+        0.4719
+      ],
+      "text_key": "john.20.p5.b2"
+    },
+    {
+      "id": "JOHN_20_P005_B003",
+      "panel": "JOHN_20_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.664,
+        0.46,
+        0.0831
+      ],
+      "tail": [
+        0.26,
+        0.7817
+      ],
+      "text_key": "john.20.p5.b3"
+    }
+  ]
+}

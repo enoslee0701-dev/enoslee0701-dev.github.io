@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_17_P009",
+  "book": "john",
+  "chapter": 17,
+  "page": 9,
+  "ref": "17:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "你赐给我的荣耀，我已经赐给他们，使他们成为一体，像我们是一体。"
+      }
+    },
+    {
+      "id": "JOHN_17_P009_F2",
+      "box": [
+        0,
+        0.2358,
+        0.375,
+        0.2067
+      ],
+      "alt": {
+        "zh-CN": "我在他们里面，你在我里面，使他们完全合而为一……"
+      }
+    },
+    {
+      "id": "JOHN_17_P009_F3",
+      "box": [
+        0,
+        0.2344,
+        1,
+        0.7656
+      ],
+      "alt": {
+        "zh-CN": "父啊，我在哪里，愿你赐给我的人也和我在一起，让他们看见你赐给我的荣耀；"
+      }
+    },
+    {
+      "id": "JOHN_17_P009_F4",
+      "box": [
+        0.4038,
+        0.7567,
+        0.5962,
+        0.2433
+      ],
+      "alt": {
+        "zh-CN": "因为在创造世界以前，你就已经爱我了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P009_B001",
+      "panel": "JOHN_17_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2,
+        0.0069,
+        0.6,
+        0.0554
+      ],
+      "tail": [
+        0.5,
+        0.0854
+      ],
+      "text_key": "john.17.p9.b1"
+    },
+    {
+      "id": "JOHN_17_P009_B002",
+      "panel": "JOHN_17_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0075,
+        0.4012,
+        0.15,
+        0.0351
+      ],
+      "tail": null,
+      "text_key": "john.17.p9.b2"
+    },
+    {
+      "id": "JOHN_17_P009_B003",
+      "panel": "JOHN_17_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.5,
+        0.2574,
+        0.46,
+        0.1684
+      ],
+      "tail": [
+        0.73,
+        0.5024
+      ],
+      "text_key": "john.17.p9.b3"
+    },
+    {
+      "id": "JOHN_17_P009_B004",
+      "panel": "JOHN_17_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.4217,
+        0.7689,
+        0.2146,
+        0.1459
+      ],
+      "tail": [
+        0.529,
+        0.9391
+      ],
+      "text_key": "john.17.p9.b4"
+    }
+  ]
+}

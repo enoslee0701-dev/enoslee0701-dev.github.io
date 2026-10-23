@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_18_P007",
+  "book": "john",
+  "chapter": 18,
+  "page": 7,
+  "ref": "18:18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "仆人和差役因为天冷，生了炭火，站在那里烤火；"
+      }
+    },
+    {
+      "id": "JOHN_18_P007_F2",
+      "box": [
+        0,
+        0.2435,
+        0.2734,
+        0.418
+      ]
+    },
+    {
+      "id": "JOHN_18_P007_F3",
+      "box": [
+        0.2803,
+        0.2435,
+        0.7197,
+        0.418
+      ],
+      "alt": {
+        "zh-CN": "彼得也和他们站在一起烤火。"
+      }
+    },
+    {
+      "id": "JOHN_18_P007_F4",
+      "box": [
+        0,
+        0.6654,
+        1,
+        0.3346
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P007_B001",
+      "panel": "JOHN_18_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.68,
+        0.0048,
+        0.3,
+        0.048
+      ],
+      "tail": null,
+      "text_key": "john.18.p7.b1"
+    },
+    {
+      "id": "JOHN_18_P007_B002",
+      "panel": "JOHN_18_P007_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4602,
+        0.5946,
+        0.2303,
+        0.0585
+      ],
+      "tail": null,
+      "text_key": "john.18.p7.b2"
+    }
+  ]
+}

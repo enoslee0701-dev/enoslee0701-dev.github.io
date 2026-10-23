@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_21_P003",
+  "book": "john",
+  "chapter": 21,
+  "page": 3,
+  "ref": "21:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_21_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_21_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "是主！"
+      }
+    },
+    {
+      "id": "JOHN_21_P003_F2",
+      "box": [
+        0,
+        0.2292,
+        0.2803,
+        0.4434
+      ],
+      "alt": {
+        "zh-CN": "西门彼得那时没穿外衣，一听说是主，就把外衣束上，跳进了海里。"
+      }
+    },
+    {
+      "id": "JOHN_21_P003_F3",
+      "box": [
+        0.2891,
+        0.2292,
+        0.7109,
+        0.4434
+      ]
+    },
+    {
+      "id": "JOHN_21_P003_F4",
+      "box": [
+        0,
+        0.6771,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "其他的门徒在小船上，离岸不远，大约九十米，就把那一网鱼拖了过来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_21_P003_B001",
+      "panel": "JOHN_21_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0068,
+        0.25,
+        0.0498
+      ],
+      "tail": [
+        0.155,
+        0.0793
+      ],
+      "text_key": "john.21.p3.b1"
+    },
+    {
+      "id": "JOHN_21_P003_B002",
+      "panel": "JOHN_21_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0112,
+        0.5928,
+        0.2578,
+        0.0665
+      ],
+      "tail": null,
+      "text_key": "john.21.p3.b2"
+    },
+    {
+      "id": "JOHN_21_P003_B003",
+      "panel": "JOHN_21_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.6868,
+        0.38,
+        0.0839
+      ],
+      "tail": null,
+      "text_key": "john.21.p3.b3"
+    }
+  ]
+}

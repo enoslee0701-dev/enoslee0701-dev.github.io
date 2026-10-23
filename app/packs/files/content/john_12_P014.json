@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_12_P014",
+  "book": "john",
+  "chapter": 12,
+  "page": 14,
+  "ref": "12:34-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "……基督是永远长存的，你怎么说「人子必须被举起来」呢？这人子是谁呢？"
+      }
+    },
+    {
+      "id": "JOHN_12_P014_F2",
+      "box": [
+        0,
+        0.2819,
+        0.6289,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "光在你们中间的时候不多了，应当趁着有光行走，免得黑暗临到你们；"
+      }
+    },
+    {
+      "id": "JOHN_12_P014_F3",
+      "box": [
+        0.6357,
+        0.2819,
+        0.3643,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "你们应当趁着有光，信从这光，好成为光明之子。"
+      }
+    },
+    {
+      "id": "JOHN_12_P014_F4",
+      "box": [
+        0,
+        0.5911,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "耶稣说完这话，就离开他们，隐藏起来了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P014_B001",
+      "panel": "JOHN_12_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.3,
+        0.0084,
+        0.68,
+        0.0558
+      ],
+      "tail": [
+        0.64,
+        0.0921
+      ],
+      "text_key": "john.12.p14.b1"
+    },
+    {
+      "id": "JOHN_12_P014_B002",
+      "panel": "JOHN_12_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0126,
+        0.5149,
+        0.2515,
+        0.0674
+      ],
+      "tail": [
+        0.1384,
+        0.5885
+      ],
+      "text_key": "john.12.p14.b2"
+    },
+    {
+      "id": "JOHN_12_P014_B003",
+      "panel": "JOHN_12_P014_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6503,
+        0.4965,
+        0.3278,
+        0.0827
+      ],
+      "tail": [
+        0.8142,
+        0.5885
+      ],
+      "text_key": "john.12.p14.b3"
+    },
+    {
+      "id": "JOHN_12_P014_B004",
+      "panel": "JOHN_12_P014_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6034,
+        0.42,
+        0.0654
+      ],
+      "tail": null,
+      "text_key": "john.12.p14.b4"
+    }
+  ]
+}

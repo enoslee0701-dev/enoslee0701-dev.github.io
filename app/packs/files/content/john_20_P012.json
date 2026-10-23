@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_20_P012",
+  "book": "john",
+  "chapter": 20,
+  "page": 12,
+  "ref": "20:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2324
+      ],
+      "alt": {
+        "zh-CN": "过了八天，门徒又在屋子里，这次多马也和他们在一起，门都关着。"
+      }
+    },
+    {
+      "id": "JOHN_20_P012_F2",
+      "box": [
+        0,
+        0.2363,
+        0.2959,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "耶稣来了，站在他们中间说：「愿你们平安！」"
+      }
+    },
+    {
+      "id": "JOHN_20_P012_F3",
+      "box": [
+        0.3018,
+        0.2363,
+        0.6982,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "他对多马说：「把你的指头伸过来，摸摸我的手；把你的手伸出来，放进我的肋旁。」"
+      }
+    },
+    {
+      "id": "JOHN_20_P012_F4",
+      "box": [
+        0,
+        0.6875,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "「不要再怀疑，要相信！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P012_B001",
+      "panel": "JOHN_20_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0093,
+        0.44,
+        0.0604
+      ],
+      "tail": null,
+      "text_key": "john.20.p12.b1"
+    },
+    {
+      "id": "JOHN_20_P012_B002",
+      "panel": "JOHN_20_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0178,
+        0.2452,
+        0.2544,
+        0.0402
+      ],
+      "tail": [
+        0.145,
+        0.3301
+      ],
+      "text_key": "john.20.p12.b2"
+    },
+    {
+      "id": "JOHN_20_P012_B003",
+      "panel": "JOHN_20_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6788,
+        0.2497,
+        0.2932,
+        0.1073
+      ],
+      "tail": [
+        0.8254,
+        0.4017
+      ],
+      "text_key": "john.20.p12.b3"
+    },
+    {
+      "id": "JOHN_20_P012_B004",
+      "panel": "JOHN_20_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7031,
+        0.4,
+        0.0875
+      ],
+      "tail": [
+        0.23,
+        0.8219
+      ],
+      "text_key": "john.20.p12.b4"
+    }
+  ]
+}

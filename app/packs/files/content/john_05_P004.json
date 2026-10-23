@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_05_P004",
+  "book": "john",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "今天是安息日，你扛着褥子是不可以的。"
+      }
+    },
+    {
+      "id": "JOHN_05_P004_F2",
+      "box": [
+        0,
+        0.2865,
+        0.6875,
+        0.4186
+      ],
+      "alt": {
+        "zh-CN": "那位使我痊愈的人对我说：『拿起你的褥子走吧。』"
+      }
+    },
+    {
+      "id": "JOHN_05_P004_F3",
+      "box": [
+        0.6953,
+        0.2865,
+        0.3047,
+        0.4186
+      ],
+      "alt": {
+        "zh-CN": "对你说『拿起褥子走』的是谁？"
+      }
+    },
+    {
+      "id": "JOHN_05_P004_F4",
+      "box": [
+        0,
+        0.709,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "那被治好的人不知道是谁；因为那里人多，耶稣已经离开了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P004_B001",
+      "panel": "JOHN_05_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.49,
+        0.0056,
+        0.27,
+        0.0422
+      ],
+      "tail": [
+        0.625,
+        0.076
+      ],
+      "text_key": "john.5.p4.b1"
+    },
+    {
+      "id": "JOHN_05_P004_B002",
+      "panel": "JOHN_05_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0138,
+        0.2949,
+        0.4125,
+        0.0502
+      ],
+      "tail": [
+        0.2201,
+        0.387
+      ],
+      "text_key": "john.5.p4.b2"
+    },
+    {
+      "id": "JOHN_05_P004_B003",
+      "panel": "JOHN_05_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7075,
+        0.2949,
+        0.2803,
+        0.0586
+      ],
+      "tail": [
+        0.8477,
+        0.3954
+      ],
+      "text_key": "john.5.p4.b3"
+    },
+    {
+      "id": "JOHN_05_P004_B004",
+      "panel": "JOHN_05_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7177,
+        0.46,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "john.5.p4.b4"
+    }
+  ]
+}

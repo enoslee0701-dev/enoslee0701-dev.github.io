@@ -1,0 +1,127 @@
+{
+  "id": "JOHN_06_P012",
+  "book": "john",
+  "chapter": 6,
+  "page": 12,
+  "ref": "6:34-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2246
+      ],
+      "alt": {
+        "zh-CN": "主啊，请常常把这粮赐给我们！"
+      }
+    },
+    {
+      "id": "JOHN_06_P012_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.4505
+      ],
+      "alt": {
+        "zh-CN": "我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴。"
+      }
+    },
+    {
+      "id": "JOHN_06_P012_F3",
+      "box": [
+        0,
+        0.6842,
+        1,
+        0.3158
+      ],
+      "alt": {
+        "zh-CN": "只是我对你们说过，你们已经看见了我，还是不信。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P012_B001",
+      "panel": "JOHN_06_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.6,
+        0.0045,
+        0.37,
+        0.0381
+      ],
+      "tail": [
+        0.785,
+        0.0651
+      ],
+      "text_key": "john.6.p12.b1"
+    },
+    {
+      "id": "JOHN_06_P012_B002",
+      "panel": "JOHN_06_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.03,
+        0.2427,
+        0.42,
+        0.072
+      ],
+      "tail": [
+        0.24,
+        0.3598
+      ],
+      "text_key": "john.6.p12.b2"
+    },
+    {
+      "id": "JOHN_06_P012_B003",
+      "panel": "JOHN_06_P012_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.5626,
+        0.41,
+        0.0901
+      ],
+      "tail": [
+        0.765,
+        0.6797
+      ],
+      "text_key": "john.6.p12.b3"
+    },
+    {
+      "id": "JOHN_06_P012_B004",
+      "panel": "JOHN_06_P012_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.29,
+        0.6905,
+        0.44,
+        0.0378
+      ],
+      "tail": [
+        0.51,
+        0.7599
+      ],
+      "text_key": "john.6.p12.b4"
+    }
+  ]
+}

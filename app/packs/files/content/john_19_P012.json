@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_19_P012",
+  "book": "john",
+  "chapter": 19,
+  "page": 12,
+  "ref": "19:30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_19_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_19_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1556
+      ],
+      "alt": {
+        "zh-CN": "耶稣尝了那酸酒，就说："
+      }
+    },
+    {
+      "id": "JOHN_19_P012_F2",
+      "box": [
+        0,
+        0.1595,
+        1,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "完成了！"
+      }
+    },
+    {
+      "id": "JOHN_19_P012_F3",
+      "box": [
+        0,
+        0.4889,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "就低下头，把灵魂交给了神。"
+      }
+    },
+    {
+      "id": "JOHN_19_P012_F4",
+      "box": [
+        0,
+        0.7201,
+        1,
+        0.2799
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_19_P012_B001",
+      "panel": "JOHN_19_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.48,
+        0.0031,
+        0.5,
+        0.0342
+      ],
+      "tail": null,
+      "text_key": "john.19.p12.b1"
+    },
+    {
+      "id": "JOHN_19_P012_B002",
+      "panel": "JOHN_19_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.66,
+        0.1692,
+        0.32,
+        0.0649
+      ],
+      "tail": [
+        0.82,
+        0.2666
+      ],
+      "text_key": "john.19.p12.b2"
+    },
+    {
+      "id": "JOHN_19_P012_B003",
+      "panel": "JOHN_19_P012_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.72,
+        0.6025,
+        0.26,
+        0.1022
+      ],
+      "tail": null,
+      "text_key": "john.19.p12.b3"
+    }
+  ]
+}

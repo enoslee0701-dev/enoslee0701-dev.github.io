@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_10_P012",
+  "book": "john",
+  "chapter": 10,
+  "page": 12,
+  "ref": "10:34-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "你们的律法上不是写着『我说过你们是神』吗？"
+      }
+    },
+    {
+      "id": "JOHN_10_P012_F2",
+      "box": [
+        0,
+        0.248,
+        0.46,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "圣经是不能废掉的；"
+      }
+    },
+    {
+      "id": "JOHN_10_P012_F3",
+      "box": [
+        0.4668,
+        0.248,
+        0.5332,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "……使你们知道、并且明白父在我里面，我也在父里面。"
+      }
+    },
+    {
+      "id": "JOHN_10_P012_F4",
+      "box": [
+        0,
+        0.5397,
+        1,
+        0.4603
+      ],
+      "alt": {
+        "zh-CN": "他们又想抓他，他却从他们手中脱身离开了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P012_B001",
+      "panel": "JOHN_10_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0049,
+        0.31,
+        0.0585
+      ],
+      "tail": [
+        0.175,
+        0.0878
+      ],
+      "text_key": "john.10.p12.b1"
+    },
+    {
+      "id": "JOHN_10_P012_B002",
+      "panel": "JOHN_10_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0184,
+        0.2537,
+        0.4232,
+        0.0631
+      ],
+      "tail": [
+        0.23,
+        0.3455
+      ],
+      "text_key": "john.10.p12.b2"
+    },
+    {
+      "id": "JOHN_10_P012_B003",
+      "panel": "JOHN_10_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.8027,
+        0.2537,
+        0.1866,
+        0.1148
+      ],
+      "tail": [
+        0.896,
+        0.3972
+      ],
+      "text_key": "john.10.p12.b3"
+    },
+    {
+      "id": "JOHN_10_P012_B004",
+      "panel": "JOHN_10_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.5489,
+        0.44,
+        0.046
+      ],
+      "tail": null,
+      "text_key": "john.10.p12.b4"
+    }
+  ]
+}

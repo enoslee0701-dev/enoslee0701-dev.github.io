@@ -1,0 +1,130 @@
+{
+  "id": "JOHN_04_P009",
+  "book": "john",
+  "chapter": 4,
+  "page": 9,
+  "ref": "4:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3164
+      ],
+      "alt": {
+        "zh-CN": "这时门徒回来，很惊奇耶稣在和一个妇人说话……"
+      }
+    },
+    {
+      "id": "JOHN_04_P009_F2",
+      "box": [
+        0,
+        0.321,
+        0.3652,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "那妇人就留下水罐，进城去……"
+      }
+    },
+    {
+      "id": "JOHN_04_P009_F3",
+      "box": [
+        0.373,
+        0.321,
+        0.627,
+        0.679
+      ],
+      "alt": {
+        "zh-CN": "你们来看！有一个人把我以前做过的一切事都说出来了，难道这就是基督吗？"
+      }
+    },
+    {
+      "id": "JOHN_04_P009_F4",
+      "box": [
+        0,
+        0.6634,
+        0.3652,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "众人就出城，往耶稣那里去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P009_B001",
+      "panel": "JOHN_04_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0095,
+        0.45,
+        0.0632
+      ],
+      "tail": null,
+      "text_key": "john.4.p9.b1"
+    },
+    {
+      "id": "JOHN_04_P009_B002",
+      "panel": "JOHN_04_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0183,
+        0.3311,
+        0.3286,
+        0.0743
+      ],
+      "tail": null,
+      "text_key": "john.4.p9.b2"
+    },
+    {
+      "id": "JOHN_04_P009_B003",
+      "panel": "JOHN_04_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.7743,
+        0.3278,
+        0.2131,
+        0.0746
+      ],
+      "tail": [
+        0.8809,
+        0.4703
+      ],
+      "text_key": "john.4.p9.b3"
+    },
+    {
+      "id": "JOHN_04_P009_B004",
+      "panel": "JOHN_04_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.011,
+        0.6735,
+        0.2008,
+        0.0605
+      ],
+      "tail": null,
+      "text_key": "john.4.p9.b4"
+    }
+  ]
+}

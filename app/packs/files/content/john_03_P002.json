@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_03_P002",
+  "book": "john",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.599
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你，人如果不重生，就不能看见　神的国。"
+      }
+    },
+    {
+      "id": "JOHN_03_P002_F2",
+      "box": [
+        0,
+        0.392,
+        0.625,
+        0.207
+      ],
+      "alt": {
+        "zh-CN": "（尼哥德慕愣住了。）"
+      }
+    },
+    {
+      "id": "JOHN_03_P002_F3",
+      "box": [
+        0,
+        0.6029,
+        1,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "人已经老了，怎么能重生呢？难道能再进母亲的肚子里生出来吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P002_B001",
+      "panel": "JOHN_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.012,
+        0.58,
+        0.0658
+      ],
+      "tail": [
+        0.69,
+        0.1377
+      ],
+      "text_key": "john.3.p2.b1"
+    },
+    {
+      "id": "JOHN_03_P002_B002",
+      "panel": "JOHN_03_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.6108,
+        0.28,
+        0.1072
+      ],
+      "tail": [
+        0.56,
+        0.7577
+      ],
+      "text_key": "john.3.p2.b2"
+    }
+  ]
+}

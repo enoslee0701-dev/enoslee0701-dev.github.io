@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_14_P007",
+  "book": "john",
+  "chapter": 14,
+  "page": 7,
+  "ref": "14:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_14_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_14_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "主啊，为什么要向我们显现，却不向世人显现呢？"
+      }
+    },
+    {
+      "id": "JOHN_14_P007_F2",
+      "box": [
+        0,
+        0.2598,
+        0.5264,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "人若爱我，就会遵守我的道；"
+      }
+    },
+    {
+      "id": "JOHN_14_P007_F3",
+      "box": [
+        0.5332,
+        0.2598,
+        0.4668,
+        0.3171
+      ]
+    },
+    {
+      "id": "JOHN_14_P007_F4",
+      "box": [
+        0,
+        0.5801,
+        1,
+        0.4199
+      ],
+      "alt": {
+        "zh-CN": "我父也必爱他，而且我们要到他那里去，和他同住。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_14_P007_B001",
+      "panel": "JOHN_14_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0077,
+        0.3,
+        0.0513
+      ],
+      "tail": [
+        0.73,
+        0.0847
+      ],
+      "text_key": "john.14.p7.b1"
+    },
+    {
+      "id": "JOHN_14_P007_B002",
+      "panel": "JOHN_14_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0158,
+        0.2693,
+        0.221,
+        0.0761
+      ],
+      "tail": [
+        0.1263,
+        0.3771
+      ],
+      "text_key": "john.14.p7.b2"
+    },
+    {
+      "id": "JOHN_14_P007_B003",
+      "panel": "JOHN_14_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.5927,
+        0.36,
+        0.0923
+      ],
+      "tail": [
+        0.21,
+        0.727
+      ],
+      "text_key": "john.14.p7.b3"
+    }
+  ]
+}

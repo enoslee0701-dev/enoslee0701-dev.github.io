@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_10_P004",
+  "book": "john",
+  "chapter": 10,
+  "page": 4,
+  "ref": "10:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P004_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.373
+      ],
+      "alt": {
+        "zh-CN": "盗贼来，不过是要偷窃、杀害、毁坏；"
+      }
+    },
+    {
+      "id": "JOHN_10_P004_F2",
+      "box": [
+        0.5068,
+        0,
+        0.4932,
+        0.373
+      ],
+      "alt": {
+        "zh-CN": "我来了，是要使羊得生命，而且得的更丰盛。"
+      }
+    },
+    {
+      "id": "JOHN_10_P004_F3",
+      "box": [
+        0,
+        0.3809,
+        1,
+        0.6191
+      ],
+      "alt": {
+        "zh-CN": "我是好牧人；好牧人为羊舍命。"
+      }
+    },
+    {
+      "id": "JOHN_10_P004_F4",
+      "box": [
+        0.706,
+        0.771,
+        0.2875,
+        0.2225
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P004_B001",
+      "panel": "JOHN_10_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.1779,
+        0.0112,
+        0.2964,
+        0.0746
+      ],
+      "tail": [
+        0.3261,
+        0.1231
+      ],
+      "text_key": "john.10.p4.b1"
+    },
+    {
+      "id": "JOHN_10_P004_B002",
+      "panel": "JOHN_10_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5265,
+        0.0112,
+        0.3057,
+        0.1119
+      ],
+      "tail": [
+        0.6794,
+        0.1604
+      ],
+      "text_key": "john.10.p4.b2"
+    },
+    {
+      "id": "JOHN_10_P004_B003",
+      "panel": "JOHN_10_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.64,
+        0.3933,
+        0.34,
+        0.0681
+      ],
+      "tail": [
+        0.81,
+        0.5233
+      ],
+      "text_key": "john.10.p4.b3"
+    }
+  ]
+}

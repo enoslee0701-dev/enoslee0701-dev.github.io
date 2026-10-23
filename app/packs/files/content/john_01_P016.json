@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_01_P016",
+  "book": "john",
+  "chapter": 1,
+  "page": 16,
+  "ref": "1:47-49",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "「看哪，这真是一个以色列人，他心里没有诡诈。」"
+      }
+    },
+    {
+      "id": "JOHN_01_P016_F2",
+      "box": [
+        0,
+        0.2611,
+        0.4961,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "「你怎么认识我呢？」"
+      }
+    },
+    {
+      "id": "JOHN_01_P016_F3",
+      "box": [
+        0.5049,
+        0.2611,
+        0.4951,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "「腓力还没有叫你的时候，你在无花果树下，我就看见你了。」"
+      }
+    },
+    {
+      "id": "JOHN_01_P016_F4",
+      "box": [
+        0,
+        0.526,
+        1,
+        0.474
+      ],
+      "alt": {
+        "zh-CN": "「老师，你是神的儿子，你是以色列的王！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P016_B001",
+      "panel": "JOHN_01_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.0077,
+        0.3,
+        0.0511
+      ],
+      "tail": [
+        0.47,
+        0.0844
+      ],
+      "text_key": "john.1.p16.b1"
+    },
+    {
+      "id": "JOHN_01_P016_B002",
+      "panel": "JOHN_01_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0099,
+        0.2663,
+        0.1785,
+        0.0523
+      ],
+      "tail": [
+        0.0992,
+        0.3448
+      ],
+      "text_key": "john.1.p16.b2"
+    },
+    {
+      "id": "JOHN_01_P016_B003",
+      "panel": "JOHN_01_P016_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7822,
+        0.2663,
+        0.2079,
+        0.068
+      ],
+      "tail": [
+        0.8862,
+        0.3605
+      ],
+      "text_key": "john.1.p16.b3"
+    },
+    {
+      "id": "JOHN_01_P016_B004",
+      "panel": "JOHN_01_P016_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.22,
+        0.5307,
+        0.46,
+        0.0379
+      ],
+      "tail": [
+        0.45,
+        0.616
+      ],
+      "text_key": "john.1.p16.b4"
+    }
+  ]
+}

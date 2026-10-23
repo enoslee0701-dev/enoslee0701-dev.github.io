@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_21_P009",
+  "book": "john",
+  "chapter": 21,
+  "page": 9,
+  "ref": "21:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_21_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_21_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你，你年轻的时候，自己束上腰带，想去哪里就去哪里；"
+      }
+    },
+    {
+      "id": "JOHN_21_P009_F2",
+      "box": [
+        0,
+        0.2917,
+        0.4961,
+        0.2415
+      ]
+    },
+    {
+      "id": "JOHN_21_P009_F3",
+      "box": [
+        0.5039,
+        0.2917,
+        0.4961,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "但年老的时候，你要伸出手来，别人要给你束上，带你到你不愿意去的地方。"
+      }
+    },
+    {
+      "id": "JOHN_21_P009_F4",
+      "box": [
+        0,
+        0.5384,
+        1,
+        0.4616
+      ],
+      "alt": {
+        "zh-CN": "耶稣说这话，是指明彼得将要怎样死，荣耀　神。说完，就对他说：／你跟从我吧！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_21_P009_B001",
+      "panel": "JOHN_21_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.0086,
+        0.52,
+        0.063
+      ],
+      "tail": [
+        0.71,
+        0.1002
+      ],
+      "text_key": "john.21.p9.b1"
+    },
+    {
+      "id": "JOHN_21_P009_B002",
+      "panel": "JOHN_21_P009_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5237,
+        0.4752,
+        0.4564,
+        0.0507
+      ],
+      "tail": [
+        0.7519,
+        0.5332
+      ],
+      "text_key": "john.21.p9.b2"
+    },
+    {
+      "id": "JOHN_21_P009_B003",
+      "panel": "JOHN_21_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.5476,
+        0.58,
+        0.0553
+      ],
+      "tail": null,
+      "text_key": "john.21.p9.b3"
+    },
+    {
+      "id": "JOHN_21_P009_B004",
+      "panel": "JOHN_21_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.9261,
+        0.42,
+        0.06
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "john.21.p9.b4"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_08_P011",
+  "book": "john",
+  "chapter": 8,
+  "page": 11,
+  "ref": "8:31-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "你们如果一直遵守我的话，就真是我的门徒；你们会认识真理，真理会使你们自由。"
+      }
+    },
+    {
+      "id": "JOHN_08_P011_F2",
+      "box": [
+        0,
+        0.2513,
+        0.498,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "我们是亚伯拉罕的后代，从来没有做过任何人的奴隶。你怎么说「你们会得到自由」呢？"
+      }
+    },
+    {
+      "id": "JOHN_08_P011_F3",
+      "box": [
+        0.5059,
+        0.2513,
+        0.4941,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，所有犯罪的人都是罪的奴隶。"
+      }
+    },
+    {
+      "id": "JOHN_08_P011_F4",
+      "box": [
+        0,
+        0.5924,
+        1,
+        0.4076
+      ],
+      "alt": {
+        "zh-CN": "奴隶不能永远住在家里；儿子却永远住在家里。所以，如果天父的儿子使你们自由，你们就真的自由了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P011_B001",
+      "panel": "JOHN_08_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.0074,
+        0.48,
+        0.0493
+      ],
+      "tail": [
+        0.72,
+        0.0814
+      ],
+      "text_key": "john.8.p11.b1"
+    },
+    {
+      "id": "JOHN_08_P011_B002",
+      "panel": "JOHN_08_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.2789,
+        0.46,
+        0.2091,
+        0.1211
+      ],
+      "tail": [
+        0.3834,
+        0.5879
+      ],
+      "text_key": "john.8.p11.b2"
+    },
+    {
+      "id": "JOHN_08_P011_B003",
+      "panel": "JOHN_08_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5207,
+        0.258,
+        0.4644,
+        0.0504
+      ],
+      "tail": [
+        0.7529,
+        0.3421
+      ],
+      "text_key": "john.8.p11.b3"
+    },
+    {
+      "id": "JOHN_08_P011_B004",
+      "panel": "JOHN_08_P011_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.9266,
+        0.39,
+        0.0611
+      ],
+      "tail": null,
+      "text_key": "john.8.p11.b4"
+    }
+  ]
+}

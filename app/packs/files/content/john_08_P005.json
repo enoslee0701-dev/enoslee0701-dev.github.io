@@ -1,0 +1,145 @@
+{
+  "id": "JOHN_08_P005",
+  "book": "john",
+  "chapter": 8,
+  "page": 5,
+  "ref": "8:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "妇人，那些人在哪里？没有人定你的罪吗？"
+      }
+    },
+    {
+      "id": "JOHN_08_P005_F2",
+      "box": [
+        0,
+        0.2507,
+        0.5654,
+        0.2598
+      ]
+    },
+    {
+      "id": "JOHN_08_P005_F3",
+      "box": [
+        0.5732,
+        0.2507,
+        0.4268,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "主啊，没有。"
+      }
+    },
+    {
+      "id": "JOHN_08_P005_F4",
+      "box": [
+        0,
+        0.5143,
+        1,
+        0.4857
+      ],
+      "alt": {
+        "zh-CN": "我也不定你的罪。去吧，从今以后不要再犯罪了！"
+      }
+    },
+    {
+      "id": "JOHN_08_P005_F5",
+      "box": [
+        0.659,
+        0.7669,
+        0.341,
+        0.2331
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P005_B001",
+      "panel": "JOHN_08_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0099,
+        0.42,
+        0.0544
+      ],
+      "tail": [
+        0.24,
+        0.089
+      ],
+      "text_key": "john.8.p5.b1"
+    },
+    {
+      "id": "JOHN_08_P005_B002",
+      "panel": "JOHN_08_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.8122,
+        0.2559,
+        0.1749,
+        0.0337
+      ],
+      "tail": [
+        0.8997,
+        0.3156
+      ],
+      "text_key": "john.8.p5.b2"
+    },
+    {
+      "id": "JOHN_08_P005_B003",
+      "panel": "JOHN_08_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.35,
+        0.524,
+        0.27,
+        0.033
+      ],
+      "tail": [
+        0.485,
+        0.6056
+      ],
+      "text_key": "john.8.p5.b3"
+    },
+    {
+      "id": "JOHN_08_P005_B004",
+      "panel": "JOHN_08_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.35,
+        0.5668,
+        0.27,
+        0.0495
+      ],
+      "tail": [
+        0.485,
+        0.6649
+      ],
+      "text_key": "john.8.p5.b4"
+    }
+  ]
+}

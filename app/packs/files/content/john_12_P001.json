@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_12_P001",
+  "book": "john",
+  "chapter": 12,
+  "page": 1,
+  "ref": "12:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "逾越节前六天，耶稣来到伯大尼，就是他使拉撒路从死里复活的地方。"
+      }
+    },
+    {
+      "id": "JOHN_12_P001_F2",
+      "box": [
+        0,
+        0.2604,
+        0.5215,
+        0.2786
+      ]
+    },
+    {
+      "id": "JOHN_12_P001_F3",
+      "box": [
+        0.5293,
+        0.2604,
+        0.4707,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "有人在那里为耶稣预备了筵席；马大在伺候，"
+      }
+    },
+    {
+      "id": "JOHN_12_P001_F4",
+      "box": [
+        0,
+        0.5423,
+        1,
+        0.4577
+      ],
+      "alt": {
+        "zh-CN": "拉撒路也在和耶稣一同吃饭的人当中。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P001_B001",
+      "panel": "JOHN_12_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0077,
+        0.36,
+        0.0561
+      ],
+      "tail": null,
+      "text_key": "john.12.p1.b1"
+    },
+    {
+      "id": "JOHN_12_P001_B002",
+      "panel": "JOHN_12_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5387,
+        0.266,
+        0.1553,
+        0.1114
+      ],
+      "tail": null,
+      "text_key": "john.12.p1.b2"
+    },
+    {
+      "id": "JOHN_12_P001_B003",
+      "panel": "JOHN_12_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5515,
+        0.45,
+        0.0595
+      ],
+      "tail": null,
+      "text_key": "john.12.p1.b3"
+    }
+  ]
+}

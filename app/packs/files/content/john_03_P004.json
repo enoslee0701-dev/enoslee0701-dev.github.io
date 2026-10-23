@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_03_P004",
+  "book": "john",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "怎么会有这样的事呢？"
+      }
+    },
+    {
+      "id": "JOHN_03_P004_F2",
+      "box": [
+        0,
+        0.2858,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "你是以色列人的老师，还不明白这件事吗？"
+      }
+    },
+    {
+      "id": "JOHN_03_P004_F3",
+      "box": [
+        0,
+        0.5046,
+        1,
+        0.4954
+      ],
+      "alt": {
+        "zh-CN": "我对你们讲地上的事，你们尚且不信；如果讲天上的事，你们怎么能信呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P004_B001",
+      "panel": "JOHN_03_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.0099,
+        0.34,
+        0.0551
+      ],
+      "tail": [
+        0.55,
+        0.0933
+      ],
+      "text_key": "john.3.p4.b1"
+    },
+    {
+      "id": "JOHN_03_P004_B002",
+      "panel": "JOHN_03_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.14,
+        0.2923,
+        0.38,
+        0.0689
+      ],
+      "tail": [
+        0.33,
+        0.3828
+      ],
+      "text_key": "john.3.p4.b2"
+    },
+    {
+      "id": "JOHN_03_P004_B003",
+      "panel": "JOHN_03_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1,
+        0.5244,
+        0.8,
+        0.1089
+      ],
+      "tail": [
+        0.5,
+        0.6828
+      ],
+      "text_key": "john.3.p4.b3"
+    }
+  ]
+}

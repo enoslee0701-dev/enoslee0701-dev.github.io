@@ -1,0 +1,542 @@
+{
+  "john.8.p1.b1": {
+    "text": "But Jesus went to the Mount of Olives.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p1.b2": {
+    "text": "Early in the morning He went back into the temple courts. All the people came to Him, and He sat down to teach them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p1.b3": {
+    "text": "The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b1": {
+    "text": "“Teacher, this woman was caught in the act of adultery. In the Law Moses commanded us to stone such a woman.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b2": {
+    "text": "So what do You say?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b3": {
+    "text": "They said this to test Him, in order to have a basis for accusing Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b4": {
+    "text": "But Jesus bent down and began to write on the ground with His finger.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b1": {
+    "text": "When they continued to question Him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b2": {
+    "text": "“Let him who is without sin among you be the first to cast a stone at her.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b3": {
+    "text": "And again He bent down and wrote on the ground.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p4.b1": {
+    "text": "When they heard this, they began to go away one by one, beginning with the older ones,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p4.b2": {
+    "text": "until only Jesus was left, with the woman standing there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b1": {
+    "text": "“Woman, where are your accusers? Has no one condemned you?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b2": {
+    "text": "“No one, Lord,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b3": {
+    "text": "“Then neither do I condemn you,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b4": {
+    "text": "“Now go and sin no more.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b1": {
+    "text": "Once again, Jesus spoke to the people and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b2": {
+    "text": "“I am the light of the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b3": {
+    "text": "Whoever follows Me will never walk in the darkness, but will have the light of life.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b1": {
+    "text": "“You are testifying about Yourself; Your testimony is not valid.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b2": {
+    "text": "“Even if I testify about Myself, My testimony is valid, because I know where I came from and where I am going.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b3": {
+    "text": "… because I am not alone; I am with the Father who sent Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b1": {
+    "text": "“Where is Your Father?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b2": {
+    "text": "“You do not know Me or My Father,” … “If you knew Me, you would know My Father as well.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b3": {
+    "text": "He spoke these words while teaching in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b1": {
+    "text": "“I am going away, and you will look for Me, but you will die in your sin. Where I am going, you cannot come.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b2": {
+    "text": "“Will He kill Himself, since He says, ‘Where I am going, you cannot come’?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b3": {
+    "text": "“You are from below; I am from above. You are of this world; I am not of this world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b1": {
+    "text": "“Who are You?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b2": {
+    "text": "“When you have lifted up the Son of Man, then you will know that I am He, and that I do nothing on My own,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b3": {
+    "text": "As Jesus spoke these things, many believed in Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b1": {
+    "text": "“If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:31-32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b2": {
+    "text": "“We are Abraham’s descendants,” … “We have never been slaves to anyone. How can You say we will be set free?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b3": {
+    "text": "“Truly, truly, I tell you, everyone who sins is a slave to sin.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b4": {
+    "text": "A slave is not a permanent member of the family, but a son belongs to it forever. So if the Son sets you free, you will be free indeed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:35-36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b1": {
+    "text": "I know you are Abraham’s descendants, but you are trying to kill Me because My word has no place within you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b2": {
+    "text": "“Abraham is our father,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b3": {
+    "text": "“We are not illegitimate children,” … “Our only Father is God Himself.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b1": {
+    "text": "“If God were your Father, you would love Me, for I have come here from God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b2": {
+    "text": "Why do you not understand what I am saying?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b3": {
+    "text": "You belong to your father, the devil, and you want to carry out his desires.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b4": {
+    "text": "Which of you can prove Me guilty of sin?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b1": {
+    "text": "“Are we not right to say that You are a Samaritan and You have a demon?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b2": {
+    "text": "“I do not have a demon,” … “but I honor My Father, and you dishonor Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b3": {
+    "text": "Truly, truly, I tell you, if anyone keeps My word, he will never see death.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b1": {
+    "text": "“Now we know that You have a demon!” … “Abraham died, and so did the prophets,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b2": {
+    "text": "Are You greater than our father Abraham? … Who do You claim to be?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b3": {
+    "text": "The One who glorifies Me is My Father, of whom you say ‘He is our God.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b4": {
+    "text": "You do not know Him, but I know Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b1": {
+    "text": "Your father Abraham rejoiced that he would see My day. He saw it and was glad.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b2": {
+    "text": "“You are not yet fifty years old, and You have seen Abraham?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b3": {
+    "text": "“Truly, truly, I tell you,” … “before Abraham was born, I am!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p17.b1": {
+    "text": "At this, they picked up stones to throw at Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p17.b2": {
+    "text": "But Jesus was hidden and went out of the temple area.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 8:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

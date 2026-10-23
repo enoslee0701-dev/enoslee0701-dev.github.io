@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_05_P002",
+  "book": "john",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "耶稣看见他躺在那里，知道他已经病了很久，"
+      }
+    },
+    {
+      "id": "JOHN_05_P002_F2",
+      "box": [
+        0,
+        0.2461,
+        0.3379,
+        0.4811
+      ],
+      "alt": {
+        "zh-CN": "你想痊愈吗？"
+      }
+    },
+    {
+      "id": "JOHN_05_P002_F3",
+      "box": [
+        0.3438,
+        0.2461,
+        0.6562,
+        0.4811
+      ],
+      "alt": {
+        "zh-CN": "先生，水动的时候，没有人把我放进池子里；"
+      }
+    },
+    {
+      "id": "JOHN_05_P002_F4",
+      "box": [
+        0,
+        0.7298,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "我正要下去的时候，别人已经比我先下去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P002_B001",
+      "panel": "JOHN_05_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0097,
+        0.45,
+        0.0679
+      ],
+      "tail": null,
+      "text_key": "john.5.p2.b1"
+    },
+    {
+      "id": "JOHN_05_P002_B002",
+      "panel": "JOHN_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0101,
+        0.2557,
+        0.3176,
+        0.0481
+      ],
+      "tail": [
+        0.1689,
+        0.3519
+      ],
+      "text_key": "john.5.p2.b2"
+    },
+    {
+      "id": "JOHN_05_P002_B003",
+      "panel": "JOHN_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.7113,
+        0.2605,
+        0.269,
+        0.1058
+      ],
+      "tail": [
+        0.8458,
+        0.4144
+      ],
+      "text_key": "john.5.p2.b3"
+    },
+    {
+      "id": "JOHN_05_P002_B004",
+      "panel": "JOHN_05_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.7379,
+        0.5,
+        0.0594
+      ],
+      "tail": [
+        0.28,
+        0.8243
+      ],
+      "text_key": "john.5.p2.b4"
+    }
+  ]
+}

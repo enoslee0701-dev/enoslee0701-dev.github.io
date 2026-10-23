@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_15_P003",
+  "book": "john",
+  "chapter": 15,
+  "page": 3,
+  "ref": "15:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_15_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_15_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "你们如果住在我里面，我的话也住在你们里面，无论你们想要什么，只要祈求，就为你们成就。"
+      }
+    },
+    {
+      "id": "JOHN_15_P003_F2",
+      "box": [
+        0,
+        0.2878,
+        0.3438,
+        0.7122
+      ],
+      "alt": {
+        "zh-CN": "你们多结果子，我父就因此得荣耀，你们也就是我的门徒了。"
+      }
+    },
+    {
+      "id": "JOHN_15_P003_F3",
+      "box": [
+        0.3525,
+        0.2878,
+        0.6475,
+        0.7122
+      ],
+      "alt": {
+        "zh-CN": "我爱你们，就像父爱我一样；你们要一直住在我的爱里。"
+      }
+    },
+    {
+      "id": "JOHN_15_P003_F4",
+      "box": [
+        0.625,
+        0.692,
+        0.375,
+        0.308
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_15_P003_B001",
+      "panel": "JOHN_15_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0057,
+        0.34,
+        0.048
+      ],
+      "tail": [
+        0.19,
+        0.082
+      ],
+      "text_key": "john.15.p3.b1"
+    },
+    {
+      "id": "JOHN_15_P003_B002",
+      "panel": "JOHN_15_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0138,
+        0.7721,
+        0.3094,
+        0.1994
+      ],
+      "tail": null,
+      "text_key": "john.15.p3.b2"
+    },
+    {
+      "id": "JOHN_15_P003_B003",
+      "panel": "JOHN_15_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3655,
+        0.7294,
+        0.2331,
+        0.1851
+      ],
+      "tail": [
+        0.4821,
+        0.9857
+      ],
+      "text_key": "john.15.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_16_P010",
+  "book": "john",
+  "chapter": 16,
+  "page": 10,
+  "ref": "16:33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_16_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_16_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1953
+      ],
+      "alt": {
+        "zh-CN": "我把这些事告诉你们，是要使你们在我里面有平安。"
+      }
+    },
+    {
+      "id": "JOHN_16_P010_F2",
+      "box": [
+        0,
+        0.1979,
+        1,
+        0.1523
+      ],
+      "alt": {
+        "zh-CN": "在世上，你们会有苦难；"
+      }
+    },
+    {
+      "id": "JOHN_16_P010_F3",
+      "box": [
+        0,
+        0.3535,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "但你们要放心，我已经胜过了世界。"
+      }
+    },
+    {
+      "id": "JOHN_16_P010_F4",
+      "box": [
+        0,
+        0.7754,
+        1,
+        0.2246
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_16_P010_B001",
+      "panel": "JOHN_16_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.0059,
+        0.38,
+        0.0429
+      ],
+      "tail": [
+        0.39,
+        0.0683
+      ],
+      "text_key": "john.16.p10.b1"
+    },
+    {
+      "id": "JOHN_16_P010_B002",
+      "panel": "JOHN_16_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.204,
+        0.32,
+        0.0609
+      ],
+      "tail": [
+        0.82,
+        0.2801
+      ],
+      "text_key": "john.16.p10.b2"
+    },
+    {
+      "id": "JOHN_16_P010_B003",
+      "panel": "JOHN_16_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.22,
+        0.3661,
+        0.3,
+        0.0754
+      ],
+      "tail": [
+        0.37,
+        0.4834
+      ],
+      "text_key": "john.16.p10.b3"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_12_P008",
+  "book": "john",
+  "chapter": 12,
+  "page": 8,
+  "ref": "12:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "耶稣呼叫拉撒路从坟墓出来、使他从死人中复活的时候，和他在一起的众人就为这事作见证。"
+      }
+    },
+    {
+      "id": "JOHN_12_P008_F2",
+      "box": [
+        0,
+        0.2201,
+        0.5361,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "众人听说耶稣行了这个神迹，就去迎接他。"
+      }
+    },
+    {
+      "id": "JOHN_12_P008_F3",
+      "box": [
+        0.543,
+        0.2201,
+        0.457,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "你们看，我们白费力气了，"
+      }
+    },
+    {
+      "id": "JOHN_12_P008_F4",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "全世界都跟他去了！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P008_B001",
+      "panel": "JOHN_12_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0065,
+        0.42,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "john.12.p8.b1"
+    },
+    {
+      "id": "JOHN_12_P008_B002",
+      "panel": "JOHN_12_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0161,
+        0.23,
+        0.2948,
+        0.066
+      ],
+      "tail": null,
+      "text_key": "john.12.p8.b2"
+    },
+    {
+      "id": "JOHN_12_P008_B003",
+      "panel": "JOHN_12_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7487,
+        0.23,
+        0.2376,
+        0.0726
+      ],
+      "tail": [
+        0.8675,
+        0.3356
+      ],
+      "text_key": "john.12.p8.b3"
+    },
+    {
+      "id": "JOHN_12_P008_B004",
+      "panel": "JOHN_12_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.9105,
+        0.45,
+        0.076
+      ],
+      "tail": [
+        0.255,
+        1
+      ],
+      "text_key": "john.12.p8.b4"
+    }
+  ]
+}

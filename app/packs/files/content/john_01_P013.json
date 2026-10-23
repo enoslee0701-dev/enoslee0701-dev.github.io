@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_01_P013",
+  "book": "john",
+  "chapter": 1,
+  "page": 13,
+  "ref": "1:38-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ]
+    },
+    {
+      "id": "JOHN_01_P013_F2",
+      "box": [
+        0,
+        0.2311,
+        1,
+        0.2129
+      ],
+      "alt": {
+        "zh-CN": "耶稣转过身来，看见他们跟着，就问：「你们要找什么？」"
+      }
+    },
+    {
+      "id": "JOHN_01_P013_F3",
+      "box": [
+        0,
+        0.4479,
+        1,
+        0.1921
+      ],
+      "alt": {
+        "zh-CN": "他们说：「拉比（意思是老师），你住在哪里？」"
+      }
+    },
+    {
+      "id": "JOHN_01_P013_F4",
+      "box": [
+        0,
+        0.6452,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "……那天他们就和他住在一起；那时大约是下午四点钟。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P013_B001",
+      "panel": "JOHN_01_P013_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2375,
+        0.36,
+        0.0468
+      ],
+      "tail": [
+        0.21,
+        0.3056
+      ],
+      "text_key": "john.1.p13.b1"
+    },
+    {
+      "id": "JOHN_01_P013_B002",
+      "panel": "JOHN_01_P013_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.58,
+        0.4556,
+        0.4,
+        0.0576
+      ],
+      "tail": [
+        0.78,
+        0.5324
+      ],
+      "text_key": "john.1.p13.b2"
+    },
+    {
+      "id": "JOHN_01_P013_B003",
+      "panel": "JOHN_01_P013_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6558,
+        0.38,
+        0.0153
+      ],
+      "tail": [
+        0.22,
+        0.7066
+      ],
+      "text_key": "john.1.p13.b3"
+    },
+    {
+      "id": "JOHN_01_P013_B004",
+      "panel": "JOHN_01_P013_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.6783,
+        0.38,
+        0.0485
+      ],
+      "tail": null,
+      "text_key": "john.1.p13.b4"
+    }
+  ]
+}

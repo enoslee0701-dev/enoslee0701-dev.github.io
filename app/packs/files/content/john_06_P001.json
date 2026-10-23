@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_06_P001",
+  "book": "john",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1992
+      ],
+      "alt": {
+        "zh-CN": "这些事以后，耶稣渡到加利利海，也就是提比哩亚海的对岸。"
+      }
+    },
+    {
+      "id": "JOHN_06_P001_F2",
+      "box": [
+        0,
+        0.2031,
+        1,
+        0.7969
+      ],
+      "alt": {
+        "zh-CN": "许多人跟着他，因为他们看见他在病人身上行的神迹。耶稣上了山，和门徒坐在那里。"
+      }
+    },
+    {
+      "id": "JOHN_06_P001_F3",
+      "box": [
+        0.015,
+        0.657,
+        0.4725,
+        0.323
+      ],
+      "alt": {
+        "zh-CN": "那时，犹太人的逾越节快到了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P001_B001",
+      "panel": "JOHN_06_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.006,
+        0.42,
+        0.0398
+      ],
+      "tail": null,
+      "text_key": "john.6.p1.b1"
+    },
+    {
+      "id": "JOHN_06_P001_B002",
+      "panel": "JOHN_06_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.227,
+        0.45,
+        0.1115
+      ],
+      "tail": null,
+      "text_key": "john.6.p1.b2"
+    },
+    {
+      "id": "JOHN_06_P001_B003",
+      "panel": "JOHN_06_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2607,
+        0.6635,
+        0.2173,
+        0.0355
+      ],
+      "tail": null,
+      "text_key": "john.6.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_03_P010",
+  "book": "john",
+  "chapter": 3,
+  "page": 10,
+  "ref": "3:29-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "娶新娘的是新郎；新郎的朋友站在旁边，听见新郎的声音就非常喜乐。"
+      }
+    },
+    {
+      "id": "JOHN_03_P010_F2",
+      "box": [
+        0.456,
+        0.2417,
+        0.531,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "所以，我的喜乐满足了。"
+      }
+    },
+    {
+      "id": "JOHN_03_P010_F3",
+      "box": [
+        0,
+        0.2318,
+        1,
+        0.7682
+      ],
+      "alt": {
+        "zh-CN": "他必定越来越兴旺，我必定越来越衰微。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P010_B001",
+      "panel": "JOHN_03_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0091,
+        0.42,
+        0.0772
+      ],
+      "tail": [
+        0.24,
+        0.109
+      ],
+      "text_key": "john.3.p10.b1"
+    },
+    {
+      "id": "JOHN_03_P010_B002",
+      "panel": "JOHN_03_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.2548,
+        0.39,
+        0.0652
+      ],
+      "tail": [
+        0.235,
+        0.3968
+      ],
+      "text_key": "john.3.p10.b2"
+    },
+    {
+      "id": "JOHN_03_P010_B003",
+      "panel": "JOHN_03_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.4507,
+        0.38,
+        0.0691
+      ],
+      "tail": [
+        0.77,
+        0.5966
+      ],
+      "text_key": "john.3.p10.b3"
+    }
+  ]
+}

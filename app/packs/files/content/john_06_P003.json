@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_06_P003",
+  "book": "john",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "有一个门徒，就是西门彼得的弟弟安得烈，对耶稣说："
+      }
+    },
+    {
+      "id": "JOHN_06_P003_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.4401
+      ],
+      "alt": {
+        "zh-CN": "这里有一个孩子，带着五个大麦饼和两条鱼，可是分给这么多人又算什么呢？"
+      }
+    },
+    {
+      "id": "JOHN_06_P003_F3",
+      "box": [
+        0.5975,
+        0.4767,
+        0.4025,
+        0.2216
+      ],
+      "alt": {
+        "zh-CN": "你们叫大家坐下。"
+      }
+    },
+    {
+      "id": "JOHN_06_P003_F4",
+      "box": [
+        0,
+        0.7051,
+        1,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "那地方草很多，大家就坐下，人数大约有五千。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P003_B001",
+      "panel": "JOHN_06_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0077,
+        0.33,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "john.6.p3.b1"
+    },
+    {
+      "id": "JOHN_06_P003_B002",
+      "panel": "JOHN_06_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.2736,
+        0.38,
+        0.088
+      ],
+      "tail": [
+        0.79,
+        0.4056
+      ],
+      "text_key": "john.6.p3.b2"
+    },
+    {
+      "id": "JOHN_06_P003_B003",
+      "panel": "JOHN_06_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6136,
+        0.4811,
+        0.3703,
+        0.0398
+      ],
+      "tail": [
+        0.7988,
+        0.5431
+      ],
+      "text_key": "john.6.p3.b3"
+    },
+    {
+      "id": "JOHN_06_P003_B004",
+      "panel": "JOHN_06_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7139,
+        0.45,
+        0.0589
+      ],
+      "tail": null,
+      "text_key": "john.6.p3.b4"
+    }
+  ]
+}

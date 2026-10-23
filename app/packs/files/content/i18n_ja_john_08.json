@@ -1,0 +1,542 @@
+{
+  "john.8.p1.b1": {
+    "text": "イエスはオリブ山に行かれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p1.b2": {
+    "text": "朝早くまた宮にはいられると、人々が皆みもとに集まってきたので、イエスはすわって彼らを教えておられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p1.b3": {
+    "text": "すると、律法学者たちやパリサイ人たちが、姦淫をしている時につかまえられた女をひっぱってきて、中に立たせた上、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b1": {
+    "text": "「先生、この女は姦淫の場でつかまえられました。 モーセは律法の中で、こういう女を石で打ち殺せと命じましたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b2": {
+    "text": "あなたはどう思いますか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b3": {
+    "text": "彼らがそう言ったのは、イエスをためして、訴える口実を得るためであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b4": {
+    "text": "しかし、イエスは身をかがめて、指で地面に何か書いておられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b1": {
+    "text": "彼らが問い続けるので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b2": {
+    "text": "「あなたがたの中で罪のない者が、まずこの女に石を投げつけるがよい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b3": {
+    "text": "そしてまた身をかがめて、地面に物を書きつづけられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p4.b1": {
+    "text": "これを聞くと、彼らは年寄から始めて、ひとりびとり出て行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p4.b2": {
+    "text": "ついに、イエスだけになり、女は中にいたまま残された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b1": {
+    "text": "「女よ、みんなはどこにいるか。あなたを罰する者はなかったのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b2": {
+    "text": "「主よ、だれもございません」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b3": {
+    "text": "「わたしもあなたを罰しない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b4": {
+    "text": "お帰りなさい。今後はもう罪を犯さないように」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b1": {
+    "text": "イエスは、また人々に語ってこう言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b2": {
+    "text": "「わたしは世の光である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b3": {
+    "text": "わたしに従って来る者は、やみのうちを歩くことがなく、命の光をもつであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b1": {
+    "text": "「あなたは、自分のことをあかししている。あなたのあかしは真実ではない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b2": {
+    "text": "「たとい、わたしが自分のことをあかししても、わたしのあかしは真実である。それは、わたしがどこからきたのか、また、どこへ行くのかを知っているからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b3": {
+    "text": "… なぜなら、わたしはひとりではなく、わたしをつかわされたかたが、わたしと一緒だからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b1": {
+    "text": "「あなたの父はどこにいるのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b2": {
+    "text": "「あなたがたは、わたしをもわたしの父をも知っていない。もし、あなたがたがわたしを知っていたなら、わたしの父をも知っていたであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b3": {
+    "text": "イエスが宮の内で教えていた時、これらの言葉をさいせん箱のそばで語られたのであるが、イエスの時がまだきていなかったので、だれも捕える者がなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b1": {
+    "text": "「わたしは去って行く。あなたがたはわたしを捜し求めるであろう。そして自分の罪のうちに死ぬであろう。わたしの行く所には、あなたがたは来ることができない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b2": {
+    "text": "「わたしの行く所に、あなたがたは来ることができないと、言ったのは、あるいは自殺でもしようとするつもりか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b3": {
+    "text": "「あなたがたは下から出た者だが、わたしは上からきた者である。あなたがたはこの世の者であるが、わたしはこの世の者ではない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b1": {
+    "text": "「あなたは、いったい、どういうかたですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b2": {
+    "text": "「あなたがたが人の子を上げてしまった後はじめて、わたしがそういう者であること、また、わたしは自分からは何もせず … わかってくるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b3": {
+    "text": "これらのことを語られたところ、多くの人々がイエスを信じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b1": {
+    "text": "「もしわたしの言葉のうちにとどまっておるなら、あなたがたは、ほんとうにわたしの弟子なのである。 また真理を知るであろう。そして真理は、あなたがたに自由を得させるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:31-32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b2": {
+    "text": "「わたしたちはアブラハムの子孫であって、人の奴隷になったことなどは、一度もない。どうして、あなたがたに自由を得させるであろうと、言われるのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b3": {
+    "text": "「よくよくあなたがたに言っておく。すべて罪を犯す者は罪の奴隷である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b4": {
+    "text": "そして、奴隷はいつまでも家にいる者ではない。しかし、子はいつまでもいる。 だから、もし子があなたがたに自由を得させるならば、あなたがたは、ほんとうに自由な者となるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:35-36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b1": {
+    "text": "わたしは、あなたがたがアブラハムの子孫であることを知っている。それだのに、あなたがたはわたしを殺そうとしている。わたしの言葉が、あなたがたのうちに根をおろしていないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b2": {
+    "text": "「わたしたちの父はアブラハムである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b3": {
+    "text": "「わたしたちは、不品行の結果うまれた者ではない。わたしたちにはひとりの父がある。それは神である」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b1": {
+    "text": "「神があなたがたの父であるならば、あなたがたはわたしを愛するはずである。わたしは神から出た者、また神からきている者であるからだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b2": {
+    "text": "どうしてあなたがたは、わたしの話すことがわからないのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b3": {
+    "text": "あなたがたは自分の父、すなわち、悪魔から出てきた者であって、その父の欲望どおりを行おうと思っている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b4": {
+    "text": "あなたがたのうち、だれがわたしに罪があると責めうるのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b1": {
+    "text": "「あなたはサマリヤ人で、悪霊に取りつかれていると、わたしたちが言うのは、当然ではないか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b2": {
+    "text": "「わたしは、悪霊に取りつかれているのではなくて、わたしの父を重んじているのだが、あなたがたはわたしを軽んじている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b3": {
+    "text": "よくよく言っておく。もし人がわたしの言葉を守るならば、その人はいつまでも死を見ることがないであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b1": {
+    "text": "「あなたが悪霊に取りつかれていることが、今わかった。アブラハムは死に、預言者たちも死んでいる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b2": {
+    "text": "あなたは、わたしたちの父アブラハムより偉いのだろうか。 … あなたは、いったい、自分をだれと思っているのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b3": {
+    "text": "わたしに栄光を与えるかたは、わたしの父であって、あなたがたが自分の神だと言っているのは、そのかたのことである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b4": {
+    "text": "あなたがたはその神を知っていないが、わたしは知っている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b1": {
+    "text": "あなたがたの父アブラハムは、わたしのこの日を見ようとして楽しんでいた。そしてそれを見て喜んだ」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b2": {
+    "text": "「あなたはまだ五十にもならないのに、アブラハムを見たのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b3": {
+    "text": "「よくよくあなたがたに言っておく。アブラハムの生れる前からわたしは、いるのである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p17.b1": {
+    "text": "そこで彼らは石をとって、イエスに投げつけようとした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p17.b2": {
+    "text": "しかし、イエスは身を隠して、宮から出て行かれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 8:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "JOHN_08_P002",
+  "book": "john",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "老师，这妇人是正在行淫时被抓的。摩西在律法上吩咐我们，要用石头打死这样的妇人。"
+      }
+    },
+    {
+      "id": "JOHN_08_P002_F2",
+      "box": [
+        0,
+        0.3262,
+        0.5049,
+        0.2526
+      ]
+    },
+    {
+      "id": "JOHN_08_P002_F3",
+      "box": [
+        0.5127,
+        0.3262,
+        0.4873,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "你说该把她怎么办呢？"
+      }
+    },
+    {
+      "id": "JOHN_08_P002_F4",
+      "box": [
+        0,
+        0.5833,
+        1,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "他们说这话是要试探耶稣，好找把柄告他。／耶稣却弯下腰，用指头在地上写字。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P002_B001",
+      "panel": "JOHN_08_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.1766,
+        0.26,
+        0.1284
+      ],
+      "tail": [
+        0.14,
+        0.321
+      ],
+      "text_key": "john.8.p2.b1"
+    },
+    {
+      "id": "JOHN_08_P002_B002",
+      "panel": "JOHN_08_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5322,
+        0.3313,
+        0.4483,
+        0.0277
+      ],
+      "tail": [
+        0.7564,
+        0.3843
+      ],
+      "text_key": "john.8.p2.b2"
+    },
+    {
+      "id": "JOHN_08_P002_B003",
+      "panel": "JOHN_08_P002_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.15,
+        0.8333,
+        0.34,
+        0.078
+      ],
+      "tail": null,
+      "text_key": "john.8.p2.b3"
+    },
+    {
+      "id": "JOHN_08_P002_B004",
+      "panel": "JOHN_08_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.15,
+        0.9197,
+        0.34,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "john.8.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_15_P004",
+  "book": "john",
+  "chapter": 15,
+  "page": 4,
+  "ref": "15:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_15_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_15_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "我把这些事告诉你们，是要让我的喜乐在你们心里，并使你们的喜乐满足。"
+      }
+    },
+    {
+      "id": "JOHN_15_P004_F2",
+      "box": [
+        0,
+        0.2669,
+        0.3633,
+        0.5065
+      ],
+      "alt": {
+        "zh-CN": "你们要彼此相爱，像我爱你们一样；这就是我的命令。"
+      }
+    },
+    {
+      "id": "JOHN_15_P004_F3",
+      "box": [
+        0.374,
+        0.2669,
+        0.626,
+        0.5065
+      ],
+      "alt": {
+        "zh-CN": "人为朋友舍命，没有比这更大的爱了。"
+      }
+    },
+    {
+      "id": "JOHN_15_P004_F4",
+      "box": [
+        0,
+        0.7793,
+        1,
+        0.2207
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_15_P004_B001",
+      "panel": "JOHN_15_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0078,
+        0.4,
+        0.0522
+      ],
+      "tail": null,
+      "text_key": "john.15.p4.b1"
+    },
+    {
+      "id": "JOHN_15_P004_B002",
+      "panel": "JOHN_15_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0145,
+        0.2821,
+        0.3269,
+        0.1215
+      ],
+      "tail": [
+        0.178,
+        0.4543
+      ],
+      "text_key": "john.15.p4.b2"
+    },
+    {
+      "id": "JOHN_15_P004_B003",
+      "panel": "JOHN_15_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7496,
+        0.2821,
+        0.2378,
+        0.0911
+      ],
+      "tail": [
+        0.8685,
+        0.4239
+      ],
+      "text_key": "john.15.p4.b3"
+    }
+  ]
+}

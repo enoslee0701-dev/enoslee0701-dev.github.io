@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_08_P015",
+  "book": "john",
+  "chapter": 8,
+  "page": 15,
+  "ref": "8:52-55",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ],
+      "alt": {
+        "zh-CN": "现在我们知道你被鬼附身了。亚伯拉罕死了，先知们也死了……"
+      }
+    },
+    {
+      "id": "JOHN_08_P015_F2",
+      "box": [
+        0,
+        0.265,
+        0.4961,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "难道你比我们的祖先亚伯拉罕还伟大吗？……你把自己当作什么人呢？"
+      }
+    },
+    {
+      "id": "JOHN_08_P015_F3",
+      "box": [
+        0.5039,
+        0.265,
+        0.4961,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "荣耀我的是我的父亲，就是你们所说的你们的上帝。"
+      }
+    },
+    {
+      "id": "JOHN_08_P015_F4",
+      "box": [
+        0,
+        0.5807,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "你们从来不认识他，我却认识他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P015_B001",
+      "panel": "JOHN_08_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0078,
+        0.52,
+        0.052
+      ],
+      "tail": [
+        0.29,
+        0.0858
+      ],
+      "text_key": "john.8.p15.b1"
+    },
+    {
+      "id": "JOHN_08_P015_B002",
+      "panel": "JOHN_08_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.4891,
+        0.4564,
+        0.0809
+      ],
+      "tail": [
+        0.248,
+        0.5762
+      ],
+      "text_key": "john.8.p15.b2"
+    },
+    {
+      "id": "JOHN_08_P015_B003",
+      "panel": "JOHN_08_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.5015,
+        0.4564,
+        0.0684
+      ],
+      "tail": [
+        0.7519,
+        0.5762
+      ],
+      "text_key": "john.8.p15.b3"
+    },
+    {
+      "id": "JOHN_08_P015_B004",
+      "panel": "JOHN_08_P015_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5933,
+        0.38,
+        0.0503
+      ],
+      "tail": [
+        0.22,
+        0.6855
+      ],
+      "text_key": "john.8.p15.b4"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_03_P008",
+  "book": "john",
+  "chapter": 3,
+  "page": 8,
+  "ref": "3:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.194
+      ],
+      "alt": {
+        "zh-CN": "这些事以后，耶稣和门徒到了犹太地，在那里住下，给人施洗。"
+      }
+    },
+    {
+      "id": "JOHN_03_P008_F2",
+      "box": [
+        0,
+        0.1979,
+        1,
+        0.459
+      ],
+      "alt": {
+        "zh-CN": "约翰在靠近撒冷的哀嫩也给人施洗，因为那里水多，许多人都去受洗。"
+      }
+    },
+    {
+      "id": "JOHN_03_P008_F3",
+      "box": [
+        0,
+        0.6608,
+        1,
+        0.3392
+      ],
+      "alt": {
+        "zh-CN": "约翰的门徒和一个犹太人为洁净的礼争论起来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P008_B001",
+      "panel": "JOHN_03_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0078,
+        0.5,
+        0.0582
+      ],
+      "tail": null,
+      "text_key": "john.3.p8.b1"
+    },
+    {
+      "id": "JOHN_03_P008_B002",
+      "panel": "JOHN_03_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2117,
+        0.48,
+        0.0734
+      ],
+      "tail": null,
+      "text_key": "john.3.p8.b2"
+    },
+    {
+      "id": "JOHN_03_P008_B003",
+      "panel": "JOHN_03_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.671,
+        0.42,
+        0.0508
+      ],
+      "tail": null,
+      "text_key": "john.3.p8.b3"
+    }
+  ]
+}

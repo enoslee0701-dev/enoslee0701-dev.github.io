@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_18_P005",
+  "book": "john",
+  "chapter": 18,
+  "page": 5,
+  "ref": "18:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "那队兵、千夫长和犹太人的差役就抓住耶稣，把他捆绑起来，"
+      }
+    },
+    {
+      "id": "JOHN_18_P005_F2",
+      "box": [
+        0,
+        0.2933,
+        0.335,
+        0.2292
+      ]
+    },
+    {
+      "id": "JOHN_18_P005_F3",
+      "box": [
+        0,
+        0.291,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "先带到亚那面前，因为亚那是这一年作大祭司的该亚法的岳父。"
+      }
+    },
+    {
+      "id": "JOHN_18_P005_F4",
+      "box": [
+        0,
+        0.7038,
+        1,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "这该亚法就是以前向犹太人提议「一个人替百姓死是有益的」那个人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P005_B001",
+      "panel": "JOHN_18_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0086,
+        0.22,
+        0.0861
+      ],
+      "tail": null,
+      "text_key": "john.18.p5.b1"
+    },
+    {
+      "id": "JOHN_18_P005_B002",
+      "panel": "JOHN_18_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.6181,
+        0.45,
+        0.0695
+      ],
+      "tail": null,
+      "text_key": "john.18.p5.b2"
+    },
+    {
+      "id": "JOHN_18_P005_B003",
+      "panel": "JOHN_18_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.7275,
+        0.34,
+        0.2488
+      ],
+      "tail": null,
+      "text_key": "john.18.p5.b3"
+    }
+  ]
+}

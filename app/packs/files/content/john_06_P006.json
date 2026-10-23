@@ -1,0 +1,85 @@
+{
+  "id": "JOHN_06_P006",
+  "book": "john",
+  "chapter": 6,
+  "page": 6,
+  "ref": "6:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "这真是那要来到世上的先知！"
+      }
+    },
+    {
+      "id": "JOHN_06_P006_F2",
+      "box": [
+        0,
+        0.2799,
+        1,
+        0.2448
+      ]
+    },
+    {
+      "id": "JOHN_06_P006_F3",
+      "box": [
+        0,
+        0.5293,
+        1,
+        0.4707
+      ],
+      "alt": {
+        "zh-CN": "耶稣知道众人要来强迫他作王，就独自又退到山上去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P006_B001",
+      "panel": "JOHN_06_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.0083,
+        0.48,
+        0.0496
+      ],
+      "tail": [
+        0.27,
+        0.0855
+      ],
+      "text_key": "john.6.p6.b1"
+    },
+    {
+      "id": "JOHN_06_P006_B002",
+      "panel": "JOHN_06_P006_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5434,
+        0.4,
+        0.0847
+      ],
+      "tail": null,
+      "text_key": "john.6.p6.b2"
+    }
+  ]
+}

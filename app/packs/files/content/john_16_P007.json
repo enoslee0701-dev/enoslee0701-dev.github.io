@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_16_P007",
+  "book": "john",
+  "chapter": 16,
+  "page": 7,
+  "ref": "16:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_16_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_16_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "到那一天，你们就什么也不问我了。"
+      }
+    },
+    {
+      "id": "JOHN_16_P007_F2",
+      "box": [
+        0,
+        0.2786,
+        0.3379,
+        0.4837
+      ],
+      "alt": {
+        "zh-CN": "……你们向父求什么，他会因我的名赐给你们。"
+      }
+    },
+    {
+      "id": "JOHN_16_P007_F3",
+      "box": [
+        0.3438,
+        0.2786,
+        0.6562,
+        0.4837
+      ],
+      "alt": {
+        "zh-CN": "……现在你们求，就必得着，使你们的喜乐可以满足。"
+      }
+    },
+    {
+      "id": "JOHN_16_P007_F4",
+      "box": [
+        0,
+        0.765,
+        1,
+        0.235
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_16_P007_B001",
+      "panel": "JOHN_16_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.011,
+        0.46,
+        0.0769
+      ],
+      "tail": [
+        0.73,
+        0.1154
+      ],
+      "text_key": "john.16.p7.b1"
+    },
+    {
+      "id": "JOHN_16_P007_B002",
+      "panel": "JOHN_16_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.0135,
+        0.2883,
+        0.3108,
+        0.0483
+      ],
+      "tail": [
+        0.1689,
+        0.385
+      ],
+      "text_key": "john.16.p7.b2"
+    },
+    {
+      "id": "JOHN_16_P007_B003",
+      "panel": "JOHN_16_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3635,
+        0.6462,
+        0.3281,
+        0.0967
+      ],
+      "tail": [
+        0.5276,
+        0.7623
+      ],
+      "text_key": "john.16.p7.b3"
+    }
+  ]
+}

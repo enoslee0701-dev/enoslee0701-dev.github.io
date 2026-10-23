@@ -1,0 +1,130 @@
+{
+  "id": "JOHN_01_P007",
+  "book": "john",
+  "chapter": 1,
+  "page": 7,
+  "ref": "1:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "约翰为他作见证，大声说：「这就是我说过的那一位：『在我以后来的，比我更大，因为他本来就在我以前。』」"
+      }
+    },
+    {
+      "id": "JOHN_01_P007_F2",
+      "box": [
+        0,
+        0.3307,
+        0.5234,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "从他丰丰富富的恩典里，我们都领受了，恩典之上再加恩典。"
+      }
+    },
+    {
+      "id": "JOHN_01_P007_F3",
+      "box": [
+        0.5313,
+        0.3307,
+        0.4687,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "律法是藉着摩西颁布的；恩典和真理却是藉着耶稣基督来的。"
+      }
+    },
+    {
+      "id": "JOHN_01_P007_F4",
+      "box": [
+        0,
+        0.6432,
+        1,
+        0.3568
+      ],
+      "alt": {
+        "zh-CN": "从来没有人看见过神，只有在父怀里的独生子把他显明出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P007_B001",
+      "panel": "JOHN_01_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.54,
+        0.0882,
+        0.44,
+        0.098
+      ],
+      "tail": [
+        0.76,
+        0.2189
+      ],
+      "text_key": "john.1.p7.b1"
+    },
+    {
+      "id": "JOHN_01_P007_B002",
+      "panel": "JOHN_01_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2617,
+        0.577,
+        0.2512,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "john.1.p7.b2"
+    },
+    {
+      "id": "JOHN_01_P007_B003",
+      "panel": "JOHN_01_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5501,
+        0.3399,
+        0.375,
+        0.0492
+      ],
+      "tail": null,
+      "text_key": "john.1.p7.b3"
+    },
+    {
+      "id": "JOHN_01_P007_B004",
+      "panel": "JOHN_01_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.28,
+        0.6539,
+        0.55,
+        0.057
+      ],
+      "tail": null,
+      "text_key": "john.1.p7.b4"
+    }
+  ]
+}

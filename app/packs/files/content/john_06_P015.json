@@ -1,0 +1,127 @@
+{
+  "id": "JOHN_06_P015",
+  "book": "john",
+  "chapter": 6,
+  "page": 15,
+  "ref": "6:47-51",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，信的人有永生。"
+      }
+    },
+    {
+      "id": "JOHN_06_P015_F2",
+      "box": [
+        0,
+        0.293,
+        1,
+        0.2298
+      ],
+      "alt": {
+        "zh-CN": "你们的祖先在旷野吃过吗哪，还是死了。"
+      }
+    },
+    {
+      "id": "JOHN_06_P015_F3",
+      "box": [
+        0,
+        0.5254,
+        1,
+        0.4746
+      ],
+      "alt": {
+        "zh-CN": "我是从天上降下来的生命的粮；人吃了这粮，就会永远活着。 / 我要赐的粮就是我的肉，是为世人的生命而赐的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P015_B001",
+      "panel": "JOHN_06_P015_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0087,
+        0.48,
+        0.0519
+      ],
+      "tail": [
+        0.27,
+        0.0894
+      ],
+      "text_key": "john.6.p15.b1"
+    },
+    {
+      "id": "JOHN_06_P015_B002",
+      "panel": "JOHN_06_P015_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.3045,
+        0.42,
+        0.0597
+      ],
+      "tail": [
+        0.76,
+        0.3872
+      ],
+      "text_key": "john.6.p15.b2"
+    },
+    {
+      "id": "JOHN_06_P015_B003",
+      "panel": "JOHN_06_P015_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5396,
+        0.34,
+        0.0949
+      ],
+      "tail": [
+        0.2,
+        0.682
+      ],
+      "text_key": "john.6.p15.b3"
+    },
+    {
+      "id": "JOHN_06_P015_B004",
+      "panel": "JOHN_06_P015_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.5396,
+        0.33,
+        0.1139
+      ],
+      "tail": [
+        0.805,
+        0.701
+      ],
+      "text_key": "john.6.p15.b4"
+    }
+  ]
+}

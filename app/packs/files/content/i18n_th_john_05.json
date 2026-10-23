@@ -1,0 +1,432 @@
+{
+  "john.5.p1.b1": {
+    "text": "ต่อมา​พระเยซู​ได้​ขึ้น​ไป​ที่​เยรูซาเล็ม​เพื่อ​ร่วม​เทศกาล​ของ​ชาว​ยิว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p1.b2": {
+    "text": "ใน​เยรูซาเล็ม ใกล้​ประตู​แกะ มี​สระ​น้ำ​แห่ง​หนึ่ง … ซึ่ง​รายล้อม​ด้วย​ศาลา​ห้า​หลัง ที่​นี่​มี​คน​พิการ​มากมาย​นอน​อยู่ ทั้ง​คน​ตาบอด คน​ง่อย คน​เป็น​อัมพาต",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p1.b3": {
+    "text": "ที่​นั่น​มี​ชาย​คน​หนึ่ง​พิการ​มา 38 ปี​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b1": {
+    "text": "เมื่อ​พระเยซู​เห็น​เขา​นอน​อยู่ และ​รู้​ว่า​เขา​อยู่​ใน​สภาพ​นี้​มา​นาน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b2": {
+    "text": "“เจ้า​อยาก​หาย​โรค​ไหม”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b3": {
+    "text": "“นาย​ท่าน เวลา​น้ำ​กระเพื่อม​ไม่​มี​ใคร​ช่วย​ข้าพเจ้า​ลง​สระ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p2.b4": {
+    "text": "ขณะ​ที่​ข้าพเจ้า​พยายาม​จะ​ลง​ไป คน​อื่น​ก็​ลง​ไป​ก่อน​แล้ว”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p3.b1": {
+    "text": "“จง​ลุก​ขึ้น! แบก​เสื่อ​แล้ว​เดิน​ไป​เถิด”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p3.b2": {
+    "text": "ชาย​คน​นั้น​ก็​หาย​โรค​ทันที เขา​แบก​เสื่อ​เดิน​ไป วัน​ที่​เกิด​เหตุการณ์​นี้​เป็น​วัน​สะบาโต",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b1": {
+    "text": "“นี่​เป็น​วัน​สะบาโต กฎ​บัญญัติ​ห้าม​เจ้า​ยก​ที่​นอน”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b2": {
+    "text": "“ชาย​คน​ที่​รักษา​ข้าพเจ้า​ให้​หาย​บอก​ข้าพเจ้า​ว่า ‘แบก​เสื่อ​เดิน​ไป​เถิด’ ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b3": {
+    "text": "“ใคร​คือ​คน​ที่​บอก​ให้​เจ้า​แบก​เสื่อ​เดิน​ไป”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p4.b4": {
+    "text": "คน​ที่​หาย​โรค​ไม่​รู้​ว่า​พระองค์​คือ​ใคร เพราะ​พระเยซู​หาย​ไป​ท่ามกลาง​ฝูงชน​ที่​นั่น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p5.b1": {
+    "text": "ต่อมา​พระเยซู​พบ​เขา​ที่​วิหาร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p5.b2": {
+    "text": "“ดู​เถิด เจ้า​กลับ​มา​ปกติ​ดี​แล้ว จง​เลิก​ทำ​บาป ไม่​เช่น​นั้น​สิ่ง​เลว​ร้าย​กว่า​เดิม​อาจ​เกิด​กับ​เจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p5.b3": {
+    "text": "เขา​จึง​ไป​และ​บอก​พวก​หัวหน้า​ชาว​ยิว​ว่า พระเยซู​คือ​คน​ที่​ทำ​ให้​เขา​หาย​เป็น​ปกติ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p6.b1": {
+    "text": "เพราะ​พระเยซู​ทำ​สิ่ง​เหล่า​นี้​ใน​วัน​สะบาโต ดังนั้น​พวก​หัวหน้า​ชาว​ยิว​จึง​เริ่มต้น​ข่มเหง​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p6.b2": {
+    "text": "“พระบิดา​ของ​เรา​ทำงาน​ของ​พระองค์​เสมอ​ตราบ​จน​ทุก​วัน​นี้ และ​เรา​ก็​กำลัง​ทำ​ด้วย​เช่น​กัน”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p6.b3": {
+    "text": "เพราะ​เหตุ​นี้ พวก​ยิว​จึง​ยิ่ง​พยายาม​ทุก​วิถี​ทาง​เพื่อ​จะ​ฆ่า​พระเยซู ไม่​เพียง​พระองค์​ละเมิด​กฎ​บัญญัติ​วัน​สะบาโต แต่​ยัง​เรียก​พระเจ้า​ว่า​พระบิดา​ของ​ตน ซึ่ง​เป็น​การ​ยก​ตนเอง​เสมอ​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p7.b1": {
+    "text": "“เรา​บอก​ความ​จริง​ว่า พระบุตร​ไม่​อาจ​ทำ​สิ่ง​ใด​โดย​พระองค์​เอง แต่​สามารถ​ทำ​ได้​เพียง​สิ่ง​ที่​เห็น​พระบิดา​ทำ …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p7.b2": {
+    "text": "เพราะ​สิ่ง​ใด​ที่​พระบิดา​ทำ พระบุตร​ก็​ทำ​สิ่ง​นั้น​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p7.b3": {
+    "text": "พระบิดา​รัก​พระบุตร และ​เปิดเผย​ทุก​สิ่ง​ที่​กระทำ​ให้​พระบุตร​เห็น และ​พระองค์​จะ​เปิดเผย​การงาน​ที่​ยิ่งใหญ่​กว่า​นี้​อีก และ​พวก​ท่าน​จะ​ประหลาด​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p8.b1": {
+    "text": "เพราะ​เหมือน​ที่​พระบิดา​ให้​คน​ตาย​แล้ว​กลับ​มี​ชีวิต​ขึ้น​มา​ใหม่ พระบุตร​ก็​จะ​ให้​ชีวิต​แก่​คน​ที่​พระองค์​ต้องการ​จะ​ให้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p8.b2": {
+    "text": "… ใคร​ไม่​ถวาย​เกียรติ​แด่​พระบุตร​ก็​ไม่​ถวาย​เกียรติ​แด่​พระบิดา​ผู้​ส่ง​พระบุตร​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p8.b3": {
+    "text": "เรา​บอก​ความ​จริง​ว่า ใคร​ฟัง​คำ​ของ​เรา​และ​เชื่อ​พระองค์​ผู้​ส่ง​เรา​มา คน​นั้น​ก็​มี​ชีวิต​นิรันดร์​และ​ไม่​ถูก​พิพากษา แต่​ได้​ข้าม​ความ​ตาย​มา​ถึง​ชีวิต​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p9.b1": {
+    "text": "เรา​บอก​ความ​จริง​ว่า ใกล้​ถึง​เวลา​แล้ว และ​ตอน​นี้​ก็​ถึง​เวลา​แล้ว​ที่​คน​ตาย​จะ​ได้ยิน​เสียง​พระบุตร​ของ​พระเจ้า​และ​บรรดา​คน​ที่​ได้ยิน​จะ​มี​ชีวิต",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p9.b2": {
+    "text": "อย่า​ประหลาด​ใจ​ใน​เรื่อง​นี้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p9.b3": {
+    "text": "เพราะ​จะ​ถึง​เวลา​ที่​ทุก​คน​ใน​หลุม​ฝัง​ศพ​จะ​ได้ยิน​เสียง​ของ​พระบุตร …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p10.b1": {
+    "text": "เรา​ทำ​สิ่ง​ใด​โดย​ตัว​เรา​เอง​ไม่ได้ เรา​พิพากษา​ตาม​ที่​เรา​ได้ยิน​เท่านั้น และ​คำ​พิพากษา​ของ​เรา​ยุติธรรม …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p10.b2": {
+    "text": "ถ้า​เรา​เป็น​พยาน​ให้​ตนเอง คำ​พยาน​ของ​เรา​ก็​ไม่​น่า​เชื่อถือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p10.b3": {
+    "text": "มี​อีก​คน​หนึ่ง​ที่​เป็น​พยาน​ให้​เรา และ​เรา​รู้​ว่า​คำ​พยาน​ของ​เขา​เกี่ยว​กับ​เรา​เชื่อถือ​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p11.b1": {
+    "text": "พวก​ท่าน​ส่ง​คน​ไป​หา​ยอห์น และ​ยอห์น​ได้​เป็น​พยาน​ถึง​ความ​จริง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p11.b2": {
+    "text": "… แต่​เรา​กล่าว​ถึง​เรื่อง​นี้​เพื่อ​ท่าน​จะ​รอด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p11.b3": {
+    "text": "ยอห์น​เป็น​ตะเกียง​ที่​จุด​อยู่​และ​ให้​แสง​สว่าง และ​ท่าน​เลือก​ที่​จะ​ชื่น​ชม​ความ​สว่าง​ของ​ยอห์น​ชั่วขณะ​หนึ่ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p12.b1": {
+    "text": "… งาน​ทั้ง​สิ้น​ที่​พระบิดา​มอบหมาย​ให้​เรา​ทำ​ให้​สำเร็จ คือ​งาน​ที่​เรา​กำลัง​ทำ​อยู่​นั้น เป็น​พยาน​ว่า​พระบิดา​ส่ง​เรา​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p12.b2": {
+    "text": "และ​พระบิดา​ผู้​ส่ง​เรา​มา​ก็​เป็น​พยาน​ให้​เรา ท่าน​ไม่​เคย​ได้ยิน​เสียง​หรือ​เห็น​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p12.b3": {
+    "text": "และ​ถ้อยคำ​ของ​พระองค์​ก็​ไม่ได้​อยู่​ใน​ท่าน​เพราะ​ท่าน​ไม่​เชื่อ​ผู้​ที่​พระองค์​ส่ง​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p13.b1": {
+    "text": "ท่าน​ขยัน​ศึกษาพระคัมภีร์ เพราะ​คิด​ว่า​จะ​ได้​ชีวิต​นิรันดร์​โดย​สิ่ง​ที่​อยู่​ใน​พระคัมภีร์ สิ่ง​ที่​อยู่​ใน​พระคัมภีร์​นั้น​เอง​เป็น​พยาน​เกี่ยว​กับ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p13.b2": {
+    "text": "แต่​ท่าน​ก็​ปฏิเสธ​ที่​จะ​มา​หา​เรา​เพื่อ​ได้​ชีวิต",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b1": {
+    "text": "เรา​ได้​มา​ใน​นาม​ของ​พระบิดา​และ​ท่าน​ไม่​ยอม​รับ​เรา …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b2": {
+    "text": "ท่าน​จะ​เชื่อ​ได้​อย่างไร หาก​ท่าน​ยอม​รับ​การ​ยกย่อง​กัน​เอง แต่​ไม่​แสวงหา​การ​ยกย่อง​จาก​พระเจ้า​ผู้​เป็น​พระเจ้า​องค์​เดียว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b3": {
+    "text": "หาก​ท่าน​เชื่อ​โมเสส ท่าน​ก็​จะ​เชื่อ​เรา เพราะ​โมเสส​ได้​เขียน​เกี่ยว​กับ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.5.p14.b4": {
+    "text": "แต่​หาก​ท่าน​ไม่​เชื่อ​สิ่ง​ที่​โมเสส​เขียน​ไว้ แล้ว​จะ​เชื่อ​สิ่ง​ที่​เรา​พูด​ได้​อย่างไร”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 5:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "john.8.p1.b1": {
+    "text": "예수는 감람산으로 가시다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p1.b2": {
+    "text": "아침에 다시 성전으로 들어오시니 백성이 다 나아오는지라 앉으사 저희를 가르치시더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p1.b3": {
+    "text": "서기관들과 바리새인들이 간음 중에 잡힌 여자를 끌고 와서 가운데 세우고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b1": {
+    "text": "선생이여 이 여자가 간음하다가 현장에서 잡혔나이다 모세는 율법에 이러한 여자를 돌로 치라 명하였거니와",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b2": {
+    "text": "선생은 어떻게 말하겠나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b3": {
+    "text": "저희가 이렇게 말함은 고소할 조건을 얻고자하여 예수를 시험함이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p2.b4": {
+    "text": "예수께서 몸을 굽히사 손가락으로 땅에 쓰시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b1": {
+    "text": "저희가 묻기를 마지 아니하는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b2": {
+    "text": "너희 중에 죄 없는 자가 먼저 돌로 치라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p3.b3": {
+    "text": "다시 몸을 굽히사 손가락으로 땅에 쓰시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p4.b1": {
+    "text": "저희가 이 말씀을 듣고 양심의 가책을 받아 어른으로 시작하여 젊은이까지 하나씩 하나씩 나가고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p4.b2": {
+    "text": "오직 예수와 그 가운데 섰는 여자만 남았더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b1": {
+    "text": "여자여 너를 고소하던 그들이 어디 있느냐 너를 정죄한 자가 없느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b2": {
+    "text": "주여 없나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b3": {
+    "text": "나도 너를 정죄하지 아니하노니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p5.b4": {
+    "text": "가서 다시는 죄를 범치 말라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b1": {
+    "text": "예수께서 또 일러 가라사대",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b2": {
+    "text": "나는 세상의 빛이니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p6.b3": {
+    "text": "나를 따르는 자는 어두움에 다니지 아니하고 생명의 빛을 얻으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b1": {
+    "text": "네가 너를 위하여 증거하니 네 증거는 참되지 아니하도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b2": {
+    "text": "내가 나를 위하여 증거하여도 내 증거가 참되니 나는 내가 어디서 오며 어디로 가는 것을 앎이어니와",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p7.b3": {
+    "text": "… 이는 내가 혼자 있는 것이 아니요 나를 보내신 이가 나와 함께 계심이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b1": {
+    "text": "네 아버지가 어디 있느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b2": {
+    "text": "너희는 나를 알지 못하고 내 아버지도 알지 못하는도다 나를 알았더면 내 아버지도 알았으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p8.b3": {
+    "text": "이 말씀은 성전에서 가르치실 때에 연보궤 앞에서 하셨으나 잡는 사람이 없으니 이는 그의 때가 아직 이르지 아니하였음이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b1": {
+    "text": "내가 가리니 너희가 나를 찾다가 너희 죄 가운데서 죽겠고 나의 가는 곳에는 너희가 오지 못하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b2": {
+    "text": "저가 나의 가는 곳에는 너희가 오지 못하리라 하니 저가 자결하려는가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p9.b3": {
+    "text": "너희는 아래서 났고 나는 위에서 났으며 너희는 이 세상에 속하였고 나는 이 세상에 속하지 아니하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b1": {
+    "text": "네가 누구냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b2": {
+    "text": "너희는 인자를 든 후에 내가 그인 줄을 알고 또 내가 스스로 아무 것도 하지 아니하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p10.b3": {
+    "text": "이 말씀을 하시매 많은 사람이 믿더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b1": {
+    "text": "너희가 내 말에 거하면 참 내 제자가 되고 진리를 알지니 진리가 너희를 자유케 하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:31-32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b2": {
+    "text": "우리가 아브라함의 자손이라 남의 종이 된 적이 없거늘 어찌하여 우리가 자유케 되리라 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b3": {
+    "text": "진실로 진실로 너희에게 이르노니 죄를 범하는 자마다 죄의 종이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p11.b4": {
+    "text": "종은 영원히 집에 거하지 못하되 아들은 영원히 거하나니 그러므로 아들이 너희를 자유케 하면 너희가 참으로 자유하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:35-36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b1": {
+    "text": "나도 너희가 아브라함의 자손인줄 아노라 그러나 내 말이 너희 속에 있을 곳이 없으므로 나를 죽이려 하는도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b2": {
+    "text": "우리 아버지는 아브라함이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p12.b3": {
+    "text": "우리가 음란한데서 나지 아니하였고 아버지는 한분 뿐이시니 곧 하나님이시로다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b1": {
+    "text": "하나님이 너희 아버지였으면 너희가 나를 사랑하였으리니 이는 내가 하나님께로 나서 왔음이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b2": {
+    "text": "어찌하여 내 말을 깨닫지 못하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b3": {
+    "text": "너희는 너희 아비 마귀에게서 났으니 너희 아비의 욕심을 너희도 행하고자 하느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p13.b4": {
+    "text": "너희 중에 누가 나를 죄로 책잡겠느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b1": {
+    "text": "우리가 너를 사마리아 사람이라 또는 귀신이 들렸다 하는 말이 옳지 아니하냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b2": {
+    "text": "나는 귀신 들린 것이 아니라 오직 내 아버지를 공경함이어늘 너희가 나를 무시하는도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p14.b3": {
+    "text": "진실로 진실로 너희에게 이르노니 사람이 내 말을 지키면 죽음을 영원히 보지 아니하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b1": {
+    "text": "지금 네가 귀신 들린 줄을 아노라 아브라함과 선지자들도 죽었거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b2": {
+    "text": "너는 이미 죽은 우리 조상 아브라함보다 크냐 … 너는 너를 누구라 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b3": {
+    "text": "내게 영광을 돌리시는 이는 내 아버지시니 곧 너희가 너희 하나님이라 칭하는 그이시라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p15.b4": {
+    "text": "너희는 그를 알지 못하되 나는 아노니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b1": {
+    "text": "너희 조상 아브라함은 나의 때 볼 것을 즐거워하다가 보고 기뻐하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b2": {
+    "text": "네가 아직 오십도 못되었는데 아브라함을 보았느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p16.b3": {
+    "text": "진실로 진실로 너희에게 이르노니 아브라함이 나기 전부터 내가 있느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p17.b1": {
+    "text": "저희가 돌을 들어 치려하거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.8.p17.b2": {
+    "text": "예수께서 숨어 성전에서 나가시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "John 8:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

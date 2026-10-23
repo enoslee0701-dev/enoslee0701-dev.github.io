@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_18_P004",
+  "book": "john",
+  "chapter": 18,
+  "page": 4,
+  "ref": "18:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.327
+      ],
+      "alt": {
+        "zh-CN": "西门·彼得带着一把刀，拔出来砍了大祭司的仆人一刀，削掉他的右耳。那仆人名叫马勒古。"
+      }
+    },
+    {
+      "id": "JOHN_18_P004_F2",
+      "box": [
+        0.006,
+        0.2875,
+        0.3,
+        0.27
+      ]
+    },
+    {
+      "id": "JOHN_18_P004_F3",
+      "box": [
+        0,
+        0.3,
+        1,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "把刀收回鞘里吧！"
+      }
+    },
+    {
+      "id": "JOHN_18_P004_F4",
+      "box": [
+        0,
+        0.7428,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "我父给我的那杯，我难道不喝吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P004_B001",
+      "panel": "JOHN_18_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0098,
+        0.34,
+        0.1308
+      ],
+      "tail": null,
+      "text_key": "john.18.p4.b1"
+    },
+    {
+      "id": "JOHN_18_P004_B002",
+      "panel": "JOHN_18_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5713,
+        0.22,
+        0.0787
+      ],
+      "tail": [
+        0.13,
+        0.6938
+      ],
+      "text_key": "john.18.p4.b2"
+    },
+    {
+      "id": "JOHN_18_P004_B003",
+      "panel": "JOHN_18_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.7685,
+        0.4,
+        0.18
+      ],
+      "tail": [
+        0.78,
+        0.9742
+      ],
+      "text_key": "john.18.p4.b3"
+    }
+  ]
+}

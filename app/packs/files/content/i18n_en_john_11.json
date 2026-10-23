@@ -1,0 +1,662 @@
+{
+  "john.11.p1.b1": {
+    "text": "At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p1.b2": {
+    "text": "So the sisters sent word to Jesus,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p1.b3": {
+    "text": "Lord, the one You love is sick.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p2.b1": {
+    "text": "This sickness will not end in death. No, it is for the glory of God, so that the Son of God may be glorified through it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p2.b2": {
+    "text": "Now Jesus loved Martha and her sister and Lazarus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p2.b3": {
+    "text": "So on hearing that Lazarus was sick, He stayed where He was for two days,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p3.b1": {
+    "text": "Let us go back to Judea.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p3.b2": {
+    "text": "Rabbi, … the Jews just tried to stone You, and You are going back there?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p3.b3": {
+    "text": "Are there not twelve hours of daylight? If anyone walks in the daytime, he will not stumble, because he sees by the light of this world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p3.b4": {
+    "text": "But if anyone walks at night, he will stumble, because he has no light.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p4.b1": {
+    "text": "Our friend Lazarus has fallen asleep, but I am going there to wake him up.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p4.b2": {
+    "text": "Lord, if he is sleeping, he will get better.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p4.b3": {
+    "text": "Lazarus is dead,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p4.b4": {
+    "text": "Let us also go, so that we may die with Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p5.b1": {
+    "text": "When Jesus arrived, He found that Lazarus had already spent four days in the tomb.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p5.b2": {
+    "text": "and many of the Jews had come to Martha and Mary to console them in the loss of their brother.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p5.b3": {
+    "text": "So when Martha heard that Jesus was coming, she went out to meet Him; but Mary stayed at home.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p6.b1": {
+    "text": "Lord, if You had been here, my brother would not have died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p6.b2": {
+    "text": "Your brother will rise again,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p6.b3": {
+    "text": "I know that he will rise again in the resurrection at the last day.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p7.b1": {
+    "text": "I am the resurrection and the life. Whoever believes in Me will live, even though he dies.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p7.b2": {
+    "text": "And everyone who lives and believes in Me will never die. Do you believe this?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p7.b3": {
+    "text": "Yes, Lord, … I believe that You are the Christ, the Son of God, who was to come into the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p8.b1": {
+    "text": "The Teacher is here and is asking for you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p8.b2": {
+    "text": "And when Mary heard this, she got up quickly and went to Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p8.b3": {
+    "text": "When the Jews … saw how quickly she got up and went out, they followed her, supposing she was going to the tomb to mourn there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p9.b1": {
+    "text": "Lord, if You had been here, my brother would not have died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p9.b2": {
+    "text": "When Jesus saw her weeping, and the Jews who had come with her also weeping, He was deeply moved in spirit and troubled.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p9.b3": {
+    "text": "Where have you put him?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p9.b4": {
+    "text": "Come and see, Lord,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p10.b1": {
+    "text": "Jesus wept.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p10.b2": {
+    "text": "See how He loved him!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p10.b3": {
+    "text": "Could not this man who opened the eyes of the blind also have kept Lazarus from dying?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p11.b1": {
+    "text": "Jesus, once again deeply moved, came to the tomb. It was a cave with a stone laid across the entrance.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p11.b2": {
+    "text": "Take away the stone,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p11.b3": {
+    "text": "Lord, by now he stinks,…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p11.b4": {
+    "text": "Did I not tell you that if you believed, you would see the glory of God?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p12.b1": {
+    "text": "So they took away the stone.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p12.b2": {
+    "text": "Father, I thank You that You have heard Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p12.b3": {
+    "text": "I knew that You always hear Me, but I say this for the benefit of the people standing here, so they may believe that You sent Me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p13.b1": {
+    "text": "After Jesus had said this, He called out in a loud voice,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p13.b2": {
+    "text": "Lazarus, come out!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p14.b1": {
+    "text": "The man who had been dead came out with his hands and feet bound in strips of linen, and his face wrapped in a cloth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p14.b2": {
+    "text": "Unwrap him and let him go,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p15.b1": {
+    "text": "Therefore many of the Jews who had come to Mary, and had seen what Jesus did, believed in Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p15.b2": {
+    "text": "But some of them went to the Pharisees",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p15.b3": {
+    "text": "and told them what Jesus had done.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p16.b1": {
+    "text": "Then the chief priests and Pharisees convened the Sanhedrin and said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p16.b2": {
+    "text": "What are we to do? This man is performing many signs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p16.b3": {
+    "text": "If we let Him go on like this, everyone will believe in Him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p16.b4": {
+    "text": "and then the Romans will come and take away both our place and our nation.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p17.b1": {
+    "text": "But one of them, named Caiaphas, who was high priest that year, said to them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p17.b2": {
+    "text": "You know nothing at all!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p17.b3": {
+    "text": "You do not realize that it is better for you that one man die for the people than that the whole nation perish.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p18.b1": {
+    "text": "Caiaphas did not say this on his own. Instead, as high priest that year, he was prophesying that Jesus would die for the nation,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p18.b2": {
+    "text": "and not only for the nation, but also for the scattered children of God, to gather them together into one.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p18.b3": {
+    "text": "So from that day on they plotted to kill Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p19.b1": {
+    "text": "As a result, Jesus no longer went about publicly among the Jews, but He withdrew to a town … in an area near the wilderness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p19.b2": {
+    "text": "…called Ephraim…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p19.b3": {
+    "text": "And He stayed there with the disciples.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p20.b1": {
+    "text": "Now the Jewish Passover was near,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p20.b2": {
+    "text": "and many people went up from the country to Jerusalem to purify themselves before the Passover.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p20.b3": {
+    "text": "What do you think? Will He come to the feast at all?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p21.b1": {
+    "text": "But the chief priests and Pharisees had given orders",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p21.b2": {
+    "text": "that anyone who knew where He was must report it,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.11.p21.b3": {
+    "text": "so that they could arrest Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 11:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

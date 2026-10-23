@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_04_P001",
+  "book": "john",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1953
+      ],
+      "alt": {
+        "zh-CN": "主知道法利赛人听说他收的门徒、施的洗比约翰还多……他就离开犹太，再往加利利去。"
+      }
+    },
+    {
+      "id": "JOHN_04_P001_F2",
+      "box": [
+        0,
+        0.1986,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "他必须经过撒马利亚，于是来到撒马利亚的一座城，名叫叙加……"
+      }
+    },
+    {
+      "id": "JOHN_04_P001_F3",
+      "box": [
+        0,
+        0.6367,
+        1,
+        0.3633
+      ],
+      "alt": {
+        "zh-CN": "耶稣走路走累了，就坐在井旁。那时大约是正午。"
+      }
+    },
+    {
+      "id": "JOHN_04_P001_F4",
+      "box": [
+        0.685,
+        0.744,
+        0.315,
+        0.256
+      ],
+      "alt": {
+        "zh-CN": "（远处，一个女人扛着水罐走来。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P001_B001",
+      "panel": "JOHN_04_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0078,
+        0.42,
+        0.0585
+      ],
+      "tail": null,
+      "text_key": "john.4.p1.b1"
+    },
+    {
+      "id": "JOHN_04_P001_B002",
+      "panel": "JOHN_04_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2116,
+        0.5,
+        0.0694
+      ],
+      "tail": null,
+      "text_key": "john.4.p1.b2"
+    },
+    {
+      "id": "JOHN_04_P001_B003",
+      "panel": "JOHN_04_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6512,
+        0.3,
+        0.0944
+      ],
+      "tail": null,
+      "text_key": "john.4.p1.b3"
+    }
+  ]
+}

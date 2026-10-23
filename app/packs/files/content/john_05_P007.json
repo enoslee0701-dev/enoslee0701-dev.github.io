@@ -1,0 +1,106 @@
+{
+  "id": "JOHN_05_P007",
+  "book": "john",
+  "chapter": 5,
+  "page": 7,
+  "ref": "5:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，子凭着自己不能做什么，只有看见父所做的，子才能做……"
+      }
+    },
+    {
+      "id": "JOHN_05_P007_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.4076
+      ],
+      "alt": {
+        "zh-CN": "父所做的事，子也照样做。"
+      }
+    },
+    {
+      "id": "JOHN_05_P007_F3",
+      "box": [
+        0,
+        0.6823,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "父爱子，把自己所做的一切事指给他看，还要把比这更大的事指给他看，使你们惊奇。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P007_B001",
+      "panel": "JOHN_05_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0053,
+        0.37,
+        0.0531
+      ],
+      "tail": [
+        0.545,
+        0.085
+      ],
+      "text_key": "john.5.p7.b1"
+    },
+    {
+      "id": "JOHN_05_P007_B002",
+      "panel": "JOHN_05_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.26,
+        0.2749,
+        0.31,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "john.5.p7.b2"
+    },
+    {
+      "id": "JOHN_05_P007_B003",
+      "panel": "JOHN_05_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.76,
+        0.6887,
+        0.23,
+        0.0826
+      ],
+      "tail": [
+        0.875,
+        0.8031
+      ],
+      "text_key": "john.5.p7.b3"
+    }
+  ]
+}

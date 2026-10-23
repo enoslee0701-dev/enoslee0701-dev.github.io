@@ -1,0 +1,462 @@
+{
+  "john.10.p1.b1": {
+    "text": "“Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p1.b2": {
+    "text": "But the one who enters by the gate is the shepherd of the sheep. The gatekeeper opens the gate for him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p1.b3": {
+    "text": "and the sheep listen for his voice. He calls his own sheep by name and leads them out.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b1": {
+    "text": "When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b2": {
+    "text": "But they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b3": {
+    "text": "Jesus spoke to them using this illustration, but they did not understand what He was telling them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b1": {
+    "text": "“Truly, truly, I tell you, I am the gate for the sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b2": {
+    "text": "I am the gate. If anyone enters through Me, he will be saved.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b3": {
+    "text": "He will come in and go out and find pasture.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b1": {
+    "text": "The thief comes only to steal and kill and destroy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b2": {
+    "text": "I have come that they may have life, and have it in all its fullness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b3": {
+    "text": "I am the good shepherd. The good shepherd lays down His life for the sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b1": {
+    "text": "The hired hand is not the shepherd, and the sheep are not his own. When he sees the wolf coming, he abandons the sheep and runs away.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b2": {
+    "text": "Then the wolf pounces on them and scatters the flock.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b3": {
+    "text": "The man runs away because he is a hired servant and is unconcerned for the sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b1": {
+    "text": "I am the good shepherd. I know My sheep and My sheep know Me,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b2": {
+    "text": "Just as the Father knows Me and I know the Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b3": {
+    "text": "And I lay down My life for the sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b1": {
+    "text": "I have other sheep that are not of this fold. I must bring them in as well, and they will listen to My voice.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b2": {
+    "text": "Then there will be one flock and one shepherd.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b3": {
+    "text": "The reason the Father loves Me is that I lay down My life in order to take it up again.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b4": {
+    "text": "No one takes it from Me, but I lay it down of My own accord. I have authority to lay it down and authority to take it up again.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b1": {
+    "text": "Again there was division among the Jews because of Jesus’ message.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b2": {
+    "text": "“He is demon-possessed and insane. Why would you listen to Him?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b3": {
+    "text": "“These are not the words of a man possessed by a demon.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b4": {
+    "text": "Can a demon open the eyes of the blind?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b1": {
+    "text": "At that time the Feast of Dedication took place in Jerusalem. It was winter,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b2": {
+    "text": "and Jesus was walking in the temple courts in Solomon’s Colonnade.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b3": {
+    "text": "“How long will You keep us in suspense?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b4": {
+    "text": "If You are the Christ, tell us plainly.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b1": {
+    "text": "“I already told you, … but you did not believe.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b2": {
+    "text": "My sheep listen to My voice; I know them, and they follow Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b3": {
+    "text": "…No one can snatch them out of My hand.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b4": {
+    "text": "I and the Father are one.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b1": {
+    "text": "At this, the Jews again picked up stones to stone Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b2": {
+    "text": "“I have shown you many good works from the Father. For which of these do you stone Me?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b3": {
+    "text": "“We are not stoning You for any good work, … but for blasphemy,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b4": {
+    "text": "because You, who are a man, declare Yourself to be God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b1": {
+    "text": "“Is it not written in your Law: ‘I have said you are gods’?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b2": {
+    "text": "…the Scripture cannot be broken…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b3": {
+    "text": "…so that you may know and understand that the Father is in Me, and I am in the Father.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b4": {
+    "text": "At this, they tried again to seize Him, but He escaped their grasp.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b1": {
+    "text": "Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b2": {
+    "text": "“Although John never performed a sign,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b3": {
+    "text": "Everything he said about this man was true.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b4": {
+    "text": "And many in that place believed in Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 10:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

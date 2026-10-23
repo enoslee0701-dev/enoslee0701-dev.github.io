@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_07_P003",
+  "book": "john",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2246
+      ],
+      "alt": {
+        "zh-CN": "但他的弟兄上去以后，他也上去过节，不是公开去，好像是暗中去的。"
+      }
+    },
+    {
+      "id": "JOHN_07_P003_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "他在哪里？"
+      }
+    },
+    {
+      "id": "JOHN_07_P003_F3",
+      "box": [
+        0,
+        0.4948,
+        1,
+        0.5052
+      ],
+      "alt": {
+        "zh-CN": "他是好人。／不，他是迷惑群众的。"
+      }
+    },
+    {
+      "id": "JOHN_07_P003_F4",
+      "box": [
+        0.4625,
+        0.7625,
+        0.5375,
+        0.2375
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P003_B001",
+      "panel": "JOHN_07_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.18,
+        0.0045,
+        0.44,
+        0.0449
+      ],
+      "tail": null,
+      "text_key": "john.7.p3.b1"
+    },
+    {
+      "id": "JOHN_07_P003_B002",
+      "panel": "JOHN_07_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.237,
+        0.45,
+        0.0522
+      ],
+      "tail": [
+        0.745,
+        0.3153
+      ],
+      "text_key": "john.7.p3.b2"
+    },
+    {
+      "id": "JOHN_07_P003_B003",
+      "panel": "JOHN_07_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.4999,
+        0.32,
+        0.0505
+      ],
+      "tail": [
+        0.19,
+        0.6009
+      ],
+      "text_key": "john.7.p3.b3"
+    },
+    {
+      "id": "JOHN_07_P003_B004",
+      "panel": "JOHN_07_P003_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.73,
+        0.6716,
+        0.25,
+        0.0858
+      ],
+      "tail": [
+        0.855,
+        0.8079
+      ],
+      "text_key": "john.7.p3.b4"
+    }
+  ]
+}

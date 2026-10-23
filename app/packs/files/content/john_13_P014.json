@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_13_P014",
+  "book": "john",
+  "chapter": 13,
+  "page": 14,
+  "ref": "13:37-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "主啊，为什么我现在不能跟你去？我愿意为你舍命！"
+      }
+    },
+    {
+      "id": "JOHN_13_P014_F2",
+      "box": [
+        0,
+        0.3021,
+        0.583,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "你愿意为我舍命吗？"
+      }
+    },
+    {
+      "id": "JOHN_13_P014_F3",
+      "box": [
+        0.5908,
+        0.3021,
+        0.4092,
+        0.2852
+      ]
+    },
+    {
+      "id": "JOHN_13_P014_F4",
+      "box": [
+        0,
+        0.5911,
+        1,
+        0.4089
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P014_B001",
+      "panel": "JOHN_13_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.2,
+        0.0089,
+        0.36,
+        0.0715
+      ],
+      "tail": [
+        0.38,
+        0.1102
+      ],
+      "text_key": "john.13.p14.b1"
+    },
+    {
+      "id": "JOHN_13_P014_B002",
+      "panel": "JOHN_13_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0175,
+        0.3107,
+        0.2448,
+        0.0684
+      ],
+      "tail": [
+        0.1399,
+        0.4076
+      ],
+      "text_key": "john.13.p14.b2"
+    },
+    {
+      "id": "JOHN_13_P014_B003",
+      "panel": "JOHN_13_P014_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.6034,
+        0.4,
+        0.0736
+      ],
+      "tail": [
+        0.23,
+        0.7179
+      ],
+      "text_key": "john.13.p14.b3"
+    },
+    {
+      "id": "JOHN_13_P014_B004",
+      "panel": "JOHN_13_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.91,
+        0.44,
+        0.0736
+      ],
+      "tail": [
+        0.25,
+        1
+      ],
+      "text_key": "john.13.p14.b4"
+    }
+  ]
+}

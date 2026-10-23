@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_11_P017",
+  "book": "john",
+  "chapter": 11,
+  "page": 17,
+  "ref": "11:49-50",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P017",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P017_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2891
+      ]
+    },
+    {
+      "id": "JOHN_11_P017_F2",
+      "box": [
+        0,
+        0.2917,
+        1,
+        0.1934
+      ],
+      "alt": {
+        "zh-CN": "你们什么都不懂。"
+      }
+    },
+    {
+      "id": "JOHN_11_P017_F3",
+      "box": [
+        0,
+        0.4883,
+        1,
+        0.5117
+      ],
+      "alt": {
+        "zh-CN": "你们没有想到，一个人替百姓死，免得整个国家灭亡，这对你们是有益的。"
+      }
+    },
+    {
+      "id": "JOHN_11_P017_F4",
+      "box": [
+        0.681,
+        0.743,
+        0.317,
+        0.234
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P017_B001",
+      "panel": "JOHN_11_P017_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0087,
+        0.45,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "john.11.p17.b1"
+    },
+    {
+      "id": "JOHN_11_P017_B002",
+      "panel": "JOHN_11_P017_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.3014,
+        0.39,
+        0.0483
+      ],
+      "tail": [
+        0.775,
+        0.369
+      ],
+      "text_key": "john.11.p17.b2"
+    },
+    {
+      "id": "JOHN_11_P017_B003",
+      "panel": "JOHN_11_P017_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.4985,
+        0.32,
+        0.0767
+      ],
+      "tail": [
+        0.19,
+        0.6264
+      ],
+      "text_key": "john.11.p17.b3"
+    }
+  ]
+}

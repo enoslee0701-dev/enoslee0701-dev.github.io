@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_06_P014",
+  "book": "john",
+  "chapter": 6,
+  "page": 14,
+  "ref": "6:41-46",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "这不是约瑟的儿子耶稣吗？他的父母我们不都认识吗？"
+      }
+    },
+    {
+      "id": "JOHN_06_P014_F2",
+      "box": [
+        0,
+        0.2708,
+        0.5059,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "他现在怎么说「我是从天上降下来的」呢？"
+      }
+    },
+    {
+      "id": "JOHN_06_P014_F3",
+      "box": [
+        0.5137,
+        0.2708,
+        0.4863,
+        0.2643
+      ]
+    },
+    {
+      "id": "JOHN_06_P014_F4",
+      "box": [
+        0,
+        0.5391,
+        1,
+        0.4609
+      ],
+      "alt": {
+        "zh-CN": "你们不要彼此议论。 / 如果不是差我来的父吸引人，没有人能到我这里来；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P014_B001",
+      "panel": "JOHN_06_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.55,
+        0.008,
+        0.42,
+        0.0532
+      ],
+      "tail": [
+        0.76,
+        0.0878
+      ],
+      "text_key": "john.6.p14.b1"
+    },
+    {
+      "id": "JOHN_06_P014_B002",
+      "panel": "JOHN_06_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0202,
+        0.2787,
+        0.4654,
+        0.0581
+      ],
+      "tail": [
+        0.2529,
+        0.3632
+      ],
+      "text_key": "john.6.p14.b2"
+    },
+    {
+      "id": "JOHN_06_P014_B003",
+      "panel": "JOHN_06_P014_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5529,
+        0.33,
+        0.0645
+      ],
+      "tail": [
+        0.195,
+        0.6635
+      ],
+      "text_key": "john.6.p14.b3"
+    },
+    {
+      "id": "JOHN_06_P014_B004",
+      "panel": "JOHN_06_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.5529,
+        0.34,
+        0.0829
+      ],
+      "tail": [
+        0.55,
+        0.6819
+      ],
+      "text_key": "john.6.p14.b4"
+    }
+  ]
+}

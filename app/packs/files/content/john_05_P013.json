@@ -1,0 +1,88 @@
+{
+  "id": "JOHN_05_P013",
+  "book": "john",
+  "chapter": 5,
+  "page": 13,
+  "ref": "5:39-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "你们研读圣经，因为你们认为其中有永生；为我作见证的正是这些经文。"
+      }
+    },
+    {
+      "id": "JOHN_05_P013_F2",
+      "box": [
+        0,
+        0.3073,
+        0.465,
+        0.19
+      ]
+    },
+    {
+      "id": "JOHN_05_P013_F3",
+      "box": [
+        0,
+        0.3073,
+        1,
+        0.6927
+      ],
+      "alt": {
+        "zh-CN": "然而，你们不肯到我这里来得生命。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P013_B001",
+      "panel": "JOHN_05_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.69,
+        0.0091,
+        0.28,
+        0.121
+      ],
+      "tail": [
+        0.83,
+        0.1604
+      ],
+      "text_key": "john.5.p13.b1"
+    },
+    {
+      "id": "JOHN_05_P013_B002",
+      "panel": "JOHN_05_P013_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.3142,
+        0.25,
+        0.0831
+      ],
+      "tail": [
+        0.595,
+        0.4666
+      ],
+      "text_key": "john.5.p13.b2"
+    }
+  ]
+}

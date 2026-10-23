@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_20_P002",
+  "book": "john",
+  "chapter": 20,
+  "page": 2,
+  "ref": "20:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.29
+      ],
+      "alt": {
+        "zh-CN": "彼得和那个门徒就出来，往坟墓那里去。"
+      }
+    },
+    {
+      "id": "JOHN_20_P002_F2",
+      "box": [
+        0,
+        0.26,
+        1,
+        0.28
+      ],
+      "alt": {
+        "zh-CN": "两个人一起跑，那个门徒比彼得跑得更快，先到了坟墓。"
+      }
+    },
+    {
+      "id": "JOHN_20_P002_F3",
+      "box": [
+        0,
+        0.475,
+        0.7,
+        0.525
+      ],
+      "alt": {
+        "zh-CN": "他弯下腰往里看，看见细麻布还放在那里，但是没有进去。"
+      }
+    },
+    {
+      "id": "JOHN_20_P002_F4",
+      "box": [
+        0.71,
+        0.53,
+        0.29,
+        0.47
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P002_B001",
+      "panel": "JOHN_20_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.73,
+        0.0029,
+        0.26,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "john.20.p2.b1"
+    },
+    {
+      "id": "JOHN_20_P002_B002",
+      "panel": "JOHN_20_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.2992,
+        0.18,
+        0.0448
+      ],
+      "tail": null,
+      "text_key": "john.20.p2.b2"
+    },
+    {
+      "id": "JOHN_20_P002_B003",
+      "panel": "JOHN_20_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.021,
+        0.4908,
+        0.28,
+        0.084
+      ],
+      "tail": null,
+      "text_key": "john.20.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_13_P012",
+  "book": "john",
+  "chapter": 13,
+  "page": 12,
+  "ref": "13:34-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "我给你们一条新命令：要彼此相爱；"
+      }
+    },
+    {
+      "id": "JOHN_13_P012_F2",
+      "box": [
+        0,
+        0.2474,
+        0.5469,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "我怎样爱你们，你们也要怎样彼此相爱。"
+      }
+    },
+    {
+      "id": "JOHN_13_P012_F3",
+      "box": [
+        0.5527,
+        0.2474,
+        0.4473,
+        0.3548
+      ]
+    },
+    {
+      "id": "JOHN_13_P012_F4",
+      "box": [
+        0,
+        0.6055,
+        1,
+        0.3945
+      ],
+      "alt": {
+        "zh-CN": "你们若彼此相爱，大家就会因此认出你们是我的门徒。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P012_B001",
+      "panel": "JOHN_13_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0073,
+        0.36,
+        0.0485
+      ],
+      "tail": [
+        0.2,
+        0.0801
+      ],
+      "text_key": "john.13.p12.b1"
+    },
+    {
+      "id": "JOHN_13_P012_B002",
+      "panel": "JOHN_13_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0164,
+        0.258,
+        0.2296,
+        0.0922
+      ],
+      "tail": [
+        0.1312,
+        0.3857
+      ],
+      "text_key": "john.13.p12.b2"
+    },
+    {
+      "id": "JOHN_13_P012_B003",
+      "panel": "JOHN_13_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.6134,
+        0.64,
+        0.0433
+      ],
+      "tail": [
+        0.5,
+        0.6961
+      ],
+      "text_key": "john.13.p12.b3"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "JOHN_07_P012",
+  "book": "john",
+  "chapter": 7,
+  "page": 12,
+  "ref": "7:48-51",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "官长或法利赛人中，难道有信他的吗？／但这些不懂律法的群众是被咒诅的！"
+      }
+    },
+    {
+      "id": "JOHN_07_P012_F2",
+      "box": [
+        0.54,
+        0.2572,
+        0.46,
+        0.2246
+      ]
+    },
+    {
+      "id": "JOHN_07_P012_F3",
+      "box": [
+        0,
+        0.3743,
+        1,
+        0.6257
+      ],
+      "alt": {
+        "zh-CN": "其中有尼哥德慕，就是以前去见过耶稣的，对他们说：／不先听本人的申辩，不查明他所做的事，难道我们的律法还定他的罪吗？"
+      }
+    },
+    {
+      "id": "JOHN_07_P012_F4",
+      "box": [
+        0.0078,
+        0.7376,
+        0.583,
+        0.257
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P012_B001",
+      "panel": "JOHN_07_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0075,
+        0.36,
+        0.0491
+      ],
+      "tail": [
+        0.8,
+        0.094
+      ],
+      "text_key": "john.7.p12.b1"
+    },
+    {
+      "id": "JOHN_07_P012_B002",
+      "panel": "JOHN_07_P012_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.62,
+        0.0641,
+        0.36,
+        0.0556
+      ],
+      "tail": [
+        0.8,
+        0.1571
+      ],
+      "text_key": "john.7.p12.b2"
+    },
+    {
+      "id": "JOHN_07_P012_B003",
+      "panel": "JOHN_07_P012_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3868,
+        0.5,
+        0.1001
+      ],
+      "tail": null,
+      "text_key": "john.7.p12.b3"
+    },
+    {
+      "id": "JOHN_07_P012_B004",
+      "panel": "JOHN_07_P012_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.8749,
+        0.34,
+        0.1063
+      ],
+      "tail": [
+        0.79,
+        1
+      ],
+      "text_key": "john.7.p12.b4"
+    }
+  ]
+}

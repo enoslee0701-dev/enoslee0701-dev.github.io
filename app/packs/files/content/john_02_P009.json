@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_02_P009",
+  "book": "john",
+  "chapter": 2,
+  "page": 9,
+  "ref": "2:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_02_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_02_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "其实耶稣说的「殿」，是指他自己的身体。"
+      }
+    },
+    {
+      "id": "JOHN_02_P009_F2",
+      "box": [
+        0,
+        0.3066,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "所以等到他从死里复活以后，"
+      }
+    },
+    {
+      "id": "JOHN_02_P009_F3",
+      "box": [
+        0,
+        0.7012,
+        1,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "门徒想起他说过这话，就信了圣经，也信了耶稣说的话。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_02_P009_B001",
+      "panel": "JOHN_02_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0121,
+        0.45,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "john.2.p9.b1"
+    },
+    {
+      "id": "JOHN_02_P009_B002",
+      "panel": "JOHN_02_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.3183,
+        0.48,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "john.2.p9.b2"
+    },
+    {
+      "id": "JOHN_02_P009_B003",
+      "panel": "JOHN_02_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.7102,
+        0.92,
+        0.0597
+      ],
+      "tail": null,
+      "text_key": "john.2.p9.b3"
+    }
+  ]
+}

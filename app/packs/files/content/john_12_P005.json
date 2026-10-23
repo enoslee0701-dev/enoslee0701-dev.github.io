@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_12_P005",
+  "book": "john",
+  "chapter": 12,
+  "page": 5,
+  "ref": "12:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "许多犹太人知道耶稣在那里，就来了……也要看他从死里复活的拉撒路。"
+      }
+    },
+    {
+      "id": "JOHN_12_P005_F2",
+      "box": [
+        0,
+        0.2604,
+        0.498,
+        0.3398
+      ]
+    },
+    {
+      "id": "JOHN_12_P005_F3",
+      "box": [
+        0.5039,
+        0.2604,
+        0.4961,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "但祭司长们商量连拉撒路也一起杀掉，"
+      }
+    },
+    {
+      "id": "JOHN_12_P005_F4",
+      "box": [
+        0,
+        0.6042,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "因为有许多犹太人因拉撒路的缘故，回去信了耶稣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P005_B001",
+      "panel": "JOHN_12_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0077,
+        0.42,
+        0.0462
+      ],
+      "tail": null,
+      "text_key": "john.12.p5.b1"
+    },
+    {
+      "id": "JOHN_12_P005_B002",
+      "panel": "JOHN_12_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7817,
+        0.2706,
+        0.2083,
+        0.0509
+      ],
+      "tail": null,
+      "text_key": "john.12.p5.b2"
+    },
+    {
+      "id": "JOHN_12_P005_B003",
+      "panel": "JOHN_12_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6161,
+        0.5,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "john.12.p5.b3"
+    }
+  ]
+}

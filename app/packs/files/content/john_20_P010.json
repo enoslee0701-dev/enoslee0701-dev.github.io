@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_20_P010",
+  "book": "john",
+  "chapter": 20,
+  "page": 10,
+  "ref": "20:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "耶稣又对他们说：「愿你们平安！父怎样差了我，我也照样差你们出去。」"
+      }
+    },
+    {
+      "id": "JOHN_20_P010_F2",
+      "box": [
+        0,
+        0.2487,
+        1,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "说完这话，他向他们吹了一口气，说：「你们领受圣灵！」"
+      }
+    },
+    {
+      "id": "JOHN_20_P010_F3",
+      "box": [
+        0,
+        0.6139,
+        0.4961,
+        0.3861
+      ],
+      "alt": {
+        "zh-CN": "「你们赦免谁的罪，他的罪就得赦免；你们不赦免谁的罪，他的罪就留下。」"
+      }
+    },
+    {
+      "id": "JOHN_20_P010_F4",
+      "box": [
+        0.502,
+        0.6139,
+        0.498,
+        0.3861
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P010_B001",
+      "panel": "JOHN_20_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0073,
+        0.4,
+        0.0537
+      ],
+      "tail": [
+        0.76,
+        0.0854
+      ],
+      "text_key": "john.20.p10.b1"
+    },
+    {
+      "id": "JOHN_20_P010_B002",
+      "panel": "JOHN_20_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2595,
+        0.36,
+        0.0578
+      ],
+      "tail": [
+        0.21,
+        0.3534
+      ],
+      "text_key": "john.20.p10.b2"
+    },
+    {
+      "id": "JOHN_20_P010_B003",
+      "panel": "JOHN_20_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.6255,
+        0.4365,
+        0.0849
+      ],
+      "tail": [
+        0,
+        0.749
+      ],
+      "text_key": "john.20.p10.b3"
+    }
+  ]
+}

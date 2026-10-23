@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_04_P007",
+  "book": "john",
+  "chapter": 4,
+  "page": 7,
+  "ref": "4:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "妇人，你要信我。时候将到，你们敬拜父，既不在这座山上，也不在耶路撒冷。"
+      }
+    },
+    {
+      "id": "JOHN_04_P007_F2",
+      "box": [
+        0,
+        0.3132,
+        0.4971,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "……救恩是从犹太人出来的。"
+      }
+    },
+    {
+      "id": "JOHN_04_P007_F3",
+      "box": [
+        0.5049,
+        0.3132,
+        0.4951,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "（她睁大眼睛听着。）"
+      }
+    },
+    {
+      "id": "JOHN_04_P007_F4",
+      "box": [
+        0,
+        0.6055,
+        1,
+        0.3945
+      ],
+      "alt": {
+        "zh-CN": "时候将到，现在就是了，那真正敬拜父的人，要用心灵和诚实敬拜他，因为父要这样的人敬拜他。——神是灵，所以敬拜他的人必须用心灵和诚实敬拜他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P007_B001",
+      "panel": "JOHN_04_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0093,
+        0.27,
+        0.0803
+      ],
+      "tail": [
+        0.495,
+        0.1205
+      ],
+      "text_key": "john.4.p7.b1"
+    },
+    {
+      "id": "JOHN_04_P007_B002",
+      "panel": "JOHN_04_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0249,
+        0.319,
+        0.4473,
+        0.0578
+      ],
+      "tail": [
+        0.2486,
+        0.4057
+      ],
+      "text_key": "john.4.p7.b2"
+    },
+    {
+      "id": "JOHN_04_P007_B003",
+      "panel": "JOHN_04_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.05,
+        0.6173,
+        0.9,
+        0.0717
+      ],
+      "tail": [
+        0.5,
+        0.7284
+      ],
+      "text_key": "john.4.p7.b3"
+    },
+    {
+      "id": "JOHN_04_P007_B004",
+      "panel": "JOHN_04_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.697,
+        0.9,
+        0.0386
+      ],
+      "tail": null,
+      "text_key": "john.4.p7.b4"
+    }
+  ]
+}

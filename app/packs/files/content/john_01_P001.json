@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_01_P001",
+  "book": "john",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3997
+      ],
+      "alt": {
+        "zh-CN": "起初，就有「道」。"
+      }
+    },
+    {
+      "id": "JOHN_01_P001_F2",
+      "box": [
+        0,
+        0.4036,
+        1,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "「道」与神同在，「道」就是神。"
+      }
+    },
+    {
+      "id": "JOHN_01_P001_F3",
+      "box": [
+        0,
+        0.7012,
+        1,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "这「道」在起初就与神同在。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P001_B001",
+      "panel": "JOHN_01_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.06,
+        0.024,
+        0.4,
+        0.0719
+      ],
+      "tail": null,
+      "text_key": "john.1.p1.b1"
+    },
+    {
+      "id": "JOHN_01_P001_B002",
+      "panel": "JOHN_01_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4329,
+        0.4,
+        0.1172
+      ],
+      "tail": null,
+      "text_key": "john.1.p1.b2"
+    },
+    {
+      "id": "JOHN_01_P001_B003",
+      "panel": "JOHN_01_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.8655,
+        0.42,
+        0.1045
+      ],
+      "tail": null,
+      "text_key": "john.1.p1.b3"
+    }
+  ]
+}

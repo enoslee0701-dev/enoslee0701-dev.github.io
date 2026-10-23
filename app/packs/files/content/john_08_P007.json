@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_08_P007",
+  "book": "john",
+  "chapter": 8,
+  "page": 7,
+  "ref": "8:13-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "你是为自己作证，你的证词不可信。"
+      }
+    },
+    {
+      "id": "JOHN_08_P007_F2",
+      "box": [
+        0,
+        0.3281,
+        0.582,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "我虽然为自己作证，我的证词还是真的；因为我知道我从哪里来，往哪里去……"
+      }
+    },
+    {
+      "id": "JOHN_08_P007_F3",
+      "box": [
+        0.5898,
+        0.3281,
+        0.4102,
+        0.2435
+      ]
+    },
+    {
+      "id": "JOHN_08_P007_F4",
+      "box": [
+        0,
+        0.5768,
+        1,
+        0.4232
+      ],
+      "alt": {
+        "zh-CN": "……因为不是我独自一人，还有差我来的父与我同在。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P007_B001",
+      "panel": "JOHN_08_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.26,
+        0.0065,
+        0.34,
+        0.0484
+      ],
+      "tail": [
+        0.43,
+        0.0872
+      ],
+      "text_key": "john.8.p7.b1"
+    },
+    {
+      "id": "JOHN_08_P007_B002",
+      "panel": "JOHN_08_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0175,
+        0.333,
+        0.2328,
+        0.0584
+      ],
+      "tail": [
+        0.1339,
+        0.4158
+      ],
+      "text_key": "john.8.p7.b2"
+    },
+    {
+      "id": "JOHN_08_P007_B003",
+      "panel": "JOHN_08_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5895,
+        0.24,
+        0.0931
+      ],
+      "tail": [
+        0.15,
+        0.7249
+      ],
+      "text_key": "john.8.p7.b3"
+    }
+  ]
+}

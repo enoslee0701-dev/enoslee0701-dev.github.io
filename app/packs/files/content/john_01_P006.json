@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_01_P006",
+  "book": "john",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "道成了肉身，住在我们中间，"
+      }
+    },
+    {
+      "id": "JOHN_01_P006_F2",
+      "box": [
+        0,
+        0.2233,
+        1,
+        0.1569
+      ],
+      "alt": {
+        "zh-CN": "（门口一盏小小的灯。）"
+      }
+    },
+    {
+      "id": "JOHN_01_P006_F3",
+      "box": [
+        0,
+        0.3835,
+        1,
+        0.3939
+      ],
+      "alt": {
+        "zh-CN": "满满地有恩典，有真理。"
+      }
+    },
+    {
+      "id": "JOHN_01_P006_F4",
+      "box": [
+        0,
+        0.7813,
+        1,
+        0.2187
+      ],
+      "alt": {
+        "zh-CN": "我们看见了他的荣耀，正是从父而来的独生子的荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P006_B001",
+      "panel": "JOHN_01_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.0088,
+        0.55,
+        0.0482
+      ],
+      "tail": null,
+      "text_key": "john.1.p6.b1"
+    },
+    {
+      "id": "JOHN_01_P006_B002",
+      "panel": "JOHN_01_P006_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.64,
+        0.3914,
+        0.34,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "john.1.p6.b2"
+    },
+    {
+      "id": "JOHN_01_P006_B003",
+      "panel": "JOHN_01_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.7879,
+        0.43,
+        0.0525
+      ],
+      "tail": null,
+      "text_key": "john.1.p6.b3"
+    }
+  ]
+}

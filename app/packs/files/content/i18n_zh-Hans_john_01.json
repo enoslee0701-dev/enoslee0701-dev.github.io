@@ -1,0 +1,661 @@
+{
+  "john.1.p1.b1": {
+    "text": "太初有道，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "太⁠初有⁠道，"
+  },
+  "john.1.p1.b2": {
+    "text": "道与　神同在，道就是　神。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "道与　神同在，道就⁠是　神。"
+  },
+  "john.1.p1.b3": {
+    "text": "这道太初与　神同在。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这道太⁠初与　神同在。"
+  },
+  "john.1.p2.b1": {
+    "text": "万物是借着他造的；凡被造的，没有一样不是借着他造的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "万⁠物是借⁠着他造的；凡被造的，没⁠有一⁠样不⁠是借⁠着他造的。"
+  },
+  "john.1.p2.b2": {
+    "text": "生命在他里头，这生命就是人的光。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "生⁠命在他里⁠头，这生⁠命就⁠是人⁠的光。"
+  },
+  "john.1.p2.b3": {
+    "text": "光照在黑暗里，黑暗却不接受光。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "光⁠照在黑⁠暗里，黑⁠暗却不接⁠受光。"
+  },
+  "john.1.p3.b1": {
+    "text": "有一个人，是从　神那里差来的，名叫约翰。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠一个⁠人，是从　神那⁠里差来的，名⁠叫约⁠翰。"
+  },
+  "john.1.p3.b2": {
+    "text": "这人来，为要作见证，就是为光作见证，叫众人因他可以信。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这人来，为要⁠作见⁠证，就⁠是为光作见⁠证，叫众⁠人因他可⁠以信。"
+  },
+  "john.1.p3.b3": {
+    "text": "他不是那光，乃是要为光作见证。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他不⁠是那光，乃⁠是要为光作见⁠证。"
+  },
+  "john.1.p4.b1": {
+    "text": "那光是真光，照亮一切生在世上的人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那光是真⁠光，照⁠亮一⁠切生在世⁠上的人。"
+  },
+  "john.1.p4.b2": {
+    "text": "他在世界，世界也是借着他造的，世界却不认识他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠在世⁠界，世⁠界也⁠是借⁠着他造的，世⁠界却不认⁠识他。"
+  },
+  "john.1.p4.b3": {
+    "text": "他到自己的地方来，自己的人倒不接待他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他到自⁠己的地⁠方来，自⁠己的人倒不接⁠待他。"
+  },
+  "john.1.p5.b1": {
+    "text": "凡接待他的，就是信他名的人，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡接⁠待他⁠的，就⁠是信他名的人，"
+  },
+  "john.1.p5.b2": {
+    "text": "他就赐他们权柄作　神的儿女。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他就赐他⁠们权⁠柄作　神的儿⁠女。"
+  },
+  "john.1.p5.b3": {
+    "text": "这等人不是从血气生的，不是从情欲生的，也不是从人意生的，乃是从　神生的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这等人不⁠是从血气生的，不⁠是从情⁠欲生的，也⁠不⁠是从人意生的，乃⁠是从　神生的。"
+  },
+  "john.1.p6.b1": {
+    "text": "道成了肉身，住在我们中间，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "道成⁠了肉⁠身，住⁠在我⁠们中⁠间，"
+  },
+  "john.1.p6.b2": {
+    "text": "……充充满满地有恩典有真理。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……充充⁠满满地有恩⁠典有真⁠理。"
+  },
+  "john.1.p6.b3": {
+    "text": "我们也见过他的荣光，正是父独生子的荣光。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们也见⁠过他⁠的荣⁠光，正⁠是父独生⁠子的荣⁠光。"
+  },
+  "john.1.p7.b1": {
+    "text": "这就是我曾说：『那在我以后来的，反成了在我以前的，因他本来在我以前。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这就⁠是我曾说：『那在我以⁠后来的，反成⁠了在我以⁠前的，因他本⁠来在我以⁠前。』"
+  },
+  "john.1.p7.b2": {
+    "text": "从他丰满的恩典里，我们都领受了，而且恩上加恩。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从他丰⁠满的恩⁠典里，我⁠们都领⁠受了，而⁠且恩上加恩。"
+  },
+  "john.1.p7.b3": {
+    "text": "律法本是借着摩西传的；恩典和真理都是由耶稣基督来的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "律⁠法本是借⁠着摩⁠西传的；恩⁠典和真⁠理都⁠是由耶⁠稣基⁠督来的。"
+  },
+  "john.1.p7.b4": {
+    "text": "从来没有人看见　神，只有在父怀里的独生子将他表明出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从⁠来没⁠有人看⁠见　神，只⁠有在父怀里的独生⁠子将他表⁠明出⁠来。"
+  },
+  "john.1.p8.b1": {
+    "text": "犹太人从耶路撒冷差祭司和利未人到约翰那里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "犹⁠太⁠人从耶⁠路撒⁠冷差祭⁠司和利⁠未人到约⁠翰那⁠里，"
+  },
+  "john.1.p8.b2": {
+    "text": "你是谁？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠是谁？"
+  },
+  "john.1.p8.b3": {
+    "text": "我不是基督。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠不⁠是基⁠督。"
+  },
+  "john.1.p8.b4": {
+    "text": "你到底是谁，叫我们好回复差我们来的人。你自己说，你是谁？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你到⁠底⁠是谁，叫我⁠们好回⁠复差我⁠们来的人。你自⁠己说，你⁠是谁？"
+  },
+  "john.1.p9.b1": {
+    "text": "我就是那在旷野有人声喊着说：『修直主的道路』，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我就⁠是那在旷⁠野有⁠人声喊着说：『修直主的道⁠路』，"
+  },
+  "john.1.p9.b2": {
+    "text": "你既不是基督，不是以利亚，也不是那先知，为什么施洗呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你既⁠不⁠是基⁠督，不⁠是以⁠利⁠亚，也⁠不⁠是那先⁠知，为⁠什⁠么施⁠洗呢？"
+  },
+  "john.1.p9.b3": {
+    "text": "我是用水施洗，但有一位站在你们中间，是你们不认识的，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠是用⁠水施⁠洗，但⁠有一⁠位站⁠在你⁠们中⁠间，是你⁠们不认⁠识的，"
+  },
+  "john.1.p9.b4": {
+    "text": "就是那在我以后来的，我给他解鞋带也不配。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠是那在我以⁠后来的，我给他解鞋⁠带也⁠不配。"
+  },
+  "john.1.p10.b1": {
+    "text": "次日，约翰看见耶稣来到他那里，就说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "次日，约⁠翰看⁠见耶⁠稣来⁠到他那⁠里，就说："
+  },
+  "john.1.p10.b2": {
+    "text": "看哪，　神的羔羊，除去世人罪孽的！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，　神的羔⁠羊，除⁠去世⁠人罪⁠孽的！"
+  },
+  "john.1.p10.b3": {
+    "text": "这就是我曾说：『有一位在我以后来、反成了在我以前的，因他本来在我以前。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这就⁠是我曾说：『有一⁠位在我以⁠后来、反成⁠了在我以⁠前的，因他本⁠来在我以⁠前。』"
+  },
+  "john.1.p10.b4": {
+    "text": "我先前不认识他，如今我来用水施洗，为要叫他显明给以色列人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我先⁠前不认⁠识他，如⁠今我⁠来用⁠水施⁠洗，为要叫他显⁠明给以⁠色列⁠人。"
+  },
+  "john.1.p11.b1": {
+    "text": "我曾看见圣灵，仿佛鸽子从天降下，住在他的身上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我曾看⁠见圣⁠灵，仿⁠佛鸽⁠子从天降⁠下，住⁠在他⁠的身⁠上。"
+  },
+  "john.1.p11.b2": {
+    "text": "……那差我来用水施洗的、对我说：『你看见圣灵降下来，住在谁的身上，谁就是用圣灵施洗的。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……那差我⁠来用⁠水施⁠洗的、对我说：『你看⁠见圣⁠灵降下⁠来，住⁠在谁的身⁠上，谁就⁠是用圣⁠灵施⁠洗的。』"
+  },
+  "john.1.p11.b3": {
+    "text": "我看见了，就证明这是　神的儿子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我看⁠见了，就证⁠明这是　神的儿⁠子。"
+  },
+  "john.1.p12.b1": {
+    "text": "再次日，约翰同两个门徒站在那里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "再⁠次日，约⁠翰同两个门⁠徒站⁠在那⁠里。"
+  },
+  "john.1.p12.b2": {
+    "text": "他见耶稣行走，就说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他见耶⁠稣行⁠走，就说："
+  },
+  "john.1.p12.b3": {
+    "text": "看哪，这是　神的羔羊！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，这是　神的羔⁠羊！"
+  },
+  "john.1.p12.b4": {
+    "text": "两个门徒听见他的话，就跟从了耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "两个门⁠徒听⁠见他的⁠话，就跟从了耶⁠稣。"
+  },
+  "john.1.p13.b1": {
+    "text": "你们要什么？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要什⁠么？"
+  },
+  "john.1.p13.b2": {
+    "text": "拉比，在哪里住？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "拉⁠比，在哪⁠里住？"
+  },
+  "john.1.p13.b3": {
+    "text": "你们来看。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们来⁠看。"
+  },
+  "john.1.p13.b4": {
+    "text": "……这一天便与他同住；那时约有申正了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……这一⁠天便与他同住；那⁠时约有申正了。"
+  },
+  "john.1.p14.b1": {
+    "text": "听见约翰的话跟从耶稣的那两个人，一个是西门·彼得的兄弟安得烈。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "听⁠见约⁠翰的⁠话跟从耶⁠稣的那两个⁠人，一⁠个是西⁠门·彼⁠得的兄⁠弟安⁠得⁠烈。"
+  },
+  "john.1.p14.b2": {
+    "text": "我们遇见弥赛亚了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们遇⁠见弥⁠赛⁠亚了。"
+  },
+  "john.1.p14.b3": {
+    "text": "于是领他去见耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是领他去见耶⁠稣。"
+  },
+  "john.1.p14.b4": {
+    "text": "你是约翰的儿子西门，你要称为矶法。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠是约⁠翰的儿⁠子西⁠门，你⁠要称⁠为矶法。"
+  },
+  "john.1.p15.b1": {
+    "text": "来跟从我吧。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b2": {
+    "text": "摩西在律法上所写的和众先知所记的那一位，我们遇见了，就是约瑟的儿子拿撒勒人耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "摩⁠西在律⁠法上⁠所写⁠的和众先⁠知所记的那一⁠位，我⁠们遇⁠见了，就⁠是约⁠瑟的儿⁠子拿⁠撒⁠勒人耶⁠稣。"
+  },
+  "john.1.p15.b3": {
+    "text": "拿撒勒还能出什么好的吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "拿⁠撒⁠勒还能出什⁠么好⁠的吗？"
+  },
+  "john.1.p15.b4": {
+    "text": "你来看！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你来⁠看！"
+  },
+  "john.1.p16.b1": {
+    "text": "看哪，这是个真以色列人，他心里是没有诡诈的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，这是个真以⁠色列⁠人，他心⁠里是没⁠有诡⁠诈的。"
+  },
+  "john.1.p16.b2": {
+    "text": "你从哪里知道我呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你从哪⁠里知⁠道我呢？"
+  },
+  "john.1.p16.b3": {
+    "text": "腓力还没有招呼你，你在无花果树底下，我就看见你了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "腓⁠力还没⁠有招⁠呼你，你⁠在无⁠花果⁠树底⁠下，我就看⁠见你了。"
+  },
+  "john.1.p16.b4": {
+    "text": "拉比，你是　神的儿子，你是以色列的王！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "拉⁠比，你⁠是　神的儿⁠子，你⁠是以⁠色⁠列的王！"
+  },
+  "john.1.p17.b1": {
+    "text": "因为我说『在无花果树底下看见你』，你就信吗？你将要看见比这更大的事",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:50"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为我说『在无⁠花果⁠树底⁠下看⁠见你』，你就信吗？你将⁠要看⁠见比这更⁠大的事"
+  },
+  "john.1.p17.b2": {
+    "text": "我实实在在地告诉你们，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实实⁠在在地告⁠诉你⁠们，"
+  },
+  "john.1.p17.b3": {
+    "text": "你们将要看见天开了，　神的使者上去下来在人子身上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 1:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们将⁠要看⁠见天开了，　神的使⁠者上⁠去下⁠来在人⁠子身⁠上。"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "JOHN_03_P001",
+  "book": "john",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.6204
+      ],
+      "alt": {
+        "zh-CN": "有一个法利赛人，名叫尼哥德慕，是犹太人的领袖。他在夜里来见耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_03_P001_F2",
+      "box": [
+        0.65,
+        0.357,
+        0.35,
+        0.264
+      ],
+      "alt": {
+        "zh-CN": "（他站在门前，举起手，还没有敲下去。）"
+      }
+    },
+    {
+      "id": "JOHN_03_P001_F3",
+      "box": [
+        0,
+        0.6237,
+        1,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "老师，我们知道你是从　神那里来的教师；因为如果没有　神同在，没有人能行你所行的神迹。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P001_B001",
+      "panel": "JOHN_03_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.06,
+        0.0124,
+        0.4,
+        0.0992
+      ],
+      "tail": null,
+      "text_key": "john.3.p1.b1"
+    },
+    {
+      "id": "JOHN_03_P001_B002",
+      "panel": "JOHN_03_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.6312,
+        0.3,
+        0.1241
+      ],
+      "tail": [
+        0.53,
+        0.7929
+      ],
+      "text_key": "john.3.p1.b2"
+    }
+  ]
+}

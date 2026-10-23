@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_04_P003",
+  "book": "john",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "如果你知道　神的恩赐，也知道对你说『给我水喝』的是谁，你早就会求他，他也早就会把活水给你了。"
+      }
+    },
+    {
+      "id": "JOHN_04_P003_F2",
+      "box": [
+        0,
+        0.2786,
+        1,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "先生，你没有打水的器具，井又深，你从哪里得到活水呢？"
+      }
+    },
+    {
+      "id": "JOHN_04_P003_F3",
+      "box": [
+        0,
+        0.6797,
+        1,
+        0.3203
+      ],
+      "alt": {
+        "zh-CN": "我们的祖先雅各把这口井留给我们……难道你比他还大吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P003_B001",
+      "panel": "JOHN_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0082,
+        0.45,
+        0.0714
+      ],
+      "tail": [
+        0.255,
+        0.1071
+      ],
+      "text_key": "john.4.p3.b1"
+    },
+    {
+      "id": "JOHN_04_P003_B002",
+      "panel": "JOHN_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.4967,
+        0.38,
+        0.0793
+      ],
+      "tail": [
+        0.79,
+        0.6156
+      ],
+      "text_key": "john.4.p3.b2"
+    },
+    {
+      "id": "JOHN_04_P003_B003",
+      "panel": "JOHN_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.6893,
+        0.42,
+        0.0704
+      ],
+      "tail": [
+        0.61,
+        0.7917
+      ],
+      "text_key": "john.4.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "john.10.p1.b1": {
+    "text": "よくよくあなたがたに言っておく。羊の囲いにはいるのに、門からでなく、ほかの所からのりこえて来る者は、盗人であり、強盗である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p1.b2": {
+    "text": "門からはいる者は、羊の羊飼である。門番は彼のために門を開き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p1.b3": {
+    "text": "羊は彼の声を聞く。そして彼は自分の羊の名をよんで連れ出す。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b1": {
+    "text": "自分の羊をみな出してしまうと、彼は羊の先頭に立って行く。羊はその声を知っているので、彼について行くのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b2": {
+    "text": "ほかの人には、ついて行かないで逃げ去る。その人の声を知らないからである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p2.b3": {
+    "text": "イエスは彼らにこの比喩を話されたが、彼らは自分たちにお話しになっているのが何のことだか、わからなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b1": {
+    "text": "「よくよくあなたがたに言っておく。わたしは羊の門である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b2": {
+    "text": "わたしは門である。わたしをとおってはいる者は救われ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p3.b3": {
+    "text": "また出入りし、牧草にありつくであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b1": {
+    "text": "盗人が来るのは、盗んだり、殺したり、滅ぼしたりするためにほかならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b2": {
+    "text": "わたしがきたのは、羊に命を得させ、豊かに得させるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p4.b3": {
+    "text": "わたしはよい羊飼である。よい羊飼は、羊のために命を捨てる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b1": {
+    "text": "羊飼ではなく、羊が自分のものでもない雇人は、おおかみが来るのを見ると、羊をすてて逃げ去る。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b2": {
+    "text": "そして、おおかみは羊を奪い、また追い散らす。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p5.b3": {
+    "text": "彼は雇人であって、羊のことを心にかけていないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b1": {
+    "text": "わたしはよい羊飼であって、わたしの羊を知り、わたしの羊はまた、わたしを知っている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b2": {
+    "text": "それはちょうど、父がわたしを知っておられ、わたしが父を知っているのと同じである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p6.b3": {
+    "text": "そして、わたしは羊のために命を捨てるのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b1": {
+    "text": "わたしにはまた、この囲いにいない他の羊がある。わたしは彼らをも導かねばならない。彼らも、わたしの声に聞き従うであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b2": {
+    "text": "そして、ついに一つの群れ、ひとりの羊飼となるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b3": {
+    "text": "父は、わたしが自分の命を捨てるから、わたしを愛して下さるのである。命を捨てるのは、それを再び得るためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p7.b4": {
+    "text": "だれかが、わたしからそれを取り去るのではない。わたしが、自分からそれを捨てるのである。わたしには、それを捨てる力があり、またそれを受ける力もある。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b1": {
+    "text": "これらの言葉を語られたため、ユダヤ人の間にまたも分争が生じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b2": {
+    "text": "「彼は悪霊に取りつかれて、気が狂っている。どうして、あなたがたはその言うことを聞くのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b3": {
+    "text": "「それは悪霊に取りつかれた者の言葉ではない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p8.b4": {
+    "text": "悪霊は盲人の目をあけることができようか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b1": {
+    "text": "そのころ、エルサレムで宮きよめの祭が行われた。時は冬であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b2": {
+    "text": "イエスは、宮の中にあるソロモンの廊を歩いておられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b3": {
+    "text": "「いつまでわたしたちを不安のままにしておくのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p9.b4": {
+    "text": "あなたがキリストであるなら、そうとはっきり言っていただきたい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b1": {
+    "text": "「わたしは話したのだが、あなたがたは信じようとしない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b2": {
+    "text": "わたしの羊はわたしの声に聞き従う。わたしは彼らを知っており、彼らはわたしについて来る。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b3": {
+    "text": "…彼らをわたしの手から奪い去る者はない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p10.b4": {
+    "text": "わたしと父とは一つである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b1": {
+    "text": "そこでユダヤ人たちは、イエスを打ち殺そうとして、また石を取りあげた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b2": {
+    "text": "「わたしは、父による多くのよいわざを、あなたがたに示した。その中のどのわざのために、わたしを石で打ち殺そうとするのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b3": {
+    "text": "「あなたを石で殺そうとするのは、よいわざをしたからではなく、神を汚したからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b4": {
+    "text": "また、あなたは人間であるのに、自分を神としているからである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b1": {
+    "text": "「あなたがたの律法に、『わたしは言う、あなたがたは神々である』と書いてあるではないか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b2": {
+    "text": "…聖書の言は、すたることがあり得ない",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b3": {
+    "text": "…父がわたしにおり、また、わたしが父におることを知って悟るであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p12.b4": {
+    "text": "そこで、彼らはまたイエスを捕えようとしたが、イエスは彼らの手をのがれて、去って行かれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b1": {
+    "text": "さて、イエスはまたヨルダンの向こう岸、すなわち、ヨハネが初めにバプテスマを授けていた所に行き、そこに滞在しておられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b2": {
+    "text": "「ヨハネはなんのしるしも行わなかったが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b3": {
+    "text": "ヨハネがこのかたについて言ったことは、皆ほんとうであった」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p13.b4": {
+    "text": "そして、そこで多くの者がイエスを信じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 10:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

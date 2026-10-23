@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_13_P005",
+  "book": "john",
+  "chapter": 13,
+  "page": 5,
+  "ref": "13:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2246
+      ],
+      "alt": {
+        "zh-CN": "耶稣洗完了他们的脚，就穿上外衣，又坐下来，"
+      }
+    },
+    {
+      "id": "JOHN_13_P005_F2",
+      "box": [
+        0,
+        0.2285,
+        0.5127,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "我为你们做的这件事，你们明白吗？"
+      }
+    },
+    {
+      "id": "JOHN_13_P005_F3",
+      "box": [
+        0.5195,
+        0.2285,
+        0.4805,
+        0.3451
+      ]
+    },
+    {
+      "id": "JOHN_13_P005_F4",
+      "box": [
+        0,
+        0.5775,
+        1,
+        0.4225
+      ],
+      "alt": {
+        "zh-CN": "我是你们的主、你们的老师，尚且洗你们的脚，你们也应当彼此洗脚。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P005_B001",
+      "panel": "JOHN_13_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0067,
+        0.4,
+        0.0539
+      ],
+      "tail": null,
+      "text_key": "john.13.p5.b1"
+    },
+    {
+      "id": "JOHN_13_P005_B002",
+      "panel": "JOHN_13_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0154,
+        0.2389,
+        0.1845,
+        0.0897
+      ],
+      "tail": [
+        0.1077,
+        0.3631
+      ],
+      "text_key": "john.13.p5.b2"
+    },
+    {
+      "id": "JOHN_13_P005_B003",
+      "panel": "JOHN_13_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.586,
+        0.4,
+        0.0591
+      ],
+      "tail": [
+        0.5,
+        0.6874
+      ],
+      "text_key": "john.13.p5.b3"
+    }
+  ]
+}

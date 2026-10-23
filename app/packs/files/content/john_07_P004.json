@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_07_P004",
+  "book": "john",
+  "chapter": 7,
+  "page": 4,
+  "ref": "7:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "节期过了一些日子，耶稣上到圣殿里教导人。"
+      }
+    },
+    {
+      "id": "JOHN_07_P004_F2",
+      "box": [
+        0,
+        0.25,
+        0.5,
+        0.2375
+      ],
+      "alt": {
+        "zh-CN": "这个人没有受过教育，怎么会懂得经书呢？"
+      }
+    },
+    {
+      "id": "JOHN_07_P004_F3",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.75
+      ],
+      "alt": {
+        "zh-CN": "我的教导不是我自己的，而是那差我来的那位的。"
+      }
+    },
+    {
+      "id": "JOHN_07_P004_F4",
+      "box": [
+        0.48,
+        0.7025,
+        0.52,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "人若决心遵行他的旨意，就会知道这教导是出于　神，还是我凭着自己说的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P004_B001",
+      "panel": "JOHN_07_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.24,
+        0.0049,
+        0.42,
+        0.0489
+      ],
+      "tail": null,
+      "text_key": "john.7.p4.b1"
+    },
+    {
+      "id": "JOHN_07_P004_B002",
+      "panel": "JOHN_07_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.01,
+        0.4163,
+        0.3,
+        0.0641
+      ],
+      "tail": [
+        0.16,
+        0.4875
+      ],
+      "text_key": "john.7.p4.b2"
+    },
+    {
+      "id": "JOHN_07_P004_B003",
+      "panel": "JOHN_07_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.51,
+        0.2537,
+        0.46,
+        0.0525
+      ],
+      "tail": [
+        0.74,
+        0.3812
+      ],
+      "text_key": "john.7.p4.b3"
+    },
+    {
+      "id": "JOHN_07_P004_B004",
+      "panel": "JOHN_07_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5008,
+        0.8989,
+        0.4784,
+        0.0922
+      ],
+      "tail": [
+        0.74,
+        1
+      ],
+      "text_key": "john.7.p4.b4"
+    }
+  ]
+}

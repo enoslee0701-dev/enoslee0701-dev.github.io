@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_05_P003",
+  "book": "john",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "起来，拿起你的褥子走吧！"
+      }
+    },
+    {
+      "id": "JOHN_05_P003_F2",
+      "box": [
+        0,
+        0.3307,
+        0.3379,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "（他撑着地，膝盖弯了起来。）"
+      }
+    },
+    {
+      "id": "JOHN_05_P003_F3",
+      "box": [
+        0.3447,
+        0.3307,
+        0.6553,
+        0.6693
+      ],
+      "alt": {
+        "zh-CN": "那人立刻痊愈了，就拿起褥子走了。"
+      }
+    },
+    {
+      "id": "JOHN_05_P003_F4",
+      "box": [
+        0,
+        0.638,
+        0.3379,
+        0.362
+      ],
+      "alt": {
+        "zh-CN": "（他扛着褥子走出廊子。）"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P003_B001",
+      "panel": "JOHN_05_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.03,
+        0.0098,
+        0.46,
+        0.0849
+      ],
+      "tail": [
+        0.26,
+        0.1274
+      ],
+      "text_key": "john.5.p3.b1"
+    },
+    {
+      "id": "JOHN_05_P003_B002",
+      "panel": "JOHN_05_P003_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3644,
+        0.3374,
+        0.2162,
+        0.0736
+      ],
+      "tail": null,
+      "text_key": "john.5.p3.b2"
+    }
+  ]
+}

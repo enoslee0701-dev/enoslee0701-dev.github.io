@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_03_P012",
+  "book": "john",
+  "chapter": 3,
+  "page": 12,
+  "ref": "3:34-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "神差来的那一位说的是　神的话，因为　神把圣灵毫无限量地赐给他。"
+      }
+    },
+    {
+      "id": "JOHN_03_P012_F2",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "父爱子，已经把万有都交在他手里。"
+      }
+    },
+    {
+      "id": "JOHN_03_P012_F3",
+      "box": [
+        0,
+        0.6771,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "信子的人有永生……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P012_B001",
+      "panel": "JOHN_03_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0099,
+        0.45,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "john.3.p12.b1"
+    },
+    {
+      "id": "JOHN_03_P012_B002",
+      "panel": "JOHN_03_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2627,
+        0.55,
+        0.0762
+      ],
+      "tail": null,
+      "text_key": "john.3.p12.b2"
+    },
+    {
+      "id": "JOHN_03_P012_B003",
+      "panel": "JOHN_03_P012_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6932,
+        0.42,
+        0.0968
+      ],
+      "tail": null,
+      "text_key": "john.3.p12.b3"
+    }
+  ]
+}

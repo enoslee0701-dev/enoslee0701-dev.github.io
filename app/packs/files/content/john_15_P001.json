@@ -1,0 +1,94 @@
+{
+  "id": "JOHN_15_P001",
+  "book": "john",
+  "chapter": 15,
+  "page": 1,
+  "ref": "15:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_15_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_15_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2533
+      ]
+    },
+    {
+      "id": "JOHN_15_P001_F2",
+      "box": [
+        0,
+        0.2578,
+        0.3291,
+        0.4635
+      ]
+    },
+    {
+      "id": "JOHN_15_P001_F3",
+      "box": [
+        0.3359,
+        0.2578,
+        0.6641,
+        0.4635
+      ],
+      "alt": {
+        "zh-CN": "我是真葡萄树，我父是种葡萄的人。"
+      }
+    },
+    {
+      "id": "JOHN_15_P001_F4",
+      "box": [
+        0,
+        0.7259,
+        1,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "凡是在我身上不结果子的枝子，他就剪掉；结果子的，他就修剪干净，让它结更多果子。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_15_P001_B001",
+      "panel": "JOHN_15_P001_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.3558,
+        0.2671,
+        0.2922,
+        0.0741
+      ],
+      "tail": [
+        0.5019,
+        0.3876
+      ],
+      "text_key": "john.15.p1.b1"
+    },
+    {
+      "id": "JOHN_15_P001_B002",
+      "panel": "JOHN_15_P001_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.7341,
+        0.38,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "john.15.p1.b2"
+    }
+  ]
+}

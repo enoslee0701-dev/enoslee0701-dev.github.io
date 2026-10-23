@@ -1,0 +1,618 @@
+{
+  "john.19.p1.b1": {
+    "text": "当下彼拉多将耶稣鞭打了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "当⁠下彼⁠拉⁠多将耶⁠稣鞭⁠打了。"
+  },
+  "john.19.p1.b2": {
+    "text": "兵丁用荆棘编做冠冕戴在他头上，给他穿上紫袍……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "兵⁠丁用荆⁠棘编做冠⁠冕戴⁠在他头上，给他穿⁠上紫袍……"
+  },
+  "john.19.p1.b3": {
+    "text": "恭喜，犹太人的王啊！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "恭⁠喜，犹⁠太⁠人的王啊！"
+  },
+  "john.19.p2.b1": {
+    "text": "我带他出来见你们，叫你们知道我查不出他有什么罪来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我带他出⁠来见你⁠们，叫你⁠们知⁠道我查⁠不⁠出他⁠有什⁠么罪来。"
+  },
+  "john.19.p2.b2": {
+    "text": "耶稣出来，戴着荆棘冠冕，穿着紫袍。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣出⁠来，戴⁠着荆⁠棘冠⁠冕，穿⁠着紫袍。"
+  },
+  "john.19.p2.b3": {
+    "text": "你们看这个人！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们看这⁠个人！"
+  },
+  "john.19.p3.b1": {
+    "text": "钉他十字架！钉他十字架！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "钉他十⁠字⁠架！钉他十⁠字⁠架！"
+  },
+  "john.19.p3.b2": {
+    "text": "你们自己把他钉十字架吧！我查不出他有什么罪来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们自⁠己把他钉十⁠字⁠架吧！我查⁠不⁠出他⁠有什⁠么罪来。"
+  },
+  "john.19.p3.b3": {
+    "text": "我们有律法，按那律法，他是该死的，因他以自己为　神的儿子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们有律⁠法，按那律⁠法，他⁠是该⁠死的，因他以自⁠己为　神的儿⁠子。"
+  },
+  "john.19.p4.b1": {
+    "text": "彼拉多听见这话，越发害怕，又进衙门……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:8-9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多听⁠见这话，越发害⁠怕，又⁠进衙⁠门……"
+  },
+  "john.19.p4.b2": {
+    "text": "你是哪里来的？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠是哪⁠里来的？"
+  },
+  "john.19.p4.b3": {
+    "text": "你岂不知我有权柄释放你，也有权柄把你钉十字架吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你岂⁠不知我⁠有权⁠柄释⁠放你，也⁠有权⁠柄把你钉十⁠字⁠架吗？"
+  },
+  "john.19.p4.b4": {
+    "text": "若不是从上头赐给你的，你就毫无权柄办我。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若不⁠是从上⁠头赐⁠给你⁠的，你就毫⁠无权⁠柄办我。"
+  },
+  "john.19.p5.b1": {
+    "text": "从此，彼拉多想要释放耶稣，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从⁠此，彼⁠拉⁠多想⁠要释⁠放耶⁠稣，"
+  },
+  "john.19.p5.b2": {
+    "text": "你若释放这个人，就不是凯撒的忠臣。凡以自己为王的，就是背叛凯撒了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你若释⁠放这⁠个人，就⁠不⁠是凯撒的忠⁠臣。凡以自⁠己为王的，就⁠是背⁠叛凯撒了。"
+  },
+  "john.19.p5.b3": {
+    "text": "彼拉多听见这话，就带耶稣出来，到了一个地方，名叫「铺华石处」……就在那里坐堂。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多听⁠见这话，就带耶⁠稣出⁠来，到⁠了一⁠个地⁠方，名⁠叫「铺华石处」……就⁠在那⁠里坐堂。"
+  },
+  "john.19.p6.b1": {
+    "text": "那日是预备逾越节的日子，约有午正。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那日是预⁠备逾⁠越⁠节的日⁠子，约有午正。"
+  },
+  "john.19.p6.b2": {
+    "text": "看哪，这是你们的王！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，这是你⁠们的王！"
+  },
+  "john.19.p6.b3": {
+    "text": "除掉他！除掉他！钉他在十字架上！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "除⁠掉他！除⁠掉他！钉他⁠在十⁠字⁠架上！"
+  },
+  "john.19.p6.b4": {
+    "text": "除了凯撒，我们没有王。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "除⁠了凯撒，我⁠们没⁠有王。"
+  },
+  "john.19.p7.b1": {
+    "text": "耶稣背着自己的十字架出来，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣背着自⁠己的十⁠字⁠架出⁠来，"
+  },
+  "john.19.p7.b2": {
+    "text": "到了一个地方，名叫「髑髅地」，希伯来话叫各各他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "到⁠了一⁠个地⁠方，名⁠叫「髑⁠髅⁠地」，希⁠伯⁠来话叫各⁠各⁠他。"
+  },
+  "john.19.p7.b3": {
+    "text": "他们就在那里钉他在十字架上，还有两个人和他一同钉着，一边一个，耶稣在中间。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就⁠在那⁠里钉他⁠在十⁠字⁠架上，还⁠有两个⁠人和他一⁠同钉⁠着，一⁠边一⁠个，耶⁠稣在中⁠间。"
+  },
+  "john.19.p8.b1": {
+    "text": "彼拉多又用牌子写了一个名号，安在十字架上，写的是：「犹太人的王，拿撒勒人耶稣。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多又用牌⁠子写了一⁠个名号，安⁠在十⁠字⁠架上，写⁠的是：「犹⁠太⁠人的王，拿⁠撒⁠勒人耶⁠稣。」"
+  },
+  "john.19.p8.b2": {
+    "text": "有许多犹太人念这名号；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有许⁠多犹⁠太⁠人念这名号；"
+  },
+  "john.19.p8.b3": {
+    "text": "不要写『犹太人的王』，要写『他自己说：我是犹太人的王』。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠要写『犹⁠太⁠人的王』，要⁠写『他自⁠己说：我⁠是犹⁠太⁠人的王』。"
+  },
+  "john.19.p8.b4": {
+    "text": "我所写的，我已经写上了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我所写⁠的，我已⁠经写上⁠了。"
+  },
+  "john.19.p9.b1": {
+    "text": "兵丁既然将耶稣钉在十字架上，就拿他的衣服分为四分，每兵一分；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "兵⁠丁既⁠然将耶⁠稣钉⁠在十⁠字⁠架上，就⁠拿他⁠的衣⁠服分⁠为四⁠分，每兵一⁠分；"
+  },
+  "john.19.p9.b2": {
+    "text": "这件里衣原来没有缝儿，是上下一片织成的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这件里⁠衣原⁠来没⁠有缝儿，是上⁠下一⁠片织成的。"
+  },
+  "john.19.p9.b3": {
+    "text": "我们不要撕开，只要拈阄，看谁得着。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们不⁠要撕开，只⁠要拈阄，看谁得着。"
+  },
+  "john.19.p9.b4": {
+    "text": "他们分了我的外衣，为我的里衣拈阄。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们分了我⁠的外⁠衣，为我⁠的里⁠衣拈阄。"
+  },
+  "john.19.p10.b1": {
+    "text": "站在耶稣十字架旁边的，有他母亲与他母亲的姊妹，并革罗罢的妻子马利亚，和抹大拉的马利亚。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "站⁠在耶⁠稣十⁠字⁠架旁⁠边的，有他母⁠亲与他母⁠亲的姊⁠妹，并革罗罢的妻⁠子马⁠利⁠亚，和抹⁠大⁠拉的马⁠利⁠亚。"
+  },
+  "john.19.p10.b2": {
+    "text": "母亲，看，你的儿子！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "母⁠亲，看，你⁠的儿⁠子！"
+  },
+  "john.19.p10.b3": {
+    "text": "看，你的母亲！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看，你⁠的母⁠亲！"
+  },
+  "john.19.p10.b4": {
+    "text": "从此，那门徒就接她到自己家里去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从⁠此，那门⁠徒就接她⁠到自⁠己家⁠里去⁠了。"
+  },
+  "john.19.p11.b1": {
+    "text": "这事以后，耶稣知道各样的事已经成了，为要使经上的话应验，就说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这事以⁠后，耶⁠稣知⁠道各⁠样的事已⁠经成⁠了，为要使经上的⁠话应验，就说："
+  },
+  "john.19.p11.b2": {
+    "text": "我渴了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我渴⁠了。"
+  },
+  "john.19.p11.b3": {
+    "text": "有一个器皿盛满了醋，放在那里；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有一⁠个器⁠皿盛满⁠了醋，放⁠在那⁠里；"
+  },
+  "john.19.p11.b4": {
+    "text": "他们就拿海绒蘸满了醋，绑在牛膝草上，送到他口。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就⁠拿海绒蘸满⁠了醋，绑在牛⁠膝草上，送⁠到他口。"
+  },
+  "john.19.p12.b1": {
+    "text": "耶稣尝了那醋，就说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣尝⁠了那醋，就说："
+  },
+  "john.19.p12.b2": {
+    "text": "成了！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "成⁠了！"
+  },
+  "john.19.p12.b3": {
+    "text": "便低下头，将灵魂交付　神了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "便低⁠下头，将灵⁠魂交⁠付　神了。"
+  },
+  "john.19.p13.b1": {
+    "text": "犹太人因这日是预备日，又因那安息日是个大日，就求彼拉多叫人打断他们的腿，把他们拿去，免得尸首当安息日留在十字架上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "犹⁠太⁠人因这日是预⁠备⁠日，又因那安⁠息⁠日是个大日，就求彼⁠拉⁠多叫人打断他⁠们的腿，把他⁠们拿⁠去，免⁠得尸⁠首当安⁠息⁠日留⁠在十⁠字⁠架上。"
+  },
+  "john.19.p13.b2": {
+    "text": "于是兵丁来，把头一个人的腿，并与耶稣同钉第二个人的腿，都打断了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是兵⁠丁来，把⁠头一⁠个人⁠的腿，并⁠与耶⁠稣同钉第⁠二个⁠人的腿，都打断了。"
+  },
+  "john.19.p13.b3": {
+    "text": "只是来到耶稣那里，见他已经死了，就不打断他的腿。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠是来⁠到耶⁠稣那⁠里，见他已⁠经死⁠了，就⁠不打断他⁠的腿。"
+  },
+  "john.19.p14.b1": {
+    "text": "惟有一个兵拿枪扎他的肋旁，随即有血和水流出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "惟⁠有一⁠个兵拿枪扎他⁠的肋旁，随⁠即有血和水⁠流出⁠来。"
+  },
+  "john.19.p14.b2": {
+    "text": "看见这事的那人就作见证—他的见证也是真的，并且他知道自己所说的是真的—叫你们也可以信。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看⁠见这事的那人就作见⁠证—他⁠的见⁠证也⁠是真⁠的，并⁠且他知⁠道自⁠己所说的⁠是真⁠的—叫你⁠们也⁠可⁠以信。"
+  },
+  "john.19.p14.b3": {
+    "text": "这些事成了，为要应验经上的话说：「他的骨头一根也不可折断。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠些事成⁠了，为要应验经上的话⁠说：「他⁠的骨⁠头一⁠根也不⁠可折⁠断。」"
+  },
+  "john.19.p14.b4": {
+    "text": "经上又有一句说：「他们要仰望自己所扎的人。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "经上又⁠有一⁠句说：「他⁠们要仰⁠望自⁠己所扎的人。」"
+  },
+  "john.19.p15.b1": {
+    "text": "这些事以后，有亚利马太人约瑟，是耶稣的门徒，只因怕犹太人，就暗暗地作门徒。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠些事以⁠后，有亚⁠利马⁠太人约⁠瑟，是耶⁠稣的门⁠徒，只⁠因怕犹⁠太⁠人，就暗⁠暗地作门⁠徒。"
+  },
+  "john.19.p15.b2": {
+    "text": "他来求彼拉多，要把耶稣的身体领去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他来求彼⁠拉⁠多，要把耶⁠稣的身⁠体领⁠去。"
+  },
+  "john.19.p15.b3": {
+    "text": "彼拉多允准，他就把耶稣的身体领去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠拉⁠多允⁠准，他就⁠把耶⁠稣的身⁠体领去⁠了。"
+  },
+  "john.19.p16.b1": {
+    "text": "又有尼哥德慕，就是先前夜里去见耶稣的，带着没药和沉香约有一百斤前来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有尼哥⁠德慕，就⁠是先⁠前夜⁠里去见耶⁠稣的，带着没⁠药和沉香约有一⁠百斤前来。"
+  },
+  "john.19.p16.b2": {
+    "text": "他们就照犹太人殡葬的规矩，把耶稣的身体用细麻布加上香料裹好了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就照犹⁠太⁠人殡⁠葬的规⁠矩，把耶⁠稣的身⁠体用细⁠麻⁠布加⁠上香⁠料裹⁠好了。"
+  },
+  "john.19.p17.b1": {
+    "text": "在耶稣钉十字架的地方有一个园子，园子里有一座新坟墓，是从来没有葬过人的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在耶⁠稣钉十⁠字⁠架的地⁠方有一⁠个园子，园子里有一⁠座新坟⁠墓，是从⁠来没⁠有葬过⁠人的。"
+  },
+  "john.19.p17.b2": {
+    "text": "只因是犹太人的预备日，又因那坟墓近，他们就把耶稣安放在那里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 19:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "只⁠因是犹⁠太⁠人的预⁠备⁠日，又因那坟⁠墓近，他⁠们就⁠把耶⁠稣安放⁠在那⁠里。"
+  }
+}

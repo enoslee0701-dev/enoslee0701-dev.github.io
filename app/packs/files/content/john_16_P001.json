@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_16_P001",
+  "book": "john",
+  "chapter": 16,
+  "page": 1,
+  "ref": "16:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_16_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_16_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2552
+      ]
+    },
+    {
+      "id": "JOHN_16_P001_F2",
+      "box": [
+        0,
+        0.2591,
+        0.4355,
+        0.4466
+      ],
+      "alt": {
+        "zh-CN": "我把这些事告诉你们，是要使你们不至于跌倒。"
+      }
+    },
+    {
+      "id": "JOHN_16_P001_F3",
+      "box": [
+        0.4414,
+        0.2591,
+        0.5586,
+        0.4466
+      ],
+      "alt": {
+        "zh-CN": "人要把你们赶出会堂，而且时候要到，凡杀害你们的，还以为是在事奉神。"
+      }
+    },
+    {
+      "id": "JOHN_16_P001_F4",
+      "box": [
+        0,
+        0.709,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "我把这些事告诉你们，是让你们到时候可以想起我对你们说过。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_16_P001_B001",
+      "panel": "JOHN_16_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3048,
+        0.4109,
+        0.1219,
+        0.1161
+      ],
+      "tail": [
+        0.3658,
+        0.5717
+      ],
+      "text_key": "john.16.p1.b1"
+    },
+    {
+      "id": "JOHN_16_P001_B002",
+      "panel": "JOHN_16_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4582,
+        0.268,
+        0.2793,
+        0.0803
+      ],
+      "tail": null,
+      "text_key": "john.16.p1.b2"
+    },
+    {
+      "id": "JOHN_16_P001_B003",
+      "panel": "JOHN_16_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.77,
+        0.7148,
+        0.21,
+        0.0523
+      ],
+      "tail": [
+        0.875,
+        0.7962
+      ],
+      "text_key": "john.16.p1.b3"
+    }
+  ]
+}

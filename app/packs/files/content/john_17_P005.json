@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_17_P005",
+  "book": "john",
+  "chapter": 17,
+  "page": 5,
+  "ref": "17:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "我和他们在一起的时候，用你赐给我的名保守了他们，我也护卫了他们；"
+      }
+    },
+    {
+      "id": "JOHN_17_P005_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "他们当中除了那注定灭亡的人，没有一个灭亡，好让经上的话得到应验。"
+      }
+    },
+    {
+      "id": "JOHN_17_P005_F3",
+      "box": [
+        0,
+        0.5716,
+        0.4961,
+        0.4284
+      ]
+    },
+    {
+      "id": "JOHN_17_P005_F4",
+      "box": [
+        0.5039,
+        0.5716,
+        0.4961,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "现在我要到你那里去，我还在世上说这些话，是要使他们心里充满我的喜乐。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P005_B001",
+      "panel": "JOHN_17_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.008,
+        0.46,
+        0.0636
+      ],
+      "tail": [
+        0.26,
+        0.0981
+      ],
+      "text_key": "john.17.p5.b1"
+    },
+    {
+      "id": "JOHN_17_P005_B002",
+      "panel": "JOHN_17_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.2784,
+        0.92,
+        0.0595
+      ],
+      "tail": [
+        0.5,
+        0.3676
+      ],
+      "text_key": "john.17.p5.b2"
+    },
+    {
+      "id": "JOHN_17_P005_B003",
+      "panel": "JOHN_17_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.5802,
+        0.4564,
+        0.0685
+      ],
+      "tail": [
+        0.7519,
+        0.6915
+      ],
+      "text_key": "john.17.p5.b3"
+    }
+  ]
+}

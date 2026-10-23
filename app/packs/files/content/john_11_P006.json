@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_11_P006",
+  "book": "john",
+  "chapter": 11,
+  "page": 6,
+  "ref": "11:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ]
+    },
+    {
+      "id": "JOHN_11_P006_F2",
+      "box": [
+        0,
+        0.2689,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "主啊，你如果早在这里，我兄弟就不会死。"
+      }
+    },
+    {
+      "id": "JOHN_11_P006_F3",
+      "box": [
+        0,
+        0.6152,
+        0.5,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "你兄弟一定会复活。"
+      }
+    },
+    {
+      "id": "JOHN_11_P006_F4",
+      "box": [
+        0.5068,
+        0.6152,
+        0.4932,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "我知道在末日复活的时候，他会复活。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P006_B001",
+      "panel": "JOHN_11_P006_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.58,
+        0.2792,
+        0.39,
+        0.0547
+      ],
+      "tail": [
+        0.775,
+        0.3681
+      ],
+      "text_key": "john.11.p6.b1"
+    },
+    {
+      "id": "JOHN_11_P006_B002",
+      "panel": "JOHN_11_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.015,
+        0.6267,
+        0.21,
+        0.0846
+      ],
+      "tail": [
+        0.12,
+        0.7498
+      ],
+      "text_key": "john.11.p6.b2"
+    },
+    {
+      "id": "JOHN_11_P006_B003",
+      "panel": "JOHN_11_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5265,
+        0.6267,
+        0.4537,
+        0.0577
+      ],
+      "tail": [
+        0.7534,
+        0.7229
+      ],
+      "text_key": "john.11.p6.b3"
+    }
+  ]
+}

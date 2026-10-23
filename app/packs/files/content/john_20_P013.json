@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_20_P013",
+  "book": "john",
+  "chapter": 20,
+  "page": 13,
+  "ref": "20:28-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1354
+      ]
+    },
+    {
+      "id": "JOHN_20_P013_F2",
+      "box": [
+        0,
+        0.1393,
+        1,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "多马说：「我的主！我的神！」"
+      }
+    },
+    {
+      "id": "JOHN_20_P013_F3",
+      "box": [
+        0,
+        0.5182,
+        1,
+        0.1797
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他说：「你是因为看见了我才相信；"
+      }
+    },
+    {
+      "id": "JOHN_20_P013_F4",
+      "box": [
+        0,
+        0.7012,
+        1,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "那些没有看见就相信的人有福了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P013_B001",
+      "panel": "JOHN_20_P013_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.1506,
+        0.42,
+        0.0826
+      ],
+      "tail": [
+        0.75,
+        0.2708
+      ],
+      "text_key": "john.20.p13.b1"
+    },
+    {
+      "id": "JOHN_20_P013_B002",
+      "panel": "JOHN_20_P013_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.5272,
+        0.34,
+        0.0575
+      ],
+      "tail": [
+        0.67,
+        0.6027
+      ],
+      "text_key": "john.20.p13.b2"
+    },
+    {
+      "id": "JOHN_20_P013_B003",
+      "panel": "JOHN_20_P013_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.9104,
+        0.27,
+        0.0776
+      ],
+      "tail": [
+        0.165,
+        1
+      ],
+      "text_key": "john.20.p13.b3"
+    }
+  ]
+}

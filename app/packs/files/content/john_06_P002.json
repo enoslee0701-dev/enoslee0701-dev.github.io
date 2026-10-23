@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_06_P002",
+  "book": "john",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "耶稣抬眼看见许多人向他走来，就对腓力说："
+      }
+    },
+    {
+      "id": "JOHN_06_P002_F2",
+      "box": [
+        0,
+        0.2663,
+        0.5674,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "我们要从哪里买饼给这些人吃呢？"
+      }
+    },
+    {
+      "id": "JOHN_06_P002_F3",
+      "box": [
+        0.5762,
+        0.2663,
+        0.4238,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "他这样说是要试验腓力；他自己早已知道要怎么做。"
+      }
+    },
+    {
+      "id": "JOHN_06_P002_F4",
+      "box": [
+        0,
+        0.5729,
+        1,
+        0.4271
+      ],
+      "alt": {
+        "zh-CN": "就算用二十两银子买饼，每人只吃一点也不够。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P002_B001",
+      "panel": "JOHN_06_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0079,
+        0.45,
+        0.0629
+      ],
+      "tail": null,
+      "text_key": "john.6.p2.b1"
+    },
+    {
+      "id": "JOHN_06_P002_B002",
+      "panel": "JOHN_06_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.017,
+        0.2723,
+        0.5333,
+        0.0302
+      ],
+      "tail": [
+        0.2837,
+        0.3327
+      ],
+      "text_key": "john.6.p2.b2"
+    },
+    {
+      "id": "JOHN_06_P002_B003",
+      "panel": "JOHN_06_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5932,
+        0.5019,
+        0.3898,
+        0.0573
+      ],
+      "tail": null,
+      "text_key": "john.6.p2.b3"
+    },
+    {
+      "id": "JOHN_06_P002_B004",
+      "panel": "JOHN_06_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.5857,
+        0.4,
+        0.0854
+      ],
+      "tail": [
+        0.77,
+        0.7138
+      ],
+      "text_key": "john.6.p2.b4"
+    }
+  ]
+}

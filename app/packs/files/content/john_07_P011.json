@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_07_P011",
+  "book": "john",
+  "chapter": 7,
+  "page": 11,
+  "ref": "7:45-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "差役回到祭司长和法利赛人那里。"
+      }
+    },
+    {
+      "id": "JOHN_07_P011_F2",
+      "box": [
+        0,
+        0.2267,
+        0.485,
+        0.1858
+      ],
+      "alt": {
+        "zh-CN": "你们为什么没有把他带来？"
+      }
+    },
+    {
+      "id": "JOHN_07_P011_F3",
+      "box": [
+        0,
+        0.2266,
+        1,
+        0.7734
+      ],
+      "alt": {
+        "zh-CN": "从来没有人像他这样说话！"
+      }
+    },
+    {
+      "id": "JOHN_07_P011_F4",
+      "box": [
+        0.656,
+        0.74,
+        0.344,
+        0.26
+      ],
+      "alt": {
+        "zh-CN": "难道你们也被迷惑了吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P011_B001",
+      "panel": "JOHN_07_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0045,
+        0.4,
+        0.04
+      ],
+      "tail": null,
+      "text_key": "john.7.p11.b1"
+    },
+    {
+      "id": "JOHN_07_P011_B002",
+      "panel": "JOHN_07_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0097,
+        0.236,
+        0.1455,
+        0.0966
+      ],
+      "tail": [
+        0.0825,
+        0.3512
+      ],
+      "text_key": "john.7.p11.b2"
+    },
+    {
+      "id": "JOHN_07_P011_B003",
+      "panel": "JOHN_07_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2421,
+        0.47,
+        0.085
+      ],
+      "tail": [
+        0.735,
+        0.4044
+      ],
+      "text_key": "john.7.p11.b3"
+    },
+    {
+      "id": "JOHN_07_P011_B004",
+      "panel": "JOHN_07_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6663,
+        0.9324,
+        0.2064,
+        0.0624
+      ],
+      "tail": [
+        0.7695,
+        1
+      ],
+      "text_key": "john.7.p11.b4"
+    }
+  ]
+}

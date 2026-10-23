@@ -1,0 +1,97 @@
+{
+  "id": "JOHN_17_P008",
+  "book": "john",
+  "chapter": 17,
+  "page": 8,
+  "ref": "17:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "我不只为这些人祷告，也为那些因他们的话而信我的人祷告，"
+      }
+    },
+    {
+      "id": "JOHN_17_P008_F2",
+      "box": [
+        0,
+        0.2344,
+        0.3488,
+        0.1563
+      ]
+    },
+    {
+      "id": "JOHN_17_P008_F3",
+      "box": [
+        0,
+        0.2344,
+        1,
+        0.4681
+      ],
+      "alt": {
+        "zh-CN": "使他们都成为一体，正像你父在我里面，我在你里面，也使他们在我们里面，好让世人相信是你差了我来。"
+      }
+    },
+    {
+      "id": "JOHN_17_P008_F4",
+      "box": [
+        0,
+        0.7064,
+        1,
+        0.2936
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P008_B001",
+      "panel": "JOHN_17_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0092,
+        0.44,
+        0.0647
+      ],
+      "tail": [
+        0.74,
+        0.097
+      ],
+      "text_key": "john.17.p8.b1"
+    },
+    {
+      "id": "JOHN_17_P008_B002",
+      "panel": "JOHN_17_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.37,
+        0.2484,
+        0.25,
+        0.0842
+      ],
+      "tail": [
+        0.495,
+        0.3794
+      ],
+      "text_key": "john.17.p8.b2"
+    }
+  ]
+}

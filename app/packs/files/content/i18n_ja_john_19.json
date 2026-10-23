@@ -1,0 +1,562 @@
+{
+  "john.19.p1.b1": {
+    "text": "そこでピラトは、イエスを捕え、むちで打たせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p1.b2": {
+    "text": "兵卒たちは、いばらで冠をあんで、イエスの頭にかぶらせ、紫の上着を着せ、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p1.b3": {
+    "text": "ユダヤ人の王、ばんざい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p2.b1": {
+    "text": "見よ、わたしはこの人をあなたがたの前に引き出すが、それはこの人になんの罪も見いだせないことを、あなたがたに知ってもらうためである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p2.b2": {
+    "text": "イエスはいばらの冠をかぶり、紫の上着を着たままで外へ出られると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p2.b3": {
+    "text": "見よ、この人だ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p3.b1": {
+    "text": "十字架につけよ、十字架につけよ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p3.b2": {
+    "text": "あなたがたが、この人を引き取って十字架につけるがよい。わたしは、彼にはなんの罪も見いだせない",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p3.b3": {
+    "text": "わたしたちには律法があります。その律法によれば、彼は自分を神の子としたのだから、死罪に当る者です",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p4.b1": {
+    "text": "ピラトがこの言葉を聞いたとき、ますますおそれ、 もう一度官邸にはいって …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:8-9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p4.b2": {
+    "text": "あなたは、もともと、どこからきたのか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p4.b3": {
+    "text": "わたしには、あなたを許す権威があり、また十字架につける権威があることを、知らないのか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p4.b4": {
+    "text": "あなたは、上から賜わるのでなければ、わたしに対してなんの権威もない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p5.b1": {
+    "text": "これを聞いて、ピラトはイエスを許そうと努めた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p5.b2": {
+    "text": "もしこの人を許したなら、あなたはカイザルの味方ではありません。自分を王とするものはすべて、カイザルにそむく者です",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p5.b3": {
+    "text": "ピラトはこれらの言葉を聞いて、イエスを外へ引き出して行き、敷石（ヘブル語ではガバタ）という場所で裁判の席についた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p6.b1": {
+    "text": "その日は過越の準備の日であって、時は昼の十二時ころであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p6.b2": {
+    "text": "見よ、これがあなたがたの王だ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p6.b3": {
+    "text": "殺せ、殺せ、彼を十字架につけよ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p6.b4": {
+    "text": "わたしたちには、カイザル以外に王はありません",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p7.b1": {
+    "text": "イエスはみずから十字架を背負って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p7.b2": {
+    "text": "されこうべ（ヘブル語ではゴルゴダ）という場所に出て行かれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p7.b3": {
+    "text": "彼らはそこで、イエスを十字架につけた。イエスをまん中にして、ほかのふたりの者を両側に、イエスと一緒に十字架につけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p8.b1": {
+    "text": "ピラトは罪状書きを書いて、十字架の上にかけさせた。それには「ユダヤ人の王、ナザレのイエス」と書いてあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p8.b2": {
+    "text": "多くのユダヤ人がこの罪状書きを読んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p8.b3": {
+    "text": "『ユダヤ人の王』と書かずに、『この人はユダヤ人の王と自称していた』と書いてほしい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p8.b4": {
+    "text": "わたしが書いたことは、書いたままにしておけ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p9.b1": {
+    "text": "さて、兵卒たちはイエスを十字架につけてから、その上着をとって四つに分け、おのおの、その一つを取った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p9.b2": {
+    "text": "それには縫い目がなく、上の方から全部一つに織ったものであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p9.b3": {
+    "text": "それを裂かないで、だれのものになるか、くじを引こう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p9.b4": {
+    "text": "彼らは互にわたしの上着を分け合い、わたしの衣をくじ引にした",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p10.b1": {
+    "text": "さて、イエスの十字架のそばには、イエスの母と、母の姉妹と、クロパの妻マリヤと、マグダラのマリヤとが、たたずんでいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p10.b2": {
+    "text": "婦人よ、ごらんなさい。これはあなたの子です",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p10.b3": {
+    "text": "ごらんなさい。これはあなたの母です",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p10.b4": {
+    "text": "そのとき以来、この弟子はイエスの母を自分の家に引きとった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p11.b1": {
+    "text": "そののち、イエスは今や万事が終ったことを知って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p11.b2": {
+    "text": "わたしは、かわく",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p11.b3": {
+    "text": "そこに、酢いぶどう酒がいっぱい入れてある器がおいてあったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p11.b4": {
+    "text": "人々は、このぶどう酒を含ませた海綿をヒソプの茎に結びつけて、イエスの口もとにさし出した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p12.b1": {
+    "text": "すると、イエスはそのぶどう酒を受けて、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p12.b2": {
+    "text": "すべてが終った",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p12.b3": {
+    "text": "首をたれて息をひきとられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p13.b1": {
+    "text": "さてユダヤ人たちは、その日が準備の日であったので、安息日に死体を十字架の上に残しておくまいと、（特にその安息日は大事な日であったから）、ピラトに願って、足を折った上で、死体を取りおろすことにした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p13.b2": {
+    "text": "そこで兵卒らがきて、イエスと一緒に十字架につけられた初めの者と、もうひとりの者との足を折った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p13.b3": {
+    "text": "しかし、彼らがイエスのところにきた時、イエスはもう死んでおられたのを見て、その足を折ることはしなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p14.b1": {
+    "text": "しかし、ひとりの兵卒がやりでそのわきを突きさすと、すぐ血と水とが流れ出た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p14.b2": {
+    "text": "それを見た者があかしをした。そして、そのあかしは真実である。その人は、自分が真実を語っていることを知っている。それは、あなたがたも信ずるようになるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p14.b3": {
+    "text": "これらのことが起ったのは、「その骨はくだかれないであろう」との聖書の言葉が、成就するためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p14.b4": {
+    "text": "また聖書のほかのところに、「彼らは自分が刺し通した者を見るであろう」とある。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p15.b1": {
+    "text": "そののち、ユダヤ人をはばかって、ひそかにイエスの弟子となったアリマタヤのヨセフという人が、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p15.b2": {
+    "text": "イエスの死体を取りおろしたいと、ピラトに願い出た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p15.b3": {
+    "text": "ピラトはそれを許したので、彼はイエスの死体を取りおろしに行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p16.b1": {
+    "text": "また、前に、夜、イエスのみもとに行ったニコデモも、没薬と沈香とをまぜたものを百斤ほど持ってきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p16.b2": {
+    "text": "彼らは、イエスの死体を取りおろし、ユダヤ人の埋葬の習慣にしたがって、香料を入れて亜麻布で巻いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p17.b1": {
+    "text": "イエスが十字架にかけられた所には、一つの園があり、そこにはまだだれも葬られたことのない新しい墓があった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.19.p17.b2": {
+    "text": "その日はユダヤ人の準備の日であったので、その墓が近くにあったため、イエスをそこに納めた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 19:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

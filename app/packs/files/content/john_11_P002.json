@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_11_P002",
+  "book": "john",
+  "chapter": 11,
+  "page": 2,
+  "ref": "11:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "这病不会以死亡告终，而是为了　神的荣耀，使　神的儿子因此得荣耀。"
+      }
+    },
+    {
+      "id": "JOHN_11_P002_F2",
+      "box": [
+        0,
+        0.3958,
+        1,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "耶稣一向爱马大和她的妹妹，也爱拉撒路。"
+      }
+    },
+    {
+      "id": "JOHN_11_P002_F3",
+      "box": [
+        0,
+        0.6439,
+        0.498,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "他听见拉撒路病了，却在原来住的地方又留了两天。"
+      }
+    },
+    {
+      "id": "JOHN_11_P002_F4",
+      "box": [
+        0.5078,
+        0.6439,
+        0.4922,
+        0.3561
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P002_B001",
+      "panel": "JOHN_11_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0078,
+        0.38,
+        0.0546
+      ],
+      "tail": [
+        0.21,
+        0.1014
+      ],
+      "text_key": "john.11.p2.b1"
+    },
+    {
+      "id": "JOHN_11_P002_B002",
+      "panel": "JOHN_11_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4055,
+        0.5,
+        0.0726
+      ],
+      "tail": null,
+      "text_key": "john.11.p2.b2"
+    },
+    {
+      "id": "JOHN_11_P002_B003",
+      "panel": "JOHN_11_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.2789,
+        0.9145,
+        0.2041,
+        0.0712
+      ],
+      "tail": null,
+      "text_key": "john.11.p2.b3"
+    }
+  ]
+}

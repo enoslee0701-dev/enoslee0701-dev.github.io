@@ -1,0 +1,130 @@
+{
+  "id": "JOHN_06_P008",
+  "book": "john",
+  "chapter": 6,
+  "page": 8,
+  "ref": "6:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2057
+      ],
+      "alt": {
+        "zh-CN": "看见耶稣在海面上走，渐渐靠近船，他们就害怕。"
+      }
+    },
+    {
+      "id": "JOHN_06_P008_F2",
+      "box": [
+        0,
+        0.2083,
+        1,
+        0.4036
+      ],
+      "alt": {
+        "zh-CN": "是我，不要怕！"
+      }
+    },
+    {
+      "id": "JOHN_06_P008_F3",
+      "box": [
+        0,
+        0.6152,
+        0.5166,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "门徒就高兴地接他上船，"
+      }
+    },
+    {
+      "id": "JOHN_06_P008_F4",
+      "box": [
+        0.5254,
+        0.6152,
+        0.4746,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "船立刻到了他们要去的地方。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P008_B001",
+      "panel": "JOHN_06_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0062,
+        0.42,
+        0.037
+      ],
+      "tail": null,
+      "text_key": "john.6.p8.b1"
+    },
+    {
+      "id": "JOHN_06_P008_B002",
+      "panel": "JOHN_06_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.03,
+        0.2244,
+        0.38,
+        0.0726
+      ],
+      "tail": [
+        0.22,
+        0.3374
+      ],
+      "text_key": "john.6.p8.b2"
+    },
+    {
+      "id": "JOHN_06_P008_B003",
+      "panel": "JOHN_06_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0258,
+        0.9153,
+        0.4649,
+        0.0692
+      ],
+      "tail": null,
+      "text_key": "john.6.p8.b3"
+    },
+    {
+      "id": "JOHN_06_P008_B004",
+      "panel": "JOHN_06_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5491,
+        0.6267,
+        0.4271,
+        0.0769
+      ],
+      "tail": null,
+      "text_key": "john.6.p8.b4"
+    }
+  ]
+}

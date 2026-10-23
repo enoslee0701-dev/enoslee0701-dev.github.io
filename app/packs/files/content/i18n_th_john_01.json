@@ -1,0 +1,602 @@
+{
+  "john.1.p1.b1": {
+    "text": "ใน​ปฐมกาล​พระวาทะ​ดำรง​อยู่",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p1.b2": {
+    "text": "และ​พระวาทะ​อยู่​กับ​พระเจ้า และ​พระวาทะ​เป็น​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p1.b3": {
+    "text": "พระองค์​อยู่​กับ​พระเจ้า​ตั้งแต่​ปฐมกาล",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p2.b1": {
+    "text": "ทุก​สิ่ง​ถูก​สร้าง​ขึ้น​โดย​ทาง​พระองค์ ไม่​มี​สิ่ง​ใด​ที่​ไม่​ถูก​สร้าง​ขึ้น​โดย​ทาง​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p2.b2": {
+    "text": "ใน​พระองค์​คือ​ชีวิต และ​ชีวิต​นั้น​เป็น​ความ​สว่าง​ของ​มนุษย์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p2.b3": {
+    "text": "ความ​สว่าง​ส่อง​เข้า​มา​ใน​ความ​มืด และ​ความ​มืด​เอา​ชนะ​ความ​สว่าง​ไม่ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p3.b1": {
+    "text": "มี​ชาย​คน​หนึ่ง​ที่​พระเจ้า​ส่ง​มา​ชื่อ​ยอห์น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p3.b2": {
+    "text": "เขา​มา​ใน​ฐานะ​พยาน​ยืนยัน​ถึง​ความ​สว่าง​นั้น เพื่อ​ทุก​คน​จะ​ได้​เชื่อ​ผ่าน​ทาง​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p3.b3": {
+    "text": "เขา​เอง​ไม่​ใช่​ความ​สว่าง แต่​เป็น​เพียง​พยาน​ให้​กับ​ความ​สว่าง​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p4.b1": {
+    "text": "ความ​สว่าง​แท้​ซึ่ง​ให้​ความ​สว่าง​แก่​ทุก​คน​กำลัง​เข้า​มา​ใน​โลก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p4.b2": {
+    "text": "พระองค์​อยู่​ใน​โลก และ​แม้​โลก​ถูก​สร้าง​ขึ้น​โดย​ทาง​พระองค์ แต่​โลก​ไม่​รู้จัก​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p4.b3": {
+    "text": "พระองค์​เข้า​มา​ใน​บ้าน​เมือง​ของ​พระองค์ แต่​คน​ใน​บ้าน​เมือง​ของ​พระองค์​ไม่​ยอม​รับ​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p5.b1": {
+    "text": "ส่วน​ทุก​คน​ที่​ยอม​รับ​และ​เชื่อ​ใน​นาม​ของ​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p5.b2": {
+    "text": "พระองค์​ให้​สิทธิ์​เป็น​ลูก​ของ​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p5.b3": {
+    "text": "คือ​ลูก​ที่​ไม่ได้​เกิด​จาก​การ​สืบ​เชื้อสาย​ตาม​ธรรมชาติ หรือ​จาก​การ​ตัดสิน​ใจ​ของ​มนุษย์ หรือ​จาก​ความ​ตั้งใจ​ของ​สามี แต่​เกิด​จาก​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p6.b1": {
+    "text": "พระวาทะ​มา​เกิด​เป็น​มนุษย์​และ​พำนัก​อยู่​ท่ามกลาง​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p6.b2": {
+    "text": "… ผู้​เต็ม​ไป​ด้วย​พระคุณ​และ​ความ​จริง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p6.b3": {
+    "text": "เรา​ได้​เห็น​เกียรติ​สิริ​ของ​พระองค์ คือ​เกียรติ​สิริ​ของ​พระบุตร​องค์​เดียว … ซึ่ง​มา​จาก​พระบิดา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b1": {
+    "text": "“นี่​คือ​ผู้​ที่​เรา​ได้​บอก​ไว้​ว่า ‘พระองค์​ผู้​มา​ภาย​หลัง​เรา​ก็​ยิ่งใหญ่​กว่า​เรา เพราะ​พระองค์​ดำรง​อยู่​ก่อน​เรา’ ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b2": {
+    "text": "เรา​ทุก​คน​ได้​รับ​พระคุณ​จาก​ความ​บริบูรณ์​ของ​พระองค์ ซึ่ง​มา​แทน​ที่​พระคุณ​ที่​ให้​ไว้​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b3": {
+    "text": "เพราะ​กฎ​บัญญัติ​ได้​มอบ​ไว้​ทาง​โมเสส ส่วน​พระคุณ​และ​ความ​จริง​มา​ทาง​พระเยซู​คริสต์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p7.b4": {
+    "text": "ไม่​มี​ใคร​เคย​เห็น​พระเจ้า แต่​ผู้​นั้น​คือ​พระบุตร​องค์​เดียว​ผู้​เป็น​พระเจ้า​และ​ใกล้ชิด​สนิทสนม​กับ​พระบิดา ได้​ทำ​ให้​พระองค์​เป็น​ที่​รู้จัก​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b1": {
+    "text": "พวก​ผู้​นำ​ยิว​ที่​กรุง​เยรูซาเล็ม​ส่ง​พวก​ปุโรหิต​และ​คน​เลวี​มา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b2": {
+    "text": "ถาม​ว่า​เขา​เป็น​ใคร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b3": {
+    "text": "“เรา​ไม่​ใช่​พระเมสสิยาห์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p8.b4": {
+    "text": "ท่าน​เป็น​ใคร เรา​ต้องการ​คำ​ตอบ​เพื่อ​จะ​กลับ​ไป​บอก​คน​ที่​ส่ง​เรา​มา ท่าน​พูด​ว่า​ตัวเอง​เป็น​ใคร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b1": {
+    "text": "“เรา​คือ​เสียง​ของ​ผู้​หนึ่ง​ร้อง​ใน​ถิ่น​ทุรกันดาร​ว่า ‘จง​ทำ​ทาง​ให้​ตรง​สำหรับ​องค์​พระผู้เป็นเจ้า’ ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b2": {
+    "text": "“ถ้า​ท่าน​ไม่​ใช่​พระ​เมสสิยาห์ ไม่​ใช่​เอลียาห์ ไม่​ใช่​ผู้​เผย​พระวจนะ​นั้น ทำไม​ท่าน​จึง​ให้​บัพติศมา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b3": {
+    "text": "“เรา​ให้​บัพติศมา​ด้วย​น้ำ แต่​มี​ผู้​หนึ่ง​ใน​หมู่​พวก​เจ้า​ซึ่ง​เจ้า​ไม่​รู้จัก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p9.b4": {
+    "text": "พระองค์​คือ​ผู้​นั้น​ที่​มา​หลัง​จาก​เรา เรา​ไม่​คู่​ควร​แม้​แต่​จะ​แก้​เชือก​รองเท้า​ของ​พระองค์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b1": {
+    "text": "วัน​ต่อมา ยอห์น​เห็น​พระเยซู​เดิน​มา​ทาง​เขา จึง​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b2": {
+    "text": "“จง​ดู​ลูก​แกะ​ของ​พระเจ้า ผู้​รับ​บาป​ของ​โลก​ไป!",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b3": {
+    "text": "นี่​คือ​ผู้​ที่​เรา​กล่าว​ถึง​ว่า ‘พระองค์​ผู้​มา​ภาย​หลัง​เรา​ก็​ยิ่งใหญ่​กว่า​เรา เพราะ​พระองค์​ดำรง​อยู่​ก่อน​เรา’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p10.b4": {
+    "text": "เรา​ไม่​รู้จัก​พระองค์ แต่​เหตุผล​ที่​เรา​มา​ให้​บัพติศมา​ด้วย​น้ำ ก็​เพื่อ​เปิดเผย​พระองค์​ให้​อิสราเอล​ได้​เห็น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p11.b1": {
+    "text": "“เรา​เห็น​พระวิญญาณ​ลง​มา​จาก​ฟ้า​สวรรค์​ดุจ​นก​พิราบ​และ​อยู่​กับ​พระองค์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p11.b2": {
+    "text": "… ผู้​ที่​ใช้​เรา​มา​ให้​บัพติศมา​ด้วย​น้ำ​บอก​ว่า ‘เจ้า​เห็น​พระวิญญาณ​ลง​มา​อยู่​กับ​ผู้​ใด ผู้​นั้น​คือ​ผู้​ที่​จะ​ให้​บัพติศมา​ด้วย​พระวิญญาณ​บริสุทธิ์’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p11.b3": {
+    "text": "เรา​ได้​เห็น​แล้ว และ​เป็น​พยาน​ว่า ท่าน​นี้​คือ​ผู้​ที่​พระเจ้า​เลือก”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b1": {
+    "text": "วัน​รุ่งขึ้น ยอห์น​กับ​สาวก​สอง​คน​ก็​อยู่​ที่​นั่น​อีก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b2": {
+    "text": "เมื่อ​ยอห์น​เห็น​พระเยซู​เดิน​ผ่าน​ไป จึง​พูด​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b3": {
+    "text": "“จง​ดู​ลูก​แกะ​ของ​พระเจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p12.b4": {
+    "text": "เมื่อ​สาวก​ทั้ง​สอง​ได้ยิน​เช่น​นั้น​ก็​ติดตาม​พระเยซู​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b1": {
+    "text": "“เจ้า​ต้องการ​อะไร”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b2": {
+    "text": "“รับบี” … “ท่าน​พัก​อยู่​ที่​ไหน”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b3": {
+    "text": "“มา​เถิด แล้ว​เจ้า​จะ​เห็น”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p13.b4": {
+    "text": "… ได้​อยู่​กับ​พระองค์​ใน​วัน​นั้น เวลา​นั้น​เป็น​เวลา​สี่​โมง​เย็น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b1": {
+    "text": "หนึ่ง​ใน​สอง​คน​ที่​ได้ยิน​ยอห์น​กล่าว​และ​ติดตาม​พระเยซู​ไป​นั้น​คือ อันดรูว์​น้อง​ชาย​ของ​ซีโมน​เปโตร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b2": {
+    "text": "“เรา​พบ​พระเมสสิยาห์​แล้ว”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b3": {
+    "text": "และ​พา​เขา​มา​หา​พระเยซู",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p14.b4": {
+    "text": "“เจ้า​คือ​ซีโมน​ลูก​ชาย​ยอห์น เจ้า​จะ​ได้​ชื่อ​ว่า เคฟาส”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b1": {
+    "text": "“จง​ตาม​เรา​มา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b2": {
+    "text": "“เรา​พบ​ผู้​นั้น​ที่​โมเสส​เขียน​ถึง​ใน​หนังสือ​กฎ​บัญญัติ และ​ที่​พวก​ผู้​เผย​พระวจนะ​ก็​เขียน​ถึง​ด้วย คือ​พระเยซู​ชาว​นาซาเร็ธ​ลูก​ชาย​โยเซฟ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b3": {
+    "text": "“นาซาเร็ธ! จะ​มี​อะไร​ดี​มา​จาก​ที่​นั่น​ได้​หรือ”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p15.b4": {
+    "text": "“มา​ดู​เถิด”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b1": {
+    "text": "“นี่​คือ​อิสราเอล​แท้ ใน​ตัว​เขา​ไม่​มี​เล่ห์​เหลี่ยม​เลย”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b2": {
+    "text": "“ท่าน​รู้จัก​ข้าพเจ้า​ได้​อย่างไร”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b3": {
+    "text": "“เรา​เห็น​เจ้า​ขณะ​ยัง​นั่ง​อยู่​ใต้​ต้น​มะเดื่อ​ก่อน​ฟีลิป​จะ​เรียก​เจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p16.b4": {
+    "text": "“รับบี พระองค์​เป็น​พระบุตร​ของ​พระเจ้า พระองค์​เป็น​กษัตริย์​ของ​อิสราเอล”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p17.b1": {
+    "text": "“เจ้า​เชื่อ​เพราะ​เรา​บอก​ว่า​เรา​เห็น​เจ้า​อยู่​ใต้​ต้น​มะเดื่อ เจ้า​จะ​เห็น​สิ่ง​ยิ่งใหญ่​กว่า​นั้น​อีก”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p17.b2": {
+    "text": "“เรา​บอก​ความ​จริง​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.1.p17.b3": {
+    "text": "พวก​เจ้า​จะ​เห็น ‘ฟ้า​สวรรค์​เปิด​ออก และ​พวก​ทูตสวรรค์​ของ​พระเจ้า​ขึ้น​และ​ลง’ เหนือ​บุตร​มนุษย์”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "John 1:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

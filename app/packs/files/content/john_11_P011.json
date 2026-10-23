@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_11_P011",
+  "book": "john",
+  "chapter": 11,
+  "page": 11,
+  "ref": "11:38-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2858
+      ]
+    },
+    {
+      "id": "JOHN_11_P011_F2",
+      "box": [
+        0,
+        0.2897,
+        0.5098,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "把石头挪开。"
+      }
+    },
+    {
+      "id": "JOHN_11_P011_F3",
+      "box": [
+        0.5156,
+        0.2897,
+        0.4844,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "主啊，他现在一定已经发臭了……"
+      }
+    },
+    {
+      "id": "JOHN_11_P011_F4",
+      "box": [
+        0,
+        0.5938,
+        1,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "我不是跟你说过，你如果信，就会看见　神的荣耀吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P011_B001",
+      "panel": "JOHN_11_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0057,
+        0.31,
+        0.0514
+      ],
+      "tail": null,
+      "text_key": "john.11.p11.b1"
+    },
+    {
+      "id": "JOHN_11_P011_B002",
+      "panel": "JOHN_11_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0153,
+        0.3017,
+        0.2549,
+        0.0718
+      ],
+      "tail": [
+        0.1428,
+        0.4035
+      ],
+      "text_key": "john.11.p11.b2"
+    },
+    {
+      "id": "JOHN_11_P011_B003",
+      "panel": "JOHN_11_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.535,
+        0.2957,
+        0.4456,
+        0.0329
+      ],
+      "tail": [
+        0.7578,
+        0.3586
+      ],
+      "text_key": "john.11.p11.b3"
+    },
+    {
+      "id": "JOHN_11_P011_B004",
+      "panel": "JOHN_11_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.55,
+        0.606,
+        0.42,
+        0.069
+      ],
+      "tail": [
+        0.76,
+        0.7156
+      ],
+      "text_key": "john.11.p11.b4"
+    }
+  ]
+}

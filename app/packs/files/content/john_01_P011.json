@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_01_P011",
+  "book": "john",
+  "chapter": 1,
+  "page": 11,
+  "ref": "1:32-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.272
+      ],
+      "alt": {
+        "zh-CN": "约翰又作见证说：「我看见圣灵像鸽子一样从天降下，停留在他身上。"
+      }
+    },
+    {
+      "id": "JOHN_01_P011_F2",
+      "box": [
+        0,
+        0.272,
+        0.506,
+        0.271
+      ],
+      "alt": {
+        "zh-CN": "……那差我来用水施洗的那一位对我说：『你看见圣灵降下来停在谁身上，谁就是用圣灵施洗的。』"
+      }
+    },
+    {
+      "id": "JOHN_01_P011_F3",
+      "box": [
+        0.425,
+        0.236,
+        0.575,
+        0.315
+      ]
+    },
+    {
+      "id": "JOHN_01_P011_F4",
+      "box": [
+        0,
+        0.55,
+        1,
+        0.45
+      ],
+      "alt": {
+        "zh-CN": "我看见了，所以我见证：这一位就是神的儿子。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P011_B001",
+      "panel": "JOHN_01_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0082,
+        0.4,
+        0.0843
+      ],
+      "tail": [
+        0.7,
+        0.1197
+      ],
+      "text_key": "john.1.p11.b1"
+    },
+    {
+      "id": "JOHN_01_P011_B002",
+      "panel": "JOHN_01_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0101,
+        0.4834,
+        0.4048,
+        0.0542
+      ],
+      "tail": [
+        0.2125,
+        0.543
+      ],
+      "text_key": "john.1.p11.b2"
+    },
+    {
+      "id": "JOHN_01_P011_B003",
+      "panel": "JOHN_01_P011_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.5635,
+        0.5,
+        0.0675
+      ],
+      "tail": [
+        0.28,
+        0.676
+      ],
+      "text_key": "john.1.p11.b3"
+    }
+  ]
+}

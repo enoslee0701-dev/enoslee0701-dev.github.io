@@ -1,0 +1,85 @@
+{
+  "id": "JOHN_09_P014",
+  "book": "john",
+  "chapter": 9,
+  "page": 14,
+  "ref": "9:38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.61
+      ],
+      "alt": {
+        "zh-CN": "主啊，我信！"
+      }
+    },
+    {
+      "id": "JOHN_09_P014_F2",
+      "box": [
+        0.581,
+        0.35,
+        0.416,
+        0.254
+      ]
+    },
+    {
+      "id": "JOHN_09_P014_F3",
+      "box": [
+        0,
+        0.6133,
+        1,
+        0.3867
+      ],
+      "alt": {
+        "zh-CN": "就向耶稣下拜。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P014_B001",
+      "panel": "JOHN_09_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.02,
+        0.0122,
+        0.2,
+        0.122
+      ],
+      "tail": [
+        0.12,
+        0.1952
+      ],
+      "text_key": "john.9.p14.b1"
+    },
+    {
+      "id": "JOHN_09_P014_B002",
+      "panel": "JOHN_09_P014_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6288,
+        0.34,
+        0.0773
+      ],
+      "tail": null,
+      "text_key": "john.9.p14.b2"
+    }
+  ]
+}

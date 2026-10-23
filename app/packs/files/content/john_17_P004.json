@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_17_P004",
+  "book": "john",
+  "chapter": 17,
+  "page": 4,
+  "ref": "17:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "我为他们祈求，不是为世人祈求，而是为你赐给我的人祈求，因为他们原本是你的。"
+      }
+    },
+    {
+      "id": "JOHN_17_P004_F2",
+      "box": [
+        0,
+        0.2487,
+        0.5205,
+        0.2598
+      ]
+    },
+    {
+      "id": "JOHN_17_P004_F3",
+      "box": [
+        0.5293,
+        0.2487,
+        0.4707,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "从今以后，我不在世上了，他们却还在世上；我要到你那里去。"
+      }
+    },
+    {
+      "id": "JOHN_17_P004_F4",
+      "box": [
+        0,
+        0.513,
+        1,
+        0.487
+      ],
+      "alt": {
+        "zh-CN": "圣父啊，求你用你赐给我的名保守他们，使他们合而为一，像我们一样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P004_B001",
+      "panel": "JOHN_17_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0073,
+        0.46,
+        0.0584
+      ],
+      "tail": [
+        0.73,
+        0.09
+      ],
+      "text_key": "john.17.p4.b1"
+    },
+    {
+      "id": "JOHN_17_P004_B002",
+      "panel": "JOHN_17_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5481,
+        0.4461,
+        0.433,
+        0.0545
+      ],
+      "tail": [
+        0.7646,
+        0.5085
+      ],
+      "text_key": "john.17.p4.b2"
+    },
+    {
+      "id": "JOHN_17_P004_B003",
+      "panel": "JOHN_17_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.5,
+        0.5276,
+        0.46,
+        0.0876
+      ],
+      "tail": [
+        0.73,
+        0.6639
+      ],
+      "text_key": "john.17.p4.b3"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_13_P009",
+  "book": "john",
+  "chapter": 13,
+  "page": 9,
+  "ref": "13:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "我蘸一块饼给谁，就是谁。"
+      }
+    },
+    {
+      "id": "JOHN_13_P009_F2",
+      "box": [
+        0,
+        0.2526,
+        0.5703,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "耶稣就蘸了一块饼，递给加略人西门的儿子犹大。"
+      }
+    },
+    {
+      "id": "JOHN_13_P009_F3",
+      "box": [
+        0.5781,
+        0.2526,
+        0.4219,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "他吃了以后，撒但就进入了他的心。"
+      }
+    },
+    {
+      "id": "JOHN_13_P009_F4",
+      "box": [
+        0,
+        0.5521,
+        1,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "你要做的事，快去做吧！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P009_B001",
+      "panel": "JOHN_13_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.0075,
+        0.25,
+        0.0897
+      ],
+      "tail": [
+        0.155,
+        0.1221
+      ],
+      "text_key": "john.13.p9.b1"
+    },
+    {
+      "id": "JOHN_13_P009_B002",
+      "panel": "JOHN_13_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0171,
+        0.2615,
+        0.2395,
+        0.1125
+      ],
+      "tail": null,
+      "text_key": "john.13.p9.b2"
+    },
+    {
+      "id": "JOHN_13_P009_B003",
+      "panel": "JOHN_13_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8228,
+        0.4481,
+        0.1687,
+        0.0888
+      ],
+      "tail": null,
+      "text_key": "john.13.p9.b3"
+    },
+    {
+      "id": "JOHN_13_P009_B004",
+      "panel": "JOHN_13_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.5655,
+        0.36,
+        0.0716
+      ],
+      "tail": [
+        0.8,
+        0.6819
+      ],
+      "text_key": "john.13.p9.b4"
+    }
+  ]
+}

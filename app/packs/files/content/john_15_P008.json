@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_15_P008",
+  "book": "john",
+  "chapter": 15,
+  "page": 8,
+  "ref": "15:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_15_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_15_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "你们要记得我以前对你们说过的话：『仆人不能比主人大。』"
+      }
+    },
+    {
+      "id": "JOHN_15_P008_F2",
+      "box": [
+        0,
+        0.2871,
+        1,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "他们如果迫害了我，也会迫害你们；"
+      }
+    },
+    {
+      "id": "JOHN_15_P008_F3",
+      "box": [
+        0,
+        0.6126,
+        0.5459,
+        0.3874
+      ],
+      "alt": {
+        "zh-CN": "但现在他们的罪无法推卸了。"
+      }
+    },
+    {
+      "id": "JOHN_15_P008_F4",
+      "box": [
+        0.5537,
+        0.6126,
+        0.4463,
+        0.3874
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_15_P008_B001",
+      "panel": "JOHN_15_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0085,
+        0.44,
+        0.0623
+      ],
+      "tail": [
+        0.25,
+        0.0991
+      ],
+      "text_key": "john.15.p8.b1"
+    },
+    {
+      "id": "JOHN_15_P008_B002",
+      "panel": "JOHN_15_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.2968,
+        0.44,
+        0.058
+      ],
+      "tail": [
+        0,
+        0.387
+      ],
+      "text_key": "john.15.p8.b2"
+    },
+    {
+      "id": "JOHN_15_P008_B003",
+      "panel": "JOHN_15_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0218,
+        0.6203,
+        0.5022,
+        0.0464
+      ],
+      "tail": [
+        0.2729,
+        0.7054
+      ],
+      "text_key": "john.15.p8.b3"
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "john.4.p1.b1": {
+    "text": "When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John … He left Judea and returned to Galilee.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:1-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p1.b2": {
+    "text": "Now He had to pass through Samaria. So He came to a town of Samaria called Sychar, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p1.b3": {
+    "text": "Jesus, weary from His journey, sat down by the well. It was about the sixth hour.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p2.b1": {
+    "text": "When a Samaritan woman came to draw water,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p2.b2": {
+    "text": "“Give Me a drink.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p2.b3": {
+    "text": "“You are a Jew,” … “How can You ask for a drink from me, a Samaritan woman?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p2.b4": {
+    "text": "For Jews do not associate with Samaritans.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p3.b1": {
+    "text": "“If you knew the gift of God and who is asking you for a drink, you would have asked Him, and He would have given you living water.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p3.b2": {
+    "text": "“Sir,” … “You have nothing to draw with and the well is deep. Where then will You get this living water?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p3.b3": {
+    "text": "Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p4.b1": {
+    "text": "“Everyone who drinks this water will be thirsty again.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p4.b2": {
+    "text": "But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p4.b3": {
+    "text": "“Sir, give me this water so that I will not get thirsty and have to keep coming here to draw water.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p5.b1": {
+    "text": "“Go, call your husband and come back.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p5.b2": {
+    "text": "“I have no husband,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p5.b3": {
+    "text": "“You are correct to say that you have no husband. In fact, you have had five husbands, and the man you now have is not your husband.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:17-18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p6.b1": {
+    "text": "“Sir,” … “I see that You are a prophet.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p6.b2": {
+    "text": "Our fathers worshiped on this mountain, but you Jews say that the place where one must worship is in Jerusalem.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p7.b1": {
+    "text": "“Believe Me, woman,” … “a time is coming when you will worship the Father neither on this mountain nor in Jerusalem.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p7.b2": {
+    "text": "… for salvation is from the Jews.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p7.b3": {
+    "text": "But a time is coming and has now come when the true worshipers will worship the Father in spirit and in truth, for the Father is seeking such as these to worship Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p7.b4": {
+    "text": "God is Spirit, and His worshipers must worship Him in spirit and in truth.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p8.b1": {
+    "text": "“I know that Messiah” (called Christ) “is coming. When He comes, He will explain everything to us.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p8.b2": {
+    "text": "“I who speak to you am He.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p9.b1": {
+    "text": "Just then His disciples returned and were surprised that He was speaking with a woman. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p9.b2": {
+    "text": "Then the woman left her water jar, went back into the town, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p9.b3": {
+    "text": "“Come, see a man who told me everything I ever did. Could this be the Christ?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p9.b4": {
+    "text": "So they left the town and made their way toward Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p10.b1": {
+    "text": "“Rabbi, eat something.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p10.b2": {
+    "text": "“I have food to eat that you know nothing about.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p10.b3": {
+    "text": "“Could someone have brought Him food?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p10.b4": {
+    "text": "“My food is to do the will of Him who sent Me and to finish His work.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p11.b1": {
+    "text": "Do you not say, ‘There are still four months until the harvest’?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p11.b2": {
+    "text": "I tell you, lift up your eyes and look at the fields,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p11.b3": {
+    "text": "for they are ripe for harvest.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p12.b1": {
+    "text": "Already the reaper draws his wages and gathers a crop for eternal life, so that the sower and the reaper may rejoice together.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p12.b2": {
+    "text": "For in this case the saying ‘One sows and another reaps’ is true.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p12.b3": {
+    "text": "I sent you to reap what you have not worked for; …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p13.b1": {
+    "text": "Many of the Samaritans from that town believed in Jesus because of the woman’s testimony, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p13.b2": {
+    "text": "So when the Samaritans came to Him, they asked Him to stay with them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p13.b3": {
+    "text": "and He stayed two days.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p13.b4": {
+    "text": "“We now believe not only because of your words; we have heard for ourselves, and we know that this man truly is the Savior of the world.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p14.b1": {
+    "text": "After two days, Jesus left for Galilee.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p14.b2": {
+    "text": "So once again He came to Cana in Galilee, where He had turned the water into wine.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p14.b3": {
+    "text": "And there was a royal official whose son lay sick at Capernaum.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p14.b4": {
+    "text": "When he heard that Jesus had come from Judea to Galilee, he went and begged Him to come down and heal his son, who was about to die.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p15.b1": {
+    "text": "“Unless you people see signs and wonders, you will never believe.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p15.b2": {
+    "text": "“Sir,” … “come down before my child dies.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p15.b3": {
+    "text": "“Go,” … “Your son will live.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p15.b4": {
+    "text": "The man took Jesus at His word and departed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p16.b1": {
+    "text": "And while he was still on the way,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p16.b2": {
+    "text": "his servants met him with the news that his boy was alive.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p16.b3": {
+    "text": "So he inquired as to the hour when his son had recovered,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p16.b4": {
+    "text": "“The fever left him yesterday at the seventh hour.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p17.b1": {
+    "text": "Then the father realized that this was the very hour in which Jesus had told him, “Your son will live.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p17.b2": {
+    "text": "And he and all his household believed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p18.b1": {
+    "text": "This was now the second sign that Jesus performed",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.4.p18.b2": {
+    "text": "after coming from Judea into Galilee.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 4:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

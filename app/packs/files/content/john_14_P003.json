@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_14_P003",
+  "book": "john",
+  "chapter": 14,
+  "page": 3,
+  "ref": "14:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_14_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_14_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "求主把父指给我们看，我们就满足了。"
+      }
+    },
+    {
+      "id": "JOHN_14_P003_F2",
+      "box": [
+        0,
+        0.2604,
+        0.5225,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "腓力，我和你们在一起这么久，你还不认识我吗？"
+      }
+    },
+    {
+      "id": "JOHN_14_P003_F3",
+      "box": [
+        0.5293,
+        0.2604,
+        0.4707,
+        0.276
+      ]
+    },
+    {
+      "id": "JOHN_14_P003_F4",
+      "box": [
+        0,
+        0.5404,
+        1,
+        0.4596
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_14_P003_B001",
+      "panel": "JOHN_14_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0077,
+        0.42,
+        0.0615
+      ],
+      "tail": [
+        0.23,
+        0.0949
+      ],
+      "text_key": "john.14.p3.b1"
+    },
+    {
+      "id": "JOHN_14_P003_B002",
+      "panel": "JOHN_14_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0157,
+        0.2687,
+        0.2194,
+        0.0662
+      ],
+      "tail": [
+        0.1254,
+        0.3625
+      ],
+      "text_key": "john.14.p3.b2"
+    },
+    {
+      "id": "JOHN_14_P003_B003",
+      "panel": "JOHN_14_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5496,
+        0.36,
+        0.0735
+      ],
+      "tail": [
+        0.2,
+        0.6691
+      ],
+      "text_key": "john.14.p3.b3"
+    },
+    {
+      "id": "JOHN_14_P003_B004",
+      "panel": "JOHN_14_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.8713,
+        0.3,
+        0.1103
+      ],
+      "tail": [
+        0.17,
+        1
+      ],
+      "text_key": "john.14.p3.b4"
+    }
+  ]
+}

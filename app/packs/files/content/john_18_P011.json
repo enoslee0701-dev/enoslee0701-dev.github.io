@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_18_P011",
+  "book": "john",
+  "chapter": 18,
+  "page": 11,
+  "ref": "18:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "众人把耶稣从该亚法那里押到总督府，那时天还很早。"
+      }
+    },
+    {
+      "id": "JOHN_18_P011_F2",
+      "box": [
+        0,
+        0.224,
+        0.332,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "他们自己却不进总督府，免得沾染污秽，不能吃逾越节的筵席。"
+      }
+    },
+    {
+      "id": "JOHN_18_P011_F3",
+      "box": [
+        0.3389,
+        0.224,
+        0.6611,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "你们控告这个人什么罪呢？"
+      }
+    },
+    {
+      "id": "JOHN_18_P011_F4",
+      "box": [
+        0,
+        0.6966,
+        1,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "这个人如果不是作恶的，我们就不会把他交给你。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P011_B001",
+      "panel": "JOHN_18_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.02,
+        0.0066,
+        0.44,
+        0.0485
+      ],
+      "tail": null,
+      "text_key": "john.18.p11.b1"
+    },
+    {
+      "id": "JOHN_18_P011_B002",
+      "panel": "JOHN_18_P011_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0133,
+        0.2287,
+        0.3054,
+        0.0516
+      ],
+      "tail": null,
+      "text_key": "john.18.p11.b2"
+    },
+    {
+      "id": "JOHN_18_P011_B003",
+      "panel": "JOHN_18_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3521,
+        0.2334,
+        0.2379,
+        0.0563
+      ],
+      "tail": [
+        0.4711,
+        0.3366
+      ],
+      "text_key": "john.18.p11.b3"
+    },
+    {
+      "id": "JOHN_18_P011_B004",
+      "panel": "JOHN_18_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.7087,
+        0.26,
+        0.0667
+      ],
+      "tail": [
+        0.59,
+        0.8057
+      ],
+      "text_key": "john.18.p11.b4"
+    }
+  ]
+}

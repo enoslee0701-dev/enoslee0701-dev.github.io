@@ -1,0 +1,342 @@
+{
+  "john.14.p1.b1": {
+    "text": "“Do not let your hearts be troubled. You believe in God; believe in Me as well.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p1.b2": {
+    "text": "In My Father’s house are many rooms. … I am going there to prepare a place for you",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p1.b3": {
+    "text": "I will come back and welcome you into My presence, so that you also may be where I am.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p2.b1": {
+    "text": "You know the way to the place where I am going.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p2.b2": {
+    "text": "Lord, … we do not know where You are going, so how can we know the way?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p2.b3": {
+    "text": "I am the way and the truth and the life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p2.b4": {
+    "text": "No one comes to the Father except through Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p3.b1": {
+    "text": "Lord, show us the Father, and that will be enough for us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p3.b2": {
+    "text": "Philip, I have been with you all this time, and still you do not know Me?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p3.b3": {
+    "text": "Anyone who has seen Me has seen the Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p3.b4": {
+    "text": "Do you not believe that I am in the Father and the Father is in Me?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p4.b1": {
+    "text": "Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p4.b2": {
+    "text": "He will do even greater things than these, because I am going to the Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p4.b3": {
+    "text": "And I will do whatever you ask in My name, so that the Father may be glorified in the Son.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p5.b1": {
+    "text": "If you love Me, you will keep My commandments.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p5.b2": {
+    "text": "And I will ask the Father, and He will give you another Advocate to be with you forever—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p5.b3": {
+    "text": "The world cannot receive Him, because it neither sees Him nor knows Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p5.b4": {
+    "text": "But you do know Him, for He abides with you and will be in you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p6.b1": {
+    "text": "I will not leave you as orphans; I will come to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p6.b2": {
+    "text": "In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p6.b3": {
+    "text": "The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p7.b1": {
+    "text": "Lord, why are You going to reveal Yourself to us and not to the world?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p7.b2": {
+    "text": "If anyone loves Me, he will keep My word.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p7.b3": {
+    "text": "My Father will love him, and We will come to him and make Our home with him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p8.b1": {
+    "text": "But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p8.b2": {
+    "text": "and will remind you of everything I have told you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p8.b3": {
+    "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p8.b4": {
+    "text": "Do not let your hearts be troubled; do not be afraid.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p9.b1": {
+    "text": "You heard Me say, ‘I am going away, and I am coming back to you.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p9.b2": {
+    "text": "If you loved Me, you would rejoice that I am going to the Father, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p9.b3": {
+    "text": "And now I have told you before it happens, so that when it does happen, you will believe.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p10.b1": {
+    "text": "I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p10.b2": {
+    "text": "But I do exactly what the Father has commanded Me, so that the world may know that I love the Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.14.p10.b3": {
+    "text": "Get up! Let us go on from here.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 14:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

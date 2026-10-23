@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_18_P012",
+  "book": "john",
+  "chapter": 18,
+  "page": 12,
+  "ref": "18:31-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "你们自己把他带去，按照你们的律法审判他吧。"
+      }
+    },
+    {
+      "id": "JOHN_18_P012_F2",
+      "box": [
+        0,
+        0.2292,
+        0.334,
+        0.4388
+      ],
+      "alt": {
+        "zh-CN": "我们没有处死人的权力。"
+      }
+    },
+    {
+      "id": "JOHN_18_P012_F3",
+      "box": [
+        0.3408,
+        0.2292,
+        0.6592,
+        0.4388
+      ],
+      "alt": {
+        "zh-CN": "你是犹太人的王吗？"
+      }
+    },
+    {
+      "id": "JOHN_18_P012_F4",
+      "box": [
+        0,
+        0.6712,
+        1,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "这话是你自己说的，还是别人告诉你关于我的？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P012_B001",
+      "panel": "JOHN_18_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0113,
+        0.4,
+        0.0675
+      ],
+      "tail": [
+        0.23,
+        0.1013
+      ],
+      "text_key": "john.18.p12.b1"
+    },
+    {
+      "id": "JOHN_18_P012_B002",
+      "panel": "JOHN_18_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0134,
+        0.5802,
+        0.3072,
+        0.0789
+      ],
+      "tail": [
+        0.167,
+        0.668
+      ],
+      "text_key": "john.18.p12.b2"
+    },
+    {
+      "id": "JOHN_18_P012_B003",
+      "panel": "JOHN_18_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.71,
+        0.2424,
+        0.2636,
+        0.0702
+      ],
+      "tail": [
+        0.8418,
+        0.3565
+      ],
+      "text_key": "john.18.p12.b3"
+    },
+    {
+      "id": "JOHN_18_P012_B004",
+      "panel": "JOHN_18_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.6975,
+        0.42,
+        0.1315
+      ],
+      "tail": [
+        0.77,
+        0.8619
+      ],
+      "text_key": "john.18.p12.b4"
+    }
+  ]
+}

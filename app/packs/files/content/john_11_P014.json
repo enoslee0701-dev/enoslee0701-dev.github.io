@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_11_P014",
+  "book": "john",
+  "chapter": 11,
+  "page": 14,
+  "ref": "11:44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3672
+      ]
+    },
+    {
+      "id": "JOHN_11_P014_F2",
+      "box": [
+        0,
+        0.3698,
+        0.498,
+        0.2695
+      ]
+    },
+    {
+      "id": "JOHN_11_P014_F3",
+      "box": [
+        0.5039,
+        0.3698,
+        0.4961,
+        0.2695
+      ],
+      "alt": {
+        "zh-CN": "把他解开，让他走！"
+      }
+    },
+    {
+      "id": "JOHN_11_P014_F4",
+      "box": [
+        0,
+        0.6432,
+        1,
+        0.3568
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P014_B001",
+      "panel": "JOHN_11_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0073,
+        0.38,
+        0.044
+      ],
+      "tail": null,
+      "text_key": "john.11.p14.b1"
+    },
+    {
+      "id": "JOHN_11_P014_B002",
+      "panel": "JOHN_11_P014_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7023,
+        0.3779,
+        0.2778,
+        0.0592
+      ],
+      "tail": [
+        0.8412,
+        0.4641
+      ],
+      "text_key": "john.11.p14.b2"
+    }
+  ]
+}

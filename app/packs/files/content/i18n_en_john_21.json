@@ -1,0 +1,412 @@
+{
+  "john.21.p1.b1": {
+    "text": "Later, by the Sea of Tiberias, Jesus again revealed Himself to the disciples.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p1.b2": {
+    "text": "I am going fishing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p1.b3": {
+    "text": "We will go with you",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p1.b4": {
+    "text": "So they went out and got into the boat, but caught nothing that night.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p2.b1": {
+    "text": "Early in the morning, Jesus stood on the shore, but the disciples did not recognize that it was Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p2.b2": {
+    "text": "Children, do you have any fish?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p2.b3": {
+    "text": "Cast the net on the right side of the boat, and you will find some.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p2.b4": {
+    "text": "So they cast it there, and they were unable to haul it in because of the great number of fish.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p3.b1": {
+    "text": "It is the Lord!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p3.b2": {
+    "text": "As soon as Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it) and jumped into the sea.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p3.b3": {
+    "text": "The other disciples came ashore in the boat. They dragged in the net full of fish, for they were not far from land, only about a hundred yards.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p4.b1": {
+    "text": "When they landed, they saw a charcoal fire there with fish on it, and some bread.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p4.b2": {
+    "text": "Bring some of the fish you have just caught.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p4.b3": {
+    "text": "It was full of large fish, 153, but even with so many, the net was not torn.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p5.b1": {
+    "text": "Come, have breakfast",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p5.b2": {
+    "text": "None of the disciples dared to ask Him, “Who are You?” They knew it was the Lord.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p5.b3": {
+    "text": "Jesus came and took the bread and gave it to them, and He did the same with the fish.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p5.b4": {
+    "text": "This was now the third time that Jesus appeared to the disciples after He was raised from the dead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p6.b1": {
+    "text": "When they had finished eating, Jesus asked Simon Peter,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p6.b2": {
+    "text": "Simon son of John, do you love Me more than these?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p6.b3": {
+    "text": "Yes, Lord, … You know I love You.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p6.b4": {
+    "text": "Feed My lambs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p7.b1": {
+    "text": "Jesus asked a second time,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p7.b2": {
+    "text": "Simon son of John, do you love Me?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p7.b3": {
+    "text": "Yes, Lord, … You know I love You.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p7.b4": {
+    "text": "Shepherd My sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p8.b1": {
+    "text": "Simon son of John, do you love Me?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p8.b2": {
+    "text": "Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p8.b3": {
+    "text": "Lord, You know all things, … You know I love You.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p8.b4": {
+    "text": "Feed My sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p9.b1": {
+    "text": "Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p9.b2": {
+    "text": "but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p9.b3": {
+    "text": "Jesus said this to indicate the kind of death by which Peter would glorify God. And after He had said this, He told him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p9.b4": {
+    "text": "Follow Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p10.b1": {
+    "text": "Peter turned and saw the disciple whom Jesus loved following them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p10.b2": {
+    "text": "Lord, what about him?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p10.b3": {
+    "text": "If I want him to remain until I return, what is that to you? You follow Me!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p10.b4": {
+    "text": "Because of this, the rumor spread among the brothers that this disciple would not die. However, Jesus did not say that he would not die, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p11.b1": {
+    "text": "This is the disciple who testifies to these things and who has written them down. And we know that his testimony is true.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p11.b2": {
+    "text": "There are many more things that Jesus did. If all of them were written down,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p11.b3": {
+    "text": "I suppose that not even the world itself would have space for the books that would be written.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 21:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

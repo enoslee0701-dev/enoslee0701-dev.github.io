@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_10_P002",
+  "book": "john",
+  "chapter": 10,
+  "page": 2,
+  "ref": "10:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "他把自己的羊都放出来以后，就走在前面，羊也跟着他，因为认得他的声音。"
+      }
+    },
+    {
+      "id": "JOHN_10_P002_F2",
+      "box": [
+        0,
+        0.3613,
+        1,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "羊不会跟着陌生人，反而会逃跑，因为不认得陌生人的声音。"
+      }
+    },
+    {
+      "id": "JOHN_10_P002_F3",
+      "box": [
+        0,
+        0.6426,
+        0.5459,
+        0.3574
+      ],
+      "alt": {
+        "zh-CN": "耶稣对他们讲了这个比喻，但他们不明白他说的是什么意思。"
+      }
+    },
+    {
+      "id": "JOHN_10_P002_F4",
+      "box": [
+        0.5557,
+        0.6426,
+        0.4443,
+        0.3574
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P002_B001",
+      "panel": "JOHN_10_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0107,
+        0.48,
+        0.0854
+      ],
+      "tail": [
+        0.27,
+        0.1317
+      ],
+      "text_key": "john.10.p2.b1"
+    },
+    {
+      "id": "JOHN_10_P002_B002",
+      "panel": "JOHN_10_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.3723,
+        0.45,
+        0.0605
+      ],
+      "tail": [
+        0.745,
+        0.4603
+      ],
+      "text_key": "john.10.p2.b2"
+    },
+    {
+      "id": "JOHN_10_P002_B003",
+      "panel": "JOHN_10_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0164,
+        0.6462,
+        0.5131,
+        0.0393
+      ],
+      "tail": null,
+      "text_key": "john.10.p2.b3"
+    }
+  ]
+}

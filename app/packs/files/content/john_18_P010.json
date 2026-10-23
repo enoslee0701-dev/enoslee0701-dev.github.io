@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_18_P010",
+  "book": "john",
+  "chapter": 18,
+  "page": 10,
+  "ref": "18:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "你不也是他的门徒吗？"
+      }
+    },
+    {
+      "id": "JOHN_18_P010_F2",
+      "box": [
+        0,
+        0.2396,
+        0.4971,
+        0.2799
+      ],
+      "alt": {
+        "zh-CN": "我不是。"
+      }
+    },
+    {
+      "id": "JOHN_18_P010_F3",
+      "box": [
+        0.5039,
+        0.2396,
+        0.4961,
+        0.2799
+      ],
+      "alt": {
+        "zh-CN": "我不是看见你和他一起在园子里吗？"
+      }
+    },
+    {
+      "id": "JOHN_18_P010_F4",
+      "box": [
+        0,
+        0.5228,
+        1,
+        0.4772
+      ],
+      "alt": {
+        "zh-CN": "彼得又不承认。就在这时，鸡叫了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P010_B001",
+      "panel": "JOHN_18_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.02,
+        0.0071,
+        0.26,
+        0.0424
+      ],
+      "tail": [
+        0.15,
+        0.0731
+      ],
+      "text_key": "john.18.p10.b1"
+    },
+    {
+      "id": "JOHN_18_P010_B002",
+      "panel": "JOHN_18_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.2983,
+        0.2508,
+        0.1789,
+        0.0559
+      ],
+      "tail": [
+        0.3878,
+        0.3347
+      ],
+      "text_key": "john.18.p10.b2"
+    },
+    {
+      "id": "JOHN_18_P010_B003",
+      "panel": "JOHN_18_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5188,
+        0.248,
+        0.1686,
+        0.0615
+      ],
+      "tail": [
+        0.6031,
+        0.3375
+      ],
+      "text_key": "john.18.p10.b3"
+    },
+    {
+      "id": "JOHN_18_P010_B004",
+      "panel": "JOHN_18_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5371,
+        0.44,
+        0.0858
+      ],
+      "tail": null,
+      "text_key": "john.18.p10.b4"
+    }
+  ]
+}

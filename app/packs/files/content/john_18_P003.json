@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_18_P003",
+  "book": "john",
+  "chapter": 18,
+  "page": 3,
+  "ref": "18:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "你们要找谁？"
+      }
+    },
+    {
+      "id": "JOHN_18_P003_F2",
+      "box": [
+        0,
+        0.2747,
+        0.5645,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "我已经告诉你们，我就是。你们如果是找我，就让这些人走吧。"
+      }
+    },
+    {
+      "id": "JOHN_18_P003_F3",
+      "box": [
+        0.5723,
+        0.2747,
+        0.4277,
+        0.3027
+      ]
+    },
+    {
+      "id": "JOHN_18_P003_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "这是要应验耶稣以前说过的话：「你赐给我的人，我一个也没有失落。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P003_B001",
+      "panel": "JOHN_18_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0081,
+        0.42,
+        0.0594
+      ],
+      "tail": [
+        0.61,
+        0.0945
+      ],
+      "text_key": "john.18.p3.b1"
+    },
+    {
+      "id": "JOHN_18_P003_B002",
+      "panel": "JOHN_18_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.0169,
+        0.2838,
+        0.2258,
+        0.0787
+      ],
+      "tail": [
+        0.1298,
+        0.3928
+      ],
+      "text_key": "john.18.p3.b2"
+    },
+    {
+      "id": "JOHN_18_P003_B003",
+      "panel": "JOHN_18_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5952,
+        0.44,
+        0.0834
+      ],
+      "tail": null,
+      "text_key": "john.18.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "JOHN_13_P001",
+  "book": "john",
+  "chapter": 13,
+  "page": 1,
+  "ref": "13:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_13_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_13_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "逾越节以前，耶稣知道自己离开世界回到父那里去的时候到了。"
+      }
+    },
+    {
+      "id": "JOHN_13_P001_F2",
+      "box": [
+        0,
+        0.25,
+        0.5947,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "他既然爱世上属于自己的人，就爱他们到底。"
+      }
+    },
+    {
+      "id": "JOHN_13_P001_F3",
+      "box": [
+        0.6035,
+        0.25,
+        0.3965,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "吃晚饭的时候，魔鬼已经把出卖耶稣的念头放进……犹大心里。"
+      }
+    },
+    {
+      "id": "JOHN_13_P001_F4",
+      "box": [
+        0,
+        0.5326,
+        1,
+        0.4674
+      ],
+      "alt": {
+        "zh-CN": "就离开座位站起来，脱下外衣，拿一条毛巾束在腰上，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_13_P001_B001",
+      "panel": "JOHN_13_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.66,
+        0.0049,
+        0.32,
+        0.0636
+      ],
+      "tail": null,
+      "text_key": "john.13.p1.b1"
+    },
+    {
+      "id": "JOHN_13_P001_B002",
+      "panel": "JOHN_13_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0178,
+        0.2583,
+        0.1962,
+        0.0665
+      ],
+      "tail": null,
+      "text_key": "john.13.p1.b2"
+    },
+    {
+      "id": "JOHN_13_P001_B003",
+      "panel": "JOHN_13_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6114,
+        0.3498,
+        0.1348,
+        0.0776
+      ],
+      "tail": null,
+      "text_key": "john.13.p1.b3"
+    },
+    {
+      "id": "JOHN_13_P001_B004",
+      "panel": "JOHN_13_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5419,
+        0.3,
+        0.0654
+      ],
+      "tail": null,
+      "text_key": "john.13.p1.b4"
+    }
+  ]
+}

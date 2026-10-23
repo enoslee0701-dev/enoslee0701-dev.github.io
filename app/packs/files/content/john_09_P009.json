@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_09_P009",
+  "book": "john",
+  "chapter": 9,
+  "page": 9,
+  "ref": "9:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "于是法利赛人第二次把那个从前瞎眼的人叫来，"
+      }
+    },
+    {
+      "id": "JOHN_09_P009_F2",
+      "box": [
+        0,
+        0.2292,
+        0.498,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "你要把荣耀归给上帝，我们知道这人是个罪人。"
+      }
+    },
+    {
+      "id": "JOHN_09_P009_F3",
+      "box": [
+        0.5039,
+        0.2292,
+        0.4961,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "他是不是罪人，我不知道；"
+      }
+    },
+    {
+      "id": "JOHN_09_P009_F4",
+      "box": [
+        0,
+        0.5579,
+        1,
+        0.4421
+      ],
+      "alt": {
+        "zh-CN": "有一件事我知道：从前我是瞎眼的，现在能看见了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P009_B001",
+      "panel": "JOHN_09_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.12,
+        0.0068,
+        0.17,
+        0.0815
+      ],
+      "tail": null,
+      "text_key": "john.9.p9.b1"
+    },
+    {
+      "id": "JOHN_09_P009_B002",
+      "panel": "JOHN_09_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0149,
+        0.239,
+        0.2091,
+        0.088
+      ],
+      "tail": [
+        0.1195,
+        0.3596
+      ],
+      "text_key": "john.9.p9.b2"
+    },
+    {
+      "id": "JOHN_09_P009_B003",
+      "panel": "JOHN_09_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.239,
+        0.4564,
+        0.0326
+      ],
+      "tail": [
+        0.7519,
+        0.3042
+      ],
+      "text_key": "john.9.p9.b3"
+    },
+    {
+      "id": "JOHN_09_P009_B004",
+      "panel": "JOHN_09_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.5756,
+        0.25,
+        0.0972
+      ],
+      "tail": [
+        0.155,
+        0.717
+      ],
+      "text_key": "john.9.p9.b4"
+    }
+  ]
+}

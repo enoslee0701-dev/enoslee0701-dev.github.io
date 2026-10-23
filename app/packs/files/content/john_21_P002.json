@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_21_P002",
+  "book": "john",
+  "chapter": 21,
+  "page": 2,
+  "ref": "21:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_21_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_21_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.224
+      ],
+      "alt": {
+        "zh-CN": "天快亮的时候，耶稣站在岸上，门徒却不知道那是耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_21_P002_F2",
+      "box": [
+        0,
+        0.2292,
+        0.4805,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "孩子们，你们有吃的没有？"
+      }
+    },
+    {
+      "id": "JOHN_21_P002_F3",
+      "box": [
+        0.4883,
+        0.2292,
+        0.5117,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "把网撒在船的右边，就会打到鱼。"
+      }
+    },
+    {
+      "id": "JOHN_21_P002_F4",
+      "box": [
+        0,
+        0.5208,
+        1,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "他们就把网撒下去，结果拉不上来，因为鱼太多了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_21_P002_B001",
+      "panel": "JOHN_21_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.3,
+        0.0067,
+        0.4,
+        0.0448
+      ],
+      "tail": null,
+      "text_key": "john.21.p2.b1"
+    },
+    {
+      "id": "JOHN_21_P002_B002",
+      "panel": "JOHN_21_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0144,
+        0.2378,
+        0.2642,
+        0.0573
+      ],
+      "tail": [
+        0.1465,
+        0.3238
+      ],
+      "text_key": "john.21.p2.b2"
+    },
+    {
+      "id": "JOHN_21_P002_B003",
+      "panel": "JOHN_21_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7134,
+        0.2349,
+        0.2763,
+        0.0401
+      ],
+      "tail": [
+        0.8516,
+        0.3037
+      ],
+      "text_key": "john.21.p2.b3"
+    },
+    {
+      "id": "JOHN_21_P002_B004",
+      "panel": "JOHN_21_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5352,
+        0.19,
+        0.0718
+      ],
+      "tail": null,
+      "text_key": "john.21.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "JOHN_19_P016",
+  "book": "john",
+  "chapter": 19,
+  "page": 16,
+  "ref": "19:39-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_19_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_19_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ]
+    },
+    {
+      "id": "JOHN_19_P016_F2",
+      "box": [
+        0,
+        0.2643,
+        0.498,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "还有尼哥德慕，就是先前夜里去见耶稣的那人，也带着大约一百斤没药和沉香来了。"
+      }
+    },
+    {
+      "id": "JOHN_19_P016_F3",
+      "box": [
+        0.5049,
+        0.2643,
+        0.4951,
+        0.332
+      ]
+    },
+    {
+      "id": "JOHN_19_P016_F4",
+      "box": [
+        0,
+        0.5996,
+        1,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "他们就照着犹太人埋葬的规矩，用细麻布加上香料，把耶稣的身体裹好。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_19_P016_B001",
+      "panel": "JOHN_19_P016_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.2743,
+        0.4581,
+        0.0597
+      ],
+      "tail": null,
+      "text_key": "john.19.p16.b1"
+    },
+    {
+      "id": "JOHN_19_P016_B002",
+      "panel": "JOHN_19_P016_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6116,
+        0.92,
+        0.036
+      ],
+      "tail": null,
+      "text_key": "john.19.p16.b2"
+    }
+  ]
+}

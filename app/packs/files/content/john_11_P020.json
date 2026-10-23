@@ -1,0 +1,106 @@
+{
+  "id": "JOHN_11_P020",
+  "book": "john",
+  "chapter": 11,
+  "page": 20,
+  "ref": "11:55-56",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P020",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P020_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2917
+      ]
+    },
+    {
+      "id": "JOHN_11_P020_F2",
+      "box": [
+        0,
+        0.2949,
+        0.5068,
+        0.3242
+      ]
+    },
+    {
+      "id": "JOHN_11_P020_F3",
+      "box": [
+        0.5127,
+        0.2949,
+        0.4873,
+        0.3242
+      ]
+    },
+    {
+      "id": "JOHN_11_P020_F4",
+      "box": [
+        0,
+        0.6237,
+        1,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "你们怎么看？他不会来过节吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P020_B001",
+      "panel": "JOHN_11_P020_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0088,
+        0.45,
+        0.0466
+      ],
+      "tail": null,
+      "text_key": "john.11.p20.b1"
+    },
+    {
+      "id": "JOHN_11_P020_B002",
+      "panel": "JOHN_11_P020_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0152,
+        0.5607,
+        0.4763,
+        0.0486
+      ],
+      "tail": null,
+      "text_key": "john.11.p20.b2"
+    },
+    {
+      "id": "JOHN_11_P020_B003",
+      "panel": "JOHN_11_P020_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.635,
+        0.47,
+        0.0564
+      ],
+      "tail": [
+        0.735,
+        0.729
+      ],
+      "text_key": "john.11.p20.b3"
+    }
+  ]
+}

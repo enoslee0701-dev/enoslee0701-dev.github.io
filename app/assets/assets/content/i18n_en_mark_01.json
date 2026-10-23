@@ -1,0 +1,752 @@
+{
+  "mark.1.p1.b1": {
+    "text": "This is the beginning of the gospel of Jesus Christ, the Son of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p1.b2": {
+    "text": "…Behold, I will send My messenger ahead of You, who will prepare Your way.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p1.b3": {
+    "text": "A voice of one calling in the wilderness,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p1.b4": {
+    "text": "Prepare the way for the Lord, make straight paths for Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p2.b1": {
+    "text": "John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p2.b2": {
+    "text": "People went out to him from all of Jerusalem and the countryside of Judea.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p2.b3": {
+    "text": "Confessing their sins,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p3.b1": {
+    "text": "After me will come One more powerful than I,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p3.b2": {
+    "text": "The straps of whose sandals I am not worthy to stoop down and untie.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p3.b3": {
+    "text": "I baptize you with water,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p3.b4": {
+    "text": "But He will baptize you with the Holy Spirit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p4.b1": {
+    "text": "In those days Jesus came from Nazareth in Galilee",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p4.b2": {
+    "text": "And was baptized by John in the Jordan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p4.b3": {
+    "text": "As soon as Jesus came up out of the water, He saw the heavens breaking open",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p5.b1": {
+    "text": "And the Spirit descending on Him like a dove.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p5.b2": {
+    "text": "And a voice came from heaven:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p5.b3": {
+    "text": "You are My beloved Son; in You I am well pleased.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p6.b1": {
+    "text": "At once the Spirit drove Jesus into the wilderness,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p6.b2": {
+    "text": "And He was there for forty days, being tempted by Satan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p6.b3": {
+    "text": "He was with the wild animals,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p6.b4": {
+    "text": "And the angels ministered to Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p7.b1": {
+    "text": "After the arrest of John,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p7.b2": {
+    "text": "Jesus went into Galilee and proclaimed the gospel of God. … He said,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:14-15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p7.b3": {
+    "text": "The time is fulfilled, … and the kingdom of God is near.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p7.b4": {
+    "text": "Repent and believe in the gospel!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p8.b1": {
+    "text": "As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p8.b2": {
+    "text": "Come, follow Me, … and I will make you fishers of men.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p8.b3": {
+    "text": "And at once they left their nets and followed Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p9.b1": {
+    "text": "Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p9.b2": {
+    "text": "Immediately Jesus called them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p9.b3": {
+    "text": "And they left their father Zebedee in the boat with the hired men and followed Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p10.b1": {
+    "text": "Then Jesus and His companions went to Capernaum,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p10.b2": {
+    "text": "And right away Jesus entered the synagogue on the Sabbath and began to teach.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p10.b3": {
+    "text": "The people were astonished at His teaching,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p10.b4": {
+    "text": "Because He taught as one who had authority, and not as the scribes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b1": {
+    "text": "Suddenly a man with an unclean spirit … in the synagogue",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b2": {
+    "text": "Cried out",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b3": {
+    "text": "What do You want with us, Jesus of Nazareth? Have You come to destroy us?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b4": {
+    "text": "I know who You are—the Holy One of God!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b5": {
+    "text": "But Jesus rebuked the spirit. … He said.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b6": {
+    "text": "Be silent!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p11.b7": {
+    "text": "Come out of him!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b1": {
+    "text": "At this, the unclean spirit threw the man into convulsions",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b2": {
+    "text": "With a loud shriek.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b3": {
+    "text": "And came out",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b4": {
+    "text": "All the people were amazed and began to ask one another,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b5": {
+    "text": "What is this? A new teaching with authority!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b6": {
+    "text": "He commands even the unclean spirits, and they obey Him!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p12.b7": {
+    "text": "And the news about Jesus spread quickly through the whole region of Galilee.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p13.b1": {
+    "text": "As soon as Jesus and His companions had left the synagogue, they went … to the home of Simon and Andrew.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p13.b2": {
+    "text": "Simon’s mother-in-law was sick in bed with a fever, and they promptly told Jesus about her.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p13.b3": {
+    "text": "So He went to her, took her by the hand, and helped her up.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p13.b4": {
+    "text": "The fever left her,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p14.b1": {
+    "text": "That evening, after sunset,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p14.b2": {
+    "text": "And the whole town gathered at the door.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p14.b3": {
+    "text": "And He healed many who were ill with various diseases",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p14.b4": {
+    "text": "And drove out many demons. But He would not allow the demons to speak, because they knew who He was.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p15.b1": {
+    "text": "Early in the morning, while it was still dark,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p15.b2": {
+    "text": "Everyone is looking for You!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p15.b3": {
+    "text": "Let us go on … so I can preach there as well, for that is why I have come.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p15.b4": {
+    "text": "So He went throughout Galilee, preaching in their synagogues and driving out demons.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p16.b1": {
+    "text": "Then a leper came to Jesus,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p17.b1": {
+    "text": "Begging on his knees:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p17.b2": {
+    "text": "If You are willing, You can make me clean.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p17.b3": {
+    "text": "Moved with compassion,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p18.b1": {
+    "text": "Jesus reached out His hand and touched the man. … He said.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p18.b2": {
+    "text": "I am willing, … Be clean!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p19.b1": {
+    "text": "And immediately the leprosy left him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p19.b2": {
+    "text": "And the man was cleansed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p20.b1": {
+    "text": "Jesus promptly sent him away with a stern warning:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p20.b2": {
+    "text": "See that you don’t tell anyone. But go, show yourself to the priest",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p20.b3": {
+    "text": "And present the offering Moses prescribed for your cleansing, as a testimony to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p20.b4": {
+    "text": "But the man went out and openly began to proclaim and spread the news.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p20.b5": {
+    "text": "Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "mark.1.p20.b6": {
+    "text": "Yet people came to Him from every quarter.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Mark 1:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "JOHN_14_P005",
+  "book": "john",
+  "chapter": 14,
+  "page": 5,
+  "ref": "14:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_14_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_14_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "你们若爱我，就会遵守我的命令。"
+      }
+    },
+    {
+      "id": "JOHN_14_P005_F2",
+      "box": [
+        0,
+        0.2995,
+        1,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "我要求父，父就另外赐给你们一位保惠师，让他永远和你们同在，"
+      }
+    },
+    {
+      "id": "JOHN_14_P005_F3",
+      "box": [
+        0,
+        0.5443,
+        1,
+        0.4557
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_14_P005_B001",
+      "panel": "JOHN_14_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0088,
+        0.36,
+        0.0589
+      ],
+      "tail": [
+        0.2,
+        0.0972
+      ],
+      "text_key": "john.14.p5.b1"
+    },
+    {
+      "id": "JOHN_14_P005_B002",
+      "panel": "JOHN_14_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.72,
+        0.3067,
+        0.26,
+        0.0531
+      ],
+      "tail": [
+        0,
+        0.3839
+      ],
+      "text_key": "john.14.p5.b2"
+    },
+    {
+      "id": "JOHN_14_P005_B003",
+      "panel": "JOHN_14_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5489,
+        0.4,
+        0.041
+      ],
+      "tail": [
+        0.22,
+        0.6355
+      ],
+      "text_key": "john.14.p5.b3"
+    },
+    {
+      "id": "JOHN_14_P005_B004",
+      "panel": "JOHN_14_P005_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5489,
+        0.4,
+        0.041
+      ],
+      "tail": [
+        0.78,
+        0.6355
+      ],
+      "text_key": "john.14.p5.b4"
+    }
+  ]
+}

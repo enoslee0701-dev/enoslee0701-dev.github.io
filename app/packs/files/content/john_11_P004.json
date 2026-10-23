@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_11_P004",
+  "book": "john",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:11-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_11_P004_F1",
+      "box": [
+        0,
+        0,
+        0.583,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "我们的朋友拉撒路睡了，我要去叫醒他。"
+      }
+    },
+    {
+      "id": "JOHN_11_P004_F2",
+      "box": [
+        0.5928,
+        0,
+        0.4072,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "主啊，他如果睡了，就会好的。"
+      }
+    },
+    {
+      "id": "JOHN_11_P004_F3",
+      "box": [
+        0,
+        0.306,
+        1,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "拉撒路死了。"
+      }
+    },
+    {
+      "id": "JOHN_11_P004_F4",
+      "box": [
+        0,
+        0.6536,
+        1,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "我们也去，和他一起死吧。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_11_P004_B001",
+      "panel": "JOHN_11_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3848,
+        0.009,
+        0.1807,
+        0.081
+      ],
+      "tail": [
+        0.4752,
+        0.12
+      ],
+      "text_key": "john.11.p4.b1"
+    },
+    {
+      "id": "JOHN_11_P004_B002",
+      "panel": "JOHN_11_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6091,
+        0.009,
+        0.3746,
+        0.054
+      ],
+      "tail": [
+        0.7964,
+        0.093
+      ],
+      "text_key": "john.11.p4.b2"
+    },
+    {
+      "id": "JOHN_11_P004_B003",
+      "panel": "JOHN_11_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3163,
+        0.4,
+        0.0686
+      ],
+      "tail": [
+        0.23,
+        0.4192
+      ],
+      "text_key": "john.11.p4.b3"
+    },
+    {
+      "id": "JOHN_11_P004_B004",
+      "panel": "JOHN_11_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.664,
+        0.46,
+        0.0346
+      ],
+      "tail": [
+        0.26,
+        0.7332
+      ],
+      "text_key": "john.11.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_12_P016",
+  "book": "john",
+  "chapter": 12,
+  "page": 16,
+  "ref": "12:42-46",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2267
+      ],
+      "alt": {
+        "zh-CN": "虽然这样，官长中也有不少人信了他，只是因为法利赛人的缘故，不敢承认，怕被赶出会堂。"
+      }
+    },
+    {
+      "id": "JOHN_12_P016_F2",
+      "box": [
+        0,
+        0.2308,
+        0.5063,
+        0.3271
+      ],
+      "alt": {
+        "zh-CN": "这是因为他们爱人的称赞，过于爱　神的称赞。"
+      }
+    },
+    {
+      "id": "JOHN_12_P016_F3",
+      "box": [
+        0.5125,
+        0.2308,
+        0.4875,
+        0.3271
+      ],
+      "alt": {
+        "zh-CN": "信我的，不是信我，而是信那差我来的。人看见我，就是看见那差我来的。"
+      }
+    },
+    {
+      "id": "JOHN_12_P016_F4",
+      "box": [
+        0,
+        0.5612,
+        1,
+        0.4388
+      ],
+      "alt": {
+        "zh-CN": "我来到世上，就是光，使所有信我的人不住在黑暗里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P016_B001",
+      "panel": "JOHN_12_P016_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0068,
+        0.45,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "john.12.p16.b1"
+    },
+    {
+      "id": "JOHN_12_P016_B002",
+      "panel": "JOHN_12_P016_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0152,
+        0.2373,
+        0.2936,
+        0.0457
+      ],
+      "tail": null,
+      "text_key": "john.12.p16.b2"
+    },
+    {
+      "id": "JOHN_12_P016_B003",
+      "panel": "JOHN_12_P016_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5223,
+        0.2373,
+        0.156,
+        0.0981
+      ],
+      "tail": [
+        0.6003,
+        0.3681
+      ],
+      "text_key": "john.12.p16.b3"
+    },
+    {
+      "id": "JOHN_12_P016_B004",
+      "panel": "JOHN_12_P016_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.5744,
+        0.42,
+        0.0877
+      ],
+      "tail": [
+        0.24,
+        0.706
+      ],
+      "text_key": "john.12.p16.b4"
+    }
+  ]
+}

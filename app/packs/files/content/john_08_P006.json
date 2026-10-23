@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_08_P006",
+  "book": "john",
+  "chapter": 8,
+  "page": 6,
+  "ref": "8:12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1934
+      ],
+      "alt": {
+        "zh-CN": "耶稣又对众人说："
+      }
+    },
+    {
+      "id": "JOHN_08_P006_F2",
+      "box": [
+        0,
+        0.1973,
+        1,
+        0.485
+      ],
+      "alt": {
+        "zh-CN": "我是世界的光。"
+      }
+    },
+    {
+      "id": "JOHN_08_P006_F3",
+      "box": [
+        0,
+        0.6868,
+        0.6016,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "跟从我的，就不会在黑暗里走，必定得着生命的光。"
+      }
+    },
+    {
+      "id": "JOHN_08_P006_F4",
+      "box": [
+        0.6084,
+        0.6868,
+        0.3916,
+        0.3132
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P006_B001",
+      "panel": "JOHN_08_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0077,
+        0.38,
+        0.0348
+      ],
+      "tail": null,
+      "text_key": "john.8.p6.b1"
+    },
+    {
+      "id": "JOHN_08_P006_B002",
+      "panel": "JOHN_08_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.17,
+        0.2119,
+        0.36,
+        0.097
+      ],
+      "tail": [
+        0.35,
+        0.3574
+      ],
+      "text_key": "john.8.p6.b2"
+    },
+    {
+      "id": "JOHN_08_P006_B003",
+      "panel": "JOHN_08_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0241,
+        0.906,
+        0.4331,
+        0.0845
+      ],
+      "tail": [
+        0.2407,
+        1
+      ],
+      "text_key": "john.8.p6.b3"
+    }
+  ]
+}

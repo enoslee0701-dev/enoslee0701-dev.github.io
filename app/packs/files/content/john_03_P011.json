@@ -1,0 +1,100 @@
+{
+  "id": "JOHN_03_P011",
+  "book": "john",
+  "chapter": 3,
+  "page": 11,
+  "ref": "3:31-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_03_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_03_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "从天上来的，在万有之上；从地上来的属于地，他说的也是属于地的事。"
+      }
+    },
+    {
+      "id": "JOHN_03_P011_F2",
+      "box": [
+        0,
+        0.3138,
+        1,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "他把所看见、所听见的作了见证，可是没有人接受他的见证。"
+      }
+    },
+    {
+      "id": "JOHN_03_P011_F3",
+      "box": [
+        0,
+        0.7031,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "接受他见证的人，就是盖上印，证明　神是真实的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_03_P011_B001",
+      "panel": "JOHN_03_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.53,
+        0.0093,
+        0.44,
+        0.0743
+      ],
+      "tail": null,
+      "text_key": "john.3.p11.b1"
+    },
+    {
+      "id": "JOHN_03_P011_B002",
+      "panel": "JOHN_03_P011_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.333,
+        0.6,
+        0.0769
+      ],
+      "tail": null,
+      "text_key": "john.3.p11.b2"
+    },
+    {
+      "id": "JOHN_03_P011_B003",
+      "panel": "JOHN_03_P011_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7,
+        0.715,
+        0.28,
+        0.1187
+      ],
+      "tail": null,
+      "text_key": "john.3.p11.b3"
+    }
+  ]
+}

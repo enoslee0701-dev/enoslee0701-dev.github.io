@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_21_P004",
+  "book": "john",
+  "chapter": 21,
+  "page": 4,
+  "ref": "21:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_21_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_21_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "他们上了岸，看见那里有一堆炭火，上面放着鱼，还有饼。"
+      }
+    },
+    {
+      "id": "JOHN_21_P004_F2",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.4049
+      ]
+    },
+    {
+      "id": "JOHN_21_P004_F3",
+      "box": [
+        0,
+        0.6595,
+        0.5059,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "把你们刚才打到的鱼拿几条来。"
+      }
+    },
+    {
+      "id": "JOHN_21_P004_F4",
+      "box": [
+        0.5146,
+        0.6595,
+        0.4854,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "网里满是大鱼，一共一百五十三条；鱼虽然这么多，网却没有破。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_21_P004_B001",
+      "panel": "JOHN_21_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0073,
+        0.36,
+        0.0489
+      ],
+      "tail": null,
+      "text_key": "john.21.p4.b1"
+    },
+    {
+      "id": "JOHN_21_P004_B002",
+      "panel": "JOHN_21_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2428,
+        0.6697,
+        0.2529,
+        0.0476
+      ],
+      "tail": [
+        0.3692,
+        0.7514
+      ],
+      "text_key": "john.21.p4.b2"
+    },
+    {
+      "id": "JOHN_21_P004_B003",
+      "panel": "JOHN_21_P004_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5292,
+        0.6697,
+        0.2232,
+        0.0612
+      ],
+      "tail": null,
+      "text_key": "john.21.p4.b3"
+    }
+  ]
+}

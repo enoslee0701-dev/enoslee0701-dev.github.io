@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_14_P008",
+  "book": "john",
+  "chapter": 14,
+  "page": 8,
+  "ref": "14:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_14_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_14_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1641
+      ],
+      "alt": {
+        "zh-CN": "但保惠师，就是父因我的名要差来的圣灵，他要把一切的事教导你们，"
+      }
+    },
+    {
+      "id": "JOHN_14_P008_F2",
+      "box": [
+        0,
+        0.1673,
+        0.5996,
+        0.3203
+      ],
+      "alt": {
+        "zh-CN": "并且要叫你们想起我对你们说过的一切话。"
+      }
+    },
+    {
+      "id": "JOHN_14_P008_F3",
+      "box": [
+        0.6055,
+        0.1673,
+        0.3945,
+        0.3203
+      ]
+    },
+    {
+      "id": "JOHN_14_P008_F4",
+      "box": [
+        0,
+        0.4902,
+        1,
+        0.5098
+      ],
+      "alt": {
+        "zh-CN": "我留下平安给你们；我把我的平安赐给你们。我所赐的，不像世人所赐的。／你们心里不要忧愁，也不要害怕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_14_P008_B001",
+      "panel": "JOHN_14_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0164,
+        0.36,
+        0.1148
+      ],
+      "tail": [
+        0,
+        0.1476
+      ],
+      "text_key": "john.14.p8.b1"
+    },
+    {
+      "id": "JOHN_14_P008_B002",
+      "panel": "JOHN_14_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.018,
+        0.1769,
+        0.2638,
+        0.0704
+      ],
+      "tail": [
+        0.1499,
+        0.2793
+      ],
+      "text_key": "john.14.p8.b2"
+    },
+    {
+      "id": "JOHN_14_P008_B003",
+      "panel": "JOHN_14_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5055,
+        0.4,
+        0.063
+      ],
+      "tail": [
+        0.78,
+        0.6195
+      ],
+      "text_key": "john.14.p8.b3"
+    },
+    {
+      "id": "JOHN_14_P008_B004",
+      "panel": "JOHN_14_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5788,
+        0.4,
+        0.0286
+      ],
+      "tail": [
+        0.78,
+        0.6584
+      ],
+      "text_key": "john.14.p8.b4"
+    }
+  ]
+}

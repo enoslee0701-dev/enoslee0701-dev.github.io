@@ -1,0 +1,332 @@
+{
+  "john.16.p1.b1": {
+    "text": "“I have told you these things so that you will not fall away.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p1.b2": {
+    "text": "They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p1.b3": {
+    "text": "But I have told you these things so that when their hour comes, you will remember that I told you about them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p2.b1": {
+    "text": "Now, however, I am going to Him who sent Me; yet none of you asks Me, ‘Where are You going?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p2.b2": {
+    "text": "Instead, your hearts are filled with sorrow because I have told you these things.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p2.b3": {
+    "text": "But I tell you the truth, it is for your benefit that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p3.b1": {
+    "text": "And when He comes, He will convict the world in regard to sin and righteousness and judgment:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p3.b2": {
+    "text": "in regard to righteousness, because I am going to the Father and you will no longer see Me;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p3.b3": {
+    "text": "and in regard to judgment, because the prince of this world has been condemned.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p4.b1": {
+    "text": "I still have much to tell you, but you cannot yet bear to hear it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p4.b2": {
+    "text": "However, when the Spirit of truth comes, He will guide you into all truth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p4.b3": {
+    "text": "He will glorify Me by taking from what is Mine and disclosing it to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b1": {
+    "text": "In a little while you will see Me no more, and then after a little while you will see Me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b2": {
+    "text": "Why is He saying, ‘a little while’? We do not understand what He is saying.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b3": {
+    "text": "Aware that they wanted to question Him,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p5.b4": {
+    "text": "… Are you asking one another why I said, ‘In a little while you will not see Me, and then after a little while you will see Me’?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b1": {
+    "text": "… You will grieve, but your grief will turn to joy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b2": {
+    "text": "A woman has pain in childbirth because her time has come;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b3": {
+    "text": "but when she brings forth her child, she forgets her anguish because of her joy that a child has been born into the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p6.b4": {
+    "text": "… but I will see you again and your hearts will rejoice, and no one will take away your joy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p7.b1": {
+    "text": "In that day you will no longer ask Me anything.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p7.b2": {
+    "text": "… whatever you ask the Father in My name, He will give you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p7.b3": {
+    "text": "… Ask and you will receive, so that your joy may be complete.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p8.b1": {
+    "text": "I have spoken these things to you in figures of speech. An hour is coming when I will … tell you plainly about the Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p8.b2": {
+    "text": "In that day you will ask in My name. … For the Father Himself loves you,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:26-27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p8.b3": {
+    "text": "I came from the Father and entered the world. In turn, I will leave the world and go to the Father.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b1": {
+    "text": "See, now You are speaking plainly and without figures of speech. … Because of this, we believe that You came from God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:29-30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b2": {
+    "text": "Do you finally believe?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b3": {
+    "text": "Look, an hour is coming and has already come when you will be scattered, each to his own home, and you will leave Me all alone.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p9.b4": {
+    "text": "Yet I am not alone, because the Father is with Me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p10.b1": {
+    "text": "I have told you these things so that in Me you may have peace.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p10.b2": {
+    "text": "In the world you will have tribulation.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.16.p10.b3": {
+    "text": "But take courage; I have overcome the world!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

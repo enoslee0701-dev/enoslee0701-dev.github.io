@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_08_P016",
+  "book": "john",
+  "chapter": 8,
+  "page": 16,
+  "ref": "8:56-58",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_08_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_08_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2233
+      ],
+      "alt": {
+        "zh-CN": "你们的祖先亚伯拉罕很高兴能看见我的日子，他看见了，就欢喜。"
+      }
+    },
+    {
+      "id": "JOHN_08_P016_F2",
+      "box": [
+        0,
+        0.2272,
+        1,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "你还不到五十岁，怎么可能见过亚伯拉罕呢？"
+      }
+    },
+    {
+      "id": "JOHN_08_P016_F3",
+      "box": [
+        0.685,
+        0.444,
+        0.313,
+        0.134
+      ]
+    },
+    {
+      "id": "JOHN_08_P016_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "我实在告诉你们，在亚伯拉罕出生以前，我就已经存在了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_08_P016_B001",
+      "panel": "JOHN_08_P016_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.1652,
+        0.45,
+        0.0491
+      ],
+      "tail": null,
+      "text_key": "john.8.p16.b1"
+    },
+    {
+      "id": "JOHN_08_P016_B002",
+      "panel": "JOHN_08_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.2377,
+        0.28,
+        0.0701
+      ],
+      "tail": [
+        0.17,
+        0.3429
+      ],
+      "text_key": "john.8.p16.b2"
+    },
+    {
+      "id": "JOHN_08_P016_B003",
+      "panel": "JOHN_08_P016_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.06,
+        0.9332,
+        0.88,
+        0.0584
+      ],
+      "tail": [
+        0.5,
+        1
+      ],
+      "text_key": "john.8.p16.b3"
+    }
+  ]
+}

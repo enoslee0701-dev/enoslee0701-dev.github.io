@@ -1,0 +1,97 @@
+{
+  "id": "JOHN_17_P002",
+  "book": "john",
+  "chapter": 17,
+  "page": 2,
+  "ref": "17:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "我在地上已经使你得了荣耀，你交给我做的工作，我已经完成了。"
+      }
+    },
+    {
+      "id": "JOHN_17_P002_F2",
+      "box": [
+        0,
+        0.2402,
+        0.4697,
+        0.2357
+      ]
+    },
+    {
+      "id": "JOHN_17_P002_F3",
+      "box": [
+        0.4775,
+        0.2402,
+        0.5225,
+        0.2357
+      ]
+    },
+    {
+      "id": "JOHN_17_P002_F4",
+      "box": [
+        0,
+        0.4792,
+        1,
+        0.5208
+      ],
+      "alt": {
+        "zh-CN": "父啊，现在求你使我在你面前得荣耀，就是在世界还没有造成以前，我与你同享的荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P002_B001",
+      "panel": "JOHN_17_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.007,
+        0.44,
+        0.0515
+      ],
+      "tail": [
+        0.58,
+        0.0819
+      ],
+      "text_key": "john.17.p2.b1"
+    },
+    {
+      "id": "JOHN_17_P002_B002",
+      "panel": "JOHN_17_P002_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.1,
+        0.5,
+        0.8,
+        0.1041
+      ],
+      "tail": [
+        0.5,
+        0.6562
+      ],
+      "text_key": "john.17.p2.b2"
+    }
+  ]
+}

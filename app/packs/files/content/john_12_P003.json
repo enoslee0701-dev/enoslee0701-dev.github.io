@@ -1,0 +1,112 @@
+{
+  "id": "JOHN_12_P003",
+  "book": "john",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "有一个门徒，就是将要出卖耶稣的加略人犹大，"
+      }
+    },
+    {
+      "id": "JOHN_12_P003_F2",
+      "box": [
+        0,
+        0.3314,
+        0.4951,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "这香膏为什么不卖三百个银币去救济穷人呢？"
+      }
+    },
+    {
+      "id": "JOHN_12_P003_F3",
+      "box": [
+        0.501,
+        0.3314,
+        0.499,
+        0.3639
+      ]
+    },
+    {
+      "id": "JOHN_12_P003_F4",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "他说这话，并不是关心穷人，而是因为他是个贼，又管着钱袋，常常偷拿里面的钱。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P003_B001",
+      "panel": "JOHN_12_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0066,
+        0.44,
+        0.0491
+      ],
+      "tail": null,
+      "text_key": "john.12.p3.b1"
+    },
+    {
+      "id": "JOHN_12_P003_B002",
+      "panel": "JOHN_12_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3169,
+        0.3423,
+        0.1683,
+        0.1091
+      ],
+      "tail": [
+        0.4011,
+        0.4878
+      ],
+      "text_key": "john.12.p3.b2"
+    },
+    {
+      "id": "JOHN_12_P003_B003",
+      "panel": "JOHN_12_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.8674,
+        0.38,
+        0.1205
+      ],
+      "tail": null,
+      "text_key": "john.12.p3.b3"
+    }
+  ]
+}

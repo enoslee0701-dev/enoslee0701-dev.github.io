@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_17_P010",
+  "book": "john",
+  "chapter": 17,
+  "page": 10,
+  "ref": "17:25-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "公义的父啊，世人不认识你，我却认识你；这些人也知道是你差了我来。"
+      }
+    },
+    {
+      "id": "JOHN_17_P010_F2",
+      "box": [
+        0,
+        0.2298,
+        0.4971,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "我已经把你的名指示他们，还要继续指示他们，"
+      }
+    },
+    {
+      "id": "JOHN_17_P010_F3",
+      "box": [
+        0.5039,
+        0.2298,
+        0.4961,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "使你爱我的爱在他们里面，我也在他们里面。"
+      }
+    },
+    {
+      "id": "JOHN_17_P010_F4",
+      "box": [
+        0,
+        0.5163,
+        1,
+        0.4837
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P010_B001",
+      "panel": "JOHN_17_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.009,
+        0.48,
+        0.0587
+      ],
+      "tail": [
+        0.27,
+        0.0903
+      ],
+      "text_key": "john.17.p10.b1"
+    },
+    {
+      "id": "JOHN_17_P010_B002",
+      "panel": "JOHN_17_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0199,
+        0.2383,
+        0.4573,
+        0.0367
+      ],
+      "tail": [
+        0.2486,
+        0.3033
+      ],
+      "text_key": "john.17.p10.b2"
+    },
+    {
+      "id": "JOHN_17_P010_B003",
+      "panel": "JOHN_17_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5188,
+        0.3428,
+        0.119,
+        0.1582
+      ],
+      "tail": [
+        0.5783,
+        0.5124
+      ],
+      "text_key": "john.17.p10.b3"
+    }
+  ]
+}

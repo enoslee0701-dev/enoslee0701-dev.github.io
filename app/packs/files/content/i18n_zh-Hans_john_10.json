@@ -1,0 +1,507 @@
+{
+  "john.10.p1.b1": {
+    "text": "我实实在在地告诉你们，人进羊圈，不从门进去，倒从别处爬进去，那人就是贼，就是强盗。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实实⁠在在地告⁠诉你⁠们，人进羊圈，不从门进⁠去，倒从别⁠处爬进⁠去，那人就⁠是贼，就⁠是强⁠盗。"
+  },
+  "john.10.p1.b2": {
+    "text": "从门进去的，才是羊的牧人。看门的就给他开门；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:2-3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "从门进⁠去的，才⁠是羊的牧⁠人。看门的就给他开⁠门；"
+  },
+  "john.10.p1.b3": {
+    "text": "羊也听他的声音。他按着名叫自己的羊，把羊领出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "羊也听他⁠的声⁠音。他按着名⁠叫自⁠己的羊，把羊领出⁠来。"
+  },
+  "john.10.p2.b1": {
+    "text": "既放出自己的羊来，就在前头走，羊也跟着他，因为认得他的声音。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "既放⁠出自⁠己的羊来，就⁠在前⁠头走，羊也跟⁠着他，因⁠为认⁠得他⁠的声⁠音。"
+  },
+  "john.10.p2.b2": {
+    "text": "羊不跟着生人；因为不认得他的声音，必要逃跑。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "羊不跟⁠着生人；因⁠为不认⁠得他⁠的声⁠音，必⁠要逃⁠跑。"
+  },
+  "john.10.p2.b3": {
+    "text": "耶稣将这比喻告诉他们，但他们不明白所说的是什么意思。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣将这比⁠喻告⁠诉他⁠们，但他⁠们不明⁠白所说的⁠是什⁠么意⁠思。"
+  },
+  "john.10.p3.b1": {
+    "text": "我实实在在地告诉你们，我就是羊的门。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实实⁠在在地告⁠诉你⁠们，我就⁠是羊的门。"
+  },
+  "john.10.p3.b2": {
+    "text": "我就是门；凡从我进来的，必然得救，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我就⁠是门；凡从我进⁠来的，必⁠然得⁠救，"
+  },
+  "john.10.p3.b3": {
+    "text": "并且出入得草吃。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并⁠且出⁠入得草吃。"
+  },
+  "john.10.p4.b1": {
+    "text": "盗贼来，无非要偷窃，杀害，毁坏；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "盗⁠贼来，无非⁠要偷⁠窃，杀⁠害，毁⁠坏；"
+  },
+  "john.10.p4.b2": {
+    "text": "我来了，是要叫羊得生命，并且得的更丰盛。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠来了，是要叫羊得生⁠命，并⁠且得的更丰⁠盛。"
+  },
+  "john.10.p4.b3": {
+    "text": "我是好牧人；好牧人为羊舍命。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠是好牧⁠人；好牧⁠人为羊舍⁠命。"
+  },
+  "john.10.p5.b1": {
+    "text": "若是雇工，不是牧人，羊也不是他自己的，他看见狼来，就撇下羊逃走；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠是雇⁠工，不⁠是牧⁠人，羊也⁠不⁠是他自⁠己的，他看⁠见狼来，就撇⁠下羊逃⁠走；"
+  },
+  "john.10.p5.b2": {
+    "text": "狼抓住羊，赶散了羊群。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "狼抓⁠住羊，赶散了羊⁠群。"
+  },
+  "john.10.p5.b3": {
+    "text": "雇工逃走，因他是雇工，并不顾念羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "雇⁠工逃⁠走，因他⁠是雇⁠工，并⁠不顾⁠念羊。"
+  },
+  "john.10.p6.b1": {
+    "text": "我是好牧人；我认识我的羊，我的羊也认识我，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠是好牧⁠人；我认⁠识我⁠的羊，我⁠的羊也认⁠识我，"
+  },
+  "john.10.p6.b2": {
+    "text": "正如父认识我，我也认识父一样；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "正⁠如父认⁠识我，我⁠也认⁠识父一⁠样；"
+  },
+  "john.10.p6.b3": {
+    "text": "并且我为羊舍命。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并⁠且我为羊舍⁠命。"
+  },
+  "john.10.p7.b1": {
+    "text": "我另外有羊，不是这圈里的；我必须领他们来，他们也要听我的声音，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我另⁠外有羊，不⁠是这圈⁠里的；我必⁠须领他⁠们来，他⁠们也⁠要听⁠我的声⁠音，"
+  },
+  "john.10.p7.b2": {
+    "text": "并且要合成一群，归一个牧人了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并⁠且要合⁠成一⁠群，归一⁠个牧⁠人了。"
+  },
+  "john.10.p7.b3": {
+    "text": "我父爱我；因我将命舍去，好再取回来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我父⁠爱我；因我将命舍去，好再取回⁠来。"
+  },
+  "john.10.p7.b4": {
+    "text": "没有人夺我的命去，是我自己舍的。我有权柄舍了，也有权柄取回来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "没⁠有人夺我⁠的命去，是我自⁠己舍的。我⁠有权⁠柄舍了，也⁠有权⁠柄取回⁠来。"
+  },
+  "john.10.p8.b1": {
+    "text": "犹太人为这些话又起了纷争。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "犹⁠太⁠人为这⁠些话又起⁠了纷⁠争。"
+  },
+  "john.10.p8.b2": {
+    "text": "他是被鬼附着，而且疯了，为什么听他呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠是被鬼附⁠着，而⁠且疯⁠了，为⁠什⁠么听他呢？"
+  },
+  "john.10.p8.b3": {
+    "text": "这不是鬼附之人所说的话。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这不⁠是鬼附之人所说的⁠话。"
+  },
+  "john.10.p8.b4": {
+    "text": "鬼岂能叫瞎子的眼睛开了呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "鬼岂能叫瞎⁠子的眼⁠睛开了呢？"
+  },
+  "john.10.p9.b1": {
+    "text": "在耶路撒冷有修殿节，是冬天的时候。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在耶⁠路撒⁠冷有修殿节，是冬⁠天的时⁠候。"
+  },
+  "john.10.p9.b2": {
+    "text": "耶稣在殿里所罗门的廊下行走。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣在殿⁠里所⁠罗⁠门的廊⁠下行⁠走。"
+  },
+  "john.10.p9.b3": {
+    "text": "你叫我们犹疑不定到几时呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你叫我⁠们犹疑不⁠定到几⁠时呢？"
+  },
+  "john.10.p9.b4": {
+    "text": "你若是基督，就明明地告诉我们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你若⁠是基⁠督，就明⁠明地告⁠诉我⁠们。"
+  },
+  "john.10.p10.b1": {
+    "text": "我已经告诉你们，你们不信。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我已⁠经告⁠诉你⁠们，你⁠们不⁠信。"
+  },
+  "john.10.p10.b2": {
+    "text": "我的羊听我的声音，我也认识他们，他们也跟着我。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠的羊听⁠我的声⁠音，我⁠也认⁠识他⁠们，他⁠们也跟⁠着我。"
+  },
+  "john.10.p10.b3": {
+    "text": "……谁也不能从我手里把他们夺去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……谁也⁠不⁠能从我手⁠里把他⁠们夺去。"
+  },
+  "john.10.p10.b4": {
+    "text": "我与父原为一。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.10.p11.b1": {
+    "text": "犹太人又拿起石头来要打他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "犹⁠太⁠人又拿⁠起石⁠头来要打他。"
+  },
+  "john.10.p11.b2": {
+    "text": "我从父显出许多善事给你们看，你们是为哪一件拿石头打我呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我从父显⁠出许⁠多善⁠事给你⁠们看，你⁠们是为哪⁠一件拿石⁠头打我呢？"
+  },
+  "john.10.p11.b3": {
+    "text": "我们不是为善事拿石头打你，是为你说僭妄的话；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们不⁠是为善⁠事拿石⁠头打你，是为你说僭妄的⁠话；"
+  },
+  "john.10.p11.b4": {
+    "text": "又为你是个人，反将自己当作　神。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又为你⁠是个⁠人，反将自⁠己当⁠作　神。"
+  },
+  "john.10.p12.b1": {
+    "text": "你们的律法上岂不是写着『我曾说你们是神』吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们的律⁠法上岂⁠不⁠是写着『我曾说你⁠们是神』吗？"
+  },
+  "john.10.p12.b2": {
+    "text": "经上的话是不能废的；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "经上的⁠话是不⁠能废的；"
+  },
+  "john.10.p12.b3": {
+    "text": "……叫你们又知道又明白父在我里面，我也在父里面。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……叫你⁠们又知⁠道又明⁠白父在我里⁠面，我⁠也在父里⁠面。"
+  },
+  "john.10.p12.b4": {
+    "text": "他们又要拿他，他却逃出他们的手走了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们又⁠要拿他，他却逃⁠出他⁠们的手走⁠了。"
+  },
+  "john.10.p13.b1": {
+    "text": "耶稣又往约旦河外去，到了约翰起初施洗的地方，就住在那里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣又往约⁠旦⁠河外去，到⁠了约⁠翰起⁠初施⁠洗的地⁠方，就住⁠在那⁠里。"
+  },
+  "john.10.p13.b2": {
+    "text": "约翰一件神迹没有行过，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠翰一⁠件神⁠迹没⁠有行过，"
+  },
+  "john.10.p13.b3": {
+    "text": "但约翰指着这人所说的一切话都是真的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但约⁠翰指着这人所说⁠的一⁠切话都⁠是真⁠的。"
+  },
+  "john.10.p13.b4": {
+    "text": "在那里，信耶稣的人就多了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 10:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在那⁠里，信耶⁠稣的人就多了。"
+  }
+}

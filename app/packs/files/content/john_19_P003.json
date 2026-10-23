@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_19_P003",
+  "book": "john",
+  "chapter": 19,
+  "page": 3,
+  "ref": "19:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_19_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_19_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "把他钉十字架！把他钉十字架！"
+      }
+    },
+    {
+      "id": "JOHN_19_P003_F2",
+      "box": [
+        0,
+        0.2208,
+        0.3275,
+        0.4333
+      ],
+      "alt": {
+        "zh-CN": "你们自己把他带去钉十字架吧！我查不出他有什么罪。"
+      }
+    },
+    {
+      "id": "JOHN_19_P003_F3",
+      "box": [
+        0,
+        0.2201,
+        1,
+        0.7799
+      ],
+      "alt": {
+        "zh-CN": "我们有律法，按照律法，他该死，因为他自称是　神的儿子。"
+      }
+    },
+    {
+      "id": "JOHN_19_P003_F4",
+      "box": [
+        0.4813,
+        0.7292,
+        0.5187,
+        0.2708
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_19_P003_B001",
+      "panel": "JOHN_19_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.52,
+        0.0065,
+        0.45,
+        0.0474
+      ],
+      "tail": [
+        0.745,
+        0.0754
+      ],
+      "text_key": "john.19.p3.b1"
+    },
+    {
+      "id": "JOHN_19_P003_B002",
+      "panel": "JOHN_19_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0066,
+        0.5588,
+        0.203,
+        0.0866
+      ],
+      "tail": [
+        0.1081,
+        0.6541
+      ],
+      "text_key": "john.19.p3.b2"
+    },
+    {
+      "id": "JOHN_19_P003_B003",
+      "panel": "JOHN_19_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.5867,
+        0.38,
+        0.1325
+      ],
+      "tail": [
+        0.75,
+        0.7972
+      ],
+      "text_key": "john.19.p3.b3"
+    }
+  ]
+}

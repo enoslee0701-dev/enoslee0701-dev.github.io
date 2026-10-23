@@ -1,0 +1,103 @@
+{
+  "id": "JOHN_06_P009",
+  "book": "john",
+  "chapter": 6,
+  "page": 9,
+  "ref": "6:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "第二天……众人看见耶稣和门徒都不在那里，"
+      }
+    },
+    {
+      "id": "JOHN_06_P009_F2",
+      "box": [
+        0,
+        0.2311,
+        1,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "就上了船，到迦百农去找耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_06_P009_F3",
+      "box": [
+        0,
+        0.5397,
+        1,
+        0.4603
+      ],
+      "alt": {
+        "zh-CN": "拉比，你是什么时候到这里来的？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P009_B001",
+      "panel": "JOHN_06_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.0068,
+        0.45,
+        0.0407
+      ],
+      "tail": null,
+      "text_key": "john.6.p9.b1"
+    },
+    {
+      "id": "JOHN_06_P009_B002",
+      "panel": "JOHN_06_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2402,
+        0.42,
+        0.0485
+      ],
+      "tail": null,
+      "text_key": "john.6.p9.b2"
+    },
+    {
+      "id": "JOHN_06_P009_B003",
+      "panel": "JOHN_06_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.5535,
+        0.42,
+        0.0736
+      ],
+      "tail": [
+        0.76,
+        0.6731
+      ],
+      "text_key": "john.6.p9.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_10_P005",
+  "book": "john",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_10_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2324
+      ],
+      "alt": {
+        "zh-CN": "如果是雇工，不是牧人，羊也不是他自己的，他看见狼来，就丢下羊逃走；"
+      }
+    },
+    {
+      "id": "JOHN_10_P005_F2",
+      "box": [
+        0,
+        0.2396,
+        0.4951,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "狼抓住羊，把羊群赶散了。"
+      }
+    },
+    {
+      "id": "JOHN_10_P005_F3",
+      "box": [
+        0.5059,
+        0.2396,
+        0.4941,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "雇工逃走，因为他只是雇工，并不关心羊。"
+      }
+    },
+    {
+      "id": "JOHN_10_P005_F4",
+      "box": [
+        0,
+        0.4863,
+        1,
+        0.5137
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_10_P005_B001",
+      "panel": "JOHN_10_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.45,
+        0.0046,
+        0.34,
+        0.0697
+      ],
+      "tail": [
+        0.62,
+        0.0975
+      ],
+      "text_key": "john.10.p5.b1"
+    },
+    {
+      "id": "JOHN_10_P005_B002",
+      "panel": "JOHN_10_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0198,
+        0.4347,
+        0.4554,
+        0.0409
+      ],
+      "tail": [
+        0.2475,
+        0.4805
+      ],
+      "text_key": "john.10.p5.b2"
+    },
+    {
+      "id": "JOHN_10_P005_B003",
+      "panel": "JOHN_10_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5257,
+        0.2468,
+        0.4545,
+        0.0578
+      ],
+      "tail": [
+        0.753,
+        0.3287
+      ],
+      "text_key": "john.10.p5.b3"
+    }
+  ]
+}

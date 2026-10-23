@@ -1,0 +1,85 @@
+{
+  "id": "JOHN_09_P012",
+  "book": "john",
+  "chapter": 9,
+  "page": 12,
+  "ref": "9:34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "你完全是生在罪中的，还要来教训我们吗？"
+      }
+    },
+    {
+      "id": "JOHN_09_P012_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.4186
+      ],
+      "alt": {
+        "zh-CN": "于是他们把他赶了出去。"
+      }
+    },
+    {
+      "id": "JOHN_09_P012_F3",
+      "box": [
+        0,
+        0.6686,
+        1,
+        0.3314
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P012_B001",
+      "panel": "JOHN_09_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0098,
+        0.42,
+        0.0585
+      ],
+      "tail": [
+        0.24,
+        0.0927
+      ],
+      "text_key": "john.9.p12.b1"
+    },
+    {
+      "id": "JOHN_09_P012_B002",
+      "panel": "JOHN_09_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.77,
+        0.26,
+        0.21,
+        0.0586
+      ],
+      "tail": null,
+      "text_key": "john.9.p12.b2"
+    }
+  ]
+}

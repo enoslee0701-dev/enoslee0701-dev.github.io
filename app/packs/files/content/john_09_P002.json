@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_09_P002",
+  "book": "john",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "不是这人犯了罪，也不是他父母犯了罪，而是要在他身上显出神的作为。"
+      }
+    },
+    {
+      "id": "JOHN_09_P002_F2",
+      "box": [
+        0,
+        0.2826,
+        0.4434,
+        0.2793
+      ]
+    },
+    {
+      "id": "JOHN_09_P002_F3",
+      "box": [
+        0.4512,
+        0.2826,
+        0.5488,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "趁着还是白天，我们必须做那差我来的那位的工作；黑夜快到了，那时就没有人能工作了。"
+      }
+    },
+    {
+      "id": "JOHN_09_P002_F4",
+      "box": [
+        0,
+        0.5658,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "我在世上的时候，是世上的光。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_09_P002_B001",
+      "panel": "JOHN_09_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0084,
+        0.47,
+        0.0696
+      ],
+      "tail": [
+        0.265,
+        0.1059
+      ],
+      "text_key": "john.9.p2.b1"
+    },
+    {
+      "id": "JOHN_09_P002_B002",
+      "panel": "JOHN_09_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4622,
+        0.2882,
+        0.225,
+        0.1089
+      ],
+      "tail": [
+        0.5747,
+        0.425
+      ],
+      "text_key": "john.9.p2.b2"
+    },
+    {
+      "id": "JOHN_09_P002_B003",
+      "panel": "JOHN_09_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.76,
+        0.5701,
+        0.22,
+        0.0694
+      ],
+      "tail": [
+        0.87,
+        0.6829
+      ],
+      "text_key": "john.9.p2.b3"
+    }
+  ]
+}

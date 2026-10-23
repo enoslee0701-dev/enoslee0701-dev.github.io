@@ -1,0 +1,492 @@
+{
+  "john.9.p1.b1": {
+    "text": "Now as Jesus was passing by, He saw a man blind from birth,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p1.b2": {
+    "text": "“Rabbi, who sinned, this man or his parents, that he was born blind?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p2.b1": {
+    "text": "“Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p2.b2": {
+    "text": "While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p2.b3": {
+    "text": "While I am in the world, I am the light of the world.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p3.b1": {
+    "text": "When Jesus had said this, He spit on the ground, made some mud, and applied it to the man’s eyes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p3.b2": {
+    "text": "“Go, wash in the Pool of Siloam”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p3.b3": {
+    "text": "(which means “Sent”).",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p4.b1": {
+    "text": "So the man went and washed,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p4.b2": {
+    "text": "and came back seeing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p5.b1": {
+    "text": "“Isn’t this the man who used to sit and beg?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p5.b2": {
+    "text": "Some claimed that he was,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p5.b3": {
+    "text": "“No, he just looks like him.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p5.b4": {
+    "text": "“I am the one.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p6.b1": {
+    "text": "“How then were your eyes opened?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p6.b2": {
+    "text": "“The man they call Jesus made some mud and anointed my eyes, … So I went and washed and received my sight.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p6.b3": {
+    "text": "“Where is He?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p6.b4": {
+    "text": "“I do not know,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p7.b1": {
+    "text": "Now the day on which Jesus had made the mud and opened his eyes was a Sabbath.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p7.b2": {
+    "text": "“This man is not from God, for He does not keep the Sabbath.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p7.b3": {
+    "text": "“How can a sinful man perform such signs?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p7.b4": {
+    "text": "“He is a prophet,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p8.b1": {
+    "text": "“Is this your son, the one you say was born blind? So how is it that he can now see?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p8.b2": {
+    "text": "“We know he is our son, and we know he was born blind.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p8.b3": {
+    "text": "Ask him. He is old enough to speak for himself.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p8.b4": {
+    "text": "His parents said this because they were afraid of the Jews. For the Jews had already determined that anyone who confessed Jesus as the Christ would be put out of the synagogue.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p9.b1": {
+    "text": "So a second time they called for the man who had been blind",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p9.b2": {
+    "text": "“Give glory to God! We know that this man is a sinner.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p9.b3": {
+    "text": "“Whether He is a sinner I do not know.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p9.b4": {
+    "text": "There is one thing I do know: I was blind, but now I see!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p10.b1": {
+    "text": "“What did He do to you?” they asked. “How did He open your eyes?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p10.b2": {
+    "text": "… Do you also want to become His disciples?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p10.b3": {
+    "text": "“You are His disciple; we are disciples of Moses.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p10.b4": {
+    "text": "… but we do not know where this man is from.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p11.b1": {
+    "text": "“That is remarkable indeed!” the man said. “You do not know where He is from, and yet He opened my eyes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p11.b2": {
+    "text": "Never before has anyone heard of opening the eyes of a man born blind.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p11.b3": {
+    "text": "If this man were not from God, He could do no such thing.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p12.b1": {
+    "text": "“You were born in utter sin, and you are instructing us?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p12.b2": {
+    "text": "And they threw him out.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p13.b1": {
+    "text": "When Jesus heard that they had thrown him out, He found the man",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p13.b2": {
+    "text": "“Do you believe in the Son of Man ?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p13.b3": {
+    "text": "“Who is He, Sir?” he replied. “Tell me so that I may believe in Him.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p13.b4": {
+    "text": "“You have already seen Him,” Jesus answered. “He is the One speaking with you.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p14.b1": {
+    "text": "“Lord, I believe,”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p14.b2": {
+    "text": "And he worshiped Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p15.b1": {
+    "text": "“For judgment I have come into this world, so that the blind may see and those who see may become blind.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p15.b2": {
+    "text": "“Are we blind too?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p15.b3": {
+    "text": "“If you were blind,” Jesus replied, “you would not be guilty of sin.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.9.p15.b4": {
+    "text": "But since you claim you can see, your guilt remains.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "John 9:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "JOHN_18_P002",
+  "book": "john",
+  "chapter": 18,
+  "page": 2,
+  "ref": "18:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_18_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_18_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "你们要找谁？"
+      }
+    },
+    {
+      "id": "JOHN_18_P002_F2",
+      "box": [
+        0,
+        0.2702,
+        0.6104,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "找拿撒勒人耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_18_P002_F3",
+      "box": [
+        0.6201,
+        0.2702,
+        0.3799,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "我就是！"
+      }
+    },
+    {
+      "id": "JOHN_18_P002_F4",
+      "box": [
+        0,
+        0.5846,
+        1,
+        0.4154
+      ],
+      "alt": {
+        "zh-CN": "耶稣一说「我就是」，他们就向后退，倒在地上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_18_P002_B001",
+      "panel": "JOHN_18_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.008,
+        0.24,
+        0.0477
+      ],
+      "tail": [
+        0.14,
+        0.0822
+      ],
+      "text_key": "john.18.p2.b1"
+    },
+    {
+      "id": "JOHN_18_P002_B002",
+      "panel": "JOHN_18_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.3174,
+        0.2795,
+        0.2746,
+        0.0683
+      ],
+      "tail": [
+        0.4547,
+        0.3789
+      ],
+      "text_key": "john.18.p2.b2"
+    },
+    {
+      "id": "JOHN_18_P002_B003",
+      "panel": "JOHN_18_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.6353,
+        0.5186,
+        0.3495,
+        0.0527
+      ],
+      "tail": [
+        0.81,
+        0.5807
+      ],
+      "text_key": "john.18.p2.b3"
+    },
+    {
+      "id": "JOHN_18_P002_B004",
+      "panel": "JOHN_18_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.28,
+        0.5971,
+        0.44,
+        0.0747
+      ],
+      "tail": null,
+      "text_key": "john.18.p2.b4"
+    }
+  ]
+}

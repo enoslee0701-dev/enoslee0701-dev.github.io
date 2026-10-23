@@ -1,0 +1,115 @@
+{
+  "id": "JOHN_06_P021",
+  "book": "john",
+  "chapter": 6,
+  "page": 21,
+  "ref": "6:70-71",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_06_P021",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_06_P021_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "我不是拣选了你们十二个人吗？"
+      }
+    },
+    {
+      "id": "JOHN_06_P021_F2",
+      "box": [
+        0,
+        0.2682,
+        1,
+        0.1595
+      ],
+      "alt": {
+        "zh-CN": "但你们中间有一个是魔鬼。"
+      }
+    },
+    {
+      "id": "JOHN_06_P021_F3",
+      "box": [
+        0,
+        0.4316,
+        1,
+        0.3633
+      ],
+      "alt": {
+        "zh-CN": "耶稣这话是指加略人西门的儿子犹大说的；他是十二个门徒中的一个，后来要出卖耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_06_P021_F4",
+      "box": [
+        0,
+        0.7982,
+        1,
+        0.2018
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_06_P021_B001",
+      "panel": "JOHN_06_P021_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.0053,
+        0.4,
+        0.0422
+      ],
+      "tail": [
+        0.58,
+        0.0739
+      ],
+      "text_key": "john.6.p21.b1"
+    },
+    {
+      "id": "JOHN_06_P021_B002",
+      "panel": "JOHN_06_P021_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.2714,
+        0.42,
+        0.0287
+      ],
+      "tail": [
+        0.76,
+        0.3161
+      ],
+      "text_key": "john.6.p21.b2"
+    },
+    {
+      "id": "JOHN_06_P021_B003",
+      "panel": "JOHN_06_P021_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.4425,
+        0.39,
+        0.1089
+      ],
+      "tail": null,
+      "text_key": "john.6.p21.b3"
+    }
+  ]
+}

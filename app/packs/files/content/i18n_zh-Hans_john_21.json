@@ -1,0 +1,451 @@
+{
+  "john.21.p1.b1": {
+    "text": "这些事以后，耶稣在提比哩亚海边又向门徒显现。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠些事以⁠后，耶⁠稣在提比哩亚海⁠边又向门⁠徒显⁠现。"
+  },
+  "john.21.p1.b2": {
+    "text": "我打鱼去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我打⁠鱼去。"
+  },
+  "john.21.p1.b3": {
+    "text": "我们也和你同去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们也和你同⁠去。"
+  },
+  "john.21.p1.b4": {
+    "text": "他们就出去，上了船；那一夜并没有打着什么。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就出⁠去，上⁠了船；那一⁠夜并没⁠有打着什⁠么。"
+  },
+  "john.21.p2.b1": {
+    "text": "天将亮的时候，耶稣站在岸上，门徒却不知道是耶稣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "天将亮的时⁠候，耶⁠稣站⁠在岸⁠上，门⁠徒却不⁠知⁠道是耶⁠稣。"
+  },
+  "john.21.p2.b2": {
+    "text": "小子！你们有吃的没有？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "小⁠子！你⁠们有吃的没⁠有？"
+  },
+  "john.21.p2.b3": {
+    "text": "你们把网撒在船的右边，就必得着。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们把网撒在船的右⁠边，就必⁠得着。"
+  },
+  "john.21.p2.b4": {
+    "text": "他们便撒下网去，竟拉不上来了，因为鱼甚多。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们便撒⁠下网去，竟拉不⁠上⁠来了，因⁠为鱼甚⁠多。"
+  },
+  "john.21.p3.b1": {
+    "text": "是主！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p3.b2": {
+    "text": "那时西门·彼得赤着身子，一听见是主，就束上一件外衣，跳在海里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那⁠时西⁠门·彼⁠得赤着身⁠子，一听⁠见是主，就束上一⁠件外⁠衣，跳在海⁠里。"
+  },
+  "john.21.p3.b3": {
+    "text": "其余的门徒离岸不远，约有二百肘，就在小船上把那网鱼拉过来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "其⁠余的门⁠徒离岸不远，约有二⁠百肘，就⁠在小船⁠上把那网鱼拉⁠过⁠来。"
+  },
+  "john.21.p4.b1": {
+    "text": "他们上了岸，就看见那里有炭火，上面有鱼，又有饼。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们上⁠了岸，就看⁠见那⁠里有炭⁠火，上⁠面有鱼，又⁠有饼。"
+  },
+  "john.21.p4.b2": {
+    "text": "把刚才打的鱼拿几条来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "把刚⁠才打的鱼拿几条来。"
+  },
+  "john.21.p4.b3": {
+    "text": "那网满了大鱼，共一百五十三条；鱼虽这样多，网却没有破。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那网满⁠了大鱼，共一⁠百五⁠十三⁠条；鱼虽这⁠样多，网却⁠没⁠有破。"
+  },
+  "john.21.p5.b1": {
+    "text": "你们来吃早饭。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们来吃早⁠饭。"
+  },
+  "john.21.p5.b2": {
+    "text": "门徒中没有一个敢问他：「你是谁？」因为知道是主。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "门⁠徒中没⁠有一⁠个敢⁠问他：「你⁠是谁？」因⁠为知⁠道是主。"
+  },
+  "john.21.p5.b3": {
+    "text": "耶稣就来拿饼和鱼给他们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣就来拿饼和鱼给他⁠们。"
+  },
+  "john.21.p5.b4": {
+    "text": "耶稣从死里复活以后，向门徒显现，这是第三次。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣从死里复⁠活以⁠后，向门⁠徒显⁠现，这是第⁠三⁠次。"
+  },
+  "john.21.p6.b1": {
+    "text": "他们吃完了早饭，耶稣对西门·彼得说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们吃⁠完了早⁠饭，耶⁠稣对西⁠门·彼⁠得说："
+  },
+  "john.21.p6.b2": {
+    "text": "约翰的儿子西门，你爱我比这些更深吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠翰的儿⁠子西⁠门，你⁠爱我比这⁠些更⁠深吗？"
+  },
+  "john.21.p6.b3": {
+    "text": "主啊，是的，你知道我爱你。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主啊，是的，你知⁠道我⁠爱⁠你。"
+  },
+  "john.21.p6.b4": {
+    "text": "你喂养我的小羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你喂⁠养我⁠的小⁠羊。"
+  },
+  "john.21.p7.b1": {
+    "text": "耶稣第二次又对他说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣第⁠二⁠次又对他说："
+  },
+  "john.21.p7.b2": {
+    "text": "约翰的儿子西门，你爱我吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠翰的儿⁠子西⁠门，你⁠爱我⁠吗？"
+  },
+  "john.21.p7.b3": {
+    "text": "主啊，是的，你知道我爱你。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主啊，是的，你知⁠道我⁠爱⁠你。"
+  },
+  "john.21.p7.b4": {
+    "text": "你牧养我的羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你牧养我⁠的羊。"
+  },
+  "john.21.p8.b1": {
+    "text": "约翰的儿子西门，你爱我吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠翰的儿⁠子西⁠门，你⁠爱我⁠吗？"
+  },
+  "john.21.p8.b2": {
+    "text": "彼得因为耶稣第三次对他说「你爱我吗」，就忧愁，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠得因⁠为耶⁠稣第⁠三⁠次对他说「你⁠爱我⁠吗」，就忧⁠愁，"
+  },
+  "john.21.p8.b3": {
+    "text": "主啊，你是无所不知的；你知道我爱你。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主啊，你⁠是无⁠所不⁠知的；你知⁠道我⁠爱⁠你。"
+  },
+  "john.21.p8.b4": {
+    "text": "你喂养我的羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你喂⁠养我⁠的羊。"
+  },
+  "john.21.p9.b1": {
+    "text": "我实实在在地告诉你，你年少的时候，自己束上带子，随意往来；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我实实⁠在在地告⁠诉你，你年⁠少的时⁠候，自⁠己束上带⁠子，随⁠意往⁠来；"
+  },
+  "john.21.p9.b2": {
+    "text": "但年老的时候，你要伸出手来，别人要把你束上，带你到不愿意去的地方。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但年老的时⁠候，你⁠要伸⁠出手来，别⁠人要把你束上，带你到不愿⁠意去的地⁠方。"
+  },
+  "john.21.p9.b3": {
+    "text": "（耶稣说这话是指着彼得要怎样死，荣耀　神。）说了这话，就对他说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "（耶⁠稣说这话是指着彼⁠得要怎⁠样死，荣⁠耀　神。）说了这话，就对他说："
+  },
+  "john.21.p9.b4": {
+    "text": "你跟从我吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.21.p10.b1": {
+    "text": "彼得转过来，看见耶稣所爱的那门徒跟着，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "彼⁠得转⁠过⁠来，看⁠见耶⁠稣所爱⁠的那门⁠徒跟⁠着，"
+  },
+  "john.21.p10.b2": {
+    "text": "主啊，这人将来如何？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主啊，这人将⁠来如⁠何？"
+  },
+  "john.21.p10.b3": {
+    "text": "我若要他等到我来的时候，与你何干？你跟从我吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我若⁠要他等⁠到我⁠来的时⁠候，与你何⁠干？你跟从我吧！"
+  },
+  "john.21.p10.b4": {
+    "text": "于是这话传在弟兄中间，说那门徒不死。其实，耶稣不是说他不死……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是这话传在弟⁠兄中⁠间，说那门⁠徒不⁠死。其⁠实，耶⁠稣不⁠是说他不⁠死……"
+  },
+  "john.21.p11.b1": {
+    "text": "为这些事作见证，并且记载这些事的就是这门徒；我们也知道他的见证是真的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "为这⁠些事作见⁠证，并⁠且记⁠载这⁠些事的就⁠是这门⁠徒；我⁠们也知⁠道他⁠的见⁠证是真⁠的。"
+  },
+  "john.21.p11.b2": {
+    "text": "耶稣所行的事还有许多，若是一一地都写出来，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠稣所行的事还⁠有许⁠多，若⁠是一⁠一地都写出⁠来，"
+  },
+  "john.21.p11.b3": {
+    "text": "我想，所写的书就是世界也容不下了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "John 21:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠想，所写⁠的书就⁠是世⁠界也容⁠不⁠下了。"
+  }
+}

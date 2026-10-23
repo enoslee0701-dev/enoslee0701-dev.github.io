@@ -1,0 +1,118 @@
+{
+  "id": "JOHN_04_P012",
+  "book": "john",
+  "chapter": 4,
+  "page": 12,
+  "ref": "4:36-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_04_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_04_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "收割的人得到工钱，为永生积存果实，使撒种的和收割的一同快乐。"
+      }
+    },
+    {
+      "id": "JOHN_04_P012_F2",
+      "box": [
+        0,
+        0.2695,
+        0.5,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "俗话说：『这个人撒种，那个人收割』，这话真是不错。"
+      }
+    },
+    {
+      "id": "JOHN_04_P012_F3",
+      "box": [
+        0.5088,
+        0.2695,
+        0.4912,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "我差你们去收割你们没有付出劳苦的……"
+      }
+    },
+    {
+      "id": "JOHN_04_P012_F4",
+      "box": [
+        0,
+        0.5833,
+        1,
+        0.4167
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_04_P012_B001",
+      "panel": "JOHN_04_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.0053,
+        0.42,
+        0.053
+      ],
+      "tail": [
+        0.49,
+        0.0848
+      ],
+      "text_key": "john.4.p12.b1"
+    },
+    {
+      "id": "JOHN_04_P012_B002",
+      "panel": "JOHN_04_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.015,
+        0.2757,
+        0.47,
+        0.0494
+      ],
+      "tail": [
+        0.25,
+        0.356
+      ],
+      "text_key": "john.4.p12.b2"
+    },
+    {
+      "id": "JOHN_04_P012_B003",
+      "panel": "JOHN_04_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5334,
+        0.2757,
+        0.442,
+        0.0371
+      ],
+      "tail": [
+        0.7544,
+        0.3437
+      ],
+      "text_key": "john.4.p12.b3"
+    }
+  ]
+}

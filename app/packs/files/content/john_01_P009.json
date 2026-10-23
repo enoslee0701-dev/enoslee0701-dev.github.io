@@ -1,0 +1,139 @@
+{
+  "id": "JOHN_01_P009",
+  "book": "john",
+  "chapter": 1,
+  "page": 9,
+  "ref": "1:23-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_01_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_01_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2721
+      ],
+      "alt": {
+        "zh-CN": "他说：「我就是先知以赛亚所说的，在旷野呼喊的声音：『修直主的道路！』」"
+      }
+    },
+    {
+      "id": "JOHN_01_P009_F2",
+      "box": [
+        0,
+        0.2747,
+        0.4326,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "「你既不是基督，不是以利亚，也不是那位先知，为什么还要施洗？」"
+      }
+    },
+    {
+      "id": "JOHN_01_P009_F3",
+      "box": [
+        0.4375,
+        0.2747,
+        0.5625,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "「我是用水施洗，但有一位就站在你们中间，你们却不认识他，"
+      }
+    },
+    {
+      "id": "JOHN_01_P009_F4",
+      "box": [
+        0,
+        0.5807,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "就是在我以后来的那一位，我连给他解鞋带都不配。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_01_P009_B001",
+      "panel": "JOHN_01_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0109,
+        0.45,
+        0.0707
+      ],
+      "tail": [
+        0.745,
+        0.1088
+      ],
+      "text_key": "john.1.p9.b1"
+    },
+    {
+      "id": "JOHN_01_P009_B002",
+      "panel": "JOHN_01_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.013,
+        0.5169,
+        0.4066,
+        0.0544
+      ],
+      "tail": [
+        0.2163,
+        0.5774
+      ],
+      "text_key": "john.1.p9.b2"
+    },
+    {
+      "id": "JOHN_01_P009_B003",
+      "panel": "JOHN_01_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.2808,
+        0.5175,
+        0.0423
+      ],
+      "tail": [
+        0.7188,
+        0.3534
+      ],
+      "text_key": "john.1.p9.b3"
+    },
+    {
+      "id": "JOHN_01_P009_B004",
+      "panel": "JOHN_01_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5891,
+        0.55,
+        0.0545
+      ],
+      "tail": [
+        0.305,
+        0.6855
+      ],
+      "text_key": "john.1.p9.b4"
+    }
+  ]
+}

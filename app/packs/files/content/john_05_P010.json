@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_05_P010",
+  "book": "john",
+  "chapter": 5,
+  "page": 10,
+  "ref": "5:30-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "我凭着自己不能做什么，我怎么听见就怎么审判。我的审判也是公正的……"
+      }
+    },
+    {
+      "id": "JOHN_05_P010_F2",
+      "box": [
+        0,
+        0.2721,
+        1,
+        0.4102
+      ],
+      "alt": {
+        "zh-CN": "我若为自己作见证，我的见证就不真实。"
+      }
+    },
+    {
+      "id": "JOHN_05_P010_F3",
+      "box": [
+        0,
+        0.6868,
+        1,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "另有一位为我作见证，我也知道他为我作的见证是真实的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P010_B001",
+      "panel": "JOHN_05_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.008,
+        0.48,
+        0.0643
+      ],
+      "tail": [
+        0.27,
+        0.0991
+      ],
+      "text_key": "john.5.p10.b1"
+    },
+    {
+      "id": "JOHN_05_P010_B002",
+      "panel": "JOHN_05_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.2844,
+        0.5,
+        0.0738
+      ],
+      "tail": [
+        0.5,
+        0.3992
+      ],
+      "text_key": "john.5.p10.b2"
+    },
+    {
+      "id": "JOHN_05_P010_B003",
+      "panel": "JOHN_05_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6962,
+        0.42,
+        0.0751
+      ],
+      "tail": [
+        0.76,
+        0.8026
+      ],
+      "text_key": "john.5.p10.b3"
+    }
+  ]
+}

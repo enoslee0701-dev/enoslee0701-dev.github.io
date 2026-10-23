@@ -1,0 +1,302 @@
+{
+  "john.2.p1.b1": {
+    "text": "三日目にガリラヤのカナに婚礼があって、イエスの母がそこにいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p1.b2": {
+    "text": "イエスも弟子たちも、その婚礼に招かれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p1.b3": {
+    "text": "「ぶどう酒がなくなってしまいました」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p2.b1": {
+    "text": "「婦人よ、あなたは、わたしと、なんの係わりがありますか。わたしの時は、まだきていません」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p2.b2": {
+    "text": "「このかたが、あなたがたに言いつけることは、なんでもして下さい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p3.b1": {
+    "text": "そこには、ユダヤ人のきよめのならわしに従って、それぞれ四、五斗もはいる石の水がめが、六つ置いてあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p3.b2": {
+    "text": "「かめに水をいっぱい入れなさい」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p3.b3": {
+    "text": "彼らは口のところまでいっぱいに入れた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p3.b4": {
+    "text": "「さあ、くんで、料理がしらのところに持って行きなさい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p4.b1": {
+    "text": "料理がしらは、ぶどう酒になった水をなめてみたが、それがどこからきたのか知らなかった … （水をくんだ僕たちは知っていた）",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p4.b2": {
+    "text": "「どんな人でも、初めによいぶどう酒を出して、酔いがまわったころにわるいのを出すものだ。それだのに、あなたはよいぶどう酒を今までとっておかれました」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p4.b3": {
+    "text": "イエスは、この最初のしるしを … 行い、その栄光を現された。そして弟子たちはイエスを信じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p5.b1": {
+    "text": "そののち、イエスは、その母、兄弟たち、弟子たちと一緒に、カペナウムに下って、幾日かそこにとどまられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p5.b2": {
+    "text": "さて、ユダヤ人の過越の祭が近づいたので、イエスはエルサレムに上られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p5.b3": {
+    "text": "そして牛、羊、はとを売る者や両替する者などが宮の庭にすわり込んでいるのをごらんになって、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p6.b1": {
+    "text": "なわでむちを造り、羊も牛もみな宮から追いだし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p6.b2": {
+    "text": "両替人の金を散らし、その台をひっくりかえし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p6.b3": {
+    "text": "「これらのものを持って、ここから出て行け。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p6.b4": {
+    "text": "わたしの父の家を商売の家とするな」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p7.b1": {
+    "text": "弟子たちは、… と書いてあることを思い出した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p7.b2": {
+    "text": "「あなたの家を思う熱心が、わたしを食いつくすであろう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p7.b3": {
+    "text": "「こんなことをするからには、どんなしるしをわたしたちに見せてくれますか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p8.b1": {
+    "text": "「この神殿をこわしたら、わたしは三日のうちに、それを起すであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p8.b2": {
+    "text": "「この神殿を建てるのには、四十六年もかかっています。それだのに、あなたは三日のうちに、それを建てるのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p9.b1": {
+    "text": "イエスは自分のからだである神殿のことを言われたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p9.b2": {
+    "text": "それで、イエスが死人の中からよみがえったとき、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p9.b3": {
+    "text": "弟子たちはイエスがこう言われたことを思い出して、聖書とイエスのこの言葉とを信じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p10.b1": {
+    "text": "過越の祭の間、イエスがエルサレムに滞在しておられたとき、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p10.b2": {
+    "text": "多くの人々は、その行われたしるしを見て、イエスの名を信じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john.2.p10.b3": {
+    "text": "しかしイエスご自身は、彼らに自分をお任せにならなかった。それは、すべての人を知っておられ、 また人についてあかしする者を、必要とされなかったからである。それは、ご自身人の心の中にあることを知っておられたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "John 2:24-25"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

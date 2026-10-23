@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_07_P008",
+  "book": "john",
+  "chapter": 7,
+  "page": 8,
+  "ref": "7:32-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_07_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_07_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2051
+      ],
+      "alt": {
+        "zh-CN": "法利赛人听见群众这样议论耶稣，祭司长和法利赛人就派差役去捉拿他。"
+      }
+    },
+    {
+      "id": "JOHN_07_P008_F2",
+      "box": [
+        0,
+        0.2096,
+        0.5525,
+        0.2154
+      ]
+    },
+    {
+      "id": "JOHN_07_P008_F3",
+      "box": [
+        0,
+        0.2096,
+        1,
+        0.7904
+      ],
+      "alt": {
+        "zh-CN": "我和你们在一起的时候不多了，以后就回到差我来的那位那里去。／你们要找我，却找不着；我所在的地方，你们不能去。"
+      }
+    },
+    {
+      "id": "JOHN_07_P008_F4",
+      "box": [
+        0.5025,
+        0.704,
+        0.4975,
+        0.296
+      ],
+      "alt": {
+        "zh-CN": "这个人要往哪里去，让我们找不着呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_07_P008_B001",
+      "panel": "JOHN_07_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0062,
+        0.42,
+        0.041
+      ],
+      "tail": null,
+      "text_key": "john.7.p8.b1"
+    },
+    {
+      "id": "JOHN_07_P008_B002",
+      "panel": "JOHN_07_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.2175,
+        0.4,
+        0.0671
+      ],
+      "tail": [
+        0.77,
+        0.3636
+      ],
+      "text_key": "john.7.p8.b2"
+    },
+    {
+      "id": "JOHN_07_P008_B003",
+      "panel": "JOHN_07_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.7202,
+        0.24,
+        0.1185
+      ],
+      "tail": [
+        0.13,
+        0.9177
+      ],
+      "text_key": "john.7.p8.b3"
+    },
+    {
+      "id": "JOHN_07_P008_B004",
+      "panel": "JOHN_07_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5174,
+        0.8609,
+        0.189,
+        0.1302
+      ],
+      "tail": [
+        0.6119,
+        1
+      ],
+      "text_key": "john.7.p8.b4"
+    }
+  ]
+}

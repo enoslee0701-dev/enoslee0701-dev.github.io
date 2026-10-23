@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_12_P010",
+  "book": "john",
+  "chapter": 12,
+  "page": 10,
+  "ref": "12:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_12_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_12_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ]
+    },
+    {
+      "id": "JOHN_12_P010_F2",
+      "box": [
+        0,
+        0.2415,
+        1,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "人子得荣耀的时候到了。"
+      }
+    },
+    {
+      "id": "JOHN_12_P010_F3",
+      "box": [
+        0,
+        0.4421,
+        1,
+        0.3555
+      ]
+    },
+    {
+      "id": "JOHN_12_P010_F4",
+      "box": [
+        0,
+        0.8014,
+        1,
+        0.1986
+      ],
+      "alt": {
+        "zh-CN": "如果死了，就会结出许多子粒来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_12_P010_B001",
+      "panel": "JOHN_12_P010_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.2611,
+        0.36,
+        0.1568
+      ],
+      "tail": [
+        0.2,
+        0.4375
+      ],
+      "text_key": "john.12.p10.b1"
+    },
+    {
+      "id": "JOHN_12_P010_B002",
+      "panel": "JOHN_12_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.4528,
+        0.47,
+        0.0639
+      ],
+      "tail": [
+        0.735,
+        0.5522
+      ],
+      "text_key": "john.12.p10.b2"
+    },
+    {
+      "id": "JOHN_12_P010_B003",
+      "panel": "JOHN_12_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.7052,
+        0.5,
+        0.0782
+      ],
+      "tail": [
+        0.28,
+        0.7976
+      ],
+      "text_key": "john.12.p10.b3"
+    },
+    {
+      "id": "JOHN_12_P010_B004",
+      "panel": "JOHN_12_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.8093,
+        0.45,
+        0.0516
+      ],
+      "tail": [
+        0.245,
+        0.8808
+      ],
+      "text_key": "john.12.p10.b4"
+    }
+  ]
+}

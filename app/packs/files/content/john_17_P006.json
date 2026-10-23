@@ -1,0 +1,97 @@
+{
+  "id": "JOHN_17_P006",
+  "book": "john",
+  "chapter": 17,
+  "page": 6,
+  "ref": "17:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_17_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_17_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2233
+      ],
+      "alt": {
+        "zh-CN": "……世人恨他们，因为他们不属于世界，正像我不属于世界一样。"
+      }
+    },
+    {
+      "id": "JOHN_17_P006_F2",
+      "box": [
+        0,
+        0.2285,
+        0.3633,
+        0.39
+      ]
+    },
+    {
+      "id": "JOHN_17_P006_F3",
+      "box": [
+        0.3721,
+        0.2285,
+        0.6279,
+        0.7715
+      ],
+      "alt": {
+        "zh-CN": "我不求你使他们离开世界，只求你保护他们脱离那恶者。"
+      }
+    },
+    {
+      "id": "JOHN_17_P006_F4",
+      "box": [
+        0,
+        0.6237,
+        0.3633,
+        0.3763
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_17_P006_B001",
+      "panel": "JOHN_17_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.36,
+        0.0067,
+        0.6,
+        0.0535
+      ],
+      "tail": [
+        0.66,
+        0.0825
+      ],
+      "text_key": "john.17.p6.b1"
+    },
+    {
+      "id": "JOHN_17_P006_B002",
+      "panel": "JOHN_17_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.6547,
+        0.2516,
+        0.3265,
+        0.1311
+      ],
+      "tail": [
+        0.818,
+        0.4599
+      ],
+      "text_key": "john.17.p6.b2"
+    }
+  ]
+}

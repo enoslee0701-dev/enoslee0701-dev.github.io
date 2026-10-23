@@ -1,0 +1,133 @@
+{
+  "id": "JOHN_20_P006",
+  "book": "john",
+  "chapter": 20,
+  "page": 6,
+  "ref": "20:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "说完，她转过身来，看见耶稣站在那里，却不知道是耶稣。"
+      }
+    },
+    {
+      "id": "JOHN_20_P006_F2",
+      "box": [
+        0,
+        0.2337,
+        1,
+        0.3463
+      ],
+      "alt": {
+        "zh-CN": "耶稣问她：「你为什么哭？你在找谁？」"
+      }
+    },
+    {
+      "id": "JOHN_20_P006_F3",
+      "box": [
+        0,
+        0.585,
+        0.4313,
+        0.415
+      ],
+      "alt": {
+        "zh-CN": "马利亚以为他是看园子的人，"
+      }
+    },
+    {
+      "id": "JOHN_20_P006_F4",
+      "box": [
+        0.4375,
+        0.585,
+        0.5625,
+        0.415
+      ],
+      "alt": {
+        "zh-CN": "就说：「先生，如果是你把他搬走了，请告诉我你放在哪里，我去把他带回来。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P006_B001",
+      "panel": "JOHN_20_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0092,
+        0.4,
+        0.0508
+      ],
+      "tail": null,
+      "text_key": "john.20.p6.b1"
+    },
+    {
+      "id": "JOHN_20_P006_B002",
+      "panel": "JOHN_20_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2545,
+        0.34,
+        0.09
+      ],
+      "tail": [
+        0.2,
+        0.3791
+      ],
+      "text_key": "john.20.p6.b2"
+    },
+    {
+      "id": "JOHN_20_P006_B003",
+      "panel": "JOHN_20_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0173,
+        0.5933,
+        0.3967,
+        0.0415
+      ],
+      "tail": null,
+      "text_key": "john.20.p6.b3"
+    },
+    {
+      "id": "JOHN_20_P006_B004",
+      "panel": "JOHN_20_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.64,
+        0.5933,
+        0.3487,
+        0.0415
+      ],
+      "tail": [
+        0.8144,
+        0.6763
+      ],
+      "text_key": "john.20.p6.b4"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "JOHN_05_P008",
+  "book": "john",
+  "chapter": 5,
+  "page": 8,
+  "ref": "5:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_05_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_05_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2135
+      ],
+      "alt": {
+        "zh-CN": "父怎样使死人复活，赐给他们生命，子也照样随自己的意思赐人生命。"
+      }
+    },
+    {
+      "id": "JOHN_05_P008_F2",
+      "box": [
+        0,
+        0.2183,
+        0.39,
+        0.365
+      ],
+      "alt": {
+        "zh-CN": "……不尊敬子的，就是不尊敬差子来的父。"
+      }
+    },
+    {
+      "id": "JOHN_05_P008_F3",
+      "box": [
+        0,
+        0.2181,
+        1,
+        0.7819
+      ],
+      "alt": {
+        "zh-CN": "我实实在在地告诉你们，听我的话、又信差我来那一位的人，就有永生；不会被定罪，而是已经出死入生了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_05_P008_B001",
+      "panel": "JOHN_05_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.0064,
+        0.47,
+        0.0512
+      ],
+      "tail": [
+        0.735,
+        0.079
+      ],
+      "text_key": "john.5.p8.b1"
+    },
+    {
+      "id": "JOHN_05_P008_B002",
+      "panel": "JOHN_05_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0195,
+        0.2256,
+        0.351,
+        0.073
+      ],
+      "tail": [
+        0.195,
+        0.3351
+      ],
+      "text_key": "john.5.p8.b2"
+    },
+    {
+      "id": "JOHN_05_P008_B003",
+      "panel": "JOHN_05_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.29,
+        0.7349,
+        0.25,
+        0.1251
+      ],
+      "tail": [
+        0.415,
+        0.9382
+      ],
+      "text_key": "john.5.p8.b3"
+    }
+  ]
+}

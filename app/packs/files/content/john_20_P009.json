@@ -1,0 +1,127 @@
+{
+  "id": "JOHN_20_P009",
+  "book": "john",
+  "chapter": 20,
+  "page": 9,
+  "ref": "20:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN_20_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN_20_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "那一天，就是七日的第一日，到了晚上，门徒因为怕犹太人，把聚会地方的门都关上了。"
+      }
+    },
+    {
+      "id": "JOHN_20_P009_F2",
+      "box": [
+        0,
+        0.248,
+        0.293,
+        0.3952
+      ]
+    },
+    {
+      "id": "JOHN_20_P009_F3",
+      "box": [
+        0.2969,
+        0.248,
+        0.7031,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "耶稣来了，站在他们中间，对他们说：「愿你们平安！」"
+      }
+    },
+    {
+      "id": "JOHN_20_P009_F4",
+      "box": [
+        0,
+        0.6465,
+        1,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "说完，他把手和肋旁给他们看。门徒看见了主，就满心喜乐。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN_20_P009_B001",
+      "panel": "JOHN_20_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.0098,
+        0.44,
+        0.0634
+      ],
+      "tail": null,
+      "text_key": "john.20.p9.b1"
+    },
+    {
+      "id": "JOHN_20_P009_B002",
+      "panel": "JOHN_20_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.318,
+        0.2599,
+        0.232,
+        0.079
+      ],
+      "tail": null,
+      "text_key": "john.20.p9.b2"
+    },
+    {
+      "id": "JOHN_20_P009_B003",
+      "panel": "JOHN_20_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6555,
+        0.2599,
+        0.1687,
+        0.0513
+      ],
+      "tail": [
+        0.7399,
+        0.3507
+      ],
+      "text_key": "john.20.p9.b3"
+    },
+    {
+      "id": "JOHN_20_P009_B004",
+      "panel": "JOHN_20_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.9293,
+        0.4,
+        0.0565
+      ],
+      "tail": null,
+      "text_key": "john.20.p9.b4"
+    }
+  ]
+}
