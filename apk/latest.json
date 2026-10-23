@@ -1,31 +1,31 @@
 {
-  "build": 78,
+  "build": 79,
   "version": "1.1.0",
-  "published": "2026-10-23T05:28:47.485Z",
+  "published": "2026-10-23T08:45:09.485Z",
   "notes": {
-    "zh-Hans": "修正：学习模式里点画面能显示 / 隐藏工具栏、退出全屏；只有点到文字才弹出学习框；按返回先退出学习模式。",
-    "en": "Fix: in study mode, tapping the picture shows or hides the toolbar again; only tapping text opens the study panel; Back leaves study mode first."
+    "zh-Hans": "约翰福音 21 章上线，四福音全部可读；修正问题、改进阅读体验。",
+    "en": "Gospel of John (21 chapters) is here — all four Gospels are now available. Fixes and reading improvements."
   },
   "assets": {
     "zh-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-zh-arm64.apk",
-      "size": 81509446,
-      "sha256": "2844242c797889c18924eb87aa9abca975c19c186f3e1e915c939b0cecdcecaf"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b79/bible-comics-zh-arm64.apk",
+      "size": 81767286,
+      "sha256": "dd0f08c92369528bc155f9d9b2a89f352c93ed4777d0884011a4fac9f1f4c4b2"
     },
     "zh-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-zh-armv7.apk",
-      "size": 79278606,
-      "sha256": "2960661413bd0a6603f363e841f3b50c9e4008fb4a5160eccf24e167b47bdaac"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b79/bible-comics-zh-armv7.apk",
+      "size": 79536446,
+      "sha256": "1bb53e356d04b59d179a81a2a3742a0b1a4972f4eff9f2a336db06f65d56cc9f"
     },
     "en-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-en-arm64.apk",
-      "size": 81511002,
-      "sha256": "d14643335f8c313844ee1a801c56e3a26f7093800b995a723766b80837a9d77b"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b79/bible-comics-en-arm64.apk",
+      "size": 81776414,
+      "sha256": "6195e5d98737b7d2b1c7c28fbfa6e287894612549287eddcd470aa411072acea"
     },
     "en-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-en-armv7.apk",
-      "size": 79280162,
-      "sha256": "893a256281e0df5e9035d24650ff7a309b4a95208962ec0bf33d35df1da25952"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b79/bible-comics-en-armv7.apk",
+      "size": 79545574,
+      "sha256": "362dd55faf4cc9ee00c3308fa079ea59aad3e717f5802aff56198c8027865bd9"
     }
   }
 }
