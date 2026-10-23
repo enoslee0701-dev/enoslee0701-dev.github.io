@@ -1,31 +1,31 @@
 {
-  "build": 77,
+  "build": 78,
   "version": "1.1.0",
-  "published": "2026-10-23T05:07:14.238Z",
+  "published": "2026-10-23T05:28:47.485Z",
   "notes": {
-    "zh-Hans": "学习模式：在漫画上直接点一个词，就能看它在这句话里的翻译、听发音；界面语言跟随手机；图标改成方形。",
-    "en": "Study mode: tap a word right in the comic to see its translation in that sentence and hear it; the app follows your phone's language; square icon."
+    "zh-Hans": "修正：学习模式里点画面能显示 / 隐藏工具栏、退出全屏；只有点到文字才弹出学习框；按返回先退出学习模式。",
+    "en": "Fix: in study mode, tapping the picture shows or hides the toolbar again; only tapping text opens the study panel; Back leaves study mode first."
   },
   "assets": {
     "zh-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-zh-arm64.apk",
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-zh-arm64.apk",
       "size": 81509446,
-      "sha256": "03d3943b4b4df46ab1c09737d8c86a8521a0d950b77f4eae8b2abe3427bd76e3"
+      "sha256": "2844242c797889c18924eb87aa9abca975c19c186f3e1e915c939b0cecdcecaf"
     },
     "zh-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-zh-armv7.apk",
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-zh-armv7.apk",
       "size": 79278606,
-      "sha256": "89a49edfb370a2fc9c7793303cbc2a4094d2e4b2d8d41ef6168d24eb7e42228a"
+      "sha256": "2960661413bd0a6603f363e841f3b50c9e4008fb4a5160eccf24e167b47bdaac"
     },
     "en-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-en-arm64.apk",
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-en-arm64.apk",
       "size": 81511002,
-      "sha256": "cb5eefda3132f2c9afd883fa3471ed2226535284a740a809b8396efd71150d79"
+      "sha256": "d14643335f8c313844ee1a801c56e3a26f7093800b995a723766b80837a9d77b"
     },
     "en-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-en-armv7.apk",
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b78/bible-comics-en-armv7.apk",
       "size": 79280162,
-      "sha256": "23b2c102cb872614b7e509f259a149a14569758baff94886a3163c07eea28562"
+      "sha256": "893a256281e0df5e9035d24650ff7a309b4a95208962ec0bf33d35df1da25952"
     }
   }
 }
