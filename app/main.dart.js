@@ -59144,21 +59144,25 @@ d=a0?n.gt8():n.gzd()
 c=a0?n.gv8():n.gB0()
 b=r==null?a:r.d
 return A.a([new A.a9t(q,l>k,j,i,a),new A.PP(h,g,"flame",new A.aP3(a2),8,a),new A.a9B(f,a),new A.aaT(e,a),new A.PP(d,c,a,new A.aP4(s,a2,a1),11,a),new A.a7p(a1,p,a0,b,o,new A.aP5(this,a2,a1,s),a)],t.p)},
-auV(a,b){var s,r,q,p,o,n,m,l,k,j=a.a,i=a.cL("PEOPLE")
-i=A.dY(new A.a8(i,new A.aP2(),A.X(i).i("a8<1>")))
-s=A.b5(i==null?null:J.da(i,"img"))
-i=t.UQ
-r=A.a([],i)
+auV(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=a.a,f=a.cL("PEOPLE")
+f=A.dY(new A.a8(f,new A.aP2(),A.X(f).i("a8<1>")))
+s=A.b5(f==null?null:J.da(f,"img"))
+f=t.UQ
+r=A.a([],f)
 for(q=a.cL("COMING"),p=q.length,o=0;o<q.length;q.length===p||(0,A.n)(q),++o){n=q[o]
-r.push(new A.Cl(A.a4(n.h(0,"name")),A.a4(n.h(0,"desc")),b.gff(),A.b5(n.h(0,"img")),null,!1))}q=B.b.gU(j.c.split("\uff0c"))
-p=b.kQ(j.y.length)
-m=s==null?j.z:s
-l=new A.Cl(j.b,q,p,m,"/works/"+j.a,!0)
+r.push(new A.Cl(A.a4(n.h(0,"name")),A.a4(n.h(0,"desc")),b.gff(),A.b5(n.h(0,"img")),null,!1))}q=B.b.gU(g.c.split("\uff0c"))
+p=b.kQ(g.y.length)
+m=s==null?g.z:s
+l=new A.Cl(g.b,q,p,m,"/works/"+g.a,!0)
 B.b.fW(r,Math.min(3,r.length),l)
 m=B.b.dR(r,l)
-i=A.a([],i)
+f=A.a([],f)
 for(q=a.b,p=q.length,o=0;o<q.length;q.length===p||(0,A.n)(q),++o){k=q[o]
-i.push(new A.Cl(k.b,B.b.gU(k.c.split("\uff0c")),b.kQ(k.y.length),k.z,"/works/"+k.a,!0))}B.b.qo(r,m+1,i)
+j=B.b.gU(k.c.split("\uff0c"))
+i=b.kQ(k.y.length)
+h=k.Q
+if(h==null)h=k.z
+f.push(new A.Cl(k.b,j,i,h,"/works/"+k.a,!0))}B.b.qo(r,m+1,f)
 return r}}
 A.aP6.prototype={
 $1(a){var s=this.a
