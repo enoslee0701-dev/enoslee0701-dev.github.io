@@ -1,0 +1,31 @@
+{
+  "build": 77,
+  "version": "1.1.0",
+  "published": "2026-10-23T05:07:14.238Z",
+  "notes": {
+    "zh-Hans": "学习模式：在漫画上直接点一个词，就能看它在这句话里的翻译、听发音；界面语言跟随手机；图标改成方形。",
+    "en": "Study mode: tap a word right in the comic to see its translation in that sentence and hear it; the app follows your phone's language; square icon."
+  },
+  "assets": {
+    "zh-arm64": {
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-zh-arm64.apk",
+      "size": 81509446,
+      "sha256": "03d3943b4b4df46ab1c09737d8c86a8521a0d950b77f4eae8b2abe3427bd76e3"
+    },
+    "zh-armv7": {
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-zh-armv7.apk",
+      "size": 79278606,
+      "sha256": "89a49edfb370a2fc9c7793303cbc2a4094d2e4b2d8d41ef6168d24eb7e42228a"
+    },
+    "en-arm64": {
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-en-arm64.apk",
+      "size": 81511002,
+      "sha256": "cb5eefda3132f2c9afd883fa3471ed2226535284a740a809b8396efd71150d79"
+    },
+    "en-armv7": {
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b77/bible-comics-en-armv7.apk",
+      "size": 79280162,
+      "sha256": "23b2c102cb872614b7e509f259a149a14569758baff94886a3163c07eea28562"
+    }
+  }
+}
