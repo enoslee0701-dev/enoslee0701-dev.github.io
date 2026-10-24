@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_23_P004",
+  "book": "acts",
+  "chapter": 23,
+  "page": 4,
+  "ref": "23:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "于是大声喧闹起来。有几个属法利赛派的经学家站起来，激烈地争辩说：「我们看不出这人有什么错！或许有灵或天使对他说过话呢？」"
+      }
+    },
+    {
+      "id": "ACTS_23_P004_F2",
+      "box": [
+        0,
+        0.3307,
+        0.5977,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "争论越来越激烈，千夫长怕保罗被他们撕成碎片，"
+      }
+    },
+    {
+      "id": "ACTS_23_P004_F3",
+      "box": [
+        0.6064,
+        0.3307,
+        0.3936,
+        0.2819
+      ]
+    },
+    {
+      "id": "ACTS_23_P004_F4",
+      "box": [
+        0,
+        0.6159,
+        1,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "就命令士兵下去，把他从他们当中抢出来，带进营楼。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P004_B010",
+      "panel": "ACTS_23_P004_F1",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0098,
+        0.42,
+        0.0126
+      ],
+      "tail": null,
+      "text_key": "acts.23.p4.b10"
+    },
+    {
+      "id": "ACTS_23_P004_B011",
+      "panel": "ACTS_23_P004_F1",
+      "order": 11,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.55,
+        0.029,
+        0.42,
+        0.0394
+      ],
+      "tail": [
+        0.76,
+        0.101
+      ],
+      "text_key": "acts.23.p4.b11"
+    },
+    {
+      "id": "ACTS_23_P004_B012",
+      "panel": "ACTS_23_P004_F2",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0239,
+        0.5506,
+        0.5498,
+        0.0535
+      ],
+      "tail": null,
+      "text_key": "acts.23.p4.b12"
+    },
+    {
+      "id": "ACTS_23_P004_B013",
+      "panel": "ACTS_23_P004_F4",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6274,
+        0.42,
+        0.0499
+      ],
+      "tail": null,
+      "text_key": "acts.23.p4.b13"
+    }
+  ]
+}

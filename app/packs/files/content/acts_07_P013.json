@@ -1,0 +1,82 @@
+{
+  "id": "ACTS_07_P013",
+  "book": "acts",
+  "chapter": 7,
+  "page": 13,
+  "ref": "7:54-55",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P013_F1",
+      "box": [
+        0,
+        0,
+        0.5791,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "众人听了这些话非常愤怒，对司提反咬牙切齿。"
+      }
+    },
+    {
+      "id": "ACTS_07_P013_F2",
+      "box": [
+        0.5869,
+        0,
+        0.4131,
+        0.2988
+      ]
+    },
+    {
+      "id": "ACTS_07_P013_F3",
+      "box": [
+        0,
+        0.3034,
+        1,
+        0.6966
+      ],
+      "alt": {
+        "zh-CN": "但司提反被圣灵充满，定睛望着天，看见　神的荣耀，也看见耶稣站在　神的右边。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P013_B001",
+      "panel": "ACTS_07_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0232,
+        0.2092,
+        0.5327,
+        0.0776
+      ],
+      "tail": null,
+      "text_key": "acts.7.p13.b1"
+    },
+    {
+      "id": "ACTS_07_P013_B002",
+      "panel": "ACTS_07_P013_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.3243,
+        0.42,
+        0.1044
+      ],
+      "tail": null,
+      "text_key": "acts.7.p13.b2"
+    }
+  ]
+}

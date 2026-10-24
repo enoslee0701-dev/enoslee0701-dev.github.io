@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_02_P005",
+  "book": "acts",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2689
+      ],
+      "alt": {
+        "zh-CN": "「……都听见他们用我们家乡的话，讲述　神的大作为。」"
+      }
+    },
+    {
+      "id": "ACTS_02_P005_F2",
+      "box": [
+        0,
+        0.2728,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "「这是什么意思呢？」"
+      }
+    },
+    {
+      "id": "ACTS_02_P005_F3",
+      "box": [
+        0,
+        0.498,
+        1,
+        0.502
+      ],
+      "alt": {
+        "zh-CN": "「他们不过是新酒喝多了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P005_B001",
+      "panel": "ACTS_02_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.0081,
+        0.55,
+        0.0403
+      ],
+      "tail": [
+        0.305,
+        0.0753
+      ],
+      "text_key": "acts.2.p5.b1"
+    },
+    {
+      "id": "ACTS_02_P005_B002",
+      "panel": "ACTS_02_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.84,
+        0.2794,
+        0.14,
+        0.0487
+      ],
+      "tail": [
+        0.91,
+        0.3502
+      ],
+      "text_key": "acts.2.p5.b2"
+    },
+    {
+      "id": "ACTS_02_P005_B003",
+      "panel": "ACTS_02_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.508,
+        0.38,
+        0.0502
+      ],
+      "tail": [
+        0.79,
+        0.6084
+      ],
+      "text_key": "acts.2.p5.b3"
+    }
+  ]
+}

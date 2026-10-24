@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_07_P010",
+  "book": "acts",
+  "chapter": 7,
+  "page": 10,
+  "ref": "7:44-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3372
+      ],
+      "alt": {
+        "zh-CN": "我们的祖先在旷野里，有放约柜的帐幕，"
+      }
+    },
+    {
+      "id": "ACTS_07_P010_F2",
+      "box": [
+        0,
+        0.3398,
+        0.498,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "……他们和约书亚一起把帐幕搬进得为产业的地，一直留到大卫的时候。"
+      }
+    },
+    {
+      "id": "ACTS_07_P010_F3",
+      "box": [
+        0.5039,
+        0.3398,
+        0.4961,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "大卫在　神面前蒙恩，求为雅各的　神预备住处；"
+      }
+    },
+    {
+      "id": "ACTS_07_P010_F4",
+      "box": [
+        0,
+        0.6673,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "可是为　神盖成殿的是所罗门。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P010_B001",
+      "panel": "ACTS_07_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0101,
+        0.5,
+        0.0573
+      ],
+      "tail": [
+        0.28,
+        0.1011
+      ],
+      "text_key": "acts.7.p10.b1"
+    },
+    {
+      "id": "ACTS_07_P010_B002",
+      "panel": "ACTS_07_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6056,
+        0.4581,
+        0.0486
+      ],
+      "tail": [
+        0.249,
+        0.664
+      ],
+      "text_key": "acts.7.p10.b2"
+    },
+    {
+      "id": "ACTS_07_P010_B003",
+      "panel": "ACTS_07_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7271,
+        0.3495,
+        0.2579,
+        0.0713
+      ],
+      "tail": [
+        0.8561,
+        0.4532
+      ],
+      "text_key": "acts.7.p10.b3"
+    },
+    {
+      "id": "ACTS_07_P010_B004",
+      "panel": "ACTS_07_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6806,
+        0.42,
+        0.0532
+      ],
+      "tail": [
+        0.76,
+        0.7671
+      ],
+      "text_key": "acts.7.p10.b4"
+    }
+  ]
+}

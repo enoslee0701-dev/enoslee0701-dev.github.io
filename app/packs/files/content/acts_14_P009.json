@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_14_P009",
+  "book": "acts",
+  "chapter": 14,
+  "page": 9,
+  "ref": "14:24-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_14_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_14_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.194
+      ],
+      "alt": {
+        "zh-CN": "他们经过彼西底，来到旁非利亚，"
+      }
+    },
+    {
+      "id": "ACTS_14_P009_F2",
+      "box": [
+        0,
+        0.1979,
+        0.5713,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "在别加传了道，就下到亚大利，"
+      }
+    },
+    {
+      "id": "ACTS_14_P009_F3",
+      "box": [
+        0.5781,
+        0.1979,
+        0.4219,
+        0.3281
+      ]
+    },
+    {
+      "id": "ACTS_14_P009_F4",
+      "box": [
+        0,
+        0.5299,
+        1,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "从那里坐船回安提阿。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_14_P009_B031",
+      "panel": "ACTS_14_P009_F1",
+      "order": 31,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0078,
+        0.42,
+        0.0465
+      ],
+      "tail": null,
+      "text_key": "acts.14.p9.b31"
+    },
+    {
+      "id": "ACTS_14_P009_B032",
+      "panel": "ACTS_14_P009_F2",
+      "order": 32,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3314,
+        0.2077,
+        0.2285,
+        0.0393
+      ],
+      "tail": null,
+      "text_key": "acts.14.p9.b32"
+    },
+    {
+      "id": "ACTS_14_P009_B033",
+      "panel": "ACTS_14_P009_F4",
+      "order": 33,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.544,
+        0.42,
+        0.0658
+      ],
+      "tail": null,
+      "text_key": "acts.14.p9.b33"
+    }
+  ]
+}

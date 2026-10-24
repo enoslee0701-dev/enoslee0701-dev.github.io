@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_21_P002",
+  "book": "acts",
+  "chapter": 21,
+  "page": 2,
+  "ref": "21:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_21_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_21_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5013
+      ],
+      "alt": {
+        "zh-CN": "过了这几天，我们起身上路。他们大家带着妻子儿女送我们到城外，我们都跪在海岸上祷告，彼此道别。"
+      }
+    },
+    {
+      "id": "ACTS_21_P002_F2",
+      "box": [
+        0.7275,
+        0.3517,
+        0.269,
+        0.146
+      ]
+    },
+    {
+      "id": "ACTS_21_P002_F3",
+      "box": [
+        0,
+        0.5046,
+        0.501,
+        0.4954
+      ],
+      "alt": {
+        "zh-CN": "我们上了船，他们就回家去了。"
+      }
+    },
+    {
+      "id": "ACTS_21_P002_F4",
+      "box": [
+        0.5078,
+        0.5046,
+        0.4922,
+        0.4954
+      ],
+      "alt": {
+        "zh-CN": "我们从泰尔走完了水路，来到多利买，问候那里的弟兄，和他们住了一天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_21_P002_B005",
+      "panel": "ACTS_21_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.015,
+        0.48,
+        0.0802
+      ],
+      "tail": null,
+      "text_key": "acts.21.p2.b5"
+    },
+    {
+      "id": "ACTS_21_P002_B006",
+      "panel": "ACTS_21_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.891,
+        0.4609,
+        0.0941
+      ],
+      "tail": null,
+      "text_key": "acts.21.p2.b6"
+    },
+    {
+      "id": "ACTS_21_P002_B007",
+      "panel": "ACTS_21_P002_F4",
+      "order": 7,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5275,
+        0.5195,
+        0.4528,
+        0.099
+      ],
+      "tail": null,
+      "text_key": "acts.21.p2.b7"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_27_P007",
+  "book": "acts",
+  "chapter": 27,
+  "page": 7,
+  "ref": "27:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P007_F1",
+      "box": [
+        0,
+        0,
+        0.582,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "大家很多天没有吃东西，保罗就站在他们当中，说："
+      }
+    },
+    {
+      "id": "ACTS_27_P007_F2",
+      "box": [
+        0.5898,
+        0,
+        0.4102,
+        0.3001
+      ]
+    },
+    {
+      "id": "ACTS_27_P007_F3",
+      "box": [
+        0,
+        0.3027,
+        1,
+        0.4466
+      ],
+      "alt": {
+        "zh-CN": "「各位，你们当初应该听我的话，不离开克里特，就不会遭受这样的损失。」「现在我还是劝你们放心，你们没有一个人会丧命，只是要损失这条船。」"
+      }
+    },
+    {
+      "id": "ACTS_27_P007_F4",
+      "box": [
+        0,
+        0.7513,
+        1,
+        0.2487
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P007_B022",
+      "panel": "ACTS_27_P007_F1",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0175,
+        0.009,
+        0.3608,
+        0.06
+      ],
+      "tail": null,
+      "text_key": "acts.27.p7.b22"
+    },
+    {
+      "id": "ACTS_27_P007_B023",
+      "panel": "ACTS_27_P007_F3",
+      "order": 23,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.3161,
+        0.4,
+        0.0893
+      ],
+      "tail": [
+        0.23,
+        0.4501
+      ],
+      "text_key": "acts.27.p7.b23"
+    },
+    {
+      "id": "ACTS_27_P007_B024",
+      "panel": "ACTS_27_P007_F3",
+      "order": 24,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.58,
+        0.3161,
+        0.39,
+        0.0893
+      ],
+      "tail": [
+        0.775,
+        0.4501
+      ],
+      "text_key": "acts.27.p7.b24"
+    }
+  ]
+}

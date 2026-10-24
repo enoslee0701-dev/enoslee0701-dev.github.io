@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_02_P014",
+  "book": "acts",
+  "chapter": 2,
+  "page": 14,
+  "ref": "2:38-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "「你们各人要悔改，奉耶稣基督的名受洗，使你们的罪得赦免，就会领受所赐的圣灵；」"
+      }
+    },
+    {
+      "id": "ACTS_02_P014_F2",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "「因为这应许是给你们和你们的儿女，以及一切在远方的人，就是主—我们的　神所呼召的。」"
+      }
+    },
+    {
+      "id": "ACTS_02_P014_F3",
+      "box": [
+        0,
+        0.6901,
+        1,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "彼得还用许多话作见证，劝勉他们说：「你们要救自己脱离这邪恶的世代。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P014_B001",
+      "panel": "ACTS_02_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.0119,
+        0.49,
+        0.0954
+      ],
+      "tail": [
+        0.725,
+        0.1371
+      ],
+      "text_key": "acts.2.p14.b1"
+    },
+    {
+      "id": "ACTS_02_P014_B002",
+      "panel": "ACTS_02_P014_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.3136,
+        0.45,
+        0.0768
+      ],
+      "tail": [
+        0.745,
+        0.4288
+      ],
+      "text_key": "acts.2.p14.b2"
+    },
+    {
+      "id": "ACTS_02_P014_B003",
+      "panel": "ACTS_02_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6994,
+        0.45,
+        0.0309
+      ],
+      "tail": null,
+      "text_key": "acts.2.p14.b3"
+    },
+    {
+      "id": "ACTS_02_P014_B004",
+      "panel": "ACTS_02_P014_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7366,
+        0.45,
+        0.0309
+      ],
+      "tail": [
+        0.255,
+        0.7985
+      ],
+      "text_key": "acts.2.p14.b4"
+    }
+  ]
+}

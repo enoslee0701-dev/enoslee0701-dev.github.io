@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_03_P007",
+  "book": "acts",
+  "chapter": 3,
+  "page": 7,
+  "ref": "3:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P007_F1",
+      "box": [
+        0,
+        0,
+        0.498,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "你们杀了那赐生命的主，"
+      }
+    },
+    {
+      "id": "ACTS_03_P007_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.2611
+      ]
+    },
+    {
+      "id": "ACTS_03_P007_F3",
+      "box": [
+        0,
+        0.2656,
+        1,
+        0.4108
+      ],
+      "alt": {
+        "zh-CN": "神却使他从死人中复活了；我们都是这件事的见证人。"
+      }
+    },
+    {
+      "id": "ACTS_03_P007_F4",
+      "box": [
+        0,
+        0.6803,
+        1,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "……他的名使你们所看见、所认识的这人强壮起来；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P007_B001",
+      "panel": "ACTS_03_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.0078,
+        0.4482,
+        0.0626
+      ],
+      "tail": [
+        0.244,
+        0.0965
+      ],
+      "text_key": "acts.3.p7.b1"
+    },
+    {
+      "id": "ACTS_03_P007_B002",
+      "panel": "ACTS_03_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.2779,
+        0.45,
+        0.0821
+      ],
+      "tail": [
+        0.745,
+        0.4011
+      ],
+      "text_key": "acts.3.p7.b2"
+    },
+    {
+      "id": "ACTS_03_P007_B003",
+      "panel": "ACTS_03_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.6931,
+        0.45,
+        0.0959
+      ],
+      "tail": [
+        0.745,
+        0.821
+      ],
+      "text_key": "acts.3.p7.b3"
+    }
+  ]
+}

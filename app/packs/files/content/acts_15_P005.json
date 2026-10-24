@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_15_P005",
+  "book": "acts",
+  "chapter": 15,
+  "page": 5,
+  "ref": "15:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "众人都安静下来，听巴拿巴和保罗述说　神藉着他们在外邦人中所行的神迹奇事。"
+      }
+    },
+    {
+      "id": "ACTS_15_P005_F2",
+      "box": [
+        0,
+        0.3659,
+        0.4834,
+        0.2767
+      ]
+    },
+    {
+      "id": "ACTS_15_P005_F3",
+      "box": [
+        0.4893,
+        0.3659,
+        0.5107,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "他们说完了，雅各就说："
+      }
+    },
+    {
+      "id": "ACTS_15_P005_F4",
+      "box": [
+        0,
+        0.6458,
+        1,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "「弟兄们，请听我说。刚才西门述说　神当初怎样眷顾外邦人，从他们当中拣选百姓归于自己的名下；」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P005_B015",
+      "panel": "ACTS_15_P005_F1",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0109,
+        0.4,
+        0.0509
+      ],
+      "tail": null,
+      "text_key": "acts.15.p5.b15"
+    },
+    {
+      "id": "ACTS_15_P005_B016",
+      "panel": "ACTS_15_P005_F3",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5046,
+        0.3742,
+        0.1276,
+        0.0442
+      ],
+      "tail": null,
+      "text_key": "acts.15.p5.b16"
+    },
+    {
+      "id": "ACTS_15_P005_B017",
+      "panel": "ACTS_15_P005_F4",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.66,
+        0.39,
+        0.1062
+      ],
+      "tail": [
+        0.775,
+        0.8016
+      ],
+      "text_key": "acts.15.p5.b17"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_17_P006",
+  "book": "acts",
+  "chapter": 17,
+  "page": 6,
+  "ref": "17:18-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P006_F1",
+      "box": [
+        0,
+        0,
+        0.542,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "「这个满口胡说的人想说什么？」"
+      }
+    },
+    {
+      "id": "ACTS_17_P006_F2",
+      "box": [
+        0.5527,
+        0,
+        0.4473,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "「他好像是在宣传外国的神明。」"
+      }
+    },
+    {
+      "id": "ACTS_17_P006_F3",
+      "box": [
+        0,
+        0.2526,
+        1,
+        0.4362
+      ],
+      "alt": {
+        "zh-CN": "「你所讲的这新道理，我们可以知道吗？」"
+      }
+    },
+    {
+      "id": "ACTS_17_P006_F4",
+      "box": [
+        0,
+        0.6934,
+        1,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "雅典人和住在那里的外地人都不做别的事，只喜欢谈论、听闻新鲜事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P006_B007",
+      "panel": "ACTS_17_P006_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.0108,
+        0.1934,
+        0.1626,
+        0.0471
+      ],
+      "tail": [
+        0.0921,
+        0.248
+      ],
+      "text_key": "acts.17.p6.b7"
+    },
+    {
+      "id": "ACTS_17_P006_B008",
+      "panel": "ACTS_17_P006_F2",
+      "order": 8,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.5751,
+        0.1934,
+        0.4025,
+        0.0446
+      ],
+      "tail": [
+        0.7764,
+        0.248
+      ],
+      "text_key": "acts.17.p6.b8"
+    },
+    {
+      "id": "ACTS_17_P006_B009",
+      "panel": "ACTS_17_P006_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2657,
+        0.32,
+        0.0523
+      ],
+      "tail": [
+        0.66,
+        0.3616
+      ],
+      "text_key": "acts.17.p6.b9"
+    },
+    {
+      "id": "ACTS_17_P006_B010",
+      "panel": "ACTS_17_P006_F4",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.7087,
+        0.42,
+        0.0674
+      ],
+      "tail": null,
+      "text_key": "acts.17.p6.b10"
+    }
+  ]
+}

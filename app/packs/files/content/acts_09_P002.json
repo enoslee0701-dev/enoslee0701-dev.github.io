@@ -1,0 +1,106 @@
+{
+  "id": "ACTS_09_P002",
+  "book": "acts",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.6087
+      ],
+      "alt": {
+        "zh-CN": "他就扑倒在地，听见有声音对他说："
+      }
+    },
+    {
+      "id": "ACTS_09_P002_F2",
+      "box": [
+        0,
+        0.6133,
+        0.5547,
+        0.3867
+      ],
+      "alt": {
+        "zh-CN": "「扫罗！扫罗！"
+      }
+    },
+    {
+      "id": "ACTS_09_P002_F3",
+      "box": [
+        0.5625,
+        0.6133,
+        0.4375,
+        0.3867
+      ],
+      "alt": {
+        "zh-CN": "你为什么逼迫我？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P002_B001",
+      "panel": "ACTS_09_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0183,
+        0.42,
+        0.0852
+      ],
+      "tail": null,
+      "text_key": "acts.9.p2.b1"
+    },
+    {
+      "id": "ACTS_09_P002_B002",
+      "panel": "ACTS_09_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.0222,
+        0.6249,
+        0.4992,
+        0.0541
+      ],
+      "tail": [
+        0.2718,
+        0.7177
+      ],
+      "text_key": "acts.9.p2.b2"
+    },
+    {
+      "id": "ACTS_09_P002_B003",
+      "panel": "ACTS_09_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.5844,
+        0.6288,
+        0.3937,
+        0.116
+      ],
+      "tail": [
+        0.7813,
+        0.7835
+      ],
+      "text_key": "acts.9.p2.b3"
+    }
+  ]
+}

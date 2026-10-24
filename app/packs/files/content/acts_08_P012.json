@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_08_P012",
+  "book": "acts",
+  "chapter": 8,
+  "page": 12,
+  "ref": "8:39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3145
+      ]
+    },
+    {
+      "id": "ACTS_08_P012_F2",
+      "box": [
+        0,
+        0.3184,
+        0.5215,
+        0.3164
+      ],
+      "alt": {
+        "zh-CN": "主的灵把腓利带走了，"
+      }
+    },
+    {
+      "id": "ACTS_08_P012_F3",
+      "box": [
+        0.5303,
+        0.3184,
+        0.4697,
+        0.3164
+      ],
+      "alt": {
+        "zh-CN": "太监再也看不见他，"
+      }
+    },
+    {
+      "id": "ACTS_08_P012_F4",
+      "box": [
+        0,
+        0.64,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "就满心欢喜地上路了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P012_B001",
+      "panel": "ACTS_08_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0094,
+        0.22,
+        0.0629
+      ],
+      "tail": null,
+      "text_key": "acts.8.p12.b1"
+    },
+    {
+      "id": "ACTS_08_P012_B002",
+      "panel": "ACTS_08_P012_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0209,
+        0.3279,
+        0.3441,
+        0.0696
+      ],
+      "tail": null,
+      "text_key": "acts.8.p12.b2"
+    },
+    {
+      "id": "ACTS_08_P012_B003",
+      "panel": "ACTS_08_P012_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5491,
+        0.5525,
+        0.4321,
+        0.0696
+      ],
+      "tail": null,
+      "text_key": "acts.8.p12.b3"
+    },
+    {
+      "id": "ACTS_08_P012_B004",
+      "panel": "ACTS_08_P012_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.6544,
+        0.45,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "acts.8.p12.b4"
+    }
+  ]
+}

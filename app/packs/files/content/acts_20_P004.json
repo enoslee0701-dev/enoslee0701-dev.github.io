@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_20_P004",
+  "book": "acts",
+  "chapter": 20,
+  "page": 4,
+  "ref": "20:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_20_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_20_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "保罗又上楼去，擘开饼吃了，又谈了很久，一直到天亮，"
+      }
+    },
+    {
+      "id": "ACTS_20_P004_F2",
+      "box": [
+        0,
+        0.2298,
+        0.2979,
+        0.4837
+      ],
+      "alt": {
+        "zh-CN": "这才离开。"
+      }
+    },
+    {
+      "id": "ACTS_20_P004_F3",
+      "box": [
+        0.3047,
+        0.2298,
+        0.6953,
+        0.4837
+      ],
+      "alt": {
+        "zh-CN": "有人把那孩子活着领了回来，大家得了很大的安慰。"
+      }
+    },
+    {
+      "id": "ACTS_20_P004_F4",
+      "box": [
+        0,
+        0.7181,
+        1,
+        0.2819
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_20_P004_B011",
+      "panel": "ACTS_20_P004_F1",
+      "order": 11,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.009,
+        0.42,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "acts.20.p4.b11"
+    },
+    {
+      "id": "ACTS_20_P004_B012",
+      "panel": "ACTS_20_P004_F2",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0149,
+        0.6168,
+        0.2681,
+        0.0822
+      ],
+      "tail": null,
+      "text_key": "acts.20.p4.b12"
+    },
+    {
+      "id": "ACTS_20_P004_B013",
+      "panel": "ACTS_20_P004_F3",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3325,
+        0.2443,
+        0.2364,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "acts.20.p4.b13"
+    }
+  ]
+}

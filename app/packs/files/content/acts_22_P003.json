@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_22_P003",
+  "book": "acts",
+  "chapter": 22,
+  "page": 3,
+  "ref": "22:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_22_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_22_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.185
+      ],
+      "alt": {
+        "zh-CN": "「我快到大马士革的时候，大约在中午，"
+      }
+    },
+    {
+      "id": "ACTS_22_P003_F2",
+      "box": [
+        0,
+        0.1883,
+        1,
+        0.4383
+      ],
+      "alt": {
+        "zh-CN": "忽然有一道大光从天上四面照着我。我仆倒在地上，听见有声音对我说：『扫罗，扫罗，你为什么迫害我？』"
+      }
+    },
+    {
+      "id": "ACTS_22_P003_F3",
+      "box": [
+        0,
+        0.6308,
+        0.4975,
+        0.3692
+      ],
+      "alt": {
+        "zh-CN": "我回答：『主啊，你是谁？』"
+      }
+    },
+    {
+      "id": "ACTS_22_P003_F4",
+      "box": [
+        0.505,
+        0.6308,
+        0.495,
+        0.3692
+      ],
+      "alt": {
+        "zh-CN": "他说：『我就是你所迫害的拿撒勒人耶稣。』"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_22_P003_B008",
+      "panel": "ACTS_22_P003_F1",
+      "order": 8,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0074,
+        0.42,
+        0.037
+      ],
+      "tail": [
+        0.24,
+        0.0629
+      ],
+      "text_key": "acts.22.p3.b8"
+    },
+    {
+      "id": "ACTS_22_P003_B009",
+      "panel": "ACTS_22_P003_F2",
+      "order": 9,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2,
+        0.2014,
+        0.5,
+        0.0788
+      ],
+      "tail": [
+        0.45,
+        0.324
+      ],
+      "text_key": "acts.22.p3.b9"
+    },
+    {
+      "id": "ACTS_22_P003_B010",
+      "panel": "ACTS_22_P003_F3",
+      "order": 10,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0249,
+        0.9188,
+        0.4477,
+        0.0701
+      ],
+      "tail": [
+        0.2488,
+        1
+      ],
+      "text_key": "acts.22.p3.b10"
+    },
+    {
+      "id": "ACTS_22_P003_B011",
+      "panel": "ACTS_22_P003_F4",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5248,
+        0.6382,
+        0.4554,
+        0.0332
+      ],
+      "tail": [
+        0.7525,
+        0.7083
+      ],
+      "text_key": "acts.22.p3.b11"
+    }
+  ]
+}

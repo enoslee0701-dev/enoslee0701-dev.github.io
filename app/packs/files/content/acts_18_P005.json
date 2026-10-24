@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_18_P005",
+  "book": "acts",
+  "chapter": 18,
+  "page": 5,
+  "ref": "18:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_18_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_18_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "就把他们赶出审判的地方。"
+      }
+    },
+    {
+      "id": "ACTS_18_P005_F2",
+      "box": [
+        0,
+        0.2624,
+        1,
+        0.373
+      ],
+      "alt": {
+        "zh-CN": "众人就抓住管会堂的所提尼，在审判台前打他。"
+      }
+    },
+    {
+      "id": "ACTS_18_P005_F3",
+      "box": [
+        0,
+        0.6387,
+        0.498,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "这些事迦流都不理会。"
+      }
+    },
+    {
+      "id": "ACTS_18_P005_F4",
+      "box": [
+        0.5039,
+        0.6387,
+        0.4961,
+        0.3613
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_18_P005_B017",
+      "panel": "ACTS_18_P005_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7,
+        0.0078,
+        0.28,
+        0.0441
+      ],
+      "tail": null,
+      "text_key": "acts.18.p5.b17"
+    },
+    {
+      "id": "ACTS_18_P005_B018",
+      "panel": "ACTS_18_P005_F2",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5683,
+        0.45,
+        0.0559
+      ],
+      "tail": null,
+      "text_key": "acts.18.p5.b18"
+    },
+    {
+      "id": "ACTS_18_P005_B019",
+      "panel": "ACTS_18_P005_F3",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.935,
+        0.2988,
+        0.0541
+      ],
+      "tail": null,
+      "text_key": "acts.18.p5.b19"
+    }
+  ]
+}

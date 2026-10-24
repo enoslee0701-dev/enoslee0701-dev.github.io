@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_27_P014",
+  "book": "acts",
+  "chapter": 27,
+  "page": 14,
+  "ref": "27:41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "可是碰到两股水流交汇的地方，船就搁浅了；"
+      }
+    },
+    {
+      "id": "ACTS_27_P014_F2",
+      "box": [
+        0,
+        0.2083,
+        0.5781,
+        0.3034
+      ]
+    },
+    {
+      "id": "ACTS_27_P014_F3",
+      "box": [
+        0.584,
+        0.2083,
+        0.416,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "船头卡住动不了，"
+      }
+    },
+    {
+      "id": "ACTS_27_P014_F4",
+      "box": [
+        0,
+        0.515,
+        1,
+        0.485
+      ],
+      "alt": {
+        "zh-CN": "船尾被浪的猛力打坏了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P014_B046",
+      "panel": "ACTS_27_P014_F1",
+      "order": 46,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0082,
+        0.44,
+        0.049
+      ],
+      "tail": null,
+      "text_key": "acts.27.p14.b46"
+    },
+    {
+      "id": "ACTS_27_P014_B047",
+      "panel": "ACTS_27_P014_F3",
+      "order": 47,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6006,
+        0.445,
+        0.3827,
+        0.0546
+      ],
+      "tail": null,
+      "text_key": "acts.27.p14.b47"
+    },
+    {
+      "id": "ACTS_27_P014_B048",
+      "panel": "ACTS_27_P014_F4",
+      "order": 48,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5296,
+        0.42,
+        0.0776
+      ],
+      "tail": null,
+      "text_key": "acts.27.p14.b48"
+    }
+  ]
+}

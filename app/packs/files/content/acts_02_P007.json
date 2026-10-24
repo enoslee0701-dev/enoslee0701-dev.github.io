@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_02_P007",
+  "book": "acts",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "「这正是先知约珥所说的：」"
+      }
+    },
+    {
+      "id": "ACTS_02_P007_F2",
+      "box": [
+        0,
+        0.2513,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "神说：在末后的日子，我要将我的灵浇灌所有的人。……你们的年轻人要见异象，老年人要做异梦。"
+      }
+    },
+    {
+      "id": "ACTS_02_P007_F3",
+      "box": [
+        0,
+        0.5059,
+        1,
+        0.4941
+      ],
+      "alt": {
+        "zh-CN": "……我要将我的灵浇灌我的仆人和婢女，他们就要说预言。"
+      }
+    },
+    {
+      "id": "ACTS_02_P007_F4",
+      "box": [
+        0.63,
+        0.6667,
+        0.37,
+        0.3333
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P007_B001",
+      "panel": "ACTS_02_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0124,
+        0.47,
+        0.0744
+      ],
+      "tail": [
+        0.735,
+        0.1116
+      ],
+      "text_key": "acts.2.p7.b1"
+    },
+    {
+      "id": "ACTS_02_P007_B002",
+      "panel": "ACTS_02_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.2588,
+        0.9,
+        0.0502
+      ],
+      "tail": null,
+      "text_key": "acts.2.p7.b2"
+    },
+    {
+      "id": "ACTS_02_P007_B003",
+      "panel": "ACTS_02_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.5207,
+        0.62,
+        0.0592
+      ],
+      "tail": null,
+      "text_key": "acts.2.p7.b3"
+    }
+  ]
+}

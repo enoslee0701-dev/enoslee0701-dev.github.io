@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_09_P008",
+  "book": "acts",
+  "chapter": 9,
+  "page": 8,
+  "ref": "9:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P008_F1",
+      "box": [
+        0,
+        0,
+        0.501,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "扫罗的眼睛上，好像有鳞立刻掉下来，他就能看见了。"
+      }
+    },
+    {
+      "id": "ACTS_09_P008_F2",
+      "box": [
+        0.5098,
+        0,
+        0.4902,
+        0.237
+      ]
+    },
+    {
+      "id": "ACTS_09_P008_F3",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.4277
+      ],
+      "alt": {
+        "zh-CN": "于是他起来受了洗；"
+      }
+    },
+    {
+      "id": "ACTS_09_P008_F4",
+      "box": [
+        0,
+        0.6725,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "吃过饭，就恢复了力气。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P008_B001",
+      "panel": "ACTS_09_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.1991,
+        0.4509,
+        0.0331
+      ],
+      "tail": null,
+      "text_key": "acts.9.p8.b1"
+    },
+    {
+      "id": "ACTS_09_P008_B002",
+      "panel": "ACTS_09_P008_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.258,
+        0.3,
+        0.0641
+      ],
+      "tail": null,
+      "text_key": "acts.9.p8.b2"
+    },
+    {
+      "id": "ACTS_09_P008_B003",
+      "panel": "ACTS_09_P008_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.67,
+        0.6823,
+        0.24,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "acts.9.p8.b3"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ACTS_01_P004",
+  "book": "acts",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1406
+      ],
+      "alt": {
+        "zh-CN": "说完这话，他们正看着的时候，他就被提上去……"
+      }
+    },
+    {
+      "id": "ACTS_01_P004_F2",
+      "box": [
+        0,
+        0.1452,
+        1,
+        0.1615
+      ]
+    },
+    {
+      "id": "ACTS_01_P004_F3",
+      "box": [
+        0,
+        0.3112,
+        1,
+        0.5104
+      ],
+      "alt": {
+        "zh-CN": "……有一片云彩把他接走，他们就看不见他了。"
+      }
+    },
+    {
+      "id": "ACTS_01_P004_F4",
+      "box": [
+        0,
+        0.8255,
+        1,
+        0.1745
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_01_P004_B001",
+      "panel": "ACTS_01_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0773,
+        0.45,
+        0.0562
+      ],
+      "tail": null,
+      "text_key": "acts.1.p4.b1"
+    },
+    {
+      "id": "ACTS_01_P004_B002",
+      "panel": "ACTS_01_P004_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.3316,
+        0.39,
+        0.0816
+      ],
+      "tail": null,
+      "text_key": "acts.1.p4.b2"
+    }
+  ]
+}

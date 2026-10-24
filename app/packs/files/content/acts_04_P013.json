@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_04_P013",
+  "book": "acts",
+  "chapter": 4,
+  "page": 13,
+  "ref": "4:36-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_04_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_04_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "有一个利未人，出生在塞浦路斯，名叫约瑟，"
+      }
+    },
+    {
+      "id": "ACTS_04_P013_F2",
+      "box": [
+        0,
+        0.2683,
+        1,
+        0.2649
+      ],
+      "alt": {
+        "zh-CN": "使徒称他为巴拿巴，意思是「劝慰之子」。"
+      }
+    },
+    {
+      "id": "ACTS_04_P013_F3",
+      "box": [
+        0,
+        0.5332,
+        1,
+        0.4668
+      ],
+      "alt": {
+        "zh-CN": "他卖了自己的一块田，把钱带来，放在使徒脚前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_04_P013_B001",
+      "panel": "ACTS_04_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0106,
+        0.48,
+        0.0901
+      ],
+      "tail": null,
+      "text_key": "acts.4.p13.b1"
+    },
+    {
+      "id": "ACTS_04_P013_B002",
+      "panel": "ACTS_04_P013_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.2789,
+        0.4,
+        0.0794
+      ],
+      "tail": null,
+      "text_key": "acts.4.p13.b2"
+    },
+    {
+      "id": "ACTS_04_P013_B003",
+      "panel": "ACTS_04_P013_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5472,
+        0.25,
+        0.0933
+      ],
+      "tail": null,
+      "text_key": "acts.4.p13.b3"
+    }
+  ]
+}

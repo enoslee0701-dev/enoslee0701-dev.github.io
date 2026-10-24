@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_10_P015",
+  "book": "acts",
+  "chapter": 10,
+  "page": 15,
+  "ref": "10:44-46",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1888
+      ],
+      "alt": {
+        "zh-CN": "彼得还在说这些话的时候，圣灵降在所有听道的人身上。"
+      }
+    },
+    {
+      "id": "ACTS_10_P015_F2",
+      "box": [
+        0,
+        0.1914,
+        1,
+        0.388
+      ]
+    },
+    {
+      "id": "ACTS_10_P015_F3",
+      "box": [
+        0,
+        0.5827,
+        0.4697,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "那些跟彼得一起来、受过割礼的信徒都很惊奇，因为圣灵的恩赐也浇灌在外族人身上；"
+      }
+    },
+    {
+      "id": "ACTS_10_P015_F4",
+      "box": [
+        0.4766,
+        0.5827,
+        0.5234,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "他们听见这些人说方言，称颂　神为大。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P015_B001",
+      "panel": "ACTS_10_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0076,
+        0.47,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "acts.10.p15.b1"
+    },
+    {
+      "id": "ACTS_10_P015_B002",
+      "panel": "ACTS_10_P015_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0188,
+        0.5952,
+        0.4227,
+        0.0918
+      ],
+      "tail": null,
+      "text_key": "acts.10.p15.b2"
+    },
+    {
+      "id": "ACTS_10_P015_B003",
+      "panel": "ACTS_10_P015_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4975,
+        0.5952,
+        0.471,
+        0.0751
+      ],
+      "tail": null,
+      "text_key": "acts.10.p15.b3"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_03_P004",
+  "book": "acts",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P004_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "彼得就拉着他的右手，扶他起来；"
+      }
+    },
+    {
+      "id": "ACTS_03_P004_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "他的脚掌和脚踝立刻有了力气，"
+      }
+    },
+    {
+      "id": "ACTS_03_P004_F3",
+      "box": [
+        0,
+        0.3457,
+        1,
+        0.6543
+      ],
+      "alt": {
+        "zh-CN": "他就跳起来，站着，又走路，跟他们一起进了圣殿，一边走，一边跳，一边赞美　神。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P004_B001",
+      "panel": "ACTS_03_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.2447,
+        0.3063,
+        0.0815
+      ],
+      "tail": null,
+      "text_key": "acts.3.p4.b1"
+    },
+    {
+      "id": "ACTS_03_P004_B002",
+      "panel": "ACTS_03_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5257,
+        0.0102,
+        0.3063,
+        0.0679
+      ],
+      "tail": null,
+      "text_key": "acts.3.p4.b2"
+    },
+    {
+      "id": "ACTS_03_P004_B003",
+      "panel": "ACTS_03_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3588,
+        0.26,
+        0.0785
+      ],
+      "tail": null,
+      "text_key": "acts.3.p4.b3"
+    }
+  ]
+}

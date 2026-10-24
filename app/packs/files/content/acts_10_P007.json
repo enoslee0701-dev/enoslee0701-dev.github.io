@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_10_P007",
+  "book": "acts",
+  "chapter": 10,
+  "page": 7,
+  "ref": "10:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P007_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "彼得心里正困惑，不知道刚才看见的异象是什么意思。"
+      }
+    },
+    {
+      "id": "ACTS_10_P007_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "哥尼流差来的人已经找到西门的家，站在门口喊着问：「有一位叫彼得的西门住在这里吗？」"
+      }
+    },
+    {
+      "id": "ACTS_10_P007_F3",
+      "box": [
+        0,
+        0.332,
+        1,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "彼得还在想那异象的时候，圣灵对他说：「有三个人来找你。」"
+      }
+    },
+    {
+      "id": "ACTS_10_P007_F4",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "「起来，下去，跟他们去，不要疑惑，因为是我差他们来的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P007_B001",
+      "panel": "ACTS_10_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.0098,
+        0.4464,
+        0.0457
+      ],
+      "tail": null,
+      "text_key": "acts.10.p7.b1"
+    },
+    {
+      "id": "ACTS_10_P007_B002",
+      "panel": "ACTS_10_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.7525,
+        0.0098,
+        0.2326,
+        0.0522
+      ],
+      "tail": [
+        0.8688,
+        0.0947
+      ],
+      "text_key": "acts.10.p7.b2"
+    },
+    {
+      "id": "ACTS_10_P007_B003",
+      "panel": "ACTS_10_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.3425,
+        0.5,
+        0.0558
+      ],
+      "tail": [
+        0.28,
+        0.4332
+      ],
+      "text_key": "acts.10.p7.b3"
+    },
+    {
+      "id": "ACTS_10_P007_B004",
+      "panel": "ACTS_10_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.66,
+        0.6988,
+        0.31,
+        0.0564
+      ],
+      "tail": [
+        0.815,
+        0.7866
+      ],
+      "text_key": "acts.10.p7.b4"
+    }
+  ]
+}

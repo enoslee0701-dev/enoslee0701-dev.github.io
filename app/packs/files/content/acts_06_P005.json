@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_06_P005",
+  "book": "acts",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "他们就暗中收买人，叫他们说：「我们听见他说毁谤摩西和　神的话。」"
+      }
+    },
+    {
+      "id": "ACTS_06_P005_F2",
+      "box": [
+        0,
+        0.2331,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "他们又煽动百姓、长老和文士，就突然来抓住司提反，把他带到公会去，"
+      }
+    },
+    {
+      "id": "ACTS_06_P005_F3",
+      "box": [
+        0,
+        0.4987,
+        0.5664,
+        0.5013
+      ]
+    },
+    {
+      "id": "ACTS_06_P005_F4",
+      "box": [
+        0.5742,
+        0.4987,
+        0.4258,
+        0.5013
+      ],
+      "alt": {
+        "zh-CN": "又安排假证人说：「这个人一直说话侮辱圣所和律法。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_06_P005_B001",
+      "panel": "ACTS_06_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0137,
+        0.18,
+        0.0603
+      ],
+      "tail": null,
+      "text_key": "acts.6.p5.b1"
+    },
+    {
+      "id": "ACTS_06_P005_B002",
+      "panel": "ACTS_06_P005_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.0786,
+        0.18,
+        0.1293
+      ],
+      "tail": [
+        0.11,
+        0.2285
+      ],
+      "text_key": "acts.6.p5.b2"
+    },
+    {
+      "id": "ACTS_06_P005_B003",
+      "panel": "ACTS_06_P005_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.2383,
+        0.44,
+        0.0444
+      ],
+      "tail": null,
+      "text_key": "acts.6.p5.b3"
+    },
+    {
+      "id": "ACTS_06_P005_B004",
+      "panel": "ACTS_06_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8297,
+        0.8496,
+        0.1618,
+        0.1353
+      ],
+      "tail": [
+        0.9106,
+        1
+      ],
+      "text_key": "acts.6.p5.b4"
+    }
+  ]
+}

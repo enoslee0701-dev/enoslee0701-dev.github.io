@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_03_P005",
+  "book": "acts",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "百姓都看见他走路，赞美　神；"
+      }
+    },
+    {
+      "id": "ACTS_03_P005_F2",
+      "box": [
+        0,
+        0.2643,
+        0.498,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "认出他就是平常坐在圣殿美门口讨钱的那个人，"
+      }
+    },
+    {
+      "id": "ACTS_03_P005_F3",
+      "box": [
+        0.5039,
+        0.2643,
+        0.4961,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "就因他遇到的事非常希奇、惊讶。"
+      }
+    },
+    {
+      "id": "ACTS_03_P005_F4",
+      "box": [
+        0,
+        0.5319,
+        1,
+        0.4681
+      ],
+      "alt": {
+        "zh-CN": "那人在所谓的所罗门廊下，拉着彼得和约翰；所有的百姓都一起跑到他们那里，觉得非常希奇。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P005_B001",
+      "panel": "ACTS_03_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0078,
+        0.39,
+        0.0443
+      ],
+      "tail": null,
+      "text_key": "acts.3.p5.b1"
+    },
+    {
+      "id": "ACTS_03_P005_B002",
+      "panel": "ACTS_03_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2739,
+        0.2722,
+        0.2091,
+        0.0475
+      ],
+      "tail": null,
+      "text_key": "acts.3.p5.b2"
+    },
+    {
+      "id": "ACTS_03_P005_B003",
+      "panel": "ACTS_03_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.4599,
+        0.4464,
+        0.0581
+      ],
+      "tail": null,
+      "text_key": "acts.3.p5.b3"
+    },
+    {
+      "id": "ACTS_03_P005_B004",
+      "panel": "ACTS_03_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5459,
+        0.47,
+        0.0702
+      ],
+      "tail": null,
+      "text_key": "acts.3.p5.b4"
+    }
+  ]
+}

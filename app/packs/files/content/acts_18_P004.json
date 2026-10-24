@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_18_P004",
+  "book": "acts",
+  "chapter": 18,
+  "page": 4,
+  "ref": "18:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_18_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_18_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "迦流作亚该亚总督的时候，犹太人一同起来攻击保罗，把他拉到审判台前，"
+      }
+    },
+    {
+      "id": "ACTS_18_P004_F2",
+      "box": [
+        0,
+        0.2799,
+        0.5869,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "「这个人劝人不按照律法敬拜　神。」"
+      }
+    },
+    {
+      "id": "ACTS_18_P004_F3",
+      "box": [
+        0.5938,
+        0.2799,
+        0.4062,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "保罗正要开口，迦流就对犹太人说："
+      }
+    },
+    {
+      "id": "ACTS_18_P004_F4",
+      "box": [
+        0,
+        0.5625,
+        1,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "「……如果是关于言语、名称和你们的律法，你们自己去处理吧！这样的事我不愿意审判。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_18_P004_B013",
+      "panel": "ACTS_18_P004_F1",
+      "order": 13,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0083,
+        0.42,
+        0.0495
+      ],
+      "tail": null,
+      "text_key": "acts.18.p4.b13"
+    },
+    {
+      "id": "ACTS_18_P004_B014",
+      "panel": "ACTS_18_P004_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0176,
+        0.2827,
+        0.2934,
+        0.0333
+      ],
+      "tail": [
+        0.1643,
+        0.3438
+      ],
+      "text_key": "acts.18.p4.b14"
+    },
+    {
+      "id": "ACTS_18_P004_B015",
+      "panel": "ACTS_18_P004_F3",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8295,
+        0.5023,
+        0.1584,
+        0.0472
+      ],
+      "tail": null,
+      "text_key": "acts.18.p4.b15"
+    },
+    {
+      "id": "ACTS_18_P004_B016",
+      "panel": "ACTS_18_P004_F4",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.5713,
+        0.47,
+        0.0525
+      ],
+      "tail": [
+        0.735,
+        0.6676
+      ],
+      "text_key": "acts.18.p4.b16"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_24_P002",
+  "book": "acts",
+  "chapter": 24,
+  "page": 2,
+  "ref": "24:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_24_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_24_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "「我们发现这个人像瘟疫一样，在全世界的犹太人当中煽动暴乱，又是拿撒勒教派的一个头目。」"
+      }
+    },
+    {
+      "id": "ACTS_24_P002_F2",
+      "box": [
+        0,
+        0.3574,
+        0.3857,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "「他甚至想要玷污圣殿，我们就把他抓住了。」"
+      }
+    },
+    {
+      "id": "ACTS_24_P002_F3",
+      "box": [
+        0.3906,
+        0.3574,
+        0.6094,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "「你亲自审问他，就能知道我们控告他的这一切事。」"
+      }
+    },
+    {
+      "id": "ACTS_24_P002_F4",
+      "box": [
+        0,
+        0.6243,
+        1,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "「事情确实是这样。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_24_P002_B005",
+      "panel": "ACTS_24_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.0106,
+        0.45,
+        0.0851
+      ],
+      "tail": [
+        0.745,
+        0.1312
+      ],
+      "text_key": "acts.24.p2.b5"
+    },
+    {
+      "id": "ACTS_24_P002_B006",
+      "panel": "ACTS_24_P002_F2",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0193,
+        0.5684,
+        0.3471,
+        0.0474
+      ],
+      "tail": [
+        0.1929,
+        0.6211
+      ],
+      "text_key": "acts.24.p2.b6"
+    },
+    {
+      "id": "ACTS_24_P002_B007",
+      "panel": "ACTS_24_P002_F3",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4089,
+        0.3653,
+        0.3047,
+        0.0448
+      ],
+      "tail": [
+        0.5613,
+        0.4365
+      ],
+      "text_key": "acts.24.p2.b7"
+    },
+    {
+      "id": "ACTS_24_P002_B008",
+      "panel": "ACTS_24_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.3,
+        0.6356,
+        0.28,
+        0.0638
+      ],
+      "tail": [
+        0.44,
+        0.737
+      ],
+      "text_key": "acts.24.p2.b8"
+    }
+  ]
+}

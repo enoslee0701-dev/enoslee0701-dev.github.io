@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_26_P007",
+  "book": "acts",
+  "chapter": 26,
+  "page": 7,
+  "ref": "26:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "然而我得着　神的帮助，直到今天还站得住，向尊贵的、卑微的、老的少的作见证；"
+      }
+    },
+    {
+      "id": "ACTS_26_P007_F2",
+      "box": [
+        0,
+        0.2611,
+        0.498,
+        0.2253
+      ]
+    },
+    {
+      "id": "ACTS_26_P007_F3",
+      "box": [
+        0.5039,
+        0.2611,
+        0.4961,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "我讲的不外乎众先知和摩西所说将来必要成就的事，"
+      }
+    },
+    {
+      "id": "ACTS_26_P007_F4",
+      "box": [
+        0,
+        0.4896,
+        1,
+        0.5104
+      ],
+      "alt": {
+        "zh-CN": "就是基督必须受苦，并且因从死里复活，要首先把光明的道传给百姓和外邦人。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P007_B021",
+      "panel": "ACTS_26_P007_F1",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0103,
+        0.44,
+        0.0568
+      ],
+      "tail": [
+        0.74,
+        0.093
+      ],
+      "text_key": "acts.26.p7.b21"
+    },
+    {
+      "id": "ACTS_26_P007_B022",
+      "panel": "ACTS_26_P007_F3",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5237,
+        0.2701,
+        0.248,
+        0.045
+      ],
+      "tail": [
+        0.6477,
+        0.3376
+      ],
+      "text_key": "acts.26.p7.b22"
+    },
+    {
+      "id": "ACTS_26_P007_B023",
+      "panel": "ACTS_26_P007_F4",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.51,
+        0.44,
+        0.102
+      ],
+      "tail": [
+        0.25,
+        0.663
+      ],
+      "text_key": "acts.26.p7.b23"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ACTS_02_P015",
+  "book": "acts",
+  "chapter": 2,
+  "page": 15,
+  "ref": "2:41-42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4043
+      ],
+      "alt": {
+        "zh-CN": "于是接受他话的人就受了洗。那一天，门徒约增加了三千人，"
+      }
+    },
+    {
+      "id": "ACTS_02_P015_F2",
+      "box": [
+        0,
+        0.4076,
+        0.498,
+        0.3014
+      ]
+    },
+    {
+      "id": "ACTS_02_P015_F3",
+      "box": [
+        0.5039,
+        0.4076,
+        0.4961,
+        0.3014
+      ]
+    },
+    {
+      "id": "ACTS_02_P015_F4",
+      "box": [
+        0,
+        0.7109,
+        1,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "他们都恒心遵守使徒的教导，彼此相交，擘饼，祈祷。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P015_B001",
+      "panel": "ACTS_02_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0121,
+        0.45,
+        0.0566
+      ],
+      "tail": null,
+      "text_key": "acts.2.p15.b1"
+    },
+    {
+      "id": "ACTS_02_P015_B002",
+      "panel": "ACTS_02_P015_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.7167,
+        0.45,
+        0.0289
+      ],
+      "tail": null,
+      "text_key": "acts.2.p15.b2"
+    }
+  ]
+}

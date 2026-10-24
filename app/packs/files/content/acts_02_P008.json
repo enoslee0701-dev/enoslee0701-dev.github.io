@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_02_P008",
+  "book": "acts",
+  "chapter": 2,
+  "page": 8,
+  "ref": "2:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2096
+      ],
+      "alt": {
+        "zh-CN": "在天上，我要显出奇事；在地下，我要显出神迹；有血，有火，有烟雾。"
+      }
+    },
+    {
+      "id": "ACTS_02_P008_F2",
+      "box": [
+        0,
+        0.2135,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "太阳要变为黑暗，月亮要变成血红；这都在主伟大而荣耀的日子来到以前。"
+      }
+    },
+    {
+      "id": "ACTS_02_P008_F3",
+      "box": [
+        0,
+        0.4759,
+        1,
+        0.5241
+      ],
+      "alt": {
+        "zh-CN": "到那时候，凡呼求主名的，都必得救。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P008_B001",
+      "panel": "ACTS_02_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.13,
+        0.6,
+        0.0628
+      ],
+      "tail": null,
+      "text_key": "acts.2.p8.b1"
+    },
+    {
+      "id": "ACTS_02_P008_B002",
+      "panel": "ACTS_02_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.2342,
+        0.37,
+        0.2072
+      ],
+      "tail": null,
+      "text_key": "acts.2.p8.b2"
+    },
+    {
+      "id": "ACTS_02_P008_B003",
+      "panel": "ACTS_02_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4916,
+        0.38,
+        0.0838
+      ],
+      "tail": null,
+      "text_key": "acts.2.p8.b3"
+    }
+  ]
+}

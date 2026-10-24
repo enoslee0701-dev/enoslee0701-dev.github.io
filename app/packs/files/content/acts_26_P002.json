@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_26_P002",
+  "book": "acts",
+  "chapter": 26,
+  "page": 2,
+  "ref": "26:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5313,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "……从一开始，我就按照我们宗教里最严格的派别做法利赛人。"
+      }
+    },
+    {
+      "id": "ACTS_26_P002_F2",
+      "box": [
+        0.5391,
+        0,
+        0.4609,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "现在我站在这里受审，是因为我盼望神向我们祖先所应许的；"
+      }
+    },
+    {
+      "id": "ACTS_26_P002_F3",
+      "box": [
+        0,
+        0.3164,
+        1,
+        0.2357
+      ]
+    },
+    {
+      "id": "ACTS_26_P002_F4",
+      "box": [
+        0,
+        0.5573,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "「神使死人复活，你们为什么认为是不可信的呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P002_B005",
+      "panel": "ACTS_26_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0159,
+        0.0094,
+        0.2922,
+        0.0498
+      ],
+      "tail": [
+        0.162,
+        0.0904
+      ],
+      "text_key": "acts.26.p2.b5"
+    },
+    {
+      "id": "ACTS_26_P002_B006",
+      "panel": "ACTS_26_P002_F2",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5575,
+        0.2307,
+        0.4148,
+        0.0717
+      ],
+      "tail": [
+        0.7649,
+        0.3118
+      ],
+      "text_key": "acts.26.p2.b6"
+    },
+    {
+      "id": "ACTS_26_P002_B007",
+      "panel": "ACTS_26_P002_F4",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5706,
+        0.4,
+        0.0752
+      ],
+      "tail": [
+        0.78,
+        0.6901
+      ],
+      "text_key": "acts.26.p2.b7"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_09_P009",
+  "book": "acts",
+  "chapter": 9,
+  "page": 9,
+  "ref": "9:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2813
+      ],
+      "alt": {
+        "zh-CN": "扫罗和大马士革的门徒一起住了些日子，"
+      }
+    },
+    {
+      "id": "ACTS_09_P009_F2",
+      "box": [
+        0,
+        0.2858,
+        1,
+        0.4049
+      ],
+      "alt": {
+        "zh-CN": "就在各会堂里传讲耶稣，说他是　神的儿子。"
+      }
+    },
+    {
+      "id": "ACTS_09_P009_F3",
+      "box": [
+        0,
+        0.694,
+        0.4971,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "听见的人都很惊奇，说：「在耶路撒冷残害求告这名的，不就是这个人吗？他到这里来，本来是要捆绑他们，带到祭司长那里。」"
+      }
+    },
+    {
+      "id": "ACTS_09_P009_F4",
+      "box": [
+        0.5029,
+        0.694,
+        0.4971,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "但扫罗越来越有能力，驳倒住在大马士革的犹太人，证明耶稣是基督。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P009_B001",
+      "panel": "ACTS_09_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0113,
+        0.42,
+        0.0843
+      ],
+      "tail": null,
+      "text_key": "acts.9.p9.b1"
+    },
+    {
+      "id": "ACTS_09_P009_B002",
+      "panel": "ACTS_09_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.302,
+        0.42,
+        0.0728
+      ],
+      "tail": null,
+      "text_key": "acts.9.p9.b2"
+    },
+    {
+      "id": "ACTS_09_P009_B003",
+      "panel": "ACTS_09_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.0199,
+        0.7032,
+        0.4473,
+        0.0856
+      ],
+      "tail": [
+        0.2436,
+        0.8194
+      ],
+      "text_key": "acts.9.p9.b3"
+    },
+    {
+      "id": "ACTS_09_P009_B004",
+      "panel": "ACTS_09_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5228,
+        0.9266,
+        0.4473,
+        0.0642
+      ],
+      "tail": null,
+      "text_key": "acts.9.p9.b4"
+    }
+  ]
+}

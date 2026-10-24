@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_10_P012",
+  "book": "acts",
+  "chapter": 10,
+  "page": 12,
+  "ref": "10:34-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2389
+      ]
+    },
+    {
+      "id": "ACTS_10_P012_F2",
+      "box": [
+        0,
+        0.2441,
+        1,
+        0.3678
+      ]
+    },
+    {
+      "id": "ACTS_10_P012_F3",
+      "box": [
+        0,
+        0.6159,
+        0.5039,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "在各民族中，凡敬畏他、行义的人，都蒙他悦纳。"
+      }
+    },
+    {
+      "id": "ACTS_10_P012_F4",
+      "box": [
+        0.5127,
+        0.6159,
+        0.4873,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "神借着耶稣基督——他是万有的主——传和平的福音，把这信息赐给以色列人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P012_B001",
+      "panel": "ACTS_10_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0119,
+        0.47,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "acts.10.p12.b1"
+    },
+    {
+      "id": "ACTS_10_P012_B002",
+      "panel": "ACTS_10_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2551,
+        0.44,
+        0.0514
+      ],
+      "tail": [
+        0.25,
+        0.3433
+      ],
+      "text_key": "acts.10.p12.b2"
+    },
+    {
+      "id": "ACTS_10_P012_B003",
+      "panel": "ACTS_10_P012_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0202,
+        0.6274,
+        0.4535,
+        0.0845
+      ],
+      "tail": [
+        0.247,
+        0.7503
+      ],
+      "text_key": "acts.10.p12.b3"
+    },
+    {
+      "id": "ACTS_10_P012_B004",
+      "panel": "ACTS_10_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5322,
+        0.6274,
+        0.268,
+        0.0921
+      ],
+      "tail": [
+        0.6662,
+        0.7579
+      ],
+      "text_key": "acts.10.p12.b4"
+    }
+  ]
+}

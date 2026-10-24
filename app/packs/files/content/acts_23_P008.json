@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_23_P008",
+  "book": "acts",
+  "chapter": 23,
+  "page": 8,
+  "ref": "23:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "千夫长拉着他的手，走到一边，私下问他：「你有什么事要告诉我？」"
+      }
+    },
+    {
+      "id": "ACTS_23_P008_F2",
+      "box": [
+        0,
+        0.2663,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "「犹太人已经商定，要请你明天把保罗带到议会去，……你千万不要依从他们，因为他们有四十多人埋伏着，……现在他们已经准备好，只等你答应。」"
+      }
+    },
+    {
+      "id": "ACTS_23_P008_F3",
+      "box": [
+        0,
+        0.6667,
+        0.3965,
+        0.3333
+      ]
+    },
+    {
+      "id": "ACTS_23_P008_F4",
+      "box": [
+        0.4043,
+        0.6667,
+        0.5957,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "「不要告诉任何人你把这事报告了我。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P008_B026",
+      "panel": "ACTS_23_P008_F1",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.75,
+        0.0105,
+        0.22,
+        0.0333
+      ],
+      "tail": null,
+      "text_key": "acts.23.p8.b26"
+    },
+    {
+      "id": "ACTS_23_P008_B027",
+      "panel": "ACTS_23_P008_F1",
+      "order": 27,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.75,
+        0.049,
+        0.22,
+        0.019
+      ],
+      "tail": [
+        0.86,
+        0.0942
+      ],
+      "text_key": "acts.23.p8.b27"
+    },
+    {
+      "id": "ACTS_23_P008_B028",
+      "panel": "ACTS_23_P008_F2",
+      "order": 28,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5,
+        0.2782,
+        0.47,
+        0.0791
+      ],
+      "tail": [
+        0.735,
+        0.3969
+      ],
+      "text_key": "acts.23.p8.b28"
+    },
+    {
+      "id": "ACTS_23_P008_B029",
+      "panel": "ACTS_23_P008_F4",
+      "order": 29,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.4222,
+        0.6767,
+        0.2978,
+        0.0366
+      ],
+      "tail": [
+        0.5711,
+        0.7466
+      ],
+      "text_key": "acts.23.p8.b29"
+    }
+  ]
+}

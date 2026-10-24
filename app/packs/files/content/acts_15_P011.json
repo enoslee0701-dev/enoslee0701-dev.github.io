@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_15_P011",
+  "book": "acts",
+  "chapter": 15,
+  "page": 11,
+  "ref": "15:35-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "保罗和巴拿巴却留在安提阿，和许多人一起教导人、传主的话。"
+      }
+    },
+    {
+      "id": "ACTS_15_P011_F2",
+      "box": [
+        0,
+        0.2533,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "过了一些日子，保罗对巴拿巴说：「我们回到以前传过主道的各城，去看看弟兄们过得怎样吧。」"
+      }
+    },
+    {
+      "id": "ACTS_15_P011_F3",
+      "box": [
+        0,
+        0.6797,
+        0.4912,
+        0.3203
+      ]
+    },
+    {
+      "id": "ACTS_15_P011_F4",
+      "box": [
+        0.498,
+        0.6797,
+        0.502,
+        0.3203
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P011_B035",
+      "panel": "ACTS_15_P011_F1",
+      "order": 35,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0075,
+        0.42,
+        0.0502
+      ],
+      "tail": null,
+      "text_key": "acts.15.p11.b35"
+    },
+    {
+      "id": "ACTS_15_P011_B036",
+      "panel": "ACTS_15_P011_F2",
+      "order": 36,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.266,
+        0.3,
+        0.0339
+      ],
+      "tail": null,
+      "text_key": "acts.15.p11.b36"
+    },
+    {
+      "id": "ACTS_15_P011_B037",
+      "panel": "ACTS_15_P011_F2",
+      "order": 37,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3042,
+        0.42,
+        0.0593
+      ],
+      "tail": [
+        0.24,
+        0.4059
+      ],
+      "text_key": "acts.15.p11.b37"
+    }
+  ]
+}

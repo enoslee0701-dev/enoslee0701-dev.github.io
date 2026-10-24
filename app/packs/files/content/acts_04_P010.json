@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_04_P010",
+  "book": "acts",
+  "chapter": 4,
+  "page": 10,
+  "ref": "4:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_04_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_04_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "希律和本丢·彼拉多，外族人和以色列人，真的在这城里聚集，要对付你所膏立的圣仆耶稣，"
+      }
+    },
+    {
+      "id": "ACTS_04_P010_F2",
+      "box": [
+        0,
+        0.2682,
+        1,
+        0.4544
+      ],
+      "alt": {
+        "zh-CN": "他们威胁我们，现在求主察看，让你的仆人放胆传讲你的道，"
+      }
+    },
+    {
+      "id": "ACTS_04_P010_F3",
+      "box": [
+        0,
+        0.7259,
+        1,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "一面伸出你的手医治病人，使神迹奇事借着你圣仆耶稣的名行出来。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_04_P010_B001",
+      "panel": "ACTS_04_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.008,
+        0.4,
+        0.0795
+      ],
+      "tail": [
+        0.23,
+        0.114
+      ],
+      "text_key": "acts.4.p10.b1"
+    },
+    {
+      "id": "ACTS_04_P010_B002",
+      "panel": "ACTS_04_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.55,
+        0.2818,
+        0.42,
+        0.109
+      ],
+      "tail": [
+        0.76,
+        0.4362
+      ],
+      "text_key": "acts.4.p10.b2"
+    },
+    {
+      "id": "ACTS_04_P010_B003",
+      "panel": "ACTS_04_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.04,
+        0.7369,
+        0.92,
+        0.0822
+      ],
+      "tail": [
+        0.5,
+        0.8465
+      ],
+      "text_key": "acts.4.p10.b3"
+    }
+  ]
+}

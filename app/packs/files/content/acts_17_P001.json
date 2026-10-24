@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_17_P001",
+  "book": "acts",
+  "chapter": 17,
+  "page": 1,
+  "ref": "17:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "保罗和西拉经过暗妃坡里和亚波罗尼亚，来到帖撒罗尼迦，那里有犹太人的会堂。"
+      }
+    },
+    {
+      "id": "ACTS_17_P001_F2",
+      "box": [
+        0,
+        0.2259,
+        1,
+        0.3783
+      ]
+    },
+    {
+      "id": "ACTS_17_P001_F3",
+      "box": [
+        0,
+        0.6094,
+        0.5693,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "他们中间有些人被说服，就跟从保罗和西拉，还有许多虔诚的希腊人，尊贵的妇女也不少。"
+      }
+    },
+    {
+      "id": "ACTS_17_P001_F4",
+      "box": [
+        0.5781,
+        0.6094,
+        0.4219,
+        0.3906
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P001_B001",
+      "panel": "ACTS_17_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0088,
+        0.42,
+        0.0485
+      ],
+      "tail": null,
+      "text_key": "acts.17.p1.b1"
+    },
+    {
+      "id": "ACTS_17_P001_B002",
+      "panel": "ACTS_17_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.2372,
+        0.41,
+        0.0307
+      ],
+      "tail": null,
+      "text_key": "acts.17.p1.b2"
+    },
+    {
+      "id": "ACTS_17_P001_B003",
+      "panel": "ACTS_17_P001_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2756,
+        0.41,
+        0.0184
+      ],
+      "tail": [
+        0.765,
+        0.3318
+      ],
+      "text_key": "acts.17.p1.b3"
+    },
+    {
+      "id": "ACTS_17_P001_B004",
+      "panel": "ACTS_17_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0171,
+        0.9219,
+        0.3415,
+        0.0664
+      ],
+      "tail": null,
+      "text_key": "acts.17.p1.b4"
+    }
+  ]
+}

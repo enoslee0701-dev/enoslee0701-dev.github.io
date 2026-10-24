@@ -1,0 +1,106 @@
+{
+  "id": "ACTS_04_P003",
+  "book": "acts",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2233
+      ],
+      "alt": {
+        "zh-CN": "那时彼得被圣灵充满，对他们说："
+      }
+    },
+    {
+      "id": "ACTS_04_P003_F2",
+      "box": [
+        0,
+        0.2285,
+        1,
+        0.2533
+      ],
+      "alt": {
+        "zh-CN": "「百姓的官长和长老啊，"
+      }
+    },
+    {
+      "id": "ACTS_04_P003_F3",
+      "box": [
+        0,
+        0.487,
+        1,
+        0.513
+      ],
+      "alt": {
+        "zh-CN": "……站在你们面前的这个人得痊愈，是因为你们钉在十字架上、　神使他从死人中复活的拿撒勒人耶稣基督的名。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_04_P003_B001",
+      "panel": "ACTS_04_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0179,
+        0.36,
+        0.1786
+      ],
+      "tail": null,
+      "text_key": "acts.4.p3.b1"
+    },
+    {
+      "id": "ACTS_04_P003_B002",
+      "panel": "ACTS_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.2361,
+        0.2,
+        0.081
+      ],
+      "tail": [
+        0.52,
+        0.3424
+      ],
+      "text_key": "acts.4.p3.b2"
+    },
+    {
+      "id": "ACTS_04_P003_B003",
+      "panel": "ACTS_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5024,
+        0.55,
+        0.1026
+      ],
+      "tail": [
+        0.305,
+        0.6563
+      ],
+      "text_key": "acts.4.p3.b3"
+    }
+  ]
+}

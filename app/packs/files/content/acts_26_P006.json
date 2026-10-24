@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_26_P006",
+  "book": "acts",
+  "chapter": 26,
+  "page": 6,
+  "ref": "26:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ],
+      "alt": {
+        "zh-CN": "「亚基帕王啊，所以我没有违背那从天上来的异象；"
+      }
+    },
+    {
+      "id": "ACTS_26_P006_F2",
+      "box": [
+        0.006,
+        0.265,
+        0.559,
+        0.225
+      ]
+    },
+    {
+      "id": "ACTS_26_P006_F3",
+      "box": [
+        0,
+        0.2624,
+        1,
+        0.7376
+      ],
+      "alt": {
+        "zh-CN": "先在大马士革，然后在耶路撒冷和犹太全地，以及外邦，劝人要悔改归向　神，……"
+      }
+    },
+    {
+      "id": "ACTS_26_P006_F4",
+      "box": [
+        0.4375,
+        0.723,
+        0.5585,
+        0.273
+      ],
+      "alt": {
+        "zh-CN": "因此，犹太人在圣殿里抓住我，想要杀我。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P006_B018",
+      "panel": "ACTS_26_P006_F1",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.43,
+        0.0078,
+        0.3,
+        0.0572
+      ],
+      "tail": [
+        0.58,
+        0.091
+      ],
+      "text_key": "acts.26.p6.b18"
+    },
+    {
+      "id": "ACTS_26_P006_B019",
+      "panel": "ACTS_26_P006_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.2845,
+        0.4,
+        0.0811
+      ],
+      "tail": [
+        0.78,
+        0.4394
+      ],
+      "text_key": "acts.26.p6.b19"
+    },
+    {
+      "id": "ACTS_26_P006_B020",
+      "panel": "ACTS_26_P006_F4",
+      "order": 20,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5771,
+        0.7312,
+        0.2792,
+        0.0382
+      ],
+      "tail": [
+        0.7167,
+        0.7967
+      ],
+      "text_key": "acts.26.p6.b20"
+    }
+  ]
+}

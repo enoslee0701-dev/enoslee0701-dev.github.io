@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_11_P009",
+  "book": "acts",
+  "chapter": 11,
+  "page": 9,
+  "ref": "11:26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_11_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_11_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "他们整整一年和教会一起聚会，"
+      }
+    },
+    {
+      "id": "ACTS_11_P009_F2",
+      "box": [
+        0,
+        0.2578,
+        0.4971,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "教导了许多人。"
+      }
+    },
+    {
+      "id": "ACTS_11_P009_F3",
+      "box": [
+        0.5029,
+        0.2578,
+        0.4971,
+        0.3001
+      ]
+    },
+    {
+      "id": "ACTS_11_P009_F4",
+      "box": [
+        0,
+        0.5618,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "门徒被称为「基督徒」是从安提阿开始的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_11_P009_B001",
+      "panel": "ACTS_11_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0102,
+        0.48,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "acts.11.p9.b1"
+    },
+    {
+      "id": "ACTS_11_P009_B002",
+      "panel": "ACTS_11_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.2668,
+        0.4473,
+        0.054
+      ],
+      "tail": null,
+      "text_key": "acts.11.p9.b2"
+    },
+    {
+      "id": "ACTS_11_P009_B003",
+      "panel": "ACTS_11_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5749,
+        0.9,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "acts.11.p9.b3"
+    }
+  ]
+}

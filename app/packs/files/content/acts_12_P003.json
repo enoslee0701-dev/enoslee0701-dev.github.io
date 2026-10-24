@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_12_P003",
+  "book": "acts",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.153
+      ],
+      "alt": {
+        "zh-CN": "忽然，主的一位天使站在旁边，牢房里有光照亮，"
+      }
+    },
+    {
+      "id": "ACTS_12_P003_F2",
+      "box": [
+        0,
+        0.1576,
+        1,
+        0.4596
+      ],
+      "alt": {
+        "zh-CN": "天使拍彼得的肋旁，叫醒他，说：「快起来！」"
+      }
+    },
+    {
+      "id": "ACTS_12_P003_F3",
+      "box": [
+        0,
+        0.6211,
+        0.6016,
+        0.3789
+      ],
+      "alt": {
+        "zh-CN": "铁链就从他手上脱落了。"
+      }
+    },
+    {
+      "id": "ACTS_12_P003_F4",
+      "box": [
+        0.6094,
+        0.6211,
+        0.3906,
+        0.3789
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_12_P003_B009",
+      "panel": "ACTS_12_P003_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0092,
+        0.44,
+        0.0612
+      ],
+      "tail": null,
+      "text_key": "acts.12.p3.b9"
+    },
+    {
+      "id": "ACTS_12_P003_B010",
+      "panel": "ACTS_12_P003_F2",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1714,
+        0.42,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "acts.12.p3.b10"
+    },
+    {
+      "id": "ACTS_12_P003_B011",
+      "panel": "ACTS_12_P003_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.63,
+        0.1714,
+        0.34,
+        0.0551
+      ],
+      "tail": [
+        0.8,
+        0.2725
+      ],
+      "text_key": "acts.12.p3.b11"
+    },
+    {
+      "id": "ACTS_12_P003_B012",
+      "panel": "ACTS_12_P003_F3",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2406,
+        0.947,
+        0.3368,
+        0.0454
+      ],
+      "tail": null,
+      "text_key": "acts.12.p3.b12"
+    }
+  ]
+}

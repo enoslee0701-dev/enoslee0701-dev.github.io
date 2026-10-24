@@ -1,0 +1,97 @@
+{
+  "id": "ACTS_10_P014",
+  "book": "acts",
+  "chapter": 10,
+  "page": 14,
+  "ref": "10:42-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "他吩咐我们向百姓传道，证明他就是　神所立、审判活人和死人的主。"
+      }
+    },
+    {
+      "id": "ACTS_10_P014_F2",
+      "box": [
+        0,
+        0.2513,
+        0.5391,
+        0.2565
+      ]
+    },
+    {
+      "id": "ACTS_10_P014_F3",
+      "box": [
+        0.5459,
+        0.2513,
+        0.4541,
+        0.2565
+      ]
+    },
+    {
+      "id": "ACTS_10_P014_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "所有的先知也为他作证：凡信他的人，都要借着他的名得到赦罪。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P014_B001",
+      "panel": "ACTS_10_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0099,
+        0.47,
+        0.0595
+      ],
+      "tail": [
+        0.735,
+        0.0942
+      ],
+      "text_key": "acts.10.p14.b1"
+    },
+    {
+      "id": "ACTS_10_P014_B002",
+      "panel": "ACTS_10_P014_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5251,
+        0.34,
+        0.0832
+      ],
+      "tail": [
+        0.2,
+        0.6573
+      ],
+      "text_key": "acts.10.p14.b2"
+    }
+  ]
+}

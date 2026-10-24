@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_12_P011",
+  "book": "acts",
+  "chapter": 12,
+  "page": 11,
+  "ref": "12:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_12_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_12_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "希律不把荣耀归给　神，所以主的使者立刻击打他，……他就断了气。"
+      }
+    },
+    {
+      "id": "ACTS_12_P011_F2",
+      "box": [
+        0,
+        0.4212,
+        0.4805,
+        0.2943
+      ]
+    },
+    {
+      "id": "ACTS_12_P011_F3",
+      "box": [
+        0.4863,
+        0.4212,
+        0.5137,
+        0.2943
+      ],
+      "alt": {
+        "zh-CN": "神的道越来越兴旺，传得越来越广。"
+      }
+    },
+    {
+      "id": "ACTS_12_P011_F4",
+      "box": [
+        0,
+        0.7207,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "巴拿巴和扫罗完成了救济的工作，就从耶路撒冷回来，带着又叫马可的约翰一同去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_12_P011_B042",
+      "panel": "ACTS_12_P011_F1",
+      "order": 42,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0125,
+        0.36,
+        0.05
+      ],
+      "tail": null,
+      "text_key": "acts.12.p11.b42"
+    },
+    {
+      "id": "ACTS_12_P011_B043",
+      "panel": "ACTS_12_P011_F3",
+      "order": 43,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7226,
+        0.43,
+        0.2568,
+        0.047
+      ],
+      "tail": null,
+      "text_key": "acts.12.p11.b43"
+    },
+    {
+      "id": "ACTS_12_P011_B044",
+      "panel": "ACTS_12_P011_F4",
+      "order": 44,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.7319,
+        0.4,
+        0.0502
+      ],
+      "tail": null,
+      "text_key": "acts.12.p11.b44"
+    }
+  ]
+}

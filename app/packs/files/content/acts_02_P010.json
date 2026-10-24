@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_02_P010",
+  "book": "acts",
+  "chapter": 2,
+  "page": 10,
+  "ref": "2:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2122
+      ],
+      "alt": {
+        "zh-CN": "「大卫指着他说：」"
+      }
+    },
+    {
+      "id": "ACTS_02_P010_F2",
+      "box": [
+        0,
+        0.2174,
+        1,
+        0.4557
+      ],
+      "alt": {
+        "zh-CN": "我常看见主在我面前；他在我右边，使我不会动摇。所以我心里欢喜……"
+      }
+    },
+    {
+      "id": "ACTS_02_P010_F3",
+      "box": [
+        0,
+        0.6777,
+        0.5342,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "你已把生命的道路指示我，必使我在你面前充满喜乐。"
+      }
+    },
+    {
+      "id": "ACTS_02_P010_F4",
+      "box": [
+        0.542,
+        0.6777,
+        0.458,
+        0.3223
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P010_B001",
+      "panel": "ACTS_02_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.017,
+        0.42,
+        0.1697
+      ],
+      "tail": [
+        0.76,
+        0.2079
+      ],
+      "text_key": "acts.2.p10.b1"
+    },
+    {
+      "id": "ACTS_02_P010_B002",
+      "panel": "ACTS_02_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2311,
+        0.4,
+        0.0911
+      ],
+      "tail": null,
+      "text_key": "acts.2.p10.b2"
+    },
+    {
+      "id": "ACTS_02_P010_B003",
+      "panel": "ACTS_02_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0214,
+        0.6874,
+        0.4807,
+        0.0773
+      ],
+      "tail": null,
+      "text_key": "acts.2.p10.b3"
+    }
+  ]
+}

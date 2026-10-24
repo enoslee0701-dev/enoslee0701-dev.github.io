@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_03_P008",
+  "book": "acts",
+  "chapter": 3,
+  "page": 8,
+  "ref": "3:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我知道你们做这事是出于无知，你们的官长也是这样。"
+      }
+    },
+    {
+      "id": "ACTS_03_P008_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "但　神曾经借着众先知的口，预言基督要受苦，就这样应验了。"
+      }
+    },
+    {
+      "id": "ACTS_03_P008_F3",
+      "box": [
+        0,
+        0.515,
+        1,
+        0.485
+      ],
+      "alt": {
+        "zh-CN": "所以你们要悔改归向　神，使你们的罪得以抹去，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P008_B001",
+      "panel": "ACTS_03_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0079,
+        0.41,
+        0.0528
+      ],
+      "tail": [
+        0.765,
+        0.0871
+      ],
+      "text_key": "acts.3.p8.b1"
+    },
+    {
+      "id": "ACTS_03_P008_B002",
+      "panel": "ACTS_03_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.2767,
+        0.22,
+        0.0966
+      ],
+      "tail": [
+        0.13,
+        0.3975
+      ],
+      "text_key": "acts.3.p8.b2"
+    },
+    {
+      "id": "ACTS_03_P008_B003",
+      "panel": "ACTS_03_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5296,
+        0.45,
+        0.0873
+      ],
+      "tail": [
+        0.745,
+        0.6654
+      ],
+      "text_key": "acts.3.p8.b3"
+    }
+  ]
+}

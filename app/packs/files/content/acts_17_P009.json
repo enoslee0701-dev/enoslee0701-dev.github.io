@@ -1,0 +1,115 @@
+{
+  "id": "ACTS_17_P009",
+  "book": "acts",
+  "chapter": 17,
+  "page": 9,
+  "ref": "17:26-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "「他从一个人造出了万族，使他们住在全地上，又预先定好了他们的年代和居住的疆界，」"
+      }
+    },
+    {
+      "id": "ACTS_17_P009_F2",
+      "box": [
+        0,
+        0.3125,
+        0.5098,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "「要他们寻求神，也许可以摸索而找到他，其实他离我们每个人并不远；」"
+      }
+    },
+    {
+      "id": "ACTS_17_P009_F3",
+      "box": [
+        0.5156,
+        0.3125,
+        0.4844,
+        0.2891
+      ]
+    },
+    {
+      "id": "ACTS_17_P009_F4",
+      "box": [
+        0,
+        0.6055,
+        1,
+        0.3945
+      ],
+      "alt": {
+        "zh-CN": "「因为我们的生活、行动、存在，都在于他。正如你们的一些诗人说：『我们也是他的后代。』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P009_B017",
+      "panel": "ACTS_17_P009_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0093,
+        0.92,
+        0.0618
+      ],
+      "tail": null,
+      "text_key": "acts.17.p9.b17"
+    },
+    {
+      "id": "ACTS_17_P009_B018",
+      "panel": "ACTS_17_P009_F2",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0255,
+        0.5207,
+        0.4588,
+        0.0693
+      ],
+      "tail": [
+        0.2549,
+        0.6016
+      ],
+      "text_key": "acts.17.p9.b18"
+    },
+    {
+      "id": "ACTS_17_P009_B019",
+      "panel": "ACTS_17_P009_F4",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6173,
+        0.5,
+        0.0789
+      ],
+      "tail": [
+        0.28,
+        0.7356
+      ],
+      "text_key": "acts.17.p9.b19"
+    }
+  ]
+}

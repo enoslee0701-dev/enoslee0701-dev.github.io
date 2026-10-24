@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_08_P007",
+  "book": "acts",
+  "chapter": 8,
+  "page": 7,
+  "ref": "8:26-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "「起来，往南走，到那条从耶路撒冷下到迦萨的路上去。」"
+      }
+    },
+    {
+      "id": "ACTS_08_P007_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.1563
+      ],
+      "alt": {
+        "zh-CN": "那是一条旷野路。腓利就动身去了。"
+      }
+    },
+    {
+      "id": "ACTS_08_P007_F3",
+      "box": [
+        0,
+        0.4499,
+        1,
+        0.5501
+      ],
+      "alt": {
+        "zh-CN": "恰巧有一个衣索匹亚人，是位有大权的太监……他到耶路撒冷礼拜过了。"
+      }
+    },
+    {
+      "id": "ACTS_08_P007_F4",
+      "box": [
+        0.4463,
+        0.76,
+        0.5537,
+        0.24
+      ],
+      "alt": {
+        "zh-CN": "这时正要回去，坐在车上念先知以赛亚的书。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P007_B001",
+      "panel": "ACTS_08_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0085,
+        0.45,
+        0.0624
+      ],
+      "tail": [
+        0.255,
+        0.0993
+      ],
+      "text_key": "acts.8.p7.b1"
+    },
+    {
+      "id": "ACTS_08_P007_B002",
+      "panel": "ACTS_08_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2985,
+        0.42,
+        0.0531
+      ],
+      "tail": null,
+      "text_key": "acts.8.p7.b2"
+    },
+    {
+      "id": "ACTS_08_P007_B003",
+      "panel": "ACTS_08_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4664,
+        0.4,
+        0.044
+      ],
+      "tail": null,
+      "text_key": "acts.8.p7.b3"
+    },
+    {
+      "id": "ACTS_08_P007_B004",
+      "panel": "ACTS_08_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4629,
+        0.7696,
+        0.1993,
+        0.072
+      ],
+      "tail": null,
+      "text_key": "acts.8.p7.b4"
+    }
+  ]
+}

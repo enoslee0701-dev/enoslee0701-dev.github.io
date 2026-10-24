@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_20_P002",
+  "book": "acts",
+  "chapter": 20,
+  "page": 2,
+  "ref": "20:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_20_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_20_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "七日的第一日，我们聚在一起擘饼。保罗因为第二天要走，就和他们讲论，一直讲到半夜。"
+      }
+    },
+    {
+      "id": "ACTS_20_P002_F2",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "我们聚会的楼上点着许多灯。"
+      }
+    },
+    {
+      "id": "ACTS_20_P002_F3",
+      "box": [
+        0,
+        0.5501,
+        1,
+        0.4499
+      ],
+      "alt": {
+        "zh-CN": "有一个少年人名叫犹推古，坐在窗台上，困得睡着了。"
+      }
+    },
+    {
+      "id": "ACTS_20_P002_F4",
+      "box": [
+        0.709,
+        0.76,
+        0.287,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "少年合上了眼睛。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_20_P002_B005",
+      "panel": "ACTS_20_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.04,
+        0.012,
+        0.5,
+        0.0658
+      ],
+      "tail": null,
+      "text_key": "acts.20.p2.b5"
+    },
+    {
+      "id": "ACTS_20_P002_B006",
+      "panel": "ACTS_20_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.3094,
+        0.45,
+        0.0391
+      ],
+      "tail": null,
+      "text_key": "acts.20.p2.b6"
+    },
+    {
+      "id": "ACTS_20_P002_B007",
+      "panel": "ACTS_20_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5636,
+        0.42,
+        0.0629
+      ],
+      "tail": null,
+      "text_key": "acts.20.p2.b7"
+    }
+  ]
+}

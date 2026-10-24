@@ -1,0 +1,91 @@
+{
+  "id": "ACTS_02_P003",
+  "book": "acts",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "他们都被圣灵充满，"
+      }
+    },
+    {
+      "id": "ACTS_02_P003_F2",
+      "box": [
+        0,
+        0.2598,
+        0.555,
+        0.278
+      ]
+    },
+    {
+      "id": "ACTS_02_P003_F3",
+      "box": [
+        0.415,
+        0.2598,
+        0.585,
+        0.278
+      ]
+    },
+    {
+      "id": "ACTS_02_P003_F4",
+      "box": [
+        0,
+        0.5423,
+        1,
+        0.4577
+      ],
+      "alt": {
+        "zh-CN": "……按照圣灵所赐的能力说起别国的语言来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P003_B001",
+      "panel": "ACTS_02_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.74,
+        0.0051,
+        0.25,
+        0.0409
+      ],
+      "tail": null,
+      "text_key": "acts.2.p3.b1"
+    },
+    {
+      "id": "ACTS_02_P003_B002",
+      "panel": "ACTS_02_P003_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.556,
+        0.42,
+        0.0732
+      ],
+      "tail": null,
+      "text_key": "acts.2.p3.b2"
+    }
+  ]
+}

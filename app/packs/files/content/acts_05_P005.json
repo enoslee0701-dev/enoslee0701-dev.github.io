@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_05_P005",
+  "book": "acts",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "妇人立刻倒在彼得脚前，断了气。"
+      }
+    },
+    {
+      "id": "ACTS_05_P005_F2",
+      "box": [
+        0,
+        0.4043,
+        0.499,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "那些年轻人进来，看见她已经死了，就把她抬出去，"
+      }
+    },
+    {
+      "id": "ACTS_05_P005_F3",
+      "box": [
+        0.5049,
+        0.4043,
+        0.4951,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "埋葬在她丈夫旁边。"
+      }
+    },
+    {
+      "id": "ACTS_05_P005_F4",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "全教会和所有听见这事的人都非常惧怕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P005_B001",
+      "panel": "ACTS_05_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.016,
+        0.42,
+        0.072
+      ],
+      "tail": null,
+      "text_key": "acts.5.p5.b1"
+    },
+    {
+      "id": "ACTS_05_P005_B002",
+      "panel": "ACTS_05_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.4146,
+        0.2994,
+        0.0618
+      ],
+      "tail": null,
+      "text_key": "acts.5.p5.b2"
+    },
+    {
+      "id": "ACTS_05_P005_B003",
+      "panel": "ACTS_05_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6534,
+        0.4146,
+        0.3267,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "acts.5.p5.b3"
+    },
+    {
+      "id": "ACTS_05_P005_B004",
+      "panel": "ACTS_05_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.676,
+        0.32,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "acts.5.p5.b4"
+    }
+  ]
+}

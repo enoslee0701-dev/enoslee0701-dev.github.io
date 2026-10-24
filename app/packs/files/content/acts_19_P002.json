@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_19_P002",
+  "book": "acts",
+  "chapter": 19,
+  "page": 2,
+  "ref": "19:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_19_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_19_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.207
+      ],
+      "alt": {
+        "zh-CN": "他们听了这话，就奉主耶稣的名受洗。"
+      }
+    },
+    {
+      "id": "ACTS_19_P002_F2",
+      "box": [
+        0,
+        0.211,
+        1,
+        0.4635
+      ],
+      "alt": {
+        "zh-CN": "保罗按手在他们头上，圣灵就降在他们身上，他们说方言，又说预言。"
+      }
+    },
+    {
+      "id": "ACTS_19_P002_F3",
+      "box": [
+        0,
+        0.6771,
+        0.4502,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "一个年轻门徒满脸泪光，开口说话。"
+      }
+    },
+    {
+      "id": "ACTS_19_P002_F4",
+      "box": [
+        0.4561,
+        0.6771,
+        0.5439,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "一共约有十二个人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_19_P002_B005",
+      "panel": "ACTS_19_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.29,
+        0.0062,
+        0.25,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "acts.19.p2.b5"
+    },
+    {
+      "id": "ACTS_19_P002_B006",
+      "panel": "ACTS_19_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.2249,
+        0.41,
+        0.0695
+      ],
+      "tail": null,
+      "text_key": "acts.19.p2.b6"
+    },
+    {
+      "id": "ACTS_19_P002_B007",
+      "panel": "ACTS_19_P002_F4",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4833,
+        0.6868,
+        0.4895,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "acts.19.p2.b7"
+    }
+  ]
+}

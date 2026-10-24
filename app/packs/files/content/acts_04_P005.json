@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_04_P005",
+  "book": "acts",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "他们看见彼得和约翰的胆量，又看出他们原是没有受过教育的平常人，就很惊奇，"
+      }
+    },
+    {
+      "id": "ACTS_04_P005_F2",
+      "box": [
+        0,
+        0.2493,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "认出他们是跟耶稣在一起的人；"
+      }
+    },
+    {
+      "id": "ACTS_04_P005_F3",
+      "box": [
+        0,
+        0.6257,
+        0.4961,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "又看见那个被治好的人和他们一同站着，"
+      }
+    },
+    {
+      "id": "ACTS_04_P005_F4",
+      "box": [
+        0.5039,
+        0.6257,
+        0.4961,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "就没有话可以反驳。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_04_P005_B001",
+      "panel": "ACTS_04_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0146,
+        0.39,
+        0.1464
+      ],
+      "tail": null,
+      "text_key": "acts.4.p5.b1"
+    },
+    {
+      "id": "ACTS_04_P005_B002",
+      "panel": "ACTS_04_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.2605,
+        0.5,
+        0.0446
+      ],
+      "tail": null,
+      "text_key": "acts.4.p5.b2"
+    },
+    {
+      "id": "ACTS_04_P005_B003",
+      "panel": "ACTS_04_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0248,
+        0.6407,
+        0.4464,
+        0.1122
+      ],
+      "tail": null,
+      "text_key": "acts.4.p5.b3"
+    },
+    {
+      "id": "ACTS_04_P005_B004",
+      "panel": "ACTS_04_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5138,
+        0.9251,
+        0.1389,
+        0.0598
+      ],
+      "tail": null,
+      "text_key": "acts.4.p5.b4"
+    }
+  ]
+}

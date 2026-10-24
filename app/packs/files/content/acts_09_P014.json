@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_09_P014",
+  "book": "acts",
+  "chapter": 9,
+  "page": 14,
+  "ref": "9:36-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P014_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "在约帕有一个女门徒，名叫大比大，希腊话叫多加；她常常行善，多多周济穷人。"
+      }
+    },
+    {
+      "id": "ACTS_09_P014_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "那时她生病死了，人们把她洗干净，停放在楼上。"
+      }
+    },
+    {
+      "id": "ACTS_09_P014_F3",
+      "box": [
+        0,
+        0.2813,
+        1,
+        0.2813
+      ],
+      "alt": {
+        "zh-CN": "吕大离约帕很近；门徒听说彼得在那里，就派两个人去见他，"
+      }
+    },
+    {
+      "id": "ACTS_09_P014_F4",
+      "box": [
+        0,
+        0.5651,
+        1,
+        0.4349
+      ],
+      "alt": {
+        "zh-CN": "央求他说：「请快到我们那里去，不要耽搁。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P014_B001",
+      "panel": "ACTS_09_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0083,
+        0.4491,
+        0.0553
+      ],
+      "tail": null,
+      "text_key": "acts.9.p14.b1"
+    },
+    {
+      "id": "ACTS_09_P014_B002",
+      "panel": "ACTS_09_P014_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5257,
+        0.2269,
+        0.4446,
+        0.0415
+      ],
+      "tail": null,
+      "text_key": "acts.9.p14.b2"
+    },
+    {
+      "id": "ACTS_09_P014_B003",
+      "panel": "ACTS_09_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2897,
+        0.5,
+        0.0506
+      ],
+      "tail": null,
+      "text_key": "acts.9.p14.b3"
+    },
+    {
+      "id": "ACTS_09_P014_B004",
+      "panel": "ACTS_09_P014_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.02,
+        0.5781,
+        0.4,
+        0.0521
+      ],
+      "tail": [
+        0.22,
+        0.6737
+      ],
+      "text_key": "acts.9.p14.b4"
+    }
+  ]
+}

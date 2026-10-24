@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_27_P010",
+  "book": "acts",
+  "chapter": 27,
+  "page": 10,
+  "ref": "27:30-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "水手想要逃离这条船，就把小艇放到海里，假装要从船头抛锚。"
+      }
+    },
+    {
+      "id": "ACTS_27_P010_F2",
+      "box": [
+        0,
+        0.237,
+        0.5762,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "保罗对百夫长和士兵说：「这些人如果不留在船上，你们就不能得救。」"
+      }
+    },
+    {
+      "id": "ACTS_27_P010_F3",
+      "box": [
+        0.582,
+        0.237,
+        0.418,
+        0.2773
+      ]
+    },
+    {
+      "id": "ACTS_27_P010_F4",
+      "box": [
+        0,
+        0.5182,
+        1,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "于是士兵砍断小艇的绳子，让它漂走。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P010_B032",
+      "panel": "ACTS_27_P010_F1",
+      "order": 32,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0093,
+        0.27,
+        0.0934
+      ],
+      "tail": null,
+      "text_key": "acts.27.p10.b32"
+    },
+    {
+      "id": "ACTS_27_P010_B033",
+      "panel": "ACTS_27_P010_F2",
+      "order": 33,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0173,
+        0.2453,
+        0.3169,
+        0.0108
+      ],
+      "tail": null,
+      "text_key": "acts.27.p10.b33"
+    },
+    {
+      "id": "ACTS_27_P010_B034",
+      "panel": "ACTS_27_P010_F2",
+      "order": 34,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0173,
+        0.2617,
+        0.3169,
+        0.0196
+      ],
+      "tail": [
+        0.1758,
+        0.309
+      ],
+      "text_key": "acts.27.p10.b34"
+    },
+    {
+      "id": "ACTS_27_P010_B035",
+      "panel": "ACTS_27_P010_F4",
+      "order": 35,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5327,
+        0.36,
+        0.0626
+      ],
+      "tail": null,
+      "text_key": "acts.27.p10.b35"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_16_P011",
+  "book": "acts",
+  "chapter": 16,
+  "page": 11,
+  "ref": "16:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "狱卒叫人拿灯来，冲了进去，战战兢兢地俯伏在保罗和西拉面前；"
+      }
+    },
+    {
+      "id": "ACTS_16_P011_F2",
+      "box": [
+        0,
+        0.278,
+        1,
+        0.2721
+      ]
+    },
+    {
+      "id": "ACTS_16_P011_F3",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P011_B033",
+      "panel": "ACTS_16_P011_F1",
+      "order": 33,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.011,
+        0.4,
+        0.0494
+      ],
+      "tail": null,
+      "text_key": "acts.16.p11.b33"
+    },
+    {
+      "id": "ACTS_16_P011_B034",
+      "panel": "ACTS_16_P011_F3",
+      "order": 34,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.5661,
+        0.42,
+        0.0715
+      ],
+      "tail": [
+        0.24,
+        0.6823
+      ],
+      "text_key": "acts.16.p11.b34"
+    },
+    {
+      "id": "ACTS_16_P011_B035",
+      "panel": "ACTS_16_P011_F3",
+      "order": 35,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.5661,
+        0.42,
+        0.0715
+      ],
+      "tail": [
+        0.76,
+        0.6823
+      ],
+      "text_key": "acts.16.p11.b35"
+    }
+  ]
+}

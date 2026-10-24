@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_20_P007",
+  "book": "acts",
+  "chapter": 20,
+  "page": 7,
+  "ref": "20:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_20_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_20_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.222
+      ],
+      "alt": {
+        "zh-CN": "「现在我心里被催逼着，要往耶路撒冷去，不知道在那里会遇见什么事；」"
+      }
+    },
+    {
+      "id": "ACTS_20_P007_F2",
+      "box": [
+        0,
+        0.2266,
+        0.3379,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "「只知道圣灵在各城里向我证明，有捆锁和患难等着我。」"
+      }
+    },
+    {
+      "id": "ACTS_20_P007_F3",
+      "box": [
+        0.3447,
+        0.2266,
+        0.6553,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "「但我不把性命看为宝贵，只要跑完我的路程，……」"
+      }
+    },
+    {
+      "id": "ACTS_20_P007_F4",
+      "box": [
+        0,
+        0.7012,
+        1,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "「……完成我从主耶稣领受的职事，为　神恩典的福音作见证。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_20_P007_B020",
+      "panel": "ACTS_20_P007_F1",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0089,
+        0.5,
+        0.0532
+      ],
+      "tail": [
+        0.28,
+        0.0843
+      ],
+      "text_key": "acts.20.p7.b20"
+    },
+    {
+      "id": "ACTS_20_P007_B021",
+      "panel": "ACTS_20_P007_F2",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0169,
+        0.5745,
+        0.3041,
+        0.1081
+      ],
+      "tail": [
+        0.169,
+        0.6967
+      ],
+      "text_key": "acts.20.p7.b21"
+    },
+    {
+      "id": "ACTS_20_P007_B022",
+      "panel": "ACTS_20_P007_F3",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3644,
+        0.2407,
+        0.249,
+        0.1128
+      ],
+      "tail": [
+        0.4889,
+        0.4005
+      ],
+      "text_key": "acts.20.p7.b22"
+    },
+    {
+      "id": "ACTS_20_P007_B023",
+      "panel": "ACTS_20_P007_F4",
+      "order": 23,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.9223,
+        0.39,
+        0.0687
+      ],
+      "tail": [
+        0.775,
+        1
+      ],
+      "text_key": "acts.20.p7.b23"
+    }
+  ]
+}

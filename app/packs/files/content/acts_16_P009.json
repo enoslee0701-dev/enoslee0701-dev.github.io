@@ -1,0 +1,91 @@
+{
+  "id": "ACTS_16_P009",
+  "book": "acts",
+  "chapter": 16,
+  "page": 9,
+  "ref": "16:26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3086
+      ],
+      "alt": {
+        "zh-CN": "忽然发生大地震，连监狱的地基都摇动了，"
+      }
+    },
+    {
+      "id": "ACTS_16_P009_F2",
+      "box": [
+        0,
+        0.3125,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "监狱的门立刻全都开了，所有囚犯的锁链也都松开了。"
+      }
+    },
+    {
+      "id": "ACTS_16_P009_F3",
+      "box": [
+        0,
+        0.6491,
+        0.4346,
+        0.3509
+      ]
+    },
+    {
+      "id": "ACTS_16_P009_F4",
+      "box": [
+        0.4414,
+        0.6491,
+        0.5586,
+        0.3509
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P009_B029",
+      "panel": "ACTS_16_P009_F1",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0093,
+        0.39,
+        0.0555
+      ],
+      "tail": null,
+      "text_key": "acts.16.p9.b29"
+    },
+    {
+      "id": "ACTS_16_P009_B030",
+      "panel": "ACTS_16_P009_F2",
+      "order": 30,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.592,
+        0.35,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "acts.16.p9.b30"
+    }
+  ]
+}

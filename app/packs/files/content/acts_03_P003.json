@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_03_P003",
+  "book": "acts",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1751
+      ],
+      "alt": {
+        "zh-CN": "金子银子我都没有，"
+      }
+    },
+    {
+      "id": "ACTS_03_P003_F2",
+      "box": [
+        0,
+        0.1797,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "只把我有的给你："
+      }
+    },
+    {
+      "id": "ACTS_03_P003_F3",
+      "box": [
+        0,
+        0.446,
+        1,
+        0.554
+      ],
+      "alt": {
+        "zh-CN": "我奉拿撒勒人耶稣基督的名，叫你起来走路！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P003_B001",
+      "panel": "ACTS_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.014,
+        0.37,
+        0.14
+      ],
+      "tail": [
+        0.785,
+        0.1715
+      ],
+      "text_key": "acts.3.p3.b1"
+    },
+    {
+      "id": "ACTS_03_P003_B002",
+      "panel": "ACTS_03_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.1928,
+        0.42,
+        0.0785
+      ],
+      "tail": [
+        0.76,
+        0.2975
+      ],
+      "text_key": "acts.3.p3.b2"
+    },
+    {
+      "id": "ACTS_03_P003_B003",
+      "panel": "ACTS_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.57,
+        0.4626,
+        0.4,
+        0.0941
+      ],
+      "tail": [
+        0.77,
+        0.6121
+      ],
+      "text_key": "acts.3.p3.b3"
+    }
+  ]
+}

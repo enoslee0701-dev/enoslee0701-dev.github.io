@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_22_P010",
+  "book": "acts",
+  "chapter": 22,
+  "page": 10,
+  "ref": "22:30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_22_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_22_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2083
+      ],
+      "alt": {
+        "zh-CN": "第二天，千夫长要弄清楚犹太人控告保罗的实情，就解开他，"
+      }
+    },
+    {
+      "id": "ACTS_22_P010_F2",
+      "box": [
+        0,
+        0.2129,
+        1,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "下令祭司长和全议会的人都聚集，"
+      }
+    },
+    {
+      "id": "ACTS_22_P010_F3",
+      "box": [
+        0,
+        0.502,
+        1,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "然后带保罗下来，叫他站在他们面前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_22_P010_B035",
+      "panel": "ACTS_22_P010_F1",
+      "order": 35,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0083,
+        0.26,
+        0.0749
+      ],
+      "tail": null,
+      "text_key": "acts.22.p10.b35"
+    },
+    {
+      "id": "ACTS_22_P010_B036",
+      "panel": "ACTS_22_P010_F2",
+      "order": 36,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.2243,
+        0.46,
+        0.0627
+      ],
+      "tail": null,
+      "text_key": "acts.22.p10.b36"
+    },
+    {
+      "id": "ACTS_22_P010_B037",
+      "panel": "ACTS_22_P010_F3",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.5169,
+        0.45,
+        0.0697
+      ],
+      "tail": null,
+      "text_key": "acts.22.p10.b37"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_08_P002",
+  "book": "acts",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "那些分散的人走到各处传道。腓利下到撒马利亚城去，宣讲基督。"
+      }
+    },
+    {
+      "id": "ACTS_08_P002_F2",
+      "box": [
+        0,
+        0.2292,
+        0.5029,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "众人听见了，又看见腓利所行的神迹，就同心合意地听从他的话。"
+      }
+    },
+    {
+      "id": "ACTS_08_P002_F3",
+      "box": [
+        0.5098,
+        0.2292,
+        0.4902,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "……还有许多瘫痪的、瘸腿的，都得了医治。"
+      }
+    },
+    {
+      "id": "ACTS_08_P002_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "那城里充满了欢喜。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P002_B001",
+      "panel": "ACTS_08_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.009,
+        0.45,
+        0.063
+      ],
+      "tail": null,
+      "text_key": "acts.8.p2.b1"
+    },
+    {
+      "id": "ACTS_08_P002_B002",
+      "panel": "ACTS_08_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0151,
+        0.2397,
+        0.2263,
+        0.0628
+      ],
+      "tail": null,
+      "text_key": "acts.8.p2.b2"
+    },
+    {
+      "id": "ACTS_08_P002_B003",
+      "panel": "ACTS_08_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5196,
+        0.2397,
+        0.2205,
+        0.0628
+      ],
+      "tail": null,
+      "text_key": "acts.8.p2.b3"
+    },
+    {
+      "id": "ACTS_08_P002_B004",
+      "panel": "ACTS_08_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.5869,
+        0.55,
+        0.0375
+      ],
+      "tail": null,
+      "text_key": "acts.8.p2.b4"
+    }
+  ]
+}

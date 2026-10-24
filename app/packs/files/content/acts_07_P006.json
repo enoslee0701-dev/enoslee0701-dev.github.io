@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_07_P006",
+  "book": "acts",
+  "chapter": 7,
+  "page": 6,
+  "ref": "7:23-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "他快到四十岁的时候，心里想去看看他的同胞以色列人；"
+      }
+    },
+    {
+      "id": "ACTS_07_P006_F2",
+      "box": [
+        0,
+        0.2721,
+        0.3525,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "他以为同胞会明白　神是借他的手救他们；他们却不明白。"
+      }
+    },
+    {
+      "id": "ACTS_07_P006_F3",
+      "box": [
+        0.3623,
+        0.2721,
+        0.6377,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "「谁立你作我们的首领和审判官呢？难道你要杀我，像昨天杀那个埃及人吗？」"
+      }
+    },
+    {
+      "id": "ACTS_07_P006_F4",
+      "box": [
+        0,
+        0.7194,
+        1,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "摩西听了这话就逃走了，在米甸作外人；在那里生了两个儿子。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P006_B001",
+      "panel": "ACTS_07_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.008,
+        0.47,
+        0.064
+      ],
+      "tail": [
+        0.735,
+        0.0987
+      ],
+      "text_key": "acts.7.p6.b1"
+    },
+    {
+      "id": "ACTS_07_P006_B002",
+      "panel": "ACTS_07_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0176,
+        0.2854,
+        0.3172,
+        0.0619
+      ],
+      "tail": [
+        0.1762,
+        0.3916
+      ],
+      "text_key": "acts.7.p6.b2"
+    },
+    {
+      "id": "ACTS_07_P006_B003",
+      "panel": "ACTS_07_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5664,
+        0.2854,
+        0.4081,
+        0.0664
+      ],
+      "tail": [
+        0.7705,
+        0.3961
+      ],
+      "text_key": "acts.7.p6.b3"
+    },
+    {
+      "id": "ACTS_07_P006_B004",
+      "panel": "ACTS_07_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.7306,
+        0.47,
+        0.0841
+      ],
+      "tail": [
+        0.735,
+        0.8428
+      ],
+      "text_key": "acts.7.p6.b4"
+    }
+  ]
+}

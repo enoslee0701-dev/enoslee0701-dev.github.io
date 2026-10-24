@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_05_P001",
+  "book": "acts",
+  "chapter": 5,
+  "page": 1,
+  "ref": "5:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "有一个名叫亚拿尼亚的人，和他的妻子撒非喇一起卖了田产，"
+      }
+    },
+    {
+      "id": "ACTS_05_P001_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "把卖得的钱私下留了一部分，他的妻子也知道，"
+      }
+    },
+    {
+      "id": "ACTS_05_P001_F3",
+      "box": [
+        0,
+        0.5469,
+        1,
+        0.4531
+      ],
+      "alt": {
+        "zh-CN": "其余的拿来放在使徒脚前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P001_B001",
+      "panel": "ACTS_05_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0114,
+        0.5,
+        0.0682
+      ],
+      "tail": null,
+      "text_key": "acts.5.p1.b1"
+    },
+    {
+      "id": "ACTS_05_P001_B002",
+      "panel": "ACTS_05_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3018,
+        0.34,
+        0.1018
+      ],
+      "tail": null,
+      "text_key": "acts.5.p1.b2"
+    },
+    {
+      "id": "ACTS_05_P001_B003",
+      "panel": "ACTS_05_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.5605,
+        0.45,
+        0.0679
+      ],
+      "tail": null,
+      "text_key": "acts.5.p1.b3"
+    }
+  ]
+}

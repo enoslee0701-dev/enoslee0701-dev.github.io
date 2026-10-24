@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_02_P012",
+  "book": "acts",
+  "chapter": 2,
+  "page": 12,
+  "ref": "2:32-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "「这位耶稣，　神已经使他复活了，我们都为这件事作见证。」"
+      }
+    },
+    {
+      "id": "ACTS_02_P012_F2",
+      "box": [
+        0,
+        0.3555,
+        0.5,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "「他被高举在　神的右边，又从父领受了所应许的圣灵，就把你们所看见所听见的，倾倒下来。」"
+      }
+    },
+    {
+      "id": "ACTS_02_P012_F3",
+      "box": [
+        0.5059,
+        0.3555,
+        0.4941,
+        0.3145
+      ]
+    },
+    {
+      "id": "ACTS_02_P012_F4",
+      "box": [
+        0,
+        0.6745,
+        1,
+        0.3255
+      ],
+      "alt": {
+        "zh-CN": "「大卫并没有升到天上，他却说：主对我主说：你坐在我的右边，」「等我使你的仇敌作你的脚凳。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P012_B001",
+      "panel": "ACTS_02_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0106,
+        0.42,
+        0.0704
+      ],
+      "tail": [
+        0.76,
+        0.1162
+      ],
+      "text_key": "acts.2.p12.b1"
+    },
+    {
+      "id": "ACTS_02_P012_B002",
+      "panel": "ACTS_02_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.3649,
+        0.235,
+        0.0754
+      ],
+      "tail": [
+        0.3675,
+        0.4718
+      ],
+      "text_key": "acts.2.p12.b2"
+    },
+    {
+      "id": "ACTS_02_P012_B003",
+      "panel": "ACTS_02_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.694,
+        0.32,
+        0.1627
+      ],
+      "tail": [
+        0.19,
+        0.8893
+      ],
+      "text_key": "acts.2.p12.b3"
+    },
+    {
+      "id": "ACTS_02_P012_B004",
+      "panel": "ACTS_02_P012_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.68,
+        0.7722,
+        0.3,
+        0.1302
+      ],
+      "tail": [
+        0.83,
+        0.935
+      ],
+      "text_key": "acts.2.p12.b4"
+    }
+  ]
+}

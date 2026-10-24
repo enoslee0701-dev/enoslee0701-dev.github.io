@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_14_P001",
+  "book": "acts",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "两人在以哥念一同进了犹太人的会堂，他们在那里讲道，使很多犹太人和希腊人信了。"
+      }
+    },
+    {
+      "id": "ACTS_14_P001_F2",
+      "box": [
+        0,
+        0.2266,
+        0.4482,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "但那些不信从的犹太人煽动外邦人，使他们心里恼恨弟兄们。"
+      }
+    },
+    {
+      "id": "ACTS_14_P001_F3",
+      "box": [
+        0.4551,
+        0.2266,
+        0.5449,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "两人在那里住了很久，倚靠主放胆讲道；主借他们的手行神迹奇事，证明他恩典的道。"
+      }
+    },
+    {
+      "id": "ACTS_14_P001_F4",
+      "box": [
+        0,
+        0.6009,
+        1,
+        0.3991
+      ],
+      "alt": {
+        "zh-CN": "城里的人分成两派，有的附从犹太人，有的附从使徒。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_14_P001_B001",
+      "panel": "ACTS_14_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0067,
+        0.44,
+        0.0489
+      ],
+      "tail": null,
+      "text_key": "acts.14.p1.b1"
+    },
+    {
+      "id": "ACTS_14_P001_B002",
+      "panel": "ACTS_14_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2151,
+        0.2377,
+        0.2151,
+        0.0666
+      ],
+      "tail": null,
+      "text_key": "acts.14.p1.b2"
+    },
+    {
+      "id": "ACTS_14_P001_B003",
+      "panel": "ACTS_14_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4714,
+        0.2377,
+        0.2724,
+        0.0592
+      ],
+      "tail": null,
+      "text_key": "acts.14.p1.b3"
+    },
+    {
+      "id": "ACTS_14_P001_B004",
+      "panel": "ACTS_14_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.6129,
+        0.41,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "acts.14.p1.b4"
+    }
+  ]
+}

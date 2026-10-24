@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_28_P008",
+  "book": "acts",
+  "chapter": 28,
+  "page": 8,
+  "ref": "28:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_28_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_28_P008_F1",
+      "box": [
+        0,
+        0,
+        0.542,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "「我们没有收到从犹太来的、关于你的信，……」"
+      }
+    },
+    {
+      "id": "ACTS_28_P008_F2",
+      "box": [
+        0.5479,
+        0,
+        0.4521,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "「不过我们想听听你的看法，……」"
+      }
+    },
+    {
+      "id": "ACTS_28_P008_F3",
+      "box": [
+        0,
+        0.2682,
+        1,
+        0.4121
+      ],
+      "alt": {
+        "zh-CN": "保罗从早到晚向他们讲解，见证　神的国，……"
+      }
+    },
+    {
+      "id": "ACTS_28_P008_F4",
+      "box": [
+        0,
+        0.6823,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "他说的话，有的人信了，有的人不信。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_28_P008_B026",
+      "panel": "ACTS_28_P008_F1",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3035,
+        0.0106,
+        0.2222,
+        0.0528
+      ],
+      "tail": [
+        0.4146,
+        0.0898
+      ],
+      "text_key": "acts.28.p8.b26"
+    },
+    {
+      "id": "ACTS_28_P008_B027",
+      "panel": "ACTS_28_P008_F2",
+      "order": 27,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5569,
+        0.0053,
+        0.1808,
+        0.0396
+      ],
+      "tail": [
+        0.6473,
+        0.0713
+      ],
+      "text_key": "acts.28.p8.b27"
+    },
+    {
+      "id": "ACTS_28_P008_B028",
+      "panel": "ACTS_28_P008_F3",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2806,
+        0.4,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "acts.28.p8.b28"
+    },
+    {
+      "id": "ACTS_28_P008_B029",
+      "panel": "ACTS_28_P008_F4",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.9492,
+        0.42,
+        0.0444
+      ],
+      "tail": null,
+      "text_key": "acts.28.p8.b29"
+    }
+  ]
+}

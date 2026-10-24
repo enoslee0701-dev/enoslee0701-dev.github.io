@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_25_P007",
+  "book": "acts",
+  "chapter": 25,
+  "page": 7,
+  "ref": "25:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_25_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_25_P007_F1",
+      "box": [
+        0,
+        0,
+        0.4951,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "「这些事该怎样查问，我觉得很为难，」"
+      }
+    },
+    {
+      "id": "ACTS_25_P007_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "「但保罗要求把他留下，等皇帝审判，」"
+      }
+    },
+    {
+      "id": "ACTS_25_P007_F3",
+      "box": [
+        0,
+        0.293,
+        1,
+        0.2695
+      ],
+      "alt": {
+        "zh-CN": "「我自己也想听听这个人怎么说。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P007_F4",
+      "box": [
+        0,
+        0.5658,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "「明天你就可以听。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_25_P007_B023",
+      "panel": "ACTS_25_P007_F1",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.0087,
+        0.4554,
+        0.0346
+      ],
+      "tail": [
+        0.2475,
+        0.0721
+      ],
+      "text_key": "acts.25.p7.b23"
+    },
+    {
+      "id": "ACTS_25_P007_B024",
+      "panel": "ACTS_25_P007_F2",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5257,
+        0.2307,
+        0.4545,
+        0.049
+      ],
+      "tail": [
+        0.753,
+        0.2884
+      ],
+      "text_key": "acts.25.p7.b24"
+    },
+    {
+      "id": "ACTS_25_P007_B025",
+      "panel": "ACTS_25_P007_F3",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3092,
+        0.4,
+        0.0808
+      ],
+      "tail": [
+        0.23,
+        0.4169
+      ],
+      "text_key": "acts.25.p7.b25"
+    },
+    {
+      "id": "ACTS_25_P007_B026",
+      "panel": "ACTS_25_P007_F4",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.5788,
+        0.34,
+        0.0564
+      ],
+      "tail": [
+        0.61,
+        0.6786
+      ],
+      "text_key": "acts.25.p7.b26"
+    }
+  ]
+}

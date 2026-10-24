@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_14_P007",
+  "book": "acts",
+  "chapter": 14,
+  "page": 7,
+  "ref": "14:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_14_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_14_P007_F1",
+      "box": [
+        0,
+        0,
+        0.54,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "但有些犹太人从安提阿和以哥念来，煽动群众，"
+      }
+    },
+    {
+      "id": "ACTS_14_P007_F2",
+      "box": [
+        0.5469,
+        0,
+        0.4531,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "他们就用石头打保罗，"
+      }
+    },
+    {
+      "id": "ACTS_14_P007_F3",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "以为他已经死了，就把他拖到城外。"
+      }
+    },
+    {
+      "id": "ACTS_14_P007_F4",
+      "box": [
+        0,
+        0.625,
+        1,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "门徒围着他的时候，他就站起来，走进城里去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_14_P007_B023",
+      "panel": "ACTS_14_P007_F1",
+      "order": 23,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0216,
+        0.008,
+        0.486,
+        0.0428
+      ],
+      "tail": null,
+      "text_key": "acts.14.p7.b23"
+    },
+    {
+      "id": "ACTS_14_P007_B024",
+      "panel": "ACTS_14_P007_F2",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8006,
+        0.008,
+        0.1812,
+        0.0428
+      ],
+      "tail": null,
+      "text_key": "acts.14.p7.b24"
+    },
+    {
+      "id": "ACTS_14_P007_B025",
+      "panel": "ACTS_14_P007_F3",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.2813,
+        0.55,
+        0.035
+      ],
+      "tail": null,
+      "text_key": "acts.14.p7.b25"
+    },
+    {
+      "id": "ACTS_14_P007_B026",
+      "panel": "ACTS_14_P007_F4",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6325,
+        0.46,
+        0.0637
+      ],
+      "tail": null,
+      "text_key": "acts.14.p7.b26"
+    }
+  ]
+}

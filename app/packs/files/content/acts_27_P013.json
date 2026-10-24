@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_27_P013",
+  "book": "acts",
+  "chapter": 27,
+  "page": 13,
+  "ref": "27:38-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "大家吃饱了，就把船上的麦子扔进海里，让船轻一点。"
+      }
+    },
+    {
+      "id": "ACTS_27_P013_F2",
+      "box": [
+        0,
+        0.2441,
+        1,
+        0.2083
+      ],
+      "alt": {
+        "zh-CN": "天亮了，他们认不出那是什么地方，只看见一个海湾，有沙滩可以上岸，"
+      }
+    },
+    {
+      "id": "ACTS_27_P013_F3",
+      "box": [
+        0,
+        0.457,
+        0.2285,
+        0.543
+      ]
+    },
+    {
+      "id": "ACTS_27_P013_F4",
+      "box": [
+        0.2354,
+        0.457,
+        0.7646,
+        0.543
+      ],
+      "alt": {
+        "zh-CN": "于是砍断锚绳，把锚丢在海里，同时松开舵绳，拉起前帆，顺着风向岸边驶去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P013_B043",
+      "panel": "ACTS_27_P013_F1",
+      "order": 43,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.0048,
+        0.3,
+        0.0385
+      ],
+      "tail": null,
+      "text_key": "acts.27.p13.b43"
+    },
+    {
+      "id": "ACTS_27_P013_B044",
+      "panel": "ACTS_27_P013_F2",
+      "order": 44,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.2524,
+        0.42,
+        0.0541
+      ],
+      "tail": null,
+      "text_key": "acts.27.p13.b44"
+    },
+    {
+      "id": "ACTS_27_P013_B045",
+      "panel": "ACTS_27_P013_F4",
+      "order": 45,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6559,
+        0.4787,
+        0.3211,
+        0.1194
+      ],
+      "tail": null,
+      "text_key": "acts.27.p13.b45"
+    }
+  ]
+}

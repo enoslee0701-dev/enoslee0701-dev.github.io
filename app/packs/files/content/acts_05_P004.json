@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_05_P004",
+  "book": "acts",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "大约过了三小时，他的妻子进来，还不知道发生了什么事。"
+      }
+    },
+    {
+      "id": "ACTS_05_P004_F2",
+      "box": [
+        0,
+        0.3066,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "彼得对她说：「告诉我，你们卖田地的钱就是这么多吗？」她说：「就是这么多。」"
+      }
+    },
+    {
+      "id": "ACTS_05_P004_F3",
+      "box": [
+        0,
+        0.6081,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "……埋葬你丈夫的人的脚已经到了门口，他们也要把你抬出去。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P004_B001",
+      "panel": "ACTS_05_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.3,
+        0.009,
+        0.36,
+        0.078
+      ],
+      "tail": null,
+      "text_key": "acts.5.p4.b1"
+    },
+    {
+      "id": "ACTS_05_P004_B002",
+      "panel": "ACTS_05_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.3185,
+        0.36,
+        0.0892
+      ],
+      "tail": [
+        0.48,
+        0.4375
+      ],
+      "text_key": "acts.5.p4.b2"
+    },
+    {
+      "id": "ACTS_05_P004_B003",
+      "panel": "ACTS_05_P004_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.58,
+        0.5149,
+        0.39,
+        0.0714
+      ],
+      "tail": [
+        0.775,
+        0.6041
+      ],
+      "text_key": "acts.5.p4.b3"
+    },
+    {
+      "id": "ACTS_05_P004_B004",
+      "panel": "ACTS_05_P004_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6199,
+        0.4,
+        0.0548
+      ],
+      "tail": [
+        0.23,
+        0.7139
+      ],
+      "text_key": "acts.5.p4.b4"
+    }
+  ]
+}

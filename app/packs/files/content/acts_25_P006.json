@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_25_P006",
+  "book": "acts",
+  "chapter": 25,
+  "page": 6,
+  "ref": "25:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_25_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_25_P006_F1",
+      "box": [
+        0,
+        0,
+        0.5342,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "「所以我毫不拖延，第二天就开庭，命令把那个人带上来。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P006_F2",
+      "box": [
+        0.543,
+        0,
+        0.457,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "「原告站起来控告他，但所告的并不是我预料的那类罪行。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P006_F3",
+      "box": [
+        0.565,
+        0.352,
+        0.423,
+        0.211
+      ]
+    },
+    {
+      "id": "ACTS_25_P006_F4",
+      "box": [
+        0,
+        0.3496,
+        1,
+        0.6504
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_25_P006_B019",
+      "panel": "ACTS_25_P006_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.016,
+        0.0104,
+        0.4059,
+        0.0553
+      ],
+      "tail": [
+        0.219,
+        0.1003
+      ],
+      "text_key": "acts.25.p6.b19"
+    },
+    {
+      "id": "ACTS_25_P006_B020",
+      "panel": "ACTS_25_P006_F2",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5613,
+        0.28,
+        0.4204,
+        0.0553
+      ],
+      "tail": [
+        0.7715,
+        0.3457
+      ],
+      "text_key": "acts.25.p6.b20"
+    },
+    {
+      "id": "ACTS_25_P006_B021",
+      "panel": "ACTS_25_P006_F4",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3756,
+        0.46,
+        0.117
+      ],
+      "tail": [
+        0.26,
+        0.5576
+      ],
+      "text_key": "acts.25.p6.b21"
+    },
+    {
+      "id": "ACTS_25_P006_B022",
+      "panel": "ACTS_25_P006_F4",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.8959,
+        0.4,
+        0.0845
+      ],
+      "tail": [
+        0.22,
+        1
+      ],
+      "text_key": "acts.25.p6.b22"
+    }
+  ]
+}

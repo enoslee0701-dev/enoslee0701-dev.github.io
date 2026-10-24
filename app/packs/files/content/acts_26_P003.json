@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_26_P003",
+  "book": "acts",
+  "chapter": 26,
+  "page": 3,
+  "ref": "26:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "从前我自己认为，应该用各种方法反对拿撒勒人耶稣的名，"
+      }
+    },
+    {
+      "id": "ACTS_26_P003_F2",
+      "box": [
+        0,
+        0.2695,
+        0.4834,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "……我把许多圣徒关进监牢。他们被处死时，我也投票赞成。"
+      }
+    },
+    {
+      "id": "ACTS_26_P003_F3",
+      "box": [
+        0.4902,
+        0.2695,
+        0.5098,
+        0.319
+      ]
+    },
+    {
+      "id": "ACTS_26_P003_F4",
+      "box": [
+        0,
+        0.5905,
+        1,
+        0.4095
+      ],
+      "alt": {
+        "zh-CN": "……我对他们怒不可遏，甚至追到外邦的城市去迫害他们。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P003_B008",
+      "panel": "ACTS_26_P003_F1",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0133,
+        0.22,
+        0.1065
+      ],
+      "tail": [
+        0.13,
+        0.1464
+      ],
+      "text_key": "acts.26.p3.b8"
+    },
+    {
+      "id": "ACTS_26_P003_B009",
+      "panel": "ACTS_26_P003_F2",
+      "order": 9,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0193,
+        0.5056,
+        0.435,
+        0.0733
+      ],
+      "tail": [
+        0.2368,
+        0.5885
+      ],
+      "text_key": "acts.26.p3.b9"
+    },
+    {
+      "id": "ACTS_26_P003_B010",
+      "panel": "ACTS_26_P003_F4",
+      "order": 10,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.6069,
+        0.45,
+        0.0737
+      ],
+      "tail": [
+        0.745,
+        0.7216
+      ],
+      "text_key": "acts.26.p3.b10"
+    }
+  ]
+}

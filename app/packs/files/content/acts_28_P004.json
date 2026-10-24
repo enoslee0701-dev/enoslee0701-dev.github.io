@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_28_P004",
+  "book": "acts",
+  "chapter": 28,
+  "page": 4,
+  "ref": "28:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_28_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_28_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "过了三个月，我们上了一艘亚历山大的船出发；"
+      }
+    },
+    {
+      "id": "ACTS_28_P004_F2",
+      "box": [
+        0,
+        0.265,
+        1,
+        0.377
+      ],
+      "alt": {
+        "zh-CN": "到了叙拉古，停留了三天；又从那里绕道到了利基翁。"
+      }
+    },
+    {
+      "id": "ACTS_28_P004_F3",
+      "box": [
+        0,
+        0.6458,
+        0.4385,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "过了一天，刮起南风，第二天就到了部丢利。"
+      }
+    },
+    {
+      "id": "ACTS_28_P004_F4",
+      "box": [
+        0.4463,
+        0.6458,
+        0.5537,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "在那里遇见了弟兄们，他们请我们一起住了七天。就这样，我们来到了罗马。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_28_P004_B013",
+      "panel": "ACTS_28_P004_F1",
+      "order": 13,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.0052,
+        0.4,
+        0.0287
+      ],
+      "tail": null,
+      "text_key": "acts.28.p4.b13"
+    },
+    {
+      "id": "ACTS_28_P004_B014",
+      "panel": "ACTS_28_P004_F2",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.3479,
+        0.55,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "acts.28.p4.b14"
+    },
+    {
+      "id": "ACTS_28_P004_B015",
+      "panel": "ACTS_28_P004_F3",
+      "order": 15,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0175,
+        0.9292,
+        0.4034,
+        0.0566
+      ],
+      "tail": null,
+      "text_key": "acts.28.p4.b15"
+    },
+    {
+      "id": "ACTS_28_P004_B016",
+      "panel": "ACTS_28_P004_F4",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4684,
+        0.6529,
+        0.3875,
+        0.0354
+      ],
+      "tail": null,
+      "text_key": "acts.28.p4.b16"
+    }
+  ]
+}

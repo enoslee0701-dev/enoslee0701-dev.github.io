@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_16_P015",
+  "book": "acts",
+  "chapter": 16,
+  "page": 15,
+  "ref": "16:40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "两人出了监狱，到吕底亚家里去，见了弟兄姊妹们，"
+      }
+    },
+    {
+      "id": "ACTS_16_P015_F2",
+      "box": [
+        0,
+        0.2917,
+        1,
+        0.3438
+      ],
+      "alt": {
+        "zh-CN": "鼓励了他们一番，"
+      }
+    },
+    {
+      "id": "ACTS_16_P015_F3",
+      "box": [
+        0,
+        0.6387,
+        1,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "就离开了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P015_B045",
+      "panel": "ACTS_16_P015_F1",
+      "order": 45,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0115,
+        0.42,
+        0.0575
+      ],
+      "tail": null,
+      "text_key": "acts.16.p15.b45"
+    },
+    {
+      "id": "ACTS_16_P015_B046",
+      "panel": "ACTS_16_P015_F2",
+      "order": 46,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.302,
+        0.42,
+        0.0481
+      ],
+      "tail": null,
+      "text_key": "acts.16.p15.b46"
+    },
+    {
+      "id": "ACTS_16_P015_B047",
+      "panel": "ACTS_16_P015_F3",
+      "order": 47,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6532,
+        0.4,
+        0.0794
+      ],
+      "tail": null,
+      "text_key": "acts.16.p15.b47"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "ACTS_22_P009",
+  "book": "acts",
+  "chapter": 22,
+  "page": 9,
+  "ref": "22:26-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_22_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_22_P009_F1",
+      "box": [
+        0,
+        0,
+        0.498,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "「你要做什么？这个人是罗马公民！」"
+      }
+    },
+    {
+      "id": "ACTS_22_P009_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "「告诉我，你是罗马公民吗？」「是的。」"
+      }
+    },
+    {
+      "id": "ACTS_22_P009_F3",
+      "box": [
+        0,
+        0.2396,
+        1,
+        0.431
+      ],
+      "alt": {
+        "zh-CN": "「我花了很多钱才得到罗马公民的身份。」「我生下来就是。」"
+      }
+    },
+    {
+      "id": "ACTS_22_P009_F4",
+      "box": [
+        0,
+        0.6751,
+        1,
+        0.3249
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_22_P009_B030",
+      "panel": "ACTS_22_P009_F1",
+      "order": 30,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.0095,
+        0.4482,
+        0.0519
+      ],
+      "tail": [
+        0.244,
+        0.085
+      ],
+      "text_key": "acts.22.p9.b30"
+    },
+    {
+      "id": "ACTS_22_P009_B031",
+      "panel": "ACTS_22_P009_F2",
+      "order": 31,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7415,
+        0.0071,
+        0.2435,
+        0.0286
+      ],
+      "tail": [
+        0.8633,
+        0.0593
+      ],
+      "text_key": "acts.22.p9.b31"
+    },
+    {
+      "id": "ACTS_22_P009_B032",
+      "panel": "ACTS_22_P009_F2",
+      "order": 32,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7415,
+        0.0404,
+        0.2435,
+        0.0091
+      ],
+      "tail": [
+        0.8633,
+        0.0731
+      ],
+      "text_key": "acts.22.p9.b32"
+    },
+    {
+      "id": "ACTS_22_P009_B033",
+      "panel": "ACTS_22_P009_F3",
+      "order": 33,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2525,
+        0.4,
+        0.0689
+      ],
+      "tail": [
+        0.23,
+        0.3645
+      ],
+      "text_key": "acts.22.p9.b33"
+    },
+    {
+      "id": "ACTS_22_P009_B034",
+      "panel": "ACTS_22_P009_F3",
+      "order": 34,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.6016,
+        0.28,
+        0.0603
+      ],
+      "tail": [
+        0.84,
+        0.6706
+      ],
+      "text_key": "acts.22.p9.b34"
+    }
+  ]
+}

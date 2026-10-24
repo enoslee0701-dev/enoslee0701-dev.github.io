@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_09_P013",
+  "book": "acts",
+  "chapter": 9,
+  "page": 13,
+  "ref": "9:32-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "彼得走遍各处的时候，也到了住在吕大的圣徒那里；"
+      }
+    },
+    {
+      "id": "ACTS_09_P013_F2",
+      "box": [
+        0,
+        0.2884,
+        0.499,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "在那里遇见一个名叫以尼雅的人，他瘫痪了，在褥子上躺了八年。"
+      }
+    },
+    {
+      "id": "ACTS_09_P013_F3",
+      "box": [
+        0.5059,
+        0.2884,
+        0.4941,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "彼得对他说：「以尼雅，耶稣基督医好你了，起来！收拾你的褥子。」"
+      }
+    },
+    {
+      "id": "ACTS_09_P013_F4",
+      "box": [
+        0,
+        0.5658,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "他立刻就起来了。住在吕大和沙仑的人都看见了他，就归向主。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P013_B001",
+      "panel": "ACTS_09_P013_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0085,
+        0.46,
+        0.0455
+      ],
+      "tail": null,
+      "text_key": "acts.9.p13.b1"
+    },
+    {
+      "id": "ACTS_09_P013_B002",
+      "panel": "ACTS_09_P013_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2745,
+        0.2966,
+        0.2095,
+        0.0603
+      ],
+      "tail": null,
+      "text_key": "acts.9.p13.b2"
+    },
+    {
+      "id": "ACTS_09_P013_B003",
+      "panel": "ACTS_09_P013_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5257,
+        0.2966,
+        0.4446,
+        0.0411
+      ],
+      "tail": [
+        0.748,
+        0.3651
+      ],
+      "text_key": "acts.9.p13.b3"
+    },
+    {
+      "id": "ACTS_09_P013_B004",
+      "panel": "ACTS_09_P013_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5788,
+        0.24,
+        0.0694
+      ],
+      "tail": null,
+      "text_key": "acts.9.p13.b4"
+    }
+  ]
+}

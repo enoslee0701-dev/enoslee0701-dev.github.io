@@ -1,0 +1,115 @@
+{
+  "id": "ACTS_25_P002",
+  "book": "acts",
+  "chapter": 25,
+  "page": 2,
+  "ref": "25:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_25_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_25_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "「无论是犹太人的律法、圣殿或凯撒，我都没有冒犯。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P002_F2",
+      "box": [
+        0,
+        0.2409,
+        0.4541,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "但非斯都想讨好犹太人，就问保罗："
+      }
+    },
+    {
+      "id": "ACTS_25_P002_F3",
+      "box": [
+        0.4619,
+        0.2409,
+        0.5381,
+        0.2467
+      ]
+    },
+    {
+      "id": "ACTS_25_P002_F4",
+      "box": [
+        0,
+        0.4909,
+        1,
+        0.5091
+      ],
+      "alt": {
+        "zh-CN": "「你愿意上耶路撒冷去，在那里接受我对这些事的审判吗？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_25_P002_B005",
+      "panel": "ACTS_25_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0095,
+        0.47,
+        0.0616
+      ],
+      "tail": [
+        0.735,
+        0.0948
+      ],
+      "text_key": "acts.25.p2.b5"
+    },
+    {
+      "id": "ACTS_25_P002_B006",
+      "panel": "ACTS_25_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0182,
+        0.4235,
+        0.4086,
+        0.0542
+      ],
+      "tail": null,
+      "text_key": "acts.25.p2.b6"
+    },
+    {
+      "id": "ACTS_25_P002_B007",
+      "panel": "ACTS_25_P002_F4",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5062,
+        0.46,
+        0.112
+      ],
+      "tail": [
+        0.26,
+        0.6691
+      ],
+      "text_key": "acts.25.p2.b7"
+    }
+  ]
+}

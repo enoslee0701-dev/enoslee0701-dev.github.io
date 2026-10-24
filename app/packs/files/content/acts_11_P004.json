@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_11_P004",
+  "book": "acts",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "我一开始讲，圣灵就降在他们身上，正像起初降在我们身上一样。"
+      }
+    },
+    {
+      "id": "ACTS_11_P004_F2",
+      "box": [
+        0,
+        0.3574,
+        0.4961,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "我就想起主的话：『约翰用水施洗，你们却要受圣灵的洗。』"
+      }
+    },
+    {
+      "id": "ACTS_11_P004_F3",
+      "box": [
+        0.5039,
+        0.3574,
+        0.4961,
+        0.2643
+      ]
+    },
+    {
+      "id": "ACTS_11_P004_F4",
+      "box": [
+        0,
+        0.6257,
+        1,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "神既然赐给他们恩赐，和我们信主耶稣基督的时候赐给我们的一样；我是谁，怎能拦阻　神呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_11_P004_B001",
+      "panel": "ACTS_11_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0106,
+        0.42,
+        0.0495
+      ],
+      "tail": [
+        0.76,
+        0.0955
+      ],
+      "text_key": "acts.11.p4.b1"
+    },
+    {
+      "id": "ACTS_11_P004_B002",
+      "panel": "ACTS_11_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.3653,
+        0.4464,
+        0.0343
+      ],
+      "tail": [
+        0.243,
+        0.426
+      ],
+      "text_key": "acts.11.p4.b2"
+    },
+    {
+      "id": "ACTS_11_P004_B003",
+      "panel": "ACTS_11_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.6369,
+        0.5,
+        0.037
+      ],
+      "tail": [
+        0.5,
+        0.7113
+      ],
+      "text_key": "acts.11.p4.b3"
+    },
+    {
+      "id": "ACTS_11_P004_B004",
+      "panel": "ACTS_11_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.6815,
+        0.5,
+        0.0153
+      ],
+      "tail": [
+        0.5,
+        0.7342
+      ],
+      "text_key": "acts.11.p4.b4"
+    }
+  ]
+}

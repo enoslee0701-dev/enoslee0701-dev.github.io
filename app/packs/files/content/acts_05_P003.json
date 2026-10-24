@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_05_P003",
+  "book": "acts",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4766
+      ],
+      "alt": {
+        "zh-CN": "亚拿尼亚听见这话，就倒下断了气；"
+      }
+    },
+    {
+      "id": "ACTS_05_P003_F2",
+      "box": [
+        0,
+        0.4818,
+        1,
+        0.1986
+      ],
+      "alt": {
+        "zh-CN": "所有听见的人都非常惧怕。"
+      }
+    },
+    {
+      "id": "ACTS_05_P003_F3",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "有几个年轻人起来，把他包好，抬出去埋葬了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P003_B001",
+      "panel": "ACTS_05_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0191,
+        0.42,
+        0.0857
+      ],
+      "tail": null,
+      "text_key": "acts.5.p3.b1"
+    },
+    {
+      "id": "ACTS_05_P003_B002",
+      "panel": "ACTS_05_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4897,
+        0.45,
+        0.0397
+      ],
+      "tail": null,
+      "text_key": "acts.5.p3.b2"
+    },
+    {
+      "id": "ACTS_05_P003_B003",
+      "panel": "ACTS_05_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.24,
+        0.6988,
+        0.42,
+        0.0502
+      ],
+      "tail": null,
+      "text_key": "acts.5.p3.b3"
+    }
+  ]
+}

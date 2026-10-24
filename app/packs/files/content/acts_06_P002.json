@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_06_P002",
+  "book": "acts",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "所以弟兄们，要从你们中间选出七个名声好、被圣灵充满、又有智慧的人，我们就委派他们管理这件事。"
+      }
+    },
+    {
+      "id": "ACTS_06_P002_F2",
+      "box": [
+        0,
+        0.2402,
+        1,
+        0.1953
+      ],
+      "alt": {
+        "zh-CN": "我们自己要专心祷告、传讲　神的道。"
+      }
+    },
+    {
+      "id": "ACTS_06_P002_F3",
+      "box": [
+        0,
+        0.4388,
+        1,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "大家都喜欢这个提议，就选了司提反——一个信心坚定、被圣灵充满的人，"
+      }
+    },
+    {
+      "id": "ACTS_06_P002_F4",
+      "box": [
+        0,
+        0.7298,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "又选了腓利、伯罗哥罗、尼迦挪、提门、巴米拿，还有原是外邦人、后来进了犹太教的安提阿人尼哥拉，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_06_P002_B001",
+      "panel": "ACTS_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0095,
+        0.47,
+        0.0661
+      ],
+      "tail": [
+        0.735,
+        0.0992
+      ],
+      "text_key": "acts.6.p2.b1"
+    },
+    {
+      "id": "ACTS_06_P002_B002",
+      "panel": "ACTS_06_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.2519,
+        0.28,
+        0.0781
+      ],
+      "tail": [
+        0.16,
+        0.3495
+      ],
+      "text_key": "acts.6.p2.b2"
+    },
+    {
+      "id": "ACTS_06_P002_B003",
+      "panel": "ACTS_06_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4474,
+        0.3,
+        0.0459
+      ],
+      "tail": null,
+      "text_key": "acts.6.p2.b3"
+    },
+    {
+      "id": "ACTS_06_P002_B004",
+      "panel": "ACTS_06_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7406,
+        0.94,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "acts.6.p2.b4"
+    }
+  ]
+}

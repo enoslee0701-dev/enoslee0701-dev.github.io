@@ -1,0 +1,91 @@
+{
+  "id": "ACTS_09_P015",
+  "book": "acts",
+  "chapter": 9,
+  "page": 15,
+  "ref": "9:39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2201
+      ],
+      "alt": {
+        "zh-CN": "彼得就起身和他们一起去；到了以后，有人领他上楼。"
+      }
+    },
+    {
+      "id": "ACTS_09_P015_F2",
+      "box": [
+        0,
+        0.2246,
+        1,
+        0.4531
+      ],
+      "alt": {
+        "zh-CN": "所有的寡妇都站在彼得旁边哭，拿出多加和她们在一起时所做的内衣外衣给他看。"
+      }
+    },
+    {
+      "id": "ACTS_09_P015_F3",
+      "box": [
+        0,
+        0.6816,
+        0.4932,
+        0.3184
+      ]
+    },
+    {
+      "id": "ACTS_09_P015_F4",
+      "box": [
+        0.5,
+        0.6816,
+        0.5,
+        0.3184
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P015_B001",
+      "panel": "ACTS_09_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0066,
+        0.3,
+        0.0396
+      ],
+      "tail": null,
+      "text_key": "acts.9.p15.b1"
+    },
+    {
+      "id": "ACTS_09_P015_B002",
+      "panel": "ACTS_09_P015_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.2337,
+        0.37,
+        0.0543
+      ],
+      "tail": null,
+      "text_key": "acts.9.p15.b2"
+    }
+  ]
+}

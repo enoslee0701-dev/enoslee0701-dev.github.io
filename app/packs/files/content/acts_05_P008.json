@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_05_P008",
+  "book": "acts",
+  "chapter": 5,
+  "page": 8,
+  "ref": "5:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "大祭司和他所有的同党，就是撒都该派的人，都起来，满心嫉妒，"
+      }
+    },
+    {
+      "id": "ACTS_05_P008_F2",
+      "box": [
+        0,
+        0.2441,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "就下手抓住使徒，把他们关在公共监狱里。"
+      }
+    },
+    {
+      "id": "ACTS_05_P008_F3",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "但主的使者在夜里打开监门，领他们出来，说：「你们去站在圣殿里，把这生命的道全都讲给百姓听。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P008_B001",
+      "panel": "ACTS_05_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0096,
+        0.38,
+        0.0672
+      ],
+      "tail": null,
+      "text_key": "acts.5.p8.b1"
+    },
+    {
+      "id": "ACTS_05_P008_B002",
+      "panel": "ACTS_05_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.2546,
+        0.45,
+        0.0575
+      ],
+      "tail": null,
+      "text_key": "acts.5.p8.b2"
+    },
+    {
+      "id": "ACTS_05_P008_B003",
+      "panel": "ACTS_05_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.5251,
+        0.42,
+        0.0783
+      ],
+      "tail": null,
+      "text_key": "acts.5.p8.b3"
+    },
+    {
+      "id": "ACTS_05_P008_B004",
+      "panel": "ACTS_05_P008_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.9021,
+        0.42,
+        0.0783
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "acts.5.p8.b4"
+    }
+  ]
+}

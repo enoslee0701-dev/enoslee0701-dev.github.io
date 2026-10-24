@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_08_P001",
+  "book": "acts",
+  "chapter": 8,
+  "page": 1,
+  "ref": "8:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1979
+      ],
+      "alt": {
+        "zh-CN": "从那天起，耶路撒冷的教会遭到大逼迫，除了使徒以外，门徒都分散到犹太和撒马利亚各地。"
+      }
+    },
+    {
+      "id": "ACTS_08_P001_F2",
+      "box": [
+        0,
+        0.2005,
+        1,
+        0.1803
+      ],
+      "alt": {
+        "zh-CN": "有虔诚的人把司提反埋葬了，为他捶胸痛哭。"
+      }
+    },
+    {
+      "id": "ACTS_08_P001_F3",
+      "box": [
+        0,
+        0.3854,
+        1,
+        0.3991
+      ],
+      "alt": {
+        "zh-CN": "扫罗却残害教会，闯进各人的家，"
+      }
+    },
+    {
+      "id": "ACTS_08_P001_F4",
+      "box": [
+        0,
+        0.7897,
+        1,
+        0.2103
+      ],
+      "alt": {
+        "zh-CN": "把男人和女人拉去关进监牢。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P001_B001",
+      "panel": "ACTS_08_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0079,
+        0.48,
+        0.0593
+      ],
+      "tail": null,
+      "text_key": "acts.8.p1.b1"
+    },
+    {
+      "id": "ACTS_08_P001_B002",
+      "panel": "ACTS_08_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2077,
+        0.42,
+        0.054
+      ],
+      "tail": null,
+      "text_key": "acts.8.p1.b2"
+    },
+    {
+      "id": "ACTS_08_P001_B003",
+      "panel": "ACTS_08_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.3974,
+        0.35,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "acts.8.p1.b3"
+    },
+    {
+      "id": "ACTS_08_P001_B004",
+      "panel": "ACTS_08_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.8065,
+        0.31,
+        0.1051
+      ],
+      "tail": null,
+      "text_key": "acts.8.p1.b4"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ACTS_17_P012",
+  "book": "acts",
+  "chapter": 17,
+  "page": 12,
+  "ref": "17:34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "但有些人跟随他，信了主，"
+      }
+    },
+    {
+      "id": "ACTS_17_P012_F2",
+      "box": [
+        0,
+        0.2969,
+        1,
+        0.4271
+      ],
+      "alt": {
+        "zh-CN": "其中有亚略巴古的议员丢尼修，还有一个名叫大马哩的妇人，以及其他一些人。"
+      }
+    },
+    {
+      "id": "ACTS_17_P012_F3",
+      "box": [
+        0,
+        0.7285,
+        1,
+        0.2715
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P012_B026",
+      "panel": "ACTS_17_P012_F1",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0088,
+        0.4,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "acts.17.p12.b26"
+    },
+    {
+      "id": "ACTS_17_P012_B027",
+      "panel": "ACTS_17_P012_F2",
+      "order": 27,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6471,
+        0.92,
+        0.0597
+      ],
+      "tail": null,
+      "text_key": "acts.17.p12.b27"
+    }
+  ]
+}

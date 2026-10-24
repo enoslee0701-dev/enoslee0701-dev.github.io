@@ -1,0 +1,148 @@
+{
+  "id": "ACTS_12_P010",
+  "book": "acts",
+  "chapter": 12,
+  "page": 10,
+  "ref": "12:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_12_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_12_P010_F1",
+      "box": [
+        0,
+        0,
+        0.5635,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "希律对推罗和西顿的人非常恼怒。……他们就买通了王的内侍伯拉斯都，一同来求和。"
+      }
+    },
+    {
+      "id": "ACTS_12_P010_F2",
+      "box": [
+        0.5723,
+        0,
+        0.4277,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "因为他们那一带的粮食是从王的地方来的，"
+      }
+    },
+    {
+      "id": "ACTS_12_P010_F3",
+      "box": [
+        0,
+        0.3223,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "希律在指定的日子，穿上王服，坐在位上，向他们演讲。"
+      }
+    },
+    {
+      "id": "ACTS_12_P010_F4",
+      "box": [
+        0,
+        0.5664,
+        1,
+        0.4336
+      ],
+      "alt": {
+        "zh-CN": "百姓喊着说：「这是神的声音，不是人的声音！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_12_P010_B037",
+      "panel": "ACTS_12_P010_F1",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0169,
+        0.0095,
+        0.3155,
+        0.0571
+      ],
+      "tail": null,
+      "text_key": "acts.12.p10.b37"
+    },
+    {
+      "id": "ACTS_12_P010_B038",
+      "panel": "ACTS_12_P010_F2",
+      "order": 38,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7434,
+        0.2351,
+        0.2395,
+        0.0698
+      ],
+      "tail": null,
+      "text_key": "acts.12.p10.b38"
+    },
+    {
+      "id": "ACTS_12_P010_B039",
+      "panel": "ACTS_12_P010_F3",
+      "order": 39,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.3319,
+        0.4,
+        0.048
+      ],
+      "tail": null,
+      "text_key": "acts.12.p10.b39"
+    },
+    {
+      "id": "ACTS_12_P010_B040",
+      "panel": "ACTS_12_P010_F4",
+      "order": 40,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.5794,
+        0.38,
+        0.052
+      ],
+      "tail": [
+        0.22,
+        0.6748
+      ],
+      "text_key": "acts.12.p10.b40"
+    },
+    {
+      "id": "ACTS_12_P010_B041",
+      "panel": "ACTS_12_P010_F4",
+      "order": 41,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.06,
+        0.6358,
+        0.34,
+        0.0433
+      ],
+      "tail": [
+        0.23,
+        0.7225
+      ],
+      "text_key": "acts.12.p10.b41"
+    }
+  ]
+}

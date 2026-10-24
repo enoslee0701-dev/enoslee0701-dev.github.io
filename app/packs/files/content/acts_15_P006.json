@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_15_P006",
+  "book": "acts",
+  "chapter": 15,
+  "page": 6,
+  "ref": "15:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "「众先知的话也和这个意思相合。正如经上所写的：」"
+      }
+    },
+    {
+      "id": "ACTS_15_P006_F2",
+      "box": [
+        0,
+        0.2591,
+        1,
+        0.4232
+      ],
+      "alt": {
+        "zh-CN": "「此后我要回来，重新建造大卫倒塌了的帐幕，把它毁坏的地方重新修造，使它重新立起来，」"
+      }
+    },
+    {
+      "id": "ACTS_15_P006_F3",
+      "box": [
+        0,
+        0.6868,
+        0.6104,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "「好让其余的人，就是所有称为我名下的外邦人，都寻求主。」"
+      }
+    },
+    {
+      "id": "ACTS_15_P006_F4",
+      "box": [
+        0.6182,
+        0.6868,
+        0.3818,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "「这是从古以来使这些事显明出来的主说的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P006_B018",
+      "panel": "ACTS_15_P006_F1",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0102,
+        0.42,
+        0.0661
+      ],
+      "tail": [
+        0.76,
+        0.1018
+      ],
+      "text_key": "acts.15.p6.b18"
+    },
+    {
+      "id": "ACTS_15_P006_B019",
+      "panel": "ACTS_15_P006_F2",
+      "order": 19,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2718,
+        0.4,
+        0.0761
+      ],
+      "tail": [
+        0.23,
+        0.3902
+      ],
+      "text_key": "acts.15.p6.b19"
+    },
+    {
+      "id": "ACTS_15_P006_B020",
+      "panel": "ACTS_15_P006_F3",
+      "order": 20,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0183,
+        0.6962,
+        0.3357,
+        0.0689
+      ],
+      "tail": [
+        0.1862,
+        0.7964
+      ],
+      "text_key": "acts.15.p6.b20"
+    },
+    {
+      "id": "ACTS_15_P006_B021",
+      "panel": "ACTS_15_P006_F4",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6373,
+        0.6962,
+        0.3436,
+        0.0689
+      ],
+      "tail": [
+        0.8091,
+        0.7964
+      ],
+      "text_key": "acts.15.p6.b21"
+    }
+  ]
+}

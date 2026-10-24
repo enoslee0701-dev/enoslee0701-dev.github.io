@@ -1,0 +1,88 @@
+{
+  "id": "ACTS_15_P009",
+  "book": "acts",
+  "chapter": 15,
+  "page": 9,
+  "ref": "15:28-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "「因为圣灵和我们决定，不把别的重担放在你们身上，只有几件事是必须的，」"
+      }
+    },
+    {
+      "id": "ACTS_15_P009_F2",
+      "box": [
+        0,
+        0.2747,
+        1,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "「……这几件事你们若能自己避免就好了。祝你们平安！」"
+      }
+    },
+    {
+      "id": "ACTS_15_P009_F3",
+      "box": [
+        0,
+        0.696,
+        1,
+        0.304
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P009_B029",
+      "panel": "ACTS_15_P009_F1",
+      "order": 29,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.0108,
+        0.42,
+        0.0648
+      ],
+      "tail": [
+        0.76,
+        0.1026
+      ],
+      "text_key": "acts.15.p9.b29"
+    },
+    {
+      "id": "ACTS_15_P009_B030",
+      "panel": "ACTS_15_P009_F2",
+      "order": 30,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2872,
+        0.46,
+        0.075
+      ],
+      "tail": [
+        0.26,
+        0.4039
+      ],
+      "text_key": "acts.15.p9.b30"
+    }
+  ]
+}

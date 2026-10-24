@@ -1,0 +1,103 @@
+{
+  "id": "ACTS_05_P010",
+  "book": "acts",
+  "chapter": 5,
+  "page": 10,
+  "ref": "5:24-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "圣殿守卫长和祭司长们听了这些话，非常困惑，不知道这事会发展成什么样子。"
+      }
+    },
+    {
+      "id": "ACTS_05_P010_F2",
+      "box": [
+        0,
+        0.2813,
+        1,
+        0.2096
+      ],
+      "alt": {
+        "zh-CN": "有一个人来报告说：「你们关在监里的人，现在正站在圣殿里教导百姓！」"
+      }
+    },
+    {
+      "id": "ACTS_05_P010_F3",
+      "box": [
+        0,
+        0.4948,
+        1,
+        0.5052
+      ],
+      "alt": {
+        "zh-CN": "于是圣殿守卫长和差役去把使徒带来，但没有使用暴力，因为怕百姓用石头打他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P010_B001",
+      "panel": "ACTS_05_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0111,
+        0.45,
+        0.0665
+      ],
+      "tail": null,
+      "text_key": "acts.5.p10.b1"
+    },
+    {
+      "id": "ACTS_05_P010_B002",
+      "panel": "ACTS_05_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.2897,
+        0.47,
+        0.0628
+      ],
+      "tail": [
+        0.735,
+        0.3735
+      ],
+      "text_key": "acts.5.p10.b2"
+    },
+    {
+      "id": "ACTS_05_P010_B003",
+      "panel": "ACTS_05_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.5024,
+        0.36,
+        0.0555
+      ],
+      "tail": null,
+      "text_key": "acts.5.p10.b3"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_04_P004",
+  "book": "acts",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_04_P004_F1",
+      "box": [
+        0,
+        0,
+        0.4951,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "这位耶稣是「你们匠人所丢弃的石头，"
+      }
+    },
+    {
+      "id": "ACTS_04_P004_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "已经成了房角最重要的石头」。"
+      }
+    },
+    {
+      "id": "ACTS_04_P004_F3",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "除了他以外，没有别的拯救；"
+      }
+    },
+    {
+      "id": "ACTS_04_P004_F4",
+      "box": [
+        0,
+        0.6849,
+        1,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "因为在天下人间，没有赐下别的名，我们可以靠着得救。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_04_P004_B001",
+      "panel": "ACTS_04_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0248,
+        0.0107,
+        0.4356,
+        0.0693
+      ],
+      "tail": [
+        0.2426,
+        0.1067
+      ],
+      "text_key": "acts.4.p4.b1"
+    },
+    {
+      "id": "ACTS_04_P004_B002",
+      "panel": "ACTS_04_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5297,
+        0.0107,
+        0.4356,
+        0.064
+      ],
+      "tail": [
+        0.7475,
+        0.1014
+      ],
+      "text_key": "acts.4.p4.b2"
+    },
+    {
+      "id": "ACTS_04_P004_B003",
+      "panel": "ACTS_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.2838,
+        0.47,
+        0.0572
+      ],
+      "tail": [
+        0.735,
+        0.3819
+      ],
+      "text_key": "acts.4.p4.b3"
+    },
+    {
+      "id": "ACTS_04_P004_B004",
+      "panel": "ACTS_04_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6975,
+        0.5,
+        0.0945
+      ],
+      "tail": [
+        0.28,
+        0.8235
+      ],
+      "text_key": "acts.4.p4.b4"
+    }
+  ]
+}

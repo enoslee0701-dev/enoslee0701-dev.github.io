@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_10_P016",
+  "book": "acts",
+  "chapter": 10,
+  "page": 16,
+  "ref": "10:47-48",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P016_F1",
+      "box": [
+        0,
+        0,
+        0.5586,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "于是彼得说：「这些人既然和我们一样受了圣灵，谁能拒绝用水给他们施洗呢？」"
+      }
+    },
+    {
+      "id": "ACTS_10_P016_F2",
+      "box": [
+        0.5645,
+        0,
+        0.4355,
+        0.2435
+      ]
+    },
+    {
+      "id": "ACTS_10_P016_F3",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.4323
+      ],
+      "alt": {
+        "zh-CN": "他就吩咐奉耶稣基督的名给他们施洗。"
+      }
+    },
+    {
+      "id": "ACTS_10_P016_F4",
+      "box": [
+        0,
+        0.6829,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "后来，他们请彼得再住几天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P016_B001",
+      "panel": "ACTS_10_P016_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0223,
+        0.0073,
+        0.5027,
+        0.0633
+      ],
+      "tail": [
+        0.2737,
+        0.0949
+      ],
+      "text_key": "acts.10.p16.b1"
+    },
+    {
+      "id": "ACTS_10_P016_B002",
+      "panel": "ACTS_10_P016_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2604,
+        0.45,
+        0.0605
+      ],
+      "tail": null,
+      "text_key": "acts.10.p16.b2"
+    },
+    {
+      "id": "ACTS_10_P016_B003",
+      "panel": "ACTS_10_P016_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6956,
+        0.4,
+        0.0824
+      ],
+      "tail": null,
+      "text_key": "acts.10.p16.b3"
+    }
+  ]
+}

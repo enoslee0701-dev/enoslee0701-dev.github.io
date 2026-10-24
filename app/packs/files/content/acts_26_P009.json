@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_26_P009",
+  "book": "acts",
+  "chapter": 26,
+  "page": 9,
+  "ref": "26:26-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "王也知道这些事，所以我向王大胆直说；……"
+      }
+    },
+    {
+      "id": "ACTS_26_P009_F2",
+      "box": [
+        0,
+        0.2708,
+        0.542,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "亚基帕王啊，你信先知吗？我知道你是信的。」"
+      }
+    },
+    {
+      "id": "ACTS_26_P009_F3",
+      "box": [
+        0.5488,
+        0.2708,
+        0.4512,
+        0.2552
+      ]
+    },
+    {
+      "id": "ACTS_26_P009_F4",
+      "box": [
+        0,
+        0.5306,
+        1,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "「你以为稍微劝一劝，就能叫我作基督徒吗！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P009_B027",
+      "panel": "ACTS_26_P009_F1",
+      "order": 27,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.008,
+        0.32,
+        0.064
+      ],
+      "tail": [
+        0.56,
+        0.0987
+      ],
+      "text_key": "acts.26.p9.b27"
+    },
+    {
+      "id": "ACTS_26_P009_B028",
+      "panel": "ACTS_26_P009_F2",
+      "order": 28,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3469,
+        0.2785,
+        0.1897,
+        0.0561
+      ],
+      "tail": [
+        0.4418,
+        0.3601
+      ],
+      "text_key": "acts.26.p9.b28"
+    },
+    {
+      "id": "ACTS_26_P009_B029",
+      "panel": "ACTS_26_P009_F4",
+      "order": 29,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5494,
+        0.4,
+        0.0938
+      ],
+      "tail": [
+        0.23,
+        0.6901
+      ],
+      "text_key": "acts.26.p9.b29"
+    }
+  ]
+}

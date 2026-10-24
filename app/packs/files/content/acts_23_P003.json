@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_23_P003",
+  "book": "acts",
+  "chapter": 23,
+  "page": 3,
+  "ref": "23:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4072,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "保罗看出他们一部分是撒都该人，一部分是法利赛人，"
+      }
+    },
+    {
+      "id": "ACTS_23_P003_F2",
+      "box": [
+        0.416,
+        0,
+        0.584,
+        0.2637
+      ]
+    },
+    {
+      "id": "ACTS_23_P003_F3",
+      "box": [
+        0,
+        0.2682,
+        1,
+        0.4518
+      ],
+      "alt": {
+        "zh-CN": "就在议会中大声说：「弟兄们，我是法利赛人，也是法利赛人的子孙。我现在受审，是因为盼望死人复活。」"
+      }
+    },
+    {
+      "id": "ACTS_23_P003_F4",
+      "box": [
+        0,
+        0.724,
+        1,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "他一说完这话，法利赛人和撒都该人就争论起来，会众分成两派。因为撒都该人说没有复活，也没有天使和灵；法利赛人却说这些都有。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P003_B007",
+      "panel": "ACTS_23_P003_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0204,
+        0.1899,
+        0.3664,
+        0.0659
+      ],
+      "tail": null,
+      "text_key": "acts.23.p3.b7"
+    },
+    {
+      "id": "ACTS_23_P003_B008",
+      "panel": "ACTS_23_P003_F3",
+      "order": 8,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.04,
+        0.2818,
+        0.92,
+        0.0768
+      ],
+      "tail": [
+        0.5,
+        0.4038
+      ],
+      "text_key": "acts.23.p3.b8"
+    },
+    {
+      "id": "ACTS_23_P003_B009",
+      "panel": "ACTS_23_P003_F4",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.7323,
+        0.47,
+        0.0552
+      ],
+      "tail": null,
+      "text_key": "acts.23.p3.b9"
+    }
+  ]
+}

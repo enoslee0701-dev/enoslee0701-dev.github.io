@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_04_P009",
+  "book": "acts",
+  "chapter": 4,
+  "page": 9,
+  "ref": "4:23-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_04_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_04_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "二人被释放后，就回到自己人那里，把祭司长和长老所说的话都告诉他们。"
+      }
+    },
+    {
+      "id": "ACTS_04_P009_F2",
+      "box": [
+        0,
+        0.2982,
+        1,
+        0.4036
+      ],
+      "alt": {
+        "zh-CN": "他们听了，就同心高声向　神说：「主啊，你是创造天、地、海和其中万物的，"
+      }
+    },
+    {
+      "id": "ACTS_04_P009_F3",
+      "box": [
+        0,
+        0.7064,
+        0.4971,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "『列国为什么骚动？万民为什么图谋虚妄的事？"
+      }
+    },
+    {
+      "id": "ACTS_04_P009_F4",
+      "box": [
+        0.5039,
+        0.7064,
+        0.4961,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "世上的君王都起来，官员也聚集，要对抗主和主的受膏者。』"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_04_P009_B001",
+      "panel": "ACTS_04_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0088,
+        0.32,
+        0.0704
+      ],
+      "tail": null,
+      "text_key": "acts.4.p9.b1"
+    },
+    {
+      "id": "ACTS_04_P009_B002",
+      "panel": "ACTS_04_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.22,
+        0.3103,
+        0.56,
+        0.0726
+      ],
+      "tail": [
+        0.5,
+        0.4233
+      ],
+      "text_key": "acts.4.p9.b2"
+    },
+    {
+      "id": "ACTS_04_P009_B003",
+      "panel": "ACTS_04_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.0249,
+        0.7181,
+        0.4473,
+        0.088
+      ],
+      "tail": [
+        0.2486,
+        0.8355
+      ],
+      "text_key": "acts.4.p9.b3"
+    },
+    {
+      "id": "ACTS_04_P009_B004",
+      "panel": "ACTS_04_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.5287,
+        0.7181,
+        0.4464,
+        0.0939
+      ],
+      "tail": [
+        0.7519,
+        0.8414
+      ],
+      "text_key": "acts.4.p9.b4"
+    }
+  ]
+}

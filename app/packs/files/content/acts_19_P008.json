@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_19_P008",
+  "book": "acts",
+  "chapter": 19,
+  "page": 8,
+  "ref": "19:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_19_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_19_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2475
+      ],
+      "alt": {
+        "zh-CN": "从前行邪术的，也有许多人把书拿来，堆在众人面前烧掉。"
+      }
+    },
+    {
+      "id": "ACTS_19_P008_F2",
+      "box": [
+        0,
+        0.2525,
+        1,
+        0.381
+      ],
+      "alt": {
+        "zh-CN": "书堆烧起了大火。"
+      }
+    },
+    {
+      "id": "ACTS_19_P008_F3",
+      "box": [
+        0,
+        0.6361,
+        0.4639,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "他们算了算书价，一共值五万块银子。"
+      }
+    },
+    {
+      "id": "ACTS_19_P008_F4",
+      "box": [
+        0.4678,
+        0.6361,
+        0.5322,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "主的道就这样大大兴旺，而且得胜。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_19_P008_B024",
+      "panel": "ACTS_19_P008_F1",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0099,
+        0.33,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "acts.19.p8.b24"
+    },
+    {
+      "id": "ACTS_19_P008_B025",
+      "panel": "ACTS_19_P008_F3",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0186,
+        0.9272,
+        0.4267,
+        0.0618
+      ],
+      "tail": null,
+      "text_key": "acts.19.p8.b25"
+    },
+    {
+      "id": "ACTS_19_P008_B026",
+      "panel": "ACTS_19_P008_F4",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4944,
+        0.6507,
+        0.4683,
+        0.0727
+      ],
+      "tail": null,
+      "text_key": "acts.19.p8.b26"
+    }
+  ]
+}

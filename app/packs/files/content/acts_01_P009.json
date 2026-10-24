@@ -1,0 +1,85 @@
+{
+  "id": "ACTS_01_P009",
+  "book": "acts",
+  "chapter": 1,
+  "page": 9,
+  "ref": "1:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_01_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_01_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "……必须从那些一直和我们在一起的人中选立一位，和我们一同作耶稣复活的见证。"
+      }
+    },
+    {
+      "id": "ACTS_01_P009_F2",
+      "box": [
+        0,
+        0.3203,
+        1,
+        0.179
+      ]
+    },
+    {
+      "id": "ACTS_01_P009_F3",
+      "box": [
+        0,
+        0.502,
+        1,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "于是提出两个人：一个是叫巴撒巴、又叫犹士都的约瑟，另一个是马提亚。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_01_P009_B001",
+      "panel": "ACTS_01_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0095,
+        0.47,
+        0.0761
+      ],
+      "tail": [
+        0.735,
+        0.1173
+      ],
+      "text_key": "acts.1.p9.b1"
+    },
+    {
+      "id": "ACTS_01_P009_B002",
+      "panel": "ACTS_01_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.44,
+        0.512,
+        0.54,
+        0.0423
+      ],
+      "tail": null,
+      "text_key": "acts.1.p9.b2"
+    }
+  ]
+}

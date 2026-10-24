@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_16_P012",
+  "book": "acts",
+  "chapter": 16,
+  "page": 12,
+  "ref": "16:32-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P012_F1",
+      "box": [
+        0,
+        0,
+        0.6133,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "他们就把主的道讲给狱卒和他全家的人听。"
+      }
+    },
+    {
+      "id": "ACTS_16_P012_F2",
+      "box": [
+        0.6221,
+        0,
+        0.3779,
+        0.3034
+      ]
+    },
+    {
+      "id": "ACTS_16_P012_F3",
+      "box": [
+        0,
+        0.3086,
+        1,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "当晚，就在那个时候，狱卒带他们去，给他们清洗伤口；他和他全家的人立刻都受了洗。"
+      }
+    },
+    {
+      "id": "ACTS_16_P012_F4",
+      "box": [
+        0,
+        0.6634,
+        1,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "狱卒领他们到自己家里，给他们摆上饭。他和全家因为信了　神，都非常喜乐。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P012_B036",
+      "panel": "ACTS_16_P012_F1",
+      "order": 36,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0184,
+        0.0121,
+        0.3373,
+        0.0606
+      ],
+      "tail": null,
+      "text_key": "acts.16.p12.b36"
+    },
+    {
+      "id": "ACTS_16_P012_B037",
+      "panel": "ACTS_16_P012_F3",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.3226,
+        0.39,
+        0.0769
+      ],
+      "tail": null,
+      "text_key": "acts.16.p12.b37"
+    },
+    {
+      "id": "ACTS_16_P012_B038",
+      "panel": "ACTS_16_P012_F4",
+      "order": 38,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.6701,
+        0.6,
+        0.0403
+      ],
+      "tail": null,
+      "text_key": "acts.16.p12.b38"
+    }
+  ]
+}

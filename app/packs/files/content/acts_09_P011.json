@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_09_P011",
+  "book": "acts",
+  "chapter": 9,
+  "page": 11,
+  "ref": "9:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "扫罗到了耶路撒冷，想要加入门徒，他们却都怕他，不相信他是门徒。"
+      }
+    },
+    {
+      "id": "ACTS_09_P011_F2",
+      "box": [
+        0,
+        0.2806,
+        0.4971,
+        0.2546
+      ]
+    },
+    {
+      "id": "ACTS_09_P011_F3",
+      "box": [
+        0.5039,
+        0.2806,
+        0.4961,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "只有巴拿巴接待他，带他去见使徒，"
+      }
+    },
+    {
+      "id": "ACTS_09_P011_F4",
+      "box": [
+        0,
+        0.5404,
+        1,
+        0.4596
+      ],
+      "alt": {
+        "zh-CN": "把他在路上怎样看见主、主怎样对他说话，都讲给他们听。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P011_B001",
+      "panel": "ACTS_09_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0083,
+        0.42,
+        0.0553
+      ],
+      "tail": null,
+      "text_key": "acts.9.p11.b1"
+    },
+    {
+      "id": "ACTS_09_P011_B002",
+      "panel": "ACTS_09_P011_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.2882,
+        0.2232,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "acts.9.p11.b2"
+    },
+    {
+      "id": "ACTS_09_P011_B003",
+      "panel": "ACTS_09_P011_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5542,
+        0.4,
+        0.0827
+      ],
+      "tail": null,
+      "text_key": "acts.9.p11.b3"
+    }
+  ]
+}

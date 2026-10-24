@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_08_P003",
+  "book": "acts",
+  "chapter": 8,
+  "page": 3,
+  "ref": "8:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "有一个人叫西门，一直在那城里行邪术，自以为了不起，让撒马利亚的百姓惊奇。"
+      }
+    },
+    {
+      "id": "ACTS_08_P003_F2",
+      "box": [
+        0,
+        0.3099,
+        1,
+        0.1413
+      ],
+      "alt": {
+        "zh-CN": "这个人就是那被称为　神的大能者。"
+      }
+    },
+    {
+      "id": "ACTS_08_P003_F3",
+      "box": [
+        0,
+        0.457,
+        0.5596,
+        0.543
+      ],
+      "alt": {
+        "zh-CN": "等到他们信了腓利所传　神国的福音和耶稣基督的名，男男女女就都受了洗。"
+      }
+    },
+    {
+      "id": "ACTS_08_P003_F4",
+      "box": [
+        0.5664,
+        0.457,
+        0.4336,
+        0.543
+      ],
+      "alt": {
+        "zh-CN": "西门自己也信了；受洗以后，就常和腓利在一起，看见他所行的神迹和大能的事，就非常惊奇。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P003_B001",
+      "panel": "ACTS_08_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0091,
+        0.4,
+        0.0728
+      ],
+      "tail": null,
+      "text_key": "acts.8.p3.b1"
+    },
+    {
+      "id": "ACTS_08_P003_B002",
+      "panel": "ACTS_08_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.46,
+        0.3127,
+        0.3,
+        0.0395
+      ],
+      "tail": [
+        0.61,
+        0.3663
+      ],
+      "text_key": "acts.8.p3.b2"
+    },
+    {
+      "id": "ACTS_08_P003_B003",
+      "panel": "ACTS_08_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.028,
+        0.4733,
+        0.4924,
+        0.0868
+      ],
+      "tail": null,
+      "text_key": "acts.8.p3.b3"
+    },
+    {
+      "id": "ACTS_08_P003_B004",
+      "panel": "ACTS_08_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5881,
+        0.4733,
+        0.3815,
+        0.0705
+      ],
+      "tail": null,
+      "text_key": "acts.8.p3.b4"
+    }
+  ]
+}

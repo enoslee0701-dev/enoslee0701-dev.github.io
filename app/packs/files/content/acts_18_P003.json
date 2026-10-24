@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_18_P003",
+  "book": "acts",
+  "chapter": 18,
+  "page": 3,
+  "ref": "18:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_18_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_18_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "夜里，主在异象中对保罗说："
+      }
+    },
+    {
+      "id": "ACTS_18_P003_F2",
+      "box": [
+        0,
+        0.2298,
+        1,
+        0.3607
+      ],
+      "alt": {
+        "zh-CN": "「不要怕，只管讲，不要沉默，有我和你同在，必定没有人会下手害你，……」"
+      }
+    },
+    {
+      "id": "ACTS_18_P003_F3",
+      "box": [
+        0,
+        0.5938,
+        0.5078,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "「因为在这城里我有许多的子民。」"
+      }
+    },
+    {
+      "id": "ACTS_18_P003_F4",
+      "box": [
+        0.5146,
+        0.5938,
+        0.4854,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "保罗在那里住了一年零六个月，把　神的道教导他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_18_P003_B009",
+      "panel": "ACTS_18_P003_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.009,
+        0.42,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "acts.18.p3.b9"
+    },
+    {
+      "id": "ACTS_18_P003_B010",
+      "panel": "ACTS_18_P003_F2",
+      "order": 10,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.2406,
+        0.27,
+        0.0793
+      ],
+      "tail": [
+        0.155,
+        0.356
+      ],
+      "text_key": "acts.18.p3.b10"
+    },
+    {
+      "id": "ACTS_18_P003_B011",
+      "panel": "ACTS_18_P003_F3",
+      "order": 11,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.0203,
+        0.606,
+        0.3046,
+        0.0812
+      ],
+      "tail": [
+        0.1726,
+        0.7278
+      ],
+      "text_key": "acts.18.p3.b11"
+    },
+    {
+      "id": "ACTS_18_P003_B012",
+      "panel": "ACTS_18_P003_F4",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.534,
+        0.927,
+        0.2912,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "acts.18.p3.b12"
+    }
+  ]
+}

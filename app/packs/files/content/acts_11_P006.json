@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_11_P006",
+  "book": "acts",
+  "chapter": 11,
+  "page": 6,
+  "ref": "11:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_11_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_11_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2331
+      ],
+      "alt": {
+        "zh-CN": "那些因司提反事件遭受迫害而四散的门徒，一直走到腓尼基、塞浦路斯和安提阿；"
+      }
+    },
+    {
+      "id": "ACTS_11_P006_F2",
+      "box": [
+        0,
+        0.2376,
+        0.5039,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "他们不向别人传道，只向犹太人传。"
+      }
+    },
+    {
+      "id": "ACTS_11_P006_F3",
+      "box": [
+        0.5107,
+        0.2376,
+        0.4893,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "但他们当中有塞浦路斯人和古利奈人，到了安提阿也向希腊人传讲主耶稣。"
+      }
+    },
+    {
+      "id": "ACTS_11_P006_F4",
+      "box": [
+        0,
+        0.5313,
+        1,
+        0.4687
+      ],
+      "alt": {
+        "zh-CN": "主与他们同在，相信而归向主的人很多。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_11_P006_B001",
+      "panel": "ACTS_11_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0093,
+        0.45,
+        0.0559
+      ],
+      "tail": null,
+      "text_key": "acts.11.p6.b1"
+    },
+    {
+      "id": "ACTS_11_P006_B002",
+      "panel": "ACTS_11_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0202,
+        0.2463,
+        0.4535,
+        0.0521
+      ],
+      "tail": null,
+      "text_key": "acts.11.p6.b2"
+    },
+    {
+      "id": "ACTS_11_P006_B003",
+      "panel": "ACTS_11_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5303,
+        0.2463,
+        0.4403,
+        0.0521
+      ],
+      "tail": null,
+      "text_key": "acts.11.p6.b3"
+    },
+    {
+      "id": "ACTS_11_P006_B004",
+      "panel": "ACTS_11_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.5454,
+        0.45,
+        0.0656
+      ],
+      "tail": null,
+      "text_key": "acts.11.p6.b4"
+    }
+  ]
+}

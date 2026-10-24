@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_21_P011",
+  "book": "acts",
+  "chapter": 21,
+  "page": 11,
+  "ref": "21:34-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_21_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_21_P011_F1",
+      "box": [
+        0,
+        0,
+        0.6211,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "人群有的喊这个，有的喊那个；"
+      }
+    },
+    {
+      "id": "ACTS_21_P011_F2",
+      "box": [
+        0.6299,
+        0,
+        0.3701,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "千夫长因为人声嘈杂，问不出实情，就下令把保罗带进营楼。"
+      }
+    },
+    {
+      "id": "ACTS_21_P011_F3",
+      "box": [
+        0,
+        0.2578,
+        1,
+        0.4798
+      ],
+      "alt": {
+        "zh-CN": "到了台阶上，因为群众挤得太凶，士兵只好把保罗抬起来。"
+      }
+    },
+    {
+      "id": "ACTS_21_P011_F4",
+      "box": [
+        0,
+        0.7428,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "群众跟在后面，喊着说：「除掉他！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_21_P011_B035",
+      "panel": "ACTS_21_P011_F1",
+      "order": 35,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0186,
+        0.0076,
+        0.5838,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "acts.21.p11.b35"
+    },
+    {
+      "id": "ACTS_21_P011_B036",
+      "panel": "ACTS_21_P011_F2",
+      "order": 36,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6484,
+        0.1879,
+        0.333,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "acts.21.p11.b36"
+    },
+    {
+      "id": "ACTS_21_P011_B037",
+      "panel": "ACTS_21_P011_F3",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2722,
+        0.4,
+        0.0671
+      ],
+      "tail": null,
+      "text_key": "acts.21.p11.b37"
+    },
+    {
+      "id": "ACTS_21_P011_B038",
+      "panel": "ACTS_21_P011_F4",
+      "order": 38,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.25,
+        0.7531,
+        0.5,
+        0.0617
+      ],
+      "tail": [
+        0.5,
+        0.8405
+      ],
+      "text_key": "acts.21.p11.b38"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_12_P002",
+  "book": "acts",
+  "chapter": 12,
+  "page": 2,
+  "ref": "12:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_12_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_12_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "希律抓了彼得，关在监里，交给四班兵丁看守，每班四个人，……"
+      }
+    },
+    {
+      "id": "ACTS_12_P002_F2",
+      "box": [
+        0,
+        0.25,
+        0.4609,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "于是彼得被关在监里；"
+      }
+    },
+    {
+      "id": "ACTS_12_P002_F3",
+      "box": [
+        0.4668,
+        0.25,
+        0.5332,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "教会却为他恳切地向　神祷告。"
+      }
+    },
+    {
+      "id": "ACTS_12_P002_F4",
+      "box": [
+        0,
+        0.5547,
+        1,
+        0.4453
+      ],
+      "alt": {
+        "zh-CN": "希律要提他出来的前一夜，彼得被两条铁链锁着，睡在两个兵丁中间；门外也有看守的人守着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_12_P002_B005",
+      "panel": "ACTS_12_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0099,
+        0.47,
+        0.0542
+      ],
+      "tail": null,
+      "text_key": "acts.12.p2.b5"
+    },
+    {
+      "id": "ACTS_12_P002_B006",
+      "panel": "ACTS_12_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0184,
+        0.2621,
+        0.2765,
+        0.0542
+      ],
+      "tail": null,
+      "text_key": "acts.12.p2.b6"
+    },
+    {
+      "id": "ACTS_12_P002_B007",
+      "panel": "ACTS_12_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5841,
+        0.259,
+        0.2559,
+        0.0421
+      ],
+      "tail": null,
+      "text_key": "acts.12.p2.b7"
+    },
+    {
+      "id": "ACTS_12_P002_B008",
+      "panel": "ACTS_12_P002_F4",
+      "order": 8,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.24,
+        0.5681,
+        0.52,
+        0.0578
+      ],
+      "tail": null,
+      "text_key": "acts.12.p2.b8"
+    }
+  ]
+}

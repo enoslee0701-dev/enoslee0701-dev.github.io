@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_22_P004",
+  "book": "acts",
+  "chapter": 22,
+  "page": 4,
+  "ref": "22:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_22_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_22_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2103
+      ],
+      "alt": {
+        "zh-CN": "和我同行的人看见了那光，却没有听懂那位对我说话的声音。"
+      }
+    },
+    {
+      "id": "ACTS_22_P004_F2",
+      "box": [
+        0,
+        0.2116,
+        0.5244,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "我说：『主啊，我该做什么？』"
+      }
+    },
+    {
+      "id": "ACTS_22_P004_F3",
+      "box": [
+        0.5293,
+        0.2116,
+        0.4707,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "主对我说：『起来，进大马士革去，那里会有人把指派你做的一切事告诉你。』"
+      }
+    },
+    {
+      "id": "ACTS_22_P004_F4",
+      "box": [
+        0,
+        0.5638,
+        1,
+        0.4362
+      ],
+      "alt": {
+        "zh-CN": "因为那光的强烈，我什么都看不见，同行的人就拉着我的手进了大马士革。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_22_P004_B012",
+      "panel": "ACTS_22_P004_F1",
+      "order": 12,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0084,
+        0.5,
+        0.042
+      ],
+      "tail": [
+        0.28,
+        0.0714
+      ],
+      "text_key": "acts.22.p4.b12"
+    },
+    {
+      "id": "ACTS_22_P004_B013",
+      "panel": "ACTS_22_P004_F2",
+      "order": 13,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.021,
+        0.5134,
+        0.367,
+        0.0421
+      ],
+      "tail": [
+        0.2045,
+        0.5625
+      ],
+      "text_key": "acts.22.p4.b13"
+    },
+    {
+      "id": "ACTS_22_P004_B014",
+      "panel": "ACTS_22_P004_F3",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.727,
+        0.2221,
+        0.2588,
+        0.0842
+      ],
+      "tail": [
+        0.8564,
+        0.3414
+      ],
+      "text_key": "acts.22.p4.b14"
+    },
+    {
+      "id": "ACTS_22_P004_B015",
+      "panel": "ACTS_22_P004_F4",
+      "order": 15,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.5769,
+        0.36,
+        0.0741
+      ],
+      "tail": [
+        0.8,
+        0.6946
+      ],
+      "text_key": "acts.22.p4.b15"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_11_P005",
+  "book": "acts",
+  "chapter": 11,
+  "page": 5,
+  "ref": "11:18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_11_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_11_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "大家听了这些话，就不再说什么，"
+      }
+    },
+    {
+      "id": "ACTS_11_P005_F2",
+      "box": [
+        0,
+        0.2318,
+        0.498,
+        0.2669
+      ]
+    },
+    {
+      "id": "ACTS_11_P005_F3",
+      "box": [
+        0.5039,
+        0.2318,
+        0.4961,
+        0.2669
+      ]
+    },
+    {
+      "id": "ACTS_11_P005_F4",
+      "box": [
+        0,
+        0.5013,
+        1,
+        0.4987
+      ],
+      "alt": {
+        "zh-CN": "只是归荣耀给　神，说：「这样看来，　神也把悔改得生命的恩典赐给外邦人了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_11_P005_B001",
+      "panel": "ACTS_11_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0183,
+        0.3,
+        0.1828
+      ],
+      "tail": null,
+      "text_key": "acts.11.p5.b1"
+    },
+    {
+      "id": "ACTS_11_P005_B002",
+      "panel": "ACTS_11_P005_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.5113,
+        0.45,
+        0.0598
+      ],
+      "tail": null,
+      "text_key": "acts.11.p5.b2"
+    },
+    {
+      "id": "ACTS_11_P005_B003",
+      "panel": "ACTS_11_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.5113,
+        0.42,
+        0.0598
+      ],
+      "tail": [
+        0.24,
+        0.621
+      ],
+      "text_key": "acts.11.p5.b3"
+    }
+  ]
+}

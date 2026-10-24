@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_06_P003",
+  "book": "acts",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "他们让这七个人站在使徒面前；使徒祷告后，就按手在他们头上。"
+      }
+    },
+    {
+      "id": "ACTS_06_P003_F2",
+      "box": [
+        0,
+        0.3965,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "（无文字）"
+      }
+    },
+    {
+      "id": "ACTS_06_P003_F3",
+      "box": [
+        0,
+        0.6576,
+        0.5898,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "神的道越传越广；在耶路撒冷，门徒的人数大大增加，"
+      }
+    },
+    {
+      "id": "ACTS_06_P003_F4",
+      "box": [
+        0.5957,
+        0.6576,
+        0.4043,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "也有许多祭司信从了这信仰。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_06_P003_B001",
+      "panel": "ACTS_06_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0118,
+        0.45,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "acts.6.p3.b1"
+    },
+    {
+      "id": "ACTS_06_P003_B002",
+      "panel": "ACTS_06_P003_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0236,
+        0.6713,
+        0.3538,
+        0.0753
+      ],
+      "tail": null,
+      "text_key": "acts.6.p3.b2"
+    },
+    {
+      "id": "ACTS_06_P003_B003",
+      "panel": "ACTS_06_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7574,
+        0.6713,
+        0.2264,
+        0.0753
+      ],
+      "tail": null,
+      "text_key": "acts.6.p3.b3"
+    }
+  ]
+}

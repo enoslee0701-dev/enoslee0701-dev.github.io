@@ -1,0 +1,82 @@
+{
+  "id": "ACTS_28_P011",
+  "book": "acts",
+  "chapter": 28,
+  "page": 11,
+  "ref": "28:31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_28_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_28_P011_F1",
+      "box": [
+        0,
+        0,
+        0.6406,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "他大胆地传讲　神的国，教导关于主耶稣基督的事，"
+      }
+    },
+    {
+      "id": "ACTS_28_P011_F2",
+      "box": [
+        0.6504,
+        0,
+        0.3496,
+        0.3919
+      ]
+    },
+    {
+      "id": "ACTS_28_P011_F3",
+      "box": [
+        0,
+        0.3971,
+        1,
+        0.6029
+      ],
+      "alt": {
+        "zh-CN": "没有人阻止他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_28_P011_B036",
+      "panel": "ACTS_28_P011_F1",
+      "order": 36,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0256,
+        0.0078,
+        0.5893,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "acts.28.p11.b36"
+    },
+    {
+      "id": "ACTS_28_P011_B037",
+      "panel": "ACTS_28_P011_F3",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.4152,
+        0.6,
+        0.0723
+      ],
+      "tail": null,
+      "text_key": "acts.28.p11.b37"
+    }
+  ]
+}

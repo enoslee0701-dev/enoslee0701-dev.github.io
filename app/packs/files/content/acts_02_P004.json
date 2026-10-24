@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_02_P004",
+  "book": "acts",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "那时，有从天下各国来的虔诚犹太人住在耶路撒冷。"
+      }
+    },
+    {
+      "id": "ACTS_02_P004_F2",
+      "box": [
+        0,
+        0.2832,
+        0.594,
+        0.3164
+      ],
+      "alt": {
+        "zh-CN": "这声音一响，众人都聚集过来，各人听见门徒用自己家乡的话说话，就很困惑；"
+      }
+    },
+    {
+      "id": "ACTS_02_P004_F3",
+      "box": [
+        0.494,
+        0.2832,
+        0.506,
+        0.3164
+      ],
+      "alt": {
+        "zh-CN": "「看哪，这些说话的不都是加利利人吗？」"
+      }
+    },
+    {
+      "id": "ACTS_02_P004_F4",
+      "box": [
+        0,
+        0.6042,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "「我们怎么各自听见他们说我们家乡的话呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P004_B001",
+      "panel": "ACTS_02_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0112,
+        0.4,
+        0.0617
+      ],
+      "tail": null,
+      "text_key": "acts.2.p4.b1"
+    },
+    {
+      "id": "ACTS_02_P004_B002",
+      "panel": "ACTS_02_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0119,
+        0.5363,
+        0.2673,
+        0.0569
+      ],
+      "tail": null,
+      "text_key": "acts.2.p4.b2"
+    },
+    {
+      "id": "ACTS_02_P004_B003",
+      "panel": "ACTS_02_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7976,
+        0.2895,
+        0.1872,
+        0.0506
+      ],
+      "tail": [
+        0.8912,
+        0.3717
+      ],
+      "text_key": "acts.2.p4.b3"
+    },
+    {
+      "id": "ACTS_02_P004_B004",
+      "panel": "ACTS_02_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.55,
+        0.6121,
+        0.43,
+        0.0474
+      ],
+      "tail": [
+        0.765,
+        0.6991
+      ],
+      "text_key": "acts.2.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ACTS_15_P004",
+  "book": "acts",
+  "chapter": 15,
+  "page": 4,
+  "ref": "15:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "「现在你们为什么试探　神，要把我们祖先和我们都担不起的轭，放在门徒的脖子上呢？」"
+      }
+    },
+    {
+      "id": "ACTS_15_P004_F2",
+      "box": [
+        0,
+        0.2702,
+        1,
+        0.2012
+      ]
+    },
+    {
+      "id": "ACTS_15_P004_F3",
+      "box": [
+        0,
+        0.4766,
+        1,
+        0.5234
+      ],
+      "alt": {
+        "zh-CN": "「我们得救是靠着主耶稣的恩典，和他们一样，这是我们所相信的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P004_B013",
+      "panel": "ACTS_15_P004_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0106,
+        0.45,
+        0.0636
+      ],
+      "tail": [
+        0.745,
+        0.1007
+      ],
+      "text_key": "acts.15.p4.b13"
+    },
+    {
+      "id": "ACTS_15_P004_B014",
+      "panel": "ACTS_15_P004_F3",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.4923,
+        0.46,
+        0.0628
+      ],
+      "tail": [
+        0.73,
+        0.6074
+      ],
+      "text_key": "acts.15.p4.b14"
+    }
+  ]
+}

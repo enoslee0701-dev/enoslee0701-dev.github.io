@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_17_P003",
+  "book": "acts",
+  "chapter": 17,
+  "page": 3,
+  "ref": "17:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "弟兄们立刻在夜里送保罗和西拉往庇哩亚去。他们到了，就进了犹太人的会堂。"
+      }
+    },
+    {
+      "id": "ACTS_17_P003_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "这地方的人比帖撒罗尼迦的人开明，热切地接受这道，天天查考圣经，要知道这道是不是这样。"
+      }
+    },
+    {
+      "id": "ACTS_17_P003_F3",
+      "box": [
+        0,
+        0.6641,
+        0.4365,
+        0.3359
+      ]
+    },
+    {
+      "id": "ACTS_17_P003_F4",
+      "box": [
+        0.4424,
+        0.6641,
+        0.5576,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "所以他们中间有许多人相信了，还有希腊的尊贵妇女，男子也不少。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P003_B009",
+      "panel": "ACTS_17_P003_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.008,
+        0.42,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "acts.17.p3.b9"
+    },
+    {
+      "id": "ACTS_17_P003_B010",
+      "panel": "ACTS_17_P003_F2",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2812,
+        0.42,
+        0.0585
+      ],
+      "tail": null,
+      "text_key": "acts.17.p3.b10"
+    },
+    {
+      "id": "ACTS_17_P003_B011",
+      "panel": "ACTS_17_P003_F4",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7491,
+        0.6742,
+        0.2341,
+        0.0537
+      ],
+      "tail": null,
+      "text_key": "acts.17.p3.b11"
+    }
+  ]
+}

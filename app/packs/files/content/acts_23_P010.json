@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_23_P010",
+  "book": "acts",
+  "chapter": 23,
+  "page": 10,
+  "ref": "23:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "千夫长又写了一封信，大意是：「克劳第·吕西亚问候巡抚腓力斯大人。」"
+      }
+    },
+    {
+      "id": "ACTS_23_P010_F2",
+      "box": [
+        0,
+        0.2493,
+        1,
+        0.3939
+      ],
+      "alt": {
+        "zh-CN": "「这个人被犹太人捉住，快要被杀，我知道他是罗马人，就带兵去救了他出来。」「我才知道他被告是因为他们律法上的争论，并没有什么该死或该坐牢的罪。」"
+      }
+    },
+    {
+      "id": "ACTS_23_P010_F3",
+      "box": [
+        0,
+        0.6458,
+        0.5391,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "「后来有人把谋害他的计划告诉我，我就立刻把他送到你那里，……」"
+      }
+    },
+    {
+      "id": "ACTS_23_P010_F4",
+      "box": [
+        0.5459,
+        0.6458,
+        0.4541,
+        0.3542
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P010_B033",
+      "panel": "ACTS_23_P010_F1",
+      "order": 33,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0098,
+        0.4,
+        0.0213
+      ],
+      "tail": null,
+      "text_key": "acts.23.p10.b33"
+    },
+    {
+      "id": "ACTS_23_P010_B034",
+      "panel": "ACTS_23_P010_F1",
+      "order": 34,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0361,
+        0.4,
+        0.0328
+      ],
+      "tail": null,
+      "text_key": "acts.23.p10.b34"
+    },
+    {
+      "id": "ACTS_23_P010_B035",
+      "panel": "ACTS_23_P010_F2",
+      "order": 35,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2611,
+        0.46,
+        0.0423
+      ],
+      "tail": null,
+      "text_key": "acts.23.p10.b35"
+    },
+    {
+      "id": "ACTS_23_P010_B036",
+      "panel": "ACTS_23_P010_F2",
+      "order": 36,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3113,
+        0.46,
+        0.0364
+      ],
+      "tail": null,
+      "text_key": "acts.23.p10.b36"
+    },
+    {
+      "id": "ACTS_23_P010_B037",
+      "panel": "ACTS_23_P010_F3",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0216,
+        0.6529,
+        0.4959,
+        0.0389
+      ],
+      "tail": null,
+      "text_key": "acts.23.p10.b37"
+    }
+  ]
+}

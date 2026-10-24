@@ -1,0 +1,100 @@
+{
+  "id": "ACTS_06_P004",
+  "book": "acts",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "司提反满有　神的恩典和能力，在百姓中间行了大奇事和神迹。"
+      }
+    },
+    {
+      "id": "ACTS_06_P004_F2",
+      "box": [
+        0,
+        0.2917,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "当时有所谓「自由人会堂」的一些人，还有从古利奈、亚历山大、基利家、亚细亚来的人，都起来和司提反辩论。"
+      }
+    },
+    {
+      "id": "ACTS_06_P004_F3",
+      "box": [
+        0,
+        0.6556,
+        1,
+        0.3444
+      ],
+      "alt": {
+        "zh-CN": "司提反凭着智慧和圣灵说话，他们都抵挡不住，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_06_P004_B001",
+      "panel": "ACTS_06_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0086,
+        0.41,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "acts.6.p4.b1"
+    },
+    {
+      "id": "ACTS_06_P004_B002",
+      "panel": "ACTS_06_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.3025,
+        0.45,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "acts.6.p4.b2"
+    },
+    {
+      "id": "ACTS_06_P004_B003",
+      "panel": "ACTS_06_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.72,
+        0.6659,
+        0.26,
+        0.0826
+      ],
+      "tail": null,
+      "text_key": "acts.6.p4.b3"
+    }
+  ]
+}

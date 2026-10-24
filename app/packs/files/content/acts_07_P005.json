@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_07_P005",
+  "book": "acts",
+  "chapter": 7,
+  "page": 5,
+  "ref": "7:17-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "直到有一个不认识约瑟的新王起来。他用诡计对付我们的民族，虐待我们的祖先，"
+      }
+    },
+    {
+      "id": "ACTS_07_P005_F2",
+      "box": [
+        0,
+        0.2617,
+        0.344,
+        0.3923
+      ],
+      "alt": {
+        "zh-CN": "那时摩西出生了，长得非常俊美，在父亲家里养了三个月。"
+      }
+    },
+    {
+      "id": "ACTS_07_P005_F3",
+      "box": [
+        0.354,
+        0.2617,
+        0.646,
+        0.3923
+      ],
+      "alt": {
+        "zh-CN": "他被丢弃的时候，法老的女儿把他抱去，养作自己的儿子。"
+      }
+    },
+    {
+      "id": "ACTS_07_P005_F4",
+      "box": [
+        0,
+        0.66,
+        1,
+        0.34
+      ],
+      "alt": {
+        "zh-CN": "摩西学会了埃及人的一切学问，说话做事都有能力。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P005_B001",
+      "panel": "ACTS_07_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0077,
+        0.55,
+        0.0618
+      ],
+      "tail": [
+        0.305,
+        0.0953
+      ],
+      "text_key": "acts.7.p5.b1"
+    },
+    {
+      "id": "ACTS_07_P005_B002",
+      "panel": "ACTS_07_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0172,
+        0.5442,
+        0.3096,
+        0.098
+      ],
+      "tail": [
+        0.172,
+        0.654
+      ],
+      "text_key": "acts.7.p5.b2"
+    },
+    {
+      "id": "ACTS_07_P005_B003",
+      "panel": "ACTS_07_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6447,
+        0.2735,
+        0.3359,
+        0.0706
+      ],
+      "tail": [
+        0.8127,
+        0.3833
+      ],
+      "text_key": "acts.7.p5.b3"
+    },
+    {
+      "id": "ACTS_07_P005_B004",
+      "panel": "ACTS_07_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.6736,
+        0.32,
+        0.0952
+      ],
+      "tail": [
+        0.82,
+        0.8028
+      ],
+      "text_key": "acts.7.p5.b4"
+    }
+  ]
+}

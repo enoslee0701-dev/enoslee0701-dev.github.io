@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_27_P011",
+  "book": "acts",
+  "chapter": 27,
+  "page": 11,
+  "ref": "27:33-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2025
+      ],
+      "alt": {
+        "zh-CN": "天快亮的时候，保罗劝大家都吃饭，说："
+      }
+    },
+    {
+      "id": "ACTS_27_P011_F2",
+      "box": [
+        0,
+        0.2067,
+        0.559,
+        0.204
+      ],
+      "alt": {
+        "zh-CN": "「你们一直提心吊胆、挨饿不吃东西，已经十四天了。」"
+      }
+    },
+    {
+      "id": "ACTS_27_P011_F3",
+      "box": [
+        0,
+        0.207,
+        1,
+        0.793
+      ],
+      "alt": {
+        "zh-CN": "「所以我劝你们吃饭，这关系到你们能不能活命；」"
+      }
+    },
+    {
+      "id": "ACTS_27_P011_F4",
+      "box": [
+        0.6,
+        0.69,
+        0.4,
+        0.31
+      ],
+      "alt": {
+        "zh-CN": "「因为你们每个人连一根头发也不会损失。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P011_B036",
+      "panel": "ACTS_27_P011_F1",
+      "order": 36,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.0101,
+        0.47,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "acts.27.p11.b36"
+    },
+    {
+      "id": "ACTS_27_P011_B037",
+      "panel": "ACTS_27_P011_F2",
+      "order": 37,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3466,
+        0.2108,
+        0.2012,
+        0.0285
+      ],
+      "tail": [
+        0.4472,
+        0.2597
+      ],
+      "text_key": "acts.27.p11.b37"
+    },
+    {
+      "id": "ACTS_27_P011_B038",
+      "panel": "ACTS_27_P011_F3",
+      "order": 38,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.565,
+        0.2149,
+        0.23,
+        0.111
+      ],
+      "tail": [
+        0.68,
+        0.4052
+      ],
+      "text_key": "acts.27.p11.b38"
+    },
+    {
+      "id": "ACTS_27_P011_B039",
+      "panel": "ACTS_27_P011_F4",
+      "order": 39,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.9225,
+        0.36,
+        0.0682
+      ],
+      "tail": [
+        0.6,
+        1
+      ],
+      "text_key": "acts.27.p11.b39"
+    }
+  ]
+}

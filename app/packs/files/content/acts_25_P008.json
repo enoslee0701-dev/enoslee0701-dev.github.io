@@ -1,0 +1,106 @@
+{
+  "id": "ACTS_25_P008",
+  "book": "acts",
+  "chapter": 25,
+  "page": 8,
+  "ref": "25:23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_25_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_25_P008_F1",
+      "box": [
+        0,
+        0,
+        0.5,
+        0.3083
+      ],
+      "alt": {
+        "zh-CN": "「第二天，」「亚基帕和百妮基带着盛大的排场来了，和千夫长们、城里的显要一起进了大厅。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P008_F2",
+      "box": [
+        0.5063,
+        0,
+        0.4937,
+        0.3417
+      ],
+      "alt": {
+        "zh-CN": "「非斯都一声令下，保罗就被带了进来。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P008_F3",
+      "box": [
+        0,
+        0.3125,
+        0.4988,
+        0.1833
+      ]
+    },
+    {
+      "id": "ACTS_25_P008_F4",
+      "box": [
+        0,
+        0.5,
+        1,
+        0.5
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_25_P008_B027",
+      "panel": "ACTS_25_P008_F1",
+      "order": 27,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.015,
+        0.0092,
+        0.2,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "acts.25.p8.b27"
+    },
+    {
+      "id": "ACTS_25_P008_B028",
+      "panel": "ACTS_25_P008_F1",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0617,
+        0.28,
+        0.0678
+      ],
+      "tail": null,
+      "text_key": "acts.25.p8.b28"
+    },
+    {
+      "id": "ACTS_25_P008_B029",
+      "panel": "ACTS_25_P008_F2",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5211,
+        0.2392,
+        0.2369,
+        0.082
+      ],
+      "tail": null,
+      "text_key": "acts.25.p8.b29"
+    }
+  ]
+}

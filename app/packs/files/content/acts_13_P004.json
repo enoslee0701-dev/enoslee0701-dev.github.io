@@ -1,0 +1,94 @@
+{
+  "id": "ACTS_13_P004",
+  "book": "acts",
+  "chapter": 13,
+  "page": 4,
+  "ref": "13:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_13_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_13_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "扫罗又叫保罗，被圣灵充满，定睛看着他，"
+      }
+    },
+    {
+      "id": "ACTS_13_P004_F2",
+      "box": [
+        0,
+        0.2194,
+        0.4814,
+        0.2871
+      ]
+    },
+    {
+      "id": "ACTS_13_P004_F3",
+      "box": [
+        0.4883,
+        0.2194,
+        0.5117,
+        0.2871
+      ]
+    },
+    {
+      "id": "ACTS_13_P004_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "说：「你这充满各种诡诈和奸恶的魔鬼之子，一切正义的仇敌，你扭曲主的正道还不停止吗？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_13_P004_B012",
+      "panel": "ACTS_13_P004_F1",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0129,
+        0.3,
+        0.1853
+      ],
+      "tail": null,
+      "text_key": "acts.13.p4.b12"
+    },
+    {
+      "id": "ACTS_13_P004_B013",
+      "panel": "ACTS_13_P004_F4",
+      "order": 13,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.04,
+        0.5251,
+        0.6,
+        0.0783
+      ],
+      "tail": [
+        0.34,
+        0.6524
+      ],
+      "text_key": "acts.13.p4.b13"
+    }
+  ]
+}

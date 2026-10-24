@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_13_P015",
+  "book": "acts",
+  "chapter": 13,
+  "page": 15,
+  "ref": "13:48-49",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_13_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_13_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "外邦人听了这些话就非常高兴，称颂主的道；"
+      }
+    },
+    {
+      "id": "ACTS_13_P015_F2",
+      "box": [
+        0,
+        0.375,
+        0.4971,
+        0.3158
+      ],
+      "alt": {
+        "zh-CN": "凡被预定得永生的人都信了。"
+      }
+    },
+    {
+      "id": "ACTS_13_P015_F3",
+      "box": [
+        0.5039,
+        0.375,
+        0.4961,
+        0.3158
+      ]
+    },
+    {
+      "id": "ACTS_13_P015_F4",
+      "box": [
+        0,
+        0.6947,
+        1,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "于是主的道传遍了那整个地区。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_13_P015_B052",
+      "panel": "ACTS_13_P015_F1",
+      "order": 52,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0074,
+        0.45,
+        0.052
+      ],
+      "tail": null,
+      "text_key": "acts.13.p15.b52"
+    },
+    {
+      "id": "ACTS_13_P015_B053",
+      "panel": "ACTS_13_P015_F2",
+      "order": 53,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.6213,
+        0.3976,
+        0.0568
+      ],
+      "tail": null,
+      "text_key": "acts.13.p15.b53"
+    },
+    {
+      "id": "ACTS_13_P015_B054",
+      "panel": "ACTS_13_P015_F4",
+      "order": 54,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7069,
+        0.5,
+        0.061
+      ],
+      "tail": null,
+      "text_key": "acts.13.p15.b54"
+    }
+  ]
+}

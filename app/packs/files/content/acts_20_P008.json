@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_20_P008",
+  "book": "acts",
+  "chapter": 20,
+  "page": 8,
+  "ref": "20:25-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_20_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_20_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "「……现在我知道，你们以后都不会再见到我的面了。」"
+      }
+    },
+    {
+      "id": "ACTS_20_P008_F2",
+      "box": [
+        0,
+        0.2402,
+        0.5869,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "「……你们要为自己小心，也为全群小心，牧养　神的教会，……」"
+      }
+    },
+    {
+      "id": "ACTS_20_P008_F3",
+      "box": [
+        0.5938,
+        0.2402,
+        0.4062,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "「我知道我离开以后，必有凶恶的豺狼进到你们中间，不爱惜羊群。」"
+      }
+    },
+    {
+      "id": "ACTS_20_P008_F4",
+      "box": [
+        0,
+        0.6022,
+        1,
+        0.3978
+      ],
+      "alt": {
+        "zh-CN": "「所以你们要警醒，记得我三年之久，昼夜不停地流泪劝诫你们每一个人。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_20_P008_B024",
+      "panel": "ACTS_20_P008_F1",
+      "order": 24,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.0071,
+        0.45,
+        0.0522
+      ],
+      "tail": [
+        0.745,
+        0.0831
+      ],
+      "text_key": "acts.20.p8.b24"
+    },
+    {
+      "id": "ACTS_20_P008_B025",
+      "panel": "ACTS_20_P008_F2",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0235,
+        0.5128,
+        0.5399,
+        0.0753
+      ],
+      "tail": [
+        0.2935,
+        0.5989
+      ],
+      "text_key": "acts.20.p8.b25"
+    },
+    {
+      "id": "ACTS_20_P008_B026",
+      "panel": "ACTS_20_P008_F3",
+      "order": 26,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6141,
+        0.251,
+        0.3656,
+        0.086
+      ],
+      "tail": [
+        0.7969,
+        0.3729
+      ],
+      "text_key": "acts.20.p8.b26"
+    },
+    {
+      "id": "ACTS_20_P008_B027",
+      "panel": "ACTS_20_P008_F4",
+      "order": 27,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.9204,
+        0.55,
+        0.0676
+      ],
+      "tail": [
+        0.305,
+        1
+      ],
+      "text_key": "acts.20.p8.b27"
+    }
+  ]
+}

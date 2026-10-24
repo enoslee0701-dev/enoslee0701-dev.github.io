@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_24_P004",
+  "book": "acts",
+  "chapter": 24,
+  "page": 4,
+  "ref": "24:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_24_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_24_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "「但有一件事我要向你承认：」"
+      }
+    },
+    {
+      "id": "ACTS_24_P004_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.4108
+      ],
+      "alt": {
+        "zh-CN": "「我是按照他们称为异端的那条道路，事奉我祖先的神，」"
+      }
+    },
+    {
+      "id": "ACTS_24_P004_F3",
+      "box": [
+        0,
+        0.6445,
+        0.4932,
+        0.3555
+      ],
+      "alt": {
+        "zh-CN": "「我也靠着神盼望死人——无论好人坏人——都要复活，这也是他们自己的盼望。」"
+      }
+    },
+    {
+      "id": "ACTS_24_P004_F4",
+      "box": [
+        0.5,
+        0.6445,
+        0.5,
+        0.3555
+      ],
+      "alt": {
+        "zh-CN": "「所以我总是努力，在神面前、在人面前，都保持清白的良心。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_24_P004_B013",
+      "panel": "ACTS_24_P004_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0135,
+        0.39,
+        0.0901
+      ],
+      "tail": [
+        0.775,
+        0.1261
+      ],
+      "text_key": "acts.24.p4.b13"
+    },
+    {
+      "id": "ACTS_24_P004_B014",
+      "panel": "ACTS_24_P004_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.54,
+        0.2415,
+        0.43,
+        0.0821
+      ],
+      "tail": [
+        0.755,
+        0.3647
+      ],
+      "text_key": "acts.24.p4.b14"
+    },
+    {
+      "id": "ACTS_24_P004_B015",
+      "panel": "ACTS_24_P004_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0247,
+        0.8933,
+        0.4438,
+        0.0959
+      ],
+      "tail": [
+        0,
+        1
+      ],
+      "text_key": "acts.24.p4.b15"
+    },
+    {
+      "id": "ACTS_24_P004_B016",
+      "panel": "ACTS_24_P004_F4",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.515,
+        0.8827,
+        0.2,
+        0.1066
+      ],
+      "tail": [
+        0.615,
+        1
+      ],
+      "text_key": "acts.24.p4.b16"
+    }
+  ]
+}

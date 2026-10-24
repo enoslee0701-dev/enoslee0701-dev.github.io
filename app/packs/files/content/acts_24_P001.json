@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_24_P001",
+  "book": "acts",
+  "chapter": 24,
+  "page": 1,
+  "ref": "24:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_24_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_24_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "五天后，大祭司亚拿尼亚和几位长老，带着一个叫帖土罗的律师下来，向总督控告保罗。"
+      }
+    },
+    {
+      "id": "ACTS_24_P001_F2",
+      "box": [
+        0,
+        0.2943,
+        0.5361,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "保罗被带上来，帖土罗就开始控告他说："
+      }
+    },
+    {
+      "id": "ACTS_24_P001_F3",
+      "box": [
+        0.541,
+        0.2943,
+        0.459,
+        0.2871
+      ]
+    },
+    {
+      "id": "ACTS_24_P001_F4",
+      "box": [
+        0,
+        0.584,
+        1,
+        0.416
+      ],
+      "alt": {
+        "zh-CN": "「腓力斯大人，我们靠着你享受长久的太平，这个国家的许多弊病也因你的远见得到了改正；我们无论何时何地都满心感激。我不敢多耽误你的时间，只求你耐心听我们简单说几句。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_24_P001_B001",
+      "panel": "ACTS_24_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0117,
+        0.42,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "acts.24.p1.b1"
+    },
+    {
+      "id": "ACTS_24_P001_B002",
+      "panel": "ACTS_24_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0214,
+        0.5068,
+        0.4824,
+        0.066
+      ],
+      "tail": null,
+      "text_key": "acts.24.p1.b2"
+    },
+    {
+      "id": "ACTS_24_P001_B003",
+      "panel": "ACTS_24_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5965,
+        0.44,
+        0.0621
+      ],
+      "tail": [
+        0.25,
+        0.7002
+      ],
+      "text_key": "acts.24.p1.b3"
+    },
+    {
+      "id": "ACTS_24_P001_B004",
+      "panel": "ACTS_24_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.667,
+        0.44,
+        0.0293
+      ],
+      "tail": [
+        0.25,
+        0.7379
+      ],
+      "text_key": "acts.24.p1.b4"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_17_P005",
+  "book": "acts",
+  "chapter": 17,
+  "page": 5,
+  "ref": "17:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2292
+      ],
+      "alt": {
+        "zh-CN": "保罗在雅典等候他们的时候，"
+      }
+    },
+    {
+      "id": "ACTS_17_P005_F2",
+      "box": [
+        0,
+        0.2331,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "看见满城都是偶像，心里非常难过；"
+      }
+    },
+    {
+      "id": "ACTS_17_P005_F3",
+      "box": [
+        0,
+        0.6549,
+        0.4248,
+        0.3451
+      ]
+    },
+    {
+      "id": "ACTS_17_P005_F4",
+      "box": [
+        0.4336,
+        0.6549,
+        0.5664,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "于是他在会堂里和犹太人以及敬畏神的人辩论，又每天在市场上和遇见的人辩论。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P005_B004",
+      "panel": "ACTS_17_P005_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0069,
+        0.42,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "acts.17.p5.b4"
+    },
+    {
+      "id": "ACTS_17_P005_B005",
+      "panel": "ACTS_17_P005_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.2456,
+        0.33,
+        0.05
+      ],
+      "tail": null,
+      "text_key": "acts.17.p5.b5"
+    },
+    {
+      "id": "ACTS_17_P005_B006",
+      "panel": "ACTS_17_P005_F4",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7281,
+        0.6618,
+        0.2548,
+        0.0345
+      ],
+      "tail": null,
+      "text_key": "acts.17.p5.b6"
+    }
+  ]
+}

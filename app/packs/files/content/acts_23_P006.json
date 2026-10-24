@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_23_P006",
+  "book": "acts",
+  "chapter": 23,
+  "page": 6,
+  "ref": "23:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4128
+      ],
+      "alt": {
+        "zh-CN": "天一亮，犹太人就密谋起誓说：「不先杀保罗，就不吃不喝。」"
+      }
+    },
+    {
+      "id": "ACTS_23_P006_F2",
+      "box": [
+        0,
+        0.4167,
+        0.4277,
+        0.2526
+      ]
+    },
+    {
+      "id": "ACTS_23_P006_F3",
+      "box": [
+        0.4346,
+        0.4167,
+        0.5654,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "参与这个阴谋的有四十多人。他们去见祭司长和长老，说："
+      }
+    },
+    {
+      "id": "ACTS_23_P006_F4",
+      "box": [
+        0,
+        0.6725,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "「我们已经发了重誓，不先杀保罗，就什么都不吃。现在你们和议会要通知千夫长，叫他把保罗带到你们这里来，……我们已经准备好，在他还没到之前就杀掉他。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P006_B018",
+      "panel": "ACTS_23_P006_F1",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0124,
+        0.42,
+        0.0341
+      ],
+      "tail": null,
+      "text_key": "acts.23.p6.b18"
+    },
+    {
+      "id": "ACTS_23_P006_B019",
+      "panel": "ACTS_23_P006_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.0548,
+        0.42,
+        0.0318
+      ],
+      "tail": [
+        0.24,
+        0.1279
+      ],
+      "text_key": "acts.23.p6.b19"
+    },
+    {
+      "id": "ACTS_23_P006_B020",
+      "panel": "ACTS_23_P006_F3",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.689,
+        0.4243,
+        0.294,
+        0.0555
+      ],
+      "tail": null,
+      "text_key": "acts.23.p6.b20"
+    },
+    {
+      "id": "ACTS_23_P006_B021",
+      "panel": "ACTS_23_P006_F4",
+      "order": 21,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.6823,
+        0.55,
+        0.0786
+      ],
+      "tail": [
+        0.305,
+        0.7937
+      ],
+      "text_key": "acts.23.p6.b21"
+    }
+  ]
+}

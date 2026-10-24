@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_12_P005",
+  "book": "acts",
+  "chapter": 12,
+  "page": 5,
+  "ref": "12:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_12_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_12_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "他们出来，走过一条街，天使就忽然离开了他。"
+      }
+    },
+    {
+      "id": "ACTS_12_P005_F2",
+      "box": [
+        0,
+        0.2598,
+        0.4648,
+        0.2975
+      ]
+    },
+    {
+      "id": "ACTS_12_P005_F3",
+      "box": [
+        0.4727,
+        0.2598,
+        0.5273,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "彼得清醒过来，说：「现在我真的知道，主差派他的天使，救我脱离希律的手和犹太百姓所期待的一切。」"
+      }
+    },
+    {
+      "id": "ACTS_12_P005_F4",
+      "box": [
+        0,
+        0.5618,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "他想了想，就到马可（又叫约翰）的母亲马利亚家去，那里有好些人聚在一起祷告。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_12_P005_B017",
+      "panel": "ACTS_12_P005_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0102,
+        0.5,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "acts.12.p5.b17"
+    },
+    {
+      "id": "ACTS_12_P005_B018",
+      "panel": "ACTS_12_P005_F3",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7364,
+        0.2717,
+        0.2425,
+        0.0595
+      ],
+      "tail": null,
+      "text_key": "acts.12.p5.b18"
+    },
+    {
+      "id": "ACTS_12_P005_B019",
+      "panel": "ACTS_12_P005_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6836,
+        0.4561,
+        0.2952,
+        0.0892
+      ],
+      "tail": [
+        0.8312,
+        0.5573
+      ],
+      "text_key": "acts.12.p5.b19"
+    },
+    {
+      "id": "ACTS_12_P005_B020",
+      "panel": "ACTS_12_P005_F4",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5793,
+        0.46,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "acts.12.p5.b20"
+    }
+  ]
+}

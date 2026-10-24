@@ -1,0 +1,115 @@
+{
+  "id": "ACTS_26_P008",
+  "book": "acts",
+  "chapter": 26,
+  "page": 8,
+  "ref": "26:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "保罗这样申辩的时候，非斯都大声说："
+      }
+    },
+    {
+      "id": "ACTS_26_P008_F2",
+      "box": [
+        0,
+        0.2376,
+        1,
+        0.4583
+      ],
+      "alt": {
+        "zh-CN": "「保罗，你疯了！你的学问太大，反倒叫你疯了！」"
+      }
+    },
+    {
+      "id": "ACTS_26_P008_F3",
+      "box": [
+        0,
+        0.6992,
+        0.4893,
+        0.3008
+      ]
+    },
+    {
+      "id": "ACTS_26_P008_F4",
+      "box": [
+        0.498,
+        0.6992,
+        0.502,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "「非斯都大人，我没有疯，我说的是真实清醒的话。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P008_B024",
+      "panel": "ACTS_26_P008_F1",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0093,
+        0.44,
+        0.0514
+      ],
+      "tail": null,
+      "text_key": "acts.26.p8.b24"
+    },
+    {
+      "id": "ACTS_26_P008_B025",
+      "panel": "ACTS_26_P008_F2",
+      "order": 25,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.3,
+        0.2513,
+        0.44,
+        0.0916
+      ],
+      "tail": [
+        0.52,
+        0.3887
+      ],
+      "text_key": "acts.26.p8.b25"
+    },
+    {
+      "id": "ACTS_26_P008_B026",
+      "panel": "ACTS_26_P008_F4",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.749,
+        0.7112,
+        0.2359,
+        0.0721
+      ],
+      "tail": [
+        0.867,
+        0.8134
+      ],
+      "text_key": "acts.26.p8.b26"
+    }
+  ]
+}

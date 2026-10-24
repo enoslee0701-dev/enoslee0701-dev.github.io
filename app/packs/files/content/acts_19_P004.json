@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_19_P004",
+  "book": "acts",
+  "chapter": 19,
+  "page": 4,
+  "ref": "19:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_19_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_19_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "神借着保罗的手行了一些不寻常的奇事；"
+      }
+    },
+    {
+      "id": "ACTS_19_P004_F2",
+      "box": [
+        0,
+        0.2487,
+        0.2559,
+        0.4642
+      ],
+      "alt": {
+        "zh-CN": "有人小心地捧起保罗用过的手巾和围裙。"
+      }
+    },
+    {
+      "id": "ACTS_19_P004_F3",
+      "box": [
+        0.2627,
+        0.2487,
+        0.7373,
+        0.4642
+      ],
+      "alt": {
+        "zh-CN": "甚至有人把保罗用过的手巾或围裙拿去放在病人身上，病就好了，"
+      }
+    },
+    {
+      "id": "ACTS_19_P004_F4",
+      "box": [
+        0,
+        0.7174,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "恶鬼也离开了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_19_P004_B012",
+      "panel": "ACTS_19_P004_F1",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.1948,
+        0.38,
+        0.0413
+      ],
+      "tail": null,
+      "text_key": "acts.19.p4.b12"
+    },
+    {
+      "id": "ACTS_19_P004_B013",
+      "panel": "ACTS_19_P004_F3",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2922,
+        0.2626,
+        0.3686,
+        0.0789
+      ],
+      "tail": null,
+      "text_key": "acts.19.p4.b13"
+    },
+    {
+      "id": "ACTS_19_P004_B014",
+      "panel": "ACTS_19_P004_F4",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.7315,
+        0.35,
+        0.0791
+      ],
+      "tail": null,
+      "text_key": "acts.19.p4.b14"
+    }
+  ]
+}

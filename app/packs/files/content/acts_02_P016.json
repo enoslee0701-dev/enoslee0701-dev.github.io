@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_02_P016",
+  "book": "acts",
+  "chapter": 2,
+  "page": 16,
+  "ref": "2:43-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P016_F1",
+      "box": [
+        0,
+        0,
+        0.501,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "众人都敬畏；使徒们又行了许多奇事和神迹。"
+      }
+    },
+    {
+      "id": "ACTS_02_P016_F2",
+      "box": [
+        0.5078,
+        0,
+        0.4922,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "信的人都在一起，凡物共用，并且变卖田产和家业，按各人的需要分给各人。"
+      }
+    },
+    {
+      "id": "ACTS_02_P016_F3",
+      "box": [
+        0,
+        0.2995,
+        1,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "他们天天同心合意，恒切地在圣殿里，也在家中擘饼，怀着欢喜、诚实的心用饭，"
+      }
+    },
+    {
+      "id": "ACTS_02_P016_F4",
+      "box": [
+        0,
+        0.6563,
+        1,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "赞美　神，得到全体民众的好感。主将得救的人天天加给他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P016_B001",
+      "panel": "ACTS_02_P016_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.015,
+        0.0089,
+        0.4509,
+        0.0532
+      ],
+      "tail": null,
+      "text_key": "acts.2.p16.b1"
+    },
+    {
+      "id": "ACTS_02_P016_B002",
+      "panel": "ACTS_02_P016_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5275,
+        0.2247,
+        0.4528,
+        0.0591
+      ],
+      "tail": null,
+      "text_key": "acts.2.p16.b2"
+    },
+    {
+      "id": "ACTS_02_P016_B003",
+      "panel": "ACTS_02_P016_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3101,
+        0.5,
+        0.0635
+      ],
+      "tail": null,
+      "text_key": "acts.2.p16.b3"
+    },
+    {
+      "id": "ACTS_02_P016_B004",
+      "panel": "ACTS_02_P016_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6666,
+        0.47,
+        0.0756
+      ],
+      "tail": null,
+      "text_key": "acts.2.p16.b4"
+    }
+  ]
+}

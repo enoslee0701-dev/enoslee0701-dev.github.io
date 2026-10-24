@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_13_P014",
+  "book": "acts",
+  "chapter": 13,
+  "page": 14,
+  "ref": "13:46-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_13_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_13_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "保罗和巴拿巴勇敢地说：「神的道理当先讲给你们；但你们既然拒绝，认为自己不配得永生，"
+      }
+    },
+    {
+      "id": "ACTS_13_P014_F2",
+      "box": [
+        0,
+        0.2871,
+        1,
+        0.4102
+      ],
+      "alt": {
+        "zh-CN": "我们就转向外邦人去。"
+      }
+    },
+    {
+      "id": "ACTS_13_P014_F3",
+      "box": [
+        0,
+        0.7005,
+        1,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "因为主这样吩咐我们：『我已经立你作外邦人的光，使你把救恩带到地极。』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_13_P014_B049",
+      "panel": "ACTS_13_P014_F1",
+      "order": 49,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0085,
+        0.47,
+        0.0623
+      ],
+      "tail": [
+        0.735,
+        0.0991
+      ],
+      "text_key": "acts.13.p14.b49"
+    },
+    {
+      "id": "ACTS_13_P014_B050",
+      "panel": "ACTS_13_P014_F2",
+      "order": 50,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.1,
+        0.2953,
+        0.8,
+        0.0574
+      ],
+      "tail": [
+        0.5,
+        0.3937
+      ],
+      "text_key": "acts.13.p14.b50"
+    },
+    {
+      "id": "ACTS_13_P014_B051",
+      "panel": "ACTS_13_P014_F3",
+      "order": 51,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.7125,
+        0.47,
+        0.0658
+      ],
+      "tail": [
+        0.735,
+        0.8083
+      ],
+      "text_key": "acts.13.p14.b51"
+    }
+  ]
+}

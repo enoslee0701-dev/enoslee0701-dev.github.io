@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_16_P002",
+  "book": "acts",
+  "chapter": 16,
+  "page": 2,
+  "ref": "16:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2116
+      ],
+      "alt": {
+        "zh-CN": "到了每西亚的边界，他们想要往庇推尼去，耶稣的灵却不允许。"
+      }
+    },
+    {
+      "id": "ACTS_16_P002_F2",
+      "box": [
+        0,
+        0.2155,
+        0.3154,
+        0.4492
+      ]
+    },
+    {
+      "id": "ACTS_16_P002_F3",
+      "box": [
+        0.3223,
+        0.2155,
+        0.6777,
+        0.4492
+      ]
+    },
+    {
+      "id": "ACTS_16_P002_F4",
+      "box": [
+        0,
+        0.6673,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "保罗看见这异象以后，我们就立刻想要往马其顿去，认为　神呼召我们去传福音给那里的人听。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P002_B005",
+      "panel": "ACTS_16_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0085,
+        0.42,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "acts.16.p2.b5"
+    },
+    {
+      "id": "ACTS_16_P002_B006",
+      "panel": "ACTS_16_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3426,
+        0.229,
+        0.2304,
+        0.0266
+      ],
+      "tail": null,
+      "text_key": "acts.16.p2.b6"
+    },
+    {
+      "id": "ACTS_16_P002_B007",
+      "panel": "ACTS_16_P002_F3",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3426,
+        0.2646,
+        0.2304,
+        0.0362
+      ],
+      "tail": [
+        0.4578,
+        0.3457
+      ],
+      "text_key": "acts.16.p2.b7"
+    },
+    {
+      "id": "ACTS_16_P002_B008",
+      "panel": "ACTS_16_P002_F4",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.6773,
+        0.28,
+        0.0731
+      ],
+      "tail": null,
+      "text_key": "acts.16.p2.b8"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_03_P006",
+  "book": "acts",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "以色列人哪，为什么对这事感到希奇呢？"
+      }
+    },
+    {
+      "id": "ACTS_03_P006_F2",
+      "box": [
+        0,
+        0.3099,
+        1,
+        0.224
+      ],
+      "alt": {
+        "zh-CN": "为什么定睛看着我们，好像我们是凭自己的能力和虔诚使这人走路的呢？"
+      }
+    },
+    {
+      "id": "ACTS_03_P006_F3",
+      "box": [
+        0,
+        0.5384,
+        1,
+        0.4616
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕、以撒、雅各的　神，就是我们祖先的　神，已经荣耀了他的仆人耶稣；你们弃绝了那位圣洁公义的，反而要求释放一个凶手给你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P006_B001",
+      "panel": "ACTS_03_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.0092,
+        0.37,
+        0.052
+      ],
+      "tail": [
+        0.785,
+        0.0918
+      ],
+      "text_key": "acts.3.p6.b1"
+    },
+    {
+      "id": "ACTS_03_P006_B002",
+      "panel": "ACTS_03_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.3233,
+        0.42,
+        0.0896
+      ],
+      "tail": [
+        0.76,
+        0.4353
+      ],
+      "text_key": "acts.3.p6.b2"
+    },
+    {
+      "id": "ACTS_03_P006_B003",
+      "panel": "ACTS_03_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.27,
+        0.5476,
+        0.34,
+        0.0784
+      ],
+      "tail": [
+        0.44,
+        0.6722
+      ],
+      "text_key": "acts.3.p6.b3"
+    },
+    {
+      "id": "ACTS_03_P006_B004",
+      "panel": "ACTS_03_P006_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.63,
+        0.5476,
+        0.34,
+        0.0784
+      ],
+      "tail": [
+        0.8,
+        0.6722
+      ],
+      "text_key": "acts.3.p6.b4"
+    }
+  ]
+}

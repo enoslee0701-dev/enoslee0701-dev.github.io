@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_13_P007",
+  "book": "acts",
+  "chapter": 13,
+  "page": 7,
+  "ref": "13:16-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_13_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_13_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "保罗就站起来，举手示意，说：「以色列人和所有敬畏　神的人，请听。"
+      }
+    },
+    {
+      "id": "ACTS_13_P007_F2",
+      "box": [
+        0,
+        0.3314,
+        1,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "以色列民的　神拣选了我们的祖先，在他们寄居埃及时使他们兴旺，又用大能的手领他们出来；"
+      }
+    },
+    {
+      "id": "ACTS_13_P007_F3",
+      "box": [
+        0,
+        0.6875,
+        0.4971,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "又在旷野容忍他们约四十年。"
+      }
+    },
+    {
+      "id": "ACTS_13_P007_F4",
+      "box": [
+        0.5029,
+        0.6875,
+        0.4971,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "他消灭了迦南地的七个民族，把那地分给他们作产业；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_13_P007_B022",
+      "panel": "ACTS_13_P007_F1",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0131,
+        0.4,
+        0.0653
+      ],
+      "tail": [
+        0.78,
+        0.1111
+      ],
+      "text_key": "acts.13.p7.b22"
+    },
+    {
+      "id": "ACTS_13_P007_B023",
+      "panel": "ACTS_13_P007_F2",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.3455,
+        0.45,
+        0.0704
+      ],
+      "tail": null,
+      "text_key": "acts.13.p7.b23"
+    },
+    {
+      "id": "ACTS_13_P007_B024",
+      "panel": "ACTS_13_P007_F3",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.7,
+        0.4473,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "acts.13.p7.b24"
+    },
+    {
+      "id": "ACTS_13_P007_B025",
+      "panel": "ACTS_13_P007_F4",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5228,
+        0.7,
+        0.2982,
+        0.0687
+      ],
+      "tail": null,
+      "text_key": "acts.13.p7.b25"
+    }
+  ]
+}

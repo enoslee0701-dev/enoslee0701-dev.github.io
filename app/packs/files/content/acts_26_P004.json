@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_26_P004",
+  "book": "acts",
+  "chapter": 26,
+  "page": 4,
+  "ref": "26:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_26_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_26_P004_F1",
+      "box": [
+        0,
+        0,
+        0.6213,
+        0.3
+      ],
+      "alt": {
+        "zh-CN": "「那时，我得到祭司长的授权和命令，前往大马士革。"
+      }
+    },
+    {
+      "id": "ACTS_26_P004_F2",
+      "box": [
+        0.6263,
+        0,
+        0.3737,
+        0.3
+      ],
+      "alt": {
+        "zh-CN": "王啊，我在路上，正午的时候，看见天上发出比太阳还亮的光，……"
+      }
+    },
+    {
+      "id": "ACTS_26_P004_F3",
+      "box": [
+        0,
+        0.305,
+        1,
+        0.4125
+      ],
+      "alt": {
+        "zh-CN": "……『扫罗！扫罗！你为什么迫害我？"
+      }
+    },
+    {
+      "id": "ACTS_26_P004_F4",
+      "box": [
+        0,
+        0.7217,
+        1,
+        0.2783
+      ],
+      "alt": {
+        "zh-CN": "你用脚踢刺棍，是难为自己！』"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_26_P004_B011",
+      "panel": "ACTS_26_P004_F1",
+      "order": 11,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3417,
+        0.012,
+        0.2609,
+        0.078
+      ],
+      "tail": [
+        0.4722,
+        0.12
+      ],
+      "text_key": "acts.26.p4.b11"
+    },
+    {
+      "id": "ACTS_26_P004_B012",
+      "panel": "ACTS_26_P004_F2",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6338,
+        0.006,
+        0.1195,
+        0.045
+      ],
+      "tail": [
+        0.6936,
+        0.081
+      ],
+      "text_key": "acts.26.p4.b12"
+    },
+    {
+      "id": "ACTS_26_P004_B013",
+      "panel": "ACTS_26_P004_F3",
+      "order": 13,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.635,
+        0.52,
+        0.0701
+      ],
+      "tail": [
+        0.29,
+        0.7175
+      ],
+      "text_key": "acts.26.p4.b13"
+    },
+    {
+      "id": "ACTS_26_P004_B014",
+      "panel": "ACTS_26_P004_F4",
+      "order": 14,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.73,
+        0.28,
+        0.0445
+      ],
+      "tail": [
+        0.74,
+        0.8023
+      ],
+      "text_key": "acts.26.p4.b14"
+    }
+  ]
+}

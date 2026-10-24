@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_08_P005",
+  "book": "acts",
+  "chapter": 8,
+  "page": 5,
+  "ref": "8:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "西门看见使徒一按手，圣灵就赐下来，就拿钱给使徒，"
+      }
+    },
+    {
+      "id": "ACTS_08_P005_F2",
+      "box": [
+        0,
+        0.248,
+        1,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "「把这个权柄也给我，让我按手在谁头上，谁就可以领受圣灵。」"
+      }
+    },
+    {
+      "id": "ACTS_08_P005_F3",
+      "box": [
+        0,
+        0.6458,
+        1,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "「你的银子和你一起灭亡吧！因为你以为　神的恩赐可以用钱买。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P005_B001",
+      "panel": "ACTS_08_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0073,
+        0.39,
+        0.0438
+      ],
+      "tail": null,
+      "text_key": "acts.8.p5.b1"
+    },
+    {
+      "id": "ACTS_08_P005_B002",
+      "panel": "ACTS_08_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.2637,
+        0.45,
+        0.0706
+      ],
+      "tail": [
+        0.475,
+        0.3736
+      ],
+      "text_key": "acts.8.p5.b2"
+    },
+    {
+      "id": "ACTS_08_P005_B003",
+      "panel": "ACTS_08_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.29,
+        0.6564,
+        0.27,
+        0.0394
+      ],
+      "tail": [
+        0.425,
+        0.7312
+      ],
+      "text_key": "acts.8.p5.b3"
+    },
+    {
+      "id": "ACTS_08_P005_B004",
+      "panel": "ACTS_08_P005_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.29,
+        0.703,
+        0.27,
+        0.0526
+      ],
+      "tail": [
+        0.425,
+        0.791
+      ],
+      "text_key": "acts.8.p5.b4"
+    }
+  ]
+}

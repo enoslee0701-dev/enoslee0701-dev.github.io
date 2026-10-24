@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_02_P006",
+  "book": "acts",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1517
+      ]
+    },
+    {
+      "id": "ACTS_02_P006_F2",
+      "box": [
+        0,
+        0.1549,
+        1,
+        0.5117
+      ]
+    },
+    {
+      "id": "ACTS_02_P006_F3",
+      "box": [
+        0,
+        0.6699,
+        0.498,
+        0.3301
+      ]
+    },
+    {
+      "id": "ACTS_02_P006_F4",
+      "box": [
+        0.5029,
+        0.6699,
+        0.4971,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "「……其实他们没有醉，因为现在才早上九点。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P006_B001",
+      "panel": "ACTS_02_P006_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1703,
+        0.4,
+        0.0511
+      ],
+      "tail": null,
+      "text_key": "acts.2.p6.b1"
+    },
+    {
+      "id": "ACTS_02_P006_B002",
+      "panel": "ACTS_02_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.55,
+        0.1703,
+        0.42,
+        0.1125
+      ],
+      "tail": [
+        0.76,
+        0.334
+      ],
+      "text_key": "acts.2.p6.b2"
+    },
+    {
+      "id": "ACTS_02_P006_B003",
+      "panel": "ACTS_02_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5228,
+        0.9076,
+        0.2982,
+        0.0792
+      ],
+      "tail": [
+        0.6719,
+        1
+      ],
+      "text_key": "acts.2.p6.b3"
+    }
+  ]
+}

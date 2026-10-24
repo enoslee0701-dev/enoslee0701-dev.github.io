@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_11_P010",
+  "book": "acts",
+  "chapter": 11,
+  "page": 10,
+  "ref": "11:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_11_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_11_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "那些日子，有几位先知从耶路撒冷下到安提阿。"
+      }
+    },
+    {
+      "id": "ACTS_11_P010_F2",
+      "box": [
+        0,
+        0.2259,
+        1,
+        0.4043
+      ],
+      "alt": {
+        "zh-CN": "其中有一位名叫亚迦布，站起来，借着圣灵指明天下将有大饥荒。"
+      }
+    },
+    {
+      "id": "ACTS_11_P010_F3",
+      "box": [
+        0,
+        0.6348,
+        0.501,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "于是门徒决定照各人的能力捐钱，送去救济住在犹太的弟兄。"
+      }
+    },
+    {
+      "id": "ACTS_11_P010_F4",
+      "box": [
+        0.5098,
+        0.6348,
+        0.4902,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "他们就这样做了，把捐款托巴拿巴和扫罗送到长老们那里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_11_P010_B001",
+      "panel": "ACTS_11_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0111,
+        0.5,
+        0.0664
+      ],
+      "tail": null,
+      "text_key": "acts.11.p10.b1"
+    },
+    {
+      "id": "ACTS_11_P010_B002",
+      "panel": "ACTS_11_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.238,
+        0.42,
+        0.0566
+      ],
+      "tail": null,
+      "text_key": "acts.11.p10.b2"
+    },
+    {
+      "id": "ACTS_11_P010_B003",
+      "panel": "ACTS_11_P010_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.6458,
+        0.4509,
+        0.0657
+      ],
+      "tail": null,
+      "text_key": "acts.11.p10.b3"
+    },
+    {
+      "id": "ACTS_11_P010_B004",
+      "panel": "ACTS_11_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5294,
+        0.6458,
+        0.4411,
+        0.073
+      ],
+      "tail": null,
+      "text_key": "acts.11.p10.b4"
+    }
+  ]
+}

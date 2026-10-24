@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_07_P012",
+  "book": "acts",
+  "chapter": 7,
+  "page": 12,
+  "ref": "7:51-53",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "你们这些顽固、心和耳都不受教的人，总是抗拒圣灵！"
+      }
+    },
+    {
+      "id": "ACTS_07_P012_F2",
+      "box": [
+        0,
+        0.4271,
+        0.4961,
+        0.2565
+      ]
+    },
+    {
+      "id": "ACTS_07_P012_F3",
+      "box": [
+        0.502,
+        0.4271,
+        0.498,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "哪一位先知不是被你们祖先迫害的呢？……现在你们又把那位义者出卖、杀害了。"
+      }
+    },
+    {
+      "id": "ACTS_07_P012_F4",
+      "box": [
+        0,
+        0.6868,
+        1,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "你们领受了天使传下来的律法，却不遵守。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P012_B001",
+      "panel": "ACTS_07_P012_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0127,
+        0.52,
+        0.0847
+      ],
+      "tail": [
+        0.29,
+        0.1398
+      ],
+      "text_key": "acts.7.p12.b1"
+    },
+    {
+      "id": "ACTS_07_P012_B002",
+      "panel": "ACTS_07_P012_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5169,
+        0.4374,
+        0.2988,
+        0.0769
+      ],
+      "tail": [
+        0.6663,
+        0.5399
+      ],
+      "text_key": "acts.7.p12.b2"
+    },
+    {
+      "id": "ACTS_07_P012_B003",
+      "panel": "ACTS_07_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6993,
+        0.46,
+        0.0689
+      ],
+      "tail": [
+        0.73,
+        0.7995
+      ],
+      "text_key": "acts.7.p12.b3"
+    }
+  ]
+}

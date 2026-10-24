@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_18_P002",
+  "book": "acts",
+  "chapter": 18,
+  "page": 2,
+  "ref": "18:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_18_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_18_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "西拉和提摩太从马其顿来了以后，保罗专心传道，向犹太人证明耶稣是基督。"
+      }
+    },
+    {
+      "id": "ACTS_18_P002_F2",
+      "box": [
+        0,
+        0.2331,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "「你们的罪要归到你们自己头上，与我无关。从今以后，我要到外邦人那里去。」"
+      }
+    },
+    {
+      "id": "ACTS_18_P002_F3",
+      "box": [
+        0,
+        0.6504,
+        0.4971,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "于是保罗离开那里，到了一个人的家里；……他的家就在会堂旁边。"
+      }
+    },
+    {
+      "id": "ACTS_18_P002_F4",
+      "box": [
+        0.5039,
+        0.6504,
+        0.4961,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "管会堂的基利司布和全家都信了主，还有许多哥林多人听了，就相信并且受洗。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_18_P002_B005",
+      "panel": "ACTS_18_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.3,
+        0.0069,
+        0.4,
+        0.0411
+      ],
+      "tail": null,
+      "text_key": "acts.18.p2.b5"
+    },
+    {
+      "id": "ACTS_18_P002_B006",
+      "panel": "ACTS_18_P002_F2",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.5644,
+        0.42,
+        0.0703
+      ],
+      "tail": [
+        0.76,
+        0.6472
+      ],
+      "text_key": "acts.18.p2.b6"
+    },
+    {
+      "id": "ACTS_18_P002_B007",
+      "panel": "ACTS_18_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.6609,
+        0.2982,
+        0.0559
+      ],
+      "tail": null,
+      "text_key": "acts.18.p2.b7"
+    },
+    {
+      "id": "ACTS_18_P002_B008",
+      "panel": "ACTS_18_P002_F4",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.9371,
+        0.2976,
+        0.0524
+      ],
+      "tail": null,
+      "text_key": "acts.18.p2.b8"
+    }
+  ]
+}

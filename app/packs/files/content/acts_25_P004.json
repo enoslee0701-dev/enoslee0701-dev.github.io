@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_25_P004",
+  "book": "acts",
+  "chapter": 25,
+  "page": 4,
+  "ref": "25:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_25_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_25_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5918,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "「非斯都和顾问们商量之后，」"
+      }
+    },
+    {
+      "id": "ACTS_25_P004_F2",
+      "box": [
+        0.5996,
+        0,
+        0.4004,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "「你既然向凯撒上诉，就到凯撒那里去吧！」"
+      }
+    },
+    {
+      "id": "ACTS_25_P004_F3",
+      "box": [
+        0,
+        0.2806,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "「过了一些日子，」"
+      }
+    },
+    {
+      "id": "ACTS_25_P004_F4",
+      "box": [
+        0,
+        0.5221,
+        1,
+        0.4779
+      ],
+      "alt": {
+        "zh-CN": "「亚基帕王和百妮基来到凯撒利亚，向非斯都问安。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_25_P004_B012",
+      "panel": "ACTS_25_P004_F1",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0118,
+        0.1932,
+        0.213,
+        0.0717
+      ],
+      "tail": null,
+      "text_key": "acts.25.p4.b12"
+    },
+    {
+      "id": "ACTS_25_P004_B013",
+      "panel": "ACTS_25_P004_F2",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.9039,
+        0.011,
+        0.088,
+        0.1242
+      ],
+      "tail": [
+        0.9479,
+        0.1628
+      ],
+      "text_key": "acts.25.p4.b13"
+    },
+    {
+      "id": "ACTS_25_P004_B014",
+      "panel": "ACTS_25_P004_F3",
+      "order": 14,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.2996,
+        0.36,
+        0.095
+      ],
+      "tail": null,
+      "text_key": "acts.25.p4.b14"
+    },
+    {
+      "id": "ACTS_25_P004_B015",
+      "panel": "ACTS_25_P004_F4",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9427,
+        0.94,
+        0.0477
+      ],
+      "tail": null,
+      "text_key": "acts.25.p4.b15"
+    }
+  ]
+}

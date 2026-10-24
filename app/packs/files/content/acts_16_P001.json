@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_16_P001",
+  "book": "acts",
+  "chapter": 16,
+  "page": 1,
+  "ref": "16:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "保罗来到特庇，又到路司得。"
+      }
+    },
+    {
+      "id": "ACTS_16_P001_F2",
+      "box": [
+        0,
+        0.2799,
+        1,
+        0.4043
+      ],
+      "alt": {
+        "zh-CN": "那里有一个门徒，名叫提摩太，是一位信主的犹太妇人的儿子，他父亲却是希腊人。"
+      }
+    },
+    {
+      "id": "ACTS_16_P001_F3",
+      "box": [
+        0,
+        0.6882,
+        0.4746,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "路司得和以哥念的弟兄都称赞他。"
+      }
+    },
+    {
+      "id": "ACTS_16_P001_F4",
+      "box": [
+        0.4824,
+        0.6882,
+        0.5176,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "于是各教会的信心越来越坚固，人数天天增加。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P001_B001",
+      "panel": "ACTS_16_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.011,
+        0.4,
+        0.0549
+      ],
+      "tail": null,
+      "text_key": "acts.16.p1.b1"
+    },
+    {
+      "id": "ACTS_16_P001_B002",
+      "panel": "ACTS_16_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.292,
+        0.39,
+        0.0606
+      ],
+      "tail": null,
+      "text_key": "acts.16.p1.b2"
+    },
+    {
+      "id": "ACTS_16_P001_B003",
+      "panel": "ACTS_16_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0142,
+        0.6976,
+        0.261,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "acts.16.p1.b3"
+    },
+    {
+      "id": "ACTS_16_P001_B004",
+      "panel": "ACTS_16_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7412,
+        0.7007,
+        0.2432,
+        0.0623
+      ],
+      "tail": null,
+      "text_key": "acts.16.p1.b4"
+    }
+  ]
+}

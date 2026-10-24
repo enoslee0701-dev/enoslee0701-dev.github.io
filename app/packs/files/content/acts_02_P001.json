@@ -1,0 +1,82 @@
+{
+  "id": "ACTS_02_P001",
+  "book": "acts",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "五旬节那天，门徒都聚集在一个地方。"
+      }
+    },
+    {
+      "id": "ACTS_02_P001_F2",
+      "box": [
+        0,
+        0.3477,
+        1,
+        0.1673
+      ]
+    },
+    {
+      "id": "ACTS_02_P001_F3",
+      "box": [
+        0,
+        0.5208,
+        1,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "忽然，从天上有响声传下来，好像一阵狂风吹过，充满了他们坐着的整个屋子，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P001_B001",
+      "panel": "ACTS_02_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0103,
+        0.42,
+        0.0616
+      ],
+      "tail": null,
+      "text_key": "acts.2.p1.b1"
+    },
+    {
+      "id": "ACTS_02_P001_B002",
+      "panel": "ACTS_02_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5352,
+        0.5,
+        0.0766
+      ],
+      "tail": null,
+      "text_key": "acts.2.p1.b2"
+    }
+  ]
+}

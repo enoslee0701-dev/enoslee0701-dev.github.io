@@ -1,0 +1,94 @@
+{
+  "id": "ACTS_07_P014",
+  "book": "acts",
+  "chapter": 7,
+  "page": 14,
+  "ref": "7:56-57",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "他说：「看哪，我看见天开了，人子站在　神的右边。」"
+      }
+    },
+    {
+      "id": "ACTS_07_P014_F2",
+      "box": [
+        0,
+        0.3887,
+        0.4639,
+        0.2747
+      ]
+    },
+    {
+      "id": "ACTS_07_P014_F3",
+      "box": [
+        0.4688,
+        0.3887,
+        0.5312,
+        0.2747
+      ]
+    },
+    {
+      "id": "ACTS_07_P014_F4",
+      "box": [
+        0,
+        0.6667,
+        1,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "众人大声喊叫，捂住耳朵，一起冲向他，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P014_B001",
+      "panel": "ACTS_07_P014_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0116,
+        0.44,
+        0.0693
+      ],
+      "tail": [
+        0.25,
+        0.1194
+      ],
+      "text_key": "acts.7.p14.b1"
+    },
+    {
+      "id": "ACTS_07_P014_B002",
+      "panel": "ACTS_07_P014_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.46,
+        0.6734,
+        0.32,
+        0.0599
+      ],
+      "tail": null,
+      "text_key": "acts.7.p14.b2"
+    }
+  ]
+}

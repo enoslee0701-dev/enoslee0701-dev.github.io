@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_05_P002",
+  "book": "acts",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "彼得说：「亚拿尼亚！"
+      }
+    },
+    {
+      "id": "ACTS_05_P002_F2",
+      "box": [
+        0,
+        0.3014,
+        1,
+        0.1914
+      ],
+      "alt": {
+        "zh-CN": "为什么撒但充满了你的心，使你欺骗圣灵，把卖田的钱私下留了一部分呢？"
+      }
+    },
+    {
+      "id": "ACTS_05_P002_F3",
+      "box": [
+        0,
+        0.5,
+        1,
+        0.5
+      ],
+      "alt": {
+        "zh-CN": "田地没有卖的时候，不是你自己的吗？卖了以后，钱不也是由你作主吗？……你不是欺骗人，是欺骗　神了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P002_B001",
+      "panel": "ACTS_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.55,
+        0.0118,
+        0.42,
+        0.0709
+      ],
+      "tail": [
+        0.76,
+        0.1123
+      ],
+      "text_key": "acts.5.p2.b1"
+    },
+    {
+      "id": "ACTS_05_P002_B002",
+      "panel": "ACTS_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3129,
+        0.36,
+        0.1531
+      ],
+      "tail": [
+        0.21,
+        0.4851
+      ],
+      "text_key": "acts.5.p2.b2"
+    },
+    {
+      "id": "ACTS_05_P002_B003",
+      "panel": "ACTS_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.515,
+        0.55,
+        0.0572
+      ],
+      "tail": [
+        0.305,
+        0.6222
+      ],
+      "text_key": "acts.5.p2.b3"
+    },
+    {
+      "id": "ACTS_05_P002_B004",
+      "panel": "ACTS_05_P002_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5823,
+        0.55,
+        0.0327
+      ],
+      "tail": [
+        0.305,
+        0.665
+      ],
+      "text_key": "acts.5.p2.b4"
+    }
+  ]
+}

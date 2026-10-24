@@ -1,0 +1,103 @@
+{
+  "id": "ACTS_02_P013",
+  "book": "acts",
+  "chapter": 2,
+  "page": 13,
+  "ref": "2:36-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_02_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_02_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "「所以，以色列全家都应当确实知道，你们钉在十字架上的这位耶稣，　神已经立他为主，为基督了。」"
+      }
+    },
+    {
+      "id": "ACTS_02_P013_F2",
+      "box": [
+        0,
+        0.306,
+        1,
+        0.1901
+      ]
+    },
+    {
+      "id": "ACTS_02_P013_F3",
+      "box": [
+        0,
+        0.5,
+        1,
+        0.5
+      ],
+      "alt": {
+        "zh-CN": "众人听了这话，心里刺痛，「弟兄们，我们该怎么办？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_02_P013_B001",
+      "panel": "ACTS_02_P013_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.0121,
+        0.55,
+        0.0906
+      ],
+      "tail": [
+        0.695,
+        0.1329
+      ],
+      "text_key": "acts.2.p13.b1"
+    },
+    {
+      "id": "ACTS_02_P013_B002",
+      "panel": "ACTS_02_P013_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.51,
+        0.5,
+        0.0336
+      ],
+      "tail": null,
+      "text_key": "acts.2.p13.b2"
+    },
+    {
+      "id": "ACTS_02_P013_B003",
+      "panel": "ACTS_02_P013_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.5536,
+        0.5,
+        0.0364
+      ],
+      "tail": [
+        0.28,
+        0.64
+      ],
+      "text_key": "acts.2.p13.b3"
+    }
+  ]
+}

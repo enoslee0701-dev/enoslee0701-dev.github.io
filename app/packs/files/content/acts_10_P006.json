@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_10_P006",
+  "book": "acts",
+  "chapter": 10,
+  "page": 6,
+  "ref": "10:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "有声音对他说：「彼得，起来，杀了吃吧！」"
+      }
+    },
+    {
+      "id": "ACTS_10_P006_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "彼得说：「主啊，绝对不可！不洁净的东西我从来没吃过。」"
+      }
+    },
+    {
+      "id": "ACTS_10_P006_F3",
+      "box": [
+        0,
+        0.3327,
+        1,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "声音第二次对他说：「　神已经洁净的，你不可把它当作不洁净的。」"
+      }
+    },
+    {
+      "id": "ACTS_10_P006_F4",
+      "box": [
+        0,
+        0.6895,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "这样一共三次，那东西随即被收回天上去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P006_B001",
+      "panel": "ACTS_10_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.0198,
+        0.0098,
+        0.4464,
+        0.0393
+      ],
+      "tail": [
+        0.243,
+        0.0819
+      ],
+      "text_key": "acts.10.p6.b1"
+    },
+    {
+      "id": "ACTS_10_P006_B002",
+      "panel": "ACTS_10_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.8115,
+        0.0098,
+        0.1785,
+        0.0557
+      ],
+      "tail": [
+        0.9008,
+        0.0983
+      ],
+      "text_key": "acts.10.p6.b2"
+    },
+    {
+      "id": "ACTS_10_P006_B003",
+      "panel": "ACTS_10_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.3433,
+        0.45,
+        0.0564
+      ],
+      "tail": [
+        0.255,
+        0.435
+      ],
+      "text_key": "acts.10.p6.b3"
+    },
+    {
+      "id": "ACTS_10_P006_B004",
+      "panel": "ACTS_10_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.705,
+        0.45,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "acts.10.p6.b4"
+    }
+  ]
+}

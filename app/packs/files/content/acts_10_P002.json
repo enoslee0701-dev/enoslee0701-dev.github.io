@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_10_P002",
+  "book": "acts",
+  "chapter": 10,
+  "page": 2,
+  "ref": "10:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "「主啊，有什么事？」"
+      }
+    },
+    {
+      "id": "ACTS_10_P002_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.2845
+      ]
+    },
+    {
+      "id": "ACTS_10_P002_F3",
+      "box": [
+        0,
+        0.2884,
+        1,
+        0.4277
+      ],
+      "alt": {
+        "zh-CN": "「你的祷告和你的周济已经达到　神面前，蒙　神记念了。"
+      }
+    },
+    {
+      "id": "ACTS_10_P002_F4",
+      "box": [
+        0,
+        0.7207,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "现在你要派人到约帕去，请那个叫彼得的西门来。他住在海边一个硝皮匠西门的家里，房子就在海边。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P002_B001",
+      "panel": "ACTS_10_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.3473,
+        0.0085,
+        0.1389,
+        0.0853
+      ],
+      "tail": [
+        0.4168,
+        0.1223
+      ],
+      "text_key": "acts.10.p2.b1"
+    },
+    {
+      "id": "ACTS_10_P002_B002",
+      "panel": "ACTS_10_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.3012,
+        0.3,
+        0.0684
+      ],
+      "tail": [
+        0.45,
+        0.4124
+      ],
+      "text_key": "acts.10.p2.b2"
+    },
+    {
+      "id": "ACTS_10_P002_B003",
+      "panel": "ACTS_10_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7319,
+        0.55,
+        0.0726
+      ],
+      "tail": [
+        0.305,
+        0.8324
+      ],
+      "text_key": "acts.10.p2.b3"
+    },
+    {
+      "id": "ACTS_10_P002_B004",
+      "panel": "ACTS_10_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.7319,
+        0.37,
+        0.0502
+      ],
+      "tail": [
+        0.785,
+        0.81
+      ],
+      "text_key": "acts.10.p2.b4"
+    }
+  ]
+}

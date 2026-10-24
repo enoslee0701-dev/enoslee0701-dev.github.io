@@ -1,0 +1,82 @@
+{
+  "id": "ACTS_07_P015",
+  "book": "acts",
+  "chapter": 7,
+  "page": 15,
+  "ref": "7:58",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "把他拉到城外，用石头打他。"
+      }
+    },
+    {
+      "id": "ACTS_07_P015_F2",
+      "box": [
+        0,
+        0.2643,
+        1,
+        0.2109
+      ]
+    },
+    {
+      "id": "ACTS_07_P015_F3",
+      "box": [
+        0,
+        0.4785,
+        1,
+        0.5215
+      ],
+      "alt": {
+        "zh-CN": "作证的人把外衣放在一个名叫扫罗的青年脚前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P015_B001",
+      "panel": "ACTS_07_P015_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0105,
+        0.42,
+        0.0575
+      ],
+      "tail": null,
+      "text_key": "acts.7.p15.b1"
+    },
+    {
+      "id": "ACTS_07_P015_B002",
+      "panel": "ACTS_07_P015_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.4941,
+        0.42,
+        0.0938
+      ],
+      "tail": null,
+      "text_key": "acts.7.p15.b2"
+    }
+  ]
+}

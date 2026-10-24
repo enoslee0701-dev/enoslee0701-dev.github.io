@@ -1,0 +1,115 @@
+{
+  "id": "ACTS_19_P013",
+  "book": "acts",
+  "chapter": 19,
+  "page": 13,
+  "ref": "19:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_19_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_19_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "城里的书记安抚了群众，就说："
+      }
+    },
+    {
+      "id": "ACTS_19_P013_F2",
+      "box": [
+        0,
+        0.2383,
+        1,
+        0.4258
+      ],
+      "alt": {
+        "zh-CN": "「以弗所人哪，谁不知道以弗所城是看守大亚底米神庙……的呢？」"
+      }
+    },
+    {
+      "id": "ACTS_19_P013_F3",
+      "box": [
+        0,
+        0.668,
+        0.498,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "「这事既然无可辩驳，你们就应当安静，不可鲁莽行事。」"
+      }
+    },
+    {
+      "id": "ACTS_19_P013_F4",
+      "box": [
+        0.5029,
+        0.668,
+        0.4971,
+        0.332
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_19_P013_B043",
+      "panel": "ACTS_19_P013_F1",
+      "order": 43,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0094,
+        0.44,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "acts.19.p13.b43"
+    },
+    {
+      "id": "ACTS_19_P013_B044",
+      "panel": "ACTS_19_P013_F2",
+      "order": 44,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2511,
+        0.44,
+        0.0851
+      ],
+      "tail": [
+        0.25,
+        0.3788
+      ],
+      "text_key": "acts.19.p13.b44"
+    },
+    {
+      "id": "ACTS_19_P013_B045",
+      "panel": "ACTS_19_P013_F3",
+      "order": 45,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6746,
+        0.4581,
+        0.0332
+      ],
+      "tail": [
+        0.249,
+        0.741
+      ],
+      "text_key": "acts.19.p13.b45"
+    }
+  ]
+}

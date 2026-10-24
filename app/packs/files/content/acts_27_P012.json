@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_27_P012",
+  "book": "acts",
+  "chapter": 27,
+  "page": 12,
+  "ref": "27:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P012_F1",
+      "box": [
+        0,
+        0,
+        0.39,
+        0.173
+      ]
+    },
+    {
+      "id": "ACTS_27_P012_F2",
+      "box": [
+        0,
+        0,
+        1,
+        0.5801
+      ],
+      "alt": {
+        "zh-CN": "保罗说完，就拿起饼，在大家面前感谢　神，掰开来吃。"
+      }
+    },
+    {
+      "id": "ACTS_27_P012_F3",
+      "box": [
+        0,
+        0.5833,
+        0.5322,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "于是大家都安心了，也就吃了。"
+      }
+    },
+    {
+      "id": "ACTS_27_P012_F4",
+      "box": [
+        0.5381,
+        0.5833,
+        0.4619,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "我们在船上一共有二百七十六个人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P012_B040",
+      "panel": "ACTS_27_P012_F2",
+      "order": 40,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0116,
+        0.45,
+        0.0812
+      ],
+      "tail": null,
+      "text_key": "acts.27.p12.b40"
+    },
+    {
+      "id": "ACTS_27_P012_B041",
+      "panel": "ACTS_27_P012_F3",
+      "order": 41,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1916,
+        0.9167,
+        0.3193,
+        0.0666
+      ],
+      "tail": null,
+      "text_key": "acts.27.p12.b41"
+    },
+    {
+      "id": "ACTS_27_P012_B042",
+      "panel": "ACTS_27_P012_F4",
+      "order": 42,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5566,
+        0.9167,
+        0.4249,
+        0.0708
+      ],
+      "tail": null,
+      "text_key": "acts.27.p12.b42"
+    }
+  ]
+}

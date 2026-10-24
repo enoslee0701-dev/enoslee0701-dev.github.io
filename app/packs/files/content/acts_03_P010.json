@@ -1,0 +1,88 @@
+{
+  "id": "ACTS_03_P010",
+  "book": "acts",
+  "chapter": 3,
+  "page": 10,
+  "ref": "3:24-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "你们是先知的后代，也继承了　神与你们祖先所立的约，就是对亚伯拉罕说：『地上万族都要因你的后裔得福。』"
+      }
+    },
+    {
+      "id": "ACTS_03_P010_F2",
+      "box": [
+        0,
+        0.3184,
+        1,
+        0.4974
+      ],
+      "alt": {
+        "zh-CN": "神既然兴起他的仆人，就先差他到你们这里来，赐福给你们，使你们各人回转，离开罪恶。"
+      }
+    },
+    {
+      "id": "ACTS_03_P010_F3",
+      "box": [
+        0,
+        0.8197,
+        1,
+        0.1803
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P010_B001",
+      "panel": "ACTS_03_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.48,
+        0.0126,
+        0.49,
+        0.1255
+      ],
+      "tail": [
+        0.725,
+        0.1695
+      ],
+      "text_key": "acts.3.p10.b1"
+    },
+    {
+      "id": "ACTS_03_P010_B002",
+      "panel": "ACTS_03_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.3333,
+        0.47,
+        0.0994
+      ],
+      "tail": [
+        0.735,
+        0.4824
+      ],
+      "text_key": "acts.3.p10.b2"
+    }
+  ]
+}

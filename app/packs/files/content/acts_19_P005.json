@@ -1,0 +1,115 @@
+{
+  "id": "ACTS_19_P005",
+  "book": "acts",
+  "chapter": 19,
+  "page": 5,
+  "ref": "19:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_19_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_19_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "那时，有几个四处游走、念咒赶鬼的犹太人，擅自对被恶鬼附着的人称主耶稣的名，说："
+      }
+    },
+    {
+      "id": "ACTS_19_P005_F2",
+      "box": [
+        0,
+        0.2721,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "「我奉保罗所传的耶稣命令你们出来！」"
+      }
+    },
+    {
+      "id": "ACTS_19_P005_F3",
+      "box": [
+        0,
+        0.6667,
+        0.6357,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "做这事的，是犹太祭司长士基瓦的七个儿子。"
+      }
+    },
+    {
+      "id": "ACTS_19_P005_F4",
+      "box": [
+        0.6426,
+        0.6667,
+        0.3574,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "墙角那人慢慢抬起一只眼睛。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_19_P005_B015",
+      "panel": "ACTS_19_P005_F1",
+      "order": 15,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0108,
+        0.55,
+        0.0756
+      ],
+      "tail": null,
+      "text_key": "acts.19.p5.b15"
+    },
+    {
+      "id": "ACTS_19_P005_B016",
+      "panel": "ACTS_19_P005_F2",
+      "order": 16,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.2839,
+        0.48,
+        0.0666
+      ],
+      "tail": [
+        0.27,
+        0.3897
+      ],
+      "text_key": "acts.19.p5.b16"
+    },
+    {
+      "id": "ACTS_19_P005_B017",
+      "panel": "ACTS_19_P005_F3",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0254,
+        0.9333,
+        0.5848,
+        0.0566
+      ],
+      "tail": null,
+      "text_key": "acts.19.p5.b17"
+    }
+  ]
+}

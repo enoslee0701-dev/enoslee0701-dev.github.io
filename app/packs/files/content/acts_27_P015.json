@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_27_P015",
+  "book": "acts",
+  "chapter": 27,
+  "page": 15,
+  "ref": "27:42-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P015",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P015_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "士兵们打算把囚犯杀了，免得有人游水逃走。"
+      }
+    },
+    {
+      "id": "ACTS_27_P015_F2",
+      "box": [
+        0,
+        0.2826,
+        1,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "可是百夫长想救保罗，不许他们这样做，"
+      }
+    },
+    {
+      "id": "ACTS_27_P015_F3",
+      "box": [
+        0,
+        0.6471,
+        0.4922,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "就吩咐会游泳的跳下水去，先上岸；"
+      }
+    },
+    {
+      "id": "ACTS_27_P015_F4",
+      "box": [
+        0.499,
+        0.6471,
+        0.501,
+        0.3529
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P015_B049",
+      "panel": "ACTS_27_P015_F1",
+      "order": 49,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0112,
+        0.44,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "acts.27.p15.b49"
+    },
+    {
+      "id": "ACTS_27_P015_B050",
+      "panel": "ACTS_27_P015_F2",
+      "order": 50,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2934,
+        0.42,
+        0.0578
+      ],
+      "tail": null,
+      "text_key": "acts.27.p15.b50"
+    },
+    {
+      "id": "ACTS_27_P015_B051",
+      "panel": "ACTS_27_P015_F3",
+      "order": 51,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0197,
+        0.9153,
+        0.4528,
+        0.0705
+      ],
+      "tail": null,
+      "text_key": "acts.27.p15.b51"
+    }
+  ]
+}

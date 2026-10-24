@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_05_P014",
+  "book": "acts",
+  "chapter": 5,
+  "page": 14,
+  "ref": "5:40-42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_05_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_05_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "公会的人接受了他的意见，就叫使徒进来，打了他们，又命令他们不可奉耶稣的名讲道，然后释放了他们。"
+      }
+    },
+    {
+      "id": "ACTS_05_P014_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.4069
+      ],
+      "alt": {
+        "zh-CN": "使徒离开公会，心里欢喜，因为他们被算是配为这名受羞辱。"
+      }
+    },
+    {
+      "id": "ACTS_05_P014_F3",
+      "box": [
+        0,
+        0.7005,
+        0.4971,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "他们每天在圣殿里、在各家中，不停地教导人，传讲耶稣是基督。"
+      }
+    },
+    {
+      "id": "ACTS_05_P014_F4",
+      "box": [
+        0.5039,
+        0.7005,
+        0.4961,
+        0.2995
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_05_P014_B001",
+      "panel": "ACTS_05_P014_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0114,
+        0.42,
+        0.0851
+      ],
+      "tail": null,
+      "text_key": "acts.5.p14.b1"
+    },
+    {
+      "id": "ACTS_05_P014_B002",
+      "panel": "ACTS_05_P014_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3013,
+        0.4,
+        0.0366
+      ],
+      "tail": null,
+      "text_key": "acts.5.p14.b2"
+    },
+    {
+      "id": "ACTS_05_P014_B003",
+      "panel": "ACTS_05_P014_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0149,
+        0.7065,
+        0.4473,
+        0.0359
+      ],
+      "tail": null,
+      "text_key": "acts.5.p14.b3"
+    }
+  ]
+}

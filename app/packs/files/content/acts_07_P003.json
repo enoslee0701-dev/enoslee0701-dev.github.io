@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_07_P003",
+  "book": "acts",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "先祖们嫉妒约瑟，把他卖到埃及去；　神却与他同在，"
+      }
+    },
+    {
+      "id": "ACTS_07_P003_F2",
+      "box": [
+        0,
+        0.2448,
+        1,
+        0.3861
+      ],
+      "alt": {
+        "zh-CN": "……法老就派他作埃及的宰相，管理全国和王的全家。"
+      }
+    },
+    {
+      "id": "ACTS_07_P003_F3",
+      "box": [
+        0,
+        0.6348,
+        0.4824,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "后来埃及和迦南全地发生饥荒，人们大受困苦，我们的祖先找不到粮食。"
+      }
+    },
+    {
+      "id": "ACTS_07_P003_F4",
+      "box": [
+        0.4873,
+        0.6348,
+        0.5127,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "雅各听说埃及有粮食，就打发我们的祖先第一次去那里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P003_B001",
+      "panel": "ACTS_07_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.0072,
+        0.38,
+        0.0579
+      ],
+      "tail": [
+        0.79,
+        0.0893
+      ],
+      "text_key": "acts.7.p3.b1"
+    },
+    {
+      "id": "ACTS_07_P003_B002",
+      "panel": "ACTS_07_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2564,
+        0.42,
+        0.0694
+      ],
+      "tail": [
+        0.24,
+        0.3644
+      ],
+      "text_key": "acts.7.p3.b2"
+    },
+    {
+      "id": "ACTS_07_P003_B003",
+      "panel": "ACTS_07_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2171,
+        0.6458,
+        0.2508,
+        0.0803
+      ],
+      "tail": [
+        0.3425,
+        0.7626
+      ],
+      "text_key": "acts.7.p3.b3"
+    },
+    {
+      "id": "ACTS_07_P003_B004",
+      "panel": "ACTS_07_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7437,
+        0.6458,
+        0.2409,
+        0.0803
+      ],
+      "tail": [
+        0.8642,
+        0.7626
+      ],
+      "text_key": "acts.7.p3.b4"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_10_P005",
+  "book": "acts",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2148
+      ],
+      "alt": {
+        "zh-CN": "他看见天开了，"
+      }
+    },
+    {
+      "id": "ACTS_10_P005_F2",
+      "box": [
+        0,
+        0.2188,
+        1,
+        0.4206
+      ],
+      "alt": {
+        "zh-CN": "有一样东西降下来，好像一块大布，四个角吊着，落到地上。"
+      }
+    },
+    {
+      "id": "ACTS_10_P005_F3",
+      "box": [
+        0,
+        0.6439,
+        0.5146,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "里面有地上各种四条腿的动物、爬虫和天上的飞鸟。"
+      }
+    },
+    {
+      "id": "ACTS_10_P005_F4",
+      "box": [
+        0.5215,
+        0.6439,
+        0.4785,
+        0.3561
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P005_B001",
+      "panel": "ACTS_10_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0086,
+        0.26,
+        0.0472
+      ],
+      "tail": null,
+      "text_key": "acts.10.p5.b1"
+    },
+    {
+      "id": "ACTS_10_P005_B002",
+      "panel": "ACTS_10_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.2314,
+        0.35,
+        0.0588
+      ],
+      "tail": null,
+      "text_key": "acts.10.p5.b2"
+    },
+    {
+      "id": "ACTS_10_P005_B003",
+      "panel": "ACTS_10_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0206,
+        0.9323,
+        0.4631,
+        0.0569
+      ],
+      "tail": null,
+      "text_key": "acts.10.p5.b3"
+    }
+  ]
+}

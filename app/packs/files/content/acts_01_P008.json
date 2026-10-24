@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_01_P008",
+  "book": "acts",
+  "chapter": 1,
+  "page": 8,
+  "ref": "1:15-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_01_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_01_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "那时，聚集的人很多，大约一百二十人，彼得就在弟兄们中间站起来……"
+      }
+    },
+    {
+      "id": "ACTS_01_P008_F2",
+      "box": [
+        0,
+        0.2572,
+        1,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "弟兄们！……带人去抓耶稣的犹大，这话必须应验。"
+      }
+    },
+    {
+      "id": "ACTS_01_P008_F3",
+      "box": [
+        0,
+        0.5,
+        1,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "……愿他的住处荒废，没有人住在里面……"
+      }
+    },
+    {
+      "id": "ACTS_01_P008_F4",
+      "box": [
+        0,
+        0.7656,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "愿别人接替他的职分。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_01_P008_B001",
+      "panel": "ACTS_01_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.0076,
+        0.45,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "acts.1.p8.b1"
+    },
+    {
+      "id": "ACTS_01_P008_B002",
+      "panel": "ACTS_01_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2644,
+        0.45,
+        0.0718
+      ],
+      "tail": [
+        0.255,
+        0.3602
+      ],
+      "text_key": "acts.1.p8.b2"
+    },
+    {
+      "id": "ACTS_01_P008_B003",
+      "panel": "ACTS_01_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5079,
+        0.55,
+        0.0473
+      ],
+      "tail": [
+        0.305,
+        0.5815
+      ],
+      "text_key": "acts.1.p8.b3"
+    },
+    {
+      "id": "ACTS_01_P008_B004",
+      "panel": "ACTS_01_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.7726,
+        0.22,
+        0.0468
+      ],
+      "tail": [
+        0.51,
+        0.8428
+      ],
+      "text_key": "acts.1.p8.b4"
+    }
+  ]
+}

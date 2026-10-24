@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_10_P008",
+  "book": "acts",
+  "chapter": 10,
+  "page": 8,
+  "ref": "10:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P008_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "彼得下去见那些人，说：「我就是你们要找的人。你们来有什么事？」"
+      }
+    },
+    {
+      "id": "ACTS_10_P008_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "他们说：「百夫长哥尼流是个正直的人，敬畏　神，全犹太人都称赞他。他蒙一位圣天使指示，请你到他家里，听你讲的话。」"
+      }
+    },
+    {
+      "id": "ACTS_10_P008_F3",
+      "box": [
+        0,
+        0.3066,
+        1,
+        0.3874
+      ],
+      "alt": {
+        "zh-CN": "彼得就请他们进来，留他们住了一夜。"
+      }
+    },
+    {
+      "id": "ACTS_10_P008_F4",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "第二天，彼得起身和他们一起去，约帕的几位弟兄也陪他同去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P008_B001",
+      "panel": "ACTS_10_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.0091,
+        0.4446,
+        0.0453
+      ],
+      "tail": [
+        0.2421,
+        0.0846
+      ],
+      "text_key": "acts.10.p8.b1"
+    },
+    {
+      "id": "ACTS_10_P008_B002",
+      "panel": "ACTS_10_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7023,
+        0.0091,
+        0.2827,
+        0.0604
+      ],
+      "tail": [
+        0.8437,
+        0.0997
+      ],
+      "text_key": "acts.10.p8.b2"
+    },
+    {
+      "id": "ACTS_10_P008_B003",
+      "panel": "ACTS_10_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3182,
+        0.45,
+        0.0542
+      ],
+      "tail": null,
+      "text_key": "acts.10.p8.b3"
+    },
+    {
+      "id": "ACTS_10_P008_B004",
+      "panel": "ACTS_10_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.7137,
+        0.47,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "acts.10.p8.b4"
+    }
+  ]
+}

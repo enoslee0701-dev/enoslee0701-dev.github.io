@@ -1,0 +1,94 @@
+{
+  "id": "ACTS_08_P010",
+  "book": "acts",
+  "chapter": 8,
+  "page": 10,
+  "ref": "8:34-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_08_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_08_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "「请问，先知说的是谁？是说他自己，还是说别人？」"
+      }
+    },
+    {
+      "id": "ACTS_08_P010_F2",
+      "box": [
+        0,
+        0.2507,
+        1,
+        0.3711
+      ],
+      "alt": {
+        "zh-CN": "腓利就开口，从这段经文开始，向他讲耶稣的福音。"
+      }
+    },
+    {
+      "id": "ACTS_08_P010_F3",
+      "box": [
+        0,
+        0.625,
+        0.4541,
+        0.375
+      ]
+    },
+    {
+      "id": "ACTS_08_P010_F4",
+      "box": [
+        0.459,
+        0.625,
+        0.541,
+        0.375
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_08_P010_B001",
+      "panel": "ACTS_08_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.0099,
+        0.27,
+        0.0742
+      ],
+      "tail": [
+        0.595,
+        0.1088
+      ],
+      "text_key": "acts.8.p10.b1"
+    },
+    {
+      "id": "ACTS_08_P010_B002",
+      "panel": "ACTS_08_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.2618,
+        0.2,
+        0.0816
+      ],
+      "tail": null,
+      "text_key": "acts.8.p10.b2"
+    }
+  ]
+}

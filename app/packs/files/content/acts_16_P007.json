@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_16_P007",
+  "book": "acts",
+  "chapter": 16,
+  "page": 7,
+  "ref": "16:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "群众一同起来攻击他们。官长下令剥去他们的衣服，用棍子打；"
+      }
+    },
+    {
+      "id": "ACTS_16_P007_F2",
+      "box": [
+        0,
+        0.2513,
+        1,
+        0.3507
+      ],
+      "alt": {
+        "zh-CN": "打了很多棍，"
+      }
+    },
+    {
+      "id": "ACTS_16_P007_F3",
+      "box": [
+        0,
+        0.606,
+        0.5,
+        0.394
+      ],
+      "alt": {
+        "zh-CN": "就把他们关进监狱，吩咐狱卒严加看守。"
+      }
+    },
+    {
+      "id": "ACTS_16_P007_F4",
+      "box": [
+        0.506,
+        0.606,
+        0.494,
+        0.394
+      ],
+      "alt": {
+        "zh-CN": "狱卒接了这样的命令，就把他们关进内监，两脚锁在木枷里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P007_B023",
+      "panel": "ACTS_16_P007_F1",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.01,
+        0.45,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "acts.16.p7.b23"
+    },
+    {
+      "id": "ACTS_16_P007_B024",
+      "panel": "ACTS_16_P007_F2",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.5319,
+        0.42,
+        0.0561
+      ],
+      "tail": null,
+      "text_key": "acts.16.p7.b24"
+    },
+    {
+      "id": "ACTS_16_P007_B025",
+      "panel": "ACTS_16_P007_F3",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1,
+        0.6139,
+        0.26,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "acts.16.p7.b25"
+    },
+    {
+      "id": "ACTS_16_P007_B026",
+      "panel": "ACTS_16_P007_F4",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5208,
+        0.6139,
+        0.2223,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "acts.16.p7.b26"
+    }
+  ]
+}

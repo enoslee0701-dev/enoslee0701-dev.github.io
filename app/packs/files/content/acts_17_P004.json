@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_17_P004",
+  "book": "acts",
+  "chapter": 17,
+  "page": 4,
+  "ref": "17:13-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "可是帖撒罗尼迦的犹太人知道保罗又在庇哩亚传讲神的道，也到那里去煽动、搅扰群众。"
+      }
+    },
+    {
+      "id": "ACTS_17_P004_F2",
+      "box": [
+        0,
+        0.2793,
+        1,
+        0.4232
+      ],
+      "alt": {
+        "zh-CN": "弟兄们立刻送保罗到海边去，西拉和提摩太却留在庇哩亚。"
+      }
+    },
+    {
+      "id": "ACTS_17_P004_F3",
+      "box": [
+        0,
+        0.707,
+        0.4805,
+        0.293
+      ]
+    },
+    {
+      "id": "ACTS_17_P004_F4",
+      "box": [
+        0.4863,
+        0.707,
+        0.5137,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "护送保罗的人把他带到雅典，领了保罗的吩咐，要西拉和提摩太尽快到他那里去，就回去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P004_B001",
+      "panel": "ACTS_17_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0082,
+        0.42,
+        0.0604
+      ],
+      "tail": null,
+      "text_key": "acts.17.p4.b1"
+    },
+    {
+      "id": "ACTS_17_P004_B002",
+      "panel": "ACTS_17_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6179,
+        0.42,
+        0.0719
+      ],
+      "tail": null,
+      "text_key": "acts.17.p4.b2"
+    },
+    {
+      "id": "ACTS_17_P004_B003",
+      "panel": "ACTS_17_P004_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7688,
+        0.7158,
+        0.2157,
+        0.0586
+      ],
+      "tail": null,
+      "text_key": "acts.17.p4.b3"
+    }
+  ]
+}

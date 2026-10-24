@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_09_P016",
+  "book": "acts",
+  "chapter": 9,
+  "page": 16,
+  "ref": "9:40-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_09_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_09_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "彼得叫她们都出去，就跪下祷告，"
+      }
+    },
+    {
+      "id": "ACTS_09_P016_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "然后转身对着死人说：「大比大，起来！」她就睁开眼睛，看见彼得，便坐了起来。"
+      }
+    },
+    {
+      "id": "ACTS_09_P016_F3",
+      "box": [
+        0,
+        0.6296,
+        0.5107,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "彼得伸手扶她起来，叫众圣徒和寡妇进来，把活着的多加交给他们。这事传遍了约帕，就有许多人信了主。"
+      }
+    },
+    {
+      "id": "ACTS_09_P016_F4",
+      "box": [
+        0.5176,
+        0.6296,
+        0.4824,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "此后，彼得在约帕一个硝皮匠西门的家里住了很多天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_09_P016_B001",
+      "panel": "ACTS_09_P016_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0077,
+        0.45,
+        0.0461
+      ],
+      "tail": null,
+      "text_key": "acts.9.p16.b1"
+    },
+    {
+      "id": "ACTS_09_P016_B002",
+      "panel": "ACTS_09_P016_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.2714,
+        0.42,
+        0.0586
+      ],
+      "tail": [
+        0.76,
+        0.3666
+      ],
+      "text_key": "acts.9.p16.b2"
+    },
+    {
+      "id": "ACTS_09_P016_B003",
+      "panel": "ACTS_09_P016_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2656,
+        0.637,
+        0.2298,
+        0.0407
+      ],
+      "tail": null,
+      "text_key": "acts.9.p16.b3"
+    },
+    {
+      "id": "ACTS_09_P016_B004",
+      "panel": "ACTS_09_P016_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5369,
+        0.6407,
+        0.4341,
+        0.0666
+      ],
+      "tail": null,
+      "text_key": "acts.9.p16.b4"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ACTS_28_P010",
+  "book": "acts",
+  "chapter": 28,
+  "page": 10,
+  "ref": "28:30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_28_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_28_P010_F1",
+      "box": [
+        0,
+        0,
+        0.375,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "保罗在自己租的房子里住了整整两年。"
+      }
+    },
+    {
+      "id": "ACTS_28_P010_F2",
+      "box": [
+        0.3838,
+        0,
+        0.6162,
+        0.2773
+      ]
+    },
+    {
+      "id": "ACTS_28_P010_F3",
+      "box": [
+        0,
+        0.2813,
+        1,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "凡是来看他的人，他都接待，"
+      }
+    },
+    {
+      "id": "ACTS_28_P010_F4",
+      "box": [
+        0,
+        0.6465,
+        1,
+        0.3535
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_28_P010_B034",
+      "panel": "ACTS_28_P010_F1",
+      "order": 34,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0225,
+        0.2163,
+        0.33,
+        0.0499
+      ],
+      "tail": null,
+      "text_key": "acts.28.p10.b34"
+    },
+    {
+      "id": "ACTS_28_P010_B035",
+      "panel": "ACTS_28_P010_F3",
+      "order": 35,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.2921,
+        0.39,
+        0.0505
+      ],
+      "tail": null,
+      "text_key": "acts.28.p10.b35"
+    }
+  ]
+}

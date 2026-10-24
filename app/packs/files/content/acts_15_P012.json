@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_15_P012",
+  "book": "acts",
+  "chapter": 15,
+  "page": 12,
+  "ref": "15:37-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P012_F1",
+      "box": [
+        0,
+        0,
+        0.5068,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "巴拿巴想带那称为马可的约翰一起去；"
+      }
+    },
+    {
+      "id": "ACTS_15_P012_F2",
+      "box": [
+        0.5166,
+        0,
+        0.4834,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "但保罗认为不该带他去，因为马可以前在旁非利亚离开了他们，没有和他们一起继续做工。"
+      }
+    },
+    {
+      "id": "ACTS_15_P012_F3",
+      "box": [
+        0,
+        0.3477,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "于是两人起了激烈的争执，以致彼此分开。"
+      }
+    },
+    {
+      "id": "ACTS_15_P012_F4",
+      "box": [
+        0,
+        0.6035,
+        1,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "巴拿巴带着马可，坐船往塞浦路斯去了；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P012_B038",
+      "panel": "ACTS_15_P012_F1",
+      "order": 38,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0203,
+        0.0103,
+        0.304,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "acts.15.p12.b38"
+    },
+    {
+      "id": "ACTS_15_P012_B039",
+      "panel": "ACTS_15_P012_F2",
+      "order": 39,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5408,
+        0.0103,
+        0.4253,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "acts.15.p12.b39"
+    },
+    {
+      "id": "ACTS_15_P012_B040",
+      "panel": "ACTS_15_P012_F3",
+      "order": 40,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.42,
+        0.3552,
+        0.25,
+        0.0451
+      ],
+      "tail": [
+        0.545,
+        0.4254
+      ],
+      "text_key": "acts.15.p12.b40"
+    },
+    {
+      "id": "ACTS_15_P012_B041",
+      "panel": "ACTS_15_P012_F4",
+      "order": 41,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.6154,
+        0.4,
+        0.0515
+      ],
+      "tail": null,
+      "text_key": "acts.15.p12.b41"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ACTS_27_P016",
+  "book": "acts",
+  "chapter": 27,
+  "page": 16,
+  "ref": "27:44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_27_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_27_P016_F1",
+      "box": [
+        0,
+        0,
+        0.5635,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "其余的人可以抓着木板或船上的碎片上岸。"
+      }
+    },
+    {
+      "id": "ACTS_27_P016_F2",
+      "box": [
+        0.5732,
+        0,
+        0.4268,
+        0.3151
+      ]
+    },
+    {
+      "id": "ACTS_27_P016_F3",
+      "box": [
+        0,
+        0.319,
+        1,
+        0.681
+      ],
+      "alt": {
+        "zh-CN": "这样，大家都得救上岸了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_27_P016_B052",
+      "panel": "ACTS_27_P016_F1",
+      "order": 52,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0169,
+        0.0095,
+        0.3099,
+        0.063
+      ],
+      "tail": null,
+      "text_key": "acts.27.p16.b52"
+    },
+    {
+      "id": "ACTS_27_P016_B053",
+      "panel": "ACTS_27_P016_F3",
+      "order": 53,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3326,
+        0.42,
+        0.0612
+      ],
+      "tail": null,
+      "text_key": "acts.27.p16.b53"
+    }
+  ]
+}

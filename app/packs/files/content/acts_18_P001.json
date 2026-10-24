@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_18_P001",
+  "book": "acts",
+  "chapter": 18,
+  "page": 1,
+  "ref": "18:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_18_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_18_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1973
+      ],
+      "alt": {
+        "zh-CN": "这事以后，保罗离开雅典，来到哥林多。"
+      }
+    },
+    {
+      "id": "ACTS_18_P001_F2",
+      "box": [
+        0,
+        0.2018,
+        1,
+        0.431
+      ],
+      "alt": {
+        "zh-CN": "他遇见一个犹太人，名叫亚居拉，……最近带着妻子百基拉从意大利来。保罗就去找他们。"
+      }
+    },
+    {
+      "id": "ACTS_18_P001_F3",
+      "box": [
+        0,
+        0.6367,
+        0.4502,
+        0.3633
+      ],
+      "alt": {
+        "zh-CN": "他们是以制造帐棚为业的。保罗因为和他们同行，就和他们住在一起做工。"
+      }
+    },
+    {
+      "id": "ACTS_18_P001_F4",
+      "box": [
+        0.457,
+        0.6367,
+        0.543,
+        0.3633
+      ],
+      "alt": {
+        "zh-CN": "每逢安息日，保罗在会堂里辩论，劝导犹太人和希腊人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_18_P001_B001",
+      "panel": "ACTS_18_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0079,
+        0.42,
+        0.0434
+      ],
+      "tail": null,
+      "text_key": "acts.18.p1.b1"
+    },
+    {
+      "id": "ACTS_18_P001_B002",
+      "panel": "ACTS_18_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.2147,
+        0.41,
+        0.0689
+      ],
+      "tail": null,
+      "text_key": "acts.18.p1.b2"
+    },
+    {
+      "id": "ACTS_18_P001_B003",
+      "panel": "ACTS_18_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.018,
+        0.9273,
+        0.3151,
+        0.0617
+      ],
+      "tail": null,
+      "text_key": "acts.18.p1.b3"
+    },
+    {
+      "id": "ACTS_18_P001_B004",
+      "panel": "ACTS_18_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7394,
+        0.6476,
+        0.2443,
+        0.0581
+      ],
+      "tail": null,
+      "text_key": "acts.18.p1.b4"
+    }
+  ]
+}

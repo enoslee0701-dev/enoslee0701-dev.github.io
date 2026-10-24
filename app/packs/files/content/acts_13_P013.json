@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_13_P013",
+  "book": "acts",
+  "chapter": 13,
+  "page": 13,
+  "ref": "13:42-45",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_13_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_13_P013_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "保罗和巴拿巴走出会堂的时候，众人请他们下一个安息日再讲这些事。"
+      }
+    },
+    {
+      "id": "ACTS_13_P013_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "散会以后，许多犹太人和皈依犹太教的虔诚人跟着保罗和巴拿巴；两人对他们讲话，劝他们要一直留在神的恩典中。"
+      }
+    },
+    {
+      "id": "ACTS_13_P013_F3",
+      "box": [
+        0,
+        0.3392,
+        1,
+        0.3574
+      ],
+      "alt": {
+        "zh-CN": "到了下一个安息日，几乎全城的人都聚集来听主的道。"
+      }
+    },
+    {
+      "id": "ACTS_13_P013_F4",
+      "box": [
+        0,
+        0.6999,
+        1,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "犹太人看见这么多人，就充满嫉妒，反驳保罗所说的话，还辱骂他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_13_P013_B045",
+      "panel": "ACTS_13_P013_F1",
+      "order": 45,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.0067,
+        0.4473,
+        0.0402
+      ],
+      "tail": null,
+      "text_key": "acts.13.p13.b45"
+    },
+    {
+      "id": "ACTS_13_P013_B046",
+      "panel": "ACTS_13_P013_F2",
+      "order": 46,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5228,
+        0.2548,
+        0.3479,
+        0.067
+      ],
+      "tail": null,
+      "text_key": "acts.13.p13.b46"
+    },
+    {
+      "id": "ACTS_13_P013_B047",
+      "panel": "ACTS_13_P013_F3",
+      "order": 47,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.3463,
+        0.45,
+        0.05
+      ],
+      "tail": null,
+      "text_key": "acts.13.p13.b47"
+    },
+    {
+      "id": "ACTS_13_P013_B048",
+      "panel": "ACTS_13_P013_F4",
+      "order": 48,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.7059,
+        0.32,
+        0.048
+      ],
+      "tail": null,
+      "text_key": "acts.13.p13.b48"
+    }
+  ]
+}

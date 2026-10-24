@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_15_P008",
+  "book": "acts",
+  "chapter": 15,
+  "page": 8,
+  "ref": "15:22-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_15_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_15_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "那时，使徒和长老以及全教会决定，从他们当中拣选人……就是称为巴撒巴的犹大和西拉。这两个人在弟兄中是领袖。"
+      }
+    },
+    {
+      "id": "ACTS_15_P008_F2",
+      "box": [
+        0,
+        0.2721,
+        0.4463,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "于是写信托他们带去，信上说："
+      }
+    },
+    {
+      "id": "ACTS_15_P008_F3",
+      "box": [
+        0.4531,
+        0.2721,
+        0.5469,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "「我们听说，有几个人从我们这里出去，用话搅扰你们，使你们心里不安。其实我们并没有吩咐他们。」"
+      }
+    },
+    {
+      "id": "ACTS_15_P008_F4",
+      "box": [
+        0,
+        0.5417,
+        1,
+        0.4583
+      ],
+      "alt": {
+        "zh-CN": "「所以我们一致决定，拣选几个人，差他们和我们所爱的巴拿巴和保罗到你们那里去。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_15_P008_B025",
+      "panel": "ACTS_15_P008_F1",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.008,
+        0.31,
+        0.0588
+      ],
+      "tail": null,
+      "text_key": "acts.15.p8.b25"
+    },
+    {
+      "id": "ACTS_15_P008_B026",
+      "panel": "ACTS_15_P008_F2",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2232,
+        0.2827,
+        0.2052,
+        0.0531
+      ],
+      "tail": null,
+      "text_key": "acts.15.p8.b26"
+    },
+    {
+      "id": "ACTS_15_P008_B027",
+      "panel": "ACTS_15_P008_F3",
+      "order": 27,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7539,
+        0.2801,
+        0.2296,
+        0.0531
+      ],
+      "tail": [
+        0.8687,
+        0.3598
+      ],
+      "text_key": "acts.15.p8.b27"
+    },
+    {
+      "id": "ACTS_15_P008_B028",
+      "panel": "ACTS_15_P008_F4",
+      "order": 28,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.5554,
+        0.42,
+        0.0641
+      ],
+      "tail": [
+        0.76,
+        0.6653
+      ],
+      "text_key": "acts.15.p8.b28"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_23_P002",
+  "book": "acts",
+  "chapter": 23,
+  "page": 2,
+  "ref": "23:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "「你这粉饰的墙，　神要打你！你坐在那里要按照律法审判我，却违反律法，下令打我吗？」"
+      }
+    },
+    {
+      "id": "ACTS_23_P002_F2",
+      "box": [
+        0,
+        0.4134,
+        0.5361,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "「你竟敢侮辱　神的大祭司吗？」"
+      }
+    },
+    {
+      "id": "ACTS_23_P002_F3",
+      "box": [
+        0.5439,
+        0.4134,
+        0.4561,
+        0.265
+      ]
+    },
+    {
+      "id": "ACTS_23_P002_F4",
+      "box": [
+        0,
+        0.6829,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "「弟兄们，我不知道他是大祭司；圣经上说：『不可毁谤你百姓的领袖。』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P002_B004",
+      "panel": "ACTS_23_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0123,
+        0.46,
+        0.0817
+      ],
+      "tail": [
+        0.26,
+        0.1349
+      ],
+      "text_key": "acts.23.p2.b4"
+    },
+    {
+      "id": "ACTS_23_P002_B005",
+      "panel": "ACTS_23_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0214,
+        0.4214,
+        0.4932,
+        0.0583
+      ],
+      "tail": [
+        0.268,
+        0.5062
+      ],
+      "text_key": "acts.23.p2.b5"
+    },
+    {
+      "id": "ACTS_23_P002_B006",
+      "panel": "ACTS_23_P002_F4",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6924,
+        0.55,
+        0.0697
+      ],
+      "tail": [
+        0.305,
+        0.7938
+      ],
+      "text_key": "acts.23.p2.b6"
+    }
+  ]
+}

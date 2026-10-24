@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_18_P007",
+  "book": "acts",
+  "chapter": 18,
+  "page": 7,
+  "ref": "18:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_18_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_18_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "到了以弗所，保罗就把他们留在那里，"
+      }
+    },
+    {
+      "id": "ACTS_18_P007_F2",
+      "box": [
+        0,
+        0.2689,
+        1,
+        0.2695
+      ],
+      "alt": {
+        "zh-CN": "自己进了会堂，和犹太人辩论。众人请他多住一些日子，他却不答应，"
+      }
+    },
+    {
+      "id": "ACTS_18_P007_F3",
+      "box": [
+        0,
+        0.5423,
+        0.6719,
+        0.4577
+      ],
+      "alt": {
+        "zh-CN": "「　神若允许，我还要回到你们这里来。」"
+      }
+    },
+    {
+      "id": "ACTS_18_P007_F4",
+      "box": [
+        0.6797,
+        0.5423,
+        0.3203,
+        0.4577
+      ],
+      "alt": {
+        "zh-CN": "于是坐船离开了以弗所。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_18_P007_B023",
+      "panel": "ACTS_18_P007_F1",
+      "order": 23,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.008,
+        0.42,
+        0.0477
+      ],
+      "tail": null,
+      "text_key": "acts.18.p7.b23"
+    },
+    {
+      "id": "ACTS_18_P007_B024",
+      "panel": "ACTS_18_P007_F2",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.28,
+        0.277,
+        0.44,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "acts.18.p7.b24"
+    },
+    {
+      "id": "ACTS_18_P007_B025",
+      "panel": "ACTS_18_P007_F3",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0202,
+        0.556,
+        0.3359,
+        0.0732
+      ],
+      "tail": [
+        0.1881,
+        0.675
+      ],
+      "text_key": "acts.18.p7.b25"
+    },
+    {
+      "id": "ACTS_18_P007_B026",
+      "panel": "ACTS_18_P007_F4",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6957,
+        0.556,
+        0.2882,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "acts.18.p7.b26"
+    }
+  ]
+}

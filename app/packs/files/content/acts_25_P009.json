@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_25_P009",
+  "book": "acts",
+  "chapter": 25,
+  "page": 9,
+  "ref": "25:24-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_25_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_25_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "「亚基帕王和在场的各位，你们看这个人，……」"
+      }
+    },
+    {
+      "id": "ACTS_25_P009_F2",
+      "box": [
+        0,
+        0.2617,
+        0.4975,
+        0.252
+      ],
+      "alt": {
+        "zh-CN": "「不能让他再活下去！」"
+      }
+    },
+    {
+      "id": "ACTS_25_P009_F3",
+      "box": [
+        0.505,
+        0.2617,
+        0.495,
+        0.252
+      ],
+      "alt": {
+        "zh-CN": "「关于这个人，我没有什么确切的事可以向皇上报告。」"
+      }
+    },
+    {
+      "id": "ACTS_25_P009_F4",
+      "box": [
+        0,
+        0.5175,
+        1,
+        0.4825
+      ],
+      "alt": {
+        "zh-CN": "「我认为，押送囚犯却不说明他犯了什么罪，是不合理的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_25_P009_B030",
+      "panel": "ACTS_25_P009_F1",
+      "order": 30,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.0077,
+        0.26,
+        0.0615
+      ],
+      "tail": [
+        0.38,
+        0.0949
+      ],
+      "text_key": "acts.25.p9.b30"
+    },
+    {
+      "id": "ACTS_25_P009_B031",
+      "panel": "ACTS_25_P009_F2",
+      "order": 31,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.0199,
+        0.2693,
+        0.4577,
+        0.0504
+      ],
+      "tail": [
+        0.2488,
+        0.3449
+      ],
+      "text_key": "acts.25.p9.b31"
+    },
+    {
+      "id": "ACTS_25_P009_B032",
+      "panel": "ACTS_25_P009_F3",
+      "order": 32,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8515,
+        0.2718,
+        0.1336,
+        0.1008
+      ],
+      "tail": [
+        0.9183,
+        0.3978
+      ],
+      "text_key": "acts.25.p9.b32"
+    },
+    {
+      "id": "ACTS_25_P009_B033",
+      "panel": "ACTS_25_P009_F4",
+      "order": 33,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.5368,
+        0.46,
+        0.0868
+      ],
+      "tail": [
+        0,
+        0.6719
+      ],
+      "text_key": "acts.25.p9.b33"
+    }
+  ]
+}

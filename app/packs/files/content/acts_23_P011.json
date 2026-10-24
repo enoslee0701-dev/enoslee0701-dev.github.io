@@ -1,0 +1,73 @@
+{
+  "id": "ACTS_23_P011",
+  "book": "acts",
+  "chapter": 23,
+  "page": 11,
+  "ref": "23:31-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "于是兵士按照命令，连夜把保罗带到安提帕底。"
+      }
+    },
+    {
+      "id": "ACTS_23_P011_F2",
+      "box": [
+        0,
+        0.3236,
+        1,
+        0.6764
+      ],
+      "alt": {
+        "zh-CN": "第二天，他们让骑兵护送保罗，自己回营去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P011_B038",
+      "panel": "ACTS_23_P011_F1",
+      "order": 38,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0128,
+        0.5,
+        0.0639
+      ],
+      "tail": null,
+      "text_key": "acts.23.p11.b38"
+    },
+    {
+      "id": "ACTS_23_P011_B039",
+      "panel": "ACTS_23_P011_F2",
+      "order": 39,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.3439,
+        0.4,
+        0.0946
+      ],
+      "tail": null,
+      "text_key": "acts.23.p11.b39"
+    }
+  ]
+}

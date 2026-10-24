@@ -1,0 +1,139 @@
+{
+  "id": "ACTS_07_P008",
+  "book": "acts",
+  "chapter": 7,
+  "page": 8,
+  "ref": "7:35-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2051
+      ],
+      "alt": {
+        "zh-CN": "这摩西，就是百姓拒绝他、说「谁立你作我们的首领和审判官」的那个人；"
+      }
+    },
+    {
+      "id": "ACTS_07_P008_F2",
+      "box": [
+        0,
+        0.2096,
+        1,
+        0.4316
+      ],
+      "alt": {
+        "zh-CN": "神却借那在荆棘中显现的天使的手，差他去作首领、作拯救的人。"
+      }
+    },
+    {
+      "id": "ACTS_07_P008_F3",
+      "box": [
+        0,
+        0.6458,
+        0.498,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "这人领百姓出来……四十年间行了奇事和神迹。"
+      }
+    },
+    {
+      "id": "ACTS_07_P008_F4",
+      "box": [
+        0.5039,
+        0.6458,
+        0.4961,
+        0.3542
+      ],
+      "alt": {
+        "zh-CN": "……又领受了活的话语，传给我们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P008_B001",
+      "panel": "ACTS_07_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0082,
+        0.55,
+        0.0574
+      ],
+      "tail": [
+        0.305,
+        0.0861
+      ],
+      "text_key": "acts.7.p8.b1"
+    },
+    {
+      "id": "ACTS_07_P008_B002",
+      "panel": "ACTS_07_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.2225,
+        0.6,
+        0.0647
+      ],
+      "tail": [
+        0.5,
+        0.3304
+      ],
+      "text_key": "acts.7.p8.b2"
+    },
+    {
+      "id": "ACTS_07_P008_B003",
+      "panel": "ACTS_07_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6564,
+        0.2739,
+        0.092
+      ],
+      "tail": [
+        0.1569,
+        0.7838
+      ],
+      "text_key": "acts.7.p8.b3"
+    },
+    {
+      "id": "ACTS_07_P008_B004",
+      "panel": "ACTS_07_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8313,
+        0.6564,
+        0.1587,
+        0.0637
+      ],
+      "tail": [
+        0.9107,
+        0.7555
+      ],
+      "text_key": "acts.7.p8.b4"
+    }
+  ]
+}

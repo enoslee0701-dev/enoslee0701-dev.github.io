@@ -1,0 +1,88 @@
+{
+  "id": "ACTS_01_P003",
+  "book": "acts",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "但圣灵降临在你们身上，你们就会得到能力……"
+      }
+    },
+    {
+      "id": "ACTS_01_P003_F2",
+      "box": [
+        0,
+        0.2702,
+        1,
+        0.5085
+      ],
+      "alt": {
+        "zh-CN": "……并要在耶路撒冷、犹太全地和撒马利亚，一直到地极，为我作见证。"
+      }
+    },
+    {
+      "id": "ACTS_01_P003_F3",
+      "box": [
+        0,
+        0.7826,
+        1,
+        0.2174
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_01_P003_B001",
+      "panel": "ACTS_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.008,
+        0.45,
+        0.0532
+      ],
+      "tail": [
+        0.255,
+        0.0878
+      ],
+      "text_key": "acts.1.p3.b1"
+    },
+    {
+      "id": "ACTS_01_P003_B002",
+      "panel": "ACTS_01_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.2855,
+        0.42,
+        0.0711
+      ],
+      "tail": [
+        0.76,
+        0.4075
+      ],
+      "text_key": "acts.1.p3.b2"
+    }
+  ]
+}

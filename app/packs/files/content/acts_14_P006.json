@@ -1,0 +1,136 @@
+{
+  "id": "ACTS_14_P006",
+  "book": "acts",
+  "chapter": 14,
+  "page": 6,
+  "ref": "14:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_14_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_14_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1882
+      ],
+      "alt": {
+        "zh-CN": "他在过去的世代，任凭各国走自己的路；"
+      }
+    },
+    {
+      "id": "ACTS_14_P006_F2",
+      "box": [
+        0,
+        0.1901,
+        0.4814,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "然而他并没有不为自己留下证据，因为他常施恩惠，从天上降雨给你们，"
+      }
+    },
+    {
+      "id": "ACTS_14_P006_F3",
+      "box": [
+        0.4863,
+        0.1901,
+        0.5137,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "赏赐丰收的季节，使你们有食物饱足，满心喜乐。」"
+      }
+    },
+    {
+      "id": "ACTS_14_P006_F4",
+      "box": [
+        0,
+        0.5313,
+        1,
+        0.4687
+      ],
+      "alt": {
+        "zh-CN": "两人说了这些话，才勉强拦住众人，没有向他们献祭。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_14_P006_B019",
+      "panel": "ACTS_14_P006_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0075,
+        0.45,
+        0.0451
+      ],
+      "tail": [
+        0.745,
+        0.0714
+      ],
+      "text_key": "acts.14.p6.b19"
+    },
+    {
+      "id": "ACTS_14_P006_B020",
+      "panel": "ACTS_14_P006_F2",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0193,
+        0.2003,
+        0.4332,
+        0.0677
+      ],
+      "tail": [
+        0.2359,
+        0.3019
+      ],
+      "text_key": "acts.14.p6.b20"
+    },
+    {
+      "id": "ACTS_14_P006_B021",
+      "panel": "ACTS_14_P006_F3",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5068,
+        0.4474,
+        0.4623,
+        0.0677
+      ],
+      "tail": [
+        0.738,
+        0.5286
+      ],
+      "text_key": "acts.14.p6.b21"
+    },
+    {
+      "id": "ACTS_14_P006_B022",
+      "panel": "ACTS_14_P006_F4",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.5454,
+        0.42,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "acts.14.p6.b22"
+    }
+  ]
+}

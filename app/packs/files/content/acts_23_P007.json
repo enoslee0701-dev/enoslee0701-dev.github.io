@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_23_P007",
+  "book": "acts",
+  "chapter": 23,
+  "page": 7,
+  "ref": "23:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1842
+      ]
+    },
+    {
+      "id": "ACTS_23_P007_F2",
+      "box": [
+        0,
+        0.1882,
+        1,
+        0.4212
+      ]
+    },
+    {
+      "id": "ACTS_23_P007_F3",
+      "box": [
+        0,
+        0.6139,
+        0.4902,
+        0.3861
+      ],
+      "alt": {
+        "zh-CN": "「请你带这青年去见千夫长，他有事要向他报告。」"
+      }
+    },
+    {
+      "id": "ACTS_23_P007_F4",
+      "box": [
+        0.4971,
+        0.6139,
+        0.5029,
+        0.3861
+      ],
+      "alt": {
+        "zh-CN": "「囚犯保罗叫我到他那里，求我把这青年带来见你，他有事要告诉你。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P007_B022",
+      "panel": "ACTS_23_P007_F1",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0074,
+        0.36,
+        0.0442
+      ],
+      "tail": null,
+      "text_key": "acts.23.p7.b22"
+    },
+    {
+      "id": "ACTS_23_P007_B023",
+      "panel": "ACTS_23_P007_F2",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2008,
+        0.45,
+        0.0589
+      ],
+      "tail": null,
+      "text_key": "acts.23.p7.b23"
+    },
+    {
+      "id": "ACTS_23_P007_B024",
+      "panel": "ACTS_23_P007_F3",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0196,
+        0.8996,
+        0.4509,
+        0.0849
+      ],
+      "tail": [
+        0.2451,
+        1
+      ],
+      "text_key": "acts.23.p7.b24"
+    },
+    {
+      "id": "ACTS_23_P007_B025",
+      "panel": "ACTS_23_P007_F4",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7737,
+        0.6255,
+        0.2112,
+        0.0849
+      ],
+      "tail": [
+        0.8793,
+        0.749
+      ],
+      "text_key": "acts.23.p7.b25"
+    }
+  ]
+}

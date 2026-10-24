@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_07_P004",
+  "book": "acts",
+  "chapter": 7,
+  "page": 4,
+  "ref": "7:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "第二次约瑟和兄弟们相认，法老也知道了他的家族。"
+      }
+    },
+    {
+      "id": "ACTS_07_P004_F2",
+      "box": [
+        0,
+        0.2448,
+        1,
+        0.388
+      ],
+      "alt": {
+        "zh-CN": "约瑟就派人请父亲雅各和全家七十五个人都来。"
+      }
+    },
+    {
+      "id": "ACTS_07_P004_F3",
+      "box": [
+        0,
+        0.6367,
+        0.6025,
+        0.3633
+      ],
+      "alt": {
+        "zh-CN": "后来他和我们的祖先都死在那里；又被运回示剑，葬在亚伯拉罕……买来的坟墓里。"
+      }
+    },
+    {
+      "id": "ACTS_07_P004_F4",
+      "box": [
+        0.6094,
+        0.6367,
+        0.3906,
+        0.3633
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P004_B001",
+      "panel": "ACTS_07_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0072,
+        0.42,
+        0.0529
+      ],
+      "tail": [
+        0.76,
+        0.0842
+      ],
+      "text_key": "acts.7.p4.b1"
+    },
+    {
+      "id": "ACTS_07_P004_B002",
+      "panel": "ACTS_07_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2564,
+        0.47,
+        0.0698
+      ],
+      "tail": [
+        0.735,
+        0.365
+      ],
+      "text_key": "acts.7.p4.b2"
+    },
+    {
+      "id": "ACTS_07_P004_B003",
+      "panel": "ACTS_07_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0301,
+        0.6476,
+        0.5302,
+        0.0944
+      ],
+      "tail": [
+        0.2952,
+        0.7783
+      ],
+      "text_key": "acts.7.p4.b3"
+    }
+  ]
+}

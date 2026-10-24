@@ -1,0 +1,112 @@
+{
+  "id": "ACTS_20_P003",
+  "book": "acts",
+  "chapter": 20,
+  "page": 3,
+  "ref": "20:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_20_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_20_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "保罗讲了很久，少年睡熟了，就从三层楼上掉了下去；"
+      }
+    },
+    {
+      "id": "ACTS_20_P003_F2",
+      "box": [
+        0,
+        0.2337,
+        0.5859,
+        0.2819
+      ]
+    },
+    {
+      "id": "ACTS_20_P003_F3",
+      "box": [
+        0.5928,
+        0.2337,
+        0.4072,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "人们把他扶起来，他已经死了。"
+      }
+    },
+    {
+      "id": "ACTS_20_P003_F4",
+      "box": [
+        0,
+        0.5195,
+        1,
+        0.4805
+      ],
+      "alt": {
+        "zh-CN": "保罗下去，伏在他身上，抱着他，说：「你们不要慌，他的生命还在他身上。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_20_P003_B008",
+      "panel": "ACTS_20_P003_F1",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0092,
+        0.42,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "acts.20.p3.b8"
+    },
+    {
+      "id": "ACTS_20_P003_B009",
+      "panel": "ACTS_20_P003_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6132,
+        0.4536,
+        0.3664,
+        0.0535
+      ],
+      "tail": null,
+      "text_key": "acts.20.p3.b9"
+    },
+    {
+      "id": "ACTS_20_P003_B010",
+      "panel": "ACTS_20_P003_F4",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.5291,
+        0.34,
+        0.0624
+      ],
+      "tail": [
+        0.39,
+        0.6396
+      ],
+      "text_key": "acts.20.p3.b10"
+    }
+  ]
+}

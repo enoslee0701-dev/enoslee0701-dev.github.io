@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_13_P002",
+  "book": "acts",
+  "chapter": 13,
+  "page": 2,
+  "ref": "13:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_13_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_13_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "他们受圣灵差遣，就下到西流基，从那里坐船往塞浦路斯去。"
+      }
+    },
+    {
+      "id": "ACTS_13_P002_F2",
+      "box": [
+        0,
+        0.3548,
+        0.499,
+        0.3639
+      ]
+    },
+    {
+      "id": "ACTS_13_P002_F3",
+      "box": [
+        0.5049,
+        0.3548,
+        0.4951,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "到了撒拉米，就在犹太人的各会堂里传讲　神的道，"
+      }
+    },
+    {
+      "id": "ACTS_13_P002_F4",
+      "box": [
+        0,
+        0.7214,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "也有约翰作他们的助手。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_13_P002_B005",
+      "panel": "ACTS_13_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.56,
+        0.0141,
+        0.41,
+        0.0563
+      ],
+      "tail": null,
+      "text_key": "acts.13.p2.b5"
+    },
+    {
+      "id": "ACTS_13_P002_B006",
+      "panel": "ACTS_13_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5198,
+        0.3657,
+        0.2277,
+        0.0582
+      ],
+      "tail": null,
+      "text_key": "acts.13.p2.b6"
+    },
+    {
+      "id": "ACTS_13_P002_B007",
+      "panel": "ACTS_13_P002_F4",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.7325,
+        0.47,
+        0.0501
+      ],
+      "tail": null,
+      "text_key": "acts.13.p2.b7"
+    }
+  ]
+}

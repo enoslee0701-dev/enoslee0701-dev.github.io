@@ -1,0 +1,133 @@
+{
+  "id": "ACTS_10_P011",
+  "book": "acts",
+  "chapter": 10,
+  "page": 11,
+  "ref": "10:30-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_10_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_10_P011_F1",
+      "box": [
+        0,
+        0,
+        0.5088,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "哥尼流说：「四天前的这个时候，下午三点，我在家里祷告，忽然有一个穿着发光衣服的人站在我面前，"
+      }
+    },
+    {
+      "id": "ACTS_10_P011_F2",
+      "box": [
+        0.5156,
+        0,
+        0.4844,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "说：『哥尼流，你的祷告已经被垂听，你的周济在　神面前已蒙记念。你要派人到约帕去，请那称为彼得的西门来；他住在海边一个硝皮匠西门的家里。』"
+      }
+    },
+    {
+      "id": "ACTS_10_P011_F3",
+      "box": [
+        0,
+        0.3392,
+        1,
+        0.2161
+      ]
+    },
+    {
+      "id": "ACTS_10_P011_F4",
+      "box": [
+        0,
+        0.5599,
+        1,
+        0.4401
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_10_P011_B001",
+      "panel": "ACTS_10_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0204,
+        0.0101,
+        0.4579,
+        0.0807
+      ],
+      "tail": [
+        0.2494,
+        0.1245
+      ],
+      "text_key": "acts.10.p11.b1"
+    },
+    {
+      "id": "ACTS_10_P011_B002",
+      "panel": "ACTS_10_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.535,
+        0.2491,
+        0.4359,
+        0.074
+      ],
+      "tail": [
+        0.753,
+        0.3366
+      ],
+      "text_key": "acts.10.p11.b2"
+    },
+    {
+      "id": "ACTS_10_P011_B003",
+      "panel": "ACTS_10_P011_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.3478,
+        0.45,
+        0.0648
+      ],
+      "tail": [
+        0.745,
+        0.4342
+      ],
+      "text_key": "acts.10.p11.b3"
+    },
+    {
+      "id": "ACTS_10_P011_B004",
+      "panel": "ACTS_10_P011_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5731,
+        0.5,
+        0.0616
+      ],
+      "tail": [
+        0.28,
+        0.6787
+      ],
+      "text_key": "acts.10.p11.b4"
+    }
+  ]
+}

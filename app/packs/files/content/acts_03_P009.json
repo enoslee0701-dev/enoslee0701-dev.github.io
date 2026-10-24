@@ -1,0 +1,109 @@
+{
+  "id": "ACTS_03_P009",
+  "book": "acts",
+  "chapter": 3,
+  "page": 9,
+  "ref": "3:20-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_03_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_03_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "这样，那安舒的日子就会从主面前来到；主也会差遣为你们预定的基督耶稣降临。"
+      }
+    },
+    {
+      "id": "ACTS_03_P009_F2",
+      "box": [
+        0,
+        0.3073,
+        1,
+        0.4115
+      ],
+      "alt": {
+        "zh-CN": "摩西曾经说：『主　神要从你们弟兄中间为你们兴起一位像我一样的先知，凡他对你们说的，你们都要听从。』"
+      }
+    },
+    {
+      "id": "ACTS_03_P009_F3",
+      "box": [
+        0,
+        0.7227,
+        1,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "凡不听从那先知的，必要从民中完全除灭。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_03_P009_B001",
+      "panel": "ACTS_03_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0091,
+        0.41,
+        0.0667
+      ],
+      "tail": [
+        0.765,
+        0.1061
+      ],
+      "text_key": "acts.3.p9.b1"
+    },
+    {
+      "id": "ACTS_03_P009_B002",
+      "panel": "ACTS_03_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.3238,
+        0.45,
+        0.1234
+      ],
+      "tail": [
+        0.745,
+        0.4884
+      ],
+      "text_key": "acts.3.p9.b2"
+    },
+    {
+      "id": "ACTS_03_P009_B003",
+      "panel": "ACTS_03_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.9057,
+        0.36,
+        0.0831
+      ],
+      "tail": [
+        0.8,
+        1
+      ],
+      "text_key": "acts.3.p9.b3"
+    }
+  ]
+}

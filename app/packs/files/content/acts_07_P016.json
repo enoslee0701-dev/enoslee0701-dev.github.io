@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_07_P016",
+  "book": "acts",
+  "chapter": 7,
+  "page": 16,
+  "ref": "7:59-60",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_07_P016",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_07_P016_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "他们正用石头打他的时候，司提反呼求主说：「主耶稣啊，求你接收我的灵！」"
+      }
+    },
+    {
+      "id": "ACTS_07_P016_F2",
+      "box": [
+        0,
+        0.2578,
+        0.5127,
+        0.3678
+      ],
+      "alt": {
+        "zh-CN": "他又跪下大声喊着说：「主啊，不要把这罪归给他们！」"
+      }
+    },
+    {
+      "id": "ACTS_07_P016_F3",
+      "box": [
+        0.5195,
+        0.2578,
+        0.4805,
+        0.3678
+      ]
+    },
+    {
+      "id": "ACTS_07_P016_F4",
+      "box": [
+        0,
+        0.6289,
+        1,
+        0.3711
+      ],
+      "alt": {
+        "zh-CN": "说完这话，他就睡了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_07_P016_B001",
+      "panel": "ACTS_07_P016_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0076,
+        0.55,
+        0.0509
+      ],
+      "tail": null,
+      "text_key": "acts.7.p16.b1"
+    },
+    {
+      "id": "ACTS_07_P016_B002",
+      "panel": "ACTS_07_P016_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.1782,
+        0.42,
+        0.056
+      ],
+      "tail": [
+        0.76,
+        0.2546
+      ],
+      "text_key": "acts.7.p16.b2"
+    },
+    {
+      "id": "ACTS_07_P016_B003",
+      "panel": "ACTS_07_P016_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3281,
+        0.2688,
+        0.1743,
+        0.0956
+      ],
+      "tail": [
+        0.4153,
+        0.4012
+      ],
+      "text_key": "acts.7.p16.b3"
+    },
+    {
+      "id": "ACTS_07_P016_B004",
+      "panel": "ACTS_07_P016_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6437,
+        0.42,
+        0.0593
+      ],
+      "tail": null,
+      "text_key": "acts.7.p16.b4"
+    }
+  ]
+}

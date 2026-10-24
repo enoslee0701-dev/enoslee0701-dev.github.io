@@ -1,0 +1,130 @@
+{
+  "id": "ACTS_16_P004",
+  "book": "acts",
+  "chapter": 16,
+  "page": 4,
+  "ref": "16:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_16_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_16_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "有一个卖紫色布匹的妇人，名叫吕底亚，是推雅推喇城的人，一向敬拜　神。"
+      }
+    },
+    {
+      "id": "ACTS_16_P004_F2",
+      "box": [
+        0,
+        0.2298,
+        1,
+        0.4271
+      ],
+      "alt": {
+        "zh-CN": "主打开她的心，使她专心听保罗所讲的话。"
+      }
+    },
+    {
+      "id": "ACTS_16_P004_F3",
+      "box": [
+        0,
+        0.6595,
+        0.5049,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "她和她一家受洗以后，就请求我们说："
+      }
+    },
+    {
+      "id": "ACTS_16_P004_F4",
+      "box": [
+        0.5127,
+        0.6595,
+        0.4873,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "「你们如果认为我是真心信主的，就请到我家里来住。」她再三挽留我们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_16_P004_B012",
+      "panel": "ACTS_16_P004_F1",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0091,
+        0.42,
+        0.0499
+      ],
+      "tail": null,
+      "text_key": "acts.16.p4.b12"
+    },
+    {
+      "id": "ACTS_16_P004_B013",
+      "panel": "ACTS_16_P004_F2",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2426,
+        0.4,
+        0.0683
+      ],
+      "tail": null,
+      "text_key": "acts.16.p4.b13"
+    },
+    {
+      "id": "ACTS_16_P004_B014",
+      "panel": "ACTS_16_P004_F3",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2625,
+        0.9319,
+        0.2272,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "acts.16.p4.b14"
+    },
+    {
+      "id": "ACTS_16_P004_B015",
+      "panel": "ACTS_16_P004_F4",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6102,
+        0.6663,
+        0.2533,
+        0.0442
+      ],
+      "tail": [
+        0.7369,
+        0.7446
+      ],
+      "text_key": "acts.16.p4.b15"
+    }
+  ]
+}

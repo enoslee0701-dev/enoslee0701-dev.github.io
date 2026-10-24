@@ -1,0 +1,118 @@
+{
+  "id": "ACTS_17_P008",
+  "book": "acts",
+  "chapter": 17,
+  "page": 8,
+  "ref": "17:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_17_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_17_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2044
+      ],
+      "alt": {
+        "zh-CN": "「那创造世界和其中万物的神，既是天地的主，就不住在人手所建的殿里，」"
+      }
+    },
+    {
+      "id": "ACTS_17_P008_F2",
+      "box": [
+        0,
+        0.2077,
+        1,
+        0.4694
+      ],
+      "alt": {
+        "zh-CN": "「也不需要人手来服事，好像缺少什么似的；」"
+      }
+    },
+    {
+      "id": "ACTS_17_P008_F3",
+      "box": [
+        0,
+        0.681,
+        0.4971,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "「他自己反倒把生命、气息和万物赐给所有的人。」"
+      }
+    },
+    {
+      "id": "ACTS_17_P008_F4",
+      "box": [
+        0.5029,
+        0.681,
+        0.4971,
+        0.319
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_17_P008_B014",
+      "panel": "ACTS_17_P008_F1",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0061,
+        0.92,
+        0.0408
+      ],
+      "tail": [
+        0.5,
+        0.0673
+      ],
+      "text_key": "acts.17.p8.b14"
+    },
+    {
+      "id": "ACTS_17_P008_B015",
+      "panel": "ACTS_17_P008_F2",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5832,
+        0.45,
+        0.0751
+      ],
+      "tail": [
+        0.745,
+        0.6771
+      ],
+      "text_key": "acts.17.p8.b15"
+    },
+    {
+      "id": "ACTS_17_P008_B016",
+      "panel": "ACTS_17_P008_F3",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0249,
+        0.6906,
+        0.4473,
+        0.0829
+      ],
+      "tail": [
+        0.2486,
+        0.8054
+      ],
+      "text_key": "acts.17.p8.b16"
+    }
+  ]
+}

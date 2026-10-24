@@ -1,0 +1,103 @@
+{
+  "id": "ACTS_06_P006",
+  "book": "acts",
+  "chapter": 6,
+  "page": 6,
+  "ref": "6:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_06_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_06_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "我们听过他说，这拿撒勒人耶稣要毁掉这地方，还要改变摩西传给我们的规矩。」"
+      }
+    },
+    {
+      "id": "ACTS_06_P006_F2",
+      "box": [
+        0,
+        0.3268,
+        1,
+        0.1523
+      ],
+      "alt": {
+        "zh-CN": "在公会里坐着的人都定睛看着他，"
+      }
+    },
+    {
+      "id": "ACTS_06_P006_F3",
+      "box": [
+        0,
+        0.4824,
+        1,
+        0.5176
+      ],
+      "alt": {
+        "zh-CN": "看见他的面容好像天使的面容。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_06_P006_B001",
+      "panel": "ACTS_06_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.33,
+        0.0097,
+        0.45,
+        0.0645
+      ],
+      "tail": [
+        0.555,
+        0.1065
+      ],
+      "text_key": "acts.6.p6.b1"
+    },
+    {
+      "id": "ACTS_06_P006_B002",
+      "panel": "ACTS_06_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.4456,
+        0.36,
+        0.0304
+      ],
+      "tail": null,
+      "text_key": "acts.6.p6.b2"
+    },
+    {
+      "id": "ACTS_06_P006_B003",
+      "panel": "ACTS_06_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.4979,
+        0.42,
+        0.0828
+      ],
+      "tail": null,
+      "text_key": "acts.6.p6.b3"
+    }
+  ]
+}

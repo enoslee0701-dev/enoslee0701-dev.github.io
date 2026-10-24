@@ -1,0 +1,127 @@
+{
+  "id": "ACTS_12_P006",
+  "book": "acts",
+  "chapter": 12,
+  "page": 6,
+  "ref": "12:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_12_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_12_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.244
+      ],
+      "alt": {
+        "zh-CN": "彼得敲外门，有一个名叫罗大的使女出来听，"
+      }
+    },
+    {
+      "id": "ACTS_12_P006_F2",
+      "box": [
+        0,
+        0.249,
+        0.506,
+        0.331
+      ]
+    },
+    {
+      "id": "ACTS_12_P006_F3",
+      "box": [
+        0.516,
+        0.249,
+        0.484,
+        0.331
+      ],
+      "alt": {
+        "zh-CN": "她听出是彼得的声音，"
+      }
+    },
+    {
+      "id": "ACTS_12_P006_F4",
+      "box": [
+        0,
+        0.584,
+        1,
+        0.416
+      ],
+      "alt": {
+        "zh-CN": "就欢喜得忘了开门，跑进去告诉大家说：「彼得站在门外！」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_12_P006_B021",
+      "panel": "ACTS_12_P006_F1",
+      "order": 21,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0098,
+        0.34,
+        0.0634
+      ],
+      "tail": null,
+      "text_key": "acts.12.p6.b21"
+    },
+    {
+      "id": "ACTS_12_P006_B022",
+      "panel": "ACTS_12_P006_F3",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7967,
+        0.5006,
+        0.1936,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "acts.12.p6.b22"
+    },
+    {
+      "id": "ACTS_12_P006_B023",
+      "panel": "ACTS_12_P006_F4",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.5923,
+        0.3,
+        0.0416
+      ],
+      "tail": null,
+      "text_key": "acts.12.p6.b23"
+    },
+    {
+      "id": "ACTS_12_P006_B024",
+      "panel": "ACTS_12_P006_F4",
+      "order": 24,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.74,
+        0.5923,
+        0.24,
+        0.0499
+      ],
+      "tail": [
+        0.86,
+        0.6838
+      ],
+      "text_key": "acts.12.p6.b24"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ACTS_23_P005",
+  "book": "acts",
+  "chapter": 23,
+  "page": 5,
+  "ref": "23:11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ACTS_23_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ACTS_23_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2188
+      ],
+      "alt": {
+        "zh-CN": "当天晚上，"
+      }
+    },
+    {
+      "id": "ACTS_23_P005_F2",
+      "box": [
+        0,
+        0.2227,
+        0.332,
+        0.4753
+      ]
+    },
+    {
+      "id": "ACTS_23_P005_F3",
+      "box": [
+        0.3389,
+        0.2227,
+        0.6611,
+        0.4753
+      ],
+      "alt": {
+        "zh-CN": "主站在保罗身旁，说：「要放心！」"
+      }
+    },
+    {
+      "id": "ACTS_23_P005_F4",
+      "box": [
+        0,
+        0.7018,
+        1,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "「你怎样在耶路撒冷为我作见证，也必须照样在罗马为我作见证。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ACTS_23_P005_B014",
+      "panel": "ACTS_23_P005_F1",
+      "order": 14,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0131,
+        0.42,
+        0.0481
+      ],
+      "tail": null,
+      "text_key": "acts.23.p5.b14"
+    },
+    {
+      "id": "ACTS_23_P005_B015",
+      "panel": "ACTS_23_P005_F3",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3587,
+        0.2322,
+        0.3966,
+        0.0237
+      ],
+      "tail": null,
+      "text_key": "acts.23.p5.b15"
+    },
+    {
+      "id": "ACTS_23_P005_B016",
+      "panel": "ACTS_23_P005_F3",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3587,
+        0.2655,
+        0.3966,
+        0.0142
+      ],
+      "tail": null,
+      "text_key": "acts.23.p5.b16"
+    },
+    {
+      "id": "ACTS_23_P005_B017",
+      "panel": "ACTS_23_P005_F4",
+      "order": 17,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.7107,
+        0.52,
+        0.0894
+      ],
+      "tail": null,
+      "text_key": "acts.23.p5.b17"
+    }
+  ]
+}
