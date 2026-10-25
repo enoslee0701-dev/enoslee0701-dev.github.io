@@ -1,0 +1,322 @@
+{
+  "acts.3.p1.b1": {
+    "text": "さて、ペテロとヨハネとが、午後三時の祈のときに宮に上ろうとしていると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p1.b2": {
+    "text": "生れながら足のきかない男が、かかえられてきた。この男は、…毎日、「美しの門」と呼ばれる宮の門のところに、置かれていた者である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p1.b3": {
+    "text": "…宮もうでに来る人々に施しをこうため、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b1": {
+    "text": "彼は、ペテロとヨハネとが、宮にはいって行こうとしているのを見て、施しをこうた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b2": {
+    "text": "ペテロとヨハネとは彼をじっと見て、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b3": {
+    "text": "「わたしたちを見なさい」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b4": {
+    "text": "彼は何かもらえるのだろうと期待して、ふたりに注目していると、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p3.b1": {
+    "text": "「金銀はわたしには無い。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p3.b2": {
+    "text": "しかし、わたしにあるものをあげよう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p3.b3": {
+    "text": "ナザレ人イエス・キリストの名によって歩きなさい」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p4.b1": {
+    "text": "こう言って彼の右手を取って起してやると、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p4.b2": {
+    "text": "…足と、くるぶしとが、立ちどころに強くなって、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p4.b3": {
+    "text": "踊りあがって立ち、歩き出した。そして、歩き回ったり踊ったりして神をさんびしながら、彼らと共に宮にはいって行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b1": {
+    "text": "民衆はみな、彼が歩き回り、また神をさんびしているのを見、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b2": {
+    "text": "これが宮の「美しの門」のそばにすわって、施しをこうていた者であると知り、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b3": {
+    "text": "…彼の身に起ったことについて、驚き怪しんだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b4": {
+    "text": "彼がなおもペテロとヨハネとにつきまとっているとき、人々は皆ひどく驚いて、「ソロモンの廊」と呼ばれる柱廊にいた彼らのところに駆け集まってきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b1": {
+    "text": "「イスラエルの人たちよ、なぜこの事を不思議に思うのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b2": {
+    "text": "また、わたしたちが自分の力や信心で、あの人を歩かせたかのように、なぜわたしたちを見つめているのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b3": {
+    "text": "アブラハム、イサク、ヤコブの神、わたしたちの先祖の神は、その僕イエスに栄光を賜わったのであるが、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b4": {
+    "text": "あなたがたは、この聖なる正しいかたを拒んで、人殺しの男をゆるすように要求し、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p7.b1": {
+    "text": "いのちの君を殺してしまった。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p7.b2": {
+    "text": "…しかし、神はこのイエスを死人の中から、よみがえらせた。わたしたちは、その事の証人である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p7.b3": {
+    "text": "そして、イエスの名が、それを信じる信仰のゆえに、あなたがたのいま見て知っているこの人を、強くしたのであり、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p8.b1": {
+    "text": "さて、兄弟たちよ、あなたがたは知らずにあのような事をしたのであり、あなたがたの指導者たちとても同様であったことは、わたしにわかっている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p8.b2": {
+    "text": "神はあらゆる預言者の口をとおして、キリストの受難を予告しておられたが、それをこのように成就なさったのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p8.b3": {
+    "text": "だから、自分の罪をぬぐい去っていただくために、悔い改めて本心に立ちかえりなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p9.b1": {
+    "text": "それは、主のみ前から慰めの時がきて、あなたがたのためにあらかじめ定めてあったキリストなるイエスを、神がつかわして下さるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p9.b2": {
+    "text": "モーセは言った、『主なる神は、わたしをお立てになったように、あなたがたの兄弟の中から、ひとりの預言者をお立てになるであろう。その預言者があなたがたに語ることには、ことごとく聞きしたがいなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p9.b3": {
+    "text": "彼に聞きしたがわない者は、みな民の中から滅ぼし去られるであろう』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p10.b1": {
+    "text": "あなたがたは預言者の子であり、神があなたがたの先祖たちと結ばれた契約の子である。神はアブラハムに対して、『地上の諸民族は、あなたの子孫によって祝福を受けるであろう』と仰せられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p10.b2": {
+    "text": "神がまずあなたがたのために、その僕を立てて、おつかわしになったのは、あなたがたひとりびとりを、悪から立ちかえらせて、祝福にあずからせるためなのである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 3:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

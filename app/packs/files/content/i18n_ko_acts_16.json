@@ -1,0 +1,472 @@
+{
+  "acts.16.p1.b1": {
+    "text": "바울이 더베와 루스드라에도 이르매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p1.b2": {
+    "text": "거기 디모데라 하는 제자가 있으니 그 모친은 믿는 유대 여자요 부친은 헬라인이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p1.b3": {
+    "text": "디모데는 루스드라와 이고니온에 있는 형제들에게 칭찬 받는 자니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p1.b4": {
+    "text": "이에 여러 교회가 믿음이 더 굳어지고 수가 날마다 더하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p2.b5": {
+    "text": "무시아 앞에 이르러 비두니아로 가고자 애쓰되 예수의 영이 허락지 아니하시는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p2.b6": {
+    "text": "밤에 환상이 바울에게 보이니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p2.b7": {
+    "text": "마게도냐로 건너와서 우리를 도우라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p2.b8": {
+    "text": "바울이 이 환상을 본 후에 우리가 곧 마게도냐로 떠나기를 힘쓰니 이는 하나님이 저 사람들에게 복음을 전하라고 우리를 부르신 줄로 인정함이러라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p3.b9": {
+    "text": "드로아에서 배로 떠나 사모드라게로 직행하여 이튿날 네압볼리로 가고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p3.b10": {
+    "text": "거기서 빌립보에 이르니 이는 마게도냐 지경 첫째가는 성이요 또 로마의 식민지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p3.b11": {
+    "text": "안식일에 우리가 기도처가 있는가 하여 문밖 강 가에 나가 거기 앉아서 모인 여자들에게 말하더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p4.b12": {
+    "text": "두아디라성의 자주 장사로서 하나님을 공경하는 루디아라 하는 한 여자가 들었는데",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p4.b13": {
+    "text": "주께서 그 마음을 열어 바울의 말을 청종하게 하신지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p4.b14": {
+    "text": "저와 그 집이 다 세례를 받고 우리에게 청하여 가로되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p4.b15": {
+    "text": "만일 나를 주 믿는 자로 알거든 내 집에 들어와 유하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p5.b16": {
+    "text": "… 점하는 귀신 들린 여종 하나를 만나니 점으로 그 주인들을 크게 이하게 하는 자라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p5.b17": {
+    "text": "이 사람들은 지극히 높은 하나님의 종으로 구원의 길을 너희에게 전하는 자라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p5.b18": {
+    "text": "예수 그리스도의 이름으로 내가 네게 명하노니 그에게서 나오라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p5.b19": {
+    "text": "귀신이 즉시 나오니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p6.b20": {
+    "text": "종의 주인들은 자기 이익의 소망이 끊어진 것을 보고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p6.b21": {
+    "text": "바울과 실라를 잡아 가지고 저자로 관원들에게 끌어 갔다가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p6.b22": {
+    "text": "이 사람들이 유대인인데 우리 성을 심히 요란케 하여 로마 사람인 우리가 받지도 못하고 행치도 못할 풍속을 전한다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:20-21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p7.b23": {
+    "text": "무리가 일제히 일어나 송사하니 상관들이 옷을 찢어 벗기고 매로 치라 하여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p7.b24": {
+    "text": "많이 친 후에",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p7.b25": {
+    "text": "옥에 가두고 간수에게 분부하여 든든히 지키라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p7.b26": {
+    "text": "그가 이러한 영을 받아 저희를 깊은 옥에 가두고 그 발을 착고에 든든히 채웠더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p8.b27": {
+    "text": "밤중쯤 되어 바울과 실라가 기도하고 하나님을 찬미하매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p8.b28": {
+    "text": "죄수들이 듣더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p9.b29": {
+    "text": "이에 홀연히 큰 지진이 나서 옥터가 움직이고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p9.b30": {
+    "text": "문이 곧 다 열리며 모든 사람의 매인 것이 다 벗어진지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p10.b31": {
+    "text": "간수가 자다가 깨어 옥문들이 열린 것을 보고 죄수들이 도망한줄 생각하고 검을 빼어 자결하려 하거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p10.b32": {
+    "text": "네 몸을 상하지 말라 우리가 다 여기 있노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p11.b33": {
+    "text": "간수가 등불을 달라고 하며 뛰어 들어가 무서워 떨며 바울과 실라 앞에 부복하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p11.b34": {
+    "text": "선생들아 내가 어떻게 하여야 구원을 얻으리이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p11.b35": {
+    "text": "주 예수를 믿으라 그리하면 너와 네 집이 구원을 얻으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p12.b36": {
+    "text": "주의 말씀을 그 사람과 그 집에 있는 모든 사람에게 전하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p12.b37": {
+    "text": "밤 그 시에 간수가 저희를 데려다가 그 맞은 자리를 씻기고 자기와 그 권속이 다 세례를 받은 후",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p12.b38": {
+    "text": "저와 온 집이 하나님을 믿었으므로 크게 기뻐하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p13.b39": {
+    "text": "날이 새매 상관들이 아전을 보내어",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p13.b40": {
+    "text": "이 사람들을 놓으라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p13.b41": {
+    "text": "상관들이 사람을 보내어 너희를 놓으라 하였으니 이제는 나가서 평안히 가라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p14.b42": {
+    "text": "로마 사람인 우리를 죄도 정치 아니하고 공중 앞에서 때리고 옥에 가두었다가 이제는 가만히 우리를 내어 보내고자 하느냐 아니라 저희가 친히 와서 우리를 데리고 나가야하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p14.b43": {
+    "text": "… 저희가 로마 사람이라 하는 말을 듣고 두려워하여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p14.b44": {
+    "text": "와서 권하여 데리고 나가 성에서 떠나기를 청하니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p15.b45": {
+    "text": "두 사람이 옥에서 나가 루디아의 집에 들어가서 형제들을 만나보고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p15.b46": {
+    "text": "위로하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.16.p15.b47": {
+    "text": "가니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Acts 16:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

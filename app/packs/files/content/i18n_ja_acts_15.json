@@ -1,0 +1,432 @@
+{
+  "acts.15.p1.b1": {
+    "text": "さて、ある人たちがユダヤから下ってきて、兄弟たちに",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p1.b2": {
+    "text": "「あなたがたも、モーセの慣例にしたがって割礼を受けなければ、救われない」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p1.b3": {
+    "text": "そこで、パウロやバルナバと彼らとの間に、少なからぬ紛糾と争論とが生じたので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p1.b4": {
+    "text": "パウロ、バルナバそのほか数人の者がエルサレムに上り、使徒たちや長老たちと、この問題について協議することになった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b5": {
+    "text": "彼らは教会の人々に見送られ、ピニケ、サマリヤをとおって、道すがら、異邦人たちの改宗の模様をくわしく説明し、すべての兄弟たちを大いに喜ばせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b6": {
+    "text": "エルサレムに着くと、彼らは教会と使徒たち、長老たちに迎えられて、神が彼らと共にいてなされたことを、ことごとく報告した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b7": {
+    "text": "ところが、パリサイ派から信仰にはいってきた人たちが立って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b8": {
+    "text": "「異邦人にも割礼を施し、またモーセの律法を守らせるべきである」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b9": {
+    "text": "そこで、使徒たちや長老たちが、この問題について審議するために集まった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b10": {
+    "text": "激しい争論があった後、ペテロが立って言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b11": {
+    "text": "「兄弟たちよ、ご承知のとおり、異邦人がわたしの口から福音の言葉を聞いて信じるようにと、神は初めのころに、諸君の中からわたしをお選びになったのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b12": {
+    "text": "そして、人の心をご存じである神は、聖霊をわれわれに賜わったと同様に彼らにも賜わって、彼らに対してあかしをなし、 また、その信仰によって彼らの心をきよめ、われわれと彼らとの間に、なんの分けへだてもなさらなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:8-9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p4.b13": {
+    "text": "しかるに、諸君はなぜ、今われわれの先祖もわれわれ自身も、負いきれなかったくびきをあの弟子たちの首にかけて、神を試みるのか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p4.b14": {
+    "text": "確かに、主イエスのめぐみによって、われわれは救われるのだと信じるが、彼らとても同様である」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p5.b15": {
+    "text": "すると、全会衆は黙ってしまった。それから、バルナバとパウロとが、彼らをとおして異邦人の間に神が行われた数々のしるしと奇跡のことを、説明するのを聞いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p5.b16": {
+    "text": "ふたりが語り終えた後、ヤコブはそれに応じて述べた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p5.b17": {
+    "text": "「兄弟たちよ、わたしの意見を聞いていただきたい。 神が初めに異邦人たちを顧みて、その中から御名を負う民を選び出された次第は、シメオンがすでに説明した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b18": {
+    "text": "預言者たちの言葉も、それと一致している。すなわち、こう書いてある、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:15-16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b19": {
+    "text": "『その後、わたしは帰ってきて、倒れたダビデの幕屋を建てかえ、くずれた箇所を修理し、それを立て直そう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b20": {
+    "text": "残っている人々も、わたしの名を唱えているすべての異邦人も、主を尋ね求めるようになるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b21": {
+    "text": "世の初めからこれらの事を知らせておられる主が、こう仰せになった』。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p7.b22": {
+    "text": "そこで、わたしの意見では、異邦人の中から神に帰依している人たちに、わずらいをかけてはいけない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p7.b23": {
+    "text": "ただ、偶像に供えて汚れた物と、不品行と、絞め殺したものと、血とを、避けるようにと、彼らに書き送ることにしたい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p7.b24": {
+    "text": "古い時代から、どの町にもモーセの律法を宣べ伝える者がいて、安息日ごとにそれを諸会堂で朗読するならわしであるから」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b25": {
+    "text": "そこで、使徒たちや長老たちは、全教会と協議した末、お互の中から人々を選んで、 … 選ばれたのは、バルサバというユダとシラスとであったが、いずれも兄弟たちの間で重んじられていた人たちであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b26": {
+    "text": "この人たちに託された書面はこうである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b27": {
+    "text": "こちらから行ったある者たちが、わたしたちからの指示もないのに、いろいろなことを言って、あなたがたを騒がせ、あなたがたの心を乱したと伝え聞いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b28": {
+    "text": "そこで、わたしたちは人々を選んで、愛するバルナバおよびパウロと共に、あなたがたのもとに派遣することに、衆議一決した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p9.b29": {
+    "text": "すなわち、聖霊とわたしたちとは、次の必要事項のほかは、どんな負担をも、あなたがたに負わせないことに決めた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p9.b30": {
+    "text": "… これらのものから遠ざかっておれば、それでよろしい。以上」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b31": {
+    "text": "さて、一行は人々に見送られて、アンテオケに下って行き、会衆を集めて、その書面を手渡した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b32": {
+    "text": "人々はそれを読んで、その勧めの言葉をよろこんだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b33": {
+    "text": "ユダとシラスとは共に預言者であったので、多くの言葉をもって兄弟たちを励まし、また力づけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b34": {
+    "text": "ふたりは、しばらくの時を、そこで過ごした後、兄弟たちから、旅の平安を祈られて、見送りを受け、自分らを派遣した人々のところに帰って行った。〔",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p11.b35": {
+    "text": "パウロとバルナバとはアンテオケに滞在をつづけて、ほかの多くの人たちと共に、主の言葉を教えかつ宣べ伝えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p11.b36": {
+    "text": "幾日かの後、パウロはバルナバに言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p11.b37": {
+    "text": "「さあ、前に主の言葉を伝えたすべての町々にいる兄弟たちを、また訪問して、みんながどうしているかを見てこようではないか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b38": {
+    "text": "そこで、バルナバはマルコというヨハネも一緒に連れて行くつもりでいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b39": {
+    "text": "しかし、パウロは、前にパンフリヤで一行から離れて、働きを共にしなかったような者は、連れて行かないがよいと考えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b40": {
+    "text": "こうして激論が起り、その結果ふたりは互に別れ別れになり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b41": {
+    "text": "バルナバはマルコを連れてクプロに渡って行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p13.b42": {
+    "text": "パウロはシラスを選び、兄弟たちから主の恵みにゆだねられて、出発した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p13.b43": {
+    "text": "そしてパウロは、シリヤ、キリキヤの地方をとおって、諸教会を力づけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 15:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

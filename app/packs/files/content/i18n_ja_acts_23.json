@@ -1,0 +1,432 @@
+{
+  "acts.23.p1.b1": {
+    "text": "パウロは議会を見つめて言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p1.b2": {
+    "text": "「兄弟たちよ、わたしは今日まで、神の前に、ひたすら明らかな良心にしたがって行動してきた」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p1.b3": {
+    "text": "すると、大祭司アナニヤが、パウロのそばに立っている者たちに、彼の口を打てと命じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p2.b4": {
+    "text": "「白く塗られた壁よ、神があなたを打つであろう。あなたは、律法にしたがって、わたしをさばくために座についているのに、律法にそむいて、わたしを打つことを命じるのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p2.b5": {
+    "text": "「神の大祭司に対して無礼なことを言うのか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p2.b6": {
+    "text": "「兄弟たちよ、彼が大祭司だとは知らなかった。聖書に『民のかしらを悪く言ってはいけない』と、書いてあるのだった」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p3.b7": {
+    "text": "パウロは、議員の一部がサドカイ人であり、一部はパリサイ人であるのを見て、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p3.b8": {
+    "text": "「兄弟たちよ、わたしはパリサイ人であり、パリサイ人の子である。わたしは、死人の復活の望みをいだいていることで、裁判を受けているのである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p3.b9": {
+    "text": "彼がこう言ったところ、パリサイ人とサドカイ人との間に争論が生じ、会衆が相分れた。 元来、サドカイ人は、復活とか天使とか霊とかは、いっさい存在しないと言い、パリサイ人は、それらは、みな存在すると主張している。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:7-8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p4.b10": {
+    "text": "そこで、大騒ぎとなった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p4.b11": {
+    "text": "「われわれは、この人には何も悪いことがないと思う。あるいは、霊か天使かが、彼に告げたのかも知れない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p4.b12": {
+    "text": "こうして、争論が激しくなったので、千卒長は、パウロが彼らに引き裂かれるのを気づかって、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p4.b13": {
+    "text": "兵卒どもに、降りて行ってパウロを彼らの中から力づくで引き出し、兵営に連れて来るように、命じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p5.b14": {
+    "text": "その夜、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p5.b15": {
+    "text": "主がパウロに臨んで言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p5.b16": {
+    "text": "「しっかりせよ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p5.b17": {
+    "text": "あなたは、エルサレムでわたしのことをあかししたように、ローマでもあかしをしなくてはならない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p6.b18": {
+    "text": "夜が明けると、ユダヤ人らは申し合わせをして、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p6.b19": {
+    "text": "パウロを殺すまでは飲食をいっさい断つと、誓い合った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p6.b20": {
+    "text": "この陰謀に加わった者は、四十人あまりであった。 彼らは、祭司長たちや長老たちのところに行って、こう言った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p6.b21": {
+    "text": "「われわれは、パウロを殺すまでは何も食べないと、堅く誓い合いました。 ついては、あなたがたは議会と組んで、… パウロをあなたがたのところに連れ出すように、千卒長に頼んで下さい。われわれとしては、パウロがそこにこないうちに殺してしまう手はずをしています」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:14-15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p7.b22": {
+    "text": "ところが、パウロの姉妹の子が、この待伏せのことを耳にし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p7.b23": {
+    "text": "兵営にはいって行って、パウロにそれを知らせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p7.b24": {
+    "text": "「この若者を千卒長のところに連れて行ってください。何か報告することがあるようですから」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p7.b25": {
+    "text": "「囚人のパウロが、この若者があなたに話したいことがあるので、あなたのところに連れて行ってくれるようにと、わたしを呼んで頼みました」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p8.b26": {
+    "text": "そこで千卒長は、若者の手を取り、人のいないところへ連れて行って尋ねた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p8.b27": {
+    "text": "「わたしに話したいことというのは、何か」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p8.b28": {
+    "text": "「ユダヤ人たちが、… あす議会に彼を連れ出すように、あなたに頼むことに決めています。 どうぞ、彼らの頼みを取り上げないで下さい。四十人あまりの者が、パウロを待伏せしているのです。… そして、いま手はずをととのえて、あなたの許可を待っているところなのです」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:20-21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p8.b29": {
+    "text": "「このことをわたしに知らせたことは、だれにも口外するな」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p9.b30": {
+    "text": "それから彼は、百卒長ふたりを呼んで言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p9.b31": {
+    "text": "「歩兵二百名、騎兵七十名、槍兵二百名を、カイザリヤに向け出発できるように、今夜九時までに用意せよ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p9.b32": {
+    "text": "また、パウロを乗せるために馬を用意して、彼を総督ペリクスのもとへ無事に連れて行け」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p10.b33": {
+    "text": "さらに彼は、次のような文面の手紙を書いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p10.b34": {
+    "text": "「クラウデオ・ルシヤ、つつしんで総督ペリクス閣下の平安を祈ります。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p10.b35": {
+    "text": "本人のパウロが、ユダヤ人らに捕えられ、まさに殺されようとしていたのを、彼のローマ市民であることを知ったので、わたしは兵卒たちを率いて行って、彼を救い出しました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p10.b36": {
+    "text": "ところが、彼はユダヤ人の律法の問題で訴えられたものであり、なんら死刑または投獄に当る罪のないことがわかりました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p10.b37": {
+    "text": "しかし、この人に対して陰謀がめぐらされているとの報告がありましたので、わたしは取りあえず、彼を閣下のもとにお送りすることにし、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p11.b38": {
+    "text": "そこで歩兵たちは、命じられたとおりパウロを引き取って、夜の間にアンテパトリスまで連れて行き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p11.b39": {
+    "text": "翌日は、騎兵たちにパウロを護送させることにして、兵営に帰って行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p12.b40": {
+    "text": "騎兵たちは、カイザリヤに着くと、手紙を総督に手渡し、さらにパウロを彼に引きあわせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p12.b41": {
+    "text": "総督は手紙を読んでから、パウロに、どの州の者かと尋ね、キリキヤの出だと知って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p12.b42": {
+    "text": "「訴え人たちがきた時に、おまえを調べることにする」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.23.p12.b43": {
+    "text": "そして、ヘロデの官邸に彼を守っておくように命じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 23:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

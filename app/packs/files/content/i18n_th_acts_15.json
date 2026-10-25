@@ -1,0 +1,432 @@
+{
+  "acts.15.p1.b1": {
+    "text": "มี​บาง​คน​จาก​ยูเดีย​มา​ที่​อันทิโอก และ​สอน​พี่​น้อง​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p1.b2": {
+    "text": "“ถ้า​ไม่​เข้า​สุหนัต​ตาม​ธรรมเนียม​ที่​โมเสส​สอน​ไว้ ท่าน​ก็​จะ​ไม่​ได้​รับ​ความ​รอด”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p1.b3": {
+    "text": "เรื่อง​นี้​ทำ​ให้​เปาโล​กับ​บารนาบัส​โต้เถียง​กับ​พวก​เขา​อย่าง​รุนแรง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p1.b4": {
+    "text": "ดังนั้น​เปาโล​และ​บารนาบัส​จึง​ได้​รับ​การ​แต่งตั้ง​พร้อม​กับ​ผู้​เชื่อ​คน​อื่น​ๆ ให้​ขึ้น​ไป​พบ​อัครทูต​และ​ผู้​ปกครอง​ที่​เยรูซาเล็ม​ใน​เรื่อง​นี้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b5": {
+    "text": "คริสตจักร​ส่ง​พวก​เขา​ออก​เดิน​ทาง และ​เมื่อ​ผ่าน​แคว้น​ฟีนิเซีย​กับ​สะมาเรีย พวก​เขา​ก็​เล่า​เรื่อง​คน​ที่​ไม่​ใช่​ยิว​กลับ​ใจ​ใหม่ ทำ​ให้​พี่​น้อง​ทุก​คน​ดีใจ​มาก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b6": {
+    "text": "เมื่อ​มา​ถึง​เยรูซาเล็ม พวก​เขา​ได้​รับ​การ​ต้อนรับ​จาก​คริสตจักร เหล่า​อัครทูต​และ​ผู้​ปกครอง จึง​รายงาน​ทุก​สิ่ง​ที่​พระเจ้า​ได้​ทำ​ผ่าน​พวก​เขา​ให้​ฟัง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b7": {
+    "text": "ผู้​เชื่อ​บาง​คน​ใน​กลุ่ม​ฟาริสี​ยืน​ขึ้น​กล่าว​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p2.b8": {
+    "text": "“คน​ที่​ไม่​ใช่​ยิว​ต้อง​เข้า​สุหนัต​และ​ปฏิบัติ​ตาม​กฎ​ของ​โมเสส”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b9": {
+    "text": "อัครทูต​และ​ผู้​ปกครอง​ประชุม​กัน​เรื่อง​นี้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b10": {
+    "text": "หลัง​จาก​ถก​เถียง​กัน​มาก​แล้ว เปโตร​ก็​ลุก​ขึ้น​กล่าว​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b11": {
+    "text": "“พี่​น้อง​ทั้ง​หลาย ท่าน​รู้​อยู่​ว่า ก่อน​หน้า​นี้​พระเจ้า​ได้​เลือก​ข้าพเจ้า​ใน​หมู่​พวก​ท่าน เพื่อ​คน​ที่​ไม่​ใช่​ยิว​จะ​ได้ยิน​ข่าว​ประเสริฐ​จาก​ริม​ฝี​ปาก​ของ​ข้าพเจ้า​และ​มา​เชื่อ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p3.b12": {
+    "text": "พระเจ้า​ผู้​รู้​จิต​ใจ​มนุษย์​ได้​แสดง​ว่า พระองค์​ยอม​รับ​พวก​เขา โดย​ให้​พระวิญญาณ​บริสุทธิ์​กับ​เขา​เหมือน​ที่​ให้​กับ​เรา พระองค์​ไม่​แบ่ง​แยก​พวก​เรา​พวก​เขา​ว่า​แตก​ต่าง​กัน เพราะ​พระองค์​ชำระ​จิตใจ​พวก​เขา​ให้​บริสุทธิ์​ด้วย​ความ​เชื่อ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:8-9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p4.b13": {
+    "text": "แล้ว​ตอน​นี้​ทำไม​ท่าน​จึง​ลอง​ดี​กับ​พระเจ้า โดย​วาง​แอก​บน​คอ​ของ​สาวก​ที่​ไม่​ใช่​ยิว ซึ่ง​เรา​หรือ​บรรพบุรุษ​ของ​เรา​แบก​ไม่​ไหว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p4.b14": {
+    "text": "อย่า​เลย! เรา​เชื่อ​ว่า​ที่​เรา​รอด​ก็​โดย​พระคุณ​ของ​พระเยซู​องค์​พระผู้เป็นเจ้า​เช่น​เดียว​กับ​พวก​เขา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p5.b15": {
+    "text": "ทุก​คน​ใน​ที่​ประชุม​นิ่ง​ฟัง​บารนาบัส​กับ​เปาโล​เล่า​เรื่อง​หมาย​สำคัญ​และ​ปาฏิหาริย์​ต่าง​ๆ ที่​พระเจ้า​ได้​ทำ​ผ่าน​เขา​สอง​คน​ท่ามกลาง​คน​ที่​ไม่​ใช่​ยิว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p5.b16": {
+    "text": "เมื่อ​พวก​เขา​พูด​จบ ยากอบ​ก็​พูด​ขึ้น​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p5.b17": {
+    "text": "“พี่​น้อง​ทั้ง​หลาย โปรด​ฟัง​ข้าพเจ้า ซีโมน ได้​อธิบาย​ให้​ฟัง​แล้ว​ว่า ตั้งแต่​แรก​พระเจ้า​ได้​เข้า​มา​เพื่อ​เลือก​คน​ที่​ไม่​ใช่​ยิว ให้​มา​เป็น​ชน​ชาติ​หนึ่ง​เพื่อ​นาม​ของ​พระองค์​อย่างไร",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b18": {
+    "text": "ซึ่ง​สอดคล้อง​กับ​คำ​ของ​ผู้​เผย​พระวจนะ ที่​เขียน​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:15-16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b19": {
+    "text": "‘หลัง​จาก​นี้​เรา​จะ​กลับ​มา และ​สร้าง​เต็นท์​ของ​ดาวิด​ที่​ล้ม​ลง​ขึ้น​ใหม่ เรา​จะ​สร้าง​สิ่ง​ปรัก​หัก​พัง​ขึ้น​มา​ใหม่ และ​ทำ​ให้​สิ่ง​เหล่า​นั้น​คืน​สู่​สภาพ​ดี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b20": {
+    "text": "เพื่อ​บรรดา​คน​ที่​เหลือ​อยู่​จะ​แสวง​หา​องค์​พระผู้เป็นเจ้า คือ​คน​ที่​ไม่​ใช่​ยิว​ทั้งหมด​ที่​เรา​เรียก​มา​เป็น​ของ​เรา กล่าว​ไว้​โดย​องค์​พระผู้เป็นเจ้า ผู้​กระทำ​สิ่ง​เหล่า​นี้’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p6.b21": {
+    "text": "ซึ่ง​เป็น​ที่​ทราบ​กัน​มา​นาน​แล้ว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p7.b22": {
+    "text": "ข้าพเจ้า​จึง​เห็น​ว่า เรา​ไม่​ควร​สร้าง​ปัญหา​ให้​คน​ที่​ไม่​ใช่​ยิว​ซึ่ง​กำลัง​หัน​มา​หา​พระเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p7.b23": {
+    "text": "แต่​ควร​เขียน​จดหมาย​ไป​บอก​เขา​ว่า ให้​ละเว้น​จาก​อาหาร​ที่​มี​มลทิน​เพราะ​รูป​เคารพ จาก​ความ​ผิด​บาป​ทาง​เพศ จาก​การ​กิน​เนื้อ​สัตว์​ที่​ถูก​รัด​คอ​ตาย​และ​เลือด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p7.b24": {
+    "text": "เพราะ​กฎ​บัญญัติ​ของ​โมเสส ก็​สอน​กัน​ใน​ทุก​เมือง​ตั้ง​แต่​โบราณ และ​ยัง​คง​อ่าน​กัน​ใน​ธรรม​ศาลา​ทุก​วัน​สะบาโต”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b25": {
+    "text": "จาก​นั้น อัครทูต ผู้​ปกครอง​และ​ทุก​คน​ใน​คริสตจักร​ตัดสิน​ใจ​เลือก​คน … ที่​ประชุม​เลือก​ยูดาส (หรือ​ที่​เรียก​กัน​ว่า บารซับบาส) กับ​สิลาส ชาย​สอง​คน​นี้​เป็น​ผู้​นำ​ใน​กลุ่ม​พี่​น้อง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b26": {
+    "text": "และ​ฝาก​จดหมาย​นี้​ไป​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b27": {
+    "text": "เรา​ได้ยิน​มา​ว่า มี​พวก​เรา​บาง​คน​ไป​หา​ท่าน​โดย​พลการ และ​พูด​สิ่ง​ที่​ทำ​ให้​ท่าน​ไม่​สบาย​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p8.b28": {
+    "text": "เรา​ทุก​คน​จึง​ตกลง​ใจ​เลือก​บาง​คน ให้​ไป​หา​ท่าน​พร้อม​เพื่อน​รัก​ของ​เรา คือ บารนาบัส​และ​เปาโล",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p9.b29": {
+    "text": "พระวิญญาณ​บริสุทธิ์​และ​พวก​เรา​เห็น​ร่วม​กัน​ว่า​จะ​ไม่​สร้าง​ภาระ​ใด​ๆ ให้​ท่าน ยกเว้น​ข้อ​กำหนด​ต่อไป​นี้ คือ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p9.b30": {
+    "text": "… หาก​ละเว้น​จาก​สิ่ง​เหล่า​นี้ ท่าน​ก็​ทำ​ใน​สิ่ง​ที่​ถูกต้อง ขอ​อำลา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b31": {
+    "text": "แล้ว​เขา​เหล่า​นั้น​ออก​เดินทาง​ไป​อันทิโอก เรียก​ประชุม​คริสตจักร​และ​มอบ​จดหมาย​ให้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b32": {
+    "text": "พวก​เขา​ได้​อ่าน​จดหมาย​ก็​ดีใจ​ที่​ได้​รับ​กำลัง​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b33": {
+    "text": "ยูดาส​กับ​สิลาส​เอง​ที่​เป็น​ผู้​เผย​พระวจนะ ก็​พูด​ให้​กำลัง​ใจ​และ​ทำ​ให้​พี่​น้อง​เข้มแข็ง​ขึ้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p10.b34": {
+    "text": "หลัง​จาก​อยู่​ที่​นั่น​สัก​พัก พี่​น้อง​ก็​ส่ง​เขา​ทั้ง​สอง​กลับ​ไป​หา​พี่​น้อง​ที่​ส่ง​พวก​เขา​มา และ​อวยพร​ให้​มี​สันติสุข",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p11.b35": {
+    "text": "ส่วน​เปาโล​กับ​บารนาบัส​อยู่​ที่​อันทิโอก​ต่อ ได้​สอน​และ​ประกาศ​พระวจนะ​ของ​องค์​พระผู้เป็นเจ้า​ร่วม​กับ​อีก​หลาย​คน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p11.b36": {
+    "text": "ต่อมา​เปาโล​พูด​กับ​บารนาบัส​ว่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p11.b37": {
+    "text": "“ให้​เรา​กลับ​ไป​เยี่ยม​พี่​น้อง​ใน​เมือง​ต่าง​ๆ ที่​เรา​เคย​ประกาศ​พระวจนะ​ของ​องค์​พระผู้เป็นเจ้า​กัน​เถอะ ไป​ดู​ว่า​เขา​เป็น​อย่างไร​บ้าง”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b38": {
+    "text": "บารนาบัส​อยาก​พา​ยอห์น​หรือ​อีก​ชื่อ​ว่า​มาระโก​ไป​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b39": {
+    "text": "แต่​เปาโล​เห็น​ว่า​ไม่​ควร​พา​ไป เพราะ​ยอห์น​เคย​ทิ้ง​พวก​เขา​ที่​ปัมฟีเลีย​และ​ก็​ไม่​ได้​ร่วม​งาน​กัน​อีก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b40": {
+    "text": "เขา​ทั้ง​สอง​ขัด​แย้ง​กัน​อย่าง​รุนแรง​จน​ต้อง​แยก​กัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p12.b41": {
+    "text": "บารนาบัส​พา​มาระโก​ลง​เรือ​ไป​ยัง​เกาะ​ไซปรัส",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p13.b42": {
+    "text": "แต่​เปาโล​เลือก​สิลาส​และ​จาก​ไป โดย​พวก​พี่​น้อง​มอบ​เขา​ไว้​ใน​พระคุณ​ของ​องค์​พระผู้เป็นเจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.15.p13.b43": {
+    "text": "เปาโล​เดินทาง​ไป​ทั่ว​ซีเรีย​และ​ซิลีเซีย​เพื่อ​เสริม​สร้าง​คริสตจักร​ต่าง​ๆ ให้​เข้มแข็ง​ขึ้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Acts 15:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

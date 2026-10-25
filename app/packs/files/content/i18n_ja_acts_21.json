@@ -1,0 +1,422 @@
+{
+  "acts.21.p1.b1": {
+    "text": "さて、わたしたちは人々と別れて船出してから、コスに直航し、次の日はロドスに、そこからパタラに着いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p1.b2": {
+    "text": "… シリヤへ航行をつづけ、ツロに入港した。ここで積荷が陸上げされることになっていたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p1.b3": {
+    "text": "わたしたちは、弟子たちを捜し出して、そこに七日間泊まった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p1.b4": {
+    "text": "… エルサレムには上って行かないようにと、しきりにパウロに注意した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p2.b5": {
+    "text": "みんなの者は、妻や子供を引き連れて、町はずれまで、わたしたちを見送りにきてくれた。そこで、共に海岸にひざまずいて祈り、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p2.b6": {
+    "text": "互に別れを告げた。それから、わたしたちは舟に乗り込み、彼らはそれぞれ自分の家に帰った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p2.b7": {
+    "text": "わたしたちは、ツロからの航行を終ってトレマイに着き、そこの兄弟たちにあいさつをし、彼らのところに一日滞在した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p3.b8": {
+    "text": "翌日そこをたって、カイザリヤに着き、… 伝道者ピリポの家に行き、そこに泊まった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p3.b9": {
+    "text": "この人に四人の娘があったが、いずれも処女であって、預言をしていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p3.b10": {
+    "text": "… アガボという預言者がユダヤから下ってきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p4.b11": {
+    "text": "そして、わたしたちのところにきて、パウロの帯を取り、それで自分の手足を縛って言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p4.b12": {
+    "text": "「聖霊がこうお告げになっている、『この帯の持ち主を、ユダヤ人たちがエルサレムでこのように縛って、…』」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p4.b13": {
+    "text": "「…異邦人の手に渡すであろう』」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p5.b14": {
+    "text": "わたしたちはこれを聞いて、土地の人たちと一緒になって、エルサレムには上って行かないようにと、パウロに願い続けた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p5.b15": {
+    "text": "「あなたがたは、泣いたり、わたしの心をくじいたりして、いったい、どうしようとするのか。」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p5.b16": {
+    "text": "「わたしは、主イエスの名のためなら、エルサレムで縛られるだけでなく、死ぬことをも覚悟しているのだ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p5.b17": {
+    "text": "こうして、パウロが勧告を聞きいれてくれないので、わたしたちは「主のみこころが行われますように」と言っただけで、それ以上、何も言わなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p6.b18": {
+    "text": "数日後、わたしたちは旅装を整えてエルサレムへ上って行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p6.b19": {
+    "text": "カイザリヤの弟子たちも数人、わたしたちと同行して、古くからの弟子であるクプロ人マナソンの家に案内してくれた。わたしたちはその家に泊まることになっていたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p6.b20": {
+    "text": "わたしたちがエルサレムに到着すると、兄弟たちは喜んで迎えてくれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p7.b21": {
+    "text": "翌日パウロはわたしたちを連れて、ヤコブを訪問しに行った。そこに長老たちがみな集まっていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p7.b22": {
+    "text": "パウロは彼らにあいさつをした後、神が自分の働きをとおして、異邦人の間になさった事どもを一々説明した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p7.b23": {
+    "text": "「兄弟よ、ご承知のように、ユダヤ人の中で信者になった者が、数万にものぼっているが、みんな律法に熱心な人たちである。」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p7.b24": {
+    "text": "どうしたらよいか。あなたがここにきていることは、彼らもきっと聞き込むに違いない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p8.b25": {
+    "text": "ついては、今わたしたちが言うとおりのことをしなさい。わたしたちの中に、誓願を立てている者が四人いる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p8.b26": {
+    "text": "そこでパウロは、その次の日に四人の者を連れて、彼らと共にきよめを受けてから宮にはいった。そしてきよめの期間が終って、ひとりびとりのために供え物をささげる時を報告しておいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p9.b27": {
+    "text": "七日の期間が終ろうとしていた時、アジヤからきたユダヤ人たちが、宮の内でパウロを見かけて、群衆全体を煽動しはじめ、パウロに手をかけて叫び立てた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p9.b28": {
+    "text": "「イスラエルの人々よ、加勢にきてくれ。… その上に、ギリシヤ人を宮の内に連れ込んで、この神聖な場所を汚したのだ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p9.b29": {
+    "text": "彼らは、前にエペソ人トロピモが、パウロと一緒に町を歩いていたのを見かけて、その人をパウロが宮の内に連れ込んだのだと思ったのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p9.b30": {
+    "text": "そこで、市全体が騒ぎ出し、民衆が駆け集まってきて、パウロを捕え、宮の外に引きずり出した。そして、すぐそのあとに宮の門が閉ざされた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p10.b31": {
+    "text": "彼らがパウロを殺そうとしていた時に、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p10.b32": {
+    "text": "エルサレム全体が混乱状態に陥っているとの情報が、守備隊の千卒長にとどいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p10.b33": {
+    "text": "そこで、彼はさっそく、兵卒や百卒長たちを率いて、その場に駆けつけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p10.b34": {
+    "text": "千卒長は近寄ってきてパウロを捕え、彼を二重の鎖で縛っておくように命じた上、パウロは何者か、また何をしたのか、と尋ねた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p11.b35": {
+    "text": "しかし、群衆がそれぞれ違ったことを叫びつづけるため、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p11.b36": {
+    "text": "騒がしくて、確かなことがわからないので、彼はパウロを兵営に連れて行くように命じた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p11.b37": {
+    "text": "パウロが階段にさしかかった時には、群衆の暴行を避けるため、兵卒たちにかつがれて行くという始末であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p11.b38": {
+    "text": "「あれをやっつけてしまえ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p12.b39": {
+    "text": "「ひと言あなたにお話してもよろしいですか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p12.b40": {
+    "text": "「おまえはギリシヤ語が話せるのか。では、もしかおまえは、先ごろ反乱を起した後、四千人の刺客を引き連れて荒野へ逃げて行ったあのエジプト人ではないのか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:37-38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p12.b41": {
+    "text": "「わたしはタルソ生れのユダヤ人で、キリキヤのれっきとした都市の市民です。お願いですが、民衆に話をさせて下さい」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.21.p12.b42": {
+    "text": "千卒長が許してくれたので、パウロは階段の上に立ち、民衆にむかって手を振った。すると、一同がすっかり静粛になったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Acts 21:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

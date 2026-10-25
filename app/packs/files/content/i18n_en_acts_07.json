@@ -1,0 +1,552 @@
+{
+  "acts.7.p1.b1": {
+    "text": "“Are these charges true?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p1.b2": {
+    "text": "“Brothers and fathers, listen to me!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p1.b3": {
+    "text": "The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p1.b4": {
+    "text": "‘Leave your country and your kindred and go to the land I will show you.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p2.b1": {
+    "text": "So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p2.b2": {
+    "text": "… not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p2.b3": {
+    "text": "… ‘and afterward they will come forth and worship Me in this place.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p2.b4": {
+    "text": "… and Abraham became the father of Isaac … And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p3.b1": {
+    "text": "Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p3.b2": {
+    "text": "… Pharaoh king of Egypt, who appointed him ruler over Egypt and all his household.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p3.b3": {
+    "text": "Then famine and great suffering swept across Egypt and Canaan, and our fathers could not find food.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p3.b4": {
+    "text": "When Jacob heard that there was grain in Egypt, he sent our fathers on their first visit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p4.b1": {
+    "text": "On their second visit, Joseph revealed his identity to his brothers, and his family became known to Pharaoh.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p4.b2": {
+    "text": "Then Joseph sent for his father Jacob and all his relatives, seventy-five in all.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p4.b3": {
+    "text": "… where he and our fathers died. Their bones were carried back to Shechem and placed in the tomb that Abraham had bought …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:15-16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p5.b1": {
+    "text": "Then another king, who knew nothing of Joseph, arose over Egypt. He exploited our people and oppressed our fathers, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:18-19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p5.b2": {
+    "text": "At that time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p5.b3": {
+    "text": "When he was set outside, Pharaoh’s daughter took him and brought him up as her own son.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p5.b4": {
+    "text": "So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p6.b1": {
+    "text": "When Moses was forty years old, he decided to visit his brothers, the children of Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p6.b2": {
+    "text": "He assumed his brothers would understand that God was using him to deliver them, but they did not.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p6.b3": {
+    "text": "‘Who made you ruler and judge over us? Do you want to kill me as you killed the Egyptian yesterday?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:27-28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p6.b4": {
+    "text": "At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p7.b1": {
+    "text": "After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p7.b2": {
+    "text": "‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p7.b3": {
+    "text": "‘Take off your sandals, for the place where you are standing is holy ground.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p7.b4": {
+    "text": "I have indeed seen the oppression of My people in Egypt. … and have come down to deliver them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p8.b1": {
+    "text": "This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p8.b2": {
+    "text": "… is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p8.b3": {
+    "text": "He led them out and performed wonders and signs … for forty years in the wilderness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p8.b4": {
+    "text": "… And he received living words to pass on to us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p9.b1": {
+    "text": "But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p9.b2": {
+    "text": "‘Make us gods who will go before us! …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p9.b3": {
+    "text": "At that time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p9.b4": {
+    "text": "… Therefore I will send you into exile beyond Babylon.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p10.b1": {
+    "text": "Our fathers had the tabernacle of the Testimony with them in the wilderness. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p10.b2": {
+    "text": "… brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p10.b3": {
+    "text": "who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p10.b4": {
+    "text": "But it was Solomon who built the house for Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p11.b1": {
+    "text": "However, the Most High does not dwell in houses made by human hands. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p11.b2": {
+    "text": "‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p11.b3": {
+    "text": "Has not My hand made all these things?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:50"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p12.b1": {
+    "text": "You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p12.b2": {
+    "text": "Which of the prophets did your fathers fail to persecute? … And now you are His betrayers and murderers—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p12.b3": {
+    "text": "you who received the law ordained by angels, yet have not kept it.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p13.b1": {
+    "text": "On hearing this, the members of the Sanhedrin were enraged, and they gnashed their teeth at him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p13.b2": {
+    "text": "But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p14.b1": {
+    "text": "“I see heaven open and the Son of Man standing at the right hand of God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p14.b2": {
+    "text": "At this they covered their ears, cried out in a loud voice, and rushed together at him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p15.b1": {
+    "text": "They dragged him out of the city and began to stone him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p15.b2": {
+    "text": "Meanwhile the witnesses laid their garments at the feet of a young man named Saul.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p16.b1": {
+    "text": "While they were stoning him, Stephen appealed, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p16.b2": {
+    "text": "“Lord Jesus, receive my spirit.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:59"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p16.b3": {
+    "text": "“Lord, do not hold this sin against them.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.7.p16.b4": {
+    "text": "And when he had said this, he fell asleep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 7:60"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

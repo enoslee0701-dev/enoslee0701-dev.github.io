@@ -1,0 +1,472 @@
+{
+  "acts.2.p1.b1": {
+    "text": "When the day of Pentecost came, they were all together in one place.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p1.b2": {
+    "text": "Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p2.b1": {
+    "text": "They saw tongues like flames of fire that separated and came to rest on each of them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p3.b1": {
+    "text": "And they were all filled with the Holy Spirit …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p3.b2": {
+    "text": "… and began to speak in other tongues as the Spirit enabled them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p4.b1": {
+    "text": "Now there were dwelling in Jerusalem God-fearing Jews from every nation under heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p4.b2": {
+    "text": "And when this sound rang out, a crowd came together in bewilderment, because each one heard them speaking his own language.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p4.b3": {
+    "text": "“Are not all these men who are speaking Galileans?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p4.b4": {
+    "text": "How is it then that each of us hears them in his own native language?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p5.b1": {
+    "text": "… we hear them declaring the wonders of God in our own tongues!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p5.b2": {
+    "text": "“What does this mean?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p5.b3": {
+    "text": "“They are drunk on new wine!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p6.b1": {
+    "text": "Then Peter stood up with the Eleven, lifted up his voice, and addressed the crowd: …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p6.b2": {
+    "text": "“Men of Judea and all who dwell in Jerusalem, let this be known to you, and listen carefully to my words.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p6.b3": {
+    "text": "These men are not drunk, as you suppose. It is only the third hour of the day!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p7.b1": {
+    "text": "No, this is what was spoken by the prophet Joel:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p7.b2": {
+    "text": "‘In the last days, God says, I will pour out My Spirit on all people. … your young men will see visions, your old men will dream dreams.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p7.b3": {
+    "text": "Even on My menservants and maidservants I will pour out My Spirit in those days, and they will prophesy.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p8.b1": {
+    "text": "I will show wonders in the heavens above and signs on the earth below, blood and fire and billows of smoke.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p8.b2": {
+    "text": "The sun will be turned to darkness, and the moon to blood, before the coming of the great and glorious Day of the Lord.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p8.b3": {
+    "text": "And everyone who calls on the name of the Lord will be saved.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p9.b1": {
+    "text": "Men of Israel, listen to this message: Jesus of Nazareth was a man certified by God to you by miracles, wonders, and signs, which God did among you through Him, as you yourselves know.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p9.b2": {
+    "text": "… and you, by the hands of the lawless, put Him to death by nailing Him to the cross.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p9.b3": {
+    "text": "But God raised Him from the dead, releasing Him from the agony of death, because it was impossible for Him to be held in its clutches.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p10.b1": {
+    "text": "David says about Him: …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p10.b2": {
+    "text": "‘I saw the Lord always before me; because He is at my right hand, I will not be shaken. Therefore my heart is glad …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:25-26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p10.b3": {
+    "text": "You have made known to me the paths of life; You will fill me with joy in Your presence.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p11.b1": {
+    "text": "Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p11.b2": {
+    "text": "But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p11.b3": {
+    "text": "Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p12.b1": {
+    "text": "God has raised this Jesus to life, to which we are all witnesses.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p12.b2": {
+    "text": "Exalted, then, to the right hand of God, He has received from the Father the promised Holy Spirit and has poured out what you now see and hear.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p12.b3": {
+    "text": "For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p12.b4": {
+    "text": "until I make Your enemies a footstool for Your feet.”’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p13.b1": {
+    "text": "Therefore let all Israel know with certainty that God has made this Jesus, whom you crucified, both Lord and Christ!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p13.b2": {
+    "text": "When the people heard this, they were cut to the heart …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p13.b3": {
+    "text": "“Brothers, what shall we do?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p14.b1": {
+    "text": "“Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p14.b2": {
+    "text": "This promise belongs to you and your children and to all who are far off—to all whom the Lord our God will call to Himself.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p14.b3": {
+    "text": "With many other words he testified, and he urged them, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p14.b4": {
+    "text": "“Be saved from this corrupt generation.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p15.b1": {
+    "text": "Those who embraced his message were baptized, and about three thousand were added to the believers that day.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p15.b2": {
+    "text": "They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p16.b1": {
+    "text": "A sense of awe came over everyone, and the apostles performed many wonders and signs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p16.b2": {
+    "text": "All the believers were together and had everything in common. Selling their possessions and goods, they shared with anyone who was in need.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:44-45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p16.b3": {
+    "text": "With one accord they continued to meet daily in the temple courts and to break bread from house to house, sharing their meals with gladness and sincerity of heart,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.2.p16.b4": {
+    "text": "praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 2:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

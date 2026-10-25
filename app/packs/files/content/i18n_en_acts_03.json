@@ -1,0 +1,322 @@
+{
+  "acts.3.p1.b1": {
+    "text": "One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p1.b2": {
+    "text": "And a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p1.b3": {
+    "text": "… to beg from those entering the temple courts.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b1": {
+    "text": "When he saw Peter and John about to enter, he asked them for money.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b2": {
+    "text": "Peter looked directly at him, as did John.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b3": {
+    "text": "“Look at us!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p2.b4": {
+    "text": "So the man gave them his attention, expecting to receive something from them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p3.b1": {
+    "text": "“Silver or gold I do not have,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p3.b2": {
+    "text": "but what I have I give you:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p3.b3": {
+    "text": "In the name of Jesus Christ of Nazareth, get up and walk!”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p4.b1": {
+    "text": "Taking him by the right hand, Peter helped him up, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p4.b2": {
+    "text": "… and at once the man’s feet and ankles were made strong.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p4.b3": {
+    "text": "He sprang to his feet and began to walk. Then he went with them into the temple courts, walking and leaping and praising God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b1": {
+    "text": "When all the people saw him walking and praising God,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b2": {
+    "text": "they recognized him as the man who used to sit begging at the Beautiful Gate of the temple, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b3": {
+    "text": "… and they were filled with wonder and amazement at what had happened to him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p5.b4": {
+    "text": "While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b1": {
+    "text": "“Men of Israel, why are you surprised by this?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b2": {
+    "text": "Why do you stare at us as if by our own power or godliness we had made this man walk?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b3": {
+    "text": "The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified His servant Jesus. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p6.b4": {
+    "text": "You rejected the Holy and Righteous One and asked that a murderer be released to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p7.b1": {
+    "text": "You killed the Author of life, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p7.b2": {
+    "text": "… but God raised Him from the dead, and we are witnesses of the fact.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p7.b3": {
+    "text": "By faith in the name of Jesus, this man whom you see and know has been made strong. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p8.b1": {
+    "text": "And now, brothers, I know that you acted in ignorance, as did your leaders.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p8.b2": {
+    "text": "But in this way God has fulfilled what He foretold through all the prophets, saying that His Christ would suffer.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p8.b3": {
+    "text": "Repent, then, and turn back, so that your sins may be wiped away,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p9.b1": {
+    "text": "that times of refreshing may come from the presence of the Lord, and that He may send Jesus, the Christ, who has been appointed for you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p9.b2": {
+    "text": "For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your brothers. You must listen to Him in everything He tells you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p9.b3": {
+    "text": "Everyone who does not listen to Him will be completely cut off from among his people.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p10.b1": {
+    "text": "And you are sons of the prophets and of the covenant God made with your fathers when He said to Abraham, ‘Through your offspring all the families of the earth will be blessed.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.3.p10.b2": {
+    "text": "When God raised up His Servant, He sent Him first to you to bless you by turning each of you from your wicked ways.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 3:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "acts.4.p1.b1": {
+    "text": "While Peter and John were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p1.b2": {
+    "text": "greatly disturbed that they were teaching the people and proclaiming in Jesus the resurrection of the dead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p1.b3": {
+    "text": "They seized Peter and John, and because it was evening, they put them in custody until the next day.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p2.b1": {
+    "text": "But many who heard the message believed, and the number of men grew to about five thousand.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p2.b2": {
+    "text": "The next day the rulers, elders, and scribes assembled in Jerusalem,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p2.b3": {
+    "text": "along with Annas the high priest, Caiaphas, John, Alexander, and many others from the high priest’s family.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p2.b4": {
+    "text": "“By what power or what name did you do this?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p3.b1": {
+    "text": "Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p3.b2": {
+    "text": "“Rulers and elders of the people!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p3.b3": {
+    "text": "… It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p4.b1": {
+    "text": "This Jesus is ‘the stone you builders rejected, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p4.b2": {
+    "text": "… which has become the cornerstone.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p4.b3": {
+    "text": "Salvation exists in no one else, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p4.b4": {
+    "text": "… for there is no other name under heaven given to men by which we must be saved.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p5.b1": {
+    "text": "When they saw the boldness of Peter and John and realized that they were unschooled, ordinary men, they marveled …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p5.b2": {
+    "text": "… and took note that these men had been with Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p5.b3": {
+    "text": "And seeing the man who had been healed standing there with them, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p5.b4": {
+    "text": "… they had nothing to say in response.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p6.b1": {
+    "text": "So they ordered them to leave the Sanhedrin and then conferred together.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p6.b2": {
+    "text": "“What shall we do with these men?” … “It is clear to everyone living in Jerusalem that a remarkable miracle has occurred through them, and we cannot deny it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p6.b3": {
+    "text": "… we must warn them not to speak to anyone in this name.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p7.b1": {
+    "text": "Then they called them in again and commanded them not to speak or teach at all in the name of Jesus.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p7.b2": {
+    "text": "“Judge for yourselves whether it is right in God’s sight to listen to you rather than God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p7.b3": {
+    "text": "For we cannot stop speaking about what we have seen and heard.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p8.b1": {
+    "text": "After further threats they let them go. They could not find a way to punish them, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p8.b2": {
+    "text": "… because all the people were glorifying God for what had happened.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p8.b3": {
+    "text": "For the man who was miraculously healed was over forty years old.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p9.b1": {
+    "text": "On their release, Peter and John returned to their own people and reported everything that the chief priests and elders had said to them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p9.b2": {
+    "text": "“Sovereign Lord,” … “You made the heaven and the earth and the sea and everything in them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p9.b3": {
+    "text": "‘Why do the nations rage and the peoples plot in vain?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p9.b4": {
+    "text": "The kings of the earth take their stand and the rulers gather together against the Lord and against His Anointed One.’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p10.b1": {
+    "text": "In fact, this is the very city where Herod and Pontius Pilate conspired with the Gentiles and the people of Israel against Your holy servant Jesus, whom You anointed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p10.b2": {
+    "text": "And now, Lord, consider their threats, and enable Your servants to speak Your word with complete boldness,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p10.b3": {
+    "text": "as You stretch out Your hand to heal and perform signs and wonders through the name of Your holy servant Jesus.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p11.b1": {
+    "text": "After they had prayed, their meeting place was shaken, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p11.b2": {
+    "text": "… and they were all filled with the Holy Spirit …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p11.b3": {
+    "text": "… and spoke the word of God boldly.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p12.b1": {
+    "text": "The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p12.b2": {
+    "text": "With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p12.b3": {
+    "text": "… those who owned lands or houses would sell their property, bring the proceeds from the sales,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p12.b4": {
+    "text": "and lay them at the apostles’ feet for distribution to anyone as he had need.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p13.b1": {
+    "text": "Joseph, a Levite from Cyprus, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p13.b2": {
+    "text": "… whom the apostles called Barnabas (meaning Son of Encouragement),",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "acts.4.p13.b3": {
+    "text": "sold a field he owned, brought the money, and laid it at the apostles’ feet.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Acts 4:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}
