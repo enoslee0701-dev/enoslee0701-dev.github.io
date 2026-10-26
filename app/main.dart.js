@@ -56058,7 +56058,7 @@ J2(a,b,c){return this.ayP(a,b,c)},
 ayP(a,b,c){var s=0,r=A.J(t.T),q,p=2,o=[],n=this,m,l,k,j,i,h
 var $async$J2=A.K(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:k=t.N
-j=A.aE(["device_id",c,"client_id",b.h(0,"id"),"app_version","1.1.0+80","platform","web","lang",b.h(0,"lang"),"type",b.h(0,"type"),"text",A.b91(b.h(0,"text"),2000),"contact",A.b91(b.h(0,"contact"),100),"ctx",A.b91(b.h(0,"ctx"),300),"book",b.h(0,"book"),"chapter",b.h(0,"chapter"),"page",b.h(0,"page")],k,t.z)
+j=A.aE(["device_id",c,"client_id",b.h(0,"id"),"app_version","1.1.0+81","platform","web","lang",b.h(0,"lang"),"type",b.h(0,"type"),"text",A.b91(b.h(0,"text"),2000),"contact",A.b91(b.h(0,"contact"),100),"ctx",A.b91(b.h(0,"ctx"),300),"book",b.h(0,"book"),"chapter",b.h(0,"chapter"),"page",b.h(0,"page")],k,t.z)
 i=null
 p=4
 s=7
@@ -57373,7 +57373,7 @@ Jw(a,b,c){return this.ayQ(a,b,c)},
 ayQ(a,b,c){var s=0,r=A.J(t.y),q,p=2,o=[],n=this,m,l,k,j,i,h
 var $async$Jw=A.K(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:k=t.N
-j=A.aE(["device_id",c,"batch_id",b.h(0,"id"),"app_version","1.1.0+80","platform","web","lang",A.a4(n.a.b0($.c_(),t.V).gcB().h(0,"readLang")),"events",b.h(0,"events")],k,t.z)
+j=A.aE(["device_id",c,"batch_id",b.h(0,"id"),"app_version","1.1.0+81","platform","web","lang",A.a4(n.a.b0($.c_(),t.V).gcB().h(0,"readLang")),"events",b.h(0,"events")],k,t.z)
 i=null
 p=4
 s=7
@@ -60094,7 +60094,7 @@ o.push(A.b7M(a.gBb(),!1,d))
 o.push(new A.rO(a.gDD(),!1,d))
 o.push(A.b7M(a.DE(B.b.aO(B.a5a,a.gu5())),!1,d))
 o.push(new A.rO(a.gGL(),!1,d))
-o.push(new A.O6(a.gpI(),a.B4("1.1.0",80),d))
+o.push(new A.O6(a.gpI(),a.B4("1.1.0",81),d))
 return A.en(new A.hC(r,B.cs,d),b.a,A.ek(o,d,new A.T(20,4,20,32+q.r.d),d,!1),d,!1)}}
 A.alU.prototype={
 $1(a){var s=this.a
