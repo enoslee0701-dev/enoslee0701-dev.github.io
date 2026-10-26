@@ -1,31 +1,31 @@
 {
   "build": 80,
   "version": "1.1.0",
-  "published": "2026-10-25T23:59:54.561Z",
+  "published": "2026-10-26T05:11:16.853Z",
   "notes": {
-    "zh-Hans": "使徒行传 28 章全部上线（含英、韩、日、泰四语经文）",
-    "en": "Acts (all 28 chapters) is now available, with English, Korean, Japanese and Thai text"
+    "zh-Hans": "学习模式升级：所有书卷、中英韩日泰都能点词翻译；整句显示对照的圣经原文；已下载的章节有更新时自动更新。",
+    "en": "Study mode upgrade: tap any word in any book to translate it (Chinese, English, Korean, Japanese, Thai); sentences show the matching Bible text; downloaded chapters update automatically."
   },
   "assets": {
     "zh-arm64": {
       "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b80/bible-comics-zh-arm64.apk",
-      "size": 92427823,
-      "sha256": "928e9877494842e8ed8ae633b8b06fc3dfce38a3969d948d7b145121c8e5b105"
+      "size": 109308924,
+      "sha256": "b7e25019edf84032d5d3d8351e44abd45786eb8ae71fa62b65830771c28e61a6"
     },
     "zh-armv7": {
       "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b80/bible-comics-zh-armv7.apk",
-      "size": 90213371,
-      "sha256": "3667753a499514807928c99d592423e1b8fd5415740acbf1aedae181dbbc63f7"
+      "size": 102344858,
+      "sha256": "7d464b802ced682543df8b966fc0601843b065108190260c30a5ad868e9fb858"
     },
     "en-arm64": {
       "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b80/bible-comics-en-arm64.apk",
-      "size": 92429379,
-      "sha256": "dd2aa7d5d02780c3ea0b90da1f4c5ec42ce6658ce2579f11d5f9fb7b029ef609"
+      "size": 109310480,
+      "sha256": "5c8a2a857ce33fbceb78360c9bd40a93d8d56d1a0dce69efbb025737d7fdb48c"
     },
     "en-armv7": {
       "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b80/bible-comics-en-armv7.apk",
-      "size": 90214927,
-      "sha256": "0ec69d14ca8360f4897a64b3c1b2dc460011011f754c2292edfbacb286c79acc"
+      "size": 102346414,
+      "sha256": "230bffc7fcfbe132a5f913a27e89529101676d9990eb4503e1286a1f22e7d2d3"
     }
   }
 }
