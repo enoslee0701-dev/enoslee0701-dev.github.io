@@ -1,0 +1,142 @@
+{
+  "romans.10.p1.b1": {
+    "text": "형제들아 내 마음에 원하는 바와 하나님께 구하는 바는 이스라엘을 위함이니 곧 저희로 구원을 얻게 함이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p1.b2": {
+    "text": "내가 증거하노니 저희가 하나님께 열심이 있으나 지식을 좇은 것이 아니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p1.b3": {
+    "text": "그리스도는 모든 믿는 자에게 의를 이루기 위하여 율법의 마침이 되시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p2.b1": {
+    "text": "말씀이 네게 가까와 네 입에 있으며 네 마음에 있다 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p2.b2": {
+    "text": "네가 만일 네 입으로 예수를 주로 시인하며 또 하나님께서 그를 죽은 자 가운데서 살리신 것을 네 마음에 믿으면 구원을 얻으리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p3.b1": {
+    "text": "성경에 이르되 누구든지 저를 믿는 자는 부끄러움을 당하지 아니하리라 하니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p3.b2": {
+    "text": "유대인이나 헬라인이나 차별이 없음이라 한 주께서 모든 사람의 주가 되사 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p3.b3": {
+    "text": "누구든지 주의 이름을 부르는 자는 구원을 얻으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p4.b1": {
+    "text": "… 듣지도 못한 이를 어찌 믿으리요 전파하는 자가 없이 어찌 들으리요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p4.b2": {
+    "text": "보내심을 받지 아니하였으면 어찌 전파하리요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p4.b3": {
+    "text": "기록된바 아름답도다 좋은 소식을 전하는 자들의 발이여 함과 같으니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p5.b1": {
+    "text": "… 그 소리가 온 땅에 퍼졌고 그 말씀이 땅끝까지 이르렀도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p5.b2": {
+    "text": "내가 구하지 아니하는 자들에게 찾은바 되고 내게 문의하지 아니하는 자들에게 나타났노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.10.p5.b3": {
+    "text": "이스라엘을 대하여 가라사대 순종치 아니하고 거스려 말하는 백성에게 내가 종일 내 손을 벌렸노라 하셨느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_14_P002",
+  "book": "romans",
+  "chapter": 14,
+  "page": 2,
+  "ref": "14:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_14_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_14_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "有人认为这一天比那一天重要；有人认为每天都一样。只是各人心里要拿定主意。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P002_F2",
+      "box": [
+        0,
+        0.2285,
+        1,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "吃的人是为主吃的，因为他感谢　神；不吃的人是为主不吃的，也感谢　神。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P002_F3",
+      "box": [
+        0,
+        0.5938,
+        0.3857,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "我们没有一个人是为自己活，也没有一个人是为自己死。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P002_F4",
+      "box": [
+        0.3916,
+        0.5938,
+        0.6084,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "我们活着，是为主而活；死了，是为主而死。所以，我们无论活着或死了，都是主的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_14_P002_B001",
+      "panel": "ROMANS_14_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0068,
+        0.44,
+        0.063
+      ],
+      "tail": [
+        0.25,
+        0.0923
+      ],
+      "text_key": "romans.14.p2.b1"
+    },
+    {
+      "id": "ROMANS_14_P002_B002",
+      "panel": "ROMANS_14_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.2357,
+        0.4,
+        0.0578
+      ],
+      "tail": [
+        0.5,
+        0.3296
+      ],
+      "text_key": "romans.14.p2.b2"
+    },
+    {
+      "id": "ROMANS_14_P002_B003",
+      "panel": "ROMANS_14_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0193,
+        0.9188,
+        0.3471,
+        0.069
+      ],
+      "tail": [
+        0.1929,
+        1
+      ],
+      "text_key": "romans.14.p2.b3"
+    },
+    {
+      "id": "ROMANS_14_P002_B004",
+      "panel": "ROMANS_14_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.708,
+        0.9188,
+        0.2737,
+        0.069
+      ],
+      "tail": [
+        0.8449,
+        1
+      ],
+      "text_key": "romans.14.p2.b4"
+    }
+  ]
+}

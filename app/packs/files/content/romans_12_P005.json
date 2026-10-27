@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_12_P005",
+  "book": "romans",
+  "chapter": 12,
+  "page": 5,
+  "ref": "12:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_12_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_12_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1921
+      ],
+      "alt": {
+        "zh-CN": "逼迫你们的，要为他们祝福；只要祝福，不可咒诅。"
+      }
+    },
+    {
+      "id": "ROMANS_12_P005_F2",
+      "box": [
+        0,
+        0.1966,
+        1,
+        0.1725
+      ],
+      "alt": {
+        "zh-CN": "要与喜乐的人一同喜乐；"
+      }
+    },
+    {
+      "id": "ROMANS_12_P005_F3",
+      "box": [
+        0,
+        0.3737,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "要与哀哭的人一同哀哭。"
+      }
+    },
+    {
+      "id": "ROMANS_12_P005_F4",
+      "box": [
+        0,
+        0.7376,
+        1,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "要彼此同心；不要心高气傲，倒要俯就卑微的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_12_P005_B001",
+      "panel": "ROMANS_12_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0096,
+        0.24,
+        0.0864
+      ],
+      "tail": [
+        0.14,
+        0.1152
+      ],
+      "text_key": "romans.12.p5.b1"
+    },
+    {
+      "id": "ROMANS_12_P005_B002",
+      "panel": "ROMANS_12_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.2104,
+        0.35,
+        0.1449
+      ],
+      "tail": [
+        0.795,
+        0.3691
+      ],
+      "text_key": "romans.12.p5.b2"
+    },
+    {
+      "id": "ROMANS_12_P005_B003",
+      "panel": "ROMANS_12_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.72,
+        0.3845,
+        0.26,
+        0.0432
+      ],
+      "tail": [
+        0.85,
+        0.4637
+      ],
+      "text_key": "romans.12.p5.b3"
+    },
+    {
+      "id": "ROMANS_12_P005_B004",
+      "panel": "ROMANS_12_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.72,
+        0.7533,
+        0.26,
+        0.0944
+      ],
+      "tail": [
+        0.85,
+        0.8739
+      ],
+      "text_key": "romans.12.p5.b4"
+    }
+  ]
+}

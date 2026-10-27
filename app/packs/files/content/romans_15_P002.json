@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_15_P002",
+  "book": "romans",
+  "chapter": 15,
+  "page": 2,
+  "ref": "15:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_15_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_15_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "愿赐忍耐和安慰的　神使你们彼此同心，效法基督耶稣，同心同声地荣耀　神，就是我们主耶稣基督的父！"
+      }
+    },
+    {
+      "id": "ROMANS_15_P002_F2",
+      "box": [
+        0,
+        0.2689,
+        1,
+        0.4049
+      ],
+      "alt": {
+        "zh-CN": "所以，你们要彼此接纳，就像基督接纳你们一样，使荣耀归给　神。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P002_F3",
+      "box": [
+        0,
+        0.6771,
+        0.3076,
+        0.3229
+      ]
+    },
+    {
+      "id": "ROMANS_15_P002_F4",
+      "box": [
+        0.3125,
+        0.6771,
+        0.6875,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "我是说，基督为了　神的真实，作了受割礼之人的仆人，要证实　神向列祖所应许的话，也使外邦人因他的怜悯荣耀　神。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_15_P002_B001",
+      "panel": "ROMANS_15_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0053,
+        0.44,
+        0.0424
+      ],
+      "tail": [
+        0.25,
+        0.0743
+      ],
+      "text_key": "romans.15.p2.b1"
+    },
+    {
+      "id": "ROMANS_15_P002_B002",
+      "panel": "ROMANS_15_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.277,
+        0.46,
+        0.0647
+      ],
+      "tail": [
+        0.48,
+        0.3822
+      ],
+      "text_key": "romans.15.p2.b2"
+    },
+    {
+      "id": "ROMANS_15_P002_B003",
+      "panel": "ROMANS_15_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6563,
+        0.6836,
+        0.3231,
+        0.0322
+      ],
+      "tail": [
+        0.8179,
+        0.7481
+      ],
+      "text_key": "romans.15.p2.b3"
+    }
+  ]
+}

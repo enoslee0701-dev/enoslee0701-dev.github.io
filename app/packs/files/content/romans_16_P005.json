@@ -1,0 +1,127 @@
+{
+  "id": "ROMANS_16_P005",
+  "book": "romans",
+  "chapter": 16,
+  "page": 5,
+  "ref": "16:12-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_16_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_16_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5098,
+        0.3607
+      ],
+      "alt": {
+        "zh-CN": "问候为主劳苦的土非拿和土富撒。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P005_F2",
+      "box": [
+        0.5166,
+        0,
+        0.4834,
+        0.3607
+      ],
+      "alt": {
+        "zh-CN": "问候在主里蒙拣选的鲁孚和他的母亲；她也是我的母亲。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P005_F3",
+      "box": [
+        0,
+        0.3639,
+        1,
+        0.6361
+      ],
+      "alt": {
+        "zh-CN": "你们要用圣洁的亲吻彼此问候。 / 基督的众教会都问候你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_16_P005_B001",
+      "panel": "ROMANS_16_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0204,
+        0.0108,
+        0.469,
+        0.0577
+      ],
+      "tail": [
+        0.2549,
+        0.1046
+      ],
+      "text_key": "romans.16.p5.b1"
+    },
+    {
+      "id": "ROMANS_16_P005_B002",
+      "panel": "ROMANS_16_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7825,
+        0.0072,
+        0.2078,
+        0.0793
+      ],
+      "tail": [
+        0.8864,
+        0.1226
+      ],
+      "text_key": "romans.16.p5.b2"
+    },
+    {
+      "id": "ROMANS_16_P005_B003",
+      "panel": "ROMANS_16_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.771,
+        0.34,
+        0.0826
+      ],
+      "tail": [
+        0.19,
+        0.9172
+      ],
+      "text_key": "romans.16.p5.b3"
+    },
+    {
+      "id": "ROMANS_16_P005_B004",
+      "panel": "ROMANS_16_P005_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.8791,
+        0.34,
+        0.0826
+      ],
+      "tail": [
+        0.19,
+        1
+      ],
+      "text_key": "romans.16.p5.b4"
+    }
+  ]
+}

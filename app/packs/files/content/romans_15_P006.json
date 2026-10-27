@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_15_P006",
+  "book": "romans",
+  "chapter": 15,
+  "page": 6,
+  "ref": "15:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_15_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_15_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "我多次被拦阻，一直没能到你们那里去。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P006_F2",
+      "box": [
+        0,
+        0.2917,
+        0.541,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "……这些年来，我一直切切想往西班牙去，那时就可以到你们那里，"
+      }
+    },
+    {
+      "id": "ROMANS_15_P006_F3",
+      "box": [
+        0.5479,
+        0.2917,
+        0.4521,
+        0.2936
+      ]
+    },
+    {
+      "id": "ROMANS_15_P006_F4",
+      "box": [
+        0,
+        0.5879,
+        1,
+        0.4121
+      ],
+      "alt": {
+        "zh-CN": "盼望路过你们那里时能见到你们，先和你们相聚，心里稍得满足，然后由你们送我上路。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_15_P006_B001",
+      "panel": "ROMANS_15_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0087,
+        0.44,
+        0.0751
+      ],
+      "tail": [
+        0.25,
+        0.1127
+      ],
+      "text_key": "romans.15.p6.b1"
+    },
+    {
+      "id": "ROMANS_15_P006_B002",
+      "panel": "ROMANS_15_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3462,
+        0.3005,
+        0.1785,
+        0.0939
+      ],
+      "tail": [
+        0.4355,
+        0.4238
+      ],
+      "text_key": "romans.15.p6.b2"
+    },
+    {
+      "id": "ROMANS_15_P006_B003",
+      "panel": "ROMANS_15_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.6003,
+        0.6,
+        0.0659
+      ],
+      "tail": [
+        0.5,
+        0.7074
+      ],
+      "text_key": "romans.15.p6.b3"
+    }
+  ]
+}

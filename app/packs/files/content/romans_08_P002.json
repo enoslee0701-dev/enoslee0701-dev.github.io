@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_08_P002",
+  "book": "romans",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:5-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.3776
+      ],
+      "alt": {
+        "zh-CN": "以肉体的事为念的，就是死；以圣灵的事为念的，就是生命、平安。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P002_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.3776
+      ],
+      "alt": {
+        "zh-CN": "如果　神的灵住在你们里面，你们就不属肉体，而属圣灵了。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P002_F3",
+      "box": [
+        0,
+        0.3815,
+        1,
+        0.6185
+      ],
+      "alt": {
+        "zh-CN": "……那使基督耶稣从死里复活的，也必借着住在你们里面的圣灵，使你们会死的身体重新活过来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P002_B001",
+      "panel": "ROMANS_08_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0149,
+        0.0113,
+        0.2182,
+        0.0679
+      ],
+      "tail": [
+        0.124,
+        0.117
+      ],
+      "text_key": "romans.8.p2.b1"
+    },
+    {
+      "id": "ROMANS_08_P002_B002",
+      "panel": "ROMANS_08_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5228,
+        0.2794,
+        0.4573,
+        0.083
+      ],
+      "tail": [
+        0.7515,
+        0.3776
+      ],
+      "text_key": "romans.8.p2.b2"
+    },
+    {
+      "id": "ROMANS_08_P002_B003",
+      "panel": "ROMANS_08_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.4001,
+        0.42,
+        0.0989
+      ],
+      "tail": [
+        0.76,
+        0.5609
+      ],
+      "text_key": "romans.8.p2.b3"
+    }
+  ]
+}

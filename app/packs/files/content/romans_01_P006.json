@@ -1,0 +1,115 @@
+{
+  "id": "ROMANS_01_P006",
+  "book": "romans",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2721
+      ],
+      "alt": {
+        "zh-CN": "原来，　神的愤怒从天上显明在一切不敬虔、不义的人身上，"
+      }
+    },
+    {
+      "id": "ROMANS_01_P006_F2",
+      "box": [
+        0,
+        0.276,
+        0.582,
+        0.3145
+      ]
+    },
+    {
+      "id": "ROMANS_01_P006_F3",
+      "box": [
+        0.5898,
+        0.276,
+        0.4102,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "……因为　神已经向他们显明了。"
+      }
+    },
+    {
+      "id": "ROMANS_01_P006_F4",
+      "box": [
+        0,
+        0.5944,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "……借着所造的万物就可以明白，叫人无法推诿。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_01_P006_B001",
+      "panel": "ROMANS_01_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.0082,
+        0.5,
+        0.0489
+      ],
+      "tail": [
+        0.7,
+        0.0843
+      ],
+      "text_key": "romans.1.p6.b1"
+    },
+    {
+      "id": "ROMANS_01_P006_B002",
+      "panel": "ROMANS_01_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6103,
+        0.5276,
+        0.3691,
+        0.0534
+      ],
+      "tail": [
+        0.7948,
+        0.5905
+      ],
+      "text_key": "romans.1.p6.b2"
+    },
+    {
+      "id": "ROMANS_01_P006_B003",
+      "panel": "ROMANS_01_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6106,
+        0.46,
+        0.073
+      ],
+      "tail": null,
+      "text_key": "romans.1.p6.b3"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ROMANS_09_P006",
+  "book": "romans",
+  "chapter": 9,
+  "page": 6,
+  "ref": "9:27-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_09_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_09_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "以色列人虽然多得像海边的沙，得救的只是剩下的少数人；"
+      }
+    },
+    {
+      "id": "ROMANS_09_P006_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.2285
+      ]
+    },
+    {
+      "id": "ROMANS_09_P006_F3",
+      "box": [
+        0,
+        0.5208,
+        1,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "要不是万军之主给我们留下后裔，我们早已像所多玛、蛾摩拉一样了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_09_P006_B001",
+      "panel": "ROMANS_09_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0114,
+        0.42,
+        0.0571
+      ],
+      "tail": [
+        0.76,
+        0.0971
+      ],
+      "text_key": "romans.9.p6.b1"
+    },
+    {
+      "id": "ROMANS_09_P006_B002",
+      "panel": "ROMANS_09_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5352,
+        0.44,
+        0.0766
+      ],
+      "tail": [
+        0.25,
+        0.6597
+      ],
+      "text_key": "romans.9.p6.b2"
+    }
+  ]
+}

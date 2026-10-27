@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_14_P001",
+  "book": "romans",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "信心软弱的人，你们要接纳他，但不要争论那些有疑问的事。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P001_F2",
+      "box": [
+        0,
+        0.3001,
+        0.54,
+        0.2559
+      ]
+    },
+    {
+      "id": "ROMANS_14_P001_F3",
+      "box": [
+        0.5469,
+        0.3001,
+        0.4531,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "有人相信什么都可以吃；但那信心软弱的，只吃蔬菜。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P001_F4",
+      "box": [
+        0,
+        0.5605,
+        1,
+        0.4395
+      ],
+      "alt": {
+        "zh-CN": "吃的人不可轻看不吃的人；不吃的人也不可论断吃的人；因为　神已经接纳他了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_14_P001_B001",
+      "panel": "ROMANS_14_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.26,
+        0.0059,
+        0.4,
+        0.0473
+      ],
+      "tail": [
+        0.46,
+        0.0828
+      ],
+      "text_key": "romans.14.p1.b1"
+    },
+    {
+      "id": "ROMANS_14_P001_B002",
+      "panel": "ROMANS_14_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7735,
+        0.3078,
+        0.2129,
+        0.0665
+      ],
+      "tail": [
+        0.88,
+        0.3999
+      ],
+      "text_key": "romans.14.p1.b2"
+    },
+    {
+      "id": "ROMANS_14_P001_B003",
+      "panel": "ROMANS_14_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.33,
+        0.5693,
+        0.34,
+        0.0703
+      ],
+      "tail": [
+        0.5,
+        0.6836
+      ],
+      "text_key": "romans.14.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_07_P003",
+  "book": "romans",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:7-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_07_P003_F1",
+      "box": [
+        0,
+        0,
+        0.6045,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "那么，我们要怎么说呢？律法是罪吗？绝对不是！"
+      }
+    },
+    {
+      "id": "ROMANS_07_P003_F2",
+      "box": [
+        0.6104,
+        0,
+        0.3896,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "……要不是律法说「不可贪心」，我就不知道什么是贪心。"
+      }
+    },
+    {
+      "id": "ROMANS_07_P003_F3",
+      "box": [
+        0,
+        0.3027,
+        1,
+        0.3809
+      ],
+      "alt": {
+        "zh-CN": "我以前没有律法的时候是活着的；但是诫命一来，罪就活了，我就死了。"
+      }
+    },
+    {
+      "id": "ROMANS_07_P003_F4",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "这样看来，律法是圣洁的，诫命也是圣洁、公义、良善的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_07_P003_B001",
+      "panel": "ROMANS_07_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0181,
+        0.009,
+        0.3022,
+        0.0602
+      ],
+      "tail": [
+        0.1692,
+        0.0993
+      ],
+      "text_key": "romans.7.p3.b1"
+    },
+    {
+      "id": "ROMANS_07_P003_B002",
+      "panel": "ROMANS_07_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8247,
+        0.1869,
+        0.1636,
+        0.1024
+      ],
+      "tail": [
+        0.9065,
+        0.3014
+      ],
+      "text_key": "romans.7.p3.b2"
+    },
+    {
+      "id": "ROMANS_07_P003_B003",
+      "panel": "ROMANS_07_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.3141,
+        0.42,
+        0.0533
+      ],
+      "tail": [
+        0.76,
+        0.4055
+      ],
+      "text_key": "romans.7.p3.b3"
+    },
+    {
+      "id": "ROMANS_07_P003_B004",
+      "panel": "ROMANS_07_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6956,
+        0.48,
+        0.0564
+      ],
+      "tail": [
+        0.27,
+        0.7834
+      ],
+      "text_key": "romans.7.p3.b4"
+    }
+  ]
+}

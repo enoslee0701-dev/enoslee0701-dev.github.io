@@ -1,0 +1,136 @@
+{
+  "id": "ROMANS_16_P006",
+  "book": "romans",
+  "chapter": 16,
+  "page": 6,
+  "ref": "16:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_16_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_16_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2493
+      ]
+    },
+    {
+      "id": "ROMANS_16_P006_F2",
+      "box": [
+        0,
+        0.2533,
+        0.5029,
+        0.3418
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我劝你们要提防那些制造分裂、使人跌倒、违背你们所学教导的人，要远离他们。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P006_F3",
+      "box": [
+        0.5107,
+        0.2533,
+        0.4893,
+        0.3418
+      ],
+      "alt": {
+        "zh-CN": "……但我愿你们在善事上聪明，在恶事上单纯。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P006_F4",
+      "box": [
+        0,
+        0.6003,
+        1,
+        0.3997
+      ],
+      "alt": {
+        "zh-CN": "赐平安的　神快要把撒但踩碎在你们脚下。 / 愿我们主耶稣基督的恩典与你们同在！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_16_P006_B001",
+      "panel": "ROMANS_16_P006_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0201,
+        0.2636,
+        0.4626,
+        0.0546
+      ],
+      "tail": [
+        0.2514,
+        0.3524
+      ],
+      "text_key": "romans.16.p6.b1"
+    },
+    {
+      "id": "ROMANS_16_P006_B002",
+      "panel": "ROMANS_16_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5352,
+        0.5267,
+        0.4403,
+        0.0546
+      ],
+      "tail": [
+        0.7554,
+        0.5951
+      ],
+      "text_key": "romans.16.p6.b2"
+    },
+    {
+      "id": "ROMANS_16_P006_B003",
+      "panel": "ROMANS_16_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6083,
+        0.45,
+        0.0519
+      ],
+      "tail": [
+        0.255,
+        0.7002
+      ],
+      "text_key": "romans.16.p6.b3"
+    },
+    {
+      "id": "ROMANS_16_P006_B004",
+      "panel": "ROMANS_16_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6123,
+        0.42,
+        0.0559
+      ],
+      "tail": [
+        0.76,
+        0.7082
+      ],
+      "text_key": "romans.16.p6.b4"
+    }
+  ]
+}

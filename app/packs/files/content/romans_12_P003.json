@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_12_P003",
+  "book": "romans",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.265
+      ],
+      "alt": {
+        "zh-CN": "我们按着所得的恩赐，各有不同。"
+      }
+    },
+    {
+      "id": "ROMANS_12_P003_F2",
+      "box": [
+        0,
+        0.2689,
+        0.4961,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "或是服事，就应当专心服事；"
+      }
+    },
+    {
+      "id": "ROMANS_12_P003_F3",
+      "box": [
+        0.502,
+        0.2689,
+        0.498,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "或是教导，就应当专心教导；"
+      }
+    },
+    {
+      "id": "ROMANS_12_P003_F4",
+      "box": [
+        0,
+        0.5716,
+        1,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "……施舍的，就应当真诚；带领的，就应当殷勤；怜悯人的，就应当甘心。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_12_P003_B001",
+      "panel": "ROMANS_12_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.008,
+        0.45,
+        0.0742
+      ],
+      "tail": [
+        0.745,
+        0.1087
+      ],
+      "text_key": "romans.12.p3.b1"
+    },
+    {
+      "id": "ROMANS_12_P003_B002",
+      "panel": "ROMANS_12_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.258,
+        0.2779,
+        0.2232,
+        0.0658
+      ],
+      "tail": [
+        0.3696,
+        0.3737
+      ],
+      "text_key": "romans.12.p3.b2"
+    },
+    {
+      "id": "ROMANS_12_P003_B003",
+      "panel": "ROMANS_12_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5219,
+        0.5085,
+        0.4581,
+        0.0539
+      ],
+      "tail": [
+        0.751,
+        0.5684
+      ],
+      "text_key": "romans.12.p3.b3"
+    },
+    {
+      "id": "ROMANS_12_P003_B004",
+      "panel": "ROMANS_12_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.5802,
+        0.42,
+        0.0514
+      ],
+      "tail": [
+        0.77,
+        0.6744
+      ],
+      "text_key": "romans.12.p3.b4"
+    }
+  ]
+}

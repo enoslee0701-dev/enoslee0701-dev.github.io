@@ -1,0 +1,115 @@
+{
+  "id": "ROMANS_08_P005",
+  "book": "romans",
+  "chapter": 8,
+  "page": 5,
+  "ref": "8:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "我们知道，所有受造之物一同叹息、一同受苦，直到现在。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P005_F2",
+      "box": [
+        0,
+        0.3874,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "……就是我们这些已经有圣灵作初熟果子的人，也在心里叹息，等候得着儿女的身份，就是我们的身体得赎。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P005_F3",
+      "box": [
+        0,
+        0.6986,
+        0.4404,
+        0.3014
+      ]
+    },
+    {
+      "id": "ROMANS_08_P005_F4",
+      "box": [
+        0.4473,
+        0.6986,
+        0.5527,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "但我们如果盼望那看不见的，就必定忍耐等候。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P005_B001",
+      "panel": "ROMANS_08_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0154,
+        0.5,
+        0.0615
+      ],
+      "tail": null,
+      "text_key": "romans.8.p5.b1"
+    },
+    {
+      "id": "ROMANS_08_P005_B002",
+      "panel": "ROMANS_08_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.412,
+        0.35,
+        0.1108
+      ],
+      "tail": [
+        0.795,
+        0.5536
+      ],
+      "text_key": "romans.8.p5.b2"
+    },
+    {
+      "id": "ROMANS_08_P005_B003",
+      "panel": "ROMANS_08_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4694,
+        0.9518,
+        0.5084,
+        0.0421
+      ],
+      "tail": [
+        0.7236,
+        1
+      ],
+      "text_key": "romans.8.p5.b3"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ROMANS_08_P006",
+  "book": "romans",
+  "chapter": 8,
+  "page": 6,
+  "ref": "8:26-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.3874
+      ],
+      "alt": {
+        "zh-CN": "而且，我们软弱的时候有圣灵帮助；我们本来不知道应当怎样祷告……"
+      }
+    },
+    {
+      "id": "ROMANS_08_P006_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3874
+      ]
+    },
+    {
+      "id": "ROMANS_08_P006_F3",
+      "box": [
+        0,
+        0.3919,
+        1,
+        0.6081
+      ],
+      "alt": {
+        "zh-CN": "……但圣灵亲自用说不出来的叹息为我们祷告。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P006_B001",
+      "panel": "ROMANS_08_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.0116,
+        0.4473,
+        0.0774
+      ],
+      "tail": [
+        0.2436,
+        0.1277
+      ],
+      "text_key": "romans.8.p6.b1"
+    },
+    {
+      "id": "ROMANS_08_P006_B002",
+      "panel": "ROMANS_08_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.4101,
+        0.42,
+        0.0972
+      ],
+      "tail": [
+        0.76,
+        0.5681
+      ],
+      "text_key": "romans.8.p6.b2"
+    }
+  ]
+}

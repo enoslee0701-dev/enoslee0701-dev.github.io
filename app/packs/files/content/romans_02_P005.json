@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_02_P005",
+  "book": "romans",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_02_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5068,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "你既然教导别人，难道不教导自己吗？"
+      }
+    },
+    {
+      "id": "ROMANS_02_P005_F2",
+      "box": [
+        0.5137,
+        0,
+        0.4863,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "你宣讲人不可偷窃，自己还偷窃吗？"
+      }
+    },
+    {
+      "id": "ROMANS_02_P005_F3",
+      "box": [
+        0,
+        0.2487,
+        1,
+        0.4512
+      ],
+      "alt": {
+        "zh-CN": "你以律法夸口，自己却违犯律法、羞辱　神吗？"
+      }
+    },
+    {
+      "id": "ROMANS_02_P005_F4",
+      "box": [
+        0,
+        0.7031,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "神的名在外邦人中，因你们而受了亵渎，……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_02_P005_B001",
+      "panel": "ROMANS_02_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0203,
+        0.0073,
+        0.4662,
+        0.0416
+      ],
+      "tail": [
+        0.2534,
+        0.0734
+      ],
+      "text_key": "romans.2.p5.b1"
+    },
+    {
+      "id": "ROMANS_02_P005_B002",
+      "panel": "ROMANS_02_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5332,
+        0.1958,
+        0.4473,
+        0.0391
+      ],
+      "tail": [
+        0.7569,
+        0.2448
+      ],
+      "text_key": "romans.2.p5.b2"
+    },
+    {
+      "id": "ROMANS_02_P005_B003",
+      "panel": "ROMANS_02_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2622,
+        0.42,
+        0.0721
+      ],
+      "tail": [
+        0.24,
+        0.3794
+      ],
+      "text_key": "romans.2.p5.b3"
+    },
+    {
+      "id": "ROMANS_02_P005_B004",
+      "panel": "ROMANS_02_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.68,
+        0.715,
+        0.3,
+        0.0593
+      ],
+      "tail": [
+        0.83,
+        0.804
+      ],
+      "text_key": "romans.2.p5.b4"
+    }
+  ]
+}

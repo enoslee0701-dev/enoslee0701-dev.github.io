@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_16_P009",
+  "book": "romans",
+  "chapter": 16,
+  "page": 9,
+  "ref": "16:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_16_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_16_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "惟有　神能按照我所传的福音、所讲的耶稣基督……坚固你们。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P009_F2",
+      "box": [
+        0,
+        0.2598,
+        0.499,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "这奥秘如今已经显明，……借着众先知的书指示万国的人，使他们信而顺从。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P009_F3",
+      "box": [
+        0.5049,
+        0.2598,
+        0.4951,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "愿荣耀借着耶稣基督归给独一全智的　神，直到永远。阿们！"
+      }
+    },
+    {
+      "id": "ROMANS_16_P009_F4",
+      "box": [
+        0,
+        0.5521,
+        1,
+        0.4479
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_16_P009_B001",
+      "panel": "ROMANS_16_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0051,
+        0.4,
+        0.0435
+      ],
+      "tail": [
+        0.22,
+        0.0742
+      ],
+      "text_key": "romans.16.p9.b1"
+    },
+    {
+      "id": "ROMANS_16_P009_B002",
+      "panel": "ROMANS_16_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2495,
+        0.2656,
+        0.2395,
+        0.0433
+      ],
+      "tail": [
+        0.3692,
+        0.3378
+      ],
+      "text_key": "romans.16.p9.b2"
+    },
+    {
+      "id": "ROMANS_16_P009_B003",
+      "panel": "ROMANS_16_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5198,
+        0.4911,
+        0.198,
+        0.0491
+      ],
+      "tail": [
+        0.6188,
+        0.5489
+      ],
+      "text_key": "romans.16.p9.b3"
+    }
+  ]
+}

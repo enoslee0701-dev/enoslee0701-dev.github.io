@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_01_P004",
+  "book": "romans",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:13-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "……我多次计划到你们那里去，……只是直到现在仍有拦阻。"
+      }
+    },
+    {
+      "id": "ROMANS_01_P004_F2",
+      "box": [
+        0,
+        0.2832,
+        0.5205,
+        0.3301
+      ]
+    },
+    {
+      "id": "ROMANS_01_P004_F3",
+      "box": [
+        0.5283,
+        0.2832,
+        0.4717,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "无论是希腊人或未开化的人，有学问的或没学问的，我都欠他们的债，"
+      }
+    },
+    {
+      "id": "ROMANS_01_P004_F4",
+      "box": [
+        0,
+        0.6172,
+        1,
+        0.3828
+      ],
+      "alt": {
+        "zh-CN": "所以我愿意尽我的力量，把福音也传给你们在罗马的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_01_P004_B001",
+      "panel": "ROMANS_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0112,
+        0.22,
+        0.0837
+      ],
+      "tail": [
+        0.13,
+        0.1228
+      ],
+      "text_key": "romans.1.p4.b1"
+    },
+    {
+      "id": "ROMANS_01_P004_B002",
+      "panel": "ROMANS_01_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8113,
+        0.2931,
+        0.1792,
+        0.066
+      ],
+      "tail": [
+        0.9009,
+        0.3921
+      ],
+      "text_key": "romans.1.p4.b2"
+    },
+    {
+      "id": "ROMANS_01_P004_B003",
+      "panel": "ROMANS_01_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6287,
+        0.42,
+        0.0574
+      ],
+      "tail": [
+        0.76,
+        0.7244
+      ],
+      "text_key": "romans.1.p4.b3"
+    }
+  ]
+}

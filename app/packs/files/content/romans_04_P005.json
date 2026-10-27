@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_04_P005",
+  "book": "romans",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:18-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "在没有希望的时候，他仍然凭着信心怀着希望，因而成了多国的父，正如经上所说：「你的后裔将要这样多。」"
+      }
+    },
+    {
+      "id": "ROMANS_04_P005_F2",
+      "box": [
+        0,
+        0.3327,
+        0.5957,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "他快一百岁的时候，虽然想到自己的身体好像已经死了，撒拉也已经不能生育，他的信心还是没有软弱；"
+      }
+    },
+    {
+      "id": "ROMANS_04_P005_F3",
+      "box": [
+        0.6045,
+        0.3327,
+        0.3955,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "而且完全相信　神所应许的，他必定能够成就。"
+      }
+    },
+    {
+      "id": "ROMANS_04_P005_F4",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "所以，这就算为他的义。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_04_P005_B001",
+      "panel": "ROMANS_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.263,
+        0.45,
+        0.0558
+      ],
+      "tail": [
+        0.255,
+        0.3288
+      ],
+      "text_key": "romans.4.p5.b1"
+    },
+    {
+      "id": "ROMANS_04_P005_B002",
+      "panel": "ROMANS_04_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0238,
+        0.3426,
+        0.548,
+        0.0592
+      ],
+      "tail": [
+        0.2978,
+        0.4347
+      ],
+      "text_key": "romans.4.p5.b2"
+    },
+    {
+      "id": "ROMANS_04_P005_B003",
+      "panel": "ROMANS_04_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6203,
+        0.5765,
+        0.3638,
+        0.0757
+      ],
+      "tail": [
+        0.8022,
+        0.6621
+      ],
+      "text_key": "romans.4.p5.b3"
+    },
+    {
+      "id": "ROMANS_04_P005_B004",
+      "panel": "ROMANS_04_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.676,
+        0.45,
+        0.0534
+      ],
+      "tail": [
+        0.745,
+        0.7628
+      ],
+      "text_key": "romans.4.p5.b4"
+    }
+  ]
+}

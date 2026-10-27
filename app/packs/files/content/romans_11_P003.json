@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_11_P003",
+  "book": "romans",
+  "chapter": 11,
+  "page": 3,
+  "ref": "11:11-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_11_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_11_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "那么我要问：他们失足是要他们跌倒不起吗？绝对不是！"
+      }
+    },
+    {
+      "id": "ROMANS_11_P003_F2",
+      "box": [
+        0,
+        0.252,
+        0.6035,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "我对你们外邦人说这话；我既然是外邦人的使徒，就看重我的职分，"
+      }
+    },
+    {
+      "id": "ROMANS_11_P003_F3",
+      "box": [
+        0.6094,
+        0.252,
+        0.3906,
+        0.306
+      ]
+    },
+    {
+      "id": "ROMANS_11_P003_F4",
+      "box": [
+        0,
+        0.5618,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "……他们被接纳，岂不是从死里复活吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_11_P003_B001",
+      "panel": "ROMANS_11_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.0075,
+        0.47,
+        0.0747
+      ],
+      "tail": [
+        0.735,
+        0.1071
+      ],
+      "text_key": "romans.11.p3.b1"
+    },
+    {
+      "id": "ROMANS_11_P003_B002",
+      "panel": "ROMANS_11_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2414,
+        0.2581,
+        0.35,
+        0.0428
+      ],
+      "tail": [
+        0.4164,
+        0.3315
+      ],
+      "text_key": "romans.11.p3.b2"
+    },
+    {
+      "id": "ROMANS_11_P003_B003",
+      "panel": "ROMANS_11_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.9124,
+        0.4,
+        0.0744
+      ],
+      "tail": [
+        0.22,
+        1
+      ],
+      "text_key": "romans.11.p3.b3"
+    }
+  ]
+}

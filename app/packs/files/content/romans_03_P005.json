@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_03_P005",
+  "book": "romans",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_03_P005_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "但现在，　神的义已经在律法以外显明出来，有律法和先知为它作证，……"
+      }
+    },
+    {
+      "id": "ROMANS_03_P005_F2",
+      "box": [
+        0.5,
+        0,
+        0.5,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "就是　神的义，借着信耶稣基督，临到所有相信的人，并没有区别。"
+      }
+    },
+    {
+      "id": "ROMANS_03_P005_F3",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "因为人人都犯了罪，达不到　神荣耀的标准；"
+      }
+    },
+    {
+      "id": "ROMANS_03_P005_F4",
+      "box": [
+        0,
+        0.7031,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "如今却因　神的恩典，借着基督耶稣的救赎，白白地被称为义。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_03_P005_B001",
+      "panel": "ROMANS_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.009,
+        0.4446,
+        0.0585
+      ],
+      "tail": [
+        0.2421,
+        0.09
+      ],
+      "text_key": "romans.3.p5.b1"
+    },
+    {
+      "id": "ROMANS_03_P005_B002",
+      "panel": "ROMANS_03_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.1893,
+        0.45,
+        0.0315
+      ],
+      "tail": [
+        0.745,
+        0.2253
+      ],
+      "text_key": "romans.3.p5.b2"
+    },
+    {
+      "id": "ROMANS_03_P005_B003",
+      "panel": "ROMANS_03_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2386,
+        0.47,
+        0.0611
+      ],
+      "tail": [
+        0.735,
+        0.3467
+      ],
+      "text_key": "romans.3.p5.b3"
+    },
+    {
+      "id": "ROMANS_03_P005_B004",
+      "panel": "ROMANS_03_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.9287,
+        0.5,
+        0.0623
+      ],
+      "tail": [
+        0.5,
+        1
+      ],
+      "text_key": "romans.3.p5.b4"
+    }
+  ]
+}

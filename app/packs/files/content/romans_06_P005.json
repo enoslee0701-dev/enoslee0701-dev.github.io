@@ -1,0 +1,115 @@
+{
+  "id": "ROMANS_06_P005",
+  "book": "romans",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "……你们以前怎样把肢体献给不洁和不法做奴仆，以致不法；现在也要照样把肢体献给义做奴仆，以致成圣。"
+      }
+    },
+    {
+      "id": "ROMANS_06_P005_F2",
+      "box": [
+        0,
+        0.3203,
+        0.501,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "你们现在认为羞耻的那些事，当时有什么果子呢？那些事的结局就是死。"
+      }
+    },
+    {
+      "id": "ROMANS_06_P005_F3",
+      "box": [
+        0.5068,
+        0.3203,
+        0.4932,
+        0.2891
+      ]
+    },
+    {
+      "id": "ROMANS_06_P005_F4",
+      "box": [
+        0,
+        0.612,
+        1,
+        0.388
+      ],
+      "alt": {
+        "zh-CN": "但现在，你们既然从罪里得了释放，做了　神的奴仆，就结出成圣的果子，结局就是永生。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_06_P005_B001",
+      "panel": "ROMANS_06_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.0095,
+        0.4,
+        0.0507
+      ],
+      "tail": [
+        0.48,
+        0.0919
+      ],
+      "text_key": "romans.6.p5.b1"
+    },
+    {
+      "id": "ROMANS_06_P005_B002",
+      "panel": "ROMANS_06_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0251,
+        0.54,
+        0.4509,
+        0.0578
+      ],
+      "tail": null,
+      "text_key": "romans.6.p5.b2"
+    },
+    {
+      "id": "ROMANS_06_P005_B003",
+      "panel": "ROMANS_06_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6236,
+        0.44,
+        0.0659
+      ],
+      "tail": [
+        0.25,
+        0.7283
+      ],
+      "text_key": "romans.6.p5.b3"
+    }
+  ]
+}

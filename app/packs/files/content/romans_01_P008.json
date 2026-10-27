@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_01_P008",
+  "book": "romans",
+  "chapter": 1,
+  "page": 8,
+  "ref": "1:24-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_01_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_01_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "所以，　神任凭他们随着心里的私欲去做污秽的事，"
+      }
+    },
+    {
+      "id": "ROMANS_01_P008_F2",
+      "box": [
+        0,
+        0.2702,
+        0.4971,
+        0.2832
+      ]
+    },
+    {
+      "id": "ROMANS_01_P008_F3",
+      "box": [
+        0.5029,
+        0.2702,
+        0.4971,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "他们把　神的真理换成了谎言，去敬拜事奉被造之物，而不敬拜那造物主——"
+      }
+    },
+    {
+      "id": "ROMANS_01_P008_F4",
+      "box": [
+        0,
+        0.556,
+        1,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "他们既然不愿意认识　神，　神就任凭他们存败坏的心，去做那些不该做的事；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_01_P008_B001",
+      "panel": "ROMANS_01_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.008,
+        0.52,
+        0.0479
+      ],
+      "tail": [
+        0.71,
+        0.0825
+      ],
+      "text_key": "romans.1.p8.b1"
+    },
+    {
+      "id": "ROMANS_01_P008_B002",
+      "panel": "ROMANS_01_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5228,
+        0.2787,
+        0.4473,
+        0.0453
+      ],
+      "tail": [
+        0.7465,
+        0.3523
+      ],
+      "text_key": "romans.1.p8.b2"
+    },
+    {
+      "id": "ROMANS_01_P008_B003",
+      "panel": "ROMANS_01_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.9201,
+        0.46,
+        0.0621
+      ],
+      "tail": [
+        0.73,
+        1
+      ],
+      "text_key": "romans.1.p8.b3"
+    }
+  ]
+}

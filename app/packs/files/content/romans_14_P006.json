@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_14_P006",
+  "book": "romans",
+  "chapter": 14,
+  "page": 6,
+  "ref": "14:20-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_14_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_14_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "不要因为食物而毁坏　神的工作。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P006_F2",
+      "box": [
+        0.502,
+        0,
+        0.498,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "无论是吃肉、喝酒，或任何别的事，只要会使弟兄跌倒，都不做才好。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P006_F3",
+      "box": [
+        0,
+        0.304,
+        1,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "你有信心，就在　神面前持守。人在自己认为可以做的事上不责备自己，就有福了。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P006_F4",
+      "box": [
+        0,
+        0.5983,
+        1,
+        0.4017
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_14_P006_B001",
+      "panel": "ROMANS_14_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0249,
+        0.009,
+        0.4473,
+        0.078
+      ],
+      "tail": [
+        0.2486,
+        0.117
+      ],
+      "text_key": "romans.14.p6.b1"
+    },
+    {
+      "id": "ROMANS_14_P006_B002",
+      "panel": "ROMANS_14_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5219,
+        0.2221,
+        0.4581,
+        0.069
+      ],
+      "tail": [
+        0.751,
+        0.3001
+      ],
+      "text_key": "romans.14.p6.b2"
+    },
+    {
+      "id": "ROMANS_14_P006_B003",
+      "panel": "ROMANS_14_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3127,
+        0.44,
+        0.0522
+      ],
+      "tail": [
+        0.25,
+        0.3939
+      ],
+      "text_key": "romans.14.p6.b3"
+    }
+  ]
+}

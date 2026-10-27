@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_13_P001",
+  "book": "romans",
+  "chapter": 13,
+  "page": 1,
+  "ref": "13:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_13_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_13_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1751
+      ],
+      "alt": {
+        "zh-CN": "在上掌权的，人人都要服从他，因为没有权柄不是来自　神的。"
+      }
+    },
+    {
+      "id": "ROMANS_13_P001_F2",
+      "box": [
+        0,
+        0.179,
+        0.5869,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "执政的本来不是叫行善的害怕，而是叫作恶的害怕。"
+      }
+    },
+    {
+      "id": "ROMANS_13_P001_F3",
+      "box": [
+        0.5928,
+        0.179,
+        0.4072,
+        0.3177
+      ]
+    },
+    {
+      "id": "ROMANS_13_P001_F4",
+      "box": [
+        0,
+        0.5,
+        1,
+        0.5
+      ],
+      "alt": {
+        "zh-CN": "因为他是　神的仆役，是对你有益的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_13_P001_B001",
+      "panel": "ROMANS_13_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0088,
+        0.55,
+        0.07
+      ],
+      "tail": [
+        0.305,
+        0.0963
+      ],
+      "text_key": "romans.13.p1.b1"
+    },
+    {
+      "id": "ROMANS_13_P001_B002",
+      "panel": "ROMANS_13_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2935,
+        0.1885,
+        0.2758,
+        0.0889
+      ],
+      "tail": [
+        0.4314,
+        0.3092
+      ],
+      "text_key": "romans.13.p1.b2"
+    },
+    {
+      "id": "ROMANS_13_P001_B003",
+      "panel": "ROMANS_13_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.51,
+        0.42,
+        0.06
+      ],
+      "tail": [
+        0.24,
+        0.62
+      ],
+      "text_key": "romans.13.p1.b3"
+    }
+  ]
+}

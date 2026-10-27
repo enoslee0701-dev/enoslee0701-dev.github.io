@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_04_P004",
+  "book": "romans",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:13-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "因为　神应许亚伯拉罕和他的后裔要承受世界，不是借着律法，而是借着因信而得的义。"
+      }
+    },
+    {
+      "id": "ROMANS_04_P004_F2",
+      "box": [
+        0,
+        0.3001,
+        0.5029,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "……使应许确定归给所有的后裔；不只是归给那些守律法的，也归给那些跟随亚伯拉罕信心的人。"
+      }
+    },
+    {
+      "id": "ROMANS_04_P004_F3",
+      "box": [
+        0.5098,
+        0.3001,
+        0.4902,
+        0.6999
+      ],
+      "alt": {
+        "zh-CN": "……正如经上所写：「我已经立你作多国的父。」"
+      }
+    },
+    {
+      "id": "ROMANS_04_P004_F4",
+      "box": [
+        0,
+        0.6159,
+        0.5029,
+        0.3841
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_04_P004_B001",
+      "panel": "ROMANS_04_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0118,
+        0.45,
+        0.071
+      ],
+      "tail": [
+        0.745,
+        0.1124
+      ],
+      "text_key": "romans.4.p4.b1"
+    },
+    {
+      "id": "ROMANS_04_P004_B002",
+      "panel": "ROMANS_04_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0201,
+        0.5193,
+        0.4626,
+        0.0845
+      ],
+      "tail": [
+        0.2514,
+        0.6133
+      ],
+      "text_key": "romans.4.p4.b2"
+    },
+    {
+      "id": "ROMANS_04_P004_B003",
+      "panel": "ROMANS_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7549,
+        0.902,
+        0.2303,
+        0.0839
+      ],
+      "tail": [
+        0.8701,
+        1
+      ],
+      "text_key": "romans.4.p4.b3"
+    }
+  ]
+}

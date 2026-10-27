@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_05_P001",
+  "book": "romans",
+  "chapter": 5,
+  "page": 1,
+  "ref": "5:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_05_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_05_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3672
+      ],
+      "alt": {
+        "zh-CN": "既然我们因信被称为义，就借着我们的主耶稣基督与　神和好了。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P001_F2",
+      "box": [
+        0,
+        0.3717,
+        0.53,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "……并且欢喜地盼望　神的荣耀。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P001_F3",
+      "box": [
+        0.53,
+        0.3717,
+        0.47,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "不只这样，我们在患难中也欢喜；因为知道患难产生忍耐，忍耐产生老练，老练产生盼望；"
+      }
+    },
+    {
+      "id": "ROMANS_05_P001_F4",
+      "box": [
+        0,
+        0.6868,
+        1,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "盼望不会使人失望，因为　神借着所赐给我们的圣灵，把他的爱浇灌在我们心里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_05_P001_B001",
+      "panel": "ROMANS_05_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.011,
+        0.45,
+        0.0587
+      ],
+      "tail": [
+        0.745,
+        0.1064
+      ],
+      "text_key": "romans.5.p1.b1"
+    },
+    {
+      "id": "ROMANS_05_P001_B002",
+      "panel": "ROMANS_05_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0265,
+        0.6046,
+        0.477,
+        0.0683
+      ],
+      "tail": [
+        0.265,
+        0.6822
+      ],
+      "text_key": "romans.5.p1.b2"
+    },
+    {
+      "id": "ROMANS_05_P001_B003",
+      "panel": "ROMANS_05_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5535,
+        0.381,
+        0.423,
+        0.0403
+      ],
+      "tail": [
+        0.765,
+        0.4524
+      ],
+      "text_key": "romans.5.p1.b3"
+    },
+    {
+      "id": "ROMANS_05_P001_B004",
+      "panel": "ROMANS_05_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.7056,
+        0.31,
+        0.1879
+      ],
+      "tail": [
+        0.815,
+        0.9248
+      ],
+      "text_key": "romans.5.p1.b4"
+    }
+  ]
+}

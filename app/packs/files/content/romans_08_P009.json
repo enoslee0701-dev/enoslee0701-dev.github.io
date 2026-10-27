@@ -1,0 +1,106 @@
+{
+  "id": "ROMANS_08_P009",
+  "book": "romans",
+  "chapter": 8,
+  "page": 9,
+  "ref": "8:35-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3444
+      ],
+      "alt": {
+        "zh-CN": "谁能使我们和基督的爱分开呢？难道是患难吗？是困苦吗？是迫害吗？是饥饿吗？……"
+      }
+    },
+    {
+      "id": "ROMANS_08_P009_F2",
+      "box": [
+        0,
+        0.3503,
+        1,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "我们为你的缘故整天被杀；人把我们看作待宰的羊。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P009_F3",
+      "box": [
+        0,
+        0.709,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "然而，靠着爱我们的主，我们在这一切事上已经大大得胜了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P009_B001",
+      "panel": "ROMANS_08_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.0103,
+        0.44,
+        0.0826
+      ],
+      "tail": [
+        0.5,
+        0.1273
+      ],
+      "text_key": "romans.8.p9.b1"
+    },
+    {
+      "id": "ROMANS_08_P009_B002",
+      "panel": "ROMANS_08_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6256,
+        0.42,
+        0.0635
+      ],
+      "tail": null,
+      "text_key": "romans.8.p9.b2"
+    },
+    {
+      "id": "ROMANS_08_P009_B003",
+      "panel": "ROMANS_08_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.7206,
+        0.42,
+        0.064
+      ],
+      "tail": [
+        0.76,
+        0.8137
+      ],
+      "text_key": "romans.8.p9.b3"
+    }
+  ]
+}

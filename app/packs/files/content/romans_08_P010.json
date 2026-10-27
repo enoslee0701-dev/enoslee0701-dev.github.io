@@ -1,0 +1,88 @@
+{
+  "id": "ROMANS_08_P010",
+  "book": "romans",
+  "chapter": 8,
+  "page": 10,
+  "ref": "8:38-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4655
+      ],
+      "alt": {
+        "zh-CN": "因为我深信，无论是死、是生……是现在的事、是将来的事，是高处的、是低处的……"
+      }
+    },
+    {
+      "id": "ROMANS_08_P010_F2",
+      "box": [
+        0,
+        0.4694,
+        0.4727,
+        0.5306
+      ]
+    },
+    {
+      "id": "ROMANS_08_P010_F3",
+      "box": [
+        0.4814,
+        0.4694,
+        0.5186,
+        0.5306
+      ],
+      "alt": {
+        "zh-CN": "……都不能使我们与　神的爱隔绝；这爱是在我们的主基督耶稣里的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P010_B001",
+      "panel": "ROMANS_08_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.0093,
+        0.5,
+        0.0651
+      ],
+      "tail": [
+        0.5,
+        0.121
+      ],
+      "text_key": "romans.8.p10.b1"
+    },
+    {
+      "id": "ROMANS_08_P010_B002",
+      "panel": "ROMANS_08_P010_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7614,
+        0.48,
+        0.2281,
+        0.0955
+      ],
+      "tail": [
+        0.8755,
+        0.6286
+      ],
+      "text_key": "romans.8.p10.b2"
+    }
+  ]
+}

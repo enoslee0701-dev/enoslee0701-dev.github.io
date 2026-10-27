@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_05_P003",
+  "book": "romans",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "既然我们现在靠着他的血被称为义，就更要借着他免受　神的忿怒。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P003_F2",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "因为我们还是仇敌的时候，借着　神儿子的死与　神和好了；既然和好了，就更要因他的生命得救了。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P003_F3",
+      "box": [
+        0,
+        0.6693,
+        1,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "不只这样，我们既借着我们的主耶稣基督与　神和好了，也就借着他以　神为乐。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_05_P003_B001",
+      "panel": "ROMANS_05_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0149,
+        0.35,
+        0.1984
+      ],
+      "tail": [
+        0.795,
+        0.2381
+      ],
+      "text_key": "romans.5.p3.b1"
+    },
+    {
+      "id": "ROMANS_05_P003_B002",
+      "panel": "ROMANS_05_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2625,
+        0.47,
+        0.0625
+      ],
+      "tail": [
+        0.735,
+        0.3667
+      ],
+      "text_key": "romans.5.p3.b2"
+    },
+    {
+      "id": "ROMANS_05_P003_B003",
+      "panel": "ROMANS_05_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.6759,
+        0.36,
+        0.0396
+      ],
+      "tail": [
+        0.46,
+        0.7486
+      ],
+      "text_key": "romans.5.p3.b3"
+    }
+  ]
+}

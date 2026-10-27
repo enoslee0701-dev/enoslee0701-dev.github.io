@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_10_P005",
+  "book": "romans",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:18-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_10_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "……他们的声音传遍全地；他们的话语传到世界的尽头。"
+      }
+    },
+    {
+      "id": "ROMANS_10_P005_F2",
+      "box": [
+        0,
+        0.2643,
+        0.543,
+        0.3034
+      ],
+      "alt": {
+        "zh-CN": "没有寻找我的，我让他们找到；没有求问我的，我向他们显明。"
+      }
+    },
+    {
+      "id": "ROMANS_10_P005_F3",
+      "box": [
+        0.5479,
+        0.2643,
+        0.4521,
+        0.3034
+      ]
+    },
+    {
+      "id": "ROMANS_10_P005_F4",
+      "box": [
+        0,
+        0.571,
+        1,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "至于以色列人，他说：「我整天向那悖逆顶嘴的百姓伸出手来。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_10_P005_B001",
+      "panel": "ROMANS_10_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0078,
+        0.6,
+        0.0522
+      ],
+      "tail": [
+        0.33,
+        0.0861
+      ],
+      "text_key": "romans.10.p5.b1"
+    },
+    {
+      "id": "ROMANS_10_P005_B002",
+      "panel": "ROMANS_10_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0163,
+        0.4767,
+        0.2715,
+        0.0819
+      ],
+      "tail": [
+        0.1521,
+        0.5677
+      ],
+      "text_key": "romans.10.p5.b2"
+    },
+    {
+      "id": "ROMANS_10_P005_B003",
+      "panel": "ROMANS_10_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.9142,
+        0.55,
+        0.0643
+      ],
+      "tail": [
+        0.315,
+        1
+      ],
+      "text_key": "romans.10.p5.b3"
+    }
+  ]
+}

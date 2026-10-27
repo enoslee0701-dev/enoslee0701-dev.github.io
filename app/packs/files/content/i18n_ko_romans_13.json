@@ -1,0 +1,142 @@
+{
+  "romans.13.p1.b1": {
+    "text": "각 사람은 위에 있는 권세들에게 굴복하라 권세는 하나님께로 나지 않음이 없나니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p1.b2": {
+    "text": "관원들은 선한 일에 대하여 두려움이 되지 않고 악한 일에 대하여 되나니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p1.b3": {
+    "text": "그는 하나님의 사자가 되어 네게 선을 이루는 자니라 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p2.b1": {
+    "text": "너희가 공세를 바치는 것도 이를 인함이라 저희가 하나님의 일군이 되어 바로 이 일에 항상 힘쓰느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p2.b2": {
+    "text": "모든 자에게 줄 것을 주되 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p2.b3": {
+    "text": "… 공세를 받을 자에게 공세를 바치고 국세 받을 자에게 국세를 바치고 두려워할 자를 두려워하며 존경할 자를 존경하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b1": {
+    "text": "피차 사랑의 빚 외에는 아무에게든지 아무 빚도 지지 말라 남을 사랑하는 자는 율법을 다 이루었느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b2": {
+    "text": "간음하지 말라 살인하지 말라 도적질하지 말라 탐내지 말라 한 것과 그 외에 다른 계명이 있을지라도 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b3": {
+    "text": "… 네 이웃을 네 자신과 같이 사랑하라 하신 그 말씀 가운데 다 들었느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b4": {
+    "text": "사랑은 이웃에게 악을 행치 아니하나니 그러므로 사랑은 율법의 완성이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b1": {
+    "text": "또한 너희가 이 시기를 알거니와 자다가 깰 때가 벌써 되었으니 이는 이제 우리의 구원이 처음 믿을 때보다 가까왔음이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b2": {
+    "text": "밤이 깊고 낮이 가까왔으니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b3": {
+    "text": "낮에와 같이 단정히 행하고 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b4": {
+    "text": "오직 주 예수 그리스도로 옷입고 정욕을 위하여 육신의 일을 도모하지 말라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 13:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

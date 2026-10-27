@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_01_P009",
+  "book": "romans",
+  "chapter": 1,
+  "page": 9,
+  "ref": "1:29-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_01_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_01_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "充满了各样的不义、邪恶、贪婪、恶毒；满怀嫉妒、凶杀、纷争、诡诈、怨毒；"
+      }
+    },
+    {
+      "id": "ROMANS_01_P009_F2",
+      "box": [
+        0,
+        0.2591,
+        0.498,
+        0.3112
+      ]
+    },
+    {
+      "id": "ROMANS_01_P009_F3",
+      "box": [
+        0.5029,
+        0.2591,
+        0.4971,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "……忤逆父母、愚昧无知、背信弃义、没有亲情、没有怜悯。"
+      }
+    },
+    {
+      "id": "ROMANS_01_P009_F4",
+      "box": [
+        0,
+        0.5729,
+        1,
+        0.4271
+      ],
+      "alt": {
+        "zh-CN": "他们虽然知道　神判定做这些事的人是该死的，然而他们不但自己去做，还赞同别人去做。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_01_P009_B001",
+      "panel": "ROMANS_01_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0103,
+        0.45,
+        0.0564
+      ],
+      "tail": [
+        0.745,
+        0.0924
+      ],
+      "text_key": "romans.1.p9.b1"
+    },
+    {
+      "id": "ROMANS_01_P009_B002",
+      "panel": "ROMANS_01_P009_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5228,
+        0.2684,
+        0.4473,
+        0.0497
+      ],
+      "tail": [
+        0.7465,
+        0.3492
+      ],
+      "text_key": "romans.1.p9.b2"
+    },
+    {
+      "id": "ROMANS_01_P009_B003",
+      "panel": "ROMANS_01_P009_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5857,
+        0.45,
+        0.0726
+      ],
+      "tail": [
+        0.745,
+        0.701
+      ],
+      "text_key": "romans.1.p9.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_11_P005",
+  "book": "romans",
+  "chapter": 11,
+  "page": 5,
+  "ref": "11:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_11_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_11_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "可见，　神有恩慈也有严厉……对你是有恩慈的，只要你一直留在他的恩慈里；"
+      }
+    },
+    {
+      "id": "ROMANS_11_P005_F2",
+      "box": [
+        0,
+        0.2884,
+        0.5615,
+        0.2676
+      ]
+    },
+    {
+      "id": "ROMANS_11_P005_F3",
+      "box": [
+        0.5693,
+        0.2884,
+        0.4307,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "……因为　神能够把他们重新接上。"
+      }
+    },
+    {
+      "id": "ROMANS_11_P005_F4",
+      "box": [
+        0,
+        0.5605,
+        1,
+        0.4395
+      ],
+      "alt": {
+        "zh-CN": "……何况这些本来就是这棵树的枝子，要接回自己的树上呢！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_11_P005_B001",
+      "panel": "ROMANS_11_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0085,
+        0.26,
+        0.0679
+      ],
+      "tail": [
+        0.15,
+        0.1047
+      ],
+      "text_key": "romans.11.p5.b1"
+    },
+    {
+      "id": "ROMANS_11_P005_B002",
+      "panel": "ROMANS_11_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5865,
+        0.2938,
+        0.3962,
+        0.0428
+      ],
+      "tail": [
+        0.7846,
+        0.3634
+      ],
+      "text_key": "romans.11.p5.b2"
+    },
+    {
+      "id": "ROMANS_11_P005_B003",
+      "panel": "ROMANS_11_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.5649,
+        0.56,
+        0.0263
+      ],
+      "tail": [
+        0.7,
+        0.6352
+      ],
+      "text_key": "romans.11.p5.b3"
+    }
+  ]
+}

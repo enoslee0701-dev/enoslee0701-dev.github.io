@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_09_P007",
+  "book": "romans",
+  "chapter": 9,
+  "page": 7,
+  "ref": "9:30-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_09_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_09_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3672
+      ],
+      "alt": {
+        "zh-CN": "这样，我们要说什么呢？那本来不追求义的外邦人反而得到了义，就是因信而来的义。"
+      }
+    },
+    {
+      "id": "ROMANS_09_P007_F2",
+      "box": [
+        0,
+        0.3711,
+        0.4287,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "他们正是绊倒在那块绊脚石上。"
+      }
+    },
+    {
+      "id": "ROMANS_09_P007_F3",
+      "box": [
+        0.4355,
+        0.3711,
+        0.5645,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "我在锡安放了一块绊脚的石头、使人跌倒的磐石；"
+      }
+    },
+    {
+      "id": "ROMANS_09_P007_F4",
+      "box": [
+        0,
+        0.6029,
+        1,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "信靠他的人必不会蒙羞。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_09_P007_B001",
+      "panel": "ROMANS_09_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.011,
+        0.4,
+        0.066
+      ],
+      "tail": [
+        0.5,
+        0.1137
+      ],
+      "text_key": "romans.9.p7.b1"
+    },
+    {
+      "id": "ROMANS_09_P007_B002",
+      "panel": "ROMANS_09_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2915,
+        0.3757,
+        0.1286,
+        0.0365
+      ],
+      "tail": [
+        0.3558,
+        0.435
+      ],
+      "text_key": "romans.9.p7.b2"
+    },
+    {
+      "id": "ROMANS_09_P007_B003",
+      "panel": "ROMANS_09_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7178,
+        0.3802,
+        0.2596,
+        0.0457
+      ],
+      "tail": [
+        0.8476,
+        0.4488
+      ],
+      "text_key": "romans.9.p7.b3"
+    },
+    {
+      "id": "ROMANS_09_P007_B004",
+      "panel": "ROMANS_09_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6148,
+        0.25,
+        0.0873
+      ],
+      "tail": [
+        0.145,
+        0.7418
+      ],
+      "text_key": "romans.9.p7.b4"
+    }
+  ]
+}

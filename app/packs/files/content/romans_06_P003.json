@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_06_P003",
+  "book": "romans",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "所以，不要让罪在你们必死的身体上掌权，使你们顺从身体的私欲。"
+      }
+    },
+    {
+      "id": "ROMANS_06_P003_F2",
+      "box": [
+        0,
+        0.2389,
+        1,
+        0.4408
+      ],
+      "alt": {
+        "zh-CN": "……倒要像从死里复活的人一样，把自己献给　神，并且把肢体作为义的工具献给　神。"
+      }
+    },
+    {
+      "id": "ROMANS_06_P003_F3",
+      "box": [
+        0,
+        0.6823,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "罪必不能管辖你们，因为你们不是在律法之下，而是在恩典之下。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_06_P003_B001",
+      "panel": "ROMANS_06_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.0141,
+        0.31,
+        0.188
+      ],
+      "tail": [
+        0.815,
+        0.2256
+      ],
+      "text_key": "romans.6.p3.b1"
+    },
+    {
+      "id": "ROMANS_06_P003_B002",
+      "panel": "ROMANS_06_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.2477,
+        0.36,
+        0.0573
+      ],
+      "tail": [
+        0.46,
+        0.3491
+      ],
+      "text_key": "romans.6.p3.b2"
+    },
+    {
+      "id": "ROMANS_06_P003_B003",
+      "panel": "ROMANS_06_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.6918,
+        0.36,
+        0.0444
+      ],
+      "tail": [
+        0.4,
+        0.768
+      ],
+      "text_key": "romans.6.p3.b3"
+    }
+  ]
+}

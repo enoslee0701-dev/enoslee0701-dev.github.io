@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_04_P006",
+  "book": "romans",
+  "chapter": 4,
+  "page": 6,
+  "ref": "4:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_04_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_04_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2174
+      ],
+      "alt": {
+        "zh-CN": "「算为他的义」这句话不只是为他写的，"
+      }
+    },
+    {
+      "id": "ROMANS_04_P006_F2",
+      "box": [
+        0,
+        0.2201,
+        1,
+        0.4831
+      ],
+      "alt": {
+        "zh-CN": "也是为我们这些将要被算为义的人写的，就是我们这些相信那使我们的主耶稣从死人中复活的　神的人。"
+      }
+    },
+    {
+      "id": "ROMANS_04_P006_F3",
+      "box": [
+        0,
+        0.7064,
+        0.4287,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "耶稣被交出去，是为了我们的过犯；他复活，是为了使我们称义。"
+      }
+    },
+    {
+      "id": "ROMANS_04_P006_F4",
+      "box": [
+        0.4346,
+        0.7064,
+        0.5654,
+        0.2936
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_04_P006_B001",
+      "panel": "ROMANS_04_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0087,
+        0.47,
+        0.0565
+      ],
+      "tail": [
+        0.735,
+        0.0869
+      ],
+      "text_key": "romans.4.p6.b1"
+    },
+    {
+      "id": "ROMANS_04_P006_B002",
+      "panel": "ROMANS_04_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2346,
+        0.46,
+        0.0772
+      ],
+      "tail": [
+        0.26,
+        0.3601
+      ],
+      "text_key": "romans.4.p6.b2"
+    },
+    {
+      "id": "ROMANS_04_P006_B003",
+      "panel": "ROMANS_04_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0171,
+        0.9178,
+        0.3944,
+        0.0734
+      ],
+      "tail": [
+        0.2143,
+        1
+      ],
+      "text_key": "romans.4.p6.b3"
+    }
+  ]
+}

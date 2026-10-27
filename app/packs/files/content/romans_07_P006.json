@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_07_P006",
+  "book": "romans",
+  "chapter": 7,
+  "page": 6,
+  "ref": "7:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_07_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_07_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "我真是苦啊！谁能救我脱离这使我死亡的身体呢？"
+      }
+    },
+    {
+      "id": "ROMANS_07_P006_F2",
+      "box": [
+        0,
+        0.3926,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "感谢　神，靠着我们的主耶稣基督就能脱离了。"
+      }
+    },
+    {
+      "id": "ROMANS_07_P006_F3",
+      "box": [
+        0,
+        0.6432,
+        0.4971,
+        0.3568
+      ]
+    },
+    {
+      "id": "ROMANS_07_P006_F4",
+      "box": [
+        0.5029,
+        0.6432,
+        0.4971,
+        0.3568
+      ],
+      "alt": {
+        "zh-CN": "这样看来，我内心顺服　神的律，肉体却顺服罪的律。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_07_P006_B001",
+      "panel": "ROMANS_07_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.3,
+        0.0117,
+        0.4,
+        0.0583
+      ],
+      "tail": [
+        0.5,
+        0.1089
+      ],
+      "text_key": "romans.7.p6.b1"
+    },
+    {
+      "id": "ROMANS_07_P006_B002",
+      "panel": "ROMANS_07_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.4025,
+        0.42,
+        0.0593
+      ],
+      "tail": [
+        0.76,
+        0.4865
+      ],
+      "text_key": "romans.7.p6.b2"
+    },
+    {
+      "id": "ROMANS_07_P006_B003",
+      "panel": "ROMANS_07_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5228,
+        0.6503,
+        0.4473,
+        0.0321
+      ],
+      "tail": [
+        0.7465,
+        0.7181
+      ],
+      "text_key": "romans.7.p6.b3"
+    }
+  ]
+}

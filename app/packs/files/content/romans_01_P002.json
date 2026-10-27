@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_01_P002",
+  "book": "romans",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:2-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "这福音是　神从前借着众先知在圣经里所应许的，"
+      }
+    },
+    {
+      "id": "ROMANS_01_P002_F2",
+      "box": [
+        0,
+        0.2819,
+        0.498,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "是关于他的儿子——我们的主耶稣基督。"
+      }
+    },
+    {
+      "id": "ROMANS_01_P002_F3",
+      "box": [
+        0.5029,
+        0.2819,
+        0.4971,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "……在万国中使人因他的名信服真道；你们也在其中，是蒙召属于耶稣基督的人。"
+      }
+    },
+    {
+      "id": "ROMANS_01_P002_F4",
+      "box": [
+        0,
+        0.6074,
+        1,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "我写信给在罗马、为　神所爱、蒙召作圣徒的众人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_01_P002_B001",
+      "panel": "ROMANS_01_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0084,
+        0.48,
+        0.0474
+      ],
+      "tail": [
+        0.64,
+        0.0837
+      ],
+      "text_key": "romans.1.p2.b1"
+    },
+    {
+      "id": "ROMANS_01_P002_B002",
+      "panel": "ROMANS_01_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.5402,
+        0.4482,
+        0.0516
+      ],
+      "tail": [
+        0.244,
+        0.6048
+      ],
+      "text_key": "romans.1.p2.b2"
+    },
+    {
+      "id": "ROMANS_01_P002_B003",
+      "panel": "ROMANS_01_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5278,
+        0.2916,
+        0.4473,
+        0.0645
+      ],
+      "tail": [
+        0.7515,
+        0.3884
+      ],
+      "text_key": "romans.1.p2.b3"
+    },
+    {
+      "id": "ROMANS_01_P002_B004",
+      "panel": "ROMANS_01_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.6192,
+        0.48,
+        0.0588
+      ],
+      "tail": [
+        0.64,
+        0.7173
+      ],
+      "text_key": "romans.1.p2.b4"
+    }
+  ]
+}

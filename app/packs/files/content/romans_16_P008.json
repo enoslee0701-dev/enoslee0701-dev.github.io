@@ -1,0 +1,97 @@
+{
+  "id": "ROMANS_16_P008",
+  "book": "romans",
+  "chapter": 16,
+  "page": 8,
+  "ref": "16:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_16_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_16_P008_F1",
+      "box": [
+        0,
+        0,
+        0.543,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "接待我、也接待全教会的该犹问候你们。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P008_F2",
+      "box": [
+        0.5518,
+        0,
+        0.4482,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "城里的司库以拉都和弟兄括土问候你们。"
+      }
+    },
+    {
+      "id": "ROMANS_16_P008_F3",
+      "box": [
+        0,
+        0.2917,
+        1,
+        0.1725
+      ]
+    },
+    {
+      "id": "ROMANS_16_P008_F4",
+      "box": [
+        0,
+        0.4674,
+        1,
+        0.5326
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_16_P008_B001",
+      "panel": "ROMANS_16_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0163,
+        0.0086,
+        0.2986,
+        0.0489
+      ],
+      "tail": [
+        0.1656,
+        0.0863
+      ],
+      "text_key": "romans.16.p8.b1"
+    },
+    {
+      "id": "ROMANS_16_P008_B002",
+      "panel": "ROMANS_16_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5742,
+        0.2245,
+        0.4033,
+        0.0518
+      ],
+      "tail": [
+        0.7759,
+        0.2878
+      ],
+      "text_key": "romans.16.p8.b2"
+    }
+  ]
+}

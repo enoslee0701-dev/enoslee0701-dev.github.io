@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_09_P004",
+  "book": "romans",
+  "chapter": 9,
+  "page": 4,
+  "ref": "9:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_09_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_09_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5488,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "这样，你一定会对我说：「他为什么还责怪人呢？有谁能抗拒他的旨意呢？」"
+      }
+    },
+    {
+      "id": "ROMANS_09_P004_F2",
+      "box": [
+        0.5557,
+        0,
+        0.4443,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "被造的怎能对造他的说：「你为什么把我造成这样？」"
+      }
+    },
+    {
+      "id": "ROMANS_09_P004_F3",
+      "box": [
+        0,
+        0.3451,
+        1,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "陶匠难道没有权柄，从同一团泥里拿一块做成贵重的器皿，又拿一块做成普通的器皿吗？"
+      }
+    },
+    {
+      "id": "ROMANS_09_P004_F4",
+      "box": [
+        0,
+        0.6973,
+        1,
+        0.3027
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_09_P004_B001",
+      "panel": "ROMANS_09_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0165,
+        0.0103,
+        0.2414,
+        0.0684
+      ],
+      "tail": [
+        0.1372,
+        0.1129
+      ],
+      "text_key": "romans.9.p4.b1"
+    },
+    {
+      "id": "ROMANS_09_P004_B002",
+      "panel": "ROMANS_09_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5824,
+        0.0068,
+        0.3909,
+        0.0753
+      ],
+      "tail": [
+        0.7779,
+        0.1163
+      ],
+      "text_key": "romans.9.p4.b2"
+    },
+    {
+      "id": "ROMANS_09_P004_B003",
+      "panel": "ROMANS_09_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.3556,
+        0.46,
+        0.0558
+      ],
+      "tail": [
+        0.27,
+        0.4463
+      ],
+      "text_key": "romans.9.p4.b3"
+    }
+  ]
+}

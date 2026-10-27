@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_06_P002",
+  "book": "romans",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:5-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3216
+      ],
+      "alt": {
+        "zh-CN": "我们如果在他死的样式上与他联合，也要在他复活的样式上与他联合；"
+      }
+    },
+    {
+      "id": "ROMANS_06_P002_F2",
+      "box": [
+        0,
+        0.3242,
+        0.5049,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "因为我们知道，我们的旧人和他一同被钉十字架，使罪的身体失去作用，叫我们不再作罪的奴隶；"
+      }
+    },
+    {
+      "id": "ROMANS_06_P002_F3",
+      "box": [
+        0.5127,
+        0.3242,
+        0.4873,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "因为我们知道，基督既然从死里复活，就不再死，死也不再管辖他了。"
+      }
+    },
+    {
+      "id": "ROMANS_06_P002_F4",
+      "box": [
+        0,
+        0.5911,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "这样，你们也要看自己向罪是死的，在基督耶稣里向　神却是活的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_06_P002_B001",
+      "panel": "ROMANS_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0096,
+        0.45,
+        0.0643
+      ],
+      "tail": [
+        0.255,
+        0.1061
+      ],
+      "text_key": "romans.6.p2.b1"
+    },
+    {
+      "id": "ROMANS_06_P002_B002",
+      "panel": "ROMANS_06_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0252,
+        0.5246,
+        0.4544,
+        0.0553
+      ],
+      "tail": [
+        0.2524,
+        0.5879
+      ],
+      "text_key": "romans.6.p2.b2"
+    },
+    {
+      "id": "ROMANS_06_P002_B003",
+      "panel": "ROMANS_06_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.732,
+        0.3321,
+        0.2533,
+        0.0474
+      ],
+      "tail": [
+        0.8587,
+        0.4059
+      ],
+      "text_key": "romans.6.p2.b3"
+    },
+    {
+      "id": "ROMANS_06_P002_B004",
+      "panel": "ROMANS_06_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.5993,
+        0.38,
+        0.0531
+      ],
+      "tail": [
+        0.39,
+        0.6933
+      ],
+      "text_key": "romans.6.p2.b4"
+    }
+  ]
+}

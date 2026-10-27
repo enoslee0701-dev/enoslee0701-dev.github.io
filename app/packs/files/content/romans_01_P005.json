@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_01_P005",
+  "book": "romans",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1771
+      ]
+    },
+    {
+      "id": "ROMANS_01_P005_F2",
+      "box": [
+        0,
+        0.181,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "我不以福音为耻；这福音是　神的大能，要拯救一切相信的人，"
+      }
+    },
+    {
+      "id": "ROMANS_01_P005_F3",
+      "box": [
+        0,
+        0.6074,
+        0.498,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "……先是犹太人，然后是希腊人。"
+      }
+    },
+    {
+      "id": "ROMANS_01_P005_F4",
+      "box": [
+        0.5049,
+        0.6074,
+        0.4951,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "……正如经上所记：「义人必因信而活。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_01_P005_B001",
+      "panel": "ROMANS_01_P005_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.1937,
+        0.43,
+        0.0678
+      ],
+      "tail": [
+        0.765,
+        0.3039
+      ],
+      "text_key": "romans.1.p5.b1"
+    },
+    {
+      "id": "ROMANS_01_P005_B002",
+      "panel": "ROMANS_01_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6153,
+        0.4482,
+        0.0392
+      ],
+      "tail": [
+        0.244,
+        0.6938
+      ],
+      "text_key": "romans.1.p5.b2"
+    },
+    {
+      "id": "ROMANS_01_P005_B003",
+      "panel": "ROMANS_01_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5247,
+        0.9058,
+        0.4455,
+        0.0785
+      ],
+      "tail": [
+        0.7475,
+        1
+      ],
+      "text_key": "romans.1.p5.b3"
+    }
+  ]
+}

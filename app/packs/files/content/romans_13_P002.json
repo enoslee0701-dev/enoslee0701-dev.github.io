@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_13_P002",
+  "book": "romans",
+  "chapter": 13,
+  "page": 2,
+  "ref": "13:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_13_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_13_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "你们纳税也是为了这个缘故；因为他们是　神的仆役，专门管理这事。"
+      }
+    },
+    {
+      "id": "ROMANS_13_P002_F2",
+      "box": [
+        0,
+        0.2331,
+        0.4619,
+        0.2728
+      ]
+    },
+    {
+      "id": "ROMANS_13_P002_F3",
+      "box": [
+        0.4668,
+        0.2331,
+        0.5332,
+        0.2728
+      ],
+      "alt": {
+        "zh-CN": "凡人所应得的，就给他。"
+      }
+    },
+    {
+      "id": "ROMANS_13_P002_F4",
+      "box": [
+        0,
+        0.5085,
+        1,
+        0.4915
+      ],
+      "alt": {
+        "zh-CN": "应该纳粮的，就给他纳粮；应该上税的，就给他上税；应该敬畏的，就敬畏他；应该尊敬的，就尊敬他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_13_P002_B001",
+      "panel": "ROMANS_13_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0092,
+        0.5,
+        0.0691
+      ],
+      "tail": [
+        0.28,
+        0.1014
+      ],
+      "text_key": "romans.13.p2.b1"
+    },
+    {
+      "id": "ROMANS_13_P002_B002",
+      "panel": "ROMANS_13_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7227,
+        0.2413,
+        0.2612,
+        0.0709
+      ],
+      "tail": [
+        0.8533,
+        0.3395
+      ],
+      "text_key": "romans.13.p2.b2"
+    },
+    {
+      "id": "ROMANS_13_P002_B003",
+      "panel": "ROMANS_13_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.35,
+        0.5232,
+        0.32,
+        0.0737
+      ],
+      "tail": [
+        0.51,
+        0.6461
+      ],
+      "text_key": "romans.13.p2.b3"
+    }
+  ]
+}

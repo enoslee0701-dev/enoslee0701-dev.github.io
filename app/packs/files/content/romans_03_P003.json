@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_03_P003",
+  "book": "romans",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:9-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "……因为我们已经指出：犹太人和希腊人都在罪的权势之下。"
+      }
+    },
+    {
+      "id": "ROMANS_03_P003_F2",
+      "box": [
+        0,
+        0.2298,
+        1,
+        0.4012
+      ],
+      "alt": {
+        "zh-CN": "正如圣经所写的：没有义人，连一个也没有。"
+      }
+    },
+    {
+      "id": "ROMANS_03_P003_F3",
+      "box": [
+        0,
+        0.6358,
+        0.4961,
+        0.3642
+      ],
+      "alt": {
+        "zh-CN": "人人都偏离正路，一起变得毫无用处。没有行善的，连一个也没有。"
+      }
+    },
+    {
+      "id": "ROMANS_03_P003_F4",
+      "box": [
+        0.5039,
+        0.6358,
+        0.4961,
+        0.3642
+      ],
+      "alt": {
+        "zh-CN": "他们眼中没有敬畏　神的心。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_03_P003_B001",
+      "panel": "ROMANS_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0068,
+        0.4,
+        0.0499
+      ],
+      "tail": [
+        0.5,
+        0.0794
+      ],
+      "text_key": "romans.3.p3.b1"
+    },
+    {
+      "id": "ROMANS_03_P003_B002",
+      "panel": "ROMANS_03_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2378,
+        0.47,
+        0.0521
+      ],
+      "tail": [
+        0.735,
+        0.33
+      ],
+      "text_key": "romans.3.p3.b2"
+    },
+    {
+      "id": "ROMANS_03_P003_B003",
+      "panel": "ROMANS_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0248,
+        0.6467,
+        0.4464,
+        0.0801
+      ],
+      "tail": [
+        0.248,
+        0.7632
+      ],
+      "text_key": "romans.3.p3.b3"
+    },
+    {
+      "id": "ROMANS_03_P003_B004",
+      "panel": "ROMANS_03_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5188,
+        0.9199,
+        0.2232,
+        0.0691
+      ],
+      "tail": [
+        0.6304,
+        1
+      ],
+      "text_key": "romans.3.p3.b4"
+    }
+  ]
+}

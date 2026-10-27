@@ -1,0 +1,242 @@
+{
+  "romans.2.p1.b1": {
+    "text": "그러므로 남을 판단하는 사람아 무론 누구든지 네가 핑계치 못할 것은 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p1.b2": {
+    "text": "… 남을 판단하는 것으로 네가 너를 정죄함이니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p1.b3": {
+    "text": "이런 일을 행하는 자를 판단하고도 같은 일을 행하는 사람아 네가 하나님의 판단을 피할 줄로 생각하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p1.b4": {
+    "text": "혹 네가 하나님의 인자하심이 너를 인도하여 회개케 하심을 알지 못하여 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p2.b1": {
+    "text": "하나님께서 각 사람에게 그 행한대로 보응하시되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p2.b2": {
+    "text": "선을 행하는 각 사람에게는 영광과 존귀와 평강이 있으리니 첫째는 유대인에게요 또한 헬라인에게라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p2.b3": {
+    "text": "이는 하나님께서 외모로 사람을 취하지 아니하심이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p3.b1": {
+    "text": "하나님 앞에서는 율법을 듣는 자가 의인이 아니요 오직 율법을 행하는 자라야 의롭다 하심을 얻으리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p3.b2": {
+    "text": "율법 없는 이방인이 본성으로 율법의 일을 행할 때는 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p3.b3": {
+    "text": "… 그 마음에 새긴 율법의 행위를 나타내느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p3.b4": {
+    "text": "곧 내 복음에 이른 바와 같이 하나님이 예수 그리스도로 말미암아 사람들의 은밀한 것을 심판하시는 그날이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p4.b1": {
+    "text": "유대인이라 칭하는 네가 율법을 의지하며 하나님을 자랑하며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p4.b2": {
+    "text": "… 소경의 길을 인도하는 자요 어두움에 있는 자의 빛이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p4.b3": {
+    "text": "… 율법에 있는 지식과 진리의 규모를 가진 자로서 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p5.b1": {
+    "text": "그러면 다른 사람을 가르치는 네가 네 자신을 가르치지 아니하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p5.b2": {
+    "text": "도적질 말라 반포하는 네가 도적질 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p5.b3": {
+    "text": "율법을 자랑하는 네가 율법을 범함으로 하나님을 욕되게 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p5.b4": {
+    "text": "… 하나님의 이름이 너희로 인하여 이방인 중에서 모독을 받는도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p6.b1": {
+    "text": "네가 율법을 행한즉 할례가 유익하나 만일 율법을 범한즉 네 할례가 무할례가 되었느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p6.b2": {
+    "text": "그런즉 무할례자가 율법의 제도를 지키면 그 무할례를 할례와 같이 여길것이 아니냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p6.b3": {
+    "text": "… 의문과 할례를 가지고 율법을 범하는 너를 판단치 아니하겠느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p7.b1": {
+    "text": "대저 표면적 유대인이 유대인이 아니요 표면적 육신의 할례가 할례가 아니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p7.b2": {
+    "text": "오직 이면적 유대인이 유대인이며 할례는 마음에 할찌니 신령에 있고 의문에 있지 아니한 것이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.2.p7.b3": {
+    "text": "그 칭찬이 사람에게서가 아니요 다만 하나님에게서니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Romans 2:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

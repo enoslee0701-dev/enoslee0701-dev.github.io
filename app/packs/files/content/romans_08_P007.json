@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_08_P007",
+  "book": "romans",
+  "chapter": 8,
+  "page": 7,
+  "ref": "8:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4349
+      ],
+      "alt": {
+        "zh-CN": "我们知道，万事都互相配合，使爱　神的人得益处，就是按他旨意被呼召的人。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P007_F2",
+      "box": [
+        0,
+        0.4375,
+        1,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "……使他的儿子在许多弟兄中作长子。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P007_F3",
+      "box": [
+        0,
+        0.6758,
+        1,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "他预先定下的人，又呼召他们；呼召的人，又称他们为义；称为义的人，又使他们得荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P007_B001",
+      "panel": "ROMANS_08_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.013,
+        0.45,
+        0.0652
+      ],
+      "tail": [
+        0.745,
+        0.1217
+      ],
+      "text_key": "romans.8.p7.b1"
+    },
+    {
+      "id": "ROMANS_08_P007_B002",
+      "panel": "ROMANS_08_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.4446,
+        0.4,
+        0.0424
+      ],
+      "tail": [
+        0.5,
+        0.5106
+      ],
+      "text_key": "romans.8.p7.b2"
+    },
+    {
+      "id": "ROMANS_08_P007_B003",
+      "panel": "ROMANS_08_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6888,
+        0.42,
+        0.0778
+      ],
+      "tail": [
+        0.76,
+        0.799
+      ],
+      "text_key": "romans.8.p7.b3"
+    }
+  ]
+}

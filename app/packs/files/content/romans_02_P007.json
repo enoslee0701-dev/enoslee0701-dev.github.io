@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_02_P007",
+  "book": "romans",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:28-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_02_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_02_P007_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "因为外表是犹太人的，并不是真犹太人；外表肉身上的割礼，也不是真割礼。"
+      }
+    },
+    {
+      "id": "ROMANS_02_P007_F2",
+      "box": [
+        0.5068,
+        0,
+        0.4932,
+        0.2878
+      ]
+    },
+    {
+      "id": "ROMANS_02_P007_F3",
+      "box": [
+        0,
+        0.2917,
+        1,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "只有内心作犹太人的，才是真犹太人；真割礼也是心里的，是靠着圣灵，不是靠着律法条文。"
+      }
+    },
+    {
+      "id": "ROMANS_02_P007_F4",
+      "box": [
+        0,
+        0.6973,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "这样的人所得的称赞不是从人来的，而是从　神来的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_02_P007_B001",
+      "panel": "ROMANS_02_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2994,
+        0.0086,
+        0.1896,
+        0.0748
+      ],
+      "tail": [
+        0.3942,
+        0.1122
+      ],
+      "text_key": "romans.2.p7.b1"
+    },
+    {
+      "id": "ROMANS_02_P007_B002",
+      "panel": "ROMANS_02_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.3078,
+        0.37,
+        0.0964
+      ],
+      "tail": [
+        0.785,
+        0.4444
+      ],
+      "text_key": "romans.2.p7.b2"
+    },
+    {
+      "id": "ROMANS_02_P007_B003",
+      "panel": "ROMANS_02_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7094,
+        0.32,
+        0.0665
+      ],
+      "tail": [
+        0.19,
+        0.8062
+      ],
+      "text_key": "romans.2.p7.b3"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_12_P004",
+  "book": "romans",
+  "chapter": 12,
+  "page": 4,
+  "ref": "12:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_12_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_12_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "爱人不可虚假。恶的要厌恶，善的要亲近。"
+      }
+    },
+    {
+      "id": "ROMANS_12_P004_F2",
+      "box": [
+        0,
+        0.2591,
+        0.5107,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "爱弟兄要彼此亲热；恭敬人要彼此推让。"
+      }
+    },
+    {
+      "id": "ROMANS_12_P004_F3",
+      "box": [
+        0.5166,
+        0.2591,
+        0.4834,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "在盼望中要喜乐，在患难中要忍耐，祷告要恒切。"
+      }
+    },
+    {
+      "id": "ROMANS_12_P004_F4",
+      "box": [
+        0,
+        0.515,
+        1,
+        0.485
+      ],
+      "alt": {
+        "zh-CN": "圣徒缺乏要帮补；对客人要热心款待。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_12_P004_B001",
+      "panel": "ROMANS_12_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.0077,
+        0.27,
+        0.0561
+      ],
+      "tail": [
+        0.835,
+        0.0893
+      ],
+      "text_key": "romans.12.p4.b1"
+    },
+    {
+      "id": "ROMANS_12_P004_B002",
+      "panel": "ROMANS_12_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0204,
+        0.2667,
+        0.4698,
+        0.0378
+      ],
+      "tail": [
+        0.2553,
+        0.3298
+      ],
+      "text_key": "romans.12.p4.b2"
+    },
+    {
+      "id": "ROMANS_12_P004_B003",
+      "panel": "ROMANS_12_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5359,
+        0.4612,
+        0.4447,
+        0.0454
+      ],
+      "tail": [
+        0.7583,
+        0.5117
+      ],
+      "text_key": "romans.12.p4.b3"
+    },
+    {
+      "id": "ROMANS_12_P004_B004",
+      "panel": "ROMANS_12_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.76,
+        0.5247,
+        0.22,
+        0.0873
+      ],
+      "tail": [
+        0.87,
+        0.6605
+      ],
+      "text_key": "romans.12.p4.b4"
+    }
+  ]
+}

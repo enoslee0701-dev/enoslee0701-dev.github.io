@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_08_P003",
+  "book": "romans",
+  "chapter": 8,
+  "page": 3,
+  "ref": "8:12-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.279
+      ],
+      "alt": {
+        "zh-CN": "因为凡被　神的灵引导的，都是　神的儿子。"
+      }
+    },
+    {
+      "id": "ROMANS_08_P003_F2",
+      "box": [
+        0,
+        0.285,
+        0.369,
+        0.44
+      ],
+      "alt": {
+        "zh-CN": "你们所领受的，不是奴仆的心，让你们仍旧害怕；你们所领受的，是儿子的心，因此我们呼叫："
+      }
+    },
+    {
+      "id": "ROMANS_08_P003_F3",
+      "box": [
+        0.376,
+        0.285,
+        0.624,
+        0.452
+      ],
+      "alt": {
+        "zh-CN": "阿爸！父！"
+      }
+    },
+    {
+      "id": "ROMANS_08_P003_F4",
+      "box": [
+        0,
+        0.7275,
+        1,
+        0.2725
+      ],
+      "alt": {
+        "zh-CN": "既然是儿女，就是后嗣，就是　神的后嗣，和基督一同作后嗣。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P003_B001",
+      "panel": "ROMANS_08_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.0056,
+        0.44,
+        0.0418
+      ],
+      "tail": [
+        0.5,
+        0.0753
+      ],
+      "text_key": "romans.8.p3.b1"
+    },
+    {
+      "id": "ROMANS_08_P003_B002",
+      "panel": "ROMANS_08_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0185,
+        0.6018,
+        0.3321,
+        0.11
+      ],
+      "tail": [
+        0.1846,
+        0.725
+      ],
+      "text_key": "romans.8.p3.b2"
+    },
+    {
+      "id": "ROMANS_08_P003_B003",
+      "panel": "ROMANS_08_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.5819,
+        0.2895,
+        0.1372,
+        0.0406
+      ],
+      "tail": [
+        0.6505,
+        0.3753
+      ],
+      "text_key": "romans.8.p3.b3"
+    },
+    {
+      "id": "ROMANS_08_P003_B004",
+      "panel": "ROMANS_08_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7357,
+        0.48,
+        0.0408
+      ],
+      "tail": [
+        0.27,
+        0.8038
+      ],
+      "text_key": "romans.8.p3.b4"
+    }
+  ]
+}

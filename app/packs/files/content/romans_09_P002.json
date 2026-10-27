@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_09_P002",
+  "book": "romans",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:4-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.39
+      ],
+      "alt": {
+        "zh-CN": "他们是以色列人；儿子的名分、荣耀、诸约、律法、敬拜的礼仪、应许，都属于他们。"
+      }
+    },
+    {
+      "id": "ROMANS_09_P002_F2",
+      "box": [
+        0,
+        0.3945,
+        0.5664,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "这并不是说　神的话落空了。"
+      }
+    },
+    {
+      "id": "ROMANS_09_P002_F3",
+      "box": [
+        0.5732,
+        0.3945,
+        0.4268,
+        0.278
+      ]
+    },
+    {
+      "id": "ROMANS_09_P002_F4",
+      "box": [
+        0,
+        0.6764,
+        1,
+        0.3236
+      ],
+      "alt": {
+        "zh-CN": "这就是说，肉身生的儿女不是　神的儿女，只有应许的儿女才算是后裔。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_09_P002_B001",
+      "panel": "ROMANS_09_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0117,
+        0.42,
+        0.0585
+      ],
+      "tail": [
+        0.76,
+        0.1092
+      ],
+      "text_key": "romans.9.p2.b1"
+    },
+    {
+      "id": "ROMANS_09_P002_B002",
+      "panel": "ROMANS_09_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1359,
+        0.4028,
+        0.2945,
+        0.05
+      ],
+      "tail": [
+        0.2832,
+        0.4806
+      ],
+      "text_key": "romans.9.p2.b2"
+    },
+    {
+      "id": "ROMANS_09_P002_B003",
+      "panel": "ROMANS_09_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.6829,
+        0.41,
+        0.0453
+      ],
+      "tail": [
+        0.775,
+        0.7606
+      ],
+      "text_key": "romans.9.p2.b3"
+    }
+  ]
+}

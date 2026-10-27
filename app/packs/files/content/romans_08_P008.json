@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_08_P008",
+  "book": "romans",
+  "chapter": 8,
+  "page": 8,
+  "ref": "8:31-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_08_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_08_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4108
+      ],
+      "alt": {
+        "zh-CN": "神若帮助我们，谁能抵挡我们呢？"
+      }
+    },
+    {
+      "id": "ROMANS_08_P008_F2",
+      "box": [
+        0,
+        0.4147,
+        0.5244,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "谁能控告　神所拣选的人呢？"
+      }
+    },
+    {
+      "id": "ROMANS_08_P008_F3",
+      "box": [
+        0.5313,
+        0.4147,
+        0.4687,
+        0.2676
+      ]
+    },
+    {
+      "id": "ROMANS_08_P008_F4",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "谁能定他们的罪呢？基督耶稣已经死了，而且复活了，现在在　神的右边，也为我们祈求。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_08_P008_B001",
+      "panel": "ROMANS_08_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.0123,
+        0.45,
+        0.0657
+      ],
+      "tail": [
+        0.745,
+        0.1191
+      ],
+      "text_key": "romans.8.p8.b1"
+    },
+    {
+      "id": "ROMANS_08_P008_B002",
+      "panel": "ROMANS_08_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.021,
+        0.4227,
+        0.4719,
+        0.0535
+      ],
+      "tail": [
+        0.257,
+        0.503
+      ],
+      "text_key": "romans.8.p8.b2"
+    },
+    {
+      "id": "ROMANS_08_P008_B003",
+      "panel": "ROMANS_08_P008_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6988,
+        0.4,
+        0.069
+      ],
+      "tail": [
+        0.5,
+        0.7992
+      ],
+      "text_key": "romans.8.p8.b3"
+    }
+  ]
+}

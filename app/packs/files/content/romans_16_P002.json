@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_16_P002",
+  "book": "romans",
+  "chapter": 16,
+  "page": 2,
+  "ref": "16:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_16_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_16_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "问候百基拉和亚居拉。他们在基督耶稣里和我一同工作，"
+      }
+    },
+    {
+      "id": "ROMANS_16_P002_F2",
+      "box": [
+        0,
+        0.2188,
+        0.3984,
+        0.304
+      ]
+    },
+    {
+      "id": "ROMANS_16_P002_F3",
+      "box": [
+        0.4043,
+        0.2188,
+        0.5957,
+        0.304
+      ],
+      "alt": {
+        "zh-CN": "他们为了我的性命，连自己的颈项都豁出去了。……"
+      }
+    },
+    {
+      "id": "ROMANS_16_P002_F4",
+      "box": [
+        0,
+        0.526,
+        1,
+        0.474
+      ],
+      "alt": {
+        "zh-CN": "也问候在他们家里聚会的教会。问候我亲爱的以拜尼土；……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_16_P002_B001",
+      "panel": "ROMANS_16_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0086,
+        0.45,
+        0.0431
+      ],
+      "tail": [
+        0.745,
+        0.0733
+      ],
+      "text_key": "romans.16.p2.b1"
+    },
+    {
+      "id": "ROMANS_16_P002_B002",
+      "panel": "ROMANS_16_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7022,
+        0.2279,
+        0.2799,
+        0.0456
+      ],
+      "tail": [
+        0.8422,
+        0.3039
+      ],
+      "text_key": "romans.16.p2.b2"
+    },
+    {
+      "id": "ROMANS_16_P002_B003",
+      "panel": "ROMANS_16_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5355,
+        0.45,
+        0.0379
+      ],
+      "tail": [
+        0.745,
+        0.6208
+      ],
+      "text_key": "romans.16.p2.b3"
+    }
+  ]
+}

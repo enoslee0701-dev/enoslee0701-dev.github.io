@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_05_P005",
+  "book": "romans",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "……何况　神的恩典，以及因耶稣基督一人的恩典而来的赏赐，岂不更加倍地临到众人吗？"
+      }
+    },
+    {
+      "id": "ROMANS_05_P005_F2",
+      "box": [
+        0,
+        0.3105,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "……审判是从一次过犯而定罪，恩赐却是从许多过犯而称义。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P005_F3",
+      "box": [
+        0,
+        0.5755,
+        1,
+        0.4245
+      ],
+      "alt": {
+        "zh-CN": "……何况那些领受丰盛恩典和所赐之义的人，岂不更要借着耶稣基督一人在生命中作王吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_05_P005_B001",
+      "panel": "ROMANS_05_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.71,
+        0.0153,
+        0.27,
+        0.2268
+      ],
+      "tail": [
+        0.845,
+        0.2728
+      ],
+      "text_key": "romans.5.p5.b1"
+    },
+    {
+      "id": "ROMANS_05_P005_B002",
+      "panel": "ROMANS_05_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.3184,
+        0.4,
+        0.0471
+      ],
+      "tail": [
+        0.5,
+        0.3917
+      ],
+      "text_key": "romans.5.p5.b2"
+    },
+    {
+      "id": "ROMANS_05_P005_B003",
+      "panel": "ROMANS_05_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.5882,
+        0.38,
+        0.0594
+      ],
+      "tail": [
+        0.64,
+        0.69
+      ],
+      "text_key": "romans.5.p5.b3"
+    }
+  ]
+}

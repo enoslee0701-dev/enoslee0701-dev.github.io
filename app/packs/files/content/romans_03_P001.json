@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_03_P001",
+  "book": "romans",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1999
+      ],
+      "alt": {
+        "zh-CN": "这样说来，犹太人有什么优势？割礼有什么好处呢？"
+      }
+    },
+    {
+      "id": "ROMANS_03_P001_F2",
+      "box": [
+        0,
+        0.2031,
+        1,
+        0.4362
+      ],
+      "alt": {
+        "zh-CN": "各方面都大有好处：首先是　神把他的话托付给了他们。"
+      }
+    },
+    {
+      "id": "ROMANS_03_P001_F3",
+      "box": [
+        0,
+        0.6432,
+        0.4707,
+        0.3568
+      ],
+      "alt": {
+        "zh-CN": "即使有人不信，那又怎样呢？难道他们的不信就使　神的信实失效吗？"
+      }
+    },
+    {
+      "id": "ROMANS_03_P001_F4",
+      "box": [
+        0.4805,
+        0.6432,
+        0.5195,
+        0.3568
+      ],
+      "alt": {
+        "zh-CN": "绝对不会！　神总是真实的，人都是虚谎的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_03_P001_B001",
+      "panel": "ROMANS_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.74,
+        0.006,
+        0.24,
+        0.0479
+      ],
+      "tail": [
+        0.86,
+        0.0739
+      ],
+      "text_key": "romans.3.p1.b1"
+    },
+    {
+      "id": "ROMANS_03_P001_B002",
+      "panel": "ROMANS_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2162,
+        0.4,
+        0.0697
+      ],
+      "tail": [
+        0.23,
+        0.3295
+      ],
+      "text_key": "romans.3.p1.b2"
+    },
+    {
+      "id": "ROMANS_03_P001_B003",
+      "panel": "ROMANS_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0235,
+        0.9286,
+        0.4236,
+        0.0606
+      ],
+      "tail": [
+        0.2353,
+        1
+      ],
+      "text_key": "romans.3.p1.b3"
+    },
+    {
+      "id": "ROMANS_03_P001_B004",
+      "panel": "ROMANS_03_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6987,
+        0.6503,
+        0.2805,
+        0.0356
+      ],
+      "tail": [
+        0.839,
+        0.7216
+      ],
+      "text_key": "romans.3.p1.b4"
+    }
+  ]
+}

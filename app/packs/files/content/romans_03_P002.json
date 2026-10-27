@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_03_P002",
+  "book": "romans",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2539
+      ],
+      "alt": {
+        "zh-CN": "我照着一般人的说法来讲：如果我们的不义反而显出　神的义，我们可以怎么说呢？　神降怒，难道是不义吗？"
+      }
+    },
+    {
+      "id": "ROMANS_03_P002_F2",
+      "box": [
+        0,
+        0.2578,
+        1,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "绝对不是！如果是这样，　神怎能审判世界呢？"
+      }
+    },
+    {
+      "id": "ROMANS_03_P002_F3",
+      "box": [
+        0,
+        0.6497,
+        0.4951,
+        0.3503
+      ],
+      "alt": {
+        "zh-CN": "为什么不干脆说，我们可以作恶来成就好事呢？"
+      }
+    },
+    {
+      "id": "ROMANS_03_P002_F4",
+      "box": [
+        0.501,
+        0.6497,
+        0.499,
+        0.3503
+      ],
+      "alt": {
+        "zh-CN": "有些人毁谤我们，说我们讲过这样的话。这种人被定罪是应该的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_03_P002_B001",
+      "panel": "ROMANS_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0102,
+        0.45,
+        0.0558
+      ],
+      "tail": [
+        0.745,
+        0.0914
+      ],
+      "text_key": "romans.3.p2.b1"
+    },
+    {
+      "id": "ROMANS_03_P002_B002",
+      "panel": "ROMANS_03_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.58,
+        0.2695,
+        0.39,
+        0.0777
+      ],
+      "tail": [
+        0.775,
+        0.3861
+      ],
+      "text_key": "romans.3.p2.b2"
+    },
+    {
+      "id": "ROMANS_03_P002_B003",
+      "panel": "ROMANS_03_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0248,
+        0.6602,
+        0.4455,
+        0.077
+      ],
+      "tail": [
+        0.2476,
+        0.7722
+      ],
+      "text_key": "romans.3.p2.b3"
+    },
+    {
+      "id": "ROMANS_03_P002_B004",
+      "panel": "ROMANS_03_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.521,
+        0.9229,
+        0.459,
+        0.063
+      ],
+      "tail": [
+        0.7505,
+        1
+      ],
+      "text_key": "romans.3.p2.b4"
+    }
+  ]
+}

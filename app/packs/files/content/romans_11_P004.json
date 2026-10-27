@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_11_P004",
+  "book": "romans",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:17-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "如果有几根枝子被折下来，你这野橄榄被接在其中，一同得着橄榄根的养分，"
+      }
+    },
+    {
+      "id": "ROMANS_11_P004_F2",
+      "box": [
+        0,
+        0.291,
+        0.4375,
+        0.304
+      ]
+    },
+    {
+      "id": "ROMANS_11_P004_F3",
+      "box": [
+        0.4492,
+        0.291,
+        0.5508,
+        0.304
+      ],
+      "alt": {
+        "zh-CN": "没错！他们因为不信被折下来；你因为信才站得住；你不可骄傲，反要敬畏。"
+      }
+    },
+    {
+      "id": "ROMANS_11_P004_F4",
+      "box": [
+        0,
+        0.6009,
+        1,
+        0.3991
+      ],
+      "alt": {
+        "zh-CN": "……如果你要夸口，就该知道：不是你托着根，而是根托着你。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_11_P004_B001",
+      "panel": "ROMANS_11_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0086,
+        0.42,
+        0.0857
+      ],
+      "tail": [
+        0.23,
+        0.1229
+      ],
+      "text_key": "romans.11.p4.b1"
+    },
+    {
+      "id": "ROMANS_11_P004_B002",
+      "panel": "ROMANS_11_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4712,
+        0.3001,
+        0.5067,
+        0.0668
+      ],
+      "tail": [
+        0.7246,
+        0.3973
+      ],
+      "text_key": "romans.11.p4.b2"
+    },
+    {
+      "id": "ROMANS_11_P004_B003",
+      "panel": "ROMANS_11_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.9202,
+        0.42,
+        0.0678
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "romans.11.p4.b3"
+    }
+  ]
+}

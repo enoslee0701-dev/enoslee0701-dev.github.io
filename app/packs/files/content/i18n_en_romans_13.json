@@ -1,0 +1,142 @@
+{
+  "romans.13.p1.b1": {
+    "text": "Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p1.b2": {
+    "text": "For rulers are not a terror to good conduct, but to bad. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p1.b3": {
+    "text": "For he is God’s servant for your good. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p2.b1": {
+    "text": "This is also why you pay taxes. For the authorities are God’s servants, who devote themselves to their work.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p2.b2": {
+    "text": "Pay everyone what you owe him …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p2.b3": {
+    "text": "… taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b1": {
+    "text": "Be indebted to no one, except to one another in love. For he who loves his neighbor has fulfilled the law.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b2": {
+    "text": "The commandments “Do not commit adultery,” “Do not murder,” “Do not steal,” “Do not covet,” and any other commandments …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b3": {
+    "text": "… are summed up in this one decree: “Love your neighbor as yourself.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p3.b4": {
+    "text": "Love does no wrong to its neighbor. Therefore love is the fulfillment of the law.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b1": {
+    "text": "And do this, understanding the occasion. The hour has come for you to wake up from your slumber, for our salvation is nearer now than when we first believed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b2": {
+    "text": "The night is nearly over; the day has drawn near. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b3": {
+    "text": "Let us behave decently, as in the daytime …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.13.p4.b4": {
+    "text": "Instead, clothe yourselves with the Lord Jesus Christ, and make no provision for the desires of the flesh.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Romans 13:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

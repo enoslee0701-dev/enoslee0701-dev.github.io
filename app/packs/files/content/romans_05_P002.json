@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_05_P002",
+  "book": "romans",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_05_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5107,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "当我们还软弱无力的时候，基督就在所定的时候为罪人死了。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P002_F2",
+      "box": [
+        0.5166,
+        0,
+        0.4834,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "为义人死的人很少；为好人死，或许有人敢。"
+      }
+    },
+    {
+      "id": "ROMANS_05_P002_F3",
+      "box": [
+        0,
+        0.3919,
+        1,
+        0.6081
+      ],
+      "alt": {
+        "zh-CN": "但是基督在我们还是罪人的时候就为我们死了，　神就在这件事上显明了他对我们的爱。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_05_P002_B001",
+      "panel": "ROMANS_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3779,
+        0.0155,
+        0.1225,
+        0.1399
+      ],
+      "tail": [
+        0.4392,
+        0.1943
+      ],
+      "text_key": "romans.5.p2.b1"
+    },
+    {
+      "id": "ROMANS_05_P002_B002",
+      "panel": "ROMANS_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7341,
+        0.0117,
+        0.2513,
+        0.0777
+      ],
+      "tail": [
+        0.8598,
+        0.1283
+      ],
+      "text_key": "romans.5.p2.b2"
+    },
+    {
+      "id": "ROMANS_05_P002_B003",
+      "panel": "ROMANS_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.72,
+        0.4041,
+        0.25,
+        0.0972
+      ],
+      "tail": [
+        0.845,
+        0.5621
+      ],
+      "text_key": "romans.5.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_15_P004",
+  "book": "romans",
+  "chapter": 15,
+  "page": 4,
+  "ref": "15:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_15_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_15_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3346
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我自己也深信你们充满良善，有丰富的知识，也能彼此劝勉。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P004_F2",
+      "box": [
+        0,
+        0.3372,
+        0.4492,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "但我稍微大胆地写信给你们，是要提醒你们……"
+      }
+    },
+    {
+      "id": "ROMANS_15_P004_F3",
+      "box": [
+        0.457,
+        0.3372,
+        0.543,
+        0.2767
+      ]
+    },
+    {
+      "id": "ROMANS_15_P004_F4",
+      "box": [
+        0,
+        0.6178,
+        1,
+        0.3822
+      ],
+      "alt": {
+        "zh-CN": "使我为外邦人作基督耶稣的仆人，作　神福音的祭司，使献上的外邦人因着圣灵成为圣洁，可蒙悦纳。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_15_P004_B001",
+      "panel": "ROMANS_15_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.01,
+        0.44,
+        0.0803
+      ],
+      "tail": [
+        0.5,
+        0.1238
+      ],
+      "text_key": "romans.15.p4.b1"
+    },
+    {
+      "id": "ROMANS_15_P004_B002",
+      "panel": "ROMANS_15_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.018,
+        0.3455,
+        0.4132,
+        0.0719
+      ],
+      "tail": [
+        0.2246,
+        0.4451
+      ],
+      "text_key": "romans.15.p4.b2"
+    },
+    {
+      "id": "ROMANS_15_P004_B003",
+      "panel": "ROMANS_15_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6254,
+        0.44,
+        0.0687
+      ],
+      "tail": [
+        0.25,
+        0.7323
+      ],
+      "text_key": "romans.15.p4.b3"
+    }
+  ]
+}

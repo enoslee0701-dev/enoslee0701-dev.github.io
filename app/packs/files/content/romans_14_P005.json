@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_14_P005",
+  "book": "romans",
+  "chapter": 14,
+  "page": 5,
+  "ref": "14:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_14_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_14_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "因为　神的国不在于吃什么喝什么，而在于公义、和平，以及在圣灵里的喜乐。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P005_F2",
+      "box": [
+        0,
+        0.2813,
+        0.5557,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "在这些事上服事基督的人，就蒙　神喜悦，也被人认可。"
+      }
+    },
+    {
+      "id": "ROMANS_14_P005_F3",
+      "box": [
+        0.5615,
+        0.2813,
+        0.4385,
+        0.2956
+      ]
+    },
+    {
+      "id": "ROMANS_14_P005_F4",
+      "box": [
+        0,
+        0.5807,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "所以，我们一定要追求使人和睦、彼此造就的事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_14_P005_B001",
+      "panel": "ROMANS_14_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.0056,
+        0.56,
+        0.0556
+      ],
+      "tail": [
+        0.5,
+        0.089
+      ],
+      "text_key": "romans.14.p5.b1"
+    },
+    {
+      "id": "ROMANS_14_P005_B002",
+      "panel": "ROMANS_14_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0278,
+        0.2902,
+        0.5001,
+        0.065
+      ],
+      "tail": [
+        0.2779,
+        0.3848
+      ],
+      "text_key": "romans.14.p5.b2"
+    },
+    {
+      "id": "ROMANS_14_P005_B003",
+      "panel": "ROMANS_14_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.5891,
+        0.36,
+        0.067
+      ],
+      "tail": [
+        0.54,
+        0.698
+      ],
+      "text_key": "romans.14.p5.b3"
+    }
+  ]
+}

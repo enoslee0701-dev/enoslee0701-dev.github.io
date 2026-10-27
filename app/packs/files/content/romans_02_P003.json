@@ -1,0 +1,127 @@
+{
+  "id": "ROMANS_02_P003",
+  "book": "romans",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:12-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "原来在　神面前，不是听律法的人算为义，而是遵行律法的人被称为义。"
+      }
+    },
+    {
+      "id": "ROMANS_02_P003_F2",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "没有律法的外邦人若顺着本性做律法要求的事，…… / ……这就显出律法的要求是刻在他们心里的，……"
+      }
+    },
+    {
+      "id": "ROMANS_02_P003_F3",
+      "box": [
+        0,
+        0.7435,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "就在　神借着耶稣基督审判人隐秘之事的日子，正如我所传的福音所说的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_02_P003_B001",
+      "panel": "ROMANS_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.012,
+        0.47,
+        0.0599
+      ],
+      "tail": [
+        0.735,
+        0.1019
+      ],
+      "text_key": "romans.2.p3.b1"
+    },
+    {
+      "id": "ROMANS_02_P003_B002",
+      "panel": "ROMANS_02_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3152,
+        0.45,
+        0.0298
+      ],
+      "tail": [
+        0.255,
+        0.3888
+      ],
+      "text_key": "romans.2.p3.b2"
+    },
+    {
+      "id": "ROMANS_02_P003_B003",
+      "panel": "ROMANS_02_P003_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3538,
+        0.45,
+        0.0271
+      ],
+      "tail": [
+        0.255,
+        0.4247
+      ],
+      "text_key": "romans.2.p3.b3"
+    },
+    {
+      "id": "ROMANS_02_P003_B004",
+      "panel": "ROMANS_02_P003_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.9384,
+        0.92,
+        0.0513
+      ],
+      "tail": [
+        0.5,
+        1
+      ],
+      "text_key": "romans.2.p3.b4"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ROMANS_15_P001",
+  "book": "romans",
+  "chapter": 15,
+  "page": 1,
+  "ref": "15:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_15_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_15_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "我们信心坚强的人，应该担当信心软弱的人的软弱，不只求自己高兴。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P001_F2",
+      "box": [
+        0,
+        0.2624,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "我们每个人都要让邻舍喜悦，使他得到益处，建立他的生命。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P001_F3",
+      "box": [
+        0,
+        0.6719,
+        0.3271,
+        0.3281
+      ]
+    },
+    {
+      "id": "ROMANS_15_P001_F4",
+      "box": [
+        0.334,
+        0.6719,
+        0.666,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "从前所写的圣经都是为教导我们而写的，使我们因圣经所带来的忍耐和安慰，可以得着盼望。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_15_P001_B001",
+      "panel": "ROMANS_15_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0052,
+        0.44,
+        0.0361
+      ],
+      "tail": [
+        0.25,
+        0.0672
+      ],
+      "text_key": "romans.15.p1.b1"
+    },
+    {
+      "id": "ROMANS_15_P001_B002",
+      "panel": "ROMANS_15_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2705,
+        0.41,
+        0.073
+      ],
+      "tail": [
+        0.765,
+        0.3841
+      ],
+      "text_key": "romans.15.p1.b2"
+    },
+    {
+      "id": "ROMANS_15_P001_B003",
+      "panel": "ROMANS_15_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.667,
+        0.6817,
+        0.313,
+        0.0721
+      ],
+      "tail": [
+        0.8235,
+        0.7866
+      ],
+      "text_key": "romans.15.p1.b3"
+    }
+  ]
+}

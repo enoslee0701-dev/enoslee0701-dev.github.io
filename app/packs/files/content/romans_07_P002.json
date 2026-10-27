@@ -1,0 +1,109 @@
+{
+  "id": "ROMANS_07_P002",
+  "book": "romans",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_07_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "……你们借着基督的身体，对律法来说也已经死了，使你们归给另一位，就是那从死里复活的，好叫我们为　神结出果子。"
+      }
+    },
+    {
+      "id": "ROMANS_07_P002_F2",
+      "box": [
+        0,
+        0.4323,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "因为我们属肉体的时候，那借着律法而起的罪恶欲望就在我们的肢体中发动，结出死亡的果子。"
+      }
+    },
+    {
+      "id": "ROMANS_07_P002_F3",
+      "box": [
+        0,
+        0.7448,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "……使我们用心灵的新方式服事主，不用条文的旧方式。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_07_P002_B001",
+      "panel": "ROMANS_07_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0129,
+        0.45,
+        0.0772
+      ],
+      "tail": [
+        0.255,
+        0.133
+      ],
+      "text_key": "romans.7.p2.b1"
+    },
+    {
+      "id": "ROMANS_07_P002_B002",
+      "panel": "ROMANS_07_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.4447,
+        0.45,
+        0.0556
+      ],
+      "tail": [
+        0.255,
+        0.5312
+      ],
+      "text_key": "romans.7.p2.b2"
+    },
+    {
+      "id": "ROMANS_07_P002_B003",
+      "panel": "ROMANS_07_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.7499,
+        0.38,
+        0.0306
+      ],
+      "tail": [
+        0.41,
+        0.806
+      ],
+      "text_key": "romans.7.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_06_P004",
+  "book": "romans",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "那么怎么样呢？我们在恩典之下，不在律法之下，就可以犯罪吗？绝对不可以！"
+      }
+    },
+    {
+      "id": "ROMANS_06_P004_F2",
+      "box": [
+        0,
+        0.2799,
+        0.4961,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "难道你们不知道，你们献上自己做奴仆，顺从谁，就是谁的奴仆吗？"
+      }
+    },
+    {
+      "id": "ROMANS_06_P004_F3",
+      "box": [
+        0.5049,
+        0.2799,
+        0.4951,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "感谢　神！因为你们以前虽然是罪的奴仆，现在却从心里顺服了传给你们的教导的模式。"
+      }
+    },
+    {
+      "id": "ROMANS_06_P004_F4",
+      "box": [
+        0,
+        0.584,
+        1,
+        0.416
+      ],
+      "alt": {
+        "zh-CN": "你们既然从罪里得了释放，就成了义的奴仆。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_06_P004_B001",
+      "panel": "ROMANS_06_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.011,
+        0.44,
+        0.055
+      ],
+      "tail": [
+        0.25,
+        0.0935
+      ],
+      "text_key": "romans.6.p4.b1"
+    },
+    {
+      "id": "ROMANS_06_P004_B002",
+      "panel": "ROMANS_06_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.2889,
+        0.4464,
+        0.06
+      ],
+      "tail": [
+        0.243,
+        0.3789
+      ],
+      "text_key": "romans.6.p4.b2"
+    },
+    {
+      "id": "ROMANS_06_P004_B003",
+      "panel": "ROMANS_06_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5297,
+        0.502,
+        0.4455,
+        0.069
+      ],
+      "tail": [
+        0.7524,
+        0.58
+      ],
+      "text_key": "romans.6.p4.b3"
+    },
+    {
+      "id": "ROMANS_06_P004_B004",
+      "panel": "ROMANS_06_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6006,
+        0.42,
+        0.0665
+      ],
+      "tail": [
+        0.76,
+        0.7087
+      ],
+      "text_key": "romans.6.p4.b4"
+    }
+  ]
+}

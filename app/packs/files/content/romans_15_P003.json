@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_15_P003",
+  "book": "romans",
+  "chapter": 15,
+  "page": 3,
+  "ref": "15:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_15_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_15_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4307,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "因此，我要在外邦人中称颂你，歌颂你的名。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P003_F2",
+      "box": [
+        0.4375,
+        0,
+        0.5625,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "外邦人哪，你们要和主的百姓一同欢乐！"
+      }
+    },
+    {
+      "id": "ROMANS_15_P003_F3",
+      "box": [
+        0,
+        0.2936,
+        1,
+        0.4108
+      ],
+      "alt": {
+        "zh-CN": "将来有耶西的根，就是那要兴起治理外邦的；外邦人要仰望他。"
+      }
+    },
+    {
+      "id": "ROMANS_15_P003_F4",
+      "box": [
+        0,
+        0.7083,
+        1,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "愿使人有盼望的　神，因着你们的信，把一切喜乐、平安充满你们的心，使你们借着圣灵的能力满有盼望！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_15_P003_B001",
+      "panel": "ROMANS_15_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0172,
+        0.0058,
+        0.3962,
+        0.032
+      ],
+      "tail": [
+        0.2153,
+        0.0669
+      ],
+      "text_key": "romans.15.p3.b1"
+    },
+    {
+      "id": "ROMANS_15_P003_B002",
+      "panel": "ROMANS_15_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4544,
+        0.0087,
+        0.2643,
+        0.064
+      ],
+      "tail": [
+        0.5866,
+        0.1018
+      ],
+      "text_key": "romans.15.p3.b2"
+    },
+    {
+      "id": "ROMANS_15_P003_B003",
+      "panel": "ROMANS_15_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.3018,
+        0.36,
+        0.0821
+      ],
+      "tail": [
+        0.8,
+        0.425
+      ],
+      "text_key": "romans.15.p3.b3"
+    },
+    {
+      "id": "ROMANS_15_P003_B004",
+      "panel": "ROMANS_15_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.9242,
+        0.5,
+        0.067
+      ],
+      "tail": [
+        0.28,
+        1
+      ],
+      "text_key": "romans.15.p3.b4"
+    }
+  ]
+}

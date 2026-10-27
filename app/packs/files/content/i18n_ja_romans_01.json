@@ -1,0 +1,282 @@
+{
+  "romans.1.p1.b1": {
+    "text": "キリスト・イエスの僕、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p1.b2": {
+    "text": "… 神の福音のために選び別たれ、召されて使徒となったパウロから",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p2.b1": {
+    "text": "この福音は、神が、預言者たちにより、聖書の中で、あらかじめ約束されたものであって、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p2.b2": {
+    "text": "御子に関するものである。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p2.b3": {
+    "text": "わたしたちは、その御名のために、すべての異邦人を信仰の従順に至らせるようにと、… あなたがたもまた、彼らの中にあって、召されてイエス・キリストに属する者となったのである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p2.b4": {
+    "text": "ローマにいる、神に愛され、召された聖徒一同へ。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p3.b1": {
+    "text": "まず第一に、わたしは、あなたがたの信仰が全世界に言い伝えられていることを、イエス・キリストによって、あなたがた一同のために、わたしの神に感謝する。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p3.b2": {
+    "text": "わたしは、祈のたびごとに、絶えずあなたがたを覚え、いつかは御旨にかなって道が開かれ、どうにかして、あなたがたの所に行けるようにと願っている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p3.b3": {
+    "text": "わたしは、あなたがたに会うことを熱望している。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p3.b4": {
+    "text": "それは、あなたがたの中にいて、あなたがたとわたしとのお互の信仰によって、共に励まし合うためにほかならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p4.b1": {
+    "text": "… あなたがたの所に行こうとしばしば企てたが、今まで妨げられてきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p4.b2": {
+    "text": "わたしには、ギリシヤ人にも未開の人にも、賢い者にも無知な者にも、果すべき責任がある。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p4.b3": {
+    "text": "そこで、わたしとしての切なる願いは、ローマにいるあなたがたにも、福音を宣べ伝えることなのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p5.b1": {
+    "text": "わたしは福音を恥としない。それは、… すべて信じる者に、救を得させる神の力である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p5.b2": {
+    "text": "… ユダヤ人をはじめ、ギリシヤ人にも、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p5.b3": {
+    "text": "… これは、「信仰による義人は生きる」と書いてあるとおりである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p6.b1": {
+    "text": "神の怒りは、不義をもって真理をはばもうとする人間のあらゆる不信心と不義とに対して、天から啓示される。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p6.b2": {
+    "text": "… 神がそれを彼らに明らかにされたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p6.b3": {
+    "text": "… 被造物において知られていて、明らかに認められるからである。したがって、彼らには弁解の余地がない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p7.b1": {
+    "text": "なぜなら、彼らは神を知っていながら、神としてあがめず、感謝もせず、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p7.b2": {
+    "text": "… その無知な心は暗くなったからである。彼らは自ら知者と称しながら、愚かになり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:21-22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p7.b3": {
+    "text": "不朽の神の栄光を変えて、朽ちる人間や鳥や獣や這うものの像に似せたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p8.b1": {
+    "text": "ゆえに、神は、彼らが心の欲情にかられ、… 汚すままに任せられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p8.b2": {
+    "text": "彼らは神の真理を変えて虚偽とし、創造者の代りに被造物を拝み、これに仕えたのである。…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p8.b3": {
+    "text": "そして、彼らは神を認めることを正しいとしなかったので、神は彼らを正しからぬ思いにわたし、なすべからざる事をなすに任せられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p9.b1": {
+    "text": "すなわち、彼らは、あらゆる不義と悪と貪欲と悪意とにあふれ、ねたみと殺意と争いと詐欺と悪念とに満ち、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p9.b2": {
+    "text": "… 親に逆らう者となり、無知、不誠実、無情、無慈悲な者となっている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:30-31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "romans.1.p9.b3": {
+    "text": "彼らは、こうした事を行う者どもが死に価するという神の定めをよく知りながら、自らそれを行うばかりではなく、それを行う者どもを是認さえしている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Romans 1:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

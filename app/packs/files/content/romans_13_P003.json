@@ -1,0 +1,139 @@
+{
+  "id": "ROMANS_13_P003",
+  "book": "romans",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ROMANS_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ROMANS_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "凡事都不可亏欠人，只有彼此相爱要常常觉得亏欠，因为爱人的就成全了律法。"
+      }
+    },
+    {
+      "id": "ROMANS_13_P003_F2",
+      "box": [
+        0,
+        0.2376,
+        0.4971,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "像不可奸淫、不可杀人、不可偷盗、不可贪心，或是别的诫命，"
+      }
+    },
+    {
+      "id": "ROMANS_13_P003_F3",
+      "box": [
+        0.5039,
+        0.2376,
+        0.4961,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "都包含在「爱人如己」这一句话里了。"
+      }
+    },
+    {
+      "id": "ROMANS_13_P003_F4",
+      "box": [
+        0,
+        0.5391,
+        1,
+        0.4609
+      ],
+      "alt": {
+        "zh-CN": "爱是不伤害人的，所以爱就成全了律法。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ROMANS_13_P003_B001",
+      "panel": "ROMANS_13_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.007,
+        0.45,
+        0.0701
+      ],
+      "tail": [
+        0.745,
+        0.1005
+      ],
+      "text_key": "romans.13.p3.b1"
+    },
+    {
+      "id": "ROMANS_13_P003_B002",
+      "panel": "ROMANS_13_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0149,
+        0.2465,
+        0.2087,
+        0.0595
+      ],
+      "tail": [
+        0.1193,
+        0.3358
+      ],
+      "text_key": "romans.13.p3.b2"
+    },
+    {
+      "id": "ROMANS_13_P003_B003",
+      "panel": "ROMANS_13_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8115,
+        0.2465,
+        0.1785,
+        0.0595
+      ],
+      "tail": [
+        0.9008,
+        0.3358
+      ],
+      "text_key": "romans.13.p3.b3"
+    },
+    {
+      "id": "ROMANS_13_P003_B004",
+      "panel": "ROMANS_13_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5483,
+        0.4,
+        0.0553
+      ],
+      "tail": [
+        0.78,
+        0.6497
+      ],
+      "text_key": "romans.13.p3.b4"
+    }
+  ]
+}
