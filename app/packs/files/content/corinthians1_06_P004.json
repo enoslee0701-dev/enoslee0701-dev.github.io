@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_06_P004",
+  "book": "corinthians1",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5443
+      ],
+      "alt": {
+        "zh-CN": "难道你们不知道不义的人不能承受神的国吗？不要自欺！"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P004_F2",
+      "box": [
+        0.14,
+        0.257,
+        0.86,
+        0.2873
+      ],
+      "alt": {
+        "zh-CN": "你们中间有些人从前也是这样；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P004_F3",
+      "box": [
+        0,
+        0.5456,
+        1,
+        0.4544
+      ],
+      "alt": {
+        "zh-CN": "但如今你们……已经被洗净、成圣、称义了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_06_P004_B010",
+      "panel": "CORINTHIANS1_06_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.3647,
+        0.23,
+        0.0762
+      ],
+      "tail": [
+        0.135,
+        0.4953
+      ],
+      "text_key": "corinthians1.6.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_06_P004_B011",
+      "panel": "CORINTHIANS1_06_P004_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7764,
+        0.3001,
+        0.1978,
+        0.1493
+      ],
+      "tail": [
+        0.8753,
+        0.4781
+      ],
+      "text_key": "corinthians1.6.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_06_P004_B012",
+      "panel": "CORINTHIANS1_06_P004_F3",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.5592,
+        0.4,
+        0.0727
+      ],
+      "tail": [
+        0.5,
+        0.6773
+      ],
+      "text_key": "corinthians1.6.p4.b12"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_10_P004",
+  "book": "corinthians1",
+  "chapter": 10,
+  "page": 4,
+  "ref": "10:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_10_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_10_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3203
+      ],
+      "alt": {
+        "zh-CN": "我亲爱的弟兄啊，你们要远离拜偶像的事。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P004_F2",
+      "box": [
+        0,
+        0.3236,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "我们所祝福的杯，不就是同领基督的血吗？我们所掰开的饼，不就是同领基督的身体吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P004_F3",
+      "box": [
+        0,
+        0.5475,
+        1,
+        0.4525
+      ],
+      "alt": {
+        "zh-CN": "我们虽然人多，仍是一个饼、一个身体，因为我们都分享这一个饼。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_10_P004_B010",
+      "panel": "CORINTHIANS1_10_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.34,
+        0.0096,
+        0.36,
+        0.064
+      ],
+      "tail": [
+        0.52,
+        0.1056
+      ],
+      "text_key": "corinthians1.10.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_10_P004_B011",
+      "panel": "CORINTHIANS1_10_P004_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3368,
+        0.4,
+        0.0882
+      ],
+      "tail": [
+        0,
+        0.4471
+      ],
+      "text_key": "corinthians1.10.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_10_P004_B012",
+      "panel": "CORINTHIANS1_10_P004_F3",
+      "order": 12,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.5611,
+        0.41,
+        0.0905
+      ],
+      "tail": [
+        0,
+        0.6969
+      ],
+      "text_key": "corinthians1.10.p4.b12"
+    }
+  ]
+}

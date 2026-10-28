@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_06_P002",
+  "book": "corinthians1",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_06_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4229,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "既然这样，你们如果有今生的事要审断，是请教会所轻看的人来审断吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P002_F2",
+      "box": [
+        0.4316,
+        0,
+        0.5684,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "我说这话是要让你们羞愧。难道你们中间连一个有智慧、能审断弟兄之间事情的人都没有吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P002_F3",
+      "box": [
+        0,
+        0.4089,
+        1,
+        0.5911
+      ],
+      "alt": {
+        "zh-CN": "你们竟然是弟兄告弟兄，而且告到不信主的人面前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_06_P002_B004",
+      "panel": "CORINTHIANS1_06_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0127,
+        0.0081,
+        0.1437,
+        0.1054
+      ],
+      "tail": [
+        0.0846,
+        0.1541
+      ],
+      "text_key": "corinthians1.6.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_06_P002_B005",
+      "panel": "CORINTHIANS1_06_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.7044,
+        0.0122,
+        0.2785,
+        0.0973
+      ],
+      "tail": [
+        0.8437,
+        0.1501
+      ],
+      "text_key": "corinthians1.6.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_06_P002_B006",
+      "panel": "CORINTHIANS1_06_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.7872,
+        0.36,
+        0.0827
+      ],
+      "tail": [
+        0.54,
+        0.929
+      ],
+      "text_key": "corinthians1.6.p2.b6"
+    }
+  ]
+}

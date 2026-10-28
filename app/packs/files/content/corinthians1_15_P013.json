@@ -1,0 +1,145 @@
+{
+  "id": "CORINTHIANS1_15_P013",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 13,
+  "ref": "15:50-55",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "我现在告诉你们一件奥秘的事：我们不是都要死，而是都要改变，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_F2",
+      "box": [
+        0,
+        0.2415,
+        0.376,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "就在一瞬间，眨眼之间，最后的号角吹响的时候。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_F3",
+      "box": [
+        0.3809,
+        0.2415,
+        0.6191,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "因为号角要吹响，死人要复活成为不会朽坏的，我们也要改变。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_F4",
+      "box": [
+        0,
+        0.474,
+        1,
+        0.526
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P013_B047",
+      "panel": "CORINTHIANS1_15_P013_F1",
+      "order": 47,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0072,
+        0.3,
+        0.0432
+      ],
+      "tail": [
+        0.17,
+        0.0744
+      ],
+      "text_key": "corinthians1.15.p13.b47"
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_B048",
+      "panel": "CORINTHIANS1_15_P013_F2",
+      "order": 48,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0188,
+        0.4121,
+        0.3384,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p13.b48"
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_B049",
+      "panel": "CORINTHIANS1_15_P013_F3",
+      "order": 49,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7276,
+        0.4075,
+        0.2476,
+        0.0553
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p13.b49"
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_B050",
+      "panel": "CORINTHIANS1_15_P013_F4",
+      "order": 50,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.4898,
+        0.44,
+        0.0736
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p13.b50"
+    },
+    {
+      "id": "CORINTHIANS1_15_P013_B051",
+      "panel": "CORINTHIANS1_15_P013_F4",
+      "order": 51,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.54,
+        0.4898,
+        0.42,
+        0.0946
+      ],
+      "tail": [
+        0.75,
+        0.637
+      ],
+      "text_key": "corinthians1.15.p13.b51"
+    }
+  ]
+}

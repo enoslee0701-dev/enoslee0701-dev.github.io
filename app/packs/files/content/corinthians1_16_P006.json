@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS1_16_P006",
+  "book": "corinthians1",
+  "chapter": 16,
+  "page": 6,
+  "ref": "16:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_16_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_16_P006_F1",
+      "box": [
+        0,
+        0,
+        0.5059,
+        0.3913
+      ],
+      "alt": {
+        "zh-CN": "亚居拉、百基拉和他们家里的教会，在主里热切地问候你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P006_F2",
+      "box": [
+        0.5156,
+        0,
+        0.4844,
+        0.3913
+      ],
+      "alt": {
+        "zh-CN": "弟兄们都问候你们。你们要以圣洁的亲吻彼此问安。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P006_F3",
+      "box": [
+        0,
+        0.3945,
+        1,
+        0.6055
+      ],
+      "alt": {
+        "zh-CN": "我保罗亲笔问候你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_16_P006_B001",
+      "panel": "CORINTHIANS1_16_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1619,
+        0.0078,
+        0.3237,
+        0.0469
+      ],
+      "tail": [
+        0.3238,
+        0.0938
+      ],
+      "text_key": "corinthians1.16.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS1_16_P006_B002",
+      "panel": "CORINTHIANS1_16_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5398,
+        0.313,
+        0.4359,
+        0.0665
+      ],
+      "tail": [
+        0.7577,
+        0.3913
+      ],
+      "text_key": "corinthians1.16.p6.b2"
+    },
+    {
+      "id": "CORINTHIANS1_16_P006_B003",
+      "panel": "CORINTHIANS1_16_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.4066,
+        0.38,
+        0.0605
+      ],
+      "tail": null,
+      "text_key": "corinthians1.16.p6.b3"
+    }
+  ]
+}

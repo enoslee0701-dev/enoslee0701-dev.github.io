@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P003",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "我想　神把我们使徒排在最后，好像被判了死刑的囚犯；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P003_F2",
+      "box": [
+        0,
+        0.2194,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "因为我们成了一场戏，给世人和天使观看。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P003_F3",
+      "box": [
+        0,
+        0.6667,
+        1,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "我们为基督的缘故被当作愚笨，你们在基督里倒是聪明；我们软弱，你们倒强壮；你们有荣耀，我们倒被轻视。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P003_B007",
+      "panel": "CORINTHIANS1_04_P003_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0108,
+        0.46,
+        0.0646
+      ],
+      "tail": [
+        0.73,
+        0.097
+      ],
+      "text_key": "corinthians1.4.p3.b7"
+    },
+    {
+      "id": "CORINTHIANS1_04_P003_B008",
+      "panel": "CORINTHIANS1_04_P003_F2",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2327,
+        0.46,
+        0.0619
+      ],
+      "tail": [
+        0.26,
+        0.3389
+      ],
+      "text_key": "corinthians1.4.p3.b8"
+    },
+    {
+      "id": "CORINTHIANS1_04_P003_B009",
+      "panel": "CORINTHIANS1_04_P003_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.68,
+        0.45,
+        0.0933
+      ],
+      "tail": [
+        0.745,
+        0.8066
+      ],
+      "text_key": "corinthians1.4.p3.b9"
+    }
+  ]
+}

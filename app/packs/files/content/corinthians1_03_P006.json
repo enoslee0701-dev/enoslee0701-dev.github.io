@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_03_P006",
+  "book": "corinthians1",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_03_P006_F1",
+      "box": [
+        0,
+        0,
+        0.5244,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "难道你们不知道你们是　神的殿，　神的灵住在你们里面吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P006_F2",
+      "box": [
+        0.5332,
+        0,
+        0.4668,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "如果有人毁坏　神的殿，　神必要毁灭那人；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P006_F3",
+      "box": [
+        0,
+        0.3561,
+        1,
+        0.6439
+      ],
+      "alt": {
+        "zh-CN": "因为　神的殿是神圣的，这殿就是你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_03_P006_B001",
+      "panel": "CORINTHIANS1_03_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2622,
+        0.0106,
+        0.2412,
+        0.0845
+      ],
+      "tail": [
+        0.3828,
+        0.1303
+      ],
+      "text_key": "corinthians1.3.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS1_03_P006_B002",
+      "panel": "CORINTHIANS1_03_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5519,
+        0.2465,
+        0.2334,
+        0.0915
+      ],
+      "tail": [
+        0.6686,
+        0.3522
+      ],
+      "text_key": "corinthians1.3.p6.b2"
+    },
+    {
+      "id": "CORINTHIANS1_03_P006_B003",
+      "panel": "CORINTHIANS1_03_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6652,
+        0.42,
+        0.103
+      ],
+      "tail": [
+        0.51,
+        0.8326
+      ],
+      "text_key": "corinthians1.3.p6.b3"
+    }
+  ]
+}

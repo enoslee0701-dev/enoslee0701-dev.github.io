@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS1_05_P002",
+  "book": "corinthians1",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_05_P002_F1",
+      "box": [
+        0,
+        0,
+        0.6504,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "我身体虽然不在你们那里，心却在你们那里，好像亲自和你们在一起……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P002_F2",
+      "box": [
+        0.6582,
+        0,
+        0.3418,
+        0.2988
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_05_P002_F3",
+      "box": [
+        0,
+        0.3027,
+        1,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "就是你们聚会的时候，我的心也和你们在一起。奉我们主耶稣的名，并用我们主耶稣的权能，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P002_F4",
+      "box": [
+        0,
+        0.6563,
+        1,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "要把这样的人交给撒但，败坏他的肉体，好使他的灵魂在主耶稣的日子能够得救。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_05_P002_B004",
+      "panel": "CORINTHIANS1_05_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.3902,
+        0.009,
+        0.2471,
+        0.0776
+      ],
+      "tail": [
+        0.5137,
+        0.1165
+      ],
+      "text_key": "corinthians1.5.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_05_P002_B005",
+      "panel": "CORINTHIANS1_05_P002_F3",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.68,
+        0.5614,
+        0.3,
+        0.0769
+      ],
+      "tail": [
+        0.83,
+        0.6523
+      ],
+      "text_key": "corinthians1.5.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_05_P002_B006",
+      "panel": "CORINTHIANS1_05_P002_F4",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.6701,
+        0.48,
+        0.0687
+      ],
+      "tail": [
+        0.72,
+        0.7732
+      ],
+      "text_key": "corinthians1.5.p2.b6"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_11_P010",
+  "book": "corinthians1",
+  "chapter": 11,
+  "page": 10,
+  "ref": "11:33-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_11_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_11_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "所以，我的弟兄们，你们聚会吃饭的时候，要彼此等候。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P010_F2",
+      "box": [
+        0,
+        0.3099,
+        1,
+        0.3971
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_11_P010_F3",
+      "box": [
+        0,
+        0.7103,
+        1,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "……其他的事，等我来的时候再安排。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_11_P010_B025",
+      "panel": "CORINTHIANS1_11_P010_F1",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0122,
+        0.4,
+        0.055
+      ],
+      "tail": [
+        0.23,
+        0.0978
+      ],
+      "text_key": "corinthians1.11.p10.b25"
+    },
+    {
+      "id": "CORINTHIANS1_11_P010_B026",
+      "panel": "CORINTHIANS1_11_P010_F3",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.7219,
+        0.33,
+        0.0579
+      ],
+      "tail": [
+        0.565,
+        0.8088
+      ],
+      "text_key": "corinthians1.11.p10.b26"
+    }
+  ]
+}

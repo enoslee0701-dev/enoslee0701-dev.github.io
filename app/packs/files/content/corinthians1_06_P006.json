@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_06_P006",
+  "book": "corinthians1",
+  "chapter": 6,
+  "page": 6,
+  "ref": "6:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_06_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_06_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "难道不知道你们的身体是基督的肢体吗？……绝对不可！"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P006_F2",
+      "box": [
+        0,
+        0.2492,
+        1,
+        0.256
+      ],
+      "alt": {
+        "zh-CN": "但与主联合的，就是与主成为一个灵。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P006_F3",
+      "box": [
+        0,
+        0.5091,
+        1,
+        0.4909
+      ],
+      "alt": {
+        "zh-CN": "你们要远离淫乱。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_06_P006_B016",
+      "panel": "CORINTHIANS1_06_P006_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0074,
+        0.46,
+        0.0542
+      ],
+      "tail": [
+        0.26,
+        0.0863
+      ],
+      "text_key": "corinthians1.6.p6.b16"
+    },
+    {
+      "id": "CORINTHIANS1_06_P006_B017",
+      "panel": "CORINTHIANS1_06_P006_F2",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2594,
+        0.39,
+        0.1075
+      ],
+      "tail": [
+        0.775,
+        0.3925
+      ],
+      "text_key": "corinthians1.6.p6.b17"
+    },
+    {
+      "id": "CORINTHIANS1_06_P006_B018",
+      "panel": "CORINTHIANS1_06_P006_F3",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.53,
+        0.5238,
+        0.27,
+        0.0687
+      ],
+      "tail": [
+        0.665,
+        0.6416
+      ],
+      "text_key": "corinthians1.6.p6.b18"
+    }
+  ]
+}

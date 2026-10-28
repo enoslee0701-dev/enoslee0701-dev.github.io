@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_03_P001",
+  "book": "corinthians1",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我从前对你们说话，不能把你们当作属灵的人，只能当作属肉体的，在基督里还是婴孩的人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P001_F2",
+      "box": [
+        0,
+        0.2806,
+        0.444,
+        0.186
+      ],
+      "alt": {
+        "zh-CN": "我是用奶喂你们，没有用干粮喂你们。那时你们还不能吃，就是现在也还不能。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P001_F3",
+      "box": [
+        0,
+        0.2806,
+        1,
+        0.7194
+      ],
+      "alt": {
+        "zh-CN": "你们仍然是属肉体的，因为你们中间有嫉妒和纷争，这不就是属肉体、照着世人的样子生活吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_03_P001_B001",
+      "panel": "CORINTHIANS1_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0083,
+        0.4,
+        0.0441
+      ],
+      "tail": [
+        0.5,
+        0.08
+      ],
+      "text_key": "corinthians1.3.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_03_P001_B002",
+      "panel": "CORINTHIANS1_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2309,
+        0.288,
+        0.1998,
+        0.0409
+      ],
+      "tail": [
+        0.3308,
+        0.3475
+      ],
+      "text_key": "corinthians1.3.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_03_P001_B003",
+      "panel": "CORINTHIANS1_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.295,
+        0.42,
+        0.0791
+      ],
+      "tail": [
+        0.76,
+        0.446
+      ],
+      "text_key": "corinthians1.3.p1.b3"
+    }
+  ]
+}

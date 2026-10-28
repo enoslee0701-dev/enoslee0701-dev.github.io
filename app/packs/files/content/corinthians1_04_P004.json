@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P004",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "直到现在，我们还是又饿又渴，衣不蔽体，被人殴打，居无定所，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P004_F2",
+      "box": [
+        0,
+        0.3079,
+        1,
+        0.3496
+      ],
+      "alt": {
+        "zh-CN": "而且辛苦，亲手做工。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P004_F3",
+      "box": [
+        0,
+        0.6621,
+        1,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "被人咒骂，我们就祝福；被人逼迫，我们就忍耐；被人毁谤，我们就好言相劝。直到现在，人还把我们看作世上的垃圾、万物中的渣滓。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P004_B010",
+      "panel": "CORINTHIANS1_04_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0091,
+        0.46,
+        0.0544
+      ],
+      "tail": [
+        0.73,
+        0.0938
+      ],
+      "text_key": "corinthians1.4.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_04_P004_B011",
+      "panel": "CORINTHIANS1_04_P004_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5666,
+        0.5,
+        0.0769
+      ],
+      "tail": [
+        0.28,
+        0.6575
+      ],
+      "text_key": "corinthians1.4.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_04_P004_B012",
+      "panel": "CORINTHIANS1_04_P004_F3",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6756,
+        0.52,
+        0.1013
+      ],
+      "tail": [
+        0.29,
+        0.8107
+      ],
+      "text_key": "corinthians1.4.p4.b12"
+    }
+  ]
+}

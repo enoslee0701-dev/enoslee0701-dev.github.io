@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_07_P006",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 6,
+  "ref": "7:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4561,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "你是作奴隶的时候蒙召的吗？不要为这事忧虑；如果能得自由，就争取自由更好。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P006_F2",
+      "box": [
+        0.4648,
+        0,
+        0.5352,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "因为作奴仆时蒙主呼召的，就是主所释放的人；作自由人时蒙召的，就是基督的奴仆。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P006_F3",
+      "box": [
+        0,
+        0.4329,
+        1,
+        0.5671
+      ],
+      "alt": {
+        "zh-CN": "你们是用重价买来的，不要作人的奴仆。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P006_B016",
+      "panel": "CORINTHIANS1_07_P006_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0182,
+        0.3089,
+        0.4104,
+        0.1072
+      ],
+      "tail": [
+        0.2234,
+        0.429
+      ],
+      "text_key": "corinthians1.7.p6.b16"
+    },
+    {
+      "id": "CORINTHIANS1_07_P006_B017",
+      "panel": "CORINTHIANS1_07_P006_F2",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4862,
+        0.0129,
+        0.2676,
+        0.0858
+      ],
+      "tail": [
+        0.62,
+        0.1416
+      ],
+      "text_key": "corinthians1.7.p6.b17"
+    },
+    {
+      "id": "CORINTHIANS1_07_P006_B018",
+      "panel": "CORINTHIANS1_07_P006_F3",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.4499,
+        0.37,
+        0.102
+      ],
+      "tail": [
+        0.785,
+        0.6086
+      ],
+      "text_key": "corinthians1.7.p6.b18"
+    }
+  ]
+}

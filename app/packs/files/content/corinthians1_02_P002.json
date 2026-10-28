@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_02_P002",
+  "book": "corinthians1",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_02_P002_F1",
+      "box": [
+        0,
+        0,
+        0.6328,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "我说的话、传的道，不是用智慧动听的话，而是用圣灵和能力来证明，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_02_P002_F2",
+      "box": [
+        0.6445,
+        0,
+        0.3555,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "好让你们的信不是靠人的智慧，而是靠　神的能力。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_02_P002_F3",
+      "box": [
+        0,
+        0.3757,
+        1,
+        0.6243
+      ],
+      "alt": {
+        "zh-CN": "这世上掌权的人没有一个明白这智慧，他们要是明白，就不会把荣耀的主钉在十字架上了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_02_P002_B001",
+      "panel": "CORINTHIANS1_02_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2405,
+        0.0074,
+        0.3796,
+        0.0557
+      ],
+      "tail": [
+        0.4303,
+        0.1003
+      ],
+      "text_key": "corinthians1.2.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS1_02_P002_B002",
+      "panel": "CORINTHIANS1_02_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6623,
+        0.2974,
+        0.3199,
+        0.0594
+      ],
+      "tail": [
+        0.8223,
+        0.3717
+      ],
+      "text_key": "corinthians1.2.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS1_02_P002_B003",
+      "panel": "CORINTHIANS1_02_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.3882,
+        0.49,
+        0.0749
+      ],
+      "tail": [
+        0.725,
+        0.5255
+      ],
+      "text_key": "corinthians1.2.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS1_15_P012",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 12,
+  "ref": "15:46-49",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "第一个人是从地上来的，是属土的；第二个人是从天上来的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P012_F2",
+      "box": [
+        0,
+        0.2539,
+        0.4971,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "那属土的是怎样，凡属土的也都是怎样；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P012_F3",
+      "box": [
+        0.5029,
+        0.2539,
+        0.4971,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "属天的是怎样，凡属天的也都是怎样。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P012_F4",
+      "box": [
+        0,
+        0.5762,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "我们既然有属土的样子，将来也一定会有属天的样子。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P012_B043",
+      "panel": "CORINTHIANS1_15_P012_F1",
+      "order": 43,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0075,
+        0.26,
+        0.0752
+      ],
+      "tail": [
+        0.15,
+        0.1078
+      ],
+      "text_key": "corinthians1.15.p12.b43"
+    },
+    {
+      "id": "CORINTHIANS1_15_P012_B044",
+      "panel": "CORINTHIANS1_15_P012_F2",
+      "order": 44,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0149,
+        0.2635,
+        0.159,
+        0.0829
+      ],
+      "tail": [
+        0.0944,
+        0.3783
+      ],
+      "text_key": "corinthians1.15.p12.b44"
+    },
+    {
+      "id": "CORINTHIANS1_15_P012_B045",
+      "panel": "CORINTHIANS1_15_P012_F3",
+      "order": 45,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5278,
+        0.2635,
+        0.4473,
+        0.0446
+      ],
+      "tail": [
+        0.7515,
+        0.34
+      ],
+      "text_key": "corinthians1.15.p12.b45"
+    },
+    {
+      "id": "CORINTHIANS1_15_P012_B046",
+      "panel": "CORINTHIANS1_15_P012_F4",
+      "order": 46,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.5932,
+        0.6,
+        0.0593
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p12.b46"
+    }
+  ]
+}

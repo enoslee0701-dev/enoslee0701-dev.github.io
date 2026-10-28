@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_07_P005",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 5,
+  "ref": "7:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "只要照着主分给各人的、　神呼召各人的去生活。我对各教会都是这样吩咐的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P005_F2",
+      "box": [
+        0,
+        0.263,
+        1,
+        0.4121
+      ],
+      "alt": {
+        "zh-CN": "受割礼不算什么，不受割礼也不算什么，只要遵守　神的诫命就是了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P005_F3",
+      "box": [
+        0,
+        0.6777,
+        1,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "每个人蒙召的时候是什么身份，仍要守住这身份。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P005_B013",
+      "panel": "CORINTHIANS1_07_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0052,
+        0.24,
+        0.0415
+      ],
+      "tail": [
+        0.56,
+        0.0727
+      ],
+      "text_key": "corinthians1.7.p5.b13"
+    },
+    {
+      "id": "CORINTHIANS1_07_P005_B014",
+      "panel": "CORINTHIANS1_07_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.2754,
+        0.4,
+        0.0659
+      ],
+      "tail": [
+        0.5,
+        0.3825
+      ],
+      "text_key": "corinthians1.7.p5.b14"
+    },
+    {
+      "id": "CORINTHIANS1_07_P005_B015",
+      "panel": "CORINTHIANS1_07_P005_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.6906,
+        0.41,
+        0.0773
+      ],
+      "tail": [
+        0.765,
+        0.8001
+      ],
+      "text_key": "corinthians1.7.p5.b15"
+    }
+  ]
+}

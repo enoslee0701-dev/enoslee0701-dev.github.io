@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_06_P005",
+  "book": "corinthians1",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_06_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5352,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "凡事我都可以做，但不是都有益处。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P005_F2",
+      "box": [
+        0.5449,
+        0,
+        0.4551,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "食物是为了肚腹，肚腹是为了食物；但神要使这两样都归于无有。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P005_F3",
+      "box": [
+        0,
+        0.3776,
+        1,
+        0.6224
+      ],
+      "alt": {
+        "zh-CN": "而且神已经使主复活，也要用自己的能力使我们复活。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_06_P005_B013",
+      "panel": "CORINTHIANS1_06_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0161,
+        0.0112,
+        0.198,
+        0.1122
+      ],
+      "tail": [
+        0.1151,
+        0.1608
+      ],
+      "text_key": "corinthians1.6.p5.b13"
+    },
+    {
+      "id": "CORINTHIANS1_06_P005_B014",
+      "panel": "CORINTHIANS1_06_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5677,
+        0.262,
+        0.4004,
+        0.101
+      ],
+      "tail": [
+        0.7679,
+        0.3743
+      ],
+      "text_key": "corinthians1.6.p5.b14"
+    },
+    {
+      "id": "CORINTHIANS1_06_P005_B015",
+      "panel": "CORINTHIANS1_06_P005_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.3963,
+        0.39,
+        0.112
+      ],
+      "tail": [
+        0.775,
+        0.5705
+      ],
+      "text_key": "corinthians1.6.p5.b15"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": "CORINTHIANS1_01_P003",
+  "book": "corinthians1",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2142
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，……你们中间不要分党，要同心合意，彼此和睦。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_F2",
+      "box": [
+        0,
+        0.2188,
+        1,
+        0.3802
+      ],
+      "alt": {
+        "zh-CN": "因为革来家里的人告诉我，说你们中间有纷争。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_F3",
+      "box": [
+        0,
+        0.6035,
+        0.248,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "「我是跟随保罗的」"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_F4",
+      "box": [
+        0.2539,
+        0.6035,
+        0.2441,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "「我是跟随亚波罗的」"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_F5",
+      "box": [
+        0.5039,
+        0.6035,
+        0.2451,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "「我是跟随矶法的」"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_F6",
+      "box": [
+        0.7549,
+        0.6035,
+        0.2451,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "「我是跟随基督的」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_01_P003_B001",
+      "panel": "CORINTHIANS1_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0064,
+        0.4,
+        0.0471
+      ],
+      "tail": [
+        0.64,
+        0.0749
+      ],
+      "text_key": "corinthians1.1.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_B002",
+      "panel": "CORINTHIANS1_01_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.2302,
+        0.28,
+        0.0608
+      ],
+      "tail": [
+        0.74,
+        0.329
+      ],
+      "text_key": "corinthians1.1.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_B003",
+      "panel": "CORINTHIANS1_01_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0124,
+        0.9128,
+        0.2232,
+        0.0713
+      ],
+      "tail": [
+        0.124,
+        1
+      ],
+      "text_key": "corinthians1.1.p3.b3"
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_B004",
+      "panel": "CORINTHIANS1_01_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2661,
+        0.9128,
+        0.2196,
+        0.0713
+      ],
+      "tail": [
+        0.3759,
+        1
+      ],
+      "text_key": "corinthians1.1.p3.b4"
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_B005",
+      "panel": "CORINTHIANS1_01_P003_F5",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5162,
+        0.9128,
+        0.2205,
+        0.0713
+      ],
+      "tail": [
+        0.6264,
+        1
+      ],
+      "text_key": "corinthians1.1.p3.b5"
+    },
+    {
+      "id": "CORINTHIANS1_01_P003_B006",
+      "panel": "CORINTHIANS1_01_P003_F6",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7672,
+        0.9128,
+        0.2205,
+        0.0713
+      ],
+      "tail": [
+        0.8775,
+        1
+      ],
+      "text_key": "corinthians1.1.p3.b6"
+    }
+  ]
+}

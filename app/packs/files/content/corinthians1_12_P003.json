@@ -1,0 +1,97 @@
+{
+  "id": "CORINTHIANS1_12_P003",
+  "book": "corinthians1",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_12_P003_F1",
+      "box": [
+        0,
+        0,
+        0.3281,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "有人从圣灵领受了智慧的言语，有人从同一位圣灵领受了知识的言语，……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_12_P003_F2",
+      "box": [
+        0.335,
+        0,
+        0.332,
+        0.4017
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_12_P003_F3",
+      "box": [
+        0.6738,
+        0,
+        0.3262,
+        0.4017
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_12_P003_F4",
+      "box": [
+        0,
+        0.4056,
+        1,
+        0.5944
+      ],
+      "alt": {
+        "zh-CN": "这一切都是同一位圣灵在做工，照祂自己的意思分给每个人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_12_P003_B006",
+      "panel": "CORINTHIANS1_12_P003_F1",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0197,
+        0.0121,
+        0.2887,
+        0.0642
+      ],
+      "tail": [
+        0.1641,
+        0.1165
+      ],
+      "text_key": "corinthians1.12.p3.b6"
+    },
+    {
+      "id": "CORINTHIANS1_12_P003_B007",
+      "panel": "CORINTHIANS1_12_P003_F4",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.8811,
+        0.37,
+        0.0951
+      ],
+      "tail": [
+        0.785,
+        1
+      ],
+      "text_key": "corinthians1.12.p3.b7"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS1_15_P010",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 10,
+  "ref": "15:39-41",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "所有的肉体都各不相同……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P010_F2",
+      "box": [
+        0,
+        0.2513,
+        0.4961,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "有天上的形体，也有地上的形体……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P010_F3",
+      "box": [
+        0.502,
+        0.2513,
+        0.498,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "太阳有太阳的荣光，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P010_F4",
+      "box": [
+        0,
+        0.5182,
+        1,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "月亮有月亮的荣光，星星有星星的荣光；这颗星和那颗星的荣光也有分别。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P010_B035",
+      "panel": "CORINTHIANS1_15_P010_F1",
+      "order": 35,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0074,
+        0.4,
+        0.0396
+      ],
+      "tail": [
+        0.24,
+        0.0718
+      ],
+      "text_key": "corinthians1.15.p10.b35"
+    },
+    {
+      "id": "CORINTHIANS1_15_P010_B036",
+      "panel": "CORINTHIANS1_15_P010_F2",
+      "order": 36,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0248,
+        0.2592,
+        0.4464,
+        0.0526
+      ],
+      "tail": [
+        0.248,
+        0.3381
+      ],
+      "text_key": "corinthians1.15.p10.b36"
+    },
+    {
+      "id": "CORINTHIANS1_15_P010_B037",
+      "panel": "CORINTHIANS1_15_P010_F3",
+      "order": 37,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5269,
+        0.4617,
+        0.4482,
+        0.042
+      ],
+      "tail": [
+        0.751,
+        0.5143
+      ],
+      "text_key": "corinthians1.15.p10.b37"
+    },
+    {
+      "id": "CORINTHIANS1_15_P010_B038",
+      "panel": "CORINTHIANS1_15_P010_F4",
+      "order": 38,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5375,
+        0.48,
+        0.077
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p10.b38"
+    }
+  ]
+}

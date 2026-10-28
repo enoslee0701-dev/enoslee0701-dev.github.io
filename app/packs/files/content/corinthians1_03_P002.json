@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_03_P002",
+  "book": "corinthians1",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "有人说：「我是属保罗的」；有人说：「我是属亚波罗的。」这不就是你们和世人一样吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P002_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.7292
+      ],
+      "alt": {
+        "zh-CN": "亚波罗算什么？保罗又算什么？不过是仆人，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P002_F3",
+      "box": [
+        0.3975,
+        0.632,
+        0.6025,
+        0.368
+      ],
+      "alt": {
+        "zh-CN": "照着主给他们各人的，带领你们信主。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_03_P002_B001",
+      "panel": "CORINTHIANS1_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.008,
+        0.4,
+        0.0481
+      ],
+      "tail": [
+        0.5,
+        0.0829
+      ],
+      "text_key": "corinthians1.3.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS1_03_P002_B002",
+      "panel": "CORINTHIANS1_03_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2927,
+        0.47,
+        0.1093
+      ],
+      "tail": [
+        0.735,
+        0.4749
+      ],
+      "text_key": "corinthians1.3.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS1_03_P002_B003",
+      "panel": "CORINTHIANS1_03_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4276,
+        0.919,
+        0.5422,
+        0.0662
+      ],
+      "tail": [
+        0.6987,
+        1
+      ],
+      "text_key": "corinthians1.3.p2.b3"
+    }
+  ]
+}

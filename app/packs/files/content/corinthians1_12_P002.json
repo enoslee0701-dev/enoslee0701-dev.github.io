@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_12_P002",
+  "book": "corinthians1",
+  "chapter": 12,
+  "page": 2,
+  "ref": "12:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_12_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_12_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "恩赐有各种不同，但圣灵是同一位。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_12_P002_F2",
+      "box": [
+        0,
+        0.2878,
+        1,
+        0.3971
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_12_P002_F3",
+      "box": [
+        0,
+        0.6882,
+        1,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "圣灵在每个人身上显明出来，是为了让大家得益处。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_12_P002_B004",
+      "panel": "CORINTHIANS1_12_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0114,
+        0.42,
+        0.0681
+      ],
+      "tail": [
+        0.75,
+        0.1079
+      ],
+      "text_key": "corinthians1.12.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_12_P002_B005",
+      "panel": "CORINTHIANS1_12_P002_F3",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7007,
+        0.36,
+        0.0685
+      ],
+      "tail": [
+        0.21,
+        0.8004
+      ],
+      "text_key": "corinthians1.12.p2.b5"
+    }
+  ]
+}

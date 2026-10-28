@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_05_P001",
+  "book": "corinthians1",
+  "chapter": 5,
+  "page": 1,
+  "ref": "5:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_05_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_05_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "听说你们中间有淫乱的事，这样的淫乱连外邦人中也没有……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P001_F2",
+      "box": [
+        0,
+        0.2936,
+        1,
+        0.401
+      ],
+      "alt": {
+        "zh-CN": "你们还是骄傲自大，并不哀痛，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P001_F3",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "要把做这事的人从你们中间赶出去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_05_P001_B001",
+      "panel": "CORINTHIANS1_05_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5,
+        0.0087,
+        0.46,
+        0.052
+      ],
+      "tail": [
+        0.73,
+        0.0896
+      ],
+      "text_key": "corinthians1.5.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_05_P001_B002",
+      "panel": "CORINTHIANS1_05_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.3538,
+        0.37,
+        0.0561
+      ],
+      "tail": [
+        0.785,
+        0.45
+      ],
+      "text_key": "corinthians1.5.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_05_P001_B003",
+      "panel": "CORINTHIANS1_05_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.7107,
+        0.45,
+        0.0843
+      ],
+      "tail": [
+        0.745,
+        0.8251
+      ],
+      "text_key": "corinthians1.5.p1.b3"
+    }
+  ]
+}

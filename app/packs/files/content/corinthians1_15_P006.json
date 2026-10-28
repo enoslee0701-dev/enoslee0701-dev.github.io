@@ -1,0 +1,133 @@
+{
+  "id": "CORINTHIANS1_15_P006",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 6,
+  "ref": "15:20-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "但基督确实已经从死人中复活，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P006_F2",
+      "box": [
+        0,
+        0.2643,
+        1,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "……成为已经睡了的人中初熟的果子。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P006_F3",
+      "box": [
+        0,
+        0.6211,
+        0.502,
+        0.3789
+      ],
+      "alt": {
+        "zh-CN": "在亚当里所有人都死了；同样，在基督里所有人都要复活。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P006_F4",
+      "box": [
+        0.5078,
+        0.6211,
+        0.4922,
+        0.3789
+      ],
+      "alt": {
+        "zh-CN": "……初熟的果子是基督；以后，在他再来的时候，是那些属于基督的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P006_B019",
+      "panel": "CORINTHIANS1_15_P006_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.43,
+        0.0052,
+        0.27,
+        0.0444
+      ],
+      "tail": [
+        0.565,
+        0.0758
+      ],
+      "text_key": "corinthians1.15.p6.b19"
+    },
+    {
+      "id": "CORINTHIANS1_15_P006_B020",
+      "panel": "CORINTHIANS1_15_P006_F2",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2784,
+        0.4,
+        0.0494
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p6.b20"
+    },
+    {
+      "id": "CORINTHIANS1_15_P006_B021",
+      "panel": "CORINTHIANS1_15_P006_F3",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.261,
+        0.6325,
+        0.2259,
+        0.0985
+      ],
+      "tail": [
+        0.374,
+        0.7689
+      ],
+      "text_key": "corinthians1.15.p6.b21"
+    },
+    {
+      "id": "CORINTHIANS1_15_P006_B022",
+      "panel": "CORINTHIANS1_15_P006_F4",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5324,
+        0.9166,
+        0.4429,
+        0.0682
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p6.b22"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_16_P005",
+  "book": "corinthians1",
+  "chapter": 16,
+  "page": 5,
+  "ref": "16:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_16_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_16_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5052
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，你们知道司提反一家是亚该亚最早信主的人，而且他们一心服事圣徒。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P005_F2",
+      "box": [
+        0,
+        0.5098,
+        1,
+        0.1784
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_16_P005_F3",
+      "box": [
+        0,
+        0.6921,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "司提反、福徒拿都和亚该古来到这里，我很高兴；因为你们没能为我做到的，他们补上了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_16_P005_B001",
+      "panel": "CORINTHIANS1_16_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0152,
+        0.46,
+        0.0909
+      ],
+      "tail": [
+        0.73,
+        0.1566
+      ],
+      "text_key": "corinthians1.16.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS1_16_P005_B002",
+      "panel": "CORINTHIANS1_16_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.7013,
+        0.45,
+        0.0615
+      ],
+      "tail": [
+        0.745,
+        0.7936
+      ],
+      "text_key": "corinthians1.16.p5.b2"
+    }
+  ]
+}

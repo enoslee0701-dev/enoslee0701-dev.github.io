@@ -1,0 +1,133 @@
+{
+  "id": "CORINTHIANS1_15_P007",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 7,
+  "ref": "15:24-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "然后，末期到了，那时基督毁灭了一切执政的、掌权的、有能力的，就把国交给父神。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P007_F2",
+      "box": [
+        0,
+        0.2813,
+        0.498,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "因为基督必须作王，直到神把一切仇敌都放在他的脚下。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P007_F3",
+      "box": [
+        0.5029,
+        0.2813,
+        0.4971,
+        0.2572
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_15_P007_F4",
+      "box": [
+        0,
+        0.541,
+        1,
+        0.459
+      ],
+      "alt": {
+        "zh-CN": "最后被毁灭的仇敌就是死。……使神在万物之上，作万物的主。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P007_B023",
+      "panel": "CORINTHIANS1_15_P007_F1",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0084,
+        0.36,
+        0.0501
+      ],
+      "tail": [
+        0.8,
+        0.0864
+      ],
+      "text_key": "corinthians1.15.p7.b23"
+    },
+    {
+      "id": "CORINTHIANS1_15_P007_B024",
+      "panel": "CORINTHIANS1_15_P007_F2",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2739,
+        0.289,
+        0.2091,
+        0.0565
+      ],
+      "tail": [
+        0.3784,
+        0.3712
+      ],
+      "text_key": "corinthians1.15.p7.b24"
+    },
+    {
+      "id": "CORINTHIANS1_15_P007_B025",
+      "panel": "CORINTHIANS1_15_P007_F4",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5594,
+        0.44,
+        0.0734
+      ],
+      "tail": [
+        0.74,
+        0.6787
+      ],
+      "text_key": "corinthians1.15.p7.b25"
+    },
+    {
+      "id": "CORINTHIANS1_15_P007_B026",
+      "panel": "CORINTHIANS1_15_P007_F4",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.9174,
+        0.44,
+        0.0642
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p7.b26"
+    }
+  ]
+}

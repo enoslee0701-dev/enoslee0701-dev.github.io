@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_02_P003",
+  "book": "corinthians1",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "正如经上所写的：　神为爱他的人所预备的，是眼睛没有看过，耳朵没有听过，人心也没有想到的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_02_P003_F2",
+      "box": [
+        0,
+        0.2806,
+        1,
+        0.4206
+      ],
+      "alt": {
+        "zh-CN": "只有　神借着圣灵向我们显明了，因为圣灵洞察一切，……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_02_P003_F3",
+      "box": [
+        0,
+        0.7064,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "我们所领受的不是世界的灵，而是从　神来的灵，使我们能知道　神白白赐给我们的事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_02_P003_B001",
+      "panel": "CORINTHIANS1_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.011,
+        0.42,
+        0.0662
+      ],
+      "tail": [
+        0.76,
+        0.1048
+      ],
+      "text_key": "corinthians1.2.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS1_02_P003_B002",
+      "panel": "CORINTHIANS1_02_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2932,
+        0.38,
+        0.0672
+      ],
+      "tail": [
+        0.22,
+        0.4025
+      ],
+      "text_key": "corinthians1.2.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS1_02_P003_B003",
+      "panel": "CORINTHIANS1_02_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.7181,
+        0.45,
+        0.0645
+      ],
+      "tail": [
+        0.265,
+        0.812
+      ],
+      "text_key": "corinthians1.2.p3.b3"
+    }
+  ]
+}

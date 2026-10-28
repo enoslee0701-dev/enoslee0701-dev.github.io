@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_03_P005",
+  "book": "corinthians1",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:13-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_03_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "各人的工作将来必要显露出来，因为那日子要把它显明，是在火中显露；这火要考验各人的工作是怎样的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P005_F2",
+      "box": [
+        0,
+        0.2813,
+        1,
+        0.4043
+      ],
+      "alt": {
+        "zh-CN": "人在那根基上所建造的工作如果留得住，他就要得赏赐。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P005_F3",
+      "box": [
+        0,
+        0.6895,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "……他自己却要得救；不过，这得救像是从火里经过的一样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_03_P005_B001",
+      "panel": "CORINTHIANS1_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0111,
+        0.4,
+        0.061
+      ],
+      "tail": [
+        0.23,
+        0.0998
+      ],
+      "text_key": "corinthians1.3.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS1_03_P005_B002",
+      "panel": "CORINTHIANS1_03_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2975,
+        0.4,
+        0.0808
+      ],
+      "tail": [
+        0.76,
+        0.4187
+      ],
+      "text_key": "corinthians1.3.p5.b2"
+    },
+    {
+      "id": "CORINTHIANS1_03_P005_B003",
+      "panel": "CORINTHIANS1_03_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.6988,
+        0.28,
+        0.0621
+      ],
+      "tail": [
+        0.84,
+        0.792
+      ],
+      "text_key": "corinthians1.3.p5.b3"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "CORINTHIANS1_12_P005",
+  "book": "corinthians1",
+  "chapter": 12,
+  "page": 5,
+  "ref": "12:15-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_12_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_12_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "假如脚说：「我不是手，所以不属于身体」，它并不因此就不属于身体。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_12_P005_F2",
+      "box": [
+        0,
+        0.25,
+        0.5879,
+        0.2786
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_12_P005_F3",
+      "box": [
+        0.5947,
+        0.25,
+        0.4053,
+        0.2786
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_12_P005_F4",
+      "box": [
+        0,
+        0.5319,
+        1,
+        0.4681
+      ],
+      "alt": {
+        "zh-CN": "但现在肢体有很多，身体却只有一个。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_12_P005_B010",
+      "panel": "CORINTHIANS1_12_P005_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0099,
+        0.46,
+        0.0593
+      ],
+      "tail": [
+        0.73,
+        0.0939
+      ],
+      "text_key": "corinthians1.12.p5.b10"
+    },
+    {
+      "id": "CORINTHIANS1_12_P005_B011",
+      "panel": "CORINTHIANS1_12_P005_F4",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.5506,
+        0.4,
+        0.0842
+      ],
+      "tail": [
+        0.76,
+        0.6816
+      ],
+      "text_key": "corinthians1.12.p5.b11"
+    }
+  ]
+}

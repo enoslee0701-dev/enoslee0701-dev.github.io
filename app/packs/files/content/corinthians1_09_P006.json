@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_09_P006",
+  "book": "corinthians1",
+  "chapter": 9,
+  "page": 6,
+  "ref": "9:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_09_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_09_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "难道你们不知道，在赛场上赛跑的人都在跑，但得奖赏的只有一个人吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_09_P006_F2",
+      "box": [
+        0,
+        0.2383,
+        1,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "你们也应当这样跑，好让你们得着奖赏。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_09_P006_F3",
+      "box": [
+        0,
+        0.6712,
+        1,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "……他们不过是要得会坏的冠冕；我们却是要得不会坏的冠冕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_09_P006_B017",
+      "panel": "CORINTHIANS1_09_P006_F1",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.26,
+        0.0093,
+        0.31,
+        0.0701
+      ],
+      "tail": [
+        0.415,
+        0.1028
+      ],
+      "text_key": "corinthians1.9.p6.b17"
+    },
+    {
+      "id": "CORINTHIANS1_09_P006_B018",
+      "panel": "CORINTHIANS1_09_P006_F2",
+      "order": 18,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2512,
+        0.4,
+        0.0686
+      ],
+      "tail": [
+        0,
+        0.3627
+      ],
+      "text_key": "corinthians1.9.p6.b18"
+    },
+    {
+      "id": "CORINTHIANS1_09_P006_B019",
+      "panel": "CORINTHIANS1_09_P006_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.6844,
+        0.42,
+        0.0789
+      ],
+      "tail": [
+        0,
+        0.7962
+      ],
+      "text_key": "corinthians1.9.p6.b19"
+    }
+  ]
+}

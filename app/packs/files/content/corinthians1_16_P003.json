@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_16_P003",
+  "book": "corinthians1",
+  "chapter": 16,
+  "page": 3,
+  "ref": "16:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_16_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_16_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5322,
+        0.3822
+      ],
+      "alt": {
+        "zh-CN": "如果提摩太来了，你们要留意，让他在你们那里没有什么可怕的；因为他做主的工作，跟我一样。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P003_F2",
+      "box": [
+        0.5371,
+        0,
+        0.4629,
+        0.3822
+      ],
+      "alt": {
+        "zh-CN": "至于亚波罗弟兄，我再三劝他跟弟兄们一起到你们那里去；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P003_F3",
+      "box": [
+        0,
+        0.3854,
+        1,
+        0.6146
+      ],
+      "alt": {
+        "zh-CN": "但他现在一点也不愿意去，有机会的时候他会去的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_16_P003_B001",
+      "panel": "CORINTHIANS1_16_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0266,
+        0.2981,
+        0.4789,
+        0.0687
+      ],
+      "tail": [
+        0.2661,
+        0.3822
+      ],
+      "text_key": "corinthians1.16.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS1_16_P003_B002",
+      "panel": "CORINTHIANS1_16_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.551,
+        0.0115,
+        0.2314,
+        0.0687
+      ],
+      "tail": [
+        0.6667,
+        0.1184
+      ],
+      "text_key": "corinthians1.16.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS1_16_P003_B003",
+      "panel": "CORINTHIANS1_16_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.4038,
+        0.42,
+        0.086
+      ],
+      "tail": [
+        0.76,
+        0.5513
+      ],
+      "text_key": "corinthians1.16.p3.b3"
+    }
+  ]
+}

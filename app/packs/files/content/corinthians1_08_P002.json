@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_08_P002",
+  "book": "corinthians1",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2174
+      ],
+      "alt": {
+        "zh-CN": "……我们知道偶像在世上不算什么，也知道除了一位　神以外，再没有别的　神。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P002_F2",
+      "box": [
+        0,
+        0.2201,
+        0.6436,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "然而我们只有一位　神，就是父，万物都出于他，我们也为他而活；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P002_F3",
+      "box": [
+        0,
+        0.5417,
+        1,
+        0.4583
+      ],
+      "alt": {
+        "zh-CN": "也只有一位主，就是耶稣基督，万物都是借着他而有，我们也是借着他而有。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_08_P002_B004",
+      "panel": "CORINTHIANS1_08_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.1652,
+        0.5,
+        0.0478
+      ],
+      "tail": [
+        0.55,
+        0.2174
+      ],
+      "text_key": "corinthians1.8.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_08_P002_B005",
+      "panel": "CORINTHIANS1_08_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3218,
+        0.2296,
+        0.3024,
+        0.0635
+      ],
+      "tail": [
+        0.473,
+        0.3249
+      ],
+      "text_key": "corinthians1.8.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_08_P002_B006",
+      "panel": "CORINTHIANS1_08_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.9083,
+        0.4,
+        0.0779
+      ],
+      "tail": [
+        0.23,
+        1
+      ],
+      "text_key": "corinthians1.8.p2.b6"
+    }
+  ]
+}

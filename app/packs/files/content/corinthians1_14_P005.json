@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS1_14_P005",
+  "book": "corinthians1",
+  "chapter": 14,
+  "page": 5,
+  "ref": "14:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_14_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_14_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，在思想上不要作小孩子；在恶事上要像婴孩，在思想上却要作成熟的人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P005_F2",
+      "box": [
+        0,
+        0.2487,
+        0.4883,
+        0.4336
+      ],
+      "alt": {
+        "zh-CN": "主说：我要借外族人的舌头和外族人的嘴唇向这百姓说话，即使这样，他们还是不听我。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P005_F3",
+      "box": [
+        0.4951,
+        0.2487,
+        0.5049,
+        0.4336
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_14_P005_F4",
+      "box": [
+        0,
+        0.6868,
+        1,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "……说先知话不是给不信的人作证据，而是给信的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_14_P005_B015",
+      "panel": "CORINTHIANS1_14_P005_F1",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0073,
+        0.46,
+        0.0391
+      ],
+      "tail": [
+        0.73,
+        0.0709
+      ],
+      "text_key": "corinthians1.14.p5.b15"
+    },
+    {
+      "id": "CORINTHIANS1_14_P005_B016",
+      "panel": "CORINTHIANS1_14_P005_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0514,
+        0.46,
+        0.0367
+      ],
+      "tail": [
+        0.73,
+        0.1126
+      ],
+      "text_key": "corinthians1.14.p5.b16"
+    },
+    {
+      "id": "CORINTHIANS1_14_P005_B017",
+      "panel": "CORINTHIANS1_14_P005_F2",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0244,
+        0.5696,
+        0.4394,
+        0.0953
+      ],
+      "tail": [
+        0.2441,
+        0.6823
+      ],
+      "text_key": "corinthians1.14.p5.b17"
+    },
+    {
+      "id": "CORINTHIANS1_14_P005_B018",
+      "panel": "CORINTHIANS1_14_P005_F4",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.76,
+        0.6931,
+        0.22,
+        0.0532
+      ],
+      "tail": [
+        0.87,
+        0.7776
+      ],
+      "text_key": "corinthians1.14.p5.b18"
+    }
+  ]
+}

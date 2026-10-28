@@ -1,0 +1,152 @@
+{
+  "corinthians1.13.p1.b1": {
+    "text": "내가 사람의 방언과 천사의 말을 할지라도 사랑이 없으면 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p1.b2": {
+    "text": "… 소리나는 구리와 울리는 꽹과리가 되고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p1.b3": {
+    "text": "… 사랑이 없으면 내가 아무 것도 아니요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p1.b4": {
+    "text": "… 사랑이 없으면 내게 아무 유익이 없느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p2.b5": {
+    "text": "사랑은 오래 참고 사랑은 온유하며 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p2.b6": {
+    "text": "… 사랑은 자랑하지 아니하며 교만하지 아니하며 무례히 행치 아니하며 자기의 유익을 구치 아니하며 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p3.b7": {
+    "text": "불의를 기뻐하지 아니하며 진리와 함께 기뻐하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p3.b8": {
+    "text": "모든 것을 참으며 모든 것을 믿으며 모든 것을 바라며 모든 것을 견디느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p4.b9": {
+    "text": "사랑은 언제까지든지 떨어지지 아니하나 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p4.b10": {
+    "text": "… 예언도 폐하고 방언도 그치고 지식도 폐하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p4.b11": {
+    "text": "내가 어렸을 때에는 말하는 것이 어린 아이와 같고 깨닫는 것이 어린 아이와 같고 생각하는 것이 어린 아이와 같다가 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p4.b12": {
+    "text": "… 장성한 사람이 되어서는 어린 아이의 일을 버렸노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p5.b13": {
+    "text": "우리가 이제는 거울로 보는 것 같이 희미하나 그 때에는 얼굴과 얼굴을 대하여 볼 것이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p5.b14": {
+    "text": "… 이제는 내가 부분적으로 아나 그 때에는 주께서 나를 아신 것 같이 내가 온전히 알리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.13.p5.b15": {
+    "text": "그런즉 믿음, 소망, 사랑 이 세가지는 항상 있을 것인데 그 중에 제일은 사랑이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Corinthians 13:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

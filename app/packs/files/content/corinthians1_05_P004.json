@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS1_05_P004",
+  "book": "corinthians1",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "我先前写信给你们说，不要和淫乱的人交往。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P004_F2",
+      "box": [
+        0,
+        0.2461,
+        1,
+        0.4069
+      ],
+      "alt": {
+        "zh-CN": "这话不是指这世上所有淫乱的……如果是这样，你们除非离开这个世界才行。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P004_F3",
+      "box": [
+        0,
+        0.6563,
+        0.4844,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "如果有称为弟兄的是淫乱的……这样的人不可和他交往，就是和他吃饭都不可以。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P004_F4",
+      "box": [
+        0.4912,
+        0.6563,
+        0.5088,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "至于外人，有　神审判他们。你们应当把那恶人从你们中间赶出去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_05_P004_B010",
+      "panel": "CORINTHIANS1_05_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0072,
+        0.45,
+        0.0434
+      ],
+      "tail": [
+        0.745,
+        0.0748
+      ],
+      "text_key": "corinthians1.5.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_05_P004_B011",
+      "panel": "CORINTHIANS1_05_P004_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2583,
+        0.42,
+        0.0651
+      ],
+      "tail": [
+        0.24,
+        0.3641
+      ],
+      "text_key": "corinthians1.5.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_05_P004_B012",
+      "panel": "CORINTHIANS1_05_P004_F3",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0242,
+        0.6666,
+        0.4262,
+        0.1031
+      ],
+      "tail": [
+        0.2373,
+        0.8041
+      ],
+      "text_key": "corinthians1.5.p4.b12"
+    },
+    {
+      "id": "CORINTHIANS1_05_P004_B013",
+      "panel": "CORINTHIANS1_05_P004_F4",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7354,
+        0.6666,
+        0.2493,
+        0.0756
+      ],
+      "tail": [
+        0.8601,
+        0.7766
+      ],
+      "text_key": "corinthians1.5.p4.b13"
+    }
+  ]
+}

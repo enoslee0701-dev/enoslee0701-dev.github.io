@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_09_P002",
+  "book": "corinthians1",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "难道我们没有权利娶信主的姊妹为妻，带着她一同往来……吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_09_P002_F2",
+      "box": [
+        0,
+        0.2845,
+        1,
+        0.4323
+      ],
+      "alt": {
+        "zh-CN": "难道只有我和巴拿巴没有权利不做工吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_09_P002_F3",
+      "box": [
+        0,
+        0.7214,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "有谁当兵要自己出钱呢？有谁栽种葡萄园而不吃园里的果子呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_09_P002_B004",
+      "panel": "CORINTHIANS1_09_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.0111,
+        0.26,
+        0.1114
+      ],
+      "tail": [
+        0.38,
+        0.1504
+      ],
+      "text_key": "corinthians1.9.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_09_P002_B005",
+      "panel": "CORINTHIANS1_09_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.74,
+        0.2975,
+        0.24,
+        0.0734
+      ],
+      "tail": [
+        0.86,
+        0.4141
+      ],
+      "text_key": "corinthians1.9.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_09_P002_B006",
+      "panel": "CORINTHIANS1_09_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.7325,
+        0.45,
+        0.0668
+      ],
+      "tail": [
+        0,
+        0.8272
+      ],
+      "text_key": "corinthians1.9.p2.b6"
+    }
+  ]
+}

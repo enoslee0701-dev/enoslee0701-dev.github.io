@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS1_15_P005",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 5,
+  "ref": "15:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "……如果死人真的不会复活，神也就没有使基督复活了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P005_F2",
+      "box": [
+        0,
+        0.2415,
+        0.3857,
+        0.4154
+      ],
+      "alt": {
+        "zh-CN": "如果基督没有复活，你们的信就是徒然的，你们仍然在罪里。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P005_F3",
+      "box": [
+        0.3926,
+        0.2415,
+        0.6074,
+        0.7585
+      ],
+      "alt": {
+        "zh-CN": "那么在基督里已经去世的人也就灭亡了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P005_F4",
+      "box": [
+        0,
+        0.6615,
+        0.3857,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "如果我们在基督里的盼望只限于今生，我们就比所有人更可怜。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P005_B015",
+      "panel": "CORINTHIANS1_15_P005_F1",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0071,
+        0.4,
+        0.038
+      ],
+      "tail": [
+        0.24,
+        0.0689
+      ],
+      "text_key": "corinthians1.15.p5.b15"
+    },
+    {
+      "id": "CORINTHIANS1_15_P005_B016",
+      "panel": "CORINTHIANS1_15_P005_F2",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0193,
+        0.254,
+        0.3471,
+        0.0747
+      ],
+      "tail": [
+        0.1929,
+        0.3702
+      ],
+      "text_key": "corinthians1.15.p5.b16"
+    },
+    {
+      "id": "CORINTHIANS1_15_P005_B017",
+      "panel": "CORINTHIANS1_15_P005_F3",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4169,
+        0.2567,
+        0.2672,
+        0.0758
+      ],
+      "tail": [
+        0.5505,
+        0.4084
+      ],
+      "text_key": "corinthians1.15.p5.b17"
+    },
+    {
+      "id": "CORINTHIANS1_15_P005_B018",
+      "panel": "CORINTHIANS1_15_P005_F4",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0193,
+        0.9323,
+        0.3471,
+        0.0541
+      ],
+      "tail": [
+        0.1929,
+        1
+      ],
+      "text_key": "corinthians1.15.p5.b18"
+    }
+  ]
+}

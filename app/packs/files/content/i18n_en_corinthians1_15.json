@@ -1,0 +1,552 @@
+{
+  "corinthians1.15.p1.b1": {
+    "text": "Now, brothers, I want to remind you of the gospel I preached to you, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p1.b2": {
+    "text": "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that He was buried, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:3-4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p1.b3": {
+    "text": "… that He was raised on the third day according to the Scriptures, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p2.b4": {
+    "text": "and that He appeared to Cephas and then to the Twelve.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p2.b5": {
+    "text": "After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p2.b6": {
+    "text": "Then He appeared to James, then to all the apostles.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p2.b7": {
+    "text": "And last of all He appeared to me also, as to one of untimely birth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p3.b8": {
+    "text": "For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p3.b9": {
+    "text": "But by the grace of God I am what I am, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p3.b10": {
+    "text": "… yet not I, but the grace of God that was with me.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p3.b11": {
+    "text": "Whether, then, it was I or they, this is what we preach, and this is what you believed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p4.b12": {
+    "text": "But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p4.b13": {
+    "text": "If there is no resurrection of the dead, then not even Christ has been raised.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p4.b14": {
+    "text": "And if Christ has not been raised, our preaching is worthless, and so is your faith.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p5.b15": {
+    "text": "… but He did not raise Him if in fact the dead are not raised.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p5.b16": {
+    "text": "And if Christ has not been raised, your faith is futile; you are still in your sins.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p5.b17": {
+    "text": "Then those also who have fallen asleep in Christ have perished.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p5.b18": {
+    "text": "If our hope in Christ is for this life alone, we are to be pitied more than all men.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p6.b19": {
+    "text": "But Christ has indeed been raised from the dead, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p6.b20": {
+    "text": "… the firstfruits of those who have fallen asleep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p6.b21": {
+    "text": "For as in Adam all die, so in Christ all will be made alive.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p6.b22": {
+    "text": "… Christ the firstfruits; then at His coming, those who belong to Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p7.b23": {
+    "text": "Then the end will come, when He hands over the kingdom to God the Father …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p7.b24": {
+    "text": "For He must reign until He has put all His enemies under His feet.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p7.b25": {
+    "text": "The last enemy to be destroyed is death.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p7.b26": {
+    "text": "… so that God may be all in all.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p8.b27": {
+    "text": "And why do we endanger ourselves every hour?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p8.b28": {
+    "text": "I face death every day, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p8.b29": {
+    "text": "… If the dead are not raised, “Let us eat and drink, for tomorrow we die.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p8.b30": {
+    "text": "Sober up as you ought, and stop sinning; …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p9.b31": {
+    "text": "But someone will ask, “How are the dead raised? With what kind of body will they come?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p9.b32": {
+    "text": "… What you sow does not come to life unless it dies.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p9.b33": {
+    "text": "… but just a seed, perhaps of wheat or something else.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p9.b34": {
+    "text": "But God gives it a body as He has designed, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p10.b35": {
+    "text": "Not all flesh is the same: …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p10.b36": {
+    "text": "There are also heavenly bodies and earthly bodies. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p10.b37": {
+    "text": "The sun has one degree of splendor, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p10.b38": {
+    "text": "… the moon another, and the stars another; and star differs from star in splendor.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p11.b39": {
+    "text": "So will it be with the resurrection of the dead: …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p11.b40": {
+    "text": "… What is sown is perishable; it is raised imperishable.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p11.b41": {
+    "text": "… It is sown in weakness; it is raised in power.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p11.b42": {
+    "text": "So it is written: “The first man Adam became a living being;” the last Adam a life-giving spirit.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p12.b43": {
+    "text": "The first man was of the dust of the earth, the second man from heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p12.b44": {
+    "text": "As was the earthly man, so also are those who are of the earth; …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p12.b45": {
+    "text": "… and as is the heavenly man, so also are those who are of heaven.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:48"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p12.b46": {
+    "text": "And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p13.b47": {
+    "text": "Listen, I tell you a mystery: We will not all sleep, but we will all be changed—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:51"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p13.b48": {
+    "text": "in an instant, in the twinkling of an eye, at the last trumpet. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p13.b49": {
+    "text": "… For the trumpet will sound, the dead will be raised imperishable, and we will be changed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p13.b50": {
+    "text": "… then the saying that is written will come to pass: “Death has been swallowed up in victory.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p13.b51": {
+    "text": "“Where, O Death, is your victory? Where, O Death, is your sting?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p14.b52": {
+    "text": "The sting of death is sin, and the power of sin is the law.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:56"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p14.b53": {
+    "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:57"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p14.b54": {
+    "text": "Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "corinthians1.15.p14.b55": {
+    "text": "… because you know that your labor in the Lord is not in vain.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Corinthians 15:58"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

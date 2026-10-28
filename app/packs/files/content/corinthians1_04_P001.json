@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P001",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "人应当把我们看作基督的仆人，是管理　神奥秘之事的管家。对管家的要求，是他要忠心。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P001_F2",
+      "box": [
+        0.46,
+        0.31,
+        0.54,
+        0.208
+      ],
+      "alt": {
+        "zh-CN": "我被你们评断，或被别人评断，我都看作很小的事；连我自己也不评断自己。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P001_F3",
+      "box": [
+        0,
+        0.3092,
+        1,
+        0.6908
+      ],
+      "alt": {
+        "zh-CN": "所以时候还没到，什么都不要评断，等主来，他要把暗中的事照出来，显明人心里的意念。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P001_B001",
+      "panel": "CORINTHIANS1_04_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0092,
+        0.4,
+        0.0519
+      ],
+      "tail": [
+        0.5,
+        0.0916
+      ],
+      "text_key": "corinthians1.4.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_04_P001_B002",
+      "panel": "CORINTHIANS1_04_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4762,
+        0.4556,
+        0.297,
+        0.054
+      ],
+      "tail": [
+        0.6247,
+        0.518
+      ],
+      "text_key": "corinthians1.4.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_04_P001_B003",
+      "panel": "CORINTHIANS1_04_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.3299,
+        0.46,
+        0.1036
+      ],
+      "tail": [
+        0.27,
+        0.5026
+      ],
+      "text_key": "corinthians1.4.p1.b3"
+    }
+  ]
+}

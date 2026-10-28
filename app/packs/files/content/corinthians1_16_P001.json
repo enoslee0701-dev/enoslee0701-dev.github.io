@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS1_16_P001",
+  "book": "corinthians1",
+  "chapter": 16,
+  "page": 1,
+  "ref": "16:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_16_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_16_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "关于为圣徒捐款的事，我以前怎样吩咐加拉太的各教会，你们也要照样做。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P001_F2",
+      "box": [
+        0,
+        0.2396,
+        0.3691,
+        0.5501
+      ],
+      "alt": {
+        "zh-CN": "每个星期的第一天，每个人要按自己的收入把钱存起来，免得我来的时候才临时凑。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P001_F3",
+      "box": [
+        0.377,
+        0.2396,
+        0.623,
+        0.5501
+      ],
+      "alt": {
+        "zh-CN": "等我到了，你们写信推荐谁，我就派他们把你们的捐款送到耶路撒冷去。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P001_F4",
+      "box": [
+        0,
+        0.7936,
+        1,
+        0.2064
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_16_P001_B001",
+      "panel": "CORINTHIANS1_16_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0094,
+        0.45,
+        0.047
+      ],
+      "tail": [
+        0.745,
+        0.0799
+      ],
+      "text_key": "corinthians1.16.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_16_P001_B002",
+      "panel": "CORINTHIANS1_16_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0221,
+        0.2561,
+        0.3248,
+        0.11
+      ],
+      "tail": [
+        0.1845,
+        0.4211
+      ],
+      "text_key": "corinthians1.16.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_16_P001_B003",
+      "panel": "CORINTHIANS1_16_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4082,
+        0.6907,
+        0.5607,
+        0.0825
+      ],
+      "tail": [
+        0.6886,
+        0.7897
+      ],
+      "text_key": "corinthians1.16.p1.b3"
+    }
+  ]
+}

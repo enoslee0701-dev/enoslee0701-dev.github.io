@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_13_P003",
+  "book": "corinthians1",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "不以不义为乐，只喜欢真理；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_13_P003_F2",
+      "box": [
+        0,
+        0.2975,
+        1,
+        0.377
+      ],
+      "alt": {
+        "zh-CN": "凡事包容，凡事相信，凡事盼望，凡事忍耐。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_13_P003_F3",
+      "box": [
+        0,
+        0.6777,
+        1,
+        0.3223
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_13_P003_B007",
+      "panel": "CORINTHIANS1_13_P003_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.0117,
+        0.34,
+        0.0587
+      ],
+      "tail": [
+        0.49,
+        0.0998
+      ],
+      "text_key": "corinthians1.13.p3.b7"
+    },
+    {
+      "id": "CORINTHIANS1_13_P003_B008",
+      "panel": "CORINTHIANS1_13_P003_F2",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.6066,
+        0.3,
+        0.0527
+      ],
+      "tail": [
+        0.75,
+        0.6745
+      ],
+      "text_key": "corinthians1.13.p3.b8"
+    }
+  ]
+}

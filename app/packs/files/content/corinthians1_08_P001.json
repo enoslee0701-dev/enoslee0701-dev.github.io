@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_08_P001",
+  "book": "corinthians1",
+  "chapter": 8,
+  "page": 1,
+  "ref": "8:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_08_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_08_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "关于祭过偶像的食物，我们知道我们都有知识。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P001_F2",
+      "box": [
+        0,
+        0.2344,
+        1,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "但是知识使人骄傲自大，只有爱能造就人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P001_F3",
+      "box": [
+        0,
+        0.651,
+        1,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "如果有人爱　神，这人就是　神所认识的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_08_P001_B001",
+      "panel": "CORINTHIANS1_08_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0069,
+        0.29,
+        0.0554
+      ],
+      "tail": [
+        0.165,
+        0.0854
+      ],
+      "text_key": "corinthians1.8.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_08_P001_B002",
+      "panel": "CORINTHIANS1_08_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1,
+        0.2468,
+        0.33,
+        0.0496
+      ],
+      "tail": [
+        0.265,
+        0.3377
+      ],
+      "text_key": "corinthians1.8.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_08_P001_B003",
+      "panel": "CORINTHIANS1_08_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6719,
+        0.48,
+        0.1256
+      ],
+      "tail": [
+        0.27,
+        0.8324
+      ],
+      "text_key": "corinthians1.8.p1.b3"
+    }
+  ]
+}

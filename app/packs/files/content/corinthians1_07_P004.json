@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS1_07_P004",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 4,
+  "ref": "7:12-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "我对其余的人说（不是主说的）：如果某位弟兄有不信主的妻子，妻子也愿意和他一起生活，他就不要离弃妻子。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P004_F2",
+      "box": [
+        0,
+        0.2786,
+        0.4961,
+        0.2493
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_07_P004_F3",
+      "box": [
+        0.5029,
+        0.2786,
+        0.4971,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "……不然，你们的儿女就不洁净了，但现在他们是圣洁的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P004_F4",
+      "box": [
+        0,
+        0.5326,
+        1,
+        0.4674
+      ],
+      "alt": {
+        "zh-CN": "……　神呼召我们，本是要我们和睦相处。／你这做妻子的，怎么知道不能救你的丈夫呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P004_B009",
+      "panel": "CORINTHIANS1_07_P004_F1",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.41,
+        0.0082,
+        0.27,
+        0.0822
+      ],
+      "tail": [
+        0.545,
+        0.1178
+      ],
+      "text_key": "corinthians1.7.p4.b9"
+    },
+    {
+      "id": "CORINTHIANS1_07_P004_B010",
+      "panel": "CORINTHIANS1_07_P004_F3",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5178,
+        0.2861,
+        0.1888,
+        0.0797
+      ],
+      "tail": [
+        0.6122,
+        0.3907
+      ],
+      "text_key": "corinthians1.7.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_07_P004_B011",
+      "panel": "CORINTHIANS1_07_P004_F4",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5466,
+        0.39,
+        0.032
+      ],
+      "tail": [
+        0.775,
+        0.6253
+      ],
+      "text_key": "corinthians1.7.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_07_P004_B012",
+      "panel": "CORINTHIANS1_07_P004_F4",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.588,
+        0.39,
+        0.0427
+      ],
+      "tail": [
+        0.775,
+        0.6774
+      ],
+      "text_key": "corinthians1.7.p4.b12"
+    }
+  ]
+}

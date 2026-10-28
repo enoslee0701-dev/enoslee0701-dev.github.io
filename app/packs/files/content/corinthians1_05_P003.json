@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_05_P003",
+  "book": "corinthians1",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "你们这样夸口是不好的。难道不知道一点面酵能使整团面都发起来吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P003_F2",
+      "box": [
+        0,
+        0.3034,
+        1,
+        0.3555
+      ],
+      "alt": {
+        "zh-CN": "你们既然是无酵的面，就应当把旧酵除干净，好使你们成为新的面团；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_05_P003_F3",
+      "box": [
+        0,
+        0.6641,
+        1,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "因为我们逾越节的羔羊基督已经被杀献祭了。所以我们守这节……只用真诚和真实的无酵饼。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_05_P003_B007",
+      "panel": "CORINTHIANS1_05_P003_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.006,
+        0.44,
+        0.0387
+      ],
+      "tail": [
+        0.25,
+        0.0745
+      ],
+      "text_key": "corinthians1.5.p3.b7"
+    },
+    {
+      "id": "CORINTHIANS1_05_P003_B008",
+      "panel": "CORINTHIANS1_05_P003_F2",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.3141,
+        0.3,
+        0.0711
+      ],
+      "tail": [
+        0.62,
+        0.4208
+      ],
+      "text_key": "corinthians1.5.p3.b8"
+    },
+    {
+      "id": "CORINTHIANS1_05_P003_B009",
+      "panel": "CORINTHIANS1_05_P003_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6775,
+        0.46,
+        0.0806
+      ],
+      "tail": [
+        0.73,
+        0.7917
+      ],
+      "text_key": "corinthians1.5.p3.b9"
+    }
+  ]
+}

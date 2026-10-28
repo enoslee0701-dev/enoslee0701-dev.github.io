@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_01_P006",
+  "book": "corinthians1",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "智慧人在哪里？经学家在哪里？这世代的辩论家在哪里？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P006_F2",
+      "box": [
+        0,
+        0.293,
+        1,
+        0.403
+      ],
+      "alt": {
+        "zh-CN": "神不是已经使这世上的智慧变成愚蠢了吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P006_F3",
+      "box": [
+        0,
+        0.6992,
+        1,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "……　神就乐意用人看为愚蠢的信息，拯救那些相信的人；这就是　神的智慧。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_01_P006_B001",
+      "panel": "CORINTHIANS1_01_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0115,
+        0.44,
+        0.0634
+      ],
+      "tail": [
+        0.74,
+        0.1037
+      ],
+      "text_key": "corinthians1.1.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS1_01_P006_B002",
+      "panel": "CORINTHIANS1_01_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.6154,
+        0.36,
+        0.0685
+      ],
+      "tail": [
+        0.8,
+        0.696
+      ],
+      "text_key": "corinthians1.1.p6.b2"
+    },
+    {
+      "id": "CORINTHIANS1_01_P006_B003",
+      "panel": "CORINTHIANS1_01_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.7052,
+        0.38,
+        0.0481
+      ],
+      "tail": [
+        0.79,
+        0.7834
+      ],
+      "text_key": "corinthians1.1.p6.b3"
+    }
+  ]
+}

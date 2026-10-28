@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS1_10_P005",
+  "book": "corinthians1",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:18-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_10_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "你们看以色列人，那些吃祭物的人不就是在祭坛上有份吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P005_F2",
+      "box": [
+        0,
+        0.2533,
+        0.498,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "……外邦人所献的祭是献给鬼魔的，不是献给神。 / 你们不能喝主的杯又喝鬼魔的杯，不能吃主的筵席又吃鬼魔的筵席。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P005_F3",
+      "box": [
+        0.502,
+        0.2533,
+        0.498,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "难道我们要惹主生气吗？我们比他更强吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P005_F4",
+      "box": [
+        0,
+        0.6504,
+        1,
+        0.3496
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_10_P005_B013",
+      "panel": "CORINTHIANS1_10_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0126,
+        0.42,
+        0.0753
+      ],
+      "tail": [
+        0,
+        0.113
+      ],
+      "text_key": "corinthians1.10.p5.b13"
+    },
+    {
+      "id": "CORINTHIANS1_10_P005_B014",
+      "panel": "CORINTHIANS1_10_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0249,
+        0.2652,
+        0.4482,
+        0.0671
+      ],
+      "tail": [
+        0,
+        0.3718
+      ],
+      "text_key": "corinthians1.10.p5.b14"
+    },
+    {
+      "id": "CORINTHIANS1_10_P005_B015",
+      "panel": "CORINTHIANS1_10_P005_F2",
+      "order": 15,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0249,
+        0.3402,
+        0.4482,
+        0.0671
+      ],
+      "tail": [
+        0,
+        0.4468
+      ],
+      "text_key": "corinthians1.10.p5.b15"
+    },
+    {
+      "id": "CORINTHIANS1_10_P005_B016",
+      "panel": "CORINTHIANS1_10_P005_F4",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6644,
+        0.38,
+        0.1048
+      ],
+      "tail": [
+        0.77,
+        0.8042
+      ],
+      "text_key": "corinthians1.10.p5.b16"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_14_P004",
+  "book": "corinthians1",
+  "chapter": 14,
+  "page": 4,
+  "ref": "14:16-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_14_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_14_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3066
+      ],
+      "alt": {
+        "zh-CN": "……在场不懂方言的人，既然不明白你的话，怎么能在你感谢的时候说「阿们」呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P004_F2",
+      "box": [
+        0,
+        0.3112,
+        0.334,
+        0.6888
+      ],
+      "alt": {
+        "zh-CN": "我感谢神，我说方言比你们所有人都多。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P004_F3",
+      "box": [
+        0.3418,
+        0.3112,
+        0.6582,
+        0.6888
+      ],
+      "alt": {
+        "zh-CN": "但在教会里，我宁可用理性说五句教导人的话，也不说一万句方言。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_14_P004_B012",
+      "panel": "CORINTHIANS1_14_P004_F1",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0092,
+        0.4,
+        0.0551
+      ],
+      "tail": [
+        0.5,
+        0.095
+      ],
+      "text_key": "corinthians1.14.p4.b12"
+    },
+    {
+      "id": "CORINTHIANS1_14_P004_B013",
+      "panel": "CORINTHIANS1_14_P004_F2",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0167,
+        0.3319,
+        0.3006,
+        0.0688
+      ],
+      "tail": [
+        0.167,
+        0.4696
+      ],
+      "text_key": "corinthians1.14.p4.b13"
+    },
+    {
+      "id": "CORINTHIANS1_14_P004_B014",
+      "panel": "CORINTHIANS1_14_P004_F3",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3681,
+        0.8622,
+        0.3685,
+        0.1102
+      ],
+      "tail": [
+        0.5524,
+        1
+      ],
+      "text_key": "corinthians1.14.p4.b14"
+    }
+  ]
+}

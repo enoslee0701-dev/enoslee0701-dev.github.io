@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_10_P006",
+  "book": "corinthians1",
+  "chapter": 10,
+  "page": 6,
+  "ref": "10:23-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_10_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_10_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2878
+      ],
+      "alt": {
+        "zh-CN": "凡事都可以做，但不是都有益处。凡事都可以做，但不是都能造就人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P006_F2",
+      "box": [
+        0,
+        0.291,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "市场上所卖的，你们只管吃，不要因为良心的缘故问什么，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P006_F3",
+      "box": [
+        0,
+        0.5781,
+        1,
+        0.4219
+      ],
+      "alt": {
+        "zh-CN": "因为大地和其中所充满的都属于主。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_10_P006_B017",
+      "panel": "CORINTHIANS1_10_P006_F1",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0058,
+        0.36,
+        0.046
+      ],
+      "tail": [
+        0.58,
+        0.0806
+      ],
+      "text_key": "corinthians1.10.p6.b17"
+    },
+    {
+      "id": "CORINTHIANS1_10_P006_B018",
+      "panel": "CORINTHIANS1_10_P006_F2",
+      "order": 18,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.77,
+        0.3023,
+        0.21,
+        0.0962
+      ],
+      "tail": [
+        0,
+        0.4268
+      ],
+      "text_key": "corinthians1.10.p6.b18"
+    },
+    {
+      "id": "CORINTHIANS1_10_P006_B019",
+      "panel": "CORINTHIANS1_10_P006_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3,
+        0.5908,
+        0.4,
+        0.0759
+      ],
+      "tail": [
+        0,
+        0.7089
+      ],
+      "text_key": "corinthians1.10.p6.b19"
+    }
+  ]
+}

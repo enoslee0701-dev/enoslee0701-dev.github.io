@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS1_07_P008",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 8,
+  "ref": "7:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4154
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我告诉你们：时候不多了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P008_F2",
+      "box": [
+        0,
+        0.4186,
+        0.5566,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "哀哭的，要像不哀哭；快乐的，要像不快乐；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P008_F3",
+      "box": [
+        0.5635,
+        0.4186,
+        0.4365,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "买东西的，要像什么也没有得到；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P008_F4",
+      "box": [
+        0,
+        0.7005,
+        1,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "因为这世界的样子快要过去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P008_B022",
+      "panel": "CORINTHIANS1_07_P008_F1",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0415,
+        0.6,
+        0.0664
+      ],
+      "tail": [
+        0.34,
+        0.1494
+      ],
+      "text_key": "corinthians1.7.p8.b22"
+    },
+    {
+      "id": "CORINTHIANS1_07_P008_B023",
+      "panel": "CORINTHIANS1_07_P008_F2",
+      "order": 23,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0223,
+        0.4269,
+        0.4007,
+        0.05
+      ],
+      "tail": [
+        0.2227,
+        0.5047
+      ],
+      "text_key": "corinthians1.7.p8.b23"
+    },
+    {
+      "id": "CORINTHIANS1_07_P008_B024",
+      "panel": "CORINTHIANS1_07_P008_F3",
+      "order": 24,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.581,
+        0.6299,
+        0.3928,
+        0.0583
+      ],
+      "tail": [
+        0.7774,
+        0.6966
+      ],
+      "text_key": "corinthians1.7.p8.b24"
+    },
+    {
+      "id": "CORINTHIANS1_07_P008_B025",
+      "panel": "CORINTHIANS1_07_P008_F4",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7155,
+        0.42,
+        0.0898
+      ],
+      "tail": [
+        0.24,
+        0.8353
+      ],
+      "text_key": "corinthians1.7.p8.b25"
+    }
+  ]
+}

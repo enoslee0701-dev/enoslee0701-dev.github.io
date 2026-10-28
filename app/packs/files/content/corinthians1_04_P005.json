@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P005",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "我写这些话，不是要让你们羞愧，而是要劝诫你们，就像劝诫我亲爱的儿女一样。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P005_F2",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.4316
+      ],
+      "alt": {
+        "zh-CN": "你们在基督里的老师虽然有一万个，父亲却不多，因为是我在基督耶稣里借着福音生了你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P005_F3",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "所以，我恳求你们效法我。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P005_B013",
+      "panel": "CORINTHIANS1_04_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.48,
+        0.0123,
+        0.48,
+        0.0785
+      ],
+      "tail": [
+        0.72,
+        0.1153
+      ],
+      "text_key": "corinthians1.4.p5.b13"
+    },
+    {
+      "id": "CORINTHIANS1_04_P005_B014",
+      "panel": "CORINTHIANS1_04_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.578,
+        0.52,
+        0.0906
+      ],
+      "tail": [
+        0.29,
+        0.6816
+      ],
+      "text_key": "corinthians1.4.p5.b14"
+    },
+    {
+      "id": "CORINTHIANS1_04_P005_B015",
+      "panel": "CORINTHIANS1_04_P005_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.7019,
+        0.4,
+        0.0815
+      ],
+      "tail": [
+        0.76,
+        0.8148
+      ],
+      "text_key": "corinthians1.4.p5.b15"
+    }
+  ]
+}

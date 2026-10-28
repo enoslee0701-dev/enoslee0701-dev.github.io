@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS1_11_P004",
+  "book": "corinthians1",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "我下面要吩咐的事，不是称赞你们，因为你们聚会不但没有益处，反而有害处。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P004_F2",
+      "box": [
+        0,
+        0.2982,
+        1,
+        0.4128
+      ],
+      "alt": {
+        "zh-CN": "首先，我听说你们聚会的时候彼此分裂，我也有几分相信。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P004_F3",
+      "box": [
+        0,
+        0.7135,
+        0.4971,
+        0.2865
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_11_P004_F4",
+      "box": [
+        0.502,
+        0.7135,
+        0.498,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "你们中间难免会有分派，好让那些经得起考验的人显明出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_11_P004_B010",
+      "panel": "CORINTHIANS1_11_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0089,
+        0.38,
+        0.0354
+      ],
+      "tail": [
+        0.75,
+        0.0739
+      ],
+      "text_key": "corinthians1.11.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_11_P004_B011",
+      "panel": "CORINTHIANS1_11_P004_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.3065,
+        0.44,
+        0.0536
+      ],
+      "tail": [
+        0.74,
+        0.4014
+      ],
+      "text_key": "corinthians1.11.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_11_P004_B012",
+      "panel": "CORINTHIANS1_11_P004_F4",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5219,
+        0.725,
+        0.249,
+        0.0687
+      ],
+      "tail": [
+        0.6464,
+        0.8224
+      ],
+      "text_key": "corinthians1.11.p4.b12"
+    }
+  ]
+}

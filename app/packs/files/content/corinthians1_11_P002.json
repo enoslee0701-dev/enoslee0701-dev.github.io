@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS1_11_P002",
+  "book": "corinthians1",
+  "chapter": 11,
+  "page": 2,
+  "ref": "11:4-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_11_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_11_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "男人祷告或讲道时，如果蒙着头，就羞辱了自己的头。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P002_F2",
+      "box": [
+        0,
+        0.2708,
+        0.5,
+        0.2773
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_11_P002_F3",
+      "box": [
+        0.5059,
+        0.2708,
+        0.4941,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "女人祷告或讲道时，如果不蒙着头，就羞辱了自己的头，……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P002_F4",
+      "box": [
+        0,
+        0.5514,
+        1,
+        0.4486
+      ],
+      "alt": {
+        "zh-CN": "因此，为了天使的缘故，女人应当在头上有服权柄的记号。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_11_P002_B004",
+      "panel": "CORINTHIANS1_11_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0053,
+        0.46,
+        0.048
+      ],
+      "tail": [
+        0.73,
+        0.08
+      ],
+      "text_key": "corinthians1.11.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_11_P002_B005",
+      "panel": "CORINTHIANS1_11_P002_F3",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.753,
+        0.2791,
+        0.2272,
+        0.0554
+      ],
+      "tail": [
+        0.8666,
+        0.3622
+      ],
+      "text_key": "corinthians1.11.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_11_P002_B006",
+      "panel": "CORINTHIANS1_11_P002_F4",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5693,
+        0.44,
+        0.0986
+      ],
+      "tail": [
+        0.74,
+        0.7128
+      ],
+      "text_key": "corinthians1.11.p2.b6"
+    }
+  ]
+}

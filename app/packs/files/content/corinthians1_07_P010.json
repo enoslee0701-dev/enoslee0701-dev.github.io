@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_07_P010",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 10,
+  "ref": "7:36-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P010_F1",
+      "box": [
+        0,
+        0,
+        0.584,
+        0.4303
+      ],
+      "alt": {
+        "zh-CN": "这样看来，让自己的女儿出嫁是好的，不让她出嫁就更好。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P010_F2",
+      "box": [
+        0.5918,
+        0,
+        0.4082,
+        0.4303
+      ],
+      "alt": {
+        "zh-CN": "丈夫若死了，妻子就自由了，可以随意再嫁，只是要嫁给在主里的人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P010_F3",
+      "box": [
+        0,
+        0.4355,
+        1,
+        0.5645
+      ],
+      "alt": {
+        "zh-CN": "不过照我的意见，她若守节就更有福气。我想我也是被　神的灵感动的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P010_B030",
+      "panel": "CORINTHIANS1_07_P010_F1",
+      "order": 30,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2628,
+        0.0129,
+        0.3036,
+        0.1032
+      ],
+      "tail": [
+        0.4146,
+        0.1591
+      ],
+      "text_key": "corinthians1.7.p10.b30"
+    },
+    {
+      "id": "CORINTHIANS1_07_P010_B031",
+      "panel": "CORINTHIANS1_07_P010_F2",
+      "order": 31,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6081,
+        0.3012,
+        0.3673,
+        0.1161
+      ],
+      "tail": [
+        0.7917,
+        0.4303
+      ],
+      "text_key": "corinthians1.7.p10.b31"
+    },
+    {
+      "id": "CORINTHIANS1_07_P010_B032",
+      "panel": "CORINTHIANS1_07_P010_F3",
+      "order": 32,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.4524,
+        0.4,
+        0.1016
+      ],
+      "tail": [
+        0.78,
+        0.6105
+      ],
+      "text_key": "corinthians1.7.p10.b32"
+    }
+  ]
+}

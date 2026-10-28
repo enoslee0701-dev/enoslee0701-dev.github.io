@@ -1,0 +1,127 @@
+{
+  "id": "CORINTHIANS1_15_P002",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 2,
+  "ref": "15:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P002_F1",
+      "box": [
+        0,
+        0,
+        0.3848,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "并且显现给矶法，然后显现给十二使徒……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P002_F2",
+      "box": [
+        0.3926,
+        0,
+        0.6074,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "后来一次显现给五百多位弟兄，他们大多数到现在还活着，但也有些已经去世了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P002_F3",
+      "box": [
+        0,
+        0.3314,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "以后显现给雅各，再显现给所有使徒……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P002_F4",
+      "box": [
+        0,
+        0.5859,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "最后也显现给我；我好像一个早产的人一样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P002_B004",
+      "panel": "CORINTHIANS1_15_P002_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0192,
+        0.2544,
+        0.3463,
+        0.0587
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_15_P002_B005",
+      "panel": "CORINTHIANS1_15_P002_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.423,
+        0.261,
+        0.5466,
+        0.0521
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_15_P002_B006",
+      "panel": "CORINTHIANS1_15_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.3439,
+        0.38,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p2.b6"
+    },
+    {
+      "id": "CORINTHIANS1_15_P002_B007",
+      "panel": "CORINTHIANS1_15_P002_F4",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.9172,
+        0.44,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p2.b7"
+    }
+  ]
+}

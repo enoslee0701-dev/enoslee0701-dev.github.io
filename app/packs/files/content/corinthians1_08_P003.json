@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_08_P003",
+  "book": "corinthians1",
+  "chapter": 8,
+  "page": 3,
+  "ref": "8:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_08_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_08_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "但不是人人都有这种知识。有些人到现在还因为拜惯了偶像，就以为所吃的是祭过偶像的食物。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P003_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "他们的良心既然软弱，也就被玷污了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P003_F3",
+      "box": [
+        0,
+        0.6328,
+        1,
+        0.3672
+      ],
+      "alt": {
+        "zh-CN": "只是你们要小心，免得你们这自由成了软弱的人的绊脚石。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_08_P003_B007",
+      "panel": "CORINTHIANS1_08_P003_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0107,
+        0.46,
+        0.0693
+      ],
+      "tail": [
+        0.26,
+        0.1067
+      ],
+      "text_key": "corinthians1.8.p3.b7"
+    },
+    {
+      "id": "CORINTHIANS1_08_P003_B008",
+      "panel": "CORINTHIANS1_08_P003_F2",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.5431,
+        0.47,
+        0.072
+      ],
+      "tail": [
+        0.735,
+        0.6295
+      ],
+      "text_key": "corinthians1.8.p3.b8"
+    },
+    {
+      "id": "CORINTHIANS1_08_P003_B009",
+      "panel": "CORINTHIANS1_08_P003_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5,
+        0.6475,
+        0.47,
+        0.0587
+      ],
+      "tail": [
+        0.735,
+        0.7429
+      ],
+      "text_key": "corinthians1.8.p3.b9"
+    }
+  ]
+}

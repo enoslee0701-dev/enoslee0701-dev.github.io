@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_07_P007",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 7,
+  "ref": "7:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P007_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.4642
+      ],
+      "alt": {
+        "zh-CN": "关于没有结婚的人，我没有主的命令；但我既蒙主怜悯成为可信的人，就把我的意见告诉你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P007_F2",
+      "box": [
+        0.5068,
+        0,
+        0.4932,
+        0.4642
+      ],
+      "alt": {
+        "zh-CN": "因为现在的艰难，我认为人最好保持现状。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P007_F3",
+      "box": [
+        0,
+        0.4694,
+        1,
+        0.5306
+      ],
+      "alt": {
+        "zh-CN": "你若娶妻，不是犯罪；未婚女子若出嫁，也不是犯罪……但我愿意你们免受这些苦难。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P007_B019",
+      "panel": "CORINTHIANS1_07_P007_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0139,
+        0.4491,
+        0.1114
+      ],
+      "tail": [
+        0.2446,
+        0.1717
+      ],
+      "text_key": "corinthians1.7.p7.b19"
+    },
+    {
+      "id": "CORINTHIANS1_07_P007_B020",
+      "panel": "CORINTHIANS1_07_P007_F2",
+      "order": 20,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5265,
+        0.3435,
+        0.4438,
+        0.1067
+      ],
+      "tail": [
+        0.7484,
+        0.4642
+      ],
+      "text_key": "corinthians1.7.p7.b20"
+    },
+    {
+      "id": "CORINTHIANS1_07_P007_B021",
+      "panel": "CORINTHIANS1_07_P007_F3",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.4853,
+        0.55,
+        0.1061
+      ],
+      "tail": [
+        0.315,
+        0.6445
+      ],
+      "text_key": "corinthians1.7.p7.b21"
+    }
+  ]
+}

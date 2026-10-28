@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_14_P008",
+  "book": "corinthians1",
+  "chapter": 14,
+  "page": 8,
+  "ref": "14:31-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_14_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_14_P008_F1",
+      "box": [
+        0,
+        0,
+        0.6572,
+        0.3809
+      ],
+      "alt": {
+        "zh-CN": "因为你们都可以一个接一个地说先知的话，让大家都学习，都得到鼓励。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P008_F2",
+      "box": [
+        0.665,
+        0,
+        0.335,
+        0.3809
+      ],
+      "alt": {
+        "zh-CN": "说先知话的人的灵是受说先知话的人管的；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P008_F3",
+      "box": [
+        0,
+        0.3841,
+        1,
+        0.6159
+      ],
+      "alt": {
+        "zh-CN": "因为神不是叫人混乱的神，而是叫人和平的神。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_14_P008_B027",
+      "panel": "CORINTHIANS1_14_P008_F1",
+      "order": 27,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0329,
+        0.0114,
+        0.5914,
+        0.0609
+      ],
+      "tail": [
+        0.3286,
+        0.1104
+      ],
+      "text_key": "corinthians1.14.p8.b27"
+    },
+    {
+      "id": "CORINTHIANS1_14_P008_B028",
+      "panel": "CORINTHIANS1_14_P008_F2",
+      "order": 28,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6717,
+        0.3123,
+        0.1206,
+        0.0609
+      ],
+      "tail": [
+        0.732,
+        0.3809
+      ],
+      "text_key": "corinthians1.14.p8.b28"
+    },
+    {
+      "id": "CORINTHIANS1_14_P008_B029",
+      "panel": "CORINTHIANS1_14_P008_F3",
+      "order": 29,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.4026,
+        0.44,
+        0.08
+      ],
+      "tail": [
+        0.74,
+        0.5442
+      ],
+      "text_key": "corinthians1.14.p8.b29"
+    }
+  ]
+}

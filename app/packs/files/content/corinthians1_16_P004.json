@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_16_P004",
+  "book": "corinthians1",
+  "chapter": 16,
+  "page": 4,
+  "ref": "16:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_16_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_16_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "你们要时时警醒，在信仰上站稳，要勇敢，要刚强。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P004_F2",
+      "box": [
+        0,
+        0.2611,
+        1,
+        0.7389
+      ],
+      "alt": {
+        "zh-CN": "你们做一切事都要凭着爱心去做。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P004_F3",
+      "box": [
+        0.54,
+        0.7233,
+        0.46,
+        0.2767
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_16_P004_B001",
+      "panel": "CORINTHIANS1_16_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.0103,
+        0.52,
+        0.0615
+      ],
+      "tail": [
+        0.71,
+        0.0975
+      ],
+      "text_key": "corinthians1.16.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS1_16_P004_B002",
+      "panel": "CORINTHIANS1_16_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.63,
+        0.2833,
+        0.34,
+        0.0886
+      ],
+      "tail": [
+        0.8,
+        0.4458
+      ],
+      "text_key": "corinthians1.16.p4.b2"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS1_14_P003",
+  "book": "corinthians1",
+  "chapter": 14,
+  "page": 3,
+  "ref": "14:10-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_14_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_14_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "我如果不明白那声音的意思，说话的人就把我当外族人，我也把他当外族人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P003_F2",
+      "box": [
+        0,
+        0.3223,
+        1,
+        0.2298
+      ],
+      "alt": {
+        "zh-CN": "……既然渴慕属灵的恩赐，就应当求多得建立教会的恩赐。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P003_F3",
+      "box": [
+        0,
+        0.5553,
+        1,
+        0.4447
+      ],
+      "alt": {
+        "zh-CN": "我要用灵祷告，也要用理性祷告；我要用灵歌唱，也要用理性歌唱。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_14_P003_B009",
+      "panel": "CORINTHIANS1_14_P003_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0095,
+        0.4,
+        0.0508
+      ],
+      "tail": null,
+      "text_key": "corinthians1.14.p3.b9"
+    },
+    {
+      "id": "CORINTHIANS1_14_P003_B010",
+      "panel": "CORINTHIANS1_14_P003_F2",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.3315,
+        0.36,
+        0.0505
+      ],
+      "tail": [
+        0.8,
+        0.405
+      ],
+      "text_key": "corinthians1.14.p3.b10"
+    },
+    {
+      "id": "CORINTHIANS1_14_P003_B011",
+      "panel": "CORINTHIANS1_14_P003_F3",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5686,
+        0.3,
+        0.0889
+      ],
+      "tail": [
+        0.17,
+        0.702
+      ],
+      "text_key": "corinthians1.14.p3.b11"
+    }
+  ]
+}

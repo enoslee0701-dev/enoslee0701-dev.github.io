@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS1_15_P004",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 4,
+  "ref": "15:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "既然传的是基督从死人中复活了，你们中间怎么有人说没有死人复活这回事呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P004_F2",
+      "box": [
+        0,
+        0.2559,
+        0.4072,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "如果没有死人复活这回事，基督也就没有复活了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P004_F3",
+      "box": [
+        0.4131,
+        0.2559,
+        0.5869,
+        0.7441
+      ],
+      "alt": {
+        "zh-CN": "如果基督没有复活，我们所传的就是空的，你们所信的也是空的；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P004_F4",
+      "box": [
+        0,
+        0.6882,
+        0.4072,
+        0.3118
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P004_B012",
+      "panel": "CORINTHIANS1_15_P004_F1",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.16,
+        0.0076,
+        0.4,
+        0.0454
+      ],
+      "tail": [
+        0.36,
+        0.0783
+      ],
+      "text_key": "corinthians1.15.p4.b12"
+    },
+    {
+      "id": "CORINTHIANS1_15_P004_B013",
+      "panel": "CORINTHIANS1_15_P004_F2",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.228,
+        0.5991,
+        0.171,
+        0.0772
+      ],
+      "tail": [
+        0.3135,
+        0.6849
+      ],
+      "text_key": "corinthians1.15.p4.b13"
+    },
+    {
+      "id": "CORINTHIANS1_15_P004_B014",
+      "panel": "CORINTHIANS1_15_P004_F3",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4424,
+        0.2782,
+        0.5282,
+        0.119
+      ],
+      "tail": [
+        0.7065,
+        0.4716
+      ],
+      "text_key": "corinthians1.15.p4.b14"
+    }
+  ]
+}

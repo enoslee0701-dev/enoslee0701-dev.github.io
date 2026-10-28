@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P007",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 7,
+  "ref": "4:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "不过，主若允许，我很快就会到你们那里去，那时我要知道的，不是那些自高自大的人说了什么，而是他们有什么能力。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P007_F2",
+      "box": [
+        0,
+        0.2923,
+        1,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "因为　神的国不在于言语，而在于能力。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P007_F3",
+      "box": [
+        0,
+        0.5618,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "你们要怎样呢？要我带着棍子到你们那里去，还是要我带着爱和温柔的心去呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P007_B019",
+      "panel": "CORINTHIANS1_04_P007_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0115,
+        0.38,
+        0.0519
+      ],
+      "tail": [
+        0.22,
+        0.0922
+      ],
+      "text_key": "corinthians1.4.p7.b19"
+    },
+    {
+      "id": "CORINTHIANS1_04_P007_B020",
+      "panel": "CORINTHIANS1_04_P007_F2",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.2976,
+        0.4,
+        0.0345
+      ],
+      "tail": [
+        0.56,
+        0.3587
+      ],
+      "text_key": "corinthians1.4.p7.b20"
+    },
+    {
+      "id": "CORINTHIANS1_04_P007_B021",
+      "panel": "CORINTHIANS1_04_P007_F3",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5749,
+        0.44,
+        0.0701
+      ],
+      "tail": [
+        0.25,
+        0.6888
+      ],
+      "text_key": "corinthians1.4.p7.b21"
+    }
+  ]
+}

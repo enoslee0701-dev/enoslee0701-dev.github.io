@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_11_P005",
+  "book": "corinthians1",
+  "chapter": 11,
+  "page": 5,
+  "ref": "11:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_11_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_11_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "因为吃的时候，各人只顾先吃自己的，结果有人饿着，有人醉了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P005_F2",
+      "box": [
+        0,
+        0.293,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "……还是你们轻视神的教会，让那些什么都没有的人难堪呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P005_F3",
+      "box": [
+        0,
+        0.6667,
+        1,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "我对你们说什么好呢？要为这事称赞你们吗？我不称赞！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_11_P005_B013",
+      "panel": "CORINTHIANS1_11_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.0087,
+        0.36,
+        0.0582
+      ],
+      "tail": [
+        0.78,
+        0.096
+      ],
+      "text_key": "corinthians1.11.p5.b13"
+    },
+    {
+      "id": "CORINTHIANS1_11_P005_B014",
+      "panel": "CORINTHIANS1_11_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.3079,
+        0.4,
+        0.0669
+      ],
+      "tail": [
+        0.23,
+        0.412
+      ],
+      "text_key": "corinthians1.11.p5.b14"
+    },
+    {
+      "id": "CORINTHIANS1_11_P005_B015",
+      "panel": "CORINTHIANS1_11_P005_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.58,
+        0.6834,
+        0.38,
+        0.0733
+      ],
+      "tail": [
+        0.77,
+        0.79
+      ],
+      "text_key": "corinthians1.11.p5.b15"
+    }
+  ]
+}

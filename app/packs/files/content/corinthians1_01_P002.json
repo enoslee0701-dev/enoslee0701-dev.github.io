@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS1_01_P002",
+  "book": "corinthians1",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:4-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_01_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5742,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "我常为你们感谢我的　神，因为　神在基督耶稣里赐恩典给你们；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P002_F2",
+      "box": [
+        0.583,
+        0,
+        0.417,
+        0.2773
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_01_P002_F3",
+      "box": [
+        0,
+        0.2826,
+        1,
+        0.2324
+      ],
+      "alt": {
+        "zh-CN": "你们在他里面凡事富足，口才和知识都很完备，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P002_F4",
+      "box": [
+        0,
+        0.5208,
+        1,
+        0.4792
+      ],
+      "alt": {
+        "zh-CN": "神是信实的，他呼召你们，好与他的儿子——我们的主耶稣基督一同有分。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_01_P002_B001",
+      "panel": "CORINTHIANS1_01_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2986,
+        0.0083,
+        0.2583,
+        0.061
+      ],
+      "tail": [
+        0.4278,
+        0.097
+      ],
+      "text_key": "corinthians1.1.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS1_01_P002_B002",
+      "panel": "CORINTHIANS1_01_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.2896,
+        0.4,
+        0.0418
+      ],
+      "tail": [
+        0.5,
+        0.3546
+      ],
+      "text_key": "corinthians1.1.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS1_01_P002_B003",
+      "panel": "CORINTHIANS1_01_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.9377,
+        0.28,
+        0.0575
+      ],
+      "tail": [
+        0.15,
+        1
+      ],
+      "text_key": "corinthians1.1.p2.b3"
+    }
+  ]
+}

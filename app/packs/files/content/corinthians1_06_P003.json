@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_06_P003",
+  "book": "corinthians1",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "你们彼此告状，这本身就已经是你们的大错了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P003_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.4238
+      ],
+      "alt": {
+        "zh-CN": "为什么不情愿受委屈呢？为什么不情愿吃亏呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_06_P003_F3",
+      "box": [
+        0,
+        0.6882,
+        1,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "你们反倒欺压人、亏待人，而且所欺压、所亏待的正是弟兄。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_06_P003_B007",
+      "panel": "CORINTHIANS1_06_P003_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.65,
+        0.0077,
+        0.33,
+        0.0769
+      ],
+      "tail": [
+        0.815,
+        0.1103
+      ],
+      "text_key": "corinthians1.6.p3.b7"
+    },
+    {
+      "id": "CORINTHIANS1_06_P003_B008",
+      "panel": "CORINTHIANS1_06_P003_F2",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2689,
+        0.4,
+        0.0466
+      ],
+      "tail": [
+        0.78,
+        0.3579
+      ],
+      "text_key": "corinthians1.6.p3.b8"
+    },
+    {
+      "id": "CORINTHIANS1_06_P003_B009",
+      "panel": "CORINTHIANS1_06_P003_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.6976,
+        0.36,
+        0.0685
+      ],
+      "tail": [
+        0.8,
+        0.7973
+      ],
+      "text_key": "corinthians1.6.p3.b9"
+    }
+  ]
+}

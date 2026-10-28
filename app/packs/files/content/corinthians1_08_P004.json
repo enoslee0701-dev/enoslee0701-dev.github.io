@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_08_P004",
+  "book": "corinthians1",
+  "chapter": 8,
+  "page": 4,
+  "ref": "8:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_08_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_08_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "如果有人看见你这有知识的人在偶像的庙里吃饭，这人的良心若是软弱，岂不就大胆去吃祭过偶像的食物吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P004_F2",
+      "box": [
+        0,
+        0.3047,
+        1,
+        0.2025
+      ],
+      "alt": {
+        "zh-CN": "这样，基督为他而死的那软弱的弟兄，就因你的知识而沉沦了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_08_P004_F3",
+      "box": [
+        0,
+        0.5098,
+        1,
+        0.4902
+      ],
+      "alt": {
+        "zh-CN": "所以，食物如果使我的弟兄跌倒，我就永远不吃肉，免得使我的弟兄跌倒。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_08_P004_B010",
+      "panel": "CORINTHIANS1_08_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0091,
+        0.4,
+        0.0605
+      ],
+      "tail": [
+        0.5,
+        0.0999
+      ],
+      "text_key": "corinthians1.8.p4.b10"
+    },
+    {
+      "id": "CORINTHIANS1_08_P004_B011",
+      "panel": "CORINTHIANS1_08_P004_F2",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.3128,
+        0.4,
+        0.0607
+      ],
+      "tail": [
+        0.74,
+        0.3938
+      ],
+      "text_key": "corinthians1.8.p4.b11"
+    },
+    {
+      "id": "CORINTHIANS1_08_P004_B012",
+      "panel": "CORINTHIANS1_08_P004_F3",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.5245,
+        0.28,
+        0.1176
+      ],
+      "tail": [
+        0.84,
+        0.6911
+      ],
+      "text_key": "corinthians1.8.p4.b12"
+    }
+  ]
+}

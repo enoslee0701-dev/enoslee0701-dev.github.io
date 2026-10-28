@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_10_P002",
+  "book": "corinthians1",
+  "chapter": 10,
+  "page": 2,
+  "ref": "10:5-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_10_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_10_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "但他们当中大多数人是神不喜悦的，所以死在旷野。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P002_F2",
+      "box": [
+        0,
+        0.2747,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "……「百姓坐下吃喝，起来玩乐。」"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P002_F3",
+      "box": [
+        0,
+        0.5378,
+        1,
+        0.4622
+      ],
+      "alt": {
+        "zh-CN": "他们遇到的这些事都成了鉴戒，并且记在圣经上，正是要警戒我们这些活在末世的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_10_P002_B004",
+      "panel": "CORINTHIANS1_10_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.0135,
+        0.45,
+        0.0649
+      ],
+      "tail": [
+        0,
+        0.1055
+      ],
+      "text_key": "corinthians1.10.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_10_P002_B005",
+      "panel": "CORINTHIANS1_10_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2877,
+        0.42,
+        0.0673
+      ],
+      "tail": [
+        0,
+        0.3809
+      ],
+      "text_key": "corinthians1.10.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_10_P002_B006",
+      "panel": "CORINTHIANS1_10_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5563,
+        0.48,
+        0.1109
+      ],
+      "tail": [
+        0.27,
+        0.7134
+      ],
+      "text_key": "corinthians1.10.p2.b6"
+    }
+  ]
+}

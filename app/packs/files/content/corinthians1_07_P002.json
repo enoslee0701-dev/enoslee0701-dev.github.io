@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_07_P002",
+  "book": "corinthians1",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:3-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_07_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "丈夫应当尽本分对待妻子，妻子对待丈夫也应当这样。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P002_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "我说这话是出于许可，不是命令。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_07_P002_F3",
+      "box": [
+        0,
+        0.3444,
+        1,
+        0.6556
+      ],
+      "alt": {
+        "zh-CN": "我希望人人都像我一样；不过每个人从　神领受的恩赐不同，有人是这样，有人是那样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_07_P002_B003",
+      "panel": "CORINTHIANS1_07_P002_F1",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.0102,
+        0.4464,
+        0.0611
+      ],
+      "tail": [
+        0.243,
+        0.1053
+      ],
+      "text_key": "corinthians1.7.p2.b3"
+    },
+    {
+      "id": "CORINTHIANS1_07_P002_B004",
+      "panel": "CORINTHIANS1_07_P002_F2",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.742,
+        0.0068,
+        0.243,
+        0.0509
+      ],
+      "tail": [
+        0.8635,
+        0.0917
+      ],
+      "text_key": "corinthians1.7.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_07_P002_B005",
+      "panel": "CORINTHIANS1_07_P002_F3",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.8689,
+        0.4,
+        0.1114
+      ],
+      "tail": [
+        0.22,
+        1
+      ],
+      "text_key": "corinthians1.7.p2.b5"
+    }
+  ]
+}

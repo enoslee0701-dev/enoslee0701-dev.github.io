@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_10_P007",
+  "book": "corinthians1",
+  "chapter": 10,
+  "page": 7,
+  "ref": "10:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_10_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_10_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "如果有不信的人邀请你们吃饭，你们也愿意去，那么摆在你们面前的，只管吃……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P007_F2",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.3932
+      ],
+      "alt": {
+        "zh-CN": "「这是献过祭的。」"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_10_P007_F3",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "……就要为了那告诉你们的人，也为了良心的缘故不吃。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_10_P007_B020",
+      "panel": "CORINTHIANS1_10_P007_F1",
+      "order": 20,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.34,
+        0.0089,
+        0.34,
+        0.0596
+      ],
+      "tail": [
+        0,
+        0.0983
+      ],
+      "text_key": "corinthians1.10.p7.b20"
+    },
+    {
+      "id": "CORINTHIANS1_10_P007_B021",
+      "panel": "CORINTHIANS1_10_P007_F2",
+      "order": 21,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6,
+        0.31,
+        0.38,
+        0.0471
+      ],
+      "tail": [
+        0.79,
+        0.3964
+      ],
+      "text_key": "corinthians1.10.p7.b21"
+    },
+    {
+      "id": "CORINTHIANS1_10_P007_B022",
+      "panel": "CORINTHIANS1_10_P007_F3",
+      "order": 22,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.7107,
+        0.44,
+        0.0904
+      ],
+      "tail": [
+        0,
+        0.8312
+      ],
+      "text_key": "corinthians1.10.p7.b22"
+    }
+  ]
+}

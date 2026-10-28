@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_03_P003",
+  "book": "corinthians1",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "我栽种了，亚波罗浇了水，只有　神使它生长。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P003_F2",
+      "box": [
+        0,
+        0.4421,
+        1,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "所以，栽种的算不了什么，浇水的也算不了什么；只在乎那使它生长的　神。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_03_P003_F3",
+      "box": [
+        0,
+        0.6875,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "因为我们是　神的同工；你们是　神的田地，　神的房屋。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_03_P003_B001",
+      "panel": "CORINTHIANS1_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0131,
+        0.42,
+        0.0656
+      ],
+      "tail": [
+        0.76,
+        0.1225
+      ],
+      "text_key": "corinthians1.3.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS1_03_P003_B002",
+      "panel": "CORINTHIANS1_03_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.4517,
+        0.37,
+        0.0573
+      ],
+      "tail": [
+        0.785,
+        0.5329
+      ],
+      "text_key": "corinthians1.3.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS1_03_P003_B003",
+      "panel": "CORINTHIANS1_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.33,
+        0.6969,
+        0.32,
+        0.0531
+      ],
+      "tail": [
+        0.49,
+        0.7813
+      ],
+      "text_key": "corinthians1.3.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P002",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我为你们的缘故，用我自己和亚波罗来作比方……免得你们自高自大，抬高这个、贬低那个。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P002_F2",
+      "box": [
+        0,
+        0.2721,
+        1,
+        0.3809
+      ],
+      "alt": {
+        "zh-CN": "是谁使你和别人不同呢？你有什么不是领受来的呢？既然是领受的，为什么还要夸口，好像不是领受的呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P002_F3",
+      "box": [
+        0,
+        0.6576,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "你们已经饱足了！已经富足了！不需要我们，自己就作王了！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P002_B004",
+      "panel": "CORINTHIANS1_04_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.008,
+        0.48,
+        0.0536
+      ],
+      "tail": [
+        0.72,
+        0.0884
+      ],
+      "text_key": "corinthians1.4.p2.b4"
+    },
+    {
+      "id": "CORINTHIANS1_04_P002_B005",
+      "panel": "CORINTHIANS1_04_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.5463,
+        0.42,
+        0.0914
+      ],
+      "tail": [
+        0.76,
+        0.653
+      ],
+      "text_key": "corinthians1.4.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_04_P002_B006",
+      "panel": "CORINTHIANS1_04_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.6713,
+        0.32,
+        0.0684
+      ],
+      "tail": [
+        0.62,
+        0.7739
+      ],
+      "text_key": "corinthians1.4.p2.b6"
+    }
+  ]
+}

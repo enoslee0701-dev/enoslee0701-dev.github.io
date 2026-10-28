@@ -1,0 +1,115 @@
+{
+  "id": "CORINTHIANS1_15_P001",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 1,
+  "ref": "15:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我现在要把以前传给你们的福音告诉你们……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P001_F2",
+      "box": [
+        0,
+        0.2728,
+        0.5518,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "我当初领受又传给你们的，最重要的就是：基督照着圣经所说，为我们的罪死了，并且被埋葬；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P001_F3",
+      "box": [
+        0.5566,
+        0.2728,
+        0.4434,
+        0.7272
+      ],
+      "alt": {
+        "zh-CN": "又照着圣经所说，第三天复活了……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P001_F4",
+      "box": [
+        0,
+        0.7083,
+        0.5518,
+        0.2917
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P001_B001",
+      "panel": "CORINTHIANS1_15_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0081,
+        0.42,
+        0.0433
+      ],
+      "tail": [
+        0.25,
+        0.0785
+      ],
+      "text_key": "corinthians1.15.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_15_P001_B002",
+      "panel": "CORINTHIANS1_15_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0276,
+        0.2858,
+        0.4966,
+        0.0952
+      ],
+      "tail": [
+        0.2759,
+        0.4243
+      ],
+      "text_key": "corinthians1.15.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_15_P001_B003",
+      "panel": "CORINTHIANS1_15_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5743,
+        0.2946,
+        0.195,
+        0.1018
+      ],
+      "tail": null,
+      "text_key": "corinthians1.15.p1.b3"
+    }
+  ]
+}

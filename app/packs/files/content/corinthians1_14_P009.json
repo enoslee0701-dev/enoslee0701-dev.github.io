@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS1_14_P009",
+  "book": "corinthians1",
+  "chapter": 14,
+  "page": 9,
+  "ref": "14:34-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_14_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_14_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "妇女在聚会中要安静不说话，像在圣徒的各教会一样，因为不准她们说话。她们要顺服，正如律法所说的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P009_F2",
+      "box": [
+        0,
+        0.2585,
+        0.5449,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "如果有人以为自己是先知或属灵的人，就应该知道，我写给你们的是主的命令。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P009_F3",
+      "box": [
+        0.5508,
+        0.2585,
+        0.4492,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "所以我的弟兄们，你们要渴慕说先知的话，也不要禁止说方言。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P009_F4",
+      "box": [
+        0,
+        0.5677,
+        1,
+        0.4323
+      ],
+      "alt": {
+        "zh-CN": "一切都要合宜地、有秩序地进行。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_14_P009_B030",
+      "panel": "CORINTHIANS1_14_P009_F1",
+      "order": 30,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.0076,
+        0.48,
+        0.0458
+      ],
+      "tail": [
+        0.72,
+        0.0789
+      ],
+      "text_key": "corinthians1.14.p9.b30"
+    },
+    {
+      "id": "CORINTHIANS1_14_P009_B031",
+      "panel": "CORINTHIANS1_14_P009_F2",
+      "order": 31,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0163,
+        0.2677,
+        0.1961,
+        0.0428
+      ],
+      "tail": [
+        0.1144,
+        0.3411
+      ],
+      "text_key": "corinthians1.14.p9.b31"
+    },
+    {
+      "id": "CORINTHIANS1_14_P009_B032",
+      "panel": "CORINTHIANS1_14_P009_F3",
+      "order": 32,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7934,
+        0.2677,
+        0.1886,
+        0.0489
+      ],
+      "tail": [
+        0.8877,
+        0.3472
+      ],
+      "text_key": "corinthians1.14.p9.b32"
+    },
+    {
+      "id": "CORINTHIANS1_14_P009_B033",
+      "panel": "CORINTHIANS1_14_P009_F4",
+      "order": 33,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.5807,
+        0.38,
+        0.0605
+      ],
+      "tail": [
+        0.79,
+        0.6844
+      ],
+      "text_key": "corinthians1.14.p9.b33"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_13_P002",
+  "book": "corinthians1",
+  "chapter": 13,
+  "page": 2,
+  "ref": "13:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_13_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_13_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "爱是长久忍耐，又满有恩慈；"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_13_P002_F2",
+      "box": [
+        0,
+        0.2376,
+        1,
+        0.5
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_13_P002_F3",
+      "box": [
+        0,
+        0.7428,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "……爱不自夸，不骄傲，不做不得体的事，不求自己的益处，……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_13_P002_B005",
+      "panel": "CORINTHIANS1_13_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0093,
+        0.42,
+        0.056
+      ],
+      "tail": [
+        0.75,
+        0.0887
+      ],
+      "text_key": "corinthians1.13.p2.b5"
+    },
+    {
+      "id": "CORINTHIANS1_13_P002_B006",
+      "panel": "CORINTHIANS1_13_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.7505,
+        0.42,
+        0.036
+      ],
+      "tail": [
+        0.77,
+        0.8122
+      ],
+      "text_key": "corinthians1.13.p2.b6"
+    }
+  ]
+}

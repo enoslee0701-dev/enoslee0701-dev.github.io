@@ -1,0 +1,124 @@
+{
+  "id": "CORINTHIANS1_09_P005",
+  "book": "corinthians1",
+  "chapter": 9,
+  "page": 5,
+  "ref": "9:19-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_09_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_09_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "我虽然是自由的，不受任何人管辖；但我甘愿作了所有人的仆人，为要多得人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_09_P005_F2",
+      "box": [
+        0,
+        0.3014,
+        1,
+        0.4447
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_09_P005_F3",
+      "box": [
+        0,
+        0.75,
+        1,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "对什么样的人，我就作什么样的人。无论如何，总要救一些人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_09_P005_B013",
+      "panel": "CORINTHIANS1_09_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0089,
+        0.2,
+        0.089
+      ],
+      "tail": [
+        0.12,
+        0.1276
+      ],
+      "text_key": "corinthians1.9.p5.b13"
+    },
+    {
+      "id": "CORINTHIANS1_09_P005_B014",
+      "panel": "CORINTHIANS1_09_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.3147,
+        0.4,
+        0.0711
+      ],
+      "tail": [
+        0.48,
+        0.4303
+      ],
+      "text_key": "corinthians1.9.p5.b14"
+    },
+    {
+      "id": "CORINTHIANS1_09_P005_B015",
+      "panel": "CORINTHIANS1_09_P005_F2",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.71,
+        0.3147,
+        0.27,
+        0.0978
+      ],
+      "tail": [
+        0.845,
+        0.457
+      ],
+      "text_key": "corinthians1.9.p5.b15"
+    },
+    {
+      "id": "CORINTHIANS1_09_P005_B016",
+      "panel": "CORINTHIANS1_09_P005_F3",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.76,
+        0.33,
+        0.05
+      ],
+      "tail": [
+        0.805,
+        0.835
+      ],
+      "text_key": "corinthians1.9.p5.b16"
+    }
+  ]
+}

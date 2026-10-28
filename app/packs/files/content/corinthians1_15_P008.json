@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS1_15_P008",
+  "book": "corinthians1",
+  "chapter": 15,
+  "page": 8,
+  "ref": "15:29-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_15_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_15_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "我们又为什么时时刻刻冒险呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P008_F2",
+      "box": [
+        0,
+        0.2897,
+        0.4307,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "……我是天天面对死亡。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P008_F3",
+      "box": [
+        0.4375,
+        0.2897,
+        0.5625,
+        0.7103
+      ],
+      "alt": {
+        "zh-CN": "如果死人不复活，我们就吃吃喝喝吧！因为明天就要死了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_15_P008_F4",
+      "box": [
+        0,
+        0.6452,
+        0.4307,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "你们要清醒过来行善，不要犯罪……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_15_P008_B027",
+      "panel": "CORINTHIANS1_15_P008_F1",
+      "order": 27,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.0086,
+        0.3,
+        0.0571
+      ],
+      "tail": [
+        0.61,
+        0.0943
+      ],
+      "text_key": "corinthians1.15.p8.b27"
+    },
+    {
+      "id": "CORINTHIANS1_15_P008_B028",
+      "panel": "CORINTHIANS1_15_P008_F2",
+      "order": 28,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2584,
+        0.3003,
+        0.1593,
+        0.0774
+      ],
+      "tail": [
+        0.3381,
+        0.4129
+      ],
+      "text_key": "corinthians1.15.p8.b28"
+    },
+    {
+      "id": "CORINTHIANS1_15_P008_B029",
+      "panel": "CORINTHIANS1_15_P008_F3",
+      "order": 29,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.311,
+        0.2362,
+        0.0994
+      ],
+      "tail": [
+        0.5781,
+        0.4814
+      ],
+      "text_key": "corinthians1.15.p8.b29"
+    },
+    {
+      "id": "CORINTHIANS1_15_P008_B030",
+      "panel": "CORINTHIANS1_15_P008_F4",
+      "order": 30,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0215,
+        0.9219,
+        0.3876,
+        0.0638
+      ],
+      "tail": [
+        0.2153,
+        1
+      ],
+      "text_key": "corinthians1.15.p8.b30"
+    }
+  ]
+}

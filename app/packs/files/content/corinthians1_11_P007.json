@@ -1,0 +1,85 @@
+{
+  "id": "CORINTHIANS1_11_P007",
+  "book": "corinthians1",
+  "chapter": 11,
+  "page": 7,
+  "ref": "11:25-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_11_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_11_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "「这杯是用我的血所立的新约。你们每次喝的时候，要这样做，为的是记念我。」"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P007_F2",
+      "box": [
+        0,
+        0.332,
+        1,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "你们每次吃这饼、喝这杯，就是在宣告主的死，直到他再来。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P007_F3",
+      "box": [
+        0,
+        0.7194,
+        1,
+        0.2806
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_11_P007_B018",
+      "panel": "CORINTHIANS1_11_P007_F1",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0132,
+        0.4,
+        0.0591
+      ],
+      "tail": null,
+      "text_key": "corinthians1.11.p7.b18"
+    },
+    {
+      "id": "CORINTHIANS1_11_P007_B019",
+      "panel": "CORINTHIANS1_11_P007_F2",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.3435,
+        0.44,
+        0.046
+      ],
+      "tail": [
+        0.72,
+        0.4279
+      ],
+      "text_key": "corinthians1.11.p7.b19"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS1_04_P006",
+  "book": "corinthians1",
+  "chapter": 4,
+  "page": 6,
+  "ref": "4:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_04_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_04_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "所以我已经派提摩太到你们那里去。他在主里是我亲爱又忠心的儿子。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P006_F2",
+      "box": [
+        0,
+        0.2962,
+        1,
+        0.377
+      ],
+      "alt": {
+        "zh-CN": "他会提醒你们，记得我在基督里怎样为人处事，在各地各教会怎样教导人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_04_P006_F3",
+      "box": [
+        0,
+        0.6771,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "有些人自高自大，以为我不会到你们那里去；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_04_P006_B016",
+      "panel": "CORINTHIANS1_04_P006_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0059,
+        0.32,
+        0.0586
+      ],
+      "tail": [
+        0.52,
+        0.0938
+      ],
+      "text_key": "corinthians1.4.p6.b16"
+    },
+    {
+      "id": "CORINTHIANS1_04_P006_B017",
+      "panel": "CORINTHIANS1_04_P006_F2",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5827,
+        0.45,
+        0.0754
+      ],
+      "tail": [
+        0.745,
+        0.6732
+      ],
+      "text_key": "corinthians1.4.p6.b17"
+    },
+    {
+      "id": "CORINTHIANS1_04_P006_B018",
+      "panel": "CORINTHIANS1_04_P006_F3",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.6868,
+        0.3,
+        0.0774
+      ],
+      "tail": [
+        0.55,
+        0.7965
+      ],
+      "text_key": "corinthians1.4.p6.b18"
+    }
+  ]
+}

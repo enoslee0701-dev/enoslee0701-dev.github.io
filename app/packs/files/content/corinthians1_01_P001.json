@@ -1,0 +1,121 @@
+{
+  "id": "CORINTHIANS1_01_P001",
+  "book": "corinthians1",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.181
+      ],
+      "alt": {
+        "zh-CN": "从以弗所到哥林多"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P001_F2",
+      "box": [
+        0,
+        0.1849,
+        1,
+        0.403
+      ],
+      "alt": {
+        "zh-CN": "照着　神的旨意蒙召作耶稣基督使徒的保罗，和弟兄所提尼，"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P001_F3",
+      "box": [
+        0,
+        0.5918,
+        0.4951,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "写信给在哥林多的　神的教会，就是在基督耶稣里成为圣洁、蒙召作圣徒的人，……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_01_P001_F4",
+      "box": [
+        0.5,
+        0.5918,
+        0.5,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "愿恩典和平安从　神我们的父和主耶稣基督临到你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_01_P001_B001",
+      "panel": "CORINTHIANS1_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.197,
+        0.3,
+        0.0604
+      ],
+      "tail": [
+        0.17,
+        0.2977
+      ],
+      "text_key": "corinthians1.1.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_01_P001_B002",
+      "panel": "CORINTHIANS1_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2476,
+        0.6,
+        0.2277,
+        0.0449
+      ],
+      "tail": [
+        0.3615,
+        0.6857
+      ],
+      "text_key": "corinthians1.1.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_01_P001_B003",
+      "panel": "CORINTHIANS1_01_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.51,
+        0.6,
+        0.19,
+        0.0367
+      ],
+      "tail": [
+        0.605,
+        0.6775
+      ],
+      "text_key": "corinthians1.1.p1.b3"
+    }
+  ]
+}

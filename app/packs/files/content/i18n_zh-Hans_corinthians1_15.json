@@ -1,0 +1,607 @@
+{
+  "corinthians1.15.p1.b1": {
+    "text": "弟兄们，我如今把先前所传给你们的福音告诉你们知道……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "弟⁠兄⁠们，我如⁠今把先⁠前所传⁠给你⁠们的福⁠音告⁠诉你⁠们知⁠道……"
+  },
+  "corinthians1.15.p1.b2": {
+    "text": "我当日所领受又传给你们的：第一，就是基督照圣经所说，为我们的罪死了，而且埋葬了；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:3-4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我当⁠日所领⁠受又传⁠给你⁠们的：第⁠一，就⁠是基⁠督照圣⁠经所说，为我⁠们的罪死⁠了，而⁠且埋⁠葬了；"
+  },
+  "corinthians1.15.p1.b3": {
+    "text": "又照圣经所说，第三天复活了……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又照圣⁠经所说，第⁠三天复⁠活了……"
+  },
+  "corinthians1.15.p2.b4": {
+    "text": "并且显给矶法看，然后显给十二使徒看……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并⁠且显给矶法看，然⁠后显给十⁠二使⁠徒看……"
+  },
+  "corinthians1.15.p2.b5": {
+    "text": "后来一时显给五百多弟兄看，其中一大半到如今还在，却也有已经睡了的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "后⁠来一⁠时显给五⁠百多弟⁠兄看，其⁠中一大⁠半到如⁠今还在，却也⁠有已⁠经睡⁠了的。"
+  },
+  "corinthians1.15.p2.b6": {
+    "text": "以后显给雅各看，再显给众使徒看……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠后显给雅⁠各看，再显给众使⁠徒看……"
+  },
+  "corinthians1.15.p2.b7": {
+    "text": "末了也显给我看；我如同未到产期而生的人一般。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "末了也显给我⁠看；我如⁠同未⁠到产期而⁠生的人一⁠般。"
+  },
+  "corinthians1.15.p3.b8": {
+    "text": "我原是使徒中最小的，不配称为使徒，因为我从前逼迫　神的教会。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我原⁠是使⁠徒中最⁠小的，不⁠配称⁠为使⁠徒，因⁠为我从⁠前逼⁠迫　神的教⁠会。"
+  },
+  "corinthians1.15.p3.b9": {
+    "text": "然而，我今日成了何等人，是蒙　神的恩才成的……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "然⁠而，我今⁠日成⁠了何⁠等人，是蒙　神的恩才成的……"
+  },
+  "corinthians1.15.p3.b10": {
+    "text": "……这原不是我，乃是　神的恩与我同在。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……这原不⁠是我，乃⁠是　神的恩与我同在。"
+  },
+  "corinthians1.15.p3.b11": {
+    "text": "不拘是我，是众使徒，我们如此传，你们也如此信了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠拘是我，是众使⁠徒，我⁠们如⁠此传，你⁠们也如⁠此信了。"
+  },
+  "corinthians1.15.p4.b12": {
+    "text": "既传基督是从死里复活了，怎么在你们中间有人说没有死人复活的事呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "既传基⁠督是从死里复⁠活了，怎⁠么在你⁠们中⁠间有⁠人说没⁠有死⁠人复⁠活的事呢？"
+  },
+  "corinthians1.15.p4.b13": {
+    "text": "若没有死人复活的事，基督也就没有复活了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若没⁠有死⁠人复⁠活的事，基⁠督也⁠就没⁠有复⁠活了。"
+  },
+  "corinthians1.15.p4.b14": {
+    "text": "若基督没有复活，我们所传的便是枉然，你们所信的也是枉然；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若基⁠督没⁠有复⁠活，我⁠们所传的便⁠是枉⁠然，你⁠们所⁠信的也⁠是枉⁠然；"
+  },
+  "corinthians1.15.p5.b15": {
+    "text": "……若死人真不复活，　神也就没有叫基督复活了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……若死⁠人真⁠不复⁠活，　神也⁠就没⁠有叫基⁠督复⁠活了。"
+  },
+  "corinthians1.15.p5.b16": {
+    "text": "基督若没有复活，你们的信便是徒然，你们仍在罪里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "基⁠督若没⁠有复⁠活，你⁠们的信便⁠是徒⁠然，你⁠们仍⁠在罪里。"
+  },
+  "corinthians1.15.p5.b17": {
+    "text": "就是在基督里睡了的人也灭亡了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠是在基⁠督里睡⁠了的人也灭⁠亡了。"
+  },
+  "corinthians1.15.p5.b18": {
+    "text": "我们若靠基督只在今生有指望，就算比众人更可怜。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们若靠基⁠督只⁠在今⁠生有指⁠望，就⁠算比众⁠人更可⁠怜。"
+  },
+  "corinthians1.15.p6.b19": {
+    "text": "但基督已经从死里复活，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但基⁠督已⁠经从死里复⁠活，"
+  },
+  "corinthians1.15.p6.b20": {
+    "text": "……成为睡了之人初熟的果子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……成⁠为睡⁠了之人初熟的果⁠子。"
+  },
+  "corinthians1.15.p6.b21": {
+    "text": "在亚当里众人都死了；照样，在基督里众人也都要复活。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在亚⁠当里众⁠人都死⁠了；照⁠样，在基⁠督里众⁠人也都⁠要复⁠活。"
+  },
+  "corinthians1.15.p6.b22": {
+    "text": "……初熟的果子是基督；以后，在他来的时候，是那些属基督的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……初熟的果⁠子是基⁠督；以⁠后，在他来的时⁠候，是那⁠些属基⁠督的。"
+  },
+  "corinthians1.15.p7.b23": {
+    "text": "再后，末期到了……就把国交与父　神。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "再后，末⁠期到⁠了……就⁠把国⁠交与父　神。"
+  },
+  "corinthians1.15.p7.b24": {
+    "text": "因为基督必要作王，等　神把一切仇敌都放在他的脚下。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为基⁠督必⁠要作王，等　神把一⁠切仇⁠敌都放⁠在他⁠的脚⁠下。"
+  },
+  "corinthians1.15.p7.b25": {
+    "text": "尽末了所毁灭的仇敌就是死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "尽末了所毁⁠灭的仇⁠敌就⁠是死。"
+  },
+  "corinthians1.15.p7.b26": {
+    "text": "……叫　神在万物之上，为万物之主。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……叫　神在万⁠物之⁠上，为万⁠物之主。"
+  },
+  "corinthians1.15.p8.b27": {
+    "text": "我们又因何时刻冒险呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们又因何时⁠刻冒⁠险呢？"
+  },
+  "corinthians1.15.p8.b28": {
+    "text": "……我是天天冒死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……我⁠是天⁠天冒⁠死。"
+  },
+  "corinthians1.15.p8.b29": {
+    "text": "若死人不复活，我们就吃吃喝喝吧！因为明天要死了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若死⁠人不复⁠活，我⁠们就吃⁠吃喝⁠喝吧！因⁠为明⁠天要死⁠了。"
+  },
+  "corinthians1.15.p8.b30": {
+    "text": "你们要醒悟为善，不要犯罪……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要醒⁠悟为善，不⁠要犯⁠罪……"
+  },
+  "corinthians1.15.p9.b31": {
+    "text": "或有人问：「死人怎样复活，带着什么身体来呢？」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "或有⁠人问：「死⁠人怎⁠样复⁠活，带着什⁠么身⁠体来呢？」"
+  },
+  "corinthians1.15.p9.b32": {
+    "text": "……你所种的，若不死就不能生。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……你所种的，若不⁠死就⁠不⁠能生。"
+  },
+  "corinthians1.15.p9.b33": {
+    "text": "……不过是子粒，即如麦子，或是别样的谷。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……不⁠过是子粒，即如麦⁠子，或⁠是别样的谷。"
+  },
+  "corinthians1.15.p9.b34": {
+    "text": "但　神随自己的意思给他一个形体……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "但　神随自⁠己的意⁠思给他一⁠个形⁠体……"
+  },
+  "corinthians1.15.p10.b35": {
+    "text": "凡肉体各有不同……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "凡肉⁠体各⁠有不⁠同……"
+  },
+  "corinthians1.15.p10.b36": {
+    "text": "有天上的形体，也有地上的形体……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有天⁠上的形⁠体，也⁠有地⁠上的形⁠体……"
+  },
+  "corinthians1.15.p10.b37": {
+    "text": "日有日的荣光，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "日有日的荣⁠光，"
+  },
+  "corinthians1.15.p10.b38": {
+    "text": "月有月的荣光，星有星的荣光；这星和那星的荣光也有分别。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "月有月的荣⁠光，星有星的荣⁠光；这星和那星的荣⁠光也⁠有分⁠别。"
+  },
+  "corinthians1.15.p11.b39": {
+    "text": "死人复活也是这样：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "死⁠人复⁠活也⁠是这⁠样："
+  },
+  "corinthians1.15.p11.b40": {
+    "text": "所种的是必朽坏的，复活的是不朽坏的；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "所种的⁠是必朽⁠坏的，复⁠活的是⁠不朽⁠坏的；"
+  },
+  "corinthians1.15.p11.b41": {
+    "text": "……所种的是软弱的，复活的是强壮的……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……所种的⁠是软⁠弱的，复⁠活的⁠是强⁠壮的……"
+  },
+  "corinthians1.15.p11.b42": {
+    "text": "经上也是这样记着说：「首先的人亚当成了有灵的活人」；末后的亚当成了叫人活的灵。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:45"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "经上也⁠是这⁠样记着说：「首⁠先的人亚⁠当成⁠了有⁠灵的活⁠人」；末后的亚⁠当成⁠了叫人活的灵。"
+  },
+  "corinthians1.15.p12.b43": {
+    "text": "头一个人是出于地，乃属土；第二个人是出于天。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:47"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "头一⁠个人是出⁠于地，乃属土；第⁠二个⁠人是出⁠于天。"
+  },
+  "corinthians1.15.p12.b44": {
+    "text": "那属土的怎样，凡属土的也就怎样；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那属土的怎⁠样，凡属土的也⁠就怎⁠样；"
+  },
+  "corinthians1.15.p12.b45": {
+    "text": "属天的怎样，凡属天的也就怎样。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:48"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "属天的怎⁠样，凡属天的也⁠就怎⁠样。"
+  },
+  "corinthians1.15.p12.b46": {
+    "text": "我们既有属土的形状，将来也必有属天的形状。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们既⁠有属土的形⁠状，将⁠来也必⁠有属天的形⁠状。"
+  },
+  "corinthians1.15.p13.b47": {
+    "text": "我如今把一件奥秘的事告诉你们：我们不是都要睡觉，乃是都要改变，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我如⁠今把一⁠件奥⁠秘的事告⁠诉你⁠们：我⁠们不⁠是都⁠要睡⁠觉，乃⁠是都⁠要改⁠变，"
+  },
+  "corinthians1.15.p13.b48": {
+    "text": "就在一霎时，眨眼之间，号筒末次吹响的时候。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠在一⁠霎时，眨⁠眼之⁠间，号筒末⁠次吹响的时⁠候。"
+  },
+  "corinthians1.15.p13.b49": {
+    "text": "因号筒要响，死人要复活成为不朽坏的，我们也要改变。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:52"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因号筒要响，死⁠人要复⁠活成⁠为不⁠朽坏的，我⁠们也⁠要改⁠变。"
+  },
+  "corinthians1.15.p13.b50": {
+    "text": "……那时经上所记「死被得胜吞灭」的话就应验了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:54"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……那⁠时经上⁠所记「死被得⁠胜吞⁠灭」的⁠话就⁠应验了。"
+  },
+  "corinthians1.15.p13.b51": {
+    "text": "死啊！你得胜的权势在哪里？死啊！你的毒钩在哪里？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:55"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "死啊！你得⁠胜的权⁠势在哪⁠里？死啊！你⁠的毒钩在哪⁠里？"
+  },
+  "corinthians1.15.p14.b52": {
+    "text": "死的毒钩就是罪，罪的权势就是律法。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:56"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "死的毒钩就⁠是罪，罪的权⁠势就⁠是律⁠法。"
+  },
+  "corinthians1.15.p14.b53": {
+    "text": "感谢　神，使我们借着我们的主耶稣基督得胜。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:57"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "感⁠谢　神，使我⁠们借⁠着我⁠们的主耶⁠稣基⁠督得⁠胜。"
+  },
+  "corinthians1.15.p14.b54": {
+    "text": "所以，我亲爱的弟兄们，你们务要坚固，不可摇动，常常竭力多做主工；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:58"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "所⁠以，我亲⁠爱的弟⁠兄⁠们，你⁠们务要坚⁠固，不⁠可摇⁠动，常⁠常竭⁠力多做⁠主工；"
+  },
+  "corinthians1.15.p14.b55": {
+    "text": "因为知道，你们的劳苦在主里面不是徒然的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 Corinthians 15:58"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠为知⁠道，你⁠们的劳⁠苦在主里⁠面不⁠是徒⁠然的。"
+  }
+}

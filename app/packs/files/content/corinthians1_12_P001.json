@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS1_12_P001",
+  "book": "corinthians1",
+  "chapter": 12,
+  "page": 1,
+  "ref": "12:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_12_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_12_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "弟兄姐妹们，关于属灵的恩赐，我不希望你们不明白。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_12_P001_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.4206
+      ],
+      "alt": {
+        "zh-CN": "你们还是外邦人的时候，被引诱、被带走，去拜那些不会说话的偶像，……"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_12_P001_F3",
+      "box": [
+        0,
+        0.694,
+        1,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "……如果不是被圣灵感动，也没有人能说「耶稣是主」。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_12_P001_B001",
+      "panel": "CORINTHIANS1_12_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.008,
+        0.3,
+        0.0375
+      ],
+      "tail": [
+        0.18,
+        0.0723
+      ],
+      "text_key": "corinthians1.12.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS1_12_P001_B002",
+      "panel": "CORINTHIANS1_12_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2876,
+        0.34,
+        0.0672
+      ],
+      "tail": null,
+      "text_key": "corinthians1.12.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS1_12_P001_B003",
+      "panel": "CORINTHIANS1_12_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.7032,
+        0.26,
+        0.0612
+      ],
+      "tail": [
+        0.49,
+        0.795
+      ],
+      "text_key": "corinthians1.12.p1.b3"
+    }
+  ]
+}

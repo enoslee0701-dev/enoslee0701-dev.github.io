@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS1_11_P009",
+  "book": "corinthians1",
+  "chapter": 11,
+  "page": 9,
+  "ref": "11:31-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_11_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_11_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2383
+      ],
+      "alt": {
+        "zh-CN": "我们如果先省察自己，就不会受审判。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_11_P009_F2",
+      "box": [
+        0,
+        0.2428,
+        1,
+        0.4219
+      ]
+    },
+    {
+      "id": "CORINTHIANS1_11_P009_F3",
+      "box": [
+        0,
+        0.6686,
+        1,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "我们受审判的时候，是被主管教，免得我们和世人一起被定罪。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_11_P009_B023",
+      "panel": "CORINTHIANS1_11_P009_F1",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0095,
+        0.38,
+        0.0476
+      ],
+      "tail": [
+        0.75,
+        0.0809
+      ],
+      "text_key": "corinthians1.11.p9.b23"
+    },
+    {
+      "id": "CORINTHIANS1_11_P009_B024",
+      "panel": "CORINTHIANS1_11_P009_F3",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6819,
+        0.38,
+        0.0729
+      ],
+      "tail": [
+        0.77,
+        0.7879
+      ],
+      "text_key": "corinthians1.11.p9.b24"
+    }
+  ]
+}

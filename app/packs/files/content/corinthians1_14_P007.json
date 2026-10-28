@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS1_14_P007",
+  "book": "corinthians1",
+  "chapter": 14,
+  "page": 7,
+  "ref": "14:26-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_14_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_14_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "……你们聚会的时候，有人有诗歌，有人有教导，有人有启示，有人有方言，有人有翻译，一切都应当建立人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P007_F2",
+      "box": [
+        0,
+        0.3001,
+        0.5332,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "如果有人说方言，只可以两个人，最多三个人，而且要轮流说，还要有一个人翻译。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P007_F3",
+      "box": [
+        0.541,
+        0.3001,
+        0.459,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "至于说先知话的，只可以两个人或三个人，其余的人要仔细分辨。"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_14_P007_F4",
+      "box": [
+        0,
+        0.6139,
+        1,
+        0.3861
+      ],
+      "alt": {
+        "zh-CN": "如果旁边坐着的人得了启示，先说话的人就应当停下来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_14_P007_B023",
+      "panel": "CORINTHIANS1_14_P007_F1",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.0089,
+        0.36,
+        0.0473
+      ],
+      "tail": [
+        0.5,
+        0.0858
+      ],
+      "text_key": "corinthians1.14.p7.b23"
+    },
+    {
+      "id": "CORINTHIANS1_14_P007_B024",
+      "panel": "CORINTHIANS1_14_P007_F2",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0267,
+        0.5413,
+        0.4798,
+        0.0556
+      ],
+      "tail": [
+        0.2666,
+        0.6093
+      ],
+      "text_key": "corinthians1.14.p7.b24"
+    },
+    {
+      "id": "CORINTHIANS1_14_P007_B025",
+      "panel": "CORINTHIANS1_14_P007_F3",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.798,
+        0.3094,
+        0.1836,
+        0.0494
+      ],
+      "tail": [
+        0.8898,
+        0.3897
+      ],
+      "text_key": "corinthians1.14.p7.b25"
+    },
+    {
+      "id": "CORINTHIANS1_14_P007_B026",
+      "panel": "CORINTHIANS1_14_P007_F4",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.65,
+        0.6216,
+        0.33,
+        0.054
+      ],
+      "tail": [
+        0.815,
+        0.7142
+      ],
+      "text_key": "corinthians1.14.p7.b26"
+    }
+  ]
+}

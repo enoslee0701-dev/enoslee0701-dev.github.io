@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS1_16_P007",
+  "book": "corinthians1",
+  "chapter": 16,
+  "page": 7,
+  "ref": "16:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS1_16_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS1_16_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "主要来了！"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P007_F2",
+      "box": [
+        0,
+        0.2194,
+        1,
+        0.4206
+      ],
+      "alt": {
+        "zh-CN": "愿主耶稣基督的恩典与你们众人同在！"
+      }
+    },
+    {
+      "id": "CORINTHIANS1_16_P007_F3",
+      "box": [
+        0,
+        0.6432,
+        1,
+        0.3568
+      ],
+      "alt": {
+        "zh-CN": "我在基督耶稣里的爱与你们众人同在。阿们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS1_16_P007_B001",
+      "panel": "CORINTHIANS1_16_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0108,
+        0.42,
+        0.0646
+      ],
+      "tail": null,
+      "text_key": "corinthians1.16.p7.b1"
+    },
+    {
+      "id": "CORINTHIANS1_16_P007_B002",
+      "panel": "CORINTHIANS1_16_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.232,
+        0.4,
+        0.0672
+      ],
+      "tail": [
+        0.22,
+        0.3413
+      ],
+      "text_key": "corinthians1.16.p7.b2"
+    },
+    {
+      "id": "CORINTHIANS1_16_P007_B003",
+      "panel": "CORINTHIANS1_16_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.05,
+        0.6575,
+        0.9,
+        0.0784
+      ],
+      "tail": [
+        0.5,
+        0.7716
+      ],
+      "text_key": "corinthians1.16.p7.b3"
+    }
+  ]
+}
