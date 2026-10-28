@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_12_P006",
+  "book": "corinthians2",
+  "chapter": 12,
+  "page": 6,
+  "ref": "12:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_12_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_12_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "亲爱的弟兄们，这一切都是为了造就你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P006_F2",
+      "box": [
+        0,
+        0.252,
+        1,
+        0.347
+      ],
+      "alt": {
+        "zh-CN": "我怕我来的时候，见你们不是我所希望的样子，你们见我也不是你们所希望的样子；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P006_F3",
+      "box": [
+        0,
+        0.6029,
+        1,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "又怕我来的时候，我的神使我在你们面前羞愧，……我就要忧伤。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_12_P006_B001",
+      "panel": "CORINTHIANS2_12_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0075,
+        0.45,
+        0.0547
+      ],
+      "tail": [
+        0.745,
+        0.0871
+      ],
+      "text_key": "corinthians2.12.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS2_12_P006_B002",
+      "panel": "CORINTHIANS2_12_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2624,
+        0.34,
+        0.0763
+      ],
+      "tail": [
+        0.2,
+        0.3734
+      ],
+      "text_key": "corinthians2.12.p6.b2"
+    },
+    {
+      "id": "CORINTHIANS2_12_P006_B003",
+      "panel": "CORINTHIANS2_12_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.62,
+        0.6148,
+        0.35,
+        0.0794
+      ],
+      "tail": [
+        0.795,
+        0.7339
+      ],
+      "text_key": "corinthians2.12.p6.b3"
+    }
+  ]
+}

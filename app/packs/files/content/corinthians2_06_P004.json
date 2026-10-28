@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_06_P004",
+  "book": "corinthians2",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3444
+      ],
+      "alt": {
+        "zh-CN": "哥林多人哪，我们对你们说话是坦白的，心是敞开的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_06_P004_F2",
+      "box": [
+        0,
+        0.3483,
+        1,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "你们心里的窄，不在我们这边，是你们自己的心肠窄。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_06_P004_F3",
+      "box": [
+        0,
+        0.6569,
+        1,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "你们也要同样敞开心来回报我。我这话像对自己的孩子说的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_06_P004_B001",
+      "panel": "CORINTHIANS2_06_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0103,
+        0.36,
+        0.0551
+      ],
+      "tail": [
+        0.62,
+        0.0998
+      ],
+      "text_key": "corinthians2.6.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_06_P004_B002",
+      "panel": "CORINTHIANS2_06_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.15,
+        0.3544,
+        0.4,
+        0.0427
+      ],
+      "tail": [
+        0.35,
+        0.4276
+      ],
+      "text_key": "corinthians2.6.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_06_P004_B003",
+      "panel": "CORINTHIANS2_06_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.6603,
+        0.4,
+        0.0274
+      ],
+      "tail": [
+        0.78,
+        0.722
+      ],
+      "text_key": "corinthians2.6.p4.b3"
+    }
+  ]
+}

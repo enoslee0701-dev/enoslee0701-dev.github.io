@@ -1,0 +1,148 @@
+{
+  "id": "CORINTHIANS2_02_P005",
+  "book": "corinthians2",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_02_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "感谢神！他常带领我们在基督里得胜，并借着我们在各处散发出认识基督的香气。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_F2",
+      "box": [
+        0,
+        0.2832,
+        0.3271,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "对这些人，是死的气味，叫他们死；对那些人，是生命的香气，叫他们活。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_F3",
+      "box": [
+        0.335,
+        0.2832,
+        0.665,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "这样的事，谁能担当得起呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_F4",
+      "box": [
+        0,
+        0.6855,
+        0.6523,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "我们不像许多人那样为了利益掺混神的道，而是出于真诚、出于神，在神面前凭着基督讲道。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_F5",
+      "box": [
+        0.6602,
+        0.6855,
+        0.3398,
+        0.3145
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_02_P005_B001",
+      "panel": "CORINTHIANS2_02_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.0084,
+        0.44,
+        0.0501
+      ],
+      "tail": [
+        0.24,
+        0.0864
+      ],
+      "text_key": "corinthians2.2.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_B002",
+      "panel": "CORINTHIANS2_02_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0131,
+        0.5929,
+        0.3009,
+        0.0754
+      ],
+      "tail": [
+        0.1636,
+        0.6803
+      ],
+      "text_key": "corinthians2.2.p5.b2"
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_B003",
+      "panel": "CORINTHIANS2_02_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5345,
+        0.6406,
+        0.2327,
+        0.0357
+      ],
+      "tail": [
+        0.6508,
+        0.6803
+      ],
+      "text_key": "corinthians2.2.p5.b3"
+    },
+    {
+      "id": "CORINTHIANS2_02_P005_B004",
+      "panel": "CORINTHIANS2_02_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0196,
+        0.6949,
+        0.2935,
+        0.0943
+      ],
+      "tail": [
+        0.1664,
+        0.8206
+      ],
+      "text_key": "corinthians2.2.p5.b4"
+    }
+  ]
+}

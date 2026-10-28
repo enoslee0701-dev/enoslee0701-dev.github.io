@@ -1,0 +1,73 @@
+{
+  "id": "CORINTHIANS2_13_P004",
+  "book": "corinthians2",
+  "chapter": 13,
+  "page": 4,
+  "ref": "13:14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_13_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_13_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.207
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_13_P004_F2",
+      "box": [
+        0,
+        0.2096,
+        1,
+        0.1732
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_13_P004_F3",
+      "box": [
+        0,
+        0.3861,
+        1,
+        0.349
+      ],
+      "alt": {
+        "zh-CN": "愿主耶稣基督的恩典、神的慈爱、圣灵的相通常与你们众人同在！"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_13_P004_F4",
+      "box": [
+        0,
+        0.7383,
+        1,
+        0.2617
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_13_P004_B001",
+      "panel": "CORINTHIANS2_13_P004_F3",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.05,
+        0.3931,
+        0.9,
+        0.0418
+      ],
+      "tail": null,
+      "text_key": "corinthians2.13.p4.b1"
+    }
+  ]
+}

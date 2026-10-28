@@ -1,0 +1,148 @@
+{
+  "id": "CORINTHIANS2_02_P001",
+  "book": "corinthians2",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "我自己已经决定，不要再带着忧愁到你们那里去。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_F2",
+      "box": [
+        0,
+        0.2448,
+        0.3018,
+        0.3984
+      ],
+      "alt": {
+        "zh-CN": "如果我使你们忧愁，除了被我弄得忧愁的人以外，还有谁能使我快乐呢？"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_F3",
+      "box": [
+        0.3076,
+        0.2448,
+        0.6924,
+        0.3984
+      ],
+      "alt": {
+        "zh-CN": "我先前心里非常难过、痛苦，流了许多眼泪写信给你们，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_F4",
+      "box": [
+        0,
+        0.6471,
+        0.3594,
+        0.3529
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_F5",
+      "box": [
+        0.3652,
+        0.6471,
+        0.6348,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "不是要使你们忧愁，而是要让你们知道我特别爱你们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_02_P001_B001",
+      "panel": "CORINTHIANS2_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0072,
+        0.4,
+        0.0528
+      ],
+      "tail": [
+        0.76,
+        0.084
+      ],
+      "text_key": "corinthians2.2.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_B002",
+      "panel": "CORINTHIANS2_02_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0121,
+        0.5476,
+        0.2776,
+        0.0836
+      ],
+      "tail": [
+        0.1509,
+        0.6432
+      ],
+      "text_key": "corinthians2.2.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_B003",
+      "panel": "CORINTHIANS2_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.3284,
+        0.5556,
+        0.3462,
+        0.0756
+      ],
+      "tail": [
+        0.5015,
+        0.6432
+      ],
+      "text_key": "corinthians2.2.p1.b3"
+    },
+    {
+      "id": "CORINTHIANS2_02_P001_B004",
+      "panel": "CORINTHIANS2_02_P001_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7207,
+        0.9294,
+        0.2666,
+        0.0635
+      ],
+      "tail": [
+        0.854,
+        1
+      ],
+      "text_key": "corinthians2.2.p1.b4"
+    }
+  ]
+}

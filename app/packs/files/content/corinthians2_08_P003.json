@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_08_P003",
+  "book": "corinthians2",
+  "chapter": 8,
+  "page": 3,
+  "ref": "8:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_08_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_08_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "你们知道我们主耶稣基督的恩典："
+      }
+    },
+    {
+      "id": "CORINTHIANS2_08_P003_F2",
+      "box": [
+        0,
+        0.2507,
+        1,
+        0.4531
+      ],
+      "alt": {
+        "zh-CN": "他本来富有，却为你们成了贫穷，好使你们因他的贫穷可以成为富有。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_08_P003_F3",
+      "box": [
+        0,
+        0.7064,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "因为只要有乐意的心，就必蒙悦纳，是按照他所有的，不是按照他所没有的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_08_P003_B001",
+      "panel": "CORINTHIANS2_08_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0074,
+        0.44,
+        0.0445
+      ],
+      "tail": [
+        0.74,
+        0.0766
+      ],
+      "text_key": "corinthians2.8.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_08_P003_B002",
+      "panel": "CORINTHIANS2_08_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2643,
+        0.4,
+        0.0634
+      ],
+      "tail": [
+        0.23,
+        0.373
+      ],
+      "text_key": "corinthians2.8.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_08_P003_B003",
+      "panel": "CORINTHIANS2_08_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.42,
+        0.7152,
+        0.38,
+        0.0587
+      ],
+      "tail": [
+        0.61,
+        0.8033
+      ],
+      "text_key": "corinthians2.8.p3.b3"
+    }
+  ]
+}

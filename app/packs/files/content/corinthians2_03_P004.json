@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS2_03_P004",
+  "book": "corinthians2",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:12-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "我们既然有这样的盼望，就大胆地讲说，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P004_F2",
+      "box": [
+        0,
+        0.2715,
+        0.5029,
+        0.3073
+      ],
+      "alt": {
+        "zh-CN": "不像摩西把帕子蒙在脸上，使以色列人不能定睛看那将要消逝之物的结局。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P004_F3",
+      "box": [
+        0.5088,
+        0.2715,
+        0.4912,
+        0.3073
+      ],
+      "alt": {
+        "zh-CN": "然而直到今天，每逢诵读摩西的书，帕子仍然蒙在他们心上。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P004_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "但他们的心什么时候归向主，帕子就什么时候被除去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_03_P004_B001",
+      "panel": "CORINTHIANS2_03_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.008,
+        0.28,
+        0.0533
+      ],
+      "tail": [
+        0.61,
+        0.088
+      ],
+      "text_key": "corinthians2.3.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_03_P004_B002",
+      "panel": "CORINTHIANS2_03_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0201,
+        0.5173,
+        0.4626,
+        0.0522
+      ],
+      "tail": null,
+      "text_key": "corinthians2.3.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_03_P004_B003",
+      "panel": "CORINTHIANS2_03_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7839,
+        0.2807,
+        0.2013,
+        0.0553
+      ],
+      "tail": [
+        0.8846,
+        0.3667
+      ],
+      "text_key": "corinthians2.3.p4.b3"
+    },
+    {
+      "id": "CORINTHIANS2_03_P004_B004",
+      "panel": "CORINTHIANS2_03_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.5952,
+        0.26,
+        0.0625
+      ],
+      "tail": [
+        0.7,
+        0.6994
+      ],
+      "text_key": "corinthians2.3.p4.b4"
+    }
+  ]
+}

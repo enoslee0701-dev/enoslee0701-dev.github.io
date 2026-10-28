@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_09_P004",
+  "book": "corinthians2",
+  "chapter": 9,
+  "page": 4,
+  "ref": "9:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_09_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_09_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "因为这项供给的服事，不但补足圣徒的缺乏，而且使许多人更加感谢神。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P004_F2",
+      "box": [
+        0,
+        0.2949,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "他们也因为神在你们身上显出极大的恩典，就切切地想念你们，为你们祷告。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P004_F3",
+      "box": [
+        0,
+        0.582,
+        1,
+        0.418
+      ],
+      "alt": {
+        "zh-CN": "感谢神，因为他有说不尽的恩赐！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_09_P004_B001",
+      "panel": "CORINTHIANS2_09_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.0088,
+        0.4,
+        0.0583
+      ],
+      "tail": [
+        0.76,
+        0.0963
+      ],
+      "text_key": "corinthians2.9.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_09_P004_B002",
+      "panel": "CORINTHIANS2_09_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3091,
+        0.24,
+        0.0849
+      ],
+      "tail": [
+        0.15,
+        0.4223
+      ],
+      "text_key": "corinthians2.9.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_09_P004_B003",
+      "panel": "CORINTHIANS2_09_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.65,
+        0.9164,
+        0.33,
+        0.071
+      ],
+      "tail": [
+        0.815,
+        1
+      ],
+      "text_key": "corinthians2.9.p4.b3"
+    }
+  ]
+}

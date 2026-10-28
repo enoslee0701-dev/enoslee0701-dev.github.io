@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS2_07_P006",
+  "book": "corinthians2",
+  "chapter": 7,
+  "page": 6,
+  "ref": "7:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_07_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_07_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "提多想起你们大家的顺服，你们是怎样恐惧战兢地接待他，他爱你们的心就更加深切了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P006_F2",
+      "box": [
+        0,
+        0.3014,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "我现在欢喜，因为我在凡事上都可以对你们放心。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P006_F3",
+      "box": [
+        0,
+        0.7194,
+        1,
+        0.2806
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_07_P006_B001",
+      "panel": "CORINTHIANS2_07_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0089,
+        0.42,
+        0.0535
+      ],
+      "tail": [
+        0.75,
+        0.0922
+      ],
+      "text_key": "corinthians2.7.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS2_07_P006_B002",
+      "panel": "CORINTHIANS2_07_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.318,
+        0.4,
+        0.0662
+      ],
+      "tail": [
+        0.76,
+        0.4256
+      ],
+      "text_key": "corinthians2.7.p6.b2"
+    }
+  ]
+}

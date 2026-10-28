@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS2_10_P002",
+  "book": "corinthians2",
+  "chapter": 10,
+  "page": 2,
+  "ref": "10:3-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_10_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_10_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "我们虽然活在肉身中，却不凭着肉体作战。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_10_P002_F2",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "我们作战的兵器不是属肉体的，而是在神面前有能力，可以攻破坚固的堡垒，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_10_P002_F3",
+      "box": [
+        0,
+        0.7194,
+        1,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "又把人一切的心思夺回来，使它都顺服基督。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_10_P002_B001",
+      "panel": "CORINTHIANS2_10_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.008,
+        0.4,
+        0.0585
+      ],
+      "tail": [
+        0.76,
+        0.0931
+      ],
+      "text_key": "corinthians2.10.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_10_P002_B002",
+      "panel": "CORINTHIANS2_10_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2848,
+        0.4,
+        0.0799
+      ],
+      "tail": null,
+      "text_key": "corinthians2.10.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_10_P002_B003",
+      "panel": "CORINTHIANS2_10_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.66,
+        0.7306,
+        0.32,
+        0.0617
+      ],
+      "tail": [
+        0.82,
+        0.8204
+      ],
+      "text_key": "corinthians2.10.p2.b3"
+    }
+  ]
+}

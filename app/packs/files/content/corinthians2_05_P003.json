@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_05_P003",
+  "book": "corinthians2",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "我们若是疯狂，是为了神；若是清醒，是为了你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P003_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.4258
+      ],
+      "alt": {
+        "zh-CN": "原来基督的爱激励我们；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P003_F3",
+      "box": [
+        0,
+        0.6699,
+        1,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "……使那些活着的人不再为自己活，而是为那替他们死而复活的主活。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_05_P003_B001",
+      "panel": "CORINTHIANS2_05_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0095,
+        0.4,
+        0.0475
+      ],
+      "tail": [
+        0.76,
+        0.0808
+      ],
+      "text_key": "corinthians2.5.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_05_P003_B002",
+      "panel": "CORINTHIANS2_05_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6,
+        0.2664,
+        0.36,
+        0.1107
+      ],
+      "tail": [
+        0.78,
+        0.4197
+      ],
+      "text_key": "corinthians2.5.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_05_P003_B003",
+      "panel": "CORINTHIANS2_05_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6,
+        0.6765,
+        0.24,
+        0.066
+      ],
+      "tail": [
+        0.72,
+        0.7755
+      ],
+      "text_key": "corinthians2.5.p3.b3"
+    }
+  ]
+}

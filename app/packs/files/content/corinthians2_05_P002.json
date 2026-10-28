@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_05_P002",
+  "book": "corinthians2",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "所以，我们总是坦然无惧，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P002_F2",
+      "box": [
+        0,
+        0.225,
+        1,
+        0.448
+      ],
+      "alt": {
+        "zh-CN": "因为我们行事为人是凭着信心，不是凭着眼见。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P002_F3",
+      "box": [
+        0,
+        0.6771,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "……我们立定志向，要讨主的喜悦。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_05_P002_B001",
+      "panel": "CORINTHIANS2_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.015,
+        0.34,
+        0.075
+      ],
+      "tail": [
+        0.79,
+        0.115
+      ],
+      "text_key": "corinthians2.5.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_05_P002_B002",
+      "panel": "CORINTHIANS2_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.234,
+        0.38,
+        0.0448
+      ],
+      "tail": [
+        0.21,
+        0.3236
+      ],
+      "text_key": "corinthians2.5.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_05_P002_B003",
+      "panel": "CORINTHIANS2_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.69,
+        0.3,
+        0.071
+      ],
+      "tail": [
+        0.51,
+        0.7933
+      ],
+      "text_key": "corinthians2.5.p2.b3"
+    }
+  ]
+}

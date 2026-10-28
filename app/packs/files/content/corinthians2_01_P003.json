@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS2_01_P003",
+  "book": "corinthians2",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_01_P003_F1",
+      "box": [
+        0,
+        0,
+        0.6279,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，……我们从前在亚细亚遭遇苦难，压力重到超过我们所能承受的，甚至连活下去的指望都没有了；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P003_F2",
+      "box": [
+        0.6348,
+        0,
+        0.3652,
+        0.2591
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_01_P003_F3",
+      "box": [
+        0,
+        0.2617,
+        1,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "我们自己心里也断定必死无疑，这是要我们不倚靠自己，只倚靠那叫死人复活的　神。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P003_F4",
+      "box": [
+        0,
+        0.5944,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "你们也用祷告帮助我们，好让许多人为我们感谢，……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_01_P003_B001",
+      "panel": "CORINTHIANS2_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3453,
+        0.0078,
+        0.2637,
+        0.0518
+      ],
+      "tail": [
+        0.4772,
+        0.0855
+      ],
+      "text_key": "corinthians2.1.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_01_P003_B002",
+      "panel": "CORINTHIANS2_01_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.5252,
+        0.38,
+        0.0559
+      ],
+      "tail": [
+        0.79,
+        0.5911
+      ],
+      "text_key": "corinthians2.1.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_01_P003_B003",
+      "panel": "CORINTHIANS2_01_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.9189,
+        0.34,
+        0.0689
+      ],
+      "tail": [
+        0.19,
+        1
+      ],
+      "text_key": "corinthians2.1.p3.b3"
+    }
+  ]
+}

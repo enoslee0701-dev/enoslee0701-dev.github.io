@@ -1,0 +1,121 @@
+{
+  "id": "CORINTHIANS2_03_P005",
+  "book": "corinthians2",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_03_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "主就是那灵；主的灵在哪里，哪里就有自由。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P005_F2",
+      "box": [
+        0,
+        0.2819,
+        1,
+        0.2331
+      ],
+      "alt": {
+        "zh-CN": "我们众人既然以揭开帕子的脸观看主的荣光，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P005_F3",
+      "box": [
+        0,
+        0.5202,
+        1,
+        0.4798
+      ],
+      "alt": {
+        "zh-CN": "好像从镜子里反照，就渐渐变成主的形像，荣耀一层加上一层，这是从主——就是那灵——而来的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_03_P005_B001",
+      "panel": "CORINTHIANS2_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0083,
+        0.4,
+        0.05
+      ],
+      "tail": [
+        0.78,
+        0.0861
+      ],
+      "text_key": "corinthians2.3.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS2_03_P005_B002",
+      "panel": "CORINTHIANS2_03_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.4544,
+        0.38,
+        0.0536
+      ],
+      "tail": [
+        0.79,
+        0.515
+      ],
+      "text_key": "corinthians2.3.p5.b2"
+    },
+    {
+      "id": "CORINTHIANS2_03_P005_B003",
+      "panel": "CORINTHIANS2_03_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.74,
+        0.5394,
+        0.24,
+        0.1055
+      ],
+      "tail": null,
+      "text_key": "corinthians2.3.p5.b3"
+    },
+    {
+      "id": "CORINTHIANS2_03_P005_B004",
+      "panel": "CORINTHIANS2_03_P005_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.9136,
+        0.92,
+        0.0719
+      ],
+      "tail": null,
+      "text_key": "corinthians2.3.p5.b4"
+    }
+  ]
+}

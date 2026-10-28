@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_05_P006",
+  "book": "corinthians2",
+  "chapter": 5,
+  "page": 6,
+  "ref": "5:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_05_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_05_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "所以，我们是基督的使者，就好像神借着我们劝你们一样。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P006_F2",
+      "box": [
+        0,
+        0.2878,
+        1,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "我们替基督求你们与神和好。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P006_F3",
+      "box": [
+        0,
+        0.6478,
+        1,
+        0.3522
+      ],
+      "alt": {
+        "zh-CN": "神使那无罪的，替我们成为罪，好让我们在他里面成为神的义。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_05_P006_B001",
+      "panel": "CORINTHIANS2_05_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0113,
+        0.28,
+        0.0621
+      ],
+      "tail": [
+        0.5,
+        0.1017
+      ],
+      "text_key": "corinthians2.5.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS2_05_P006_B002",
+      "panel": "CORINTHIANS2_05_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.3162,
+        0.34,
+        0.0993
+      ],
+      "tail": [
+        0.79,
+        0.451
+      ],
+      "text_key": "corinthians2.5.p6.b2"
+    },
+    {
+      "id": "CORINTHIANS2_05_P006_B003",
+      "panel": "CORINTHIANS2_05_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.6584,
+        0.44,
+        0.0563
+      ],
+      "tail": [
+        0.74,
+        0.7499
+      ],
+      "text_key": "corinthians2.5.p6.b3"
+    }
+  ]
+}

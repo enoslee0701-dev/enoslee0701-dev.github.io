@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_09_P001",
+  "book": "corinthians2",
+  "chapter": 9,
+  "page": 1,
+  "ref": "9:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_09_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_09_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "关于供给圣徒的事，我其实不必写信给你们；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P001_F2",
+      "box": [
+        0,
+        0.2389,
+        1,
+        0.4316
+      ],
+      "alt": {
+        "zh-CN": "因为我知道你们乐意的心，常向马其顿人夸奖你们，说亚该亚人一年前就预备好了；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P001_F3",
+      "box": [
+        0,
+        0.6738,
+        1,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "这样就显明你们的捐献是出于甘心乐意，不是出于勉强。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_09_P001_B001",
+      "panel": "CORINTHIANS2_09_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.39,
+        0.007,
+        0.25,
+        0.0705
+      ],
+      "tail": [
+        0.515,
+        0.101
+      ],
+      "text_key": "corinthians2.9.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_09_P001_B002",
+      "panel": "CORINTHIANS2_09_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.24,
+        0.2907,
+        0.38,
+        0.0561
+      ],
+      "tail": [
+        0.43,
+        0.39
+      ],
+      "text_key": "corinthians2.9.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_09_P001_B003",
+      "panel": "CORINTHIANS2_09_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6868,
+        0.42,
+        0.0717
+      ],
+      "tail": [
+        0.76,
+        0.7911
+      ],
+      "text_key": "corinthians2.9.p1.b3"
+    }
+  ]
+}

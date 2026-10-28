@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS2_09_P003",
+  "book": "corinthians2",
+  "chapter": 9,
+  "page": 3,
+  "ref": "9:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_09_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_09_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "神能把各样的恩典丰丰富富地加给你们，使你们凡事常常充足，能多做各样的善事。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P003_F2",
+      "box": [
+        0,
+        0.2891,
+        1,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "那赐种子给撒种的人、赐粮食给人吃的神，必定加倍供应你们种子，又使你们义的果子增多；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P003_F3",
+      "box": [
+        0,
+        0.6699,
+        1,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "使你们凡事富足，可以慷慨施舍，借着我们使人向神感恩。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_09_P003_B001",
+      "panel": "CORINTHIANS2_09_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.0085,
+        0.32,
+        0.0566
+      ],
+      "tail": [
+        0.18,
+        0.0934
+      ],
+      "text_key": "corinthians2.9.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_09_P003_B002",
+      "panel": "CORINTHIANS2_09_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3004,
+        0.42,
+        0.0526
+      ],
+      "tail": null,
+      "text_key": "corinthians2.9.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_09_P003_B003",
+      "panel": "CORINTHIANS2_09_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.9274,
+        0.42,
+        0.0594
+      ],
+      "tail": [
+        0.24,
+        1
+      ],
+      "text_key": "corinthians2.9.p3.b3"
+    }
+  ]
+}

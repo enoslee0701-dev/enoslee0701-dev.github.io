@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_06_P001",
+  "book": "corinthians2",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_06_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "我们是与神同工的，也劝你们不要白白领受他的恩典。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_06_P001_F2",
+      "box": [
+        0,
+        0.2402,
+        1,
+        0.4401
+      ],
+      "alt": {
+        "zh-CN": "看哪，现在正是蒙悦纳的时候！现在正是得救的日子；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_06_P001_F3",
+      "box": [
+        0,
+        0.6836,
+        1,
+        0.3164
+      ],
+      "alt": {
+        "zh-CN": "我们凡事都不使人跌倒，免得这职分被人毁谤；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_06_P001_B001",
+      "panel": "CORINTHIANS2_06_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0071,
+        0.3,
+        0.0474
+      ],
+      "tail": [
+        0.59,
+        0.0782
+      ],
+      "text_key": "corinthians2.6.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_06_P001_B002",
+      "panel": "CORINTHIANS2_06_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.2,
+        0.249,
+        0.44,
+        0.044
+      ],
+      "tail": [
+        0.42,
+        0.337
+      ],
+      "text_key": "corinthians2.6.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_06_P001_B003",
+      "panel": "CORINTHIANS2_06_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.6931,
+        0.36,
+        0.0411
+      ],
+      "tail": [
+        0.64,
+        0.7658
+      ],
+      "text_key": "corinthians2.6.p1.b3"
+    }
+  ]
+}

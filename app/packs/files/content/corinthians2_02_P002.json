@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS2_02_P002",
+  "book": "corinthians2",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "如果有人使人忧愁，他不只使我忧愁，也在某种程度上使你们大家都忧愁。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P002_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.1289
+      ],
+      "alt": {
+        "zh-CN": "这样的人受了大家的责罚，也就够了，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P002_F3",
+      "box": [
+        0,
+        0.3737,
+        1,
+        0.3835
+      ],
+      "alt": {
+        "zh-CN": "你们倒不如赦免他、安慰他，免得他忧愁过度，以致沉沦。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P002_F4",
+      "box": [
+        0,
+        0.7611,
+        1,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "所以我劝你们，要向他表明你们坚定的爱。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_02_P002_B001",
+      "panel": "CORINTHIANS2_02_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.26,
+        0.0071,
+        0.44,
+        0.0475
+      ],
+      "tail": [
+        0.48,
+        0.0784
+      ],
+      "text_key": "corinthians2.2.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_02_P002_B002",
+      "panel": "CORINTHIANS2_02_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.2448,
+        0.4,
+        0.0219
+      ],
+      "tail": [
+        0.21,
+        0.2796
+      ],
+      "text_key": "corinthians2.2.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_02_P002_B003",
+      "panel": "CORINTHIANS2_02_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3852,
+        0.4,
+        0.0613
+      ],
+      "tail": [
+        0.23,
+        0.4849
+      ],
+      "text_key": "corinthians2.2.p2.b3"
+    },
+    {
+      "id": "CORINTHIANS2_02_P002_B004",
+      "panel": "CORINTHIANS2_02_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.9283,
+        0.36,
+        0.0645
+      ],
+      "tail": [
+        0.8,
+        1
+      ],
+      "text_key": "corinthians2.2.p2.b4"
+    }
+  ]
+}

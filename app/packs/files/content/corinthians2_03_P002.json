@@ -1,0 +1,136 @@
+{
+  "id": "CORINTHIANS2_03_P002",
+  "book": "corinthians2",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "我们因着基督，在神面前才有这样的把握。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P002_F2",
+      "box": [
+        0,
+        0.2891,
+        0.4922,
+        0.2897
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_03_P002_F3",
+      "box": [
+        0.499,
+        0.2891,
+        0.501,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "并不是我们自己能胜任什么事；我们之所以能胜任，是出于神。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P002_F4",
+      "box": [
+        0,
+        0.5833,
+        1,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "他使我们能胜任新约的仆人，不是凭着条文，而是凭着圣灵；因为条文使人死，圣灵使人活。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_03_P002_B001",
+      "panel": "CORINTHIANS2_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0086,
+        0.3,
+        0.057
+      ],
+      "tail": [
+        0.59,
+        0.0941
+      ],
+      "text_key": "corinthians2.3.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_03_P002_B002",
+      "panel": "CORINTHIANS2_03_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7595,
+        0.2978,
+        0.2254,
+        0.0579
+      ],
+      "tail": [
+        0.8722,
+        0.3847
+      ],
+      "text_key": "corinthians2.3.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_03_P002_B003",
+      "panel": "CORINTHIANS2_03_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5958,
+        0.46,
+        0.0466
+      ],
+      "tail": [
+        0.26,
+        0.6841
+      ],
+      "text_key": "corinthians2.3.p2.b3"
+    },
+    {
+      "id": "CORINTHIANS2_03_P002_B004",
+      "panel": "CORINTHIANS2_03_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.6508,
+        0.46,
+        0.0283
+      ],
+      "tail": [
+        0.26,
+        0.7208
+      ],
+      "text_key": "corinthians2.3.p2.b4"
+    }
+  ]
+}

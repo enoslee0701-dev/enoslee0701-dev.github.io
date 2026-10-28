@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS2_04_P005",
+  "book": "corinthians2",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "所以，我们不灰心。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P005_F2",
+      "box": [
+        0,
+        0.2253,
+        1,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "外在的人虽然渐渐衰败，内在的人却一天新似一天。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P005_F3",
+      "box": [
+        0,
+        0.6673,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "因为看得见的是暂时的，看不见的是永远的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P005_F4",
+      "box": [
+        0.556,
+        0.825,
+        0.444,
+        0.175
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_04_P005_B001",
+      "panel": "CORINTHIANS2_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.0066,
+        0.19,
+        0.0398
+      ],
+      "tail": [
+        0.515,
+        0.0685
+      ],
+      "text_key": "corinthians2.4.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS2_04_P005_B002",
+      "panel": "CORINTHIANS2_04_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.5753,
+        0.4,
+        0.0743
+      ],
+      "tail": [
+        0.23,
+        0.6628
+      ],
+      "text_key": "corinthians2.4.p5.b2"
+    },
+    {
+      "id": "CORINTHIANS2_04_P005_B003",
+      "panel": "CORINTHIANS2_04_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.25,
+        0.6873,
+        0.5,
+        0.0665
+      ],
+      "tail": [
+        0.5,
+        0.7871
+      ],
+      "text_key": "corinthians2.4.p5.b3"
+    }
+  ]
+}

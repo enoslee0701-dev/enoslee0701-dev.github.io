@@ -1,0 +1,112 @@
+{
+  "id": "CORINTHIANS2_02_P004",
+  "book": "corinthians2",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2183
+      ],
+      "alt": {
+        "zh-CN": "我先前为了传基督的福音到了特罗亚，主也给我开了门。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P004_F2",
+      "box": [
+        0,
+        0.2208,
+        1,
+        0.4205
+      ],
+      "alt": {
+        "zh-CN": "那时因为没有见到我的弟兄提多，我心里不安，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P004_F3",
+      "box": [
+        0,
+        0.6413,
+        0.4805,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "就告别那里的人，往马其顿去了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P004_F4",
+      "box": [
+        0.4854,
+        0.6413,
+        0.5146,
+        0.3587
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_02_P004_B001",
+      "panel": "CORINTHIANS2_02_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0065,
+        0.3,
+        0.0654
+      ],
+      "tail": null,
+      "text_key": "corinthians2.2.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_02_P004_B002",
+      "panel": "CORINTHIANS2_02_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.2334,
+        0.42,
+        0.0672
+      ],
+      "tail": [
+        0.24,
+        0.3427
+      ],
+      "text_key": "corinthians2.2.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_02_P004_B003",
+      "panel": "CORINTHIANS2_02_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2306,
+        0.9211,
+        0.2402,
+        0.0681
+      ],
+      "tail": null,
+      "text_key": "corinthians2.2.p4.b3"
+    }
+  ]
+}

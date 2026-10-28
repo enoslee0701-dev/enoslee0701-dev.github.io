@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_05_P005",
+  "book": "corinthians2",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2025
+      ],
+      "alt": {
+        "zh-CN": "这一切都是出于神；他借着基督使我们与他和好，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P005_F2",
+      "box": [
+        0,
+        0.2077,
+        1,
+        0.4661
+      ],
+      "alt": {
+        "zh-CN": "这就是神在基督里使世人与自己和好，不追究他们的过犯，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P005_F3",
+      "box": [
+        0,
+        0.6777,
+        1,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "并且把这和好的信息交托了我们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_05_P005_B001",
+      "panel": "CORINTHIANS2_05_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0101,
+        0.38,
+        0.0486
+      ],
+      "tail": [
+        0.77,
+        0.0789
+      ],
+      "text_key": "corinthians2.5.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS2_05_P005_B002",
+      "panel": "CORINTHIANS2_05_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2217,
+        0.42,
+        0.0652
+      ],
+      "tail": [
+        0.24,
+        0.3335
+      ],
+      "text_key": "corinthians2.5.p5.b2"
+    },
+    {
+      "id": "CORINTHIANS2_05_P005_B003",
+      "panel": "CORINTHIANS2_05_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6874,
+        0.25,
+        0.0451
+      ],
+      "tail": [
+        0.145,
+        0.7647
+      ],
+      "text_key": "corinthians2.5.p5.b3"
+    }
+  ]
+}

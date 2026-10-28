@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS2_03_P001",
+  "book": "corinthians2",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2246
+      ],
+      "alt": {
+        "zh-CN": "我们是又在推荐自己吗？难道我们像有些人那样，需要拿推荐信给你们，或从你们那里拿推荐信吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P001_F2",
+      "box": [
+        0,
+        0.2285,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "你们就是我们的推荐信，写在我们心里，众人都知道、都读过。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P001_F3",
+      "box": [
+        0,
+        0.6465,
+        0.4717,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "你们显然是基督的书信，是经我们的手完成的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P001_F4",
+      "box": [
+        0.4785,
+        0.6465,
+        0.5215,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "不是用墨水写的，而是用永生神的灵写的；不是写在石版上，而是写在心版上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_03_P001_B001",
+      "panel": "CORINTHIANS2_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.009,
+        0.38,
+        0.0583
+      ],
+      "tail": [
+        0.79,
+        0.0898
+      ],
+      "text_key": "corinthians2.3.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_03_P001_B002",
+      "panel": "CORINTHIANS2_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.5598,
+        0.4,
+        0.0703
+      ],
+      "tail": [
+        0.78,
+        0.6426
+      ],
+      "text_key": "corinthians2.3.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_03_P001_B003",
+      "panel": "CORINTHIANS2_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3113,
+        0.6536,
+        0.1509,
+        0.0494
+      ],
+      "tail": [
+        0.3868,
+        0.7383
+      ],
+      "text_key": "corinthians2.3.p1.b3"
+    },
+    {
+      "id": "CORINTHIANS2_03_P001_B004",
+      "panel": "CORINTHIANS2_03_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4994,
+        0.9293,
+        0.4797,
+        0.06
+      ],
+      "tail": [
+        0.7393,
+        1
+      ],
+      "text_key": "corinthians2.3.p1.b4"
+    }
+  ]
+}

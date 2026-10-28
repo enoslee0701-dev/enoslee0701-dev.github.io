@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_04_P004",
+  "book": "corinthians2",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:13-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "……我们也信，所以也说话。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P004_F2",
+      "box": [
+        0.5025,
+        0.2435,
+        0.4975,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "……并且使我们与你们一同站在他面前。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P004_F3",
+      "box": [
+        0,
+        0.2435,
+        1,
+        0.7565
+      ],
+      "alt": {
+        "zh-CN": "好让恩典因越来越多的人而增加，感谢也越发增多，使荣耀归给神。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_04_P004_B001",
+      "panel": "CORINTHIANS2_04_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0096,
+        0.24,
+        0.0768
+      ],
+      "tail": [
+        0.15,
+        0.1104
+      ],
+      "text_key": "corinthians2.4.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_04_P004_B002",
+      "panel": "CORINTHIANS2_04_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5174,
+        0.4156,
+        0.2487,
+        0.0419
+      ],
+      "tail": [
+        0.6417,
+        0.4642
+      ],
+      "text_key": "corinthians2.4.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_04_P004_B003",
+      "panel": "CORINTHIANS2_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.8411,
+        0.5,
+        0.1286
+      ],
+      "tail": [
+        0.28,
+        1
+      ],
+      "text_key": "corinthians2.4.p4.b3"
+    }
+  ]
+}

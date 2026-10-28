@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_07_P001",
+  "book": "corinthians2",
+  "chapter": 7,
+  "page": 1,
+  "ref": "7:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_07_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_07_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "亲爱的弟兄们，我们既然有这些应许，就当洁净自己……存敬畏神的心，得以成圣。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P001_F2",
+      "box": [
+        0,
+        0.2493,
+        1,
+        0.4121
+      ],
+      "alt": {
+        "zh-CN": "你们要敞开心接纳我们。我们没有亏待谁，没有败坏谁，没有占谁的便宜。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P001_F3",
+      "box": [
+        0,
+        0.6654,
+        1,
+        0.3346
+      ],
+      "alt": {
+        "zh-CN": "我先前说过，你们常在我们心里，愿意与你们同生同死。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_07_P001_B001",
+      "panel": "CORINTHIANS2_07_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0074,
+        0.32,
+        0.049
+      ],
+      "tail": [
+        0.56,
+        0.0809
+      ],
+      "text_key": "corinthians2.7.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_07_P001_B002",
+      "panel": "CORINTHIANS2_07_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.2617,
+        0.4,
+        0.0576
+      ],
+      "tail": [
+        0.23,
+        0.3605
+      ],
+      "text_key": "corinthians2.7.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_07_P001_B003",
+      "panel": "CORINTHIANS2_07_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6788,
+        0.34,
+        0.0736
+      ],
+      "tail": [
+        0.67,
+        0.7859
+      ],
+      "text_key": "corinthians2.7.p1.b3"
+    }
+  ]
+}

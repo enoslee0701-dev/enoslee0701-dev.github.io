@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS2_12_P003",
+  "book": "corinthians2",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2695
+      ],
+      "alt": {
+        "zh-CN": "所以我更乐意夸耀自己的软弱，好让基督的能力覆庇我。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P003_F2",
+      "box": [
+        0,
+        0.2721,
+        0.4307,
+        0.3835
+      ],
+      "alt": {
+        "zh-CN": "我为了基督的缘故，就以软弱、侮辱、困难、逼迫、困苦为喜乐；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P003_F3",
+      "box": [
+        0.4355,
+        0.2721,
+        0.5645,
+        0.7279
+      ],
+      "alt": {
+        "zh-CN": "因为我什么时候软弱，什么时候就刚强了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P003_F4",
+      "box": [
+        0,
+        0.6576,
+        0.4307,
+        0.3424
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_12_P003_B001",
+      "panel": "CORINTHIANS2_12_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0054,
+        0.41,
+        0.0377
+      ],
+      "tail": [
+        0.765,
+        0.0701
+      ],
+      "text_key": "corinthians2.12.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_12_P003_B002",
+      "panel": "CORINTHIANS2_12_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0172,
+        0.2836,
+        0.3962,
+        0.069
+      ],
+      "tail": [
+        0.2153,
+        0.391
+      ],
+      "text_key": "corinthians2.12.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_12_P003_B003",
+      "panel": "CORINTHIANS2_12_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7855,
+        0.2867,
+        0.2032,
+        0.1019
+      ],
+      "tail": [
+        0.8871,
+        0.4614
+      ],
+      "text_key": "corinthians2.12.p3.b3"
+    }
+  ]
+}

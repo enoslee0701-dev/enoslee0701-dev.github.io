@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_10_P001",
+  "book": "corinthians2",
+  "chapter": 10,
+  "page": 1,
+  "ref": "10:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_10_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_10_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2656
+      ],
+      "alt": {
+        "zh-CN": "我保罗——有人说我和你们见面时很谦卑，不在你们那里时对你们却很强硬——"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_10_P001_F2",
+      "box": [
+        0,
+        0.2702,
+        1,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "如今亲自凭着基督的温柔和宽容劝你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_10_P001_F3",
+      "box": [
+        0,
+        0.6693,
+        1,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "求你们不要让我到你们那里的时候，必须这样强硬。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_10_P001_B001",
+      "panel": "CORINTHIANS2_10_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.008,
+        0.3,
+        0.0637
+      ],
+      "tail": [
+        0.51,
+        0.0983
+      ],
+      "text_key": "corinthians2.10.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_10_P001_B002",
+      "panel": "CORINTHIANS2_10_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.2821,
+        0.42,
+        0.079
+      ],
+      "tail": [
+        0.76,
+        0.4006
+      ],
+      "text_key": "corinthians2.10.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_10_P001_B003",
+      "panel": "CORINTHIANS2_10_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.8942,
+        0.46,
+        0.0925
+      ],
+      "tail": [
+        0.26,
+        1
+      ],
+      "text_key": "corinthians2.10.p1.b3"
+    }
+  ]
+}

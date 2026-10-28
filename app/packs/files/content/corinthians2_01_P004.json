@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS2_01_P004",
+  "book": "corinthians2",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.362
+      ],
+      "alt": {
+        "zh-CN": "我们引以为傲的是我们的良心，……我们在世上为人，不是凭人的聪明，而是凭　神的恩典，对你们更是这样。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P004_F2",
+      "box": [
+        0,
+        0.3659,
+        0.5732,
+        0.2533
+      ],
+      "alt": {
+        "zh-CN": "我们现在写给你们的，不外乎是你们所读的、所明白的，……"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P004_F3",
+      "box": [
+        0.5801,
+        0.3659,
+        0.4199,
+        0.2533
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_01_P004_F4",
+      "box": [
+        0,
+        0.6237,
+        1,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "……你们以我们为荣，就像在我们主耶稣的日子，我们也以你们为荣一样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_01_P004_B001",
+      "panel": "CORINTHIANS2_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0109,
+        0.45,
+        0.0724
+      ],
+      "tail": [
+        0.745,
+        0.1195
+      ],
+      "text_key": "corinthians2.1.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_01_P004_B002",
+      "panel": "CORINTHIANS2_01_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0115,
+        0.5483,
+        0.2866,
+        0.0633
+      ],
+      "tail": [
+        0.1548,
+        0.6192
+      ],
+      "text_key": "corinthians2.1.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_01_P004_B003",
+      "panel": "CORINTHIANS2_01_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.635,
+        0.45,
+        0.0677
+      ],
+      "tail": [
+        0.745,
+        0.7403
+      ],
+      "text_key": "corinthians2.1.p4.b3"
+    }
+  ]
+}

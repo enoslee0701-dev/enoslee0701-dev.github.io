@@ -1,0 +1,115 @@
+{
+  "id": "CORINTHIANS2_03_P003",
+  "book": "corinthians2",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:7-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3516
+      ],
+      "alt": {
+        "zh-CN": "……以色列人因为摩西脸上的荣光，不能定睛看他的脸，而这荣光原是逐渐消退的，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P003_F2",
+      "box": [
+        0,
+        0.3561,
+        0.4863,
+        0.2663
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_03_P003_F3",
+      "box": [
+        0.4951,
+        0.3561,
+        0.5049,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "那么属圣灵的职事，岂不是更有荣光吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_03_P003_F4",
+      "box": [
+        0,
+        0.6263,
+        1,
+        0.3737
+      ],
+      "alt": {
+        "zh-CN": "如果那将要废去的有荣光，这长存的就更有荣光了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_03_P003_B001",
+      "panel": "CORINTHIANS2_03_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2813,
+        0.44,
+        0.0597
+      ],
+      "tail": null,
+      "text_key": "corinthians2.3.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_03_P003_B002",
+      "panel": "CORINTHIANS2_03_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7728,
+        0.5638,
+        0.212,
+        0.0505
+      ],
+      "tail": [
+        0.8788,
+        0.6224
+      ],
+      "text_key": "corinthians2.3.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_03_P003_B003",
+      "panel": "CORINTHIANS2_03_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6338,
+        0.4,
+        0.056
+      ],
+      "tail": [
+        0.78,
+        0.7272
+      ],
+      "text_key": "corinthians2.3.p3.b3"
+    }
+  ]
+}

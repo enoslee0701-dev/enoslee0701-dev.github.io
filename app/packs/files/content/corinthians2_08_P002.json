@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_08_P002",
+  "book": "corinthians2",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "所以我劝提多，他既然在你们中间开始了这件善事，就该把它完成。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_08_P002_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.4661
+      ],
+      "alt": {
+        "zh-CN": "你们既然在信心、口才、知识、热心，和对我们的爱心上都格外丰足，就应当在这件善事上也格外丰足。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_08_P002_F3",
+      "box": [
+        0,
+        0.7096,
+        1,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "我说这话不是命令你们，而是借着别人的热心来验证你们爱心的真实。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_08_P002_B001",
+      "panel": "CORINTHIANS2_08_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0071,
+        0.4,
+        0.0475
+      ],
+      "tail": [
+        0.76,
+        0.0784
+      ],
+      "text_key": "corinthians2.8.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_08_P002_B002",
+      "panel": "CORINTHIANS2_08_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2549,
+        0.42,
+        0.0652
+      ],
+      "tail": [
+        0.24,
+        0.3667
+      ],
+      "text_key": "corinthians2.8.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_08_P002_B003",
+      "panel": "CORINTHIANS2_08_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.7212,
+        0.4,
+        0.0638
+      ],
+      "tail": [
+        0.76,
+        0.814
+      ],
+      "text_key": "corinthians2.8.p2.b3"
+    }
+  ]
+}

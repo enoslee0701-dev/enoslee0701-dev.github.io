@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_07_P004",
+  "book": "corinthians2",
+  "chapter": 7,
+  "page": 4,
+  "ref": "7:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_07_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_07_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "你看，你们照着神的意思忧愁，就生出何等的热切、辩白、愤慨、畏惧、想念、热心、惩罚。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P004_F2",
+      "box": [
+        0,
+        0.3281,
+        1,
+        0.3978
+      ],
+      "alt": {
+        "zh-CN": "在这一切事上，你们都证明自己是清白的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P004_F3",
+      "box": [
+        0,
+        0.7305,
+        1,
+        0.2695
+      ],
+      "alt": {
+        "zh-CN": "我从前虽然写信给你们……是要在神面前把你们对我们的热心显明出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_07_P004_B001",
+      "panel": "CORINTHIANS2_07_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.48,
+        0.0129,
+        0.48,
+        0.0709
+      ],
+      "tail": [
+        0.72,
+        0.116
+      ],
+      "text_key": "corinthians2.7.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_07_P004_B002",
+      "panel": "CORINTHIANS2_07_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.6623,
+        0.4,
+        0.0517
+      ],
+      "tail": [
+        0.76,
+        0.7259
+      ],
+      "text_key": "corinthians2.7.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_07_P004_B003",
+      "panel": "CORINTHIANS2_07_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.7413,
+        0.4,
+        0.0646
+      ],
+      "tail": [
+        0.76,
+        0.8329
+      ],
+      "text_key": "corinthians2.7.p4.b3"
+    }
+  ]
+}

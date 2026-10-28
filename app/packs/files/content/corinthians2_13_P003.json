@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS2_13_P003",
+  "book": "corinthians2",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "最后，弟兄们，愿你们都喜乐。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_13_P003_F2",
+      "box": [
+        0,
+        0.2227,
+        1,
+        0.3737
+      ],
+      "alt": {
+        "zh-CN": "要追求完全，要受鼓励，要同心，要和睦。这样，慈爱和平的神必与你们同在。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_13_P003_F3",
+      "box": [
+        0,
+        0.5996,
+        0.5703,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "你们要以圣洁的亲吻彼此问安。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_13_P003_F4",
+      "box": [
+        0.5771,
+        0.5996,
+        0.4229,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "所有圣徒都向你们问安。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_13_P003_B001",
+      "panel": "CORINTHIANS2_13_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.74,
+        0.0066,
+        0.25,
+        0.0614
+      ],
+      "tail": [
+        0.865,
+        0.0899
+      ],
+      "text_key": "corinthians2.13.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_13_P003_B002",
+      "panel": "CORINTHIANS2_13_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.5291,
+        0.42,
+        0.0597
+      ],
+      "tail": [
+        0.77,
+        0.5964
+      ],
+      "text_key": "corinthians2.13.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_13_P003_B003",
+      "panel": "CORINTHIANS2_13_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0171,
+        0.6076,
+        0.3421,
+        0.036
+      ],
+      "tail": [
+        0.1882,
+        0.6836
+      ],
+      "text_key": "corinthians2.13.p3.b3"
+    },
+    {
+      "id": "CORINTHIANS2_13_P003_B004",
+      "panel": "CORINTHIANS2_13_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5982,
+        0.6076,
+        0.3806,
+        0.032
+      ],
+      "tail": [
+        0.7885,
+        0.6796
+      ],
+      "text_key": "corinthians2.13.p3.b4"
+    }
+  ]
+}

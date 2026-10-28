@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS2_06_P002",
+  "book": "corinthians2",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "反而在各样的事上表明自己是神的仆人，就是在许多的忍耐、患难、贫困、困苦中，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_06_P002_F2",
+      "box": [
+        0,
+        0.3164,
+        1,
+        0.4316
+      ],
+      "alt": {
+        "zh-CN": "在鞭打、监禁、动乱、劳苦、不眠、不食中，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_06_P002_F3",
+      "box": [
+        0,
+        0.7507,
+        1,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "以纯洁、知识、恒忍、恩慈、圣灵、无伪的爱，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_06_P002_B001",
+      "panel": "CORINTHIANS2_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.34,
+        0.0125,
+        0.3,
+        0.0687
+      ],
+      "tail": [
+        0.49,
+        0.1125
+      ],
+      "text_key": "corinthians2.6.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_06_P002_B002",
+      "panel": "CORINTHIANS2_06_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.3293,
+        0.38,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "corinthians2.6.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_06_P002_B003",
+      "panel": "CORINTHIANS2_06_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.7657,
+        0.34,
+        0.0747
+      ],
+      "tail": [
+        0.79,
+        0.8653
+      ],
+      "text_key": "corinthians2.6.p2.b3"
+    }
+  ]
+}

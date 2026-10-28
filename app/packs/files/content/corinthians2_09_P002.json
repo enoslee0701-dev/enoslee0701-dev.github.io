@@ -1,0 +1,106 @@
+{
+  "id": "CORINTHIANS2_09_P002",
+  "book": "corinthians2",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1992
+      ],
+      "alt": {
+        "zh-CN": "「少种的少收，多种的多收」，这话是真的。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P002_F2",
+      "box": [
+        0,
+        0.2025,
+        1,
+        0.4492
+      ],
+      "alt": {
+        "zh-CN": "各人要按自己心里决定的去做，不要为难，也不要勉强，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_09_P002_F3",
+      "box": [
+        0,
+        0.6549,
+        1,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "因为神喜爱乐意捐献的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_09_P002_B001",
+      "panel": "CORINTHIANS2_09_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.008,
+        0.4,
+        0.0398
+      ],
+      "tail": null,
+      "text_key": "corinthians2.9.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_09_P002_B002",
+      "panel": "CORINTHIANS2_09_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.216,
+        0.4,
+        0.0628
+      ],
+      "tail": [
+        0.76,
+        0.3237
+      ],
+      "text_key": "corinthians2.9.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_09_P002_B003",
+      "panel": "CORINTHIANS2_09_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.6653,
+        0.32,
+        0.0586
+      ],
+      "tail": [
+        0.18,
+        0.7584
+      ],
+      "text_key": "corinthians2.9.p2.b3"
+    }
+  ]
+}

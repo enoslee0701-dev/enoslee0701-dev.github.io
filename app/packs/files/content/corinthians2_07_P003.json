@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_07_P003",
+  "book": "corinthians2",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_07_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "我先前写信使你们忧愁，后来虽然后悔，现在却不后悔了；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P003_F2",
+      "box": [
+        0,
+        0.3086,
+        1,
+        0.3691
+      ],
+      "alt": {
+        "zh-CN": "现在我欢喜，不是因为你们忧愁，而是因为你们因忧愁而悔改。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P003_F3",
+      "box": [
+        0,
+        0.6829,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "因为照着神的意思忧愁，就生出没有遗憾的悔改，以致得救；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_07_P003_B001",
+      "panel": "CORINTHIANS2_07_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0091,
+        0.4,
+        0.0665
+      ],
+      "tail": [
+        0.76,
+        0.1059
+      ],
+      "text_key": "corinthians2.7.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_07_P003_B002",
+      "panel": "CORINTHIANS2_07_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.3197,
+        0.38,
+        0.0516
+      ],
+      "tail": [
+        0.77,
+        0.4082
+      ],
+      "text_key": "corinthians2.7.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_07_P003_B003",
+      "panel": "CORINTHIANS2_07_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.34,
+        0.6892,
+        0.26,
+        0.0412
+      ],
+      "tail": [
+        0.47,
+        0.7621
+      ],
+      "text_key": "corinthians2.7.p3.b3"
+    }
+  ]
+}

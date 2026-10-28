@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS2_01_P005",
+  "book": "corinthians2",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "我既然这样确信，就早有心意先到你们那里去，让你们再一次得益处；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P005_F2",
+      "box": [
+        0,
+        0.2513,
+        0.4971,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "我有这样的心意，难道是反复无常吗？"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P005_F3",
+      "box": [
+        0.5029,
+        0.2513,
+        0.4971,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "我指着信实的　神说，我们对你们所传的话，从来没有「是」了又「不是」。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P005_F4",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "因为我和西拉、提摩太在你们中间所传的　神的儿子耶稣基督，……在他只有一个「是」。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_01_P005_B001",
+      "panel": "CORINTHIANS2_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0074,
+        0.42,
+        0.0595
+      ],
+      "tail": [
+        0.76,
+        0.0917
+      ],
+      "text_key": "corinthians2.1.p5.b1"
+    },
+    {
+      "id": "CORINTHIANS2_01_P005_B002",
+      "panel": "CORINTHIANS2_01_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2486,
+        0.4754,
+        0.2336,
+        0.0657
+      ],
+      "tail": [
+        0.3654,
+        0.5501
+      ],
+      "text_key": "corinthians2.1.p5.b2"
+    },
+    {
+      "id": "CORINTHIANS2_01_P005_B003",
+      "panel": "CORINTHIANS2_01_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5178,
+        0.2603,
+        0.2087,
+        0.0747
+      ],
+      "tail": [
+        0.6222,
+        0.3649
+      ],
+      "text_key": "corinthians2.1.p5.b3"
+    },
+    {
+      "id": "CORINTHIANS2_01_P005_B004",
+      "panel": "CORINTHIANS2_01_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.5661,
+        0.42,
+        0.0626
+      ],
+      "tail": [
+        0.76,
+        0.6734
+      ],
+      "text_key": "corinthians2.1.p5.b4"
+    }
+  ]
+}

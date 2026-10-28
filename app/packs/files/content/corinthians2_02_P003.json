@@ -1,0 +1,118 @@
+{
+  "id": "CORINTHIANS2_02_P003",
+  "book": "corinthians2",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_02_P003_F1",
+      "box": [
+        0,
+        0,
+        0.6328,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "为此我先前也写信给你们，要考验你们，看你们是否凡事顺从。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P003_F2",
+      "box": [
+        0.6396,
+        0,
+        0.3604,
+        0.2363
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_02_P003_F3",
+      "box": [
+        0,
+        0.2396,
+        1,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "你们赦免谁，我也赦免谁。我若赦免了什么，是在基督面前为你们赦免的，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_02_P003_F4",
+      "box": [
+        0,
+        0.6022,
+        1,
+        0.3978
+      ],
+      "alt": {
+        "zh-CN": "免得撒但占了我们的便宜，因为我们并非不知道他的诡计。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_02_P003_B001",
+      "panel": "CORINTHIANS2_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2658,
+        0.0047,
+        0.3543,
+        0.0378
+      ],
+      "tail": [
+        0.443,
+        0.0661
+      ],
+      "text_key": "corinthians2.2.p3.b1"
+    },
+    {
+      "id": "CORINTHIANS2_02_P003_B002",
+      "panel": "CORINTHIANS2_02_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.505,
+        0.42,
+        0.0825
+      ],
+      "tail": [
+        0.77,
+        0.5983
+      ],
+      "text_key": "corinthians2.2.p3.b2"
+    },
+    {
+      "id": "CORINTHIANS2_02_P003_B003",
+      "panel": "CORINTHIANS2_02_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6102,
+        0.4,
+        0.0517
+      ],
+      "tail": [
+        0.78,
+        0.7017
+      ],
+      "text_key": "corinthians2.2.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS2_04_P002",
+  "book": "corinthians2",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "我们有这宝贝放在瓦器里，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P002_F2",
+      "box": [
+        0,
+        0.2546,
+        1,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "要显明这极大的能力是出于神，不是出于我们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P002_F3",
+      "box": [
+        0,
+        0.6602,
+        1,
+        0.3398
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_04_P002_B001",
+      "panel": "CORINTHIANS2_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.01,
+        0.36,
+        0.0551
+      ],
+      "tail": [
+        0.8,
+        0.0902
+      ],
+      "text_key": "corinthians2.4.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_04_P002_B002",
+      "panel": "CORINTHIANS2_04_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.06,
+        0.5845,
+        0.88,
+        0.0603
+      ],
+      "tail": [
+        0.5,
+        0.6569
+      ],
+      "text_key": "corinthians2.4.p2.b2"
+    }
+  ]
+}

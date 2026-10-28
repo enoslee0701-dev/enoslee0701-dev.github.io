@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_12_P004",
+  "book": "corinthians2",
+  "chapter": 12,
+  "page": 4,
+  "ref": "12:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_12_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_12_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "我成了糊涂人，是被你们逼的。本来该是你们称赞我才对。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P004_F2",
+      "box": [
+        0,
+        0.2689,
+        1,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "我在你们中间以百般的忍耐，用神迹、奇事、异能，显出了使徒的凭据。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_12_P004_F3",
+      "box": [
+        0,
+        0.7174,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "这件不公平的事，请你们原谅我吧！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_12_P004_B001",
+      "panel": "CORINTHIANS2_12_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0079,
+        0.45,
+        0.0449
+      ],
+      "tail": [
+        0.745,
+        0.0792
+      ],
+      "text_key": "corinthians2.12.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_12_P004_B002",
+      "panel": "CORINTHIANS2_12_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.2778,
+        0.47,
+        0.0444
+      ],
+      "tail": [
+        0.735,
+        0.3666
+      ],
+      "text_key": "corinthians2.12.p4.b2"
+    },
+    {
+      "id": "CORINTHIANS2_12_P004_B003",
+      "panel": "CORINTHIANS2_12_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.7287,
+        0.42,
+        0.0678
+      ],
+      "tail": [
+        0.76,
+        0.8248
+      ],
+      "text_key": "corinthians2.12.p4.b3"
+    }
+  ]
+}

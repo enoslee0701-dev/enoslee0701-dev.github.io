@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_05_P001",
+  "book": "corinthians2",
+  "chapter": 5,
+  "page": 1,
+  "ref": "5:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_05_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_05_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "我们知道，我们这地上的帐篷如果拆毁了，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P001_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.4564
+      ],
+      "alt": {
+        "zh-CN": "必得到神所建造、不是人手所造、在天上永远的居所。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P001_F3",
+      "box": [
+        0,
+        0.7214,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "……好让这必死的被生命吞没了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_05_P001_B001",
+      "panel": "CORINTHIANS2_05_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0077,
+        0.24,
+        0.041
+      ],
+      "tail": [
+        0.48,
+        0.0744
+      ],
+      "text_key": "corinthians2.5.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_05_P001_B002",
+      "panel": "CORINTHIANS2_05_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.06,
+        0.6346,
+        0.88,
+        0.0684
+      ],
+      "tail": [
+        0.5,
+        0.7168
+      ],
+      "text_key": "corinthians2.5.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_05_P001_B003",
+      "panel": "CORINTHIANS2_05_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.7381,
+        0.34,
+        0.0835
+      ],
+      "tail": [
+        0.79,
+        0.8495
+      ],
+      "text_key": "corinthians2.5.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "CORINTHIANS2_11_P007",
+  "book": "corinthians2",
+  "chapter": 11,
+  "page": 7,
+  "ref": "11:25-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_11_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_11_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3802
+      ],
+      "alt": {
+        "zh-CN": "我遇过三次船难，在深海里漂了一天一夜。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_11_P007_F2",
+      "box": [
+        0,
+        0.3848,
+        1,
+        0.2331
+      ],
+      "alt": {
+        "zh-CN": "我多次长途奔波，遇到江河的危险、强盗的危险、同胞的危险、外族人的危险、"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_11_P007_F3",
+      "box": [
+        0,
+        0.6224,
+        0.4639,
+        0.3776
+      ]
+    },
+    {
+      "id": "CORINTHIANS2_11_P007_F4",
+      "box": [
+        0.4707,
+        0.6224,
+        0.5293,
+        0.3776
+      ],
+      "alt": {
+        "zh-CN": "城里的危险、旷野的危险、海上的危险、假弟兄的危险。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_11_P007_B001",
+      "panel": "CORINTHIANS2_11_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0114,
+        0.5,
+        0.0684
+      ],
+      "tail": null,
+      "text_key": "corinthians2.11.p7.b1"
+    },
+    {
+      "id": "CORINTHIANS2_11_P007_B002",
+      "panel": "CORINTHIANS2_11_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3918,
+        0.94,
+        0.0512
+      ],
+      "tail": null,
+      "text_key": "corinthians2.11.p7.b2"
+    },
+    {
+      "id": "CORINTHIANS2_11_P007_B003",
+      "panel": "CORINTHIANS2_11_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4866,
+        0.6337,
+        0.1746,
+        0.0528
+      ],
+      "tail": [
+        0.5739,
+        0.7243
+      ],
+      "text_key": "corinthians2.11.p7.b3"
+    }
+  ]
+}

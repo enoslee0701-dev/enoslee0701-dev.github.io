@@ -1,0 +1,88 @@
+{
+  "id": "CORINTHIANS2_05_P004",
+  "book": "corinthians2",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:16-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "所以，我们从今以后，不再按照人的眼光认识人了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P004_F2",
+      "box": [
+        0,
+        0.2266,
+        1,
+        0.4909
+      ],
+      "alt": {
+        "zh-CN": "如果有人在基督里，他就是新造的人，旧的已经过去，你看，都变成新的了。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_05_P004_F3",
+      "box": [
+        0,
+        0.7214,
+        1,
+        0.2786
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_05_P004_B001",
+      "panel": "CORINTHIANS2_05_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.34,
+        0.0089,
+        0.3,
+        0.0579
+      ],
+      "tail": [
+        0.49,
+        0.0891
+      ],
+      "text_key": "corinthians2.5.p4.b1"
+    },
+    {
+      "id": "CORINTHIANS2_05_P004_B002",
+      "panel": "CORINTHIANS2_05_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.22,
+        0.2364,
+        0.32,
+        0.0785
+      ],
+      "tail": [
+        0.38,
+        0.364
+      ],
+      "text_key": "corinthians2.5.p4.b2"
+    }
+  ]
+}

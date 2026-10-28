@@ -1,0 +1,109 @@
+{
+  "id": "CORINTHIANS2_04_P001",
+  "book": "corinthians2",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "我们既然蒙了怜悯，承担了这职分，就不灰心，"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P001_F2",
+      "box": [
+        0,
+        0.2897,
+        0.4025,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "我们并不是宣扬自己，而是宣扬耶稣基督为主，并且为了耶稣的缘故作你们的仆人。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_04_P001_F3",
+      "box": [
+        0,
+        0.2897,
+        1,
+        0.7103
+      ],
+      "alt": {
+        "zh-CN": "那吩咐光从黑暗里照出来的神，已经照在我们心里，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_04_P001_B001",
+      "panel": "CORINTHIANS2_04_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0114,
+        0.32,
+        0.0625
+      ],
+      "tail": [
+        0.6,
+        0.1024
+      ],
+      "text_key": "corinthians2.4.p1.b1"
+    },
+    {
+      "id": "CORINTHIANS2_04_P001_B002",
+      "panel": "CORINTHIANS2_04_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0081,
+        0.4747,
+        0.2012,
+        0.06
+      ],
+      "tail": [
+        0.1087,
+        0.5397
+      ],
+      "text_key": "corinthians2.4.p1.b2"
+    },
+    {
+      "id": "CORINTHIANS2_04_P001_B003",
+      "panel": "CORINTHIANS2_04_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.3252,
+        0.28,
+        0.1065
+      ],
+      "tail": [
+        0.69,
+        0.5027
+      ],
+      "text_key": "corinthians2.4.p1.b3"
+    }
+  ]
+}

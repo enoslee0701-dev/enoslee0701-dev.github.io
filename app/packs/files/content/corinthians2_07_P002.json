@@ -1,0 +1,103 @@
+{
+  "id": "CORINTHIANS2_07_P002",
+  "book": "corinthians2",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_07_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "我们从前到了马其顿的时候，身体也得不到安宁，四面受困，外有争斗，内有恐惧。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P002_F2",
+      "box": [
+        0,
+        0.2617,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "但那安慰灰心之人的神，借着提多的到来安慰了我们；"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_07_P002_F3",
+      "box": [
+        0,
+        0.6257,
+        1,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "他把你们的想念、哀伤，和对我的热心，都告诉了我，使我更加欢喜。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_07_P002_B001",
+      "panel": "CORINTHIANS2_07_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0103,
+        0.46,
+        0.0517
+      ],
+      "tail": null,
+      "text_key": "corinthians2.7.p2.b1"
+    },
+    {
+      "id": "CORINTHIANS2_07_P002_B002",
+      "panel": "CORINTHIANS2_07_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2725,
+        0.38,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "corinthians2.7.p2.b2"
+    },
+    {
+      "id": "CORINTHIANS2_07_P002_B003",
+      "panel": "CORINTHIANS2_07_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.6407,
+        0.36,
+        0.0748
+      ],
+      "tail": [
+        0.78,
+        0.7529
+      ],
+      "text_key": "corinthians2.7.p2.b3"
+    }
+  ]
+}

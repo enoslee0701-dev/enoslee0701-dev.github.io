@@ -1,0 +1,139 @@
+{
+  "id": "CORINTHIANS2_01_P006",
+  "book": "corinthians2",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:20-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "CORINTHIANS2_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "CORINTHIANS2_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "神的应许不论有多少，在基督里都是「是」。……"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P006_F2",
+      "box": [
+        0,
+        0.2604,
+        0.4014,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "他又在我们身上盖了印，并且把圣灵放在我们心里作保证。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P006_F3",
+      "box": [
+        0.4082,
+        0.2604,
+        0.5918,
+        0.2871
+      ],
+      "alt": {
+        "zh-CN": "我求　神为我的心作见证：我没有去哥林多，是为了宽容你们。"
+      }
+    },
+    {
+      "id": "CORINTHIANS2_01_P006_F4",
+      "box": [
+        0,
+        0.5521,
+        1,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "我们并不是要控制你们的信心，而是要帮助你们得到喜乐，因为你们是靠着信心站立得稳的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "CORINTHIANS2_01_P006_B001",
+      "panel": "CORINTHIANS2_01_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.0077,
+        0.3,
+        0.0511
+      ],
+      "tail": [
+        0.35,
+        0.0844
+      ],
+      "text_key": "corinthians2.1.p6.b1"
+    },
+    {
+      "id": "CORINTHIANS2_01_P006_B002",
+      "panel": "CORINTHIANS2_01_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0161,
+        0.4614,
+        0.3692,
+        0.0775
+      ],
+      "tail": [
+        0.2007,
+        0.5475
+      ],
+      "text_key": "corinthians2.1.p6.b2"
+    },
+    {
+      "id": "CORINTHIANS2_01_P006_B003",
+      "panel": "CORINTHIANS2_01_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.426,
+        0.269,
+        0.1952,
+        0.0861
+      ],
+      "tail": [
+        0.5236,
+        0.3838
+      ],
+      "text_key": "corinthians2.1.p6.b3"
+    },
+    {
+      "id": "CORINTHIANS2_01_P006_B004",
+      "panel": "CORINTHIANS2_01_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.5611,
+        0.36,
+        0.0582
+      ],
+      "tail": [
+        0.8,
+        0.6641
+      ],
+      "text_key": "corinthians2.1.p6.b4"
+    }
+  ]
+}
