@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_06_P003",
+  "book": "galatians",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2122
+      ]
+    },
+    {
+      "id": "GALATIANS_06_P003_F2",
+      "box": [
+        0,
+        0.2161,
+        1,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "你们看，我亲手写给你们的字有多大！"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P003_F3",
+      "box": [
+        0,
+        0.5938,
+        0.6387,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "那些想在外表上讨人喜欢的人强迫你们受割礼，不过是怕自己因基督的十字架受迫害。"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P003_F4",
+      "box": [
+        0.6445,
+        0.5938,
+        0.3555,
+        0.4062
+      ],
+      "alt": {
+        "zh-CN": "他们要你们受割礼，只是想借着你们的肉体夸口。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_06_P003_B001",
+      "panel": "GALATIANS_06_P003_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.56,
+        0.2311,
+        0.4,
+        0.0748
+      ],
+      "tail": [
+        0.76,
+        0.3433
+      ],
+      "text_key": "galatians.6.p3.b1"
+    },
+    {
+      "id": "GALATIANS_06_P003_B002",
+      "panel": "GALATIANS_06_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2683,
+        0.606,
+        0.3448,
+        0.069
+      ],
+      "tail": [
+        0.4407,
+        0.7156
+      ],
+      "text_key": "galatians.6.p3.b2"
+    },
+    {
+      "id": "GALATIANS_06_P003_B003",
+      "panel": "GALATIANS_06_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6587,
+        0.6101,
+        0.327,
+        0.0812
+      ],
+      "tail": [
+        0.8222,
+        0.7319
+      ],
+      "text_key": "galatians.6.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_06_P004",
+  "book": "galatians",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2161
+      ]
+    },
+    {
+      "id": "GALATIANS_06_P004_F2",
+      "box": [
+        0,
+        0.2194,
+        1,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "但我绝不以别的夸耀，只夸耀我们主耶稣基督的十字架……"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P004_F3",
+      "box": [
+        0,
+        0.623,
+        0.502,
+        0.377
+      ],
+      "alt": {
+        "zh-CN": "受割礼不受割礼都不重要，重要的是成为新造的人。"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P004_F4",
+      "box": [
+        0.5098,
+        0.623,
+        0.4902,
+        0.377
+      ],
+      "alt": {
+        "zh-CN": "凡照这准则而行的，愿平安和怜悯临到他们，也临到神的以色列民。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_06_P004_B001",
+      "panel": "GALATIANS_06_P004_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.2354,
+        0.34,
+        0.088
+      ],
+      "tail": [
+        0.79,
+        0.3634
+      ],
+      "text_key": "galatians.6.p4.b1"
+    },
+    {
+      "id": "GALATIANS_06_P004_B002",
+      "panel": "GALATIANS_06_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2108,
+        0.6343,
+        0.271,
+        0.0527
+      ],
+      "tail": [
+        0.3463,
+        0.7247
+      ],
+      "text_key": "galatians.6.p4.b2"
+    },
+    {
+      "id": "GALATIANS_06_P004_B003",
+      "panel": "GALATIANS_06_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5294,
+        0.6305,
+        0.4509,
+        0.0527
+      ],
+      "tail": [
+        0.7549,
+        0.7209
+      ],
+      "text_key": "galatians.6.p4.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_03_P001",
+  "book": "galatians",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3392
+      ],
+      "alt": {
+        "zh-CN": "糊涂的加拉太人哪，"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P001_F2",
+      "box": [
+        0,
+        0.3438,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "耶稣基督被钉十字架，已经清清楚楚地摆在你们眼前，是谁迷惑了你们呢？"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P001_F3",
+      "box": [
+        0,
+        0.6257,
+        0.6104,
+        0.3743
+      ],
+      "alt": {
+        "zh-CN": "你们领受圣灵，是因为遵行律法，还是因为听了福音而相信？"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P001_F4",
+      "box": [
+        0.6182,
+        0.6257,
+        0.3818,
+        0.3743
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_03_P001_B001",
+      "panel": "GALATIANS_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.02,
+        0.0102,
+        0.2,
+        0.0746
+      ],
+      "tail": [
+        0.12,
+        0.1187
+      ],
+      "text_key": "galatians.3.p1.b1"
+    },
+    {
+      "id": "GALATIANS_03_P001_B002",
+      "panel": "GALATIANS_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.26,
+        0.3522,
+        0.54,
+        0.0557
+      ],
+      "tail": [
+        0.53,
+        0.4358
+      ],
+      "text_key": "galatians.3.p1.b2"
+    },
+    {
+      "id": "GALATIANS_03_P001_B003",
+      "panel": "GALATIANS_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3968,
+        0.6369,
+        0.2014,
+        0.1197
+      ],
+      "tail": [
+        0.4975,
+        0.794
+      ],
+      "text_key": "galatians.3.p1.b3"
+    }
+  ]
+}

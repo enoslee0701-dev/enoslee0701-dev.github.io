@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_04_P003",
+  "book": "galatians",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_04_P003_F1",
+      "box": [
+        0,
+        0,
+        0.3828,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "从前你们不认识神的时候，是给那些本质上不是神的作奴仆；"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P003_F2",
+      "box": [
+        0.3896,
+        0,
+        0.6104,
+        0.6204
+      ],
+      "alt": {
+        "zh-CN": "……怎么还要回到那些软弱无用的基本规条，甘愿再给它们作奴仆呢？"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P003_F3",
+      "box": [
+        0,
+        0.4063,
+        0.3828,
+        0.2142
+      ]
+    },
+    {
+      "id": "GALATIANS_04_P003_F4",
+      "box": [
+        0,
+        0.6243,
+        1,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "我为你们担心，恐怕我在你们身上的辛劳是白费了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_04_P003_B001",
+      "panel": "GALATIANS_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0153,
+        0.0121,
+        0.3521,
+        0.0724
+      ],
+      "tail": [
+        0.1914,
+        0.1247
+      ],
+      "text_key": "galatians.4.p3.b1"
+    },
+    {
+      "id": "GALATIANS_04_P003_B002",
+      "panel": "GALATIANS_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.414,
+        0.546,
+        0.3662,
+        0.062
+      ],
+      "tail": [
+        0.5971,
+        0.6204
+      ],
+      "text_key": "galatians.4.p3.b2"
+    },
+    {
+      "id": "GALATIANS_04_P003_B003",
+      "panel": "GALATIANS_04_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.6356,
+        0.17,
+        0.0826
+      ],
+      "tail": [
+        0.645,
+        0.7558
+      ],
+      "text_key": "galatians.4.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_01_P003",
+  "book": "galatians",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2155
+      ],
+      "alt": {
+        "zh-CN": "但无论是我们，或是从天上来的天使，如果传给你们的福音与我们所传的不同，他就该受咒诅。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P003_F2",
+      "box": [
+        0,
+        0.2201,
+        0.3467,
+        0.3665
+      ]
+    },
+    {
+      "id": "GALATIANS_01_P003_F3",
+      "box": [
+        0.3545,
+        0.2201,
+        0.6455,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "如果有人传给你们的福音与你们所领受的不同，他就该受咒诅。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P003_F4",
+      "box": [
+        0,
+        0.5905,
+        1,
+        0.4095
+      ],
+      "alt": {
+        "zh-CN": "我现在是要得人的认可，还是要得神的认可呢？我难道是要讨人喜欢吗？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_01_P003_B001",
+      "panel": "GALATIANS_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.55,
+        0.0129,
+        0.42,
+        0.1831
+      ],
+      "tail": [
+        0.76,
+        0.2155
+      ],
+      "text_key": "galatians.1.p3.b1"
+    },
+    {
+      "id": "GALATIANS_01_P003_B002",
+      "panel": "GALATIANS_01_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.3739,
+        0.2311,
+        0.6067,
+        0.0659
+      ],
+      "tail": [
+        0.6773,
+        0.3337
+      ],
+      "text_key": "galatians.1.p3.b2"
+    },
+    {
+      "id": "GALATIANS_01_P003_B003",
+      "panel": "GALATIANS_01_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6028,
+        0.47,
+        0.0819
+      ],
+      "tail": [
+        0.735,
+        0.7257
+      ],
+      "text_key": "galatians.1.p3.b3"
+    }
+  ]
+}

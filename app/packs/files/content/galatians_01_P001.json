@@ -1,0 +1,121 @@
+{
+  "id": "GALATIANS_01_P001",
+  "book": "galatians",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3822
+      ],
+      "alt": {
+        "zh-CN": "从安提阿到路司得"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P001_F2",
+      "box": [
+        0,
+        0.3861,
+        0.6045,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "我是使徒保罗——不是由人差派，也不是借着人，而是借着耶稣基督和使他从死人中复活的父神——"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P001_F3",
+      "box": [
+        0.6113,
+        0.3861,
+        0.3887,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "和所有与我在一起的弟兄，写信给加拉太的各教会。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P001_F4",
+      "box": [
+        0,
+        0.6667,
+        1,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "愿恩典、平安从父神和我们的主耶稣基督临到你们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_01_P001_B001",
+      "panel": "GALATIANS_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3023,
+        0.3944,
+        0.2841,
+        0.0608
+      ],
+      "tail": [
+        0.4444,
+        0.4829
+      ],
+      "text_key": "galatians.1.p1.b1"
+    },
+    {
+      "id": "GALATIANS_01_P001_B002",
+      "panel": "GALATIANS_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6268,
+        0.5909,
+        0.3576,
+        0.0636
+      ],
+      "tail": [
+        0.8056,
+        0.6628
+      ],
+      "text_key": "galatians.1.p1.b2"
+    },
+    {
+      "id": "GALATIANS_01_P001_B003",
+      "panel": "GALATIANS_01_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.6734,
+        0.36,
+        0.0599
+      ],
+      "tail": [
+        0.6,
+        0.7666
+      ],
+      "text_key": "galatians.1.p1.b3"
+    }
+  ]
+}

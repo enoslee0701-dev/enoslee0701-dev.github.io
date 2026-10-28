@@ -1,0 +1,112 @@
+{
+  "id": "GALATIANS_02_P001",
+  "book": "galatians",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3392
+      ],
+      "alt": {
+        "zh-CN": "过了十四年，我和巴拿巴又上耶路撒冷去，也带着提多同去。"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P001_F2",
+      "box": [
+        0,
+        0.3444,
+        0.374,
+        0.2663
+      ]
+    },
+    {
+      "id": "GALATIANS_02_P001_F3",
+      "box": [
+        0.3828,
+        0.3444,
+        0.6172,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "我是按着启示上去的，把我在外邦人中所传的福音向弟兄们说明……"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P001_F4",
+      "box": [
+        0,
+        0.6146,
+        1,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "可是和我同去的提多，虽然是希腊人，也没有被勉强受割礼；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_02_P001_B001",
+      "panel": "GALATIANS_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.0102,
+        0.33,
+        0.0678
+      ],
+      "tail": [
+        0.445,
+        0.1119
+      ],
+      "text_key": "galatians.2.p1.b1"
+    },
+    {
+      "id": "GALATIANS_02_P001_B002",
+      "panel": "GALATIANS_02_P001_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6605,
+        0.3524,
+        0.3209,
+        0.0532
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p1.b2"
+    },
+    {
+      "id": "GALATIANS_02_P001_B003",
+      "panel": "GALATIANS_02_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6262,
+        0.47,
+        0.0693
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "GALATIANS_01_P004",
+  "book": "galatians",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我告诉你们，我所传的福音不是从人来的……而是从耶稣基督的启示来的。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P004_F2",
+      "box": [
+        0,
+        0.3346,
+        1,
+        0.3685
+      ],
+      "alt": {
+        "zh-CN": "你们听说过我从前在犹太教里的作为，我怎样竭力迫害神的教会，想要毁灭它。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P004_F3",
+      "box": [
+        0,
+        0.7083,
+        0.5586,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "我在犹太教中，比许多同龄的同胞更有长进，对祖先的传统更加热心。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P004_F4",
+      "box": [
+        0.5684,
+        0.7083,
+        0.4316,
+        0.2917
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_01_P004_B001",
+      "panel": "GALATIANS_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0099,
+        0.45,
+        0.0793
+      ],
+      "tail": [
+        0.525,
+        0.1223
+      ],
+      "text_key": "galatians.1.p4.b1"
+    },
+    {
+      "id": "GALATIANS_01_P004_B002",
+      "panel": "GALATIANS_01_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.3457,
+        0.37,
+        0.0663
+      ],
+      "tail": null,
+      "text_key": "galatians.1.p4.b2"
+    },
+    {
+      "id": "GALATIANS_01_P004_B003",
+      "panel": "GALATIANS_01_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0279,
+        0.7171,
+        0.5027,
+        0.0641
+      ],
+      "tail": null,
+      "text_key": "galatians.1.p4.b3"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "GALATIANS_03_P003",
+  "book": "galatians",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ]
+    },
+    {
+      "id": "GALATIANS_03_P003_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "正如经上说：「亚伯拉罕信了神，这就算为他的义。」"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P003_F3",
+      "box": [
+        0,
+        0.6172,
+        0.4189,
+        0.3828
+      ],
+      "alt": {
+        "zh-CN": "所以你们要知道：凭着信心的人，就是亚伯拉罕的子孙。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P003_F4",
+      "box": [
+        0.4258,
+        0.6172,
+        0.5742,
+        0.3828
+      ],
+      "alt": {
+        "zh-CN": "「万国都要因你蒙福。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_03_P003_B001",
+      "panel": "GALATIANS_03_P003_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5375,
+        0.46,
+        0.0655
+      ],
+      "tail": null,
+      "text_key": "galatians.3.p3.b1"
+    },
+    {
+      "id": "GALATIANS_03_P003_B002",
+      "panel": "GALATIANS_03_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2765,
+        0.6287,
+        0.134,
+        0.1148
+      ],
+      "tail": [
+        0.3435,
+        0.7818
+      ],
+      "text_key": "galatians.3.p3.b2"
+    },
+    {
+      "id": "GALATIANS_03_P003_B003",
+      "panel": "GALATIANS_03_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6555,
+        0.6287,
+        0.3272,
+        0.0689
+      ],
+      "tail": null,
+      "text_key": "galatians.3.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "GALATIANS_04_P006",
+  "book": "galatians",
+  "chapter": 4,
+  "page": 6,
+  "ref": "4:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_04_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_04_P006_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "你们这些想要在律法之下的人，告诉我，你们没有听过律法吗？"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P006_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "因为律法上写着：亚伯拉罕有两个儿子，一个是婢女生的，一个是自由的妇人生的。"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P006_F3",
+      "box": [
+        0,
+        0.3027,
+        0.6,
+        0.6973
+      ],
+      "alt": {
+        "zh-CN": "然而，那婢女所生的是按着肉体生的；"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P006_F4",
+      "box": [
+        0.54,
+        0.3027,
+        0.46,
+        0.6973
+      ],
+      "alt": {
+        "zh-CN": "那自由的妇人所生的是凭着应许生的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_04_P006_B001",
+      "panel": "GALATIANS_04_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2745,
+        0.009,
+        0.2095,
+        0.066
+      ],
+      "tail": [
+        0.3793,
+        0.105
+      ],
+      "text_key": "galatians.4.p6.b1"
+    },
+    {
+      "id": "GALATIANS_04_P006_B002",
+      "panel": "GALATIANS_04_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5247,
+        0.2461,
+        0.4554,
+        0.045
+      ],
+      "tail": [
+        0.7524,
+        0.3001
+      ],
+      "text_key": "galatians.4.p6.b2"
+    },
+    {
+      "id": "GALATIANS_04_P006_B003",
+      "panel": "GALATIANS_04_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3236,
+        0.54,
+        0.0976
+      ],
+      "tail": null,
+      "text_key": "galatians.4.p6.b3"
+    },
+    {
+      "id": "GALATIANS_04_P006_B004",
+      "panel": "GALATIANS_04_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.563,
+        0.8884,
+        0.414,
+        0.0906
+      ],
+      "tail": null,
+      "text_key": "galatians.4.p6.b4"
+    }
+  ]
+}

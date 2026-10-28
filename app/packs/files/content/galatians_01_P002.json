@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_01_P002",
+  "book": "galatians",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:6-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3626
+      ],
+      "alt": {
+        "zh-CN": "我很惊讶，你们这么快就离开那借着基督的恩典呼召你们的，去追随别的福音。"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P002_F2",
+      "box": [
+        0,
+        0.3672,
+        1,
+        0.2767
+      ]
+    },
+    {
+      "id": "GALATIANS_01_P002_F3",
+      "box": [
+        0,
+        0.6465,
+        0.5615,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "那其实不是福音，"
+      }
+    },
+    {
+      "id": "GALATIANS_01_P002_F4",
+      "box": [
+        0.5664,
+        0.6465,
+        0.4336,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "只不过有些人在扰乱你们，想要篡改基督的福音。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_01_P002_B001",
+      "panel": "GALATIANS_01_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.72,
+        0.0145,
+        0.26,
+        0.1595
+      ],
+      "tail": [
+        0.85,
+        0.2103
+      ],
+      "text_key": "galatians.1.p2.b1"
+    },
+    {
+      "id": "GALATIANS_01_P002_B002",
+      "panel": "GALATIANS_01_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2639,
+        0.6571,
+        0.2021,
+        0.053
+      ],
+      "tail": [
+        0.365,
+        0.7455
+      ],
+      "text_key": "galatians.1.p2.b2"
+    },
+    {
+      "id": "GALATIANS_01_P002_B003",
+      "panel": "GALATIANS_01_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5837,
+        0.901,
+        0.3989,
+        0.0883
+      ],
+      "tail": [
+        0.7832,
+        1
+      ],
+      "text_key": "galatians.1.p2.b3"
+    }
+  ]
+}

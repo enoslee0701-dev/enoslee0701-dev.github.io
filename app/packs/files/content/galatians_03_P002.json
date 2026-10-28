@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_03_P002",
+  "book": "galatians",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "你们既然靠着圣灵开始，现在还要靠着肉体来完成吗？"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P002_F2",
+      "box": [
+        0,
+        0.2591,
+        0.4277,
+        0.3672
+      ],
+      "alt": {
+        "zh-CN": "你们受了这么多的苦，都是白受的吗？"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P002_F3",
+      "box": [
+        0.4355,
+        0.2591,
+        0.5645,
+        0.7409
+      ],
+      "alt": {
+        "zh-CN": "那赐圣灵给你们、又在你们中间行神迹的，是因为你们遵行律法，还是因为你们听了福音而相信？"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P002_F4",
+      "box": [
+        0,
+        0.6309,
+        0.4277,
+        0.3691
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_03_P002_B001",
+      "panel": "GALATIANS_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.43,
+        0.0102,
+        0.32,
+        0.0509
+      ],
+      "tail": [
+        0.59,
+        0.0866
+      ],
+      "text_key": "galatians.3.p2.b1"
+    },
+    {
+      "id": "GALATIANS_03_P002_B002",
+      "panel": "GALATIANS_03_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0171,
+        0.2701,
+        0.3934,
+        0.0807
+      ],
+      "tail": [
+        0.2138,
+        0.3875
+      ],
+      "text_key": "galatians.3.p2.b2"
+    },
+    {
+      "id": "GALATIANS_03_P002_B003",
+      "panel": "GALATIANS_03_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4637,
+        0.2813,
+        0.508,
+        0.1185
+      ],
+      "tail": [
+        0.7177,
+        0.4739
+      ],
+      "text_key": "galatians.3.p2.b3"
+    }
+  ]
+}

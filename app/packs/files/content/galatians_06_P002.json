@@ -1,0 +1,133 @@
+{
+  "id": "GALATIANS_06_P002",
+  "book": "galatians",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "不要自欺，神是不可轻慢的。人种什么，就收什么。"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P002_F2",
+      "box": [
+        0,
+        0.2559,
+        0.4092,
+        0.3815
+      ],
+      "alt": {
+        "zh-CN": "顺着圣灵撒种的，必从圣灵收获永生。"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P002_F3",
+      "box": [
+        0.418,
+        0.2559,
+        0.582,
+        0.7441
+      ],
+      "alt": {
+        "zh-CN": "我们行善不要灰心丧志；如果不放弃，到了适当的时候就会收成。"
+      }
+    },
+    {
+      "id": "GALATIANS_06_P002_F4",
+      "box": [
+        0,
+        0.6419,
+        0.4092,
+        0.3581
+      ],
+      "alt": {
+        "zh-CN": "所以，有机会就要向所有人行善，对信徒一家的人更要这样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_06_P002_B001",
+      "panel": "GALATIANS_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.0076,
+        0.26,
+        0.0555
+      ],
+      "tail": [
+        0.59,
+        0.0884
+      ],
+      "text_key": "galatians.6.p2.b1"
+    },
+    {
+      "id": "GALATIANS_06_P002_B002",
+      "panel": "GALATIANS_06_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0164,
+        0.2673,
+        0.3764,
+        0.0915
+      ],
+      "tail": null,
+      "text_key": "galatians.6.p2.b2"
+    },
+    {
+      "id": "GALATIANS_06_P002_B003",
+      "panel": "GALATIANS_06_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4413,
+        0.2782,
+        0.1978,
+        0.1488
+      ],
+      "tail": null,
+      "text_key": "galatians.6.p2.b3"
+    },
+    {
+      "id": "GALATIANS_06_P002_B004",
+      "panel": "GALATIANS_06_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0164,
+        0.9284,
+        0.3764,
+        0.0608
+      ],
+      "tail": [
+        0.2046,
+        1
+      ],
+      "text_key": "galatians.6.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "GALATIANS_02_P005",
+  "book": "galatians",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_02_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2483
+      ],
+      "alt": {
+        "zh-CN": "但我一看见他们的行为不正直，不合福音的真理，"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P005_F2",
+      "box": [
+        0,
+        0.2517,
+        1,
+        0.36
+      ],
+      "alt": {
+        "zh-CN": "「你既是犹太人，却照外邦人的样子生活，不照犹太人的样子，怎么还强迫外邦人照犹太人的样子生活呢？」"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P005_F3",
+      "box": [
+        0,
+        0.6167,
+        0.4813,
+        0.3833
+      ]
+    },
+    {
+      "id": "GALATIANS_02_P005_F4",
+      "box": [
+        0.4875,
+        0.6167,
+        0.5125,
+        0.3833
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_02_P005_B001",
+      "panel": "GALATIANS_02_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0074,
+        0.45,
+        0.0496
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p5.b1"
+    },
+    {
+      "id": "GALATIANS_02_P005_B002",
+      "panel": "GALATIANS_02_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2625,
+        0.47,
+        0.072
+      ],
+      "tail": [
+        0.735,
+        0.3705
+      ],
+      "text_key": "galatians.2.p5.b2"
+    }
+  ]
+}

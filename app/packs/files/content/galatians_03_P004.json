@@ -1,0 +1,136 @@
+{
+  "id": "GALATIANS_03_P004",
+  "book": "galatians",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:10-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.276
+      ],
+      "alt": {
+        "zh-CN": "凡是倚靠遵行律法的人，都是在咒诅之下；"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P004_F2",
+      "box": [
+        0,
+        0.2806,
+        0.4902,
+        0.3184
+      ],
+      "alt": {
+        "zh-CN": "「义人必因信而活。」"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P004_F3",
+      "box": [
+        0.4971,
+        0.2806,
+        0.5029,
+        0.7194
+      ],
+      "alt": {
+        "zh-CN": "基督为我们成了咒诅，把我们从律法的咒诅中赎出来。（「受了咒诅」原文是「成了咒诅」）"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P004_F4",
+      "box": [
+        0,
+        0.6035,
+        0.4902,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "这样，亚伯拉罕所得的福，借着基督耶稣临到了外邦人，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_03_P004_B001",
+      "panel": "GALATIANS_03_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.011,
+        0.38,
+        0.0662
+      ],
+      "tail": [
+        0.77,
+        0.1048
+      ],
+      "text_key": "galatians.3.p4.b1"
+    },
+    {
+      "id": "GALATIANS_03_P004_B002",
+      "panel": "GALATIANS_03_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0196,
+        0.2902,
+        0.4509,
+        0.0636
+      ],
+      "tail": null,
+      "text_key": "galatians.3.p4.b2"
+    },
+    {
+      "id": "GALATIANS_03_P004_B003",
+      "panel": "GALATIANS_03_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6983,
+        0.295,
+        0.2816,
+        0.0719
+      ],
+      "tail": [
+        0.8391,
+        0.4388
+      ],
+      "text_key": "galatians.3.p4.b3"
+    },
+    {
+      "id": "GALATIANS_03_P004_B004",
+      "panel": "GALATIANS_03_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0196,
+        0.9207,
+        0.4509,
+        0.0674
+      ],
+      "tail": [
+        0.2451,
+        1
+      ],
+      "text_key": "galatians.3.p4.b4"
+    }
+  ]
+}

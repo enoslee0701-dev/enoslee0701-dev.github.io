@@ -1,0 +1,139 @@
+{
+  "id": "GALATIANS_02_P006",
+  "book": "galatians",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_02_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_02_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "我们生来是犹太人，不是外邦的罪人；"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P006_F2",
+      "box": [
+        0,
+        0.2194,
+        1,
+        0.3932
+      ],
+      "alt": {
+        "zh-CN": "但知道人称义不是因为遵行律法，而是因为信耶稣基督，所以连我们也信了基督耶稣，"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P006_F3",
+      "box": [
+        0,
+        0.6146,
+        0.5137,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "难道基督是使人犯罪的吗？绝对不是！"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P006_F4",
+      "box": [
+        0.5186,
+        0.6146,
+        0.4814,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "我借着律法，就对律法死了，好让我向　神活着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_02_P006_B001",
+      "panel": "GALATIANS_02_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0065,
+        0.4,
+        0.039
+      ],
+      "tail": [
+        0.5,
+        0.0672
+      ],
+      "text_key": "galatians.2.p6.b1"
+    },
+    {
+      "id": "GALATIANS_02_P006_B002",
+      "panel": "GALATIANS_02_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.2312,
+        0.42,
+        0.0943
+      ],
+      "tail": [
+        0.76,
+        0.3648
+      ],
+      "text_key": "galatians.2.p6.b2"
+    },
+    {
+      "id": "GALATIANS_02_P006_B003",
+      "panel": "GALATIANS_02_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0154,
+        0.6262,
+        0.226,
+        0.077
+      ],
+      "tail": [
+        0.1284,
+        0.7417
+      ],
+      "text_key": "galatians.2.p6.b3"
+    },
+    {
+      "id": "GALATIANS_02_P006_B004",
+      "panel": "GALATIANS_02_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5427,
+        0.9345,
+        0.4332,
+        0.0578
+      ],
+      "tail": [
+        0.7593,
+        1
+      ],
+      "text_key": "galatians.2.p6.b4"
+    }
+  ]
+}

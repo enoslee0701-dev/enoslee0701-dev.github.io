@@ -1,0 +1,112 @@
+{
+  "id": "GALATIANS_03_P007",
+  "book": "galatians",
+  "chapter": 3,
+  "page": 7,
+  "ref": "3:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_03_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_03_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "……我们被看守在律法之下，被关起来，直到那将要显明的信仰出现。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P007_F2",
+      "box": [
+        0,
+        0.3001,
+        1,
+        0.2214
+      ],
+      "alt": {
+        "zh-CN": "这样，律法是我们的启蒙老师，带领我们到基督那里，使我们因信称义。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P007_F3",
+      "box": [
+        0,
+        0.5254,
+        0.6416,
+        0.4746
+      ],
+      "alt": {
+        "zh-CN": "……我们从此就不再在启蒙老师的管束之下了。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P007_F4",
+      "box": [
+        0.6484,
+        0.5254,
+        0.3516,
+        0.4746
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_03_P007_B001",
+      "panel": "GALATIANS_03_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.0089,
+        0.4,
+        0.0591
+      ],
+      "tail": [
+        0.42,
+        0.0976
+      ],
+      "text_key": "galatians.3.p7.b1"
+    },
+    {
+      "id": "GALATIANS_03_P007_B002",
+      "panel": "GALATIANS_03_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.309,
+        0.27,
+        0.0442
+      ],
+      "tail": null,
+      "text_key": "galatians.3.p7.b2"
+    },
+    {
+      "id": "GALATIANS_03_P007_B003",
+      "panel": "GALATIANS_03_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0192,
+        0.9051,
+        0.3208,
+        0.0806
+      ],
+      "tail": null,
+      "text_key": "galatians.3.p7.b3"
+    }
+  ]
+}

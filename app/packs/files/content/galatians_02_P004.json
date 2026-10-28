@@ -1,0 +1,112 @@
+{
+  "id": "GALATIANS_02_P004",
+  "book": "galatians",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "后来，矶法到了安提阿；因为他有该受责备的地方，我就当面反对他。"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P004_F2",
+      "box": [
+        0,
+        0.2507,
+        1,
+        0.347
+      ],
+      "alt": {
+        "zh-CN": "等他们一到，他因为怕主张割礼的人，就退出来和外邦人分开了。"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P004_F3",
+      "box": [
+        0,
+        0.6022,
+        0.5137,
+        0.3978
+      ],
+      "alt": {
+        "zh-CN": "其余的犹太人也跟着他一起装假，连巴拿巴也被他们的假装带走了。"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P004_F4",
+      "box": [
+        0.5195,
+        0.6022,
+        0.4805,
+        0.3978
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_02_P004_B001",
+      "panel": "GALATIANS_02_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0074,
+        0.36,
+        0.0496
+      ],
+      "tail": [
+        0.48,
+        0.0818
+      ],
+      "text_key": "galatians.2.p4.b1"
+    },
+    {
+      "id": "GALATIANS_02_P004_B002",
+      "panel": "GALATIANS_02_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2611,
+        0.42,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p4.b2"
+    },
+    {
+      "id": "GALATIANS_02_P004_B003",
+      "panel": "GALATIANS_02_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0205,
+        0.6141,
+        0.3082,
+        0.0676
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p4.b3"
+    }
+  ]
+}

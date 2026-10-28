@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_04_P005",
+  "book": "galatians",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "那些人热心对待你们，却不是出于好意，是要把你们隔离出来（原文是「把你们关在外面」），好让你们热心对待他们。"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P005_F2",
+      "box": [
+        0,
+        0.2598,
+        0.418,
+        0.304
+      ]
+    },
+    {
+      "id": "GALATIANS_04_P005_F3",
+      "box": [
+        0.4238,
+        0.2598,
+        0.5762,
+        0.7402
+      ],
+      "alt": {
+        "zh-CN": "我的孩子们哪，我为你们再一次受生产的痛苦，直到基督在你们心里成形。"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P005_F4",
+      "box": [
+        0,
+        0.5671,
+        0.418,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "我真希望现在就在你们那里，改换语气，因为我为你们十分为难。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_04_P005_B001",
+      "panel": "GALATIANS_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0077,
+        0.4,
+        0.0767
+      ],
+      "tail": [
+        0.23,
+        0.11
+      ],
+      "text_key": "galatians.4.p5.b1"
+    },
+    {
+      "id": "GALATIANS_04_P005_B002",
+      "panel": "GALATIANS_04_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.4526,
+        0.282,
+        0.5185,
+        0.1258
+      ],
+      "tail": [
+        0.7119,
+        0.4818
+      ],
+      "text_key": "galatians.4.p5.b2"
+    },
+    {
+      "id": "GALATIANS_04_P005_B003",
+      "panel": "GALATIANS_04_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0167,
+        0.9134,
+        0.3845,
+        0.0735
+      ],
+      "tail": [
+        0.209,
+        1
+      ],
+      "text_key": "galatians.4.p5.b3"
+    }
+  ]
+}

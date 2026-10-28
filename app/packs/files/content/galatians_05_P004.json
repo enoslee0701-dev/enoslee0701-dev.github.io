@@ -1,0 +1,133 @@
+{
+  "id": "GALATIANS_05_P004",
+  "book": "galatians",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_05_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5449,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，如果我仍然传讲割礼，为什么还受迫害呢？"
+      }
+    },
+    {
+      "id": "GALATIANS_05_P004_F2",
+      "box": [
+        0.5537,
+        0,
+        0.4463,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "我真希望那些搅扰你们的人把自己阉割了。"
+      }
+    },
+    {
+      "id": "GALATIANS_05_P004_F3",
+      "box": [
+        0,
+        0.3001,
+        1,
+        0.1882
+      ]
+    },
+    {
+      "id": "GALATIANS_05_P004_F4",
+      "box": [
+        0,
+        0.4922,
+        1,
+        0.5078
+      ],
+      "alt": {
+        "zh-CN": "不要把自由当作放纵肉体的机会，要用爱心彼此服侍。整个律法都包含在「爱人如己」这一句话里了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_05_P004_B001",
+      "panel": "GALATIANS_05_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0163,
+        0.0089,
+        0.2397,
+        0.0355
+      ],
+      "tail": [
+        0.1362,
+        0.074
+      ],
+      "text_key": "galatians.5.p4.b1"
+    },
+    {
+      "id": "GALATIANS_05_P004_B002",
+      "panel": "GALATIANS_05_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.8572,
+        0.0089,
+        0.1338,
+        0.0414
+      ],
+      "tail": [
+        0.9241,
+        0.0799
+      ],
+      "text_key": "galatians.5.p4.b2"
+    },
+    {
+      "id": "GALATIANS_05_P004_B003",
+      "panel": "GALATIANS_05_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.5074,
+        0.56,
+        0.0812
+      ],
+      "tail": [
+        0.5,
+        0.6394
+      ],
+      "text_key": "galatians.5.p4.b3"
+    },
+    {
+      "id": "GALATIANS_05_P004_B004",
+      "panel": "GALATIANS_05_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9289,
+        0.5,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "galatians.5.p4.b4"
+    }
+  ]
+}

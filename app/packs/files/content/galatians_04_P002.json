@@ -1,0 +1,136 @@
+{
+  "id": "GALATIANS_04_P002",
+  "book": "galatians",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "等到时机成熟，神就差遣他的儿子，由女子所生，并且生在律法之下，"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P002_F2",
+      "box": [
+        0,
+        0.2207,
+        0.415,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "要把律法之下的人救赎出来，使我们得着儿子的身份。"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P002_F3",
+      "box": [
+        0.4219,
+        0.2207,
+        0.5781,
+        0.7793
+      ],
+      "alt": {
+        "zh-CN": "你们既然是儿子，神就差遣他儿子的灵进入你们（原文是「我们」）的心，呼喊：「阿爸，父！」"
+      }
+    },
+    {
+      "id": "GALATIANS_04_P002_F4",
+      "box": [
+        0,
+        0.6536,
+        0.415,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "这样看来，从今以后，你不再是奴仆，而是儿子了；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_04_P002_B001",
+      "panel": "GALATIANS_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.0087,
+        0.18,
+        0.0975
+      ],
+      "tail": [
+        0.51,
+        0.1279
+      ],
+      "text_key": "galatians.4.p2.b1"
+    },
+    {
+      "id": "GALATIANS_04_P002_B002",
+      "panel": "GALATIANS_04_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0166,
+        0.225,
+        0.3818,
+        0.0343
+      ],
+      "tail": [
+        0.2075,
+        0.3022
+      ],
+      "text_key": "galatians.4.p2.b2"
+    },
+    {
+      "id": "GALATIANS_04_P002_B003",
+      "panel": "GALATIANS_04_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.445,
+        0.2441,
+        0.3468,
+        0.1558
+      ],
+      "tail": null,
+      "text_key": "galatians.4.p2.b3"
+    },
+    {
+      "id": "GALATIANS_04_P002_B004",
+      "panel": "GALATIANS_04_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0166,
+        0.9238,
+        0.3818,
+        0.0658
+      ],
+      "tail": [
+        0.2075,
+        1
+      ],
+      "text_key": "galatians.4.p2.b4"
+    }
+  ]
+}

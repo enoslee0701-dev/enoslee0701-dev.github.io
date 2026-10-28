@@ -1,0 +1,118 @@
+{
+  "id": "GALATIANS_03_P008",
+  "book": "galatians",
+  "chapter": 3,
+  "page": 8,
+  "ref": "3:26-29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_03_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_03_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "所以，你们因信基督耶稣，都是　神的儿子。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P008_F2",
+      "box": [
+        0,
+        0.252,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "不再分犹太人或希腊人、奴隶或自由人、男或女，因为你们在基督耶稣里都合而为一了。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P008_F3",
+      "box": [
+        0,
+        0.6263,
+        0.5869,
+        0.3737
+      ],
+      "alt": {
+        "zh-CN": "你们既然属于基督，就是亚伯拉罕的后裔，是照着应许承受产业的人了。"
+      }
+    },
+    {
+      "id": "GALATIANS_03_P008_F4",
+      "box": [
+        0.5928,
+        0.6263,
+        0.4072,
+        0.3737
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_03_P008_B001",
+      "panel": "GALATIANS_03_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.0075,
+        0.42,
+        0.0497
+      ],
+      "tail": [
+        0.59,
+        0.0821
+      ],
+      "text_key": "galatians.3.p8.b1"
+    },
+    {
+      "id": "GALATIANS_03_P008_B002",
+      "panel": "GALATIANS_03_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.5642,
+        0.4,
+        0.0557
+      ],
+      "tail": [
+        0.5,
+        0.6237
+      ],
+      "text_key": "galatians.3.p8.b2"
+    },
+    {
+      "id": "GALATIANS_03_P008_B003",
+      "panel": "GALATIANS_03_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0235,
+        0.9253,
+        0.5399,
+        0.0635
+      ],
+      "tail": [
+        0.2935,
+        1
+      ],
+      "text_key": "galatians.3.p8.b3"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "GALATIANS_02_P002",
+  "book": "galatians",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GALATIANS_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GALATIANS_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2183
+      ],
+      "alt": {
+        "zh-CN": "因为有混进来的假弟兄，暗中窥探我们在基督耶稣里的自由，想要使我们成为奴仆。"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P002_F2",
+      "box": [
+        0,
+        0.2233,
+        1,
+        0.4186
+      ],
+      "alt": {
+        "zh-CN": "我们连一刻也没有向他们让步顺从，为的是要使福音的真理常存在你们中间。"
+      }
+    },
+    {
+      "id": "GALATIANS_02_P002_F3",
+      "box": [
+        0,
+        0.6445,
+        0.498,
+        0.3555
+      ]
+    },
+    {
+      "id": "GALATIANS_02_P002_F4",
+      "box": [
+        0.5059,
+        0.6445,
+        0.4941,
+        0.3555
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GALATIANS_02_P002_B001",
+      "panel": "GALATIANS_02_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0109,
+        0.4,
+        0.0654
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p2.b1"
+    },
+    {
+      "id": "GALATIANS_02_P002_B002",
+      "panel": "GALATIANS_02_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.32,
+        0.2275,
+        0.62,
+        0.046
+      ],
+      "tail": null,
+      "text_key": "galatians.2.p2.b2"
+    }
+  ]
+}
