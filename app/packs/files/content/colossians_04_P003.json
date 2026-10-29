@@ -1,0 +1,136 @@
+{
+  "id": "COLOSSIANS_04_P003",
+  "book": "colossians",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_04_P003_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.2689
+      ],
+      "alt": {
+        "zh-CN": "和我一同坐牢的亚里达古问候你们。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_04_P003_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.2689
+      ],
+      "alt": {
+        "zh-CN": "巴拿巴的表弟马可也问候你们。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_04_P003_F3",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.4115
+      ],
+      "alt": {
+        "zh-CN": "（关于这马可，你们已经接到吩咐；他若到你们那里，你们要接待他。）"
+      }
+    },
+    {
+      "id": "COLOSSIANS_04_P003_F4",
+      "box": [
+        0,
+        0.6862,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "耶数，又叫犹士都，也问候你们。……也是使我心里得安慰的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_04_P003_B001",
+      "panel": "COLOSSIANS_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0081,
+        0.3592,
+        0.0484
+      ],
+      "tail": [
+        0.1996,
+        0.0834
+      ],
+      "text_key": "colossians.4.p3.b1"
+    },
+    {
+      "id": "COLOSSIANS_04_P003_B002",
+      "panel": "COLOSSIANS_04_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5297,
+        0.2151,
+        0.4455,
+        0.0457
+      ],
+      "tail": null,
+      "text_key": "colossians.4.p3.b2"
+    },
+    {
+      "id": "COLOSSIANS_04_P003_B003",
+      "panel": "COLOSSIANS_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.2797,
+        0.52,
+        0.0452
+      ],
+      "tail": [
+        0.3,
+        0.3661
+      ],
+      "text_key": "colossians.4.p3.b3"
+    },
+    {
+      "id": "COLOSSIANS_04_P003_B004",
+      "panel": "COLOSSIANS_04_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.6925,
+        0.52,
+        0.0313
+      ],
+      "tail": [
+        0.71,
+        0.7552
+      ],
+      "text_key": "colossians.4.p3.b4"
+    }
+  ]
+}

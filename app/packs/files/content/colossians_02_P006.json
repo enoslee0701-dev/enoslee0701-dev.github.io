@@ -1,0 +1,118 @@
+{
+  "id": "COLOSSIANS_02_P006",
+  "book": "colossians",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:20-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_02_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_02_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "你们若已经与基督同死，脱离了世界的基本原则，为什么还像活在世俗里，守那些「不可拿、不可尝、不可摸」的规条呢？"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P006_F2",
+      "box": [
+        0,
+        0.2344,
+        1,
+        0.444
+      ]
+    },
+    {
+      "id": "COLOSSIANS_02_P006_F3",
+      "box": [
+        0,
+        0.6823,
+        0.5068,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "这些都是照人的命令和教训。这一切东西，一用就都朽坏了。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P006_F4",
+      "box": [
+        0.5146,
+        0.6823,
+        0.4854,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "这些规条叫人好像有智慧，……其实在克制肉体的私欲上一点用都没有。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_02_P006_B001",
+      "panel": "COLOSSIANS_02_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0069,
+        0.45,
+        0.0508
+      ],
+      "tail": [
+        0.745,
+        0.0808
+      ],
+      "text_key": "colossians.2.p6.b1"
+    },
+    {
+      "id": "COLOSSIANS_02_P006_B002",
+      "panel": "COLOSSIANS_02_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2787,
+        0.6918,
+        0.2128,
+        0.0826
+      ],
+      "tail": [
+        0.3851,
+        0.8062
+      ],
+      "text_key": "colossians.2.p6.b2"
+    },
+    {
+      "id": "COLOSSIANS_02_P006_B003",
+      "panel": "COLOSSIANS_02_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.733,
+        0.6918,
+        0.2524,
+        0.0762
+      ],
+      "tail": [
+        0.8592,
+        0.7998
+      ],
+      "text_key": "colossians.2.p6.b3"
+    }
+  ]
+}

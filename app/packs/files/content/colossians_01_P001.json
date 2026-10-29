@@ -1,0 +1,70 @@
+{
+  "id": "COLOSSIANS_01_P001",
+  "book": "colossians",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "从罗马到歌罗西"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P001_F2",
+      "box": [
+        0,
+        0.4115,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "奉神旨意作基督耶稣使徒的保罗，和兄弟提摩太，"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P001_F3",
+      "box": [
+        0,
+        0.6979,
+        1,
+        0.3021
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_01_P001_B001",
+      "panel": "COLOSSIANS_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.42,
+        0.29,
+        0.0623
+      ],
+      "tail": [
+        0.695,
+        0.5106
+      ],
+      "text_key": "colossians.1.p1.b1"
+    }
+  ]
+}

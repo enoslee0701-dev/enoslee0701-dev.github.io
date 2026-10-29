@@ -1,0 +1,115 @@
+{
+  "id": "COLOSSIANS_01_P004",
+  "book": "colossians",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "这正是你们从我们亲爱的同工以巴弗那里学到的。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P004_F2",
+      "box": [
+        0,
+        0.2428,
+        1,
+        0.3503
+      ],
+      "alt": {
+        "zh-CN": "他为我们作了基督忠心的仆人，"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P004_F3",
+      "box": [
+        0,
+        0.5977,
+        0.499,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "也把你们在圣灵里的爱告诉了我们。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P004_F4",
+      "box": [
+        0.5078,
+        0.5977,
+        0.4922,
+        0.4023
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_01_P004_B001",
+      "panel": "COLOSSIANS_01_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0096,
+        0.37,
+        0.0573
+      ],
+      "tail": null,
+      "text_key": "colossians.1.p4.b1"
+    },
+    {
+      "id": "COLOSSIANS_01_P004_B002",
+      "panel": "COLOSSIANS_01_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.72,
+        0.2498,
+        0.26,
+        0.077
+      ],
+      "tail": [
+        0.85,
+        0.3618
+      ],
+      "text_key": "colossians.1.p4.b2"
+    },
+    {
+      "id": "COLOSSIANS_01_P004_B003",
+      "panel": "COLOSSIANS_01_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6057,
+        0.459,
+        0.0482
+      ],
+      "tail": [
+        0.2495,
+        0.6941
+      ],
+      "text_key": "colossians.1.p4.b3"
+    }
+  ]
+}

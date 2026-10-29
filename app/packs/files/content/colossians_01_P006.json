@@ -1,0 +1,100 @@
+{
+  "id": "COLOSSIANS_01_P006",
+  "book": "colossians",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "爱子是那看不见的神的形像，是首生的，在一切受造之物以先。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P006_F2",
+      "box": [
+        0,
+        0.2415,
+        1,
+        0.4616
+      ],
+      "alt": {
+        "zh-CN": "因为万有都是靠他造的，天上地上、看得见看不见的、有位的、主治的、执政的、掌权的，一概都是借着他、为了他造的。他在万有之先，万有也靠他而存在。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P006_F3",
+      "box": [
+        0,
+        0.7064,
+        1,
+        0.2936
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_01_P006_B001",
+      "panel": "COLOSSIANS_01_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0096,
+        0.42,
+        0.0621
+      ],
+      "tail": [
+        0.24,
+        0.0956
+      ],
+      "text_key": "colossians.1.p6.b1"
+    },
+    {
+      "id": "COLOSSIANS_01_P006_B002",
+      "panel": "COLOSSIANS_01_P006_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.2553,
+        0.92,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "colossians.1.p6.b2"
+    },
+    {
+      "id": "COLOSSIANS_01_P006_B003",
+      "panel": "COLOSSIANS_01_P006_F2",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5462,
+        0.48,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "colossians.1.p6.b3"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "COLOSSIANS_03_P001",
+  "book": "colossians",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "所以，你们既然与基督一同复活了，就要追求天上的事；"
+      }
+    },
+    {
+      "id": "COLOSSIANS_03_P001_F2",
+      "box": [
+        0,
+        0.2272,
+        1,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "你们要想念天上的事，不要想念地上的事。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_03_P001_F3",
+      "box": [
+        0,
+        0.6641,
+        0.5254,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "因为你们已经死了，你们的生命和基督一起藏在神里面。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_03_P001_F4",
+      "box": [
+        0.5322,
+        0.6641,
+        0.4678,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "基督是我们的生命，他显现的时候，你们也要和他一起在荣耀里显现。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_03_P001_B001",
+      "panel": "COLOSSIANS_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0067,
+        0.27,
+        0.0445
+      ],
+      "tail": [
+        0.155,
+        0.0735
+      ],
+      "text_key": "colossians.3.p1.b1"
+    },
+    {
+      "id": "COLOSSIANS_03_P001_B002",
+      "panel": "COLOSSIANS_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.2359,
+        0.42,
+        0.0346
+      ],
+      "tail": [
+        0.76,
+        0.3138
+      ],
+      "text_key": "colossians.3.p1.b2"
+    },
+    {
+      "id": "COLOSSIANS_03_P001_B003",
+      "panel": "COLOSSIANS_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0263,
+        0.9328,
+        0.4728,
+        0.0571
+      ],
+      "tail": [
+        0.2627,
+        1
+      ],
+      "text_key": "colossians.3.p1.b3"
+    },
+    {
+      "id": "COLOSSIANS_03_P001_B004",
+      "panel": "COLOSSIANS_03_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5556,
+        0.6742,
+        0.421,
+        0.0738
+      ],
+      "tail": [
+        0.7661,
+        0.7816
+      ],
+      "text_key": "colossians.3.p1.b4"
+    }
+  ]
+}

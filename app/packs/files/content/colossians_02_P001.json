@@ -1,0 +1,139 @@
+{
+  "id": "COLOSSIANS_02_P001",
+  "book": "colossians",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "我希望你们知道，我为你们、为老底嘉人，和所有没有和我见过面的人，是多么竭力奋斗；"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P001_F2",
+      "box": [
+        0,
+        0.252,
+        0.6123,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "要使他们的心得安慰，在爱里彼此连结，"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P001_F3",
+      "box": [
+        0.6182,
+        0.252,
+        0.3818,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "我说这话，是免得有人用动听的话迷惑你们。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P001_F4",
+      "box": [
+        0,
+        0.6074,
+        1,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "我身体虽然和你们分开，心却和你们在一起，……我就欢喜了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_02_P001_B001",
+      "panel": "COLOSSIANS_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.0075,
+        0.37,
+        0.0447
+      ],
+      "tail": [
+        0.785,
+        0.0771
+      ],
+      "text_key": "colossians.2.p1.b1"
+    },
+    {
+      "id": "COLOSSIANS_02_P001_B002",
+      "panel": "COLOSSIANS_02_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0245,
+        0.2626,
+        0.4286,
+        0.0565
+      ],
+      "tail": [
+        0.2388,
+        0.3545
+      ],
+      "text_key": "colossians.2.p1.b2"
+    },
+    {
+      "id": "COLOSSIANS_02_P001_B003",
+      "panel": "COLOSSIANS_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6373,
+        0.5525,
+        0.3436,
+        0.0459
+      ],
+      "tail": [
+        0.8091,
+        0.6055
+      ],
+      "text_key": "colossians.2.p1.b3"
+    },
+    {
+      "id": "COLOSSIANS_02_P001_B004",
+      "panel": "COLOSSIANS_02_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6192,
+        0.18,
+        0.1099
+      ],
+      "tail": [
+        0.11,
+        0.7684
+      ],
+      "text_key": "colossians.2.p1.b4"
+    }
+  ]
+}

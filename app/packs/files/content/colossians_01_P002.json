@@ -1,0 +1,97 @@
+{
+  "id": "COLOSSIANS_01_P002",
+  "book": "colossians",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4147
+      ]
+    },
+    {
+      "id": "COLOSSIANS_01_P002_F2",
+      "box": [
+        0.625,
+        0.257,
+        0.375,
+        0.157
+      ]
+    },
+    {
+      "id": "COLOSSIANS_01_P002_F3",
+      "box": [
+        0,
+        0.4173,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "写信给歌罗西的圣徒，就是在基督里忠心的弟兄们。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_01_P002_F4",
+      "box": [
+        0,
+        0.6556,
+        1,
+        0.3444
+      ],
+      "alt": {
+        "zh-CN": "愿恩典、平安从神我们的父临到你们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_01_P002_B001",
+      "panel": "COLOSSIANS_01_P002_F3",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.4243,
+        0.42,
+        0.0421
+      ],
+      "tail": [
+        0.76,
+        0.4898
+      ],
+      "text_key": "colossians.1.p2.b1"
+    },
+    {
+      "id": "COLOSSIANS_01_P002_B002",
+      "panel": "COLOSSIANS_01_P002_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.6659,
+        0.31,
+        0.0482
+      ],
+      "tail": [
+        0.815,
+        0.7485
+      ],
+      "text_key": "colossians.1.p2.b2"
+    }
+  ]
+}

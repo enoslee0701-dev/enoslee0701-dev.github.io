@@ -1,0 +1,118 @@
+{
+  "id": "COLOSSIANS_02_P003",
+  "book": "colossians",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:8-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "COLOSSIANS_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "COLOSSIANS_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "你们要小心，免得有人用他的哲学和空洞的骗人言论，……把你们俘虏去。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P003_F2",
+      "box": [
+        0,
+        0.2585,
+        1,
+        0.3978
+      ],
+      "alt": {
+        "zh-CN": "因为神一切的丰盛都具体地住在基督里面，你们在他里面也得到了丰盛。"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P003_F3",
+      "box": [
+        0,
+        0.6595,
+        0.5225,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "你们受洗时已经与他一同埋葬，也在洗礼中与他一同复活，"
+      }
+    },
+    {
+      "id": "COLOSSIANS_02_P003_F4",
+      "box": [
+        0.5313,
+        0.6595,
+        0.4687,
+        0.3405
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "COLOSSIANS_02_P003_B001",
+      "panel": "COLOSSIANS_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0076,
+        0.25,
+        0.0509
+      ],
+      "tail": [
+        0.155,
+        0.084
+      ],
+      "text_key": "colossians.2.p3.b1"
+    },
+    {
+      "id": "COLOSSIANS_02_P003_B002",
+      "panel": "COLOSSIANS_02_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2704,
+        0.41,
+        0.0676
+      ],
+      "tail": [
+        0.765,
+        0.3778
+      ],
+      "text_key": "colossians.2.p3.b2"
+    },
+    {
+      "id": "COLOSSIANS_02_P003_B003",
+      "panel": "COLOSSIANS_02_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3814,
+        0.6697,
+        0.1306,
+        0.1021
+      ],
+      "tail": [
+        0.4467,
+        0.8059
+      ],
+      "text_key": "colossians.2.p3.b3"
+    }
+  ]
+}
