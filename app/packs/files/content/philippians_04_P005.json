@@ -1,0 +1,124 @@
+{
+  "id": "PHILIPPIANS_04_P005",
+  "book": "philippians",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:14-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "不过，你们和我一同分担患难，这是好事。　腓立比人哪，你们也知道，我初传福音离开马其顿的时候，在施与受的事上，除了你们以外，没有别的教会供给我。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P005_F2",
+      "box": [
+        0,
+        0.2865,
+        1,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "就是我在帖撒罗尼迦的时候，你们也一次又一次差人供给我的需要。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P005_F3",
+      "box": [
+        0,
+        0.7031,
+        1,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "我并不是想要礼物，我要的是你们的果子越来越多，记在你们的账上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_04_P005_B001",
+      "panel": "PHILIPPIANS_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0085,
+        0.44,
+        0.0282
+      ],
+      "tail": [
+        0.74,
+        0.065
+      ],
+      "text_key": "philippians.4.p5.b1"
+    },
+    {
+      "id": "PHILIPPIANS_04_P005_B002",
+      "panel": "PHILIPPIANS_04_P005_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.1922,
+        0.43,
+        0.0819
+      ],
+      "tail": [
+        0.755,
+        0.2826
+      ],
+      "text_key": "philippians.4.p5.b2"
+    },
+    {
+      "id": "PHILIPPIANS_04_P005_B003",
+      "panel": "PHILIPPIANS_04_P005_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6172,
+        0.92,
+        0.0702
+      ],
+      "tail": null,
+      "text_key": "philippians.4.p5.b3"
+    },
+    {
+      "id": "PHILIPPIANS_04_P005_B004",
+      "panel": "PHILIPPIANS_04_P005_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.51,
+        0.715,
+        0.37,
+        0.089
+      ],
+      "tail": [
+        0.695,
+        0.8337
+      ],
+      "text_key": "philippians.4.p5.b4"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "PHILIPPIANS_02_P004",
+  "book": "philippians",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "所以，神使他升为至高，又赐给他超越万名之上的名，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P004_F2",
+      "box": [
+        0,
+        0.2396,
+        1,
+        0.4993
+      ],
+      "alt": {
+        "zh-CN": "使一切在天上的、地上的和地底下的，因耶稣的名都要屈膝，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P004_F3",
+      "box": [
+        0,
+        0.7441,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "都要口称「耶稣基督为主」，使荣耀归于父神。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_02_P004_B001",
+      "panel": "PHILIPPIANS_02_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0071,
+        0.42,
+        0.0353
+      ],
+      "tail": [
+        0.24,
+        0.066
+      ],
+      "text_key": "philippians.2.p4.b1"
+    },
+    {
+      "id": "PHILIPPIANS_02_P004_B002",
+      "panel": "PHILIPPIANS_02_P004_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.26,
+        0.2496,
+        0.48,
+        0.0649
+      ],
+      "tail": null,
+      "text_key": "philippians.2.p4.b2"
+    },
+    {
+      "id": "PHILIPPIANS_02_P004_B003",
+      "panel": "PHILIPPIANS_02_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.7569,
+        0.37,
+        0.2251
+      ],
+      "tail": [
+        0.785,
+        1
+      ],
+      "text_key": "philippians.2.p4.b3"
+    }
+  ]
+}

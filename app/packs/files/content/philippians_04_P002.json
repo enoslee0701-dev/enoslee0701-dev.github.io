@@ -1,0 +1,115 @@
+{
+  "id": "PHILIPPIANS_04_P002",
+  "book": "philippians",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2292
+      ],
+      "alt": {
+        "zh-CN": "你们要靠主常常喜乐。我再说一次：要喜乐。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P002_F2",
+      "box": [
+        0,
+        0.2324,
+        1,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "什么都不要忧虑，只要在每件事上借着祷告、祈求和感谢，把你们所要的告诉神。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P002_F3",
+      "box": [
+        0,
+        0.502,
+        1,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "神所赐、超过人所能明白的平安，必在基督耶稣里守护你们的心思意念。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P002_F4",
+      "box": [
+        0.5875,
+        0.757,
+        0.406,
+        0.235
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_04_P002_B001",
+      "panel": "PHILIPPIANS_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.47,
+        0.0069,
+        0.18,
+        0.0687
+      ],
+      "tail": [
+        0.56,
+        0.0985
+      ],
+      "text_key": "philippians.4.p2.b1"
+    },
+    {
+      "id": "PHILIPPIANS_04_P002_B002",
+      "panel": "PHILIPPIANS_04_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.2485,
+        0.44,
+        0.107
+      ],
+      "tail": [
+        0.74,
+        0.3823
+      ],
+      "text_key": "philippians.4.p2.b2"
+    },
+    {
+      "id": "PHILIPPIANS_04_P002_B003",
+      "panel": "PHILIPPIANS_04_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.2,
+        0.512,
+        0.56,
+        0.0697
+      ],
+      "tail": null,
+      "text_key": "philippians.4.p2.b3"
+    }
+  ]
+}

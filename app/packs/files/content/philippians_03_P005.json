@@ -1,0 +1,118 @@
+{
+  "id": "PHILIPPIANS_03_P005",
+  "book": "philippians",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_03_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.237
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，你们要一起效法我，也要留意那些照我们榜样而行的人。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_03_P005_F2",
+      "box": [
+        0,
+        0.2402,
+        1,
+        0.3717
+      ],
+      "alt": {
+        "zh-CN": "因为有许多人的行为是与基督的十字架为敌。我屡次告诉你们，现在又流着泪告诉你们："
+      }
+    },
+    {
+      "id": "PHILIPPIANS_03_P005_F3",
+      "box": [
+        0,
+        0.6152,
+        0.5469,
+        0.3848
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_03_P005_F4",
+      "box": [
+        0.5547,
+        0.6152,
+        0.4453,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "他们的结局是灭亡；他们的神是自己的肚腹……只想着地上的事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_03_P005_B001",
+      "panel": "PHILIPPIANS_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0071,
+        0.47,
+        0.0474
+      ],
+      "tail": [
+        0.735,
+        0.0782
+      ],
+      "text_key": "philippians.3.p5.b1"
+    },
+    {
+      "id": "PHILIPPIANS_03_P005_B002",
+      "panel": "PHILIPPIANS_03_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.2588,
+        0.38,
+        0.223
+      ],
+      "tail": [
+        0.22,
+        0.519
+      ],
+      "text_key": "philippians.3.p5.b2"
+    },
+    {
+      "id": "PHILIPPIANS_03_P005_B003",
+      "panel": "PHILIPPIANS_03_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5725,
+        0.6267,
+        0.4096,
+        0.1154
+      ],
+      "tail": [
+        0.7773,
+        0.7806
+      ],
+      "text_key": "philippians.3.p5.b3"
+    }
+  ]
+}

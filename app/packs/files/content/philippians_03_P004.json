@@ -1,0 +1,115 @@
+{
+  "id": "PHILIPPIANS_03_P004",
+  "book": "philippians",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:12-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ],
+      "alt": {
+        "zh-CN": "这不是说我已经得到了，已经完全了；我是竭力追求，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_03_P004_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.4147
+      ],
+      "alt": {
+        "zh-CN": "我只有一件事，就是忘记背后的，努力面前的，向着目标直跑，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_03_P004_F3",
+      "box": [
+        0,
+        0.666,
+        0.5703,
+        0.334
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_03_P004_F4",
+      "box": [
+        0.5771,
+        0.666,
+        0.4229,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "然而，我们到了什么程度，就照着这程度去行。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_03_P004_B001",
+      "panel": "PHILIPPIANS_03_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0097,
+        0.42,
+        0.0584
+      ],
+      "tail": [
+        0.76,
+        0.0924
+      ],
+      "text_key": "philippians.3.p4.b1"
+    },
+    {
+      "id": "PHILIPPIANS_03_P004_B002",
+      "panel": "PHILIPPIANS_03_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2598,
+        0.42,
+        0.0829
+      ],
+      "tail": null,
+      "text_key": "philippians.3.p4.b2"
+    },
+    {
+      "id": "PHILIPPIANS_03_P004_B003",
+      "panel": "PHILIPPIANS_03_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.594,
+        0.8931,
+        0.389,
+        0.0968
+      ],
+      "tail": [
+        0.7885,
+        1
+      ],
+      "text_key": "philippians.3.p4.b3"
+    }
+  ]
+}

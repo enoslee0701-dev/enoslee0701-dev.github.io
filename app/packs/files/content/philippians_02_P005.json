@@ -1,0 +1,115 @@
+{
+  "id": "PHILIPPIANS_02_P005",
+  "book": "philippians",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_02_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5781,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "……就要恐惧战兢，努力活出你们的得救。因为是神在你们心里运行，使你们立志行事，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P005_F2",
+      "box": [
+        0.5859,
+        0,
+        0.4141,
+        0.3001
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_02_P005_F3",
+      "box": [
+        0,
+        0.3034,
+        1,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "你们做一切事，都不要发怨言，不要争论，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P005_F4",
+      "box": [
+        0,
+        0.6341,
+        1,
+        0.3659
+      ],
+      "alt": {
+        "zh-CN": "……你们在这世代中发光，好像明亮的光体，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_02_P005_B001",
+      "panel": "PHILIPPIANS_02_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0173,
+        0.006,
+        0.289,
+        0.036
+      ],
+      "tail": [
+        0.1618,
+        0.072
+      ],
+      "text_key": "philippians.2.p5.b1"
+    },
+    {
+      "id": "PHILIPPIANS_02_P005_B002",
+      "panel": "PHILIPPIANS_02_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3132,
+        0.44,
+        0.0653
+      ],
+      "tail": [
+        0.25,
+        0.4112
+      ],
+      "text_key": "philippians.2.p5.b2"
+    },
+    {
+      "id": "PHILIPPIANS_02_P005_B003",
+      "panel": "PHILIPPIANS_02_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6451,
+        0.92,
+        0.0731
+      ],
+      "tail": null,
+      "text_key": "philippians.2.p5.b3"
+    }
+  ]
+}

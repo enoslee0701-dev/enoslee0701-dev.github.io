@@ -1,0 +1,109 @@
+{
+  "id": "PHILIPPIANS_01_P005",
+  "book": "philippians",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我愿意你们知道，我所遇到的事反而使福音更加兴旺，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P005_F2",
+      "box": [
+        0,
+        0.265,
+        1,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "以致我受的锁链在整个御营和其余的人当中，都已经清楚是为了基督的缘故。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P005_F3",
+      "box": [
+        0,
+        0.6517,
+        1,
+        0.3483
+      ],
+      "alt": {
+        "zh-CN": "……在主里的弟兄大多因我受的锁链而更加坚信，越发放胆传讲　神的道，毫无惧怕。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_01_P005_B001",
+      "panel": "PHILIPPIANS_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.43,
+        0.0079,
+        0.28,
+        0.0787
+      ],
+      "tail": [
+        0.57,
+        0.1128
+      ],
+      "text_key": "philippians.1.p5.b1"
+    },
+    {
+      "id": "PHILIPPIANS_01_P005_B002",
+      "panel": "PHILIPPIANS_01_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.2766,
+        0.36,
+        0.077
+      ],
+      "tail": [
+        0.8,
+        0.3921
+      ],
+      "text_key": "philippians.1.p5.b2"
+    },
+    {
+      "id": "PHILIPPIANS_01_P005_B003",
+      "panel": "PHILIPPIANS_01_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6621,
+        0.44,
+        0.0766
+      ],
+      "tail": [
+        0.25,
+        0.7735
+      ],
+      "text_key": "philippians.1.p5.b3"
+    }
+  ]
+}

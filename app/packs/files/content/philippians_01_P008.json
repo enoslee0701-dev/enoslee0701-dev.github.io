@@ -1,0 +1,139 @@
+{
+  "id": "PHILIPPIANS_01_P008",
+  "book": "philippians",
+  "chapter": 1,
+  "page": 8,
+  "ref": "1:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_01_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_01_P008_F1",
+      "box": [
+        0,
+        0,
+        0.4375,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "使你们因我再到你们那里，在基督耶稣里的喜乐更加增多。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P008_F2",
+      "box": [
+        0.4473,
+        0,
+        0.5527,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "……知道你们同心站立得稳，为所信的福音齐心奋斗。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P008_F3",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "你们所经历的争战，和你们从前在我身上看见的、"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P008_F4",
+      "box": [
+        0,
+        0.6406,
+        1,
+        0.3594
+      ],
+      "alt": {
+        "zh-CN": "现在所听到的一样。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_01_P008_B001",
+      "panel": "PHILIPPIANS_01_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0175,
+        0.1922,
+        0.4025,
+        0.0667
+      ],
+      "tail": [
+        0.2188,
+        0.2669
+      ],
+      "text_key": "philippians.1.p8.b1"
+    },
+    {
+      "id": "PHILIPPIANS_01_P008_B002",
+      "panel": "PHILIPPIANS_01_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4694,
+        0.008,
+        0.5084,
+        0.0533
+      ],
+      "tail": [
+        0.7236,
+        0.088
+      ],
+      "text_key": "philippians.1.p8.b2"
+    },
+    {
+      "id": "PHILIPPIANS_01_P008_B003",
+      "panel": "PHILIPPIANS_01_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.5484,
+        0.28,
+        0.073
+      ],
+      "tail": [
+        0.84,
+        0.636
+      ],
+      "text_key": "philippians.1.p8.b3"
+    },
+    {
+      "id": "PHILIPPIANS_01_P008_B004",
+      "panel": "PHILIPPIANS_01_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.5,
+        0.6514,
+        0.24,
+        0.0718
+      ],
+      "tail": [
+        0.62,
+        0.7591
+      ],
+      "text_key": "philippians.1.p8.b4"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "PHILIPPIANS_04_P007",
+  "book": "philippians",
+  "chapter": 4,
+  "page": 7,
+  "ref": "4:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_04_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_04_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "请问候在基督耶稣里的每一位圣徒。和我在一起的弟兄们都问候你们。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P007_F2",
+      "box": [
+        0,
+        0.2826,
+        1,
+        0.2174
+      ],
+      "alt": {
+        "zh-CN": "众圣徒都问候你们，特别是凯撒家里的人。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P007_F3",
+      "box": [
+        0,
+        0.5039,
+        1,
+        0.4961
+      ],
+      "alt": {
+        "zh-CN": "愿主耶稣基督的恩典常在你们心里！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_04_P007_B001",
+      "panel": "PHILIPPIANS_04_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0084,
+        0.42,
+        0.0417
+      ],
+      "tail": [
+        0.24,
+        0.078
+      ],
+      "text_key": "philippians.4.p7.b1"
+    },
+    {
+      "id": "PHILIPPIANS_04_P007_B002",
+      "panel": "PHILIPPIANS_04_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.3,
+        0.44,
+        0.0869
+      ],
+      "tail": [
+        0.74,
+        0.4086
+      ],
+      "text_key": "philippians.4.p7.b2"
+    },
+    {
+      "id": "PHILIPPIANS_04_P007_B003",
+      "panel": "PHILIPPIANS_04_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5,
+        0.5188,
+        0.46,
+        0.0694
+      ],
+      "tail": [
+        0.73,
+        0.6378
+      ],
+      "text_key": "philippians.4.p7.b3"
+    }
+  ]
+}

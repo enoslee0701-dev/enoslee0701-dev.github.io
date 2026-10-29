@@ -1,0 +1,118 @@
+{
+  "id": "PHILIPPIANS_01_P006",
+  "book": "philippians",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_01_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4707,
+        0.3158
+      ],
+      "alt": {
+        "zh-CN": "有些人传基督是出于嫉妒和纷争，也有些人是出于好意。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P006_F2",
+      "box": [
+        0.4805,
+        0,
+        0.5195,
+        0.3158
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_01_P006_F3",
+      "box": [
+        0,
+        0.3203,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "那些人传基督是出于自私的野心，并不真诚，想要增加我在锁链中的痛苦。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P006_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "那又有什么关系呢？不论是假意还是真心，无论怎样，基督总是被传开了。为此我就欢喜，并且还要继续欢喜；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_01_P006_B001",
+      "panel": "PHILIPPIANS_01_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0188,
+        0.2337,
+        0.433,
+        0.0726
+      ],
+      "tail": [
+        0.2353,
+        0.3158
+      ],
+      "text_key": "philippians.1.p6.b1"
+    },
+    {
+      "id": "PHILIPPIANS_01_P006_B002",
+      "panel": "PHILIPPIANS_01_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.3281,
+        0.4,
+        0.0517
+      ],
+      "tail": [
+        0.5,
+        0.4057
+      ],
+      "text_key": "philippians.1.p6.b2"
+    },
+    {
+      "id": "PHILIPPIANS_01_P006_B003",
+      "panel": "PHILIPPIANS_01_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.8915,
+        0.5,
+        0.0959
+      ],
+      "tail": [
+        0.28,
+        1
+      ],
+      "text_key": "philippians.1.p6.b3"
+    }
+  ]
+}

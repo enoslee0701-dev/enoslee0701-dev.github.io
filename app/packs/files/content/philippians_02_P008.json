@@ -1,0 +1,136 @@
+{
+  "id": "PHILIPPIANS_02_P008",
+  "book": "philippians",
+  "chapter": 2,
+  "page": 8,
+  "ref": "2:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_02_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_02_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "然而，我想必须打发以巴弗提到你们那里去。他是我的弟兄，和我一同做工，一同作战，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P008_F2",
+      "box": [
+        0,
+        0.2591,
+        0.3301,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "他很想念你们大家，并且非常难过，因为你们听说他病了。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P008_F3",
+      "box": [
+        0.3379,
+        0.2591,
+        0.6621,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "他确实病了，几乎要死；"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P008_F4",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "然而上帝怜悯他，不但怜悯他，也怜悯我，免得我忧愁上加忧愁。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_02_P008_B001",
+      "panel": "PHILIPPIANS_02_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.0051,
+        0.42,
+        0.0459
+      ],
+      "tail": [
+        0.41,
+        0.0765
+      ],
+      "text_key": "philippians.2.p8.b1"
+    },
+    {
+      "id": "PHILIPPIANS_02_P008_B002",
+      "panel": "PHILIPPIANS_02_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0132,
+        0.2712,
+        0.297,
+        0.0724
+      ],
+      "tail": [
+        0.1617,
+        0.3838
+      ],
+      "text_key": "philippians.2.p8.b2"
+    },
+    {
+      "id": "PHILIPPIANS_02_P008_B003",
+      "panel": "PHILIPPIANS_02_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6822,
+        0.2712,
+        0.2979,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "philippians.2.p8.b3"
+    },
+    {
+      "id": "PHILIPPIANS_02_P008_B004",
+      "panel": "PHILIPPIANS_02_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.41,
+        0.6727,
+        0.25,
+        0.0734
+      ],
+      "tail": [
+        0.535,
+        0.7795
+      ],
+      "text_key": "philippians.2.p8.b4"
+    }
+  ]
+}

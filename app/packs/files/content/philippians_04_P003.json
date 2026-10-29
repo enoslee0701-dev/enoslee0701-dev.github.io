@@ -1,0 +1,97 @@
+{
+  "id": "PHILIPPIANS_04_P003",
+  "book": "philippians",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，还有话要说：凡是真实的、可敬的、公义的、纯洁的、可爱的、有好名声的，有什么美德、值得称赞的，你们都要放在心上。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P003_F2",
+      "box": [
+        0,
+        0.3177,
+        0.3271,
+        0.3906
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_04_P003_F3",
+      "box": [
+        0.333,
+        0.3177,
+        0.667,
+        0.3906
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_04_P003_F4",
+      "box": [
+        0,
+        0.7109,
+        1,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "你们在我身上学到的、领受的、听见的、看见的，都要去实行，赐平安的神就必与你们同在。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_04_P003_B001",
+      "panel": "PHILIPPIANS_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.2206,
+        0.92,
+        0.085
+      ],
+      "tail": [
+        0.5,
+        0.3151
+      ],
+      "text_key": "philippians.4.p3.b1"
+    },
+    {
+      "id": "PHILIPPIANS_04_P003_B002",
+      "panel": "PHILIPPIANS_04_P003_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.7225,
+        0.44,
+        0.0636
+      ],
+      "tail": [
+        0.74,
+        0.815
+      ],
+      "text_key": "philippians.4.p3.b2"
+    }
+  ]
+}

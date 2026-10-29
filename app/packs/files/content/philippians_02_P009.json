@@ -1,0 +1,106 @@
+{
+  "id": "PHILIPPIANS_02_P009",
+  "book": "philippians",
+  "chapter": 2,
+  "page": 9,
+  "ref": "2:28-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_02_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_02_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "所以我更加急速打发他去，让你们再见到他，就可以喜乐，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P009_F2",
+      "box": [
+        0,
+        0.2871,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "所以，你们要在主里欢欢喜喜地接待他，并且要尊重这样的人；"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_02_P009_F3",
+      "box": [
+        0,
+        0.5371,
+        1,
+        0.4629
+      ],
+      "alt": {
+        "zh-CN": "因为他为了基督的工作，几乎死了，不顾自己的性命，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_02_P009_B001",
+      "panel": "PHILIPPIANS_02_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.0085,
+        0.18,
+        0.0849
+      ],
+      "tail": [
+        0.73,
+        0.1217
+      ],
+      "text_key": "philippians.2.p9.b1"
+    },
+    {
+      "id": "PHILIPPIANS_02_P009_B002",
+      "panel": "PHILIPPIANS_02_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.2994,
+        0.37,
+        0.0616
+      ],
+      "tail": [
+        0.785,
+        0.3857
+      ],
+      "text_key": "philippians.2.p9.b2"
+    },
+    {
+      "id": "PHILIPPIANS_02_P009_B003",
+      "panel": "PHILIPPIANS_02_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.5464,
+        0.4,
+        0.0648
+      ],
+      "tail": null,
+      "text_key": "philippians.2.p9.b3"
+    }
+  ]
+}

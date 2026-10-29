@@ -1,0 +1,91 @@
+{
+  "id": "PHILIPPIANS_01_P001",
+  "book": "philippians",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3874
+      ],
+      "alt": {
+        "zh-CN": "从罗马到腓立比"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P001_F2",
+      "box": [
+        0,
+        0.3906,
+        1,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "基督耶稣的仆人保罗和提摩太"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P001_F3",
+      "box": [
+        0,
+        0.6901,
+        1,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "写信给所有住在腓立比、在基督耶稣里的圣徒，以及各位监督和执事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_01_P001_B001",
+      "panel": "PHILIPPIANS_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.3995,
+        0.39,
+        0.0533
+      ],
+      "tail": [
+        0.775,
+        0.4824
+      ],
+      "text_key": "philippians.1.p1.b1"
+    },
+    {
+      "id": "PHILIPPIANS_01_P001_B002",
+      "panel": "PHILIPPIANS_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6994,
+        0.46,
+        0.0526
+      ],
+      "tail": [
+        0.26,
+        0.783
+      ],
+      "text_key": "philippians.1.p1.b2"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "PHILIPPIANS_03_P006",
+  "book": "philippians",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_03_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "我们却是天上的公民，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_03_P006_F2",
+      "box": [
+        0,
+        0.2311,
+        1,
+        0.4681
+      ],
+      "alt": {
+        "zh-CN": "……并且等候救主，就是主耶稣基督从天上降临。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_03_P006_F3",
+      "box": [
+        0,
+        0.7038,
+        1,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "他要按着那能使万有归服自己的大能，把我们这卑贱的身体改变形状，和他自己荣耀的身体相似。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_03_P006_B001",
+      "panel": "PHILIPPIANS_03_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0068,
+        0.44,
+        0.0499
+      ],
+      "tail": null,
+      "text_key": "philippians.3.p6.b1"
+    },
+    {
+      "id": "PHILIPPIANS_03_P006_B002",
+      "panel": "PHILIPPIANS_03_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2592,
+        0.39,
+        0.1872
+      ],
+      "tail": [
+        0.775,
+        0.4932
+      ],
+      "text_key": "philippians.3.p6.b2"
+    },
+    {
+      "id": "PHILIPPIANS_03_P006_B003",
+      "panel": "PHILIPPIANS_03_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.7156,
+        0.47,
+        0.0888
+      ],
+      "tail": null,
+      "text_key": "philippians.3.p6.b3"
+    }
+  ]
+}

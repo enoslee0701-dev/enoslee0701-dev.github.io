@@ -1,0 +1,133 @@
+{
+  "id": "PHILIPPIANS_04_P006",
+  "book": "philippians",
+  "chapter": 4,
+  "page": 6,
+  "ref": "4:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_04_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_04_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.181
+      ],
+      "alt": {
+        "zh-CN": "但我样样都有，而且有余。我已经充足了，因为我从以巴弗提那里收到了你们的礼物，"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P006_F2",
+      "box": [
+        0,
+        0.1862,
+        0.3564,
+        0.3932
+      ]
+    },
+    {
+      "id": "PHILIPPIANS_04_P006_F3",
+      "box": [
+        0.3643,
+        0.1862,
+        0.6357,
+        0.3932
+      ],
+      "alt": {
+        "zh-CN": "这是馨香的供物，是神所收纳、所喜悦的祭物。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_04_P006_F4",
+      "box": [
+        0,
+        0.5846,
+        1,
+        0.4154
+      ],
+      "alt": {
+        "zh-CN": "我的神必照着他在基督耶稣里荣耀的丰富，充足供应你们一切的需要。　愿荣耀归给我们的父神，直到永永远远。阿们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_04_P006_B001",
+      "panel": "PHILIPPIANS_04_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0072,
+        0.5,
+        0.0506
+      ],
+      "tail": [
+        0.29,
+        0.0759
+      ],
+      "text_key": "philippians.4.p6.b1"
+    },
+    {
+      "id": "PHILIPPIANS_04_P006_B002",
+      "panel": "PHILIPPIANS_04_P006_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3897,
+        0.2019,
+        0.2797,
+        0.0865
+      ],
+      "tail": null,
+      "text_key": "philippians.4.p6.b2"
+    },
+    {
+      "id": "PHILIPPIANS_04_P006_B003",
+      "panel": "PHILIPPIANS_04_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.5971,
+        0.52,
+        0.0498
+      ],
+      "tail": [
+        0.7,
+        0.6884
+      ],
+      "text_key": "philippians.4.p6.b3"
+    },
+    {
+      "id": "PHILIPPIANS_04_P006_B004",
+      "panel": "PHILIPPIANS_04_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.5,
+        0.9335,
+        0.46,
+        0.054
+      ],
+      "tail": [
+        0.73,
+        1
+      ],
+      "text_key": "philippians.4.p6.b4"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "PHILIPPIANS_01_P007",
+  "book": "philippians",
+  "chapter": 1,
+  "page": 7,
+  "ref": "1:19-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILIPPIANS_01_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILIPPIANS_01_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1953
+      ],
+      "alt": {
+        "zh-CN": "……无论是活着还是死去，总要让基督在我身上照常被尊为大。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P007_F2",
+      "box": [
+        0,
+        0.1986,
+        1,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "因为对我来说，活着就是基督，死了就有益处。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P007_F3",
+      "box": [
+        0,
+        0.6719,
+        0.4951,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "我正处在两难之间：我渴望离开世界与基督同在，因为这是好得无比的。"
+      }
+    },
+    {
+      "id": "PHILIPPIANS_01_P007_F4",
+      "box": [
+        0.5,
+        0.6719,
+        0.5,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "然而，我活在肉身里，对你们更加重要。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILIPPIANS_01_P007_B001",
+      "panel": "PHILIPPIANS_01_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.0059,
+        0.32,
+        0.0429
+      ],
+      "tail": [
+        0.82,
+        0.0683
+      ],
+      "text_key": "philippians.1.p7.b1"
+    },
+    {
+      "id": "PHILIPPIANS_01_P007_B002",
+      "panel": "PHILIPPIANS_01_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2174,
+        0.36,
+        0.1034
+      ],
+      "tail": [
+        0.21,
+        0.3678
+      ],
+      "text_key": "philippians.1.p7.b2"
+    },
+    {
+      "id": "PHILIPPIANS_01_P007_B003",
+      "panel": "PHILIPPIANS_01_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.9147,
+        0.4554,
+        0.0754
+      ],
+      "tail": [
+        0.2475,
+        1
+      ],
+      "text_key": "philippians.1.p7.b3"
+    },
+    {
+      "id": "PHILIPPIANS_01_P007_B004",
+      "panel": "PHILIPPIANS_01_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.6817,
+        0.28,
+        0.0459
+      ],
+      "tail": [
+        0.84,
+        0.7604
+      ],
+      "text_key": "philippians.1.p7.b4"
+    }
+  ]
+}
