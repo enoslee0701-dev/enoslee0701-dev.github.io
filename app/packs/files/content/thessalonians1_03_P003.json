@@ -1,0 +1,127 @@
+{
+  "id": "THESSALONIANS1_03_P003",
+  "book": "thessalonians1",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "我们在神面前，因着你们非常喜乐；为这一切喜乐，我们能用怎样的感谢为你们报答神呢？"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_03_P003_F2",
+      "box": [
+        0,
+        0.4004,
+        1,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "我们日夜恳切地祈求，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_03_P003_F3",
+      "box": [
+        0,
+        0.6348,
+        1,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "要见你们的面，补足你们信心的不足。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_03_P003_B001",
+      "panel": "THESSALONIANS1_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0119,
+        0.4,
+        0.0303
+      ],
+      "tail": [
+        0.76,
+        0.0819
+      ],
+      "text_key": "thessalonians1.3.p3.b1"
+    },
+    {
+      "id": "THESSALONIANS1_03_P003_B002",
+      "panel": "THESSALONIANS1_03_P003_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0502,
+        0.4,
+        0.041
+      ],
+      "tail": [
+        0.76,
+        0.1309
+      ],
+      "text_key": "thessalonians1.3.p3.b2"
+    },
+    {
+      "id": "THESSALONIANS1_03_P003_B003",
+      "panel": "THESSALONIANS1_03_P003_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.4096,
+        0.18,
+        0.0691
+      ],
+      "tail": [
+        0.53,
+        0.5018
+      ],
+      "text_key": "thessalonians1.3.p3.b3"
+    },
+    {
+      "id": "THESSALONIANS1_03_P003_B004",
+      "panel": "THESSALONIANS1_03_P003_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6494,
+        0.27,
+        0.0584
+      ],
+      "tail": [
+        0.635,
+        0.7443
+      ],
+      "text_key": "thessalonians1.3.p3.b4"
+    }
+  ]
+}

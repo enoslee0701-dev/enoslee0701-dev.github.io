@@ -1,0 +1,109 @@
+{
+  "id": "THESSALONIANS1_04_P005",
+  "book": "thessalonians1",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "因为主必亲自从天降临，有发令的呼声、天使长的声音和神的号声；那在基督里死了的人必先复活。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P005_F2",
+      "box": [
+        0,
+        0.265,
+        1,
+        0.4251
+      ],
+      "alt": {
+        "zh-CN": "然后我们这些活着、存留的人，必和他们一同被提到云里，在空中与主相遇。这样，我们就要和主永远在一起。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P005_F3",
+      "box": [
+        0,
+        0.694,
+        1,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "所以，你们要用这些话彼此安慰。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_04_P005_B001",
+      "panel": "THESSALONIANS1_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0104,
+        0.44,
+        0.0626
+      ],
+      "tail": [
+        0.74,
+        0.0991
+      ],
+      "text_key": "thessalonians1.4.p5.b1"
+    },
+    {
+      "id": "THESSALONIANS1_04_P005_B002",
+      "panel": "THESSALONIANS1_04_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2778,
+        0.42,
+        0.0595
+      ],
+      "tail": [
+        0.24,
+        0.3798
+      ],
+      "text_key": "thessalonians1.4.p5.b2"
+    },
+    {
+      "id": "THESSALONIANS1_04_P005_B003",
+      "panel": "THESSALONIANS1_04_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.9327,
+        0.3,
+        0.055
+      ],
+      "tail": [
+        0.17,
+        1
+      ],
+      "text_key": "thessalonians1.4.p5.b3"
+    }
+  ]
+}

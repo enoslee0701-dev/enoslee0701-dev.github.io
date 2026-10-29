@@ -1,0 +1,109 @@
+{
+  "id": "THESSALONIANS1_04_P001",
+  "book": "thessalonians1",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我还有话要说：我们靠着主耶稣请求你们、劝勉你们……要照你们现在所行的，更加努力。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P001_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "神的旨意就是要你们成为圣洁，远离淫乱；"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P001_F3",
+      "box": [
+        0,
+        0.6413,
+        1,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "要你们各人懂得怎样用圣洁、尊重的方式守住自己的身体，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_04_P001_B001",
+      "panel": "THESSALONIANS1_04_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.008,
+        0.5,
+        0.0532
+      ],
+      "tail": [
+        0.71,
+        0.0878
+      ],
+      "text_key": "thessalonians1.4.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS1_04_P001_B002",
+      "panel": "THESSALONIANS1_04_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2818,
+        0.4,
+        0.0513
+      ],
+      "tail": [
+        0.76,
+        0.3698
+      ],
+      "text_key": "thessalonians1.4.p1.b2"
+    },
+    {
+      "id": "THESSALONIANS1_04_P001_B003",
+      "panel": "THESSALONIANS1_04_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6592,
+        0.26,
+        0.1434
+      ],
+      "tail": [
+        0.15,
+        0.8385
+      ],
+      "text_key": "thessalonians1.4.p1.b3"
+    }
+  ]
+}

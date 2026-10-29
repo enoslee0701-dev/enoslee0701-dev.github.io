@@ -1,0 +1,124 @@
+{
+  "id": "THESSALONIANS1_05_P005",
+  "book": "thessalonians1",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2201
+      ]
+    },
+    {
+      "id": "THESSALONIANS1_05_P005_F2",
+      "box": [
+        0,
+        0.2246,
+        1,
+        0.4961
+      ],
+      "alt": {
+        "zh-CN": "要常常喜乐，／不停地祷告，／凡事感恩；"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_05_P005_F3",
+      "box": [
+        0,
+        0.7246,
+        1,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "因为这是神在基督耶稣里为你们定下的旨意。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_05_P005_B001",
+      "panel": "THESSALONIANS1_05_P005_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.06,
+        0.2395,
+        0.88,
+        0.014
+      ],
+      "tail": [
+        0.5,
+        0.3031
+      ],
+      "text_key": "thessalonians1.5.p5.b1"
+    },
+    {
+      "id": "THESSALONIANS1_05_P005_B002",
+      "panel": "THESSALONIANS1_05_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.06,
+        0.2634,
+        0.88,
+        0.014
+      ],
+      "tail": [
+        0.5,
+        0.327
+      ],
+      "text_key": "thessalonians1.5.p5.b2"
+    },
+    {
+      "id": "THESSALONIANS1_05_P005_B003",
+      "panel": "THESSALONIANS1_05_P005_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.06,
+        0.2873,
+        0.88,
+        0.0116
+      ],
+      "tail": [
+        0.5,
+        0.3485
+      ],
+      "text_key": "thessalonians1.5.p5.b3"
+    },
+    {
+      "id": "THESSALONIANS1_05_P005_B004",
+      "panel": "THESSALONIANS1_05_P005_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.72,
+        0.7356,
+        0.26,
+        0.0991
+      ],
+      "tail": [
+        0.85,
+        0.8622
+      ],
+      "text_key": "thessalonians1.5.p5.b4"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "THESSALONIANS1_04_P002",
+  "book": "thessalonians1",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "不要有人在这事上越过界限，欺负他的弟兄；"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P002_F2",
+      "box": [
+        0,
+        0.4336,
+        1,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "神呼召我们，不是要我们污秽，而是要我们成为圣洁。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P002_F3",
+      "box": [
+        0,
+        0.7135,
+        1,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "所以，弃绝这教导的，不是弃绝人，而是弃绝那赐圣灵给你们的神。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_04_P002_B001",
+      "panel": "THESSALONIANS1_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0129,
+        0.44,
+        0.0728
+      ],
+      "tail": [
+        0.25,
+        0.1285
+      ],
+      "text_key": "thessalonians1.4.p2.b1"
+    },
+    {
+      "id": "THESSALONIANS1_04_P002_B002",
+      "panel": "THESSALONIANS1_04_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.4419,
+        0.38,
+        0.0498
+      ],
+      "tail": [
+        0.77,
+        0.5194
+      ],
+      "text_key": "thessalonians1.4.p2.b2"
+    },
+    {
+      "id": "THESSALONIANS1_04_P002_B003",
+      "panel": "THESSALONIANS1_04_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.725,
+        0.42,
+        0.0515
+      ],
+      "tail": [
+        0.75,
+        0.8051
+      ],
+      "text_key": "thessalonians1.4.p2.b3"
+    }
+  ]
+}

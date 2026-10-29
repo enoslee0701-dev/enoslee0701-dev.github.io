@@ -1,0 +1,136 @@
+{
+  "id": "THESSALONIANS1_05_P007",
+  "book": "thessalonians1",
+  "chapter": 5,
+  "page": 7,
+  "ref": "5:23-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_05_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_05_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2077
+      ],
+      "alt": {
+        "zh-CN": "愿赐平安的神亲自使你们完全成为圣洁！……"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_05_P007_F2",
+      "box": [
+        0,
+        0.2103,
+        1,
+        0.2083
+      ],
+      "alt": {
+        "zh-CN": "要用圣洁的亲吻问候所有的弟兄。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_05_P007_F3",
+      "box": [
+        0,
+        0.4219,
+        1,
+        0.1732
+      ],
+      "alt": {
+        "zh-CN": "我靠着主嘱咐你们，要把这封信念给所有的弟兄听。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_05_P007_F4",
+      "box": [
+        0,
+        0.5983,
+        1,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "愿我们主耶稣基督的恩典常与你们同在！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_05_P007_B001",
+      "panel": "THESSALONIANS1_05_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0083,
+        0.4,
+        0.0456
+      ],
+      "tail": [
+        0.76,
+        0.0747
+      ],
+      "text_key": "thessalonians1.5.p7.b1"
+    },
+    {
+      "id": "THESSALONIANS1_05_P007_B002",
+      "panel": "THESSALONIANS1_05_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.2165,
+        0.3,
+        0.0333
+      ],
+      "tail": [
+        0.51,
+        0.2706
+      ],
+      "text_key": "thessalonians1.5.p7.b2"
+    },
+    {
+      "id": "THESSALONIANS1_05_P007_B003",
+      "panel": "THESSALONIANS1_05_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.4288,
+        0.26,
+        0.0519
+      ],
+      "tail": [
+        0.57,
+        0.498
+      ],
+      "text_key": "thessalonians1.5.p7.b3"
+    },
+    {
+      "id": "THESSALONIANS1_05_P007_B004",
+      "panel": "THESSALONIANS1_05_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6104,
+        0.36,
+        0.0562
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.5.p7.b4"
+    }
+  ]
+}

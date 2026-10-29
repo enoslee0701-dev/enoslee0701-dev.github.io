@@ -1,0 +1,106 @@
+{
+  "id": "THESSALONIANS1_04_P004",
+  "book": "thessalonians1",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:13-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4583
+      ],
+      "alt": {
+        "zh-CN": "关于已经睡了的人，弟兄们，我们不希望你们不知道，免得你们像那些没有盼望的人一样忧伤。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P004_F2",
+      "box": [
+        0,
+        0.4616,
+        1,
+        0.2311
+      ],
+      "alt": {
+        "zh-CN": "我们若信耶稣死了又复活，那么在耶稣里睡了的人，神也必定把他们和耶稣一同带来。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P004_F3",
+      "box": [
+        0,
+        0.6953,
+        1,
+        0.3047
+      ],
+      "alt": {
+        "zh-CN": "我们现在照主的话告诉你们：我们这些活着、存留到主降临的人，绝不会比已经睡了的人先去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_04_P004_B001",
+      "panel": "THESSALONIANS1_04_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0183,
+        0.48,
+        0.0733
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.4.p4.b1"
+    },
+    {
+      "id": "THESSALONIANS1_04_P004_B002",
+      "panel": "THESSALONIANS1_04_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.4708,
+        0.4,
+        0.0415
+      ],
+      "tail": [
+        0.23,
+        0.5354
+      ],
+      "text_key": "thessalonians1.4.p4.b2"
+    },
+    {
+      "id": "THESSALONIANS1_04_P004_B003",
+      "panel": "THESSALONIANS1_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.7075,
+        0.42,
+        0.0548
+      ],
+      "tail": [
+        0.75,
+        0.7928
+      ],
+      "text_key": "thessalonians1.4.p4.b3"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "THESSALONIANS1_01_P003",
+  "book": "thessalonians1",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1855
+      ],
+      "alt": {
+        "zh-CN": "主的道从你们那里已经传扬出去。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P003_F2",
+      "box": [
+        0,
+        0.1875,
+        1,
+        0.1882
+      ],
+      "alt": {
+        "zh-CN": "他们自己就在述说，我们是怎样进到你们那里，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P003_F3",
+      "box": [
+        0,
+        0.3776,
+        1,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "你们是怎样离弃偶像归向神，要服事又真又活的神，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P003_F4",
+      "box": [
+        0,
+        0.7181,
+        1,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "等候他的儿子从天降临，就是神使他从死里复活的耶稣，他救我们脱离将来的忿怒。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_01_P003_B001",
+      "panel": "THESSALONIANS1_01_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0074,
+        0.42,
+        0.0371
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.1.p3.b1"
+    },
+    {
+      "id": "THESSALONIANS1_01_P003_B002",
+      "panel": "THESSALONIANS1_01_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.195,
+        0.32,
+        0.0451
+      ],
+      "tail": [
+        0.82,
+        0.2589
+      ],
+      "text_key": "thessalonians1.1.p3.b2"
+    },
+    {
+      "id": "THESSALONIANS1_01_P003_B003",
+      "panel": "THESSALONIANS1_01_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.68,
+        0.3945,
+        0.3,
+        0.0743
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.1.p3.b3"
+    },
+    {
+      "id": "THESSALONIANS1_01_P003_B004",
+      "panel": "THESSALONIANS1_01_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7294,
+        0.45,
+        0.0845
+      ],
+      "tail": [
+        0.255,
+        0.8421
+      ],
+      "text_key": "thessalonians1.1.p3.b4"
+    }
+  ]
+}

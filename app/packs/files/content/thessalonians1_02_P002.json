@@ -1,0 +1,115 @@
+{
+  "id": "THESSALONIANS1_02_P002",
+  "book": "thessalonians1",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "我们从来没有说过奉承的话，这是你们知道的；也没有藏着贪心，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P002_F2",
+      "box": [
+        0,
+        0.2507,
+        1,
+        0.3815
+      ],
+      "alt": {
+        "zh-CN": "只在你们中间存心温柔，像母亲哺育自己的孩子。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P002_F3",
+      "box": [
+        0,
+        0.6361,
+        0.5537,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "不但愿意把神的福音给你们，连自己的性命也愿意给你们，因为你们是我们所疼爱的。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P002_F4",
+      "box": [
+        0.5605,
+        0.6361,
+        0.4395,
+        0.3639
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_02_P002_B001",
+      "panel": "THESSALONIANS1_02_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0098,
+        0.4,
+        0.0539
+      ],
+      "tail": [
+        0.5,
+        0.0882
+      ],
+      "text_key": "thessalonians1.2.p2.b1"
+    },
+    {
+      "id": "THESSALONIANS1_02_P002_B002",
+      "panel": "THESSALONIANS1_02_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.266,
+        0.42,
+        0.061
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.2.p2.b2"
+    },
+    {
+      "id": "THESSALONIANS1_02_P002_B003",
+      "panel": "THESSALONIANS1_02_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2879,
+        0.6507,
+        0.2436,
+        0.0727
+      ],
+      "tail": [
+        0.4097,
+        0.7598
+      ],
+      "text_key": "thessalonians1.2.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "THESSALONIANS1_03_P001",
+  "book": "thessalonians1",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2233
+      ],
+      "alt": {
+        "zh-CN": "我们既然不能再忍，就愿意独自留在雅典，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_03_P001_F2",
+      "box": [
+        0,
+        0.2285,
+        1,
+        0.4362
+      ],
+      "alt": {
+        "zh-CN": "（雅典满城的白色石像中间，保罗一个人望着北方。）"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_03_P001_F3",
+      "box": [
+        0,
+        0.6686,
+        0.5146,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "派我们的弟兄提摩太去，坚固你们，在你们所信的道上鼓励你们，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_03_P001_F4",
+      "box": [
+        0.5225,
+        0.6686,
+        0.4775,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "免得有人被各样的患难动摇。因为你们自己知道，我们受患难原是注定的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_03_P001_B001",
+      "panel": "THESSALONIANS1_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0067,
+        0.34,
+        0.0446
+      ],
+      "tail": [
+        0.61,
+        0.0736
+      ],
+      "text_key": "thessalonians1.3.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS1_03_P001_B002",
+      "panel": "THESSALONIANS1_03_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2573,
+        0.6752,
+        0.247,
+        0.0364
+      ],
+      "tail": [
+        0.3808,
+        0.7447
+      ],
+      "text_key": "thessalonians1.3.p1.b2"
+    },
+    {
+      "id": "THESSALONIANS1_03_P001_B003",
+      "panel": "THESSALONIANS1_03_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8377,
+        0.6785,
+        0.1528,
+        0.0927
+      ],
+      "tail": [
+        0.9141,
+        0.8043
+      ],
+      "text_key": "thessalonians1.3.p1.b3"
+    }
+  ]
+}

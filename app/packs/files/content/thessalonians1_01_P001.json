@@ -1,0 +1,100 @@
+{
+  "id": "THESSALONIANS1_01_P001",
+  "book": "thessalonians1",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "从哥林多到帖撒罗尼迦"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P001_F2",
+      "box": [
+        0,
+        0.2956,
+        1,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "保罗、西拉、提摩太写信给帖撒罗尼迦在父神和主耶稣基督里的教会。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P001_F3",
+      "box": [
+        0,
+        0.625,
+        0.4922,
+        0.375
+      ]
+    },
+    {
+      "id": "THESSALONIANS1_01_P001_F4",
+      "box": [
+        0.499,
+        0.625,
+        0.501,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "愿恩典、平安临到你们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_01_P001_B001",
+      "panel": "THESSALONIANS1_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.33,
+        0.3054,
+        0.34,
+        0.0652
+      ],
+      "tail": [
+        0.5,
+        0.4032
+      ],
+      "text_key": "thessalonians1.1.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS1_01_P001_B002",
+      "panel": "THESSALONIANS1_01_P001_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7746,
+        0.6363,
+        0.2104,
+        0.0562
+      ],
+      "tail": [
+        0.8798,
+        0.73
+      ],
+      "text_key": "thessalonians1.1.p1.b2"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "THESSALONIANS1_02_P006",
+  "book": "thessalonians1",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_02_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_02_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "我们的盼望、喜乐和所夸耀的冠冕是什么呢？"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P006_F2",
+      "box": [
+        0,
+        0.2813,
+        1,
+        0.2167
+      ],
+      "alt": {
+        "zh-CN": "不就是在我们主耶稣来的时候，你们能站在他面前吗？"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P006_F3",
+      "box": [
+        0,
+        0.502,
+        1,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "因为你们就是我们的荣耀，我们的喜乐。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_02_P006_B001",
+      "panel": "THESSALONIANS1_02_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0111,
+        0.4,
+        0.0668
+      ],
+      "tail": [
+        0.76,
+        0.1058
+      ],
+      "text_key": "thessalonians1.2.p6.b1"
+    },
+    {
+      "id": "THESSALONIANS1_02_P006_B002",
+      "panel": "THESSALONIANS1_02_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.2943,
+        0.37,
+        0.0866
+      ],
+      "tail": [
+        0.785,
+        0.4026
+      ],
+      "text_key": "thessalonians1.2.p6.b2"
+    },
+    {
+      "id": "THESSALONIANS1_02_P006_B003",
+      "panel": "THESSALONIANS1_02_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.5169,
+        0.42,
+        0.0597
+      ],
+      "tail": [
+        0.51,
+        0.6264
+      ],
+      "text_key": "thessalonians1.2.p6.b3"
+    }
+  ]
+}

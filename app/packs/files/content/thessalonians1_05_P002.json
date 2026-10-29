@@ -1,0 +1,106 @@
+{
+  "id": "THESSALONIANS1_05_P002",
+  "book": "thessalonians1",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3796
+      ],
+      "alt": {
+        "zh-CN": "你们都是光明的儿女，都是白昼的儿女。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_05_P002_F2",
+      "box": [
+        0,
+        0.3835,
+        1,
+        0.2721
+      ],
+      "alt": {
+        "zh-CN": "所以，我们不要像别人一样沉睡，总要清醒谨慎。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_05_P002_F3",
+      "box": [
+        0,
+        0.6602,
+        1,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "但我们既然属于白昼，就应当清醒，把信和爱当作护胸甲穿上，把得救的盼望当作头盔戴上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_05_P002_B001",
+      "panel": "THESSALONIANS1_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0114,
+        0.38,
+        0.0607
+      ],
+      "tail": [
+        0.77,
+        0.1101
+      ],
+      "text_key": "thessalonians1.5.p2.b1"
+    },
+    {
+      "id": "THESSALONIANS1_05_P002_B002",
+      "panel": "THESSALONIANS1_05_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.3917,
+        0.4,
+        0.0435
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.5.p2.b2"
+    },
+    {
+      "id": "THESSALONIANS1_05_P002_B003",
+      "panel": "THESSALONIANS1_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6806,
+        0.38,
+        0.1223
+      ],
+      "tail": [
+        0.77,
+        0.8369
+      ],
+      "text_key": "thessalonians1.5.p2.b3"
+    }
+  ]
+}

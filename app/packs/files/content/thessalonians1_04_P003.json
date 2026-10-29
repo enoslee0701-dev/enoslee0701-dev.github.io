@@ -1,0 +1,106 @@
+{
+  "id": "THESSALONIANS1_04_P003",
+  "book": "thessalonians1",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "至于弟兄间的相爱，不需要人写信给你们；"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P003_F2",
+      "box": [
+        0,
+        0.2923,
+        1,
+        0.2161
+      ],
+      "alt": {
+        "zh-CN": "你们对马其顿全地的弟兄确实是这样做，但我劝弟兄们要更加努力。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_04_P003_F3",
+      "box": [
+        0,
+        0.5117,
+        1,
+        0.4883
+      ],
+      "alt": {
+        "zh-CN": "又要立志过安静的生活，做好自己的事，亲手工作……让你们在外人面前行事端正，自己也没有什么缺乏。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_04_P003_B001",
+      "panel": "THESSALONIANS1_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0087,
+        0.4,
+        0.0579
+      ],
+      "tail": [
+        0.5,
+        0.0956
+      ],
+      "text_key": "thessalonians1.4.p3.b1"
+    },
+    {
+      "id": "THESSALONIANS1_04_P003_B002",
+      "panel": "THESSALONIANS1_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.2966,
+        0.36,
+        0.0302
+      ],
+      "tail": [
+        0.78,
+        0.3484
+      ],
+      "text_key": "thessalonians1.4.p3.b2"
+    },
+    {
+      "id": "THESSALONIANS1_04_P003_B003",
+      "panel": "THESSALONIANS1_04_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5312,
+        0.4,
+        0.0781
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.4.p3.b3"
+    }
+  ]
+}

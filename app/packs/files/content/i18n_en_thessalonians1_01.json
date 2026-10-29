@@ -1,0 +1,102 @@
+{
+  "thessalonians1.1.p1.b1": {
+    "text": "Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p1.b2": {
+    "text": "… Grace and peace to you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p2.b1": {
+    "text": "We always thank God for all of you, remembering you in our prayers",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p2.b2": {
+    "text": "and continually recalling before our God and Father your work of faith, your labor of love, and your enduring hope in our Lord Jesus Christ.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p2.b3": {
+    "text": "because our gospel came to you not only in word, but also in power, in the Holy Spirit, and with great conviction …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p2.b4": {
+    "text": "… you welcomed the message with the joy of the Holy Spirit, in spite of your great suffering.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p3.b1": {
+    "text": "For not only did the message of the Lord ring out from you to Macedonia and Achaia, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p3.b2": {
+    "text": "For they themselves report what kind of welcome you gave us, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p3.b3": {
+    "text": "… and how you turned to God from idols to serve the living and true God",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "thessalonians1.1.p3.b4": {
+    "text": "and to await His Son from heaven, whom He raised from the dead—Jesus our deliverer from the coming wrath.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 Thessalonians 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

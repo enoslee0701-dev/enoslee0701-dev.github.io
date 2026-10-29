@@ -1,0 +1,133 @@
+{
+  "id": "THESSALONIANS1_02_P004",
+  "book": "thessalonians1",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3646
+      ],
+      "alt": {
+        "zh-CN": "为此，我们也不断地感谢神，因为你们听见我们所传神的道就接受了；不认为是人的道，而认为是神的道。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P004_F2",
+      "box": [
+        0,
+        0.3659,
+        1,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "因为你们也受了本地人的苦害，像他们受了犹太人的苦害一样。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P004_F3",
+      "box": [
+        0,
+        0.7188,
+        0.5029,
+        0.2812
+      ],
+      "alt": {
+        "zh-CN": "……又把我们赶出去。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P004_F4",
+      "box": [
+        0.5117,
+        0.7188,
+        0.4883,
+        0.2812
+      ],
+      "alt": {
+        "zh-CN": "不许我们传道给外邦人、使外邦人得救，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_02_P004_B001",
+      "panel": "THESSALONIANS1_02_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0146,
+        0.42,
+        0.0947
+      ],
+      "tail": [
+        0.75,
+        0.1458
+      ],
+      "text_key": "thessalonians1.2.p4.b1"
+    },
+    {
+      "id": "THESSALONIANS1_02_P004_B002",
+      "panel": "THESSALONIANS1_02_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3799,
+        0.42,
+        0.0631
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.2.p4.b2"
+    },
+    {
+      "id": "THESSALONIANS1_02_P004_B003",
+      "panel": "THESSALONIANS1_02_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1509,
+        0.7244,
+        0.2263,
+        0.0365
+      ],
+      "tail": [
+        0.2641,
+        0.789
+      ],
+      "text_key": "thessalonians1.2.p4.b3"
+    },
+    {
+      "id": "THESSALONIANS1_02_P004_B004",
+      "panel": "THESSALONIANS1_02_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7803,
+        0.9438,
+        0.205,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.2.p4.b4"
+    }
+  ]
+}

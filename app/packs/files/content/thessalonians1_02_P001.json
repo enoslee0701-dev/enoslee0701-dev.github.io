@@ -1,0 +1,136 @@
+{
+  "id": "THESSALONIANS1_02_P001",
+  "book": "thessalonians1",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，你们自己知道，我们到你们那里并不是徒然的。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P001_F2",
+      "box": [
+        0,
+        0.2383,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "我们先前在腓立比受苦、被羞辱，这是你们知道的；"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P001_F3",
+      "box": [
+        0,
+        0.6335,
+        0.4941,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "然而还是靠着我们的神放开胆量，在大争战中把神的福音传给你们。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_02_P001_F4",
+      "box": [
+        0.502,
+        0.6335,
+        0.498,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "不是要讨人喜欢，而是要讨那察验我们内心的神喜欢。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_02_P001_B001",
+      "panel": "THESSALONIANS1_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0093,
+        0.4,
+        0.056
+      ],
+      "tail": [
+        0.76,
+        0.0887
+      ],
+      "text_key": "thessalonians1.2.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS1_02_P001_B002",
+      "panel": "THESSALONIANS1_02_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2539,
+        0.4,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.2.p1.b2"
+    },
+    {
+      "id": "THESSALONIANS1_02_P001_B003",
+      "panel": "THESSALONIANS1_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0148,
+        0.6482,
+        0.2174,
+        0.0733
+      ],
+      "tail": [
+        0.1235,
+        0.7582
+      ],
+      "text_key": "thessalonians1.2.p1.b3"
+    },
+    {
+      "id": "THESSALONIANS1_02_P001_B004",
+      "panel": "THESSALONIANS1_02_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8307,
+        0.6482,
+        0.1593,
+        0.0733
+      ],
+      "tail": [
+        0.9104,
+        0.7582
+      ],
+      "text_key": "thessalonians1.2.p1.b4"
+    }
+  ]
+}

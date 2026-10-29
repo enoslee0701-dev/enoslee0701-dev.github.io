@@ -1,0 +1,136 @@
+{
+  "id": "THESSALONIANS1_01_P002",
+  "book": "thessalonians1",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:2-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS1_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS1_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "我们为你们众人常常感谢神，祷告的时候提到你们，"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P002_F2",
+      "box": [
+        0,
+        0.2448,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "不住地记念你们因信心所做的工、因爱心所受的劳苦、因盼望我们主耶稣基督所存的忍耐。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P002_F3",
+      "box": [
+        0,
+        0.6146,
+        0.5547,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "我们的福音传到你们那里，不只是言语，也有权能、圣灵和充足的信心。"
+      }
+    },
+    {
+      "id": "THESSALONIANS1_01_P002_F4",
+      "box": [
+        0.5605,
+        0.6146,
+        0.4395,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "你们在大患难中，带着圣灵所赐的喜乐，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS1_01_P002_B001",
+      "panel": "THESSALONIANS1_01_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0072,
+        0.4,
+        0.0531
+      ],
+      "tail": [
+        0.76,
+        0.0845
+      ],
+      "text_key": "thessalonians1.1.p2.b1"
+    },
+    {
+      "id": "THESSALONIANS1_01_P002_B002",
+      "panel": "THESSALONIANS1_01_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2558,
+        0.4,
+        0.0586
+      ],
+      "tail": [
+        0.23,
+        0.3511
+      ],
+      "text_key": "thessalonians1.1.p2.b2"
+    },
+    {
+      "id": "THESSALONIANS1_01_P002_B003",
+      "panel": "THESSALONIANS1_01_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3051,
+        0.9152,
+        0.2329,
+        0.0693
+      ],
+      "tail": null,
+      "text_key": "thessalonians1.1.p2.b3"
+    },
+    {
+      "id": "THESSALONIANS1_01_P002_B004",
+      "panel": "THESSALONIANS1_01_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8374,
+        0.6262,
+        0.1538,
+        0.0578
+      ],
+      "tail": [
+        0.9143,
+        0.7225
+      ],
+      "text_key": "thessalonians1.1.p2.b4"
+    }
+  ]
+}
