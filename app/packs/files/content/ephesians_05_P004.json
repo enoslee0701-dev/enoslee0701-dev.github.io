@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_05_P004",
+  "book": "ephesians",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:15-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "你们要谨慎行事，……要把握时机，因为现今的世代邪恶。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P004_F2",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "要用诗篇、颂词、灵歌彼此对说，口唱心和地赞美主。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P004_F3",
+      "box": [
+        0,
+        0.7083,
+        0.3828,
+        0.2917
+      ]
+    },
+    {
+      "id": "EPHESIANS_05_P004_F4",
+      "box": [
+        0.3896,
+        0.7083,
+        0.6104,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "又要存敬畏基督的心，彼此顺服。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_05_P004_B001",
+      "panel": "EPHESIANS_05_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.008,
+        0.41,
+        0.0533
+      ],
+      "tail": [
+        0.765,
+        0.088
+      ],
+      "text_key": "ephesians.5.p4.b1"
+    },
+    {
+      "id": "EPHESIANS_05_P004_B002",
+      "panel": "EPHESIANS_05_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.2838,
+        0.45,
+        0.0735
+      ],
+      "tail": [
+        0.745,
+        0.4006
+      ],
+      "text_key": "ephesians.5.p4.b2"
+    },
+    {
+      "id": "EPHESIANS_05_P004_B003",
+      "panel": "EPHESIANS_05_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4079,
+        0.7141,
+        0.3052,
+        0.035
+      ],
+      "tail": [
+        0.5605,
+        0.7783
+      ],
+      "text_key": "ephesians.5.p4.b3"
+    }
+  ]
+}

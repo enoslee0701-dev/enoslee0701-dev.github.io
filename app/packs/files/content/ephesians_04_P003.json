@@ -1,0 +1,136 @@
+{
+  "id": "EPHESIANS_04_P003",
+  "book": "ephesians",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_04_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5098,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "既然说「升上」，岂不是说他先降到地底下吗？"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P003_F2",
+      "box": [
+        0.5176,
+        0,
+        0.4824,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "那降下来的，就是升到诸天之上、要充满万有的那一位。"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P003_F3",
+      "box": [
+        0,
+        0.2493,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "他所赐下的，有使徒，有先知，有传福音的，有牧师和教师，"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P003_F4",
+      "box": [
+        0,
+        0.5371,
+        1,
+        0.4629
+      ],
+      "alt": {
+        "zh-CN": "直到我们众人在信仰上、在认识神的儿子上合而为一，长大成熟，达到基督丰满的身量，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_04_P003_B001",
+      "panel": "EPHESIANS_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0204,
+        0.0073,
+        0.469,
+        0.0538
+      ],
+      "tail": [
+        0.2549,
+        0.0856
+      ],
+      "text_key": "ephesians.4.p3.b1"
+    },
+    {
+      "id": "EPHESIANS_04_P003_B002",
+      "panel": "EPHESIANS_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8167,
+        0.0073,
+        0.1736,
+        0.0636
+      ],
+      "tail": [
+        0.9035,
+        0.0954
+      ],
+      "text_key": "ephesians.4.p3.b2"
+    },
+    {
+      "id": "EPHESIANS_04_P003_B003",
+      "panel": "EPHESIANS_04_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.2606,
+        0.39,
+        0.0623
+      ],
+      "tail": null,
+      "text_key": "ephesians.4.p3.b3"
+    },
+    {
+      "id": "EPHESIANS_04_P003_B004",
+      "panel": "EPHESIANS_04_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.5464,
+        0.92,
+        0.0648
+      ],
+      "tail": [
+        0.5,
+        0.6575
+      ],
+      "text_key": "ephesians.4.p3.b4"
+    }
+  ]
+}

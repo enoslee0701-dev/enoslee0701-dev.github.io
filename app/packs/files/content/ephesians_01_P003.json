@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_01_P003",
+  "book": "ephesians",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_01_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5439,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "我们藉着这爱子的血得到救赎，过犯得到赦免，这是照着他丰富的恩典。"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P003_F2",
+      "box": [
+        0.5508,
+        0,
+        0.4492,
+        0.3079
+      ]
+    },
+    {
+      "id": "EPHESIANS_01_P003_F3",
+      "box": [
+        0,
+        0.3125,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "使我们知道他旨意的奥秘，"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P003_F4",
+      "box": [
+        0,
+        0.5534,
+        1,
+        0.4466
+      ],
+      "alt": {
+        "zh-CN": "要照着他所安排的，在时候满了的时候，使天上、地上的一切都在基督里归于一。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_01_P003_B001",
+      "panel": "EPHESIANS_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0163,
+        0.0092,
+        0.2447,
+        0.0677
+      ],
+      "tail": [
+        0.1387,
+        0.1077
+      ],
+      "text_key": "ephesians.1.p3.b1"
+    },
+    {
+      "id": "EPHESIANS_01_P003_B002",
+      "panel": "EPHESIANS_01_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.3196,
+        0.42,
+        0.0522
+      ],
+      "tail": [
+        0.76,
+        0.3956
+      ],
+      "text_key": "ephesians.1.p3.b2"
+    },
+    {
+      "id": "EPHESIANS_01_P003_B003",
+      "panel": "EPHESIANS_01_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5668,
+        0.34,
+        0.0803
+      ],
+      "tail": [
+        0.2,
+        0.6918
+      ],
+      "text_key": "ephesians.1.p3.b3"
+    }
+  ]
+}

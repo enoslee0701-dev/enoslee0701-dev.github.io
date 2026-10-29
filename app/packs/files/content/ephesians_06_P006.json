@@ -1,0 +1,97 @@
+{
+  "id": "EPHESIANS_06_P006",
+  "book": "ephesians",
+  "chapter": 6,
+  "page": 6,
+  "ref": "6:21-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_06_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_06_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "我们亲爱、在主里忠心服事的弟兄推基古，会把我的事和我的近况全都告诉你们。"
+      }
+    },
+    {
+      "id": "EPHESIANS_06_P006_F2",
+      "box": [
+        0,
+        0.3405,
+        0.4063,
+        0.3242
+      ]
+    },
+    {
+      "id": "EPHESIANS_06_P006_F3",
+      "box": [
+        0.4111,
+        0.3405,
+        0.5889,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "我特地派他到你们那里去，好让你们知道我们的情形，也让他安慰你们的心。"
+      }
+    },
+    {
+      "id": "EPHESIANS_06_P006_F4",
+      "box": [
+        0,
+        0.668,
+        1,
+        0.332
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_06_P006_B001",
+      "panel": "EPHESIANS_06_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0101,
+        0.45,
+        0.0743
+      ],
+      "tail": [
+        0.745,
+        0.1182
+      ],
+      "text_key": "ephesians.6.p6.b1"
+    },
+    {
+      "id": "EPHESIANS_06_P006_B002",
+      "panel": "EPHESIANS_06_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.735,
+        0.3502,
+        0.2473,
+        0.0648
+      ],
+      "tail": [
+        0.8587,
+        0.4474
+      ],
+      "text_key": "ephesians.6.p6.b2"
+    }
+  ]
+}

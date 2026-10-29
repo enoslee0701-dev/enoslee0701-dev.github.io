@@ -1,0 +1,130 @@
+{
+  "id": "EPHESIANS_04_P002",
+  "book": "ephesians",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3926
+      ]
+    },
+    {
+      "id": "EPHESIANS_04_P002_F2",
+      "box": [
+        0,
+        0.3971,
+        0.6045,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "我们每个人所蒙的恩典，都是照着基督所量给的恩赐。"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P002_F3",
+      "box": [
+        0.6123,
+        0.3971,
+        0.3877,
+        0.2396
+      ]
+    },
+    {
+      "id": "EPHESIANS_04_P002_F4",
+      "box": [
+        0,
+        0.6419,
+        1,
+        0.3581
+      ],
+      "alt": {
+        "zh-CN": "所以经上说：「他升上高天的时候，带着被掳的人，把各样的恩赐赏给人。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_04_P002_B001",
+      "panel": "EPHESIANS_04_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.05,
+        0.0079,
+        0.9,
+        0.0259
+      ],
+      "tail": [
+        0.5,
+        0.0731
+      ],
+      "text_key": "ephesians.4.p2.b1"
+    },
+    {
+      "id": "EPHESIANS_04_P002_B002",
+      "panel": "EPHESIANS_04_P002_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.05,
+        0.0417,
+        0.9,
+        0.0211
+      ],
+      "tail": [
+        0.5,
+        0.1021
+      ],
+      "text_key": "ephesians.4.p2.b2"
+    },
+    {
+      "id": "EPHESIANS_04_P002_B003",
+      "panel": "EPHESIANS_04_P002_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0242,
+        0.5792,
+        0.5561,
+        0.0503
+      ],
+      "tail": [
+        0.3023,
+        0.6367
+      ],
+      "text_key": "ephesians.4.p2.b3"
+    },
+    {
+      "id": "EPHESIANS_04_P002_B004",
+      "panel": "EPHESIANS_04_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.73,
+        0.6526,
+        0.25,
+        0.1074
+      ],
+      "tail": null,
+      "text_key": "ephesians.4.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "EPHESIANS_04_P005",
+  "book": "ephesians",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:17-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1953
+      ],
+      "alt": {
+        "zh-CN": "所以我说，并且在主里郑重地说：你们生活不要再像外邦人那样，存着虚妄的心。"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P005_F2",
+      "box": [
+        0,
+        0.1979,
+        0.332,
+        0.5469
+      ],
+      "alt": {
+        "zh-CN": "但你们所学的基督，却不是这样。"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P005_F3",
+      "box": [
+        0.3408,
+        0.1979,
+        0.6592,
+        0.5469
+      ],
+      "alt": {
+        "zh-CN": "就要脱去你们从前生活中的旧人，……"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P005_F4",
+      "box": [
+        0,
+        0.7493,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "并且穿上新人；这新人是照着神的形象所造的，有从真理来的公义和圣洁。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_04_P005_B001",
+      "panel": "EPHESIANS_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0078,
+        0.41,
+        0.0507
+      ],
+      "tail": [
+        0.765,
+        0.078
+      ],
+      "text_key": "ephesians.4.p5.b1"
+    },
+    {
+      "id": "EPHESIANS_04_P005_B002",
+      "panel": "EPHESIANS_04_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0166,
+        0.6026,
+        0.2988,
+        0.1257
+      ],
+      "tail": [
+        0.166,
+        0.7448
+      ],
+      "text_key": "ephesians.4.p5.b2"
+    },
+    {
+      "id": "EPHESIANS_04_P005_B003",
+      "panel": "EPHESIANS_04_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.71,
+        0.2143,
+        0.2702,
+        0.1093
+      ],
+      "tail": [
+        0.8451,
+        0.3783
+      ],
+      "text_key": "ephesians.4.p5.b3"
+    },
+    {
+      "id": "EPHESIANS_04_P005_B004",
+      "panel": "EPHESIANS_04_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7593,
+        0.48,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "ephesians.4.p5.b4"
+    }
+  ]
+}

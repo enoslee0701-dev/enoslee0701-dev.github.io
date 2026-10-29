@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_01_P005",
+  "book": "ephesians",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_01_P005_F1",
+      "box": [
+        0,
+        0,
+        0.6953,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "就为你们不停地感谢神。祷告的时候，常常提到你们，"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P005_F2",
+      "box": [
+        0.7021,
+        0,
+        0.2979,
+        0.3112
+      ]
+    },
+    {
+      "id": "EPHESIANS_01_P005_F3",
+      "box": [
+        0,
+        0.3145,
+        1,
+        0.3815
+      ],
+      "alt": {
+        "zh-CN": "并且照亮你们心里的眼睛，使你们知道他的呼召有什么样的盼望，"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P005_F4",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "也知道他向我们这些信的人所显出的能力是多么浩大，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_01_P005_B001",
+      "panel": "EPHESIANS_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.445,
+        0.0124,
+        0.2364,
+        0.0684
+      ],
+      "tail": [
+        0.5632,
+        0.1119
+      ],
+      "text_key": "ephesians.1.p5.b1"
+    },
+    {
+      "id": "EPHESIANS_01_P005_B002",
+      "panel": "EPHESIANS_01_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.3259,
+        0.5,
+        0.0686
+      ],
+      "tail": [
+        0.5,
+        0.4327
+      ],
+      "text_key": "ephesians.1.p5.b2"
+    },
+    {
+      "id": "EPHESIANS_01_P005_B003",
+      "panel": "EPHESIANS_01_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.9096,
+        0.42,
+        0.0783
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "ephesians.1.p5.b3"
+    }
+  ]
+}

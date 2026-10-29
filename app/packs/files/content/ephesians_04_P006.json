@@ -1,0 +1,133 @@
+{
+  "id": "EPHESIANS_04_P006",
+  "book": "ephesians",
+  "chapter": 4,
+  "page": 6,
+  "ref": "4:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_04_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_04_P006_F1",
+      "box": [
+        0,
+        0,
+        0.501,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "所以，你们要除掉谎言，各人要对邻舍说真话，因为我们是彼此的肢体。"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P006_F2",
+      "box": [
+        0.5088,
+        0,
+        0.4912,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "生气却不要犯罪；不要到日落还在生气，"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P006_F3",
+      "box": [
+        0,
+        0.3001,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "从前偷窃的，不要再偷；倒要辛勤劳动，亲手做正当的事，"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P006_F4",
+      "box": [
+        0,
+        0.5983,
+        1,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "好有多余的分给有需要的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_04_P006_B001",
+      "panel": "EPHESIANS_04_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0089,
+        0.4609,
+        0.0653
+      ],
+      "tail": [
+        0.2505,
+        0.1039
+      ],
+      "text_key": "ephesians.4.p6.b1"
+    },
+    {
+      "id": "EPHESIANS_04_P006_B002",
+      "panel": "EPHESIANS_04_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5284,
+        0.2197,
+        0.4519,
+        0.0682
+      ],
+      "tail": [
+        0.7544,
+        0.2969
+      ],
+      "text_key": "ephesians.4.p6.b2"
+    },
+    {
+      "id": "EPHESIANS_04_P006_B003",
+      "panel": "EPHESIANS_04_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.68,
+        0.3118,
+        0.29,
+        0.0763
+      ],
+      "tail": null,
+      "text_key": "ephesians.4.p6.b3"
+    },
+    {
+      "id": "EPHESIANS_04_P006_B004",
+      "panel": "EPHESIANS_04_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6104,
+        0.46,
+        0.0642
+      ],
+      "tail": null,
+      "text_key": "ephesians.4.p6.b4"
+    }
+  ]
+}

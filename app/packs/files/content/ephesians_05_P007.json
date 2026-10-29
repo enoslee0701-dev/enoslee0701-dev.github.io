@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_05_P007",
+  "book": "ephesians",
+  "chapter": 5,
+  "page": 7,
+  "ref": "5:31-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_05_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_05_P007_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "因此，人要离开父母，与妻子结合，二人成为一体。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P007_F2",
+      "box": [
+        0.501,
+        0,
+        0.499,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "这是极大的奥秘，但我是指着基督和教会说的。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P007_F3",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.7396
+      ],
+      "alt": {
+        "zh-CN": "然而，你们每一个人都要爱妻子，如同爱自己一样；妻子也要敬重她的丈夫。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P007_F4",
+      "box": [
+        0.619,
+        0.6875,
+        0.381,
+        0.3125
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_05_P007_B001",
+      "panel": "EPHESIANS_05_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.0077,
+        0.4545,
+        0.0564
+      ],
+      "tail": [
+        0.2471,
+        0.0898
+      ],
+      "text_key": "ephesians.5.p7.b1"
+    },
+    {
+      "id": "EPHESIANS_05_P007_B002",
+      "panel": "EPHESIANS_05_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7505,
+        0.0077,
+        0.2345,
+        0.0564
+      ],
+      "tail": [
+        0.8678,
+        0.0898
+      ],
+      "text_key": "ephesians.5.p7.b2"
+    },
+    {
+      "id": "EPHESIANS_05_P007_B003",
+      "panel": "EPHESIANS_05_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.2752,
+        0.34,
+        0.1479
+      ],
+      "tail": [
+        0.81,
+        0.4971
+      ],
+      "text_key": "ephesians.5.p7.b3"
+    }
+  ]
+}

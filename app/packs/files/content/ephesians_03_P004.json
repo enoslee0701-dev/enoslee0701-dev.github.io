@@ -1,0 +1,97 @@
+{
+  "id": "EPHESIANS_03_P004",
+  "book": "ephesians",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3874
+      ],
+      "alt": {
+        "zh-CN": "因此，我在父面前跪下，"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P004_F2",
+      "box": [
+        0,
+        0.3906,
+        0.5049,
+        0.3001
+      ]
+    },
+    {
+      "id": "EPHESIANS_03_P004_F3",
+      "box": [
+        0.5127,
+        0.3906,
+        0.4873,
+        0.3001
+      ]
+    },
+    {
+      "id": "EPHESIANS_03_P004_F4",
+      "box": [
+        0,
+        0.694,
+        1,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "求父按着他丰盛的荣耀，借着他的灵，使你们内心的力量刚强起来，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_03_P004_B001",
+      "panel": "EPHESIANS_03_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.76,
+        0.062,
+        0.22,
+        0.0774
+      ],
+      "tail": [
+        0.87,
+        0.1781
+      ],
+      "text_key": "ephesians.3.p4.b1"
+    },
+    {
+      "id": "EPHESIANS_03_P004_B002",
+      "panel": "EPHESIANS_03_P004_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.6971,
+        0.36,
+        0.0244
+      ],
+      "tail": [
+        0.54,
+        0.7521
+      ],
+      "text_key": "ephesians.3.p4.b2"
+    }
+  ]
+}

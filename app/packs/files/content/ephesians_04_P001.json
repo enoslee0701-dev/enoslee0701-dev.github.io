@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_04_P001",
+  "book": "ephesians",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "我这为主被囚禁的人劝你们：你们既然蒙召，生活为人就要和所蒙的呼召相称。"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P001_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "凡事要谦卑、温柔、有耐心，用爱心彼此包容，"
+      }
+    },
+    {
+      "id": "EPHESIANS_04_P001_F3",
+      "box": [
+        0,
+        0.6699,
+        0.5176,
+        0.3301
+      ]
+    },
+    {
+      "id": "EPHESIANS_04_P001_F4",
+      "box": [
+        0.5254,
+        0.6699,
+        0.4746,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "用和平把彼此联系在一起，竭力保守圣灵所赐的合一。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_04_P001_B001",
+      "panel": "EPHESIANS_04_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0077,
+        0.22,
+        0.0771
+      ],
+      "tail": [
+        0.73,
+        0.1105
+      ],
+      "text_key": "ephesians.4.p1.b1"
+    },
+    {
+      "id": "EPHESIANS_04_P001_B002",
+      "panel": "EPHESIANS_04_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2685,
+        0.5,
+        0.0648
+      ],
+      "tail": [
+        0.28,
+        0.3739
+      ],
+      "text_key": "ephesians.4.p1.b2"
+    },
+    {
+      "id": "EPHESIANS_04_P001_B003",
+      "panel": "EPHESIANS_04_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5444,
+        0.9142,
+        0.4366,
+        0.0759
+      ],
+      "tail": [
+        0.7627,
+        1
+      ],
+      "text_key": "ephesians.4.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "EPHESIANS_02_P003",
+  "book": "ephesians",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3958
+      ],
+      "alt": {
+        "zh-CN": "你们得救是靠着恩典，也是藉着信；这不是出于你们自己，而是神所赐的；"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P003_F2",
+      "box": [
+        0,
+        0.3997,
+        1,
+        0.2617
+      ]
+    },
+    {
+      "id": "EPHESIANS_02_P003_F3",
+      "box": [
+        0,
+        0.6647,
+        0.4932,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "也不是出于行为，免得有人自夸。"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P003_F4",
+      "box": [
+        0.5,
+        0.6647,
+        0.5,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "我们是神所做成的，在基督耶稣里被造，为要叫我们行善，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_02_P003_B001",
+      "panel": "EPHESIANS_02_P003_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.48,
+        0.0119,
+        0.49,
+        0.087
+      ],
+      "tail": null,
+      "text_key": "ephesians.2.p3.b1"
+    },
+    {
+      "id": "EPHESIANS_02_P003_B002",
+      "panel": "EPHESIANS_02_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0197,
+        0.6748,
+        0.4537,
+        0.0737
+      ],
+      "tail": [
+        0.2466,
+        0.782
+      ],
+      "text_key": "ephesians.2.p3.b2"
+    },
+    {
+      "id": "EPHESIANS_02_P003_B003",
+      "panel": "EPHESIANS_02_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.9262,
+        0.46,
+        0.0637
+      ],
+      "tail": [
+        0.75,
+        1
+      ],
+      "text_key": "ephesians.2.p3.b3"
+    }
+  ]
+}

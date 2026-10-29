@@ -1,0 +1,115 @@
+{
+  "id": "EPHESIANS_02_P004",
+  "book": "ephesians",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "所以你们要记得：你们从前按肉体是外邦人，……"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P004_F2",
+      "box": [
+        0,
+        0.3132,
+        0.626,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "那时你们与基督无关，……活在世上没有盼望，也没有神。"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P004_F3",
+      "box": [
+        0.6338,
+        0.3132,
+        0.3662,
+        0.2591
+      ]
+    },
+    {
+      "id": "EPHESIANS_02_P004_F4",
+      "box": [
+        0,
+        0.5768,
+        1,
+        0.4232
+      ],
+      "alt": {
+        "zh-CN": "你们从前远离神的人，如今在基督耶稣里，靠着他的血，已经得以亲近了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_02_P004_B001",
+      "panel": "EPHESIANS_02_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0124,
+        0.26,
+        0.1298
+      ],
+      "tail": [
+        0.15,
+        0.1731
+      ],
+      "text_key": "ephesians.2.p4.b1"
+    },
+    {
+      "id": "EPHESIANS_02_P004_B002",
+      "panel": "EPHESIANS_02_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.025,
+        0.5101,
+        0.5759,
+        0.057
+      ],
+      "tail": [
+        0.313,
+        0.5723
+      ],
+      "text_key": "ephesians.2.p4.b2"
+    },
+    {
+      "id": "EPHESIANS_02_P004_B003",
+      "panel": "EPHESIANS_02_P004_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.5895,
+        0.5,
+        0.0761
+      ],
+      "tail": null,
+      "text_key": "ephesians.2.p4.b3"
+    }
+  ]
+}

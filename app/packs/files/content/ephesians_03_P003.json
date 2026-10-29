@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_03_P003",
+  "book": "ephesians",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:8-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_03_P003_F1",
+      "box": [
+        0,
+        0,
+        0.6143,
+        0.3216
+      ],
+      "alt": {
+        "zh-CN": "我本来比所有圣徒中最小的还要小，然而神还把这恩典赐给我，……"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P003_F2",
+      "box": [
+        0.624,
+        0,
+        0.376,
+        0.3216
+      ],
+      "alt": {
+        "zh-CN": "我们因为信耶稣，在他里面就能坦然无惧……来到神面前。"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P003_F3",
+      "box": [
+        0,
+        0.3242,
+        1,
+        0.6758
+      ],
+      "alt": {
+        "zh-CN": "所以，我求你们不要因我为你们受的苦难灰心，这是你们的荣耀。"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P003_F4",
+      "box": [
+        0.584,
+        0.667,
+        0.416,
+        0.333
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_03_P003_B001",
+      "panel": "EPHESIANS_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3072,
+        0.0096,
+        0.2887,
+        0.0707
+      ],
+      "tail": [
+        0.4516,
+        0.1125
+      ],
+      "text_key": "ephesians.3.p3.b1"
+    },
+    {
+      "id": "EPHESIANS_03_P003_B002",
+      "panel": "EPHESIANS_03_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.639,
+        0.2251,
+        0.3459,
+        0.0868
+      ],
+      "tail": [
+        0.8119,
+        0.3216
+      ],
+      "text_key": "ephesians.3.p3.b2"
+    },
+    {
+      "id": "EPHESIANS_03_P003_B003",
+      "panel": "EPHESIANS_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.3377,
+        0.6,
+        0.0743
+      ],
+      "tail": [
+        0.33,
+        0.4796
+      ],
+      "text_key": "ephesians.3.p3.b3"
+    }
+  ]
+}

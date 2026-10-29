@@ -1,0 +1,115 @@
+{
+  "id": "EPHESIANS_03_P006",
+  "book": "ephesians",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_03_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "神能照着在我们里面运行的大能，充充足足地成就一切，远远超过我们所求所想的。"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P006_F2",
+      "box": [
+        0,
+        0.248,
+        1,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "愿他在教会中、在基督耶稣里得着荣耀，直到世世代代，永永远远。阿们！"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P006_F3",
+      "box": [
+        0,
+        0.6855,
+        0.5479,
+        0.3145
+      ]
+    },
+    {
+      "id": "EPHESIANS_03_P006_F4",
+      "box": [
+        0.5537,
+        0.6855,
+        0.4463,
+        0.3145
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_03_P006_B001",
+      "panel": "EPHESIANS_03_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0073,
+        0.42,
+        0.0734
+      ],
+      "tail": [
+        0.76,
+        0.1052
+      ],
+      "text_key": "ephesians.3.p6.b1"
+    },
+    {
+      "id": "EPHESIANS_03_P006_B002",
+      "panel": "EPHESIANS_03_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2567,
+        0.58,
+        0.0692
+      ],
+      "tail": [
+        0.32,
+        0.3692
+      ],
+      "text_key": "ephesians.3.p6.b2"
+    },
+    {
+      "id": "EPHESIANS_03_P006_B003",
+      "panel": "EPHESIANS_03_P006_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.7,
+        0.629,
+        0.27,
+        0.0389
+      ],
+      "tail": [
+        0.835,
+        0.6809
+      ],
+      "text_key": "ephesians.3.p6.b3"
+    }
+  ]
+}

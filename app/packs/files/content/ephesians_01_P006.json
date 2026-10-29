@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_01_P006",
+  "book": "ephesians",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:20-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "……使他从死人中复活，叫他在天上坐在自己的右边，"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P006_F2",
+      "box": [
+        0,
+        0.3216,
+        0.6465,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "远远超过一切执政的、掌权的、有能力的、作主的，以及一切有名号的；"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P006_F3",
+      "box": [
+        0.6523,
+        0.3216,
+        0.3477,
+        0.3079
+      ]
+    },
+    {
+      "id": "EPHESIANS_01_P006_F4",
+      "box": [
+        0,
+        0.6335,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "教会是他的身体，是那充满万有的所充满的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_01_P006_B001",
+      "panel": "EPHESIANS_01_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0127,
+        0.42,
+        0.0762
+      ],
+      "tail": [
+        0.76,
+        0.1207
+      ],
+      "text_key": "ephesians.1.p6.b1"
+    },
+    {
+      "id": "EPHESIANS_01_P006_B002",
+      "panel": "EPHESIANS_01_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0194,
+        0.5494,
+        0.3232,
+        0.0708
+      ],
+      "tail": [
+        0.181,
+        0.6295
+      ],
+      "text_key": "ephesians.1.p6.b2"
+    },
+    {
+      "id": "EPHESIANS_01_P006_B003",
+      "panel": "EPHESIANS_01_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.6408,
+        0.6,
+        0.0366
+      ],
+      "tail": [
+        0.48,
+        0.7141
+      ],
+      "text_key": "ephesians.1.p6.b3"
+    }
+  ]
+}

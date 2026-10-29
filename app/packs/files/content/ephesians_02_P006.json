@@ -1,0 +1,88 @@
+{
+  "id": "EPHESIANS_02_P006",
+  "book": "ephesians",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:17-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_02_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_02_P006_F1",
+      "box": [
+        0,
+        0,
+        0.6836,
+        0.4303
+      ],
+      "alt": {
+        "zh-CN": "他来把和平的福音传给你们远处的人，也传给近处的人。"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P006_F2",
+      "box": [
+        0.6904,
+        0,
+        0.3096,
+        0.4303
+      ]
+    },
+    {
+      "id": "EPHESIANS_02_P006_F3",
+      "box": [
+        0,
+        0.4342,
+        1,
+        0.5658
+      ],
+      "alt": {
+        "zh-CN": "因为我们两边都藉着他，在同一位圣灵里得以来到父面前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_02_P006_B001",
+      "panel": "EPHESIANS_02_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3418,
+        0.3658,
+        0.3281,
+        0.0559
+      ],
+      "tail": [
+        0,
+        0.4303
+      ],
+      "text_key": "ephesians.2.p6.b1"
+    },
+    {
+      "id": "EPHESIANS_02_P006_B002",
+      "panel": "EPHESIANS_02_P006_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.4455,
+        0.58,
+        0.0678
+      ],
+      "tail": [
+        0.51,
+        0.5699
+      ],
+      "text_key": "ephesians.2.p6.b2"
+    }
+  ]
+}

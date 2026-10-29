@@ -1,0 +1,121 @@
+{
+  "id": "EPHESIANS_01_P001",
+  "book": "ephesians",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "从罗马到以弗所"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P001_F2",
+      "box": [
+        0,
+        0.3333,
+        0.7012,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "我是照神的旨意作基督耶稣使徒的保罗，"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P001_F3",
+      "box": [
+        0.707,
+        0.3333,
+        0.293,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "写信给在以弗所的圣徒，就是在基督耶稣里忠心的人。"
+      }
+    },
+    {
+      "id": "EPHESIANS_01_P001_F4",
+      "box": [
+        0,
+        0.6569,
+        1,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "愿恩典、平安从神我们的父和主耶稣基督临到你们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_01_P001_B001",
+      "panel": "EPHESIANS_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4207,
+        0.3429,
+        0.1893,
+        0.0575
+      ],
+      "tail": [
+        0.5154,
+        0.4324
+      ],
+      "text_key": "ephesians.1.p1.b1"
+    },
+    {
+      "id": "EPHESIANS_01_P001_B002",
+      "panel": "EPHESIANS_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7187,
+        0.5699,
+        0.2695,
+        0.0735
+      ],
+      "tail": [
+        0.8535,
+        0.653
+      ],
+      "text_key": "ephesians.1.p1.b2"
+    },
+    {
+      "id": "EPHESIANS_01_P001_B003",
+      "panel": "EPHESIANS_01_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.6638,
+        0.27,
+        0.0411
+      ],
+      "tail": [
+        0.575,
+        0.7392
+      ],
+      "text_key": "ephesians.1.p1.b3"
+    }
+  ]
+}

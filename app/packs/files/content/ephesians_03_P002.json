@@ -1,0 +1,115 @@
+{
+  "id": "EPHESIANS_03_P002",
+  "book": "ephesians",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:3-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_03_P002_F1",
+      "box": [
+        0,
+        0,
+        0.344,
+        0.26
+      ]
+    },
+    {
+      "id": "EPHESIANS_03_P002_F2",
+      "box": [
+        0,
+        0,
+        1,
+        0.6211
+      ],
+      "alt": {
+        "zh-CN": "神藉着启示让我知道了福音的奥秘，就像我前面简单写过的。"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P002_F3",
+      "box": [
+        0,
+        0.625,
+        0.6055,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "这奥秘就是：外邦人在基督耶稣里，藉着福音，一同承受产业，一同成为一个身体，一同领受应许。"
+      }
+    },
+    {
+      "id": "EPHESIANS_03_P002_F4",
+      "box": [
+        0.6123,
+        0.625,
+        0.3877,
+        0.375
+      ],
+      "alt": {
+        "zh-CN": "我照着神所赐的恩典，作了这福音的仆人，……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_03_P002_B001",
+      "panel": "EPHESIANS_03_P002_F2",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5341,
+        0.52,
+        0.0745
+      ],
+      "tail": null,
+      "text_key": "ephesians.3.p2.b1"
+    },
+    {
+      "id": "EPHESIANS_03_P002_B002",
+      "panel": "EPHESIANS_03_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0182,
+        0.91,
+        0.5691,
+        0.0787
+      ],
+      "tail": [
+        0.3028,
+        1
+      ],
+      "text_key": "ephesians.3.p2.b2"
+    },
+    {
+      "id": "EPHESIANS_03_P002_B003",
+      "panel": "EPHESIANS_03_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6239,
+        0.6325,
+        0.3644,
+        0.0562
+      ],
+      "tail": [
+        0.8061,
+        0.7262
+      ],
+      "text_key": "ephesians.3.p2.b3"
+    }
+  ]
+}

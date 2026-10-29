@@ -1,0 +1,109 @@
+{
+  "id": "EPHESIANS_02_P002",
+  "book": "ephesians",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "然而，神有丰富的怜悯，因着他爱我们的大爱，"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P002_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.3913
+      ],
+      "alt": {
+        "zh-CN": "当我们因过犯死了的时候，就叫我们与基督一同活过来。"
+      }
+    },
+    {
+      "id": "EPHESIANS_02_P002_F3",
+      "box": [
+        0,
+        0.6432,
+        1,
+        0.3568
+      ],
+      "alt": {
+        "zh-CN": "他又叫我们与基督耶稣一同复活，一同坐在天上，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_02_P002_B001",
+      "panel": "EPHESIANS_02_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0121,
+        0.39,
+        0.0971
+      ],
+      "tail": [
+        0.775,
+        0.1335
+      ],
+      "text_key": "ephesians.2.p2.b1"
+    },
+    {
+      "id": "EPHESIANS_02_P002_B002",
+      "panel": "EPHESIANS_02_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.29,
+        0.2552,
+        0.25,
+        0.086
+      ],
+      "tail": [
+        0.415,
+        0.3803
+      ],
+      "text_key": "ephesians.2.p2.b2"
+    },
+    {
+      "id": "EPHESIANS_02_P002_B003",
+      "panel": "EPHESIANS_02_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.6539,
+        0.92,
+        0.0713
+      ],
+      "tail": [
+        0.5,
+        0.7609
+      ],
+      "text_key": "ephesians.2.p2.b3"
+    }
+  ]
+}

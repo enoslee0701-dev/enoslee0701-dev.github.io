@@ -1,0 +1,136 @@
+{
+  "id": "EPHESIANS_05_P001",
+  "book": "ephesians",
+  "chapter": 5,
+  "page": 1,
+  "ref": "5:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_05_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_05_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3001
+      ],
+      "alt": {
+        "zh-CN": "所以，你们要效法神，像蒙慈爱的儿女一样。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P001_F2",
+      "box": [
+        0,
+        0.304,
+        1,
+        0.3581
+      ],
+      "alt": {
+        "zh-CN": "要凭着爱心生活，正如基督爱我们，为我们舍了自己，作为馨香的供物和祭物献给神。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P001_F3",
+      "box": [
+        0,
+        0.666,
+        0.498,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "至于淫乱、一切污秽或贪婪，在你们中间连提都不可提，这才合乎圣徒的身分。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P001_F4",
+      "box": [
+        0.5039,
+        0.666,
+        0.4961,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "……总要说感谢的话。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_05_P001_B001",
+      "panel": "EPHESIANS_05_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.009,
+        0.5,
+        0.045
+      ],
+      "tail": [
+        0.28,
+        0.084
+      ],
+      "text_key": "ephesians.5.p1.b1"
+    },
+    {
+      "id": "EPHESIANS_05_P001_B002",
+      "panel": "EPHESIANS_05_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.3183,
+        0.4,
+        0.0859
+      ],
+      "tail": null,
+      "text_key": "ephesians.5.p1.b2"
+    },
+    {
+      "id": "EPHESIANS_05_P001_B003",
+      "panel": "EPHESIANS_05_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.676,
+        0.4581,
+        0.0801
+      ],
+      "tail": [
+        0.249,
+        0.7895
+      ],
+      "text_key": "ephesians.5.p1.b3"
+    },
+    {
+      "id": "EPHESIANS_05_P001_B004",
+      "panel": "EPHESIANS_05_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7619,
+        0.676,
+        0.2232,
+        0.0868
+      ],
+      "tail": [
+        0.8735,
+        0.7962
+      ],
+      "text_key": "ephesians.5.p1.b4"
+    }
+  ]
+}

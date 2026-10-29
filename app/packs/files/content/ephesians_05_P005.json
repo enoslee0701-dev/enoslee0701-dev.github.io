@@ -1,0 +1,118 @@
+{
+  "id": "EPHESIANS_05_P005",
+  "book": "ephesians",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EPHESIANS_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EPHESIANS_05_P005_F1",
+      "box": [
+        0,
+        0,
+        0.4795,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "你们作妻子的，要顺服自己的丈夫，如同顺服主。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P005_F2",
+      "box": [
+        0.4854,
+        0,
+        0.5146,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "因为丈夫是妻子的头，如同基督是教会的头；……"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P005_F3",
+      "box": [
+        0,
+        0.2676,
+        1,
+        0.7324
+      ],
+      "alt": {
+        "zh-CN": "你们作丈夫的，要爱你们的妻子，正如基督爱教会，为教会舍己。"
+      }
+    },
+    {
+      "id": "EPHESIANS_05_P005_F4",
+      "box": [
+        0,
+        0.692,
+        0.519,
+        0.308
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EPHESIANS_05_P005_B001",
+      "panel": "EPHESIANS_05_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0192,
+        0.0079,
+        0.4411,
+        0.0527
+      ],
+      "tail": [
+        0.2398,
+        0.087
+      ],
+      "text_key": "ephesians.5.p5.b1"
+    },
+    {
+      "id": "EPHESIANS_05_P005_B002",
+      "panel": "EPHESIANS_05_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7324,
+        0.0079,
+        0.2521,
+        0.058
+      ],
+      "tail": [
+        0.8585,
+        0.0923
+      ],
+      "text_key": "ephesians.5.p5.b2"
+    },
+    {
+      "id": "EPHESIANS_05_P005_B003",
+      "panel": "EPHESIANS_05_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2822,
+        0.4,
+        0.0732
+      ],
+      "tail": [
+        0.78,
+        0.4286
+      ],
+      "text_key": "ephesians.5.p5.b3"
+    }
+  ]
+}
