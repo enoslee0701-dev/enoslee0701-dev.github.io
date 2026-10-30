@@ -1,0 +1,124 @@
+{
+  "id": "HEBREWS_13_P006",
+  "book": "hebrews",
+  "chapter": 13,
+  "page": 6,
+  "ref": "13:17-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_13_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_13_P006_F1",
+      "box": [
+        0,
+        0,
+        0.5215,
+        0.3021
+      ]
+    },
+    {
+      "id": "HEBREWS_13_P006_F2",
+      "box": [
+        0.5293,
+        0,
+        0.4707,
+        0.3021
+      ]
+    },
+    {
+      "id": "HEBREWS_13_P006_F3",
+      "box": [
+        0,
+        0.306,
+        1,
+        0.694
+      ]
+    },
+    {
+      "id": "HEBREWS_13_P006_F4",
+      "box": [
+        0.615,
+        0.7025,
+        0.385,
+        0.2975
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_13_P006_B018",
+      "panel": "HEBREWS_13_P006_F1",
+      "order": 18,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.1147,
+        0.2507,
+        0.3963,
+        0.0453
+      ],
+      "tail": [
+        0.3128,
+        0.3021
+      ],
+      "text_key": "hebrews.13.p6.b18"
+    },
+    {
+      "id": "HEBREWS_13_P006_B019",
+      "panel": "HEBREWS_13_P006_F2",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.727,
+        0.0121,
+        0.2541,
+        0.0604
+      ],
+      "tail": null,
+      "text_key": "hebrews.13.p6.b19"
+    },
+    {
+      "id": "HEBREWS_13_P006_B020",
+      "panel": "HEBREWS_13_P006_F3",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.3199,
+        0.5,
+        0.0832
+      ],
+      "tail": [
+        0.43,
+        0.4725
+      ],
+      "text_key": "hebrews.13.p6.b20"
+    },
+    {
+      "id": "HEBREWS_13_P006_B021",
+      "panel": "HEBREWS_13_P006_F4",
+      "order": 21,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.6304,
+        0.9108,
+        0.3542,
+        0.0773
+      ],
+      "tail": [
+        0.8075,
+        1
+      ],
+      "text_key": "hebrews.13.p6.b21"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "HEBREWS_10_P006",
+  "book": "hebrews",
+  "chapter": 10,
+  "page": 6,
+  "ref": "10:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_10_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_10_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.31
+      ],
+      "alt": {
+        "zh-CN": "我们也要坚守所承认的盼望，毫不动摇，因为应许我们的那一位是信实的。"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P006_F2",
+      "box": [
+        0.006,
+        0.225,
+        0.37,
+        0.144
+      ],
+      "alt": {
+        "zh-CN": "不可放弃彼此的聚会，像有些人习惯了的那样，"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P006_F3",
+      "box": [
+        0,
+        0.3125,
+        1,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "反要彼此鼓励；既然知道那日子快到了，就更要这样做。"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P006_F4",
+      "box": [
+        0,
+        0.6751,
+        1,
+        0.3249
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_10_P006_B017",
+      "panel": "HEBREWS_10_P006_F1",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.0031,
+        0.45,
+        0.031
+      ],
+      "tail": [
+        0.425,
+        0.0651
+      ],
+      "text_key": "hebrews.10.p6.b17"
+    },
+    {
+      "id": "HEBREWS_10_P006_B018",
+      "panel": "HEBREWS_10_P006_F2",
+      "order": 18,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.117,
+        0.3344,
+        0.2442,
+        0.0288
+      ],
+      "tail": [
+        0.2391,
+        0.369
+      ],
+      "text_key": "hebrews.10.p6.b18"
+    },
+    {
+      "id": "HEBREWS_10_P006_B019",
+      "panel": "HEBREWS_10_P006_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.3233,
+        0.32,
+        0.0466
+      ],
+      "tail": [
+        0.82,
+        0.4058
+      ],
+      "text_key": "hebrews.10.p6.b19"
+    }
+  ]
+}

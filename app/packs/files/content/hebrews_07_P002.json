@@ -1,0 +1,133 @@
+{
+  "id": "HEBREWS_07_P002",
+  "book": "hebrews",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:4-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_07_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "你们想想，先祖亚伯拉罕把最好的战利品拿出十分之一给他，这人多么伟大！"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P002_F2",
+      "box": [
+        0,
+        0.3112,
+        0.3613,
+        0.431
+      ],
+      "alt": {
+        "zh-CN": "利未的子孙中当祭司的，奉命照律法向百姓收十分之一……"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P002_F3",
+      "box": [
+        0.3691,
+        0.3112,
+        0.6309,
+        0.431
+      ],
+      "alt": {
+        "zh-CN": "大的给小的祝福，这是毫无疑问的。"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P002_F4",
+      "box": [
+        0,
+        0.7454,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "因为麦基洗德迎接亚伯拉罕的时候，利未还在他祖先的身体里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_07_P002_B005",
+      "panel": "HEBREWS_07_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0123,
+        0.46,
+        0.0677
+      ],
+      "tail": [
+        0.73,
+        0.1108
+      ],
+      "text_key": "hebrews.7.p2.b5"
+    },
+    {
+      "id": "HEBREWS_07_P002_B006",
+      "panel": "HEBREWS_07_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0217,
+        0.3241,
+        0.3179,
+        0.0948
+      ],
+      "tail": null,
+      "text_key": "hebrews.7.p2.b6"
+    },
+    {
+      "id": "HEBREWS_07_P002_B007",
+      "panel": "HEBREWS_07_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6593,
+        0.3241,
+        0.3154,
+        0.0775
+      ],
+      "tail": null,
+      "text_key": "hebrews.7.p2.b7"
+    },
+    {
+      "id": "HEBREWS_07_P002_B008",
+      "panel": "HEBREWS_07_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.753,
+        0.44,
+        0.0458
+      ],
+      "tail": [
+        0.26,
+        0.8243
+      ],
+      "text_key": "hebrews.7.p2.b8"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "HEBREWS_06_P005",
+  "book": "hebrews",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:16-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "……使我们这些逃到避难所、抓紧摆在前面的盼望的人，可以得到极大的鼓励。"
+      }
+    },
+    {
+      "id": "HEBREWS_06_P005_F2",
+      "box": [
+        0,
+        0.2559,
+        0.6465,
+        0.4648
+      ],
+      "alt": {
+        "zh-CN": "这盼望就像灵魂的锚，又安稳又坚固，并且通到幔子里面。"
+      }
+    },
+    {
+      "id": "HEBREWS_06_P005_F3",
+      "box": [
+        0.6543,
+        0.2559,
+        0.3457,
+        0.4648
+      ]
+    },
+    {
+      "id": "HEBREWS_06_P005_F4",
+      "box": [
+        0,
+        0.7259,
+        1,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "耶稣作为先锋，照着麦基洗德的等次成了永远的大祭司，已经为我们进到幔子里面。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_06_P005_B014",
+      "panel": "HEBREWS_06_P005_F1",
+      "order": 14,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.24,
+        0.0075,
+        0.38,
+        0.0552
+      ],
+      "tail": [
+        0.43,
+        0.0878
+      ],
+      "text_key": "hebrews.6.p5.b14"
+    },
+    {
+      "id": "HEBREWS_06_P005_B015",
+      "panel": "HEBREWS_06_P005_F2",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3233,
+        0.4418,
+        0.2973,
+        0.0836
+      ],
+      "tail": null,
+      "text_key": "hebrews.6.p5.b15"
+    },
+    {
+      "id": "HEBREWS_06_P005_B016",
+      "panel": "HEBREWS_06_P005_F4",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.7369,
+        0.42,
+        0.0822
+      ],
+      "tail": null,
+      "text_key": "hebrews.6.p5.b16"
+    }
+  ]
+}

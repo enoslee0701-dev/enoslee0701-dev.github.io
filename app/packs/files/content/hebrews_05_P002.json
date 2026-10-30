@@ -1,0 +1,127 @@
+{
+  "id": "HEBREWS_05_P002",
+  "book": "hebrews",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2227
+      ],
+      "alt": {
+        "zh-CN": "同样，基督也不是自己取得荣耀作大祭司……「你是照着麦基洗德的等次永远作祭司。」"
+      }
+    },
+    {
+      "id": "HEBREWS_05_P002_F2",
+      "box": [
+        0,
+        0.2266,
+        1,
+        0.4544
+      ],
+      "alt": {
+        "zh-CN": "基督在世上的日子，曾大声哭喊、流着泪祷告，恳求那能救他脱离死亡的神；因为他的敬虔，就蒙了垂听。"
+      }
+    },
+    {
+      "id": "HEBREWS_05_P002_F3",
+      "box": [
+        0.57,
+        0.482,
+        0.43,
+        0.199
+      ]
+    },
+    {
+      "id": "HEBREWS_05_P002_F4",
+      "box": [
+        0,
+        0.6849,
+        1,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "他虽然是神的儿子，还是从所受的苦难中学会了顺从。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_05_P002_B005",
+      "panel": "HEBREWS_05_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.71,
+        0.0067,
+        0.27,
+        0.0229
+      ],
+      "tail": null,
+      "text_key": "hebrews.5.p2.b5"
+    },
+    {
+      "id": "HEBREWS_05_P002_B006",
+      "panel": "HEBREWS_05_P002_F1",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.71,
+        0.034,
+        0.27,
+        0.0216
+      ],
+      "tail": null,
+      "text_key": "hebrews.5.p2.b6"
+    },
+    {
+      "id": "HEBREWS_05_P002_B007",
+      "panel": "HEBREWS_05_P002_F2",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2448,
+        0.44,
+        0.0817
+      ],
+      "tail": null,
+      "text_key": "hebrews.5.p2.b7"
+    },
+    {
+      "id": "HEBREWS_05_P002_B008",
+      "panel": "HEBREWS_05_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.6975,
+        0.44,
+        0.0693
+      ],
+      "tail": [
+        0.26,
+        0.7983
+      ],
+      "text_key": "hebrews.5.p2.b8"
+    }
+  ]
+}

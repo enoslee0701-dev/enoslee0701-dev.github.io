@@ -1,0 +1,133 @@
+{
+  "id": "HEBREWS_07_P005",
+  "book": "hebrews",
+  "chapter": 7,
+  "page": 5,
+  "ref": "7:20-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_07_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_07_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1589
+      ],
+      "alt": {
+        "zh-CN": "「主起了誓，绝不改变心意：你是永远作祭司。」"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P005_F2",
+      "box": [
+        0,
+        0.1621,
+        1,
+        0.367
+      ],
+      "alt": {
+        "zh-CN": "从前作祭司的人很多，因为死亡阻止他们，不能一直任职。"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P005_F3",
+      "box": [
+        0.6125,
+        0.4417,
+        0.385,
+        0.135
+      ],
+      "alt": {
+        "zh-CN": "但这一位是永远长存的，所以他祭司的职分永不更换。"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P005_F4",
+      "box": [
+        0,
+        0.533,
+        1,
+        0.467
+      ],
+      "alt": {
+        "zh-CN": "所以凡是借着他来到神面前的人，他都能完全拯救；因为他永远活着，为他们代求。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_07_P005_B017",
+      "panel": "HEBREWS_07_P005_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0064,
+        0.42,
+        0.0413
+      ],
+      "tail": null,
+      "text_key": "hebrews.7.p5.b17"
+    },
+    {
+      "id": "HEBREWS_07_P005_B018",
+      "panel": "HEBREWS_07_P005_F2",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.1731,
+        0.32,
+        0.0623
+      ],
+      "tail": null,
+      "text_key": "hebrews.7.p5.b18"
+    },
+    {
+      "id": "HEBREWS_07_P005_B019",
+      "panel": "HEBREWS_07_P005_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6279,
+        0.5497,
+        0.1925,
+        0.0243
+      ],
+      "tail": [
+        0.7242,
+        0.5767
+      ],
+      "text_key": "hebrews.7.p5.b19"
+    },
+    {
+      "id": "HEBREWS_07_P005_B020",
+      "panel": "HEBREWS_07_P005_F4",
+      "order": 20,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.547,
+        0.46,
+        0.084
+      ],
+      "tail": [
+        0.27,
+        0.6777
+      ],
+      "text_key": "hebrews.7.p5.b20"
+    }
+  ]
+}

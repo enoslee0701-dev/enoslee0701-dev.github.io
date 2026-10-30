@@ -1,0 +1,130 @@
+{
+  "id": "HEBREWS_08_P002",
+  "book": "hebrews",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:3-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2018
+      ],
+      "alt": {
+        "zh-CN": "每一位大祭司都是为献礼物和祭物而设立的，所以这位大祭司也必须有可献的。"
+      }
+    },
+    {
+      "id": "HEBREWS_08_P002_F2",
+      "box": [
+        0,
+        0.2064,
+        0.3359,
+        0.4714
+      ],
+      "alt": {
+        "zh-CN": "他们所事奉的，只是天上事物的模型和影子，"
+      }
+    },
+    {
+      "id": "HEBREWS_08_P002_F3",
+      "box": [
+        0.3438,
+        0.2064,
+        0.6562,
+        0.4714
+      ],
+      "alt": {
+        "zh-CN": "你要小心，制作一切都要照着在山上指示你的样式。"
+      }
+    },
+    {
+      "id": "HEBREWS_08_P002_F4",
+      "box": [
+        0,
+        0.6816,
+        1,
+        0.3184
+      ],
+      "alt": {
+        "zh-CN": "现在耶稣得到的职分更美，正如他是更美之约的中保；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_08_P002_B005",
+      "panel": "HEBREWS_08_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.0081,
+        0.44,
+        0.0524
+      ],
+      "tail": null,
+      "text_key": "hebrews.8.p2.b5"
+    },
+    {
+      "id": "HEBREWS_08_P002_B006",
+      "panel": "HEBREWS_08_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0202,
+        0.2205,
+        0.2955,
+        0.1037
+      ],
+      "tail": null,
+      "text_key": "hebrews.8.p2.b6"
+    },
+    {
+      "id": "HEBREWS_08_P002_B007",
+      "panel": "HEBREWS_08_P002_F3",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.37,
+        0.2205,
+        0.3018,
+        0.0848
+      ],
+      "tail": null,
+      "text_key": "hebrews.8.p2.b7"
+    },
+    {
+      "id": "HEBREWS_08_P002_B008",
+      "panel": "HEBREWS_08_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6912,
+        0.4,
+        0.0573
+      ],
+      "tail": [
+        0.5,
+        0.7803
+      ],
+      "text_key": "hebrews.8.p2.b8"
+    }
+  ]
+}

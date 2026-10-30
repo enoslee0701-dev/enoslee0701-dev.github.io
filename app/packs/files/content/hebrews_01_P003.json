@@ -1,0 +1,118 @@
+{
+  "id": "HEBREWS_01_P003",
+  "book": "hebrews",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "神从来没有对哪一个天使说过：「你是我的儿子，我今天生了你。」"
+      }
+    },
+    {
+      "id": "HEBREWS_01_P003_F2",
+      "box": [
+        0,
+        0.2637,
+        0.45,
+        0.205
+      ],
+      "alt": {
+        "zh-CN": "也没有指着哪一个天使说：「我要作他的父亲，他要作我的儿子。」"
+      }
+    },
+    {
+      "id": "HEBREWS_01_P003_F3",
+      "box": [
+        0,
+        0.2637,
+        1,
+        0.7363
+      ],
+      "alt": {
+        "zh-CN": "「神的天使都要敬拜他。」……「神使他的使者成为风，使他的仆役成为火焰。」"
+      }
+    },
+    {
+      "id": "HEBREWS_01_P003_F4",
+      "box": [
+        0.575,
+        0.704,
+        0.425,
+        0.296
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_01_P003_B006",
+      "panel": "HEBREWS_01_P003_F1",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0104,
+        0.46,
+        0.0725
+      ],
+      "tail": [
+        0.73,
+        0.1088
+      ],
+      "text_key": "hebrews.1.p3.b6"
+    },
+    {
+      "id": "HEBREWS_01_P003_B007",
+      "panel": "HEBREWS_01_P003_F2",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2475,
+        0.2678,
+        0.1935,
+        0.0287
+      ],
+      "tail": [
+        0.3443,
+        0.317
+      ],
+      "text_key": "hebrews.1.p3.b7"
+    },
+    {
+      "id": "HEBREWS_01_P003_B008",
+      "panel": "HEBREWS_01_P003_F3",
+      "order": 8,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.48,
+        0.2784,
+        0.48,
+        0.0662
+      ],
+      "tail": [
+        0.72,
+        0.4182
+      ],
+      "text_key": "hebrews.1.p3.b8"
+    }
+  ]
+}

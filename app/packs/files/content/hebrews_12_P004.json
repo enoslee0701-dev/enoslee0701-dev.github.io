@@ -1,0 +1,91 @@
+{
+  "id": "HEBREWS_12_P004",
+  "book": "hebrews",
+  "chapter": 12,
+  "page": 4,
+  "ref": "12:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_12_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_12_P004_F1",
+      "box": [
+        0,
+        0,
+        0.541,
+        0.2493
+      ]
+    },
+    {
+      "id": "HEBREWS_12_P004_F2",
+      "box": [
+        0.5498,
+        0,
+        0.4502,
+        0.2493
+      ]
+    },
+    {
+      "id": "HEBREWS_12_P004_F3",
+      "box": [
+        0,
+        0.2526,
+        1,
+        0.3438
+      ]
+    },
+    {
+      "id": "HEBREWS_12_P004_F4",
+      "box": [
+        0,
+        0.6003,
+        1,
+        0.3997
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_12_P004_B010",
+      "panel": "HEBREWS_12_P004_F3",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.21,
+        0.2629,
+        0.27,
+        0.0584
+      ],
+      "tail": [
+        0.345,
+        0.3557
+      ],
+      "text_key": "hebrews.12.p4.b10"
+    },
+    {
+      "id": "HEBREWS_12_P004_B011",
+      "panel": "HEBREWS_12_P004_F4",
+      "order": 11,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.6123,
+        0.36,
+        0.0519
+      ],
+      "tail": [
+        0.21,
+        0.7042
+      ],
+      "text_key": "hebrews.12.p4.b11"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "HEBREWS_09_P006",
+  "book": "hebrews",
+  "chapter": 9,
+  "page": 6,
+  "ref": "9:23-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_09_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_09_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "基督并没有进入人手所造的圣所（那只是真圣所的影像），而是进入了天本身，现在为我们出现在神面前；"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P006_F2",
+      "box": [
+        0,
+        0.2604,
+        0.6006,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "他也不是多次把自己献上，像大祭司每年带着不是自己的血进入圣所，"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P006_F3",
+      "box": [
+        0.6074,
+        0.2604,
+        0.3926,
+        0.319
+      ]
+    },
+    {
+      "id": "HEBREWS_09_P006_F4",
+      "box": [
+        0,
+        0.5827,
+        1,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "但如今在这世代的末期，他只一次显现，把自己献为祭，好除掉罪。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_09_P006_B020",
+      "panel": "HEBREWS_09_P006_F1",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0102,
+        0.4,
+        0.0767
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p6.b20"
+    },
+    {
+      "id": "HEBREWS_09_P006_B021",
+      "panel": "HEBREWS_09_P006_F2",
+      "order": 21,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.024,
+        0.5316,
+        0.5525,
+        0.0446
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p6.b21"
+    },
+    {
+      "id": "HEBREWS_09_P006_B022",
+      "panel": "HEBREWS_09_P006_F4",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.39,
+        0.5952,
+        0.33,
+        0.0625
+      ],
+      "tail": [
+        0.555,
+        0.6994
+      ],
+      "text_key": "hebrews.9.p6.b22"
+    }
+  ]
+}

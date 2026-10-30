@@ -1,0 +1,106 @@
+{
+  "id": "HEBREWS_09_P004",
+  "book": "hebrews",
+  "chapter": 9,
+  "page": 4,
+  "ref": "9:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_09_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_09_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.42
+      ],
+      "alt": {
+        "zh-CN": "因此，他作了新约的中保，……使蒙召的人得着所应许的永远产业。"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P004_F2",
+      "box": [
+        0.552,
+        0.2767,
+        0.448,
+        0.233
+      ],
+      "alt": {
+        "zh-CN": "凡有遗嘱，必须等到立遗嘱的人死了；"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P004_F3",
+      "box": [
+        0,
+        0.4245,
+        1,
+        0.5755
+      ],
+      "alt": {
+        "zh-CN": "因为人死了，遗嘱才生效；立遗嘱的人还活着的时候，遗嘱有什么效力呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_09_P004_B013",
+      "panel": "HEBREWS_09_P004_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.0042,
+        0.29,
+        0.0756
+      ],
+      "tail": [
+        0.845,
+        0.1218
+      ],
+      "text_key": "hebrews.9.p4.b13"
+    },
+    {
+      "id": "HEBREWS_09_P004_B014",
+      "panel": "HEBREWS_09_P004_F2",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8298,
+        0.2814,
+        0.1612,
+        0.0466
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p4.b14"
+    },
+    {
+      "id": "HEBREWS_09_P004_B015",
+      "panel": "HEBREWS_09_P004_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.54,
+        0.4475,
+        0.42,
+        0.092
+      ],
+      "tail": [
+        0.75,
+        0.5971
+      ],
+      "text_key": "hebrews.9.p4.b15"
+    }
+  ]
+}

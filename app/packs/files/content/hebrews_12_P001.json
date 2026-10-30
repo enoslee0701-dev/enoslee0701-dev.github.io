@@ -1,0 +1,58 @@
+{
+  "id": "HEBREWS_12_P001",
+  "book": "hebrews",
+  "chapter": 12,
+  "page": 1,
+  "ref": "12:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_12_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_12_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_12_P001_B001",
+      "panel": "HEBREWS_12_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.03,
+        0.4,
+        0.16
+      ],
+      "tail": null,
+      "text_key": "hebrews.12.p1.b1"
+    },
+    {
+      "id": "HEBREWS_12_P001_B002",
+      "panel": "HEBREWS_12_P001_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.84,
+        0.44,
+        0.12
+      ],
+      "tail": null,
+      "text_key": "hebrews.12.p1.b2"
+    }
+  ]
+}

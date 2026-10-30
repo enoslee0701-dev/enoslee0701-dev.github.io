@@ -1,0 +1,115 @@
+{
+  "id": "HEBREWS_10_P005",
+  "book": "hebrews",
+  "chapter": 10,
+  "page": 5,
+  "ref": "10:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_10_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_10_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.195
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，我们既然靠着耶稣的血，可以放胆进入至圣所，"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P005_F2",
+      "box": [
+        0,
+        0.199,
+        1,
+        0.481
+      ],
+      "alt": {
+        "zh-CN": "是借着他为我们开辟的一条又新又活的路，穿过幔子进去，这幔子就是他的身体。"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P005_F3",
+      "box": [
+        0.625,
+        0.469,
+        0.375,
+        0.211
+      ]
+    },
+    {
+      "id": "HEBREWS_10_P005_F4",
+      "box": [
+        0,
+        0.687,
+        1,
+        0.313
+      ],
+      "alt": {
+        "zh-CN": "就应当怀着真诚的心和完全的信心来到神面前；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_10_P005_B014",
+      "panel": "HEBREWS_10_P005_F1",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0117,
+        0.42,
+        0.0585
+      ],
+      "tail": [
+        0.75,
+        0.0897
+      ],
+      "text_key": "hebrews.10.p5.b14"
+    },
+    {
+      "id": "HEBREWS_10_P005_B015",
+      "panel": "HEBREWS_10_P005_F2",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2182,
+        0.32,
+        0.0962
+      ],
+      "tail": null,
+      "text_key": "hebrews.10.p5.b15"
+    },
+    {
+      "id": "HEBREWS_10_P005_B016",
+      "panel": "HEBREWS_10_P005_F4",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6964,
+        0.34,
+        0.0469
+      ],
+      "tail": [
+        0.2,
+        0.7746
+      ],
+      "text_key": "hebrews.10.p5.b16"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "HEBREWS_11_P005",
+  "book": "hebrews",
+  "chapter": 11,
+  "page": 5,
+  "ref": "11:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_11_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_11_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "这些人都是怀着信心死的，没有得着所应许的；却从远处看见，并且欢喜迎接，又承认自己在世上是外人、是寄居的。"
+      }
+    },
+    {
+      "id": "HEBREWS_11_P005_F2",
+      "box": [
+        0,
+        0.3932,
+        0.4961,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "他们如果怀念所离开的家乡，还有机会回去。"
+      }
+    },
+    {
+      "id": "HEBREWS_11_P005_F3",
+      "box": [
+        0.502,
+        0.3932,
+        0.498,
+        0.2682
+      ]
+    },
+    {
+      "id": "HEBREWS_11_P005_F4",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "但他们向往一个更美的家乡，就是天上的。所以神不以被称为他们的神为耻，因为他已经为他们预备了一座城。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_11_P005_B012",
+      "panel": "HEBREWS_11_P005_F1",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0117,
+        0.44,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "hebrews.11.p5.b12"
+    },
+    {
+      "id": "HEBREWS_11_P005_B013",
+      "panel": "HEBREWS_11_P005_F2",
+      "order": 13,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0149,
+        0.4039,
+        0.2182,
+        0.0375
+      ],
+      "tail": [
+        0,
+        0.4682
+      ],
+      "text_key": "hebrews.11.p5.b13"
+    },
+    {
+      "id": "HEBREWS_11_P005_B014",
+      "panel": "HEBREWS_11_P005_F4",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6794,
+        0.46,
+        0.0534
+      ],
+      "tail": null,
+      "text_key": "hebrews.11.p5.b14"
+    }
+  ]
+}

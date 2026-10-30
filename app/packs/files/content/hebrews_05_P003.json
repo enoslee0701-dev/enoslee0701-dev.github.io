@@ -1,0 +1,94 @@
+{
+  "id": "HEBREWS_05_P003",
+  "book": "hebrews",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "他既然被成全了，就为所有顺从他的人成了永远救恩的根源……"
+      }
+    },
+    {
+      "id": "HEBREWS_05_P003_F2",
+      "box": [
+        0,
+        0.2487,
+        1,
+        0.4134
+      ],
+      "alt": {
+        "zh-CN": "关于麦基洗德，我们有许多话要说，却很难解释清楚，因为你们的耳朵已经发沉了。"
+      }
+    },
+    {
+      "id": "HEBREWS_05_P003_F3",
+      "box": [
+        0.6225,
+        0.518,
+        0.3775,
+        0.143
+      ]
+    },
+    {
+      "id": "HEBREWS_05_P003_F4",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_05_P003_B009",
+      "panel": "HEBREWS_05_P003_F1",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0098,
+        0.38,
+        0.0734
+      ],
+      "tail": [
+        0.77,
+        0.1077
+      ],
+      "text_key": "hebrews.5.p3.b9"
+    },
+    {
+      "id": "HEBREWS_05_P003_B010",
+      "panel": "HEBREWS_05_P003_F2",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.2611,
+        0.42,
+        0.0744
+      ],
+      "tail": null,
+      "text_key": "hebrews.5.p3.b10"
+    }
+  ]
+}

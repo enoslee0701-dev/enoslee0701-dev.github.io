@@ -1,0 +1,115 @@
+{
+  "id": "HEBREWS_03_P001",
+  "book": "hebrews",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "一同蒙受天上呼召的圣洁弟兄们，你们要思想我们所承认的使者和大祭司耶稣。"
+      }
+    },
+    {
+      "id": "HEBREWS_03_P001_F2",
+      "box": [
+        0,
+        0.3574,
+        1,
+        0.1895
+      ],
+      "alt": {
+        "zh-CN": "他向那委派他的忠心，就像摩西在神的全家忠心一样。"
+      }
+    },
+    {
+      "id": "HEBREWS_03_P001_F3",
+      "box": [
+        0,
+        0.5501,
+        0.5107,
+        0.4499
+      ],
+      "alt": {
+        "zh-CN": "因为每一座房屋都是有人建造的，而建造万物的就是神。"
+      }
+    },
+    {
+      "id": "HEBREWS_03_P001_F4",
+      "box": [
+        0.5176,
+        0.5501,
+        0.4824,
+        0.4499
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_03_P001_B001",
+      "panel": "HEBREWS_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0106,
+        0.4,
+        0.0494
+      ],
+      "tail": [
+        0.5,
+        0.0953
+      ],
+      "text_key": "hebrews.3.p1.b1"
+    },
+    {
+      "id": "HEBREWS_03_P001_B002",
+      "panel": "HEBREWS_03_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.3612,
+        0.32,
+        0.0227
+      ],
+      "tail": null,
+      "text_key": "hebrews.3.p1.b2"
+    },
+    {
+      "id": "HEBREWS_03_P001_B003",
+      "panel": "HEBREWS_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0204,
+        0.5636,
+        0.2655,
+        0.0899
+      ],
+      "tail": [
+        0.1532,
+        0.6985
+      ],
+      "text_key": "hebrews.3.p1.b3"
+    }
+  ]
+}

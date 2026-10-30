@@ -1,0 +1,136 @@
+{
+  "id": "HEBREWS_10_P007",
+  "book": "hebrews",
+  "chapter": 10,
+  "page": 7,
+  "ref": "10:26-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_10_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_10_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2077
+      ],
+      "alt": {
+        "zh-CN": "如果我们领受了真理的知识以后，还故意犯罪，就再也没有赎罪的祭了；"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P007_F2",
+      "box": [
+        0,
+        0.2116,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "只有可怕地等候审判，和那要吞灭敌对者的烈火。"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P007_F3",
+      "box": [
+        0.585,
+        0.504,
+        0.41,
+        0.145
+      ],
+      "alt": {
+        "zh-CN": "「报应在我，我必回报」；"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P007_F4",
+      "box": [
+        0,
+        0.6536,
+        1,
+        0.3464
+      ],
+      "alt": {
+        "zh-CN": "落在永生神的手里，真是可怕的！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_10_P007_B020",
+      "panel": "HEBREWS_10_P007_F1",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0083,
+        0.4,
+        0.0332
+      ],
+      "tail": null,
+      "text_key": "hebrews.10.p7.b20"
+    },
+    {
+      "id": "HEBREWS_10_P007_B021",
+      "panel": "HEBREWS_10_P007_F2",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2247,
+        0.4,
+        0.0569
+      ],
+      "tail": [
+        0.76,
+        0.3254
+      ],
+      "text_key": "hebrews.10.p7.b21"
+    },
+    {
+      "id": "HEBREWS_10_P007_B022",
+      "panel": "HEBREWS_10_P007_F3",
+      "order": 22,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7982,
+        0.5113,
+        0.1804,
+        0.0348
+      ],
+      "tail": [
+        0.8884,
+        0.5606
+      ],
+      "text_key": "hebrews.10.p7.b22"
+    },
+    {
+      "id": "HEBREWS_10_P007_B023",
+      "panel": "HEBREWS_10_P007_F4",
+      "order": 23,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.62,
+        0.6709,
+        0.34,
+        0.0692
+      ],
+      "tail": [
+        0.79,
+        0.7747
+      ],
+      "text_key": "hebrews.10.p7.b23"
+    }
+  ]
+}

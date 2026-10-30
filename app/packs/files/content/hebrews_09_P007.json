@@ -1,0 +1,106 @@
+{
+  "id": "HEBREWS_09_P007",
+  "book": "hebrews",
+  "chapter": 9,
+  "page": 7,
+  "ref": "9:27-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_09_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_09_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2031
+      ],
+      "alt": {
+        "zh-CN": "按着命定，人人都有一死，死后还有审判。"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P007_F2",
+      "box": [
+        0,
+        0.2077,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "照样，基督既然一次被献上，担当了许多人的罪，"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P007_F3",
+      "box": [
+        0,
+        0.5221,
+        1,
+        0.4779
+      ],
+      "alt": {
+        "zh-CN": "将来要第二次显现，不是为了担当罪，而是为了拯救那些等候他的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_09_P007_B023",
+      "panel": "HEBREWS_09_P007_F1",
+      "order": 23,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.56,
+        0.0122,
+        0.4,
+        0.1706
+      ],
+      "tail": [
+        0.76,
+        0.2031
+      ],
+      "text_key": "hebrews.9.p7.b23"
+    },
+    {
+      "id": "HEBREWS_09_P007_B024",
+      "panel": "HEBREWS_09_P007_F2",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2201,
+        0.4,
+        0.0931
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p7.b24"
+    },
+    {
+      "id": "HEBREWS_09_P007_B025",
+      "panel": "HEBREWS_09_P007_F3",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.5364,
+        0.46,
+        0.086
+      ],
+      "tail": [
+        0.27,
+        0.6702
+      ],
+      "text_key": "hebrews.9.p7.b25"
+    }
+  ]
+}

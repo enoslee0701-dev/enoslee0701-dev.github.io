@@ -1,0 +1,112 @@
+{
+  "id": "HEBREWS_10_P003",
+  "book": "hebrews",
+  "chapter": 10,
+  "page": 3,
+  "ref": "10:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_10_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_10_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "所有的祭司天天站着事奉神，一再献上同样的祭物，这些祭物永远不能除去罪。"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P003_F2",
+      "box": [
+        0.644,
+        0.198,
+        0.346,
+        0.145
+      ]
+    },
+    {
+      "id": "HEBREWS_10_P003_F3",
+      "box": [
+        0,
+        0.335,
+        1,
+        0.415
+      ],
+      "alt": {
+        "zh-CN": "但是基督献上了一次永远有效的赎罪祭，就在神的右边坐下了。"
+      }
+    },
+    {
+      "id": "HEBREWS_10_P003_F4",
+      "box": [
+        0,
+        0.7552,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "因为他借着一次献祭，就使那些成为圣洁的人永远完全。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_10_P003_B007",
+      "panel": "HEBREWS_10_P003_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.01,
+        0.4,
+        0.0564
+      ],
+      "tail": null,
+      "text_key": "hebrews.10.p3.b7"
+    },
+    {
+      "id": "HEBREWS_10_P003_B008",
+      "panel": "HEBREWS_10_P003_F3",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.3475,
+        0.4,
+        0.0581
+      ],
+      "tail": [
+        0.56,
+        0.4471
+      ],
+      "text_key": "hebrews.10.p3.b8"
+    },
+    {
+      "id": "HEBREWS_10_P003_B009",
+      "panel": "HEBREWS_10_P003_F4",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.7699,
+        0.4,
+        0.0734
+      ],
+      "tail": null,
+      "text_key": "hebrews.10.p3.b9"
+    }
+  ]
+}

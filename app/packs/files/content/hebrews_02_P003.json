@@ -1,0 +1,118 @@
+{
+  "id": "HEBREWS_02_P003",
+  "book": "hebrews",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "……要带领许多儿子进入荣耀，使拯救他们的元首借着受苦得以完全，这是合宜的。"
+      }
+    },
+    {
+      "id": "HEBREWS_02_P003_F2",
+      "box": [
+        0,
+        0.3118,
+        1,
+        0.3555
+      ],
+      "alt": {
+        "zh-CN": "那使人圣洁的和被圣洁的，都出于同一位；所以他称他们为弟兄，并不以为羞耻。"
+      }
+    },
+    {
+      "id": "HEBREWS_02_P003_F3",
+      "box": [
+        0,
+        0.6693,
+        0.502,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "「看哪，我和神所赐给我的儿女在这里。」"
+      }
+    },
+    {
+      "id": "HEBREWS_02_P003_F4",
+      "box": [
+        0.5098,
+        0.6693,
+        0.4902,
+        0.3307
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_02_P003_B008",
+      "panel": "HEBREWS_02_P003_F1",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0124,
+        0.42,
+        0.1051
+      ],
+      "tail": [
+        0.75,
+        0.1484
+      ],
+      "text_key": "hebrews.2.p3.b8"
+    },
+    {
+      "id": "HEBREWS_02_P003_B009",
+      "panel": "HEBREWS_02_P003_F2",
+      "order": 9,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3225,
+        0.44,
+        0.0497
+      ],
+      "tail": [
+        0.25,
+        0.4078
+      ],
+      "text_key": "hebrews.2.p3.b9"
+    },
+    {
+      "id": "HEBREWS_02_P003_B010",
+      "panel": "HEBREWS_02_P003_F3",
+      "order": 10,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3112,
+        0.6792,
+        0.1807,
+        0.0727
+      ],
+      "tail": [
+        0.4015,
+        0.785
+      ],
+      "text_key": "hebrews.2.p3.b10"
+    }
+  ]
+}

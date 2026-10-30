@@ -1,0 +1,115 @@
+{
+  "id": "HEBREWS_06_P003",
+  "book": "hebrews",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_06_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "亲爱的弟兄姊妹，我们虽然这样说，却深信你们的情况比这好，而且有得救的表现。"
+      }
+    },
+    {
+      "id": "HEBREWS_06_P003_F2",
+      "box": [
+        0,
+        0.276,
+        1,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "因为神是公义的，不会忘记你们所做的工……就是你们从前服侍圣徒，现在还在服侍。"
+      }
+    },
+    {
+      "id": "HEBREWS_06_P003_F3",
+      "box": [
+        0.634,
+        0.5083,
+        0.366,
+        0.1625
+      ]
+    },
+    {
+      "id": "HEBREWS_06_P003_F4",
+      "box": [
+        0,
+        0.6758,
+        1,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "也不要懒惰，要效法那些凭着信心和忍耐承受应许的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_06_P003_B008",
+      "panel": "HEBREWS_06_P003_F1",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0109,
+        0.4,
+        0.0765
+      ],
+      "tail": null,
+      "text_key": "hebrews.6.p3.b8"
+    },
+    {
+      "id": "HEBREWS_06_P003_B009",
+      "panel": "HEBREWS_06_P003_F2",
+      "order": 9,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.2919,
+        0.4,
+        0.0634
+      ],
+      "tail": [
+        0.24,
+        0.395
+      ],
+      "text_key": "hebrews.6.p3.b9"
+    },
+    {
+      "id": "HEBREWS_06_P003_B010",
+      "panel": "HEBREWS_06_P003_F4",
+      "order": 10,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.48,
+        0.6823,
+        0.4,
+        0.0518
+      ],
+      "tail": [
+        0.68,
+        0.7665
+      ],
+      "text_key": "hebrews.6.p3.b10"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "HEBREWS_03_P004",
+  "book": "hebrews",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_03_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，你们要小心，免得你们中间有人存着邪恶不信的心，离弃了永活的神。"
+      }
+    },
+    {
+      "id": "HEBREWS_03_P004_F2",
+      "box": [
+        0,
+        0.2702,
+        1,
+        0.4544
+      ],
+      "alt": {
+        "zh-CN": "总要趁着还有「今天」，每天彼此劝勉，免得你们中间有人被罪迷惑，心就刚硬了。"
+      }
+    },
+    {
+      "id": "HEBREWS_03_P004_F3",
+      "box": [
+        0,
+        0.7279,
+        0.5,
+        0.2721
+      ],
+      "alt": {
+        "zh-CN": "我们若把起初的信心坚持到底，就是与基督有分的人了。"
+      }
+    },
+    {
+      "id": "HEBREWS_03_P004_F4",
+      "box": [
+        0.5049,
+        0.7279,
+        0.4951,
+        0.2721
+      ],
+      "alt": {
+        "zh-CN": "「你们今天若听见他的声音，就不要硬着心，像惹他发怒的时候那样。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_03_P004_B011",
+      "panel": "HEBREWS_03_P004_F1",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0107,
+        0.4,
+        0.08
+      ],
+      "tail": [
+        0.76,
+        0.1174
+      ],
+      "text_key": "hebrews.3.p4.b11"
+    },
+    {
+      "id": "HEBREWS_03_P004_B012",
+      "panel": "HEBREWS_03_P004_F2",
+      "order": 12,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.2884,
+        0.46,
+        0.0727
+      ],
+      "tail": [
+        0.27,
+        0.4065
+      ],
+      "text_key": "hebrews.3.p4.b12"
+    },
+    {
+      "id": "HEBREWS_03_P004_B013",
+      "panel": "HEBREWS_03_P004_F3",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.24,
+        0.7388,
+        0.24,
+        0.0653
+      ],
+      "tail": null,
+      "text_key": "hebrews.3.p4.b13"
+    },
+    {
+      "id": "HEBREWS_03_P004_B014",
+      "panel": "HEBREWS_03_P004_F4",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5148,
+        0.7306,
+        0.297,
+        0.0299
+      ],
+      "tail": null,
+      "text_key": "hebrews.3.p4.b14"
+    }
+  ]
+}

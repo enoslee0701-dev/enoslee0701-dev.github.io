@@ -1,0 +1,85 @@
+{
+  "id": "HEBREWS_04_P004",
+  "book": "hebrews",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:12-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4844
+      ],
+      "alt": {
+        "zh-CN": "神的话是活的，是有能力的，比任何两刃的剑更锋利……连心中的思想和意念都能辨明。"
+      }
+    },
+    {
+      "id": "HEBREWS_04_P004_F2",
+      "box": [
+        0,
+        0.4889,
+        0.5176,
+        0.5111
+      ],
+      "alt": {
+        "zh-CN": "没有一样被造的能在神面前隐藏；万物在那位我们必须向他交账的主眼前，都是赤裸敞开的。"
+      }
+    },
+    {
+      "id": "HEBREWS_04_P004_F3",
+      "box": [
+        0.5254,
+        0.4889,
+        0.4746,
+        0.5111
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_04_P004_B011",
+      "panel": "HEBREWS_04_P004_F1",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0145,
+        0.42,
+        0.0871
+      ],
+      "tail": [
+        0.25,
+        0.15
+      ],
+      "text_key": "hebrews.4.p4.b11"
+    },
+    {
+      "id": "HEBREWS_04_P004_B012",
+      "panel": "HEBREWS_04_P004_F2",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1863,
+        0.8262,
+        0.3002,
+        0.1533
+      ],
+      "tail": null,
+      "text_key": "hebrews.4.p4.b12"
+    }
+  ]
+}

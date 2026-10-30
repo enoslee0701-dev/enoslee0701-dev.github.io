@@ -1,0 +1,94 @@
+{
+  "id": "HEBREWS_11_P003",
+  "book": "hebrews",
+  "chapter": 11,
+  "page": 3,
+  "ref": "11:7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_11_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_11_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1693
+      ]
+    },
+    {
+      "id": "HEBREWS_11_P003_F2",
+      "box": [
+        0,
+        0.1732,
+        1,
+        0.498
+      ],
+      "alt": {
+        "zh-CN": "挪亚因着信，在得到神的警告、知道那还没有看见的事以后，就存着敬畏的心，造了一只方舟，使他全家得救。"
+      }
+    },
+    {
+      "id": "HEBREWS_11_P003_F3",
+      "box": [
+        0.01,
+        0.504,
+        0.41,
+        0.166
+      ]
+    },
+    {
+      "id": "HEBREWS_11_P003_F4",
+      "box": [
+        0,
+        0.6751,
+        1,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "他借此定了那个世代的罪，自己也承受了因信而来的义。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_11_P003_B006",
+      "panel": "HEBREWS_11_P003_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.1881,
+        0.44,
+        0.0896
+      ],
+      "tail": null,
+      "text_key": "hebrews.11.p3.b6"
+    },
+    {
+      "id": "HEBREWS_11_P003_B007",
+      "panel": "HEBREWS_11_P003_F4",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.26,
+        0.6816,
+        0.36,
+        0.0519
+      ],
+      "tail": [
+        0.44,
+        0.766
+      ],
+      "text_key": "hebrews.11.p3.b7"
+    }
+  ]
+}

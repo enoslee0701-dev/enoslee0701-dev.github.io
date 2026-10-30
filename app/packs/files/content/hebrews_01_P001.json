@@ -1,0 +1,91 @@
+{
+  "id": "HEBREWS_01_P001",
+  "book": "hebrews",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.321
+      ]
+    },
+    {
+      "id": "HEBREWS_01_P001_F2",
+      "box": [
+        0,
+        0.3249,
+        0.5811,
+        0.3477
+      ],
+      "alt": {
+        "zh-CN": "神在古时候，藉着众先知，用许多次、许多方式向我们的祖先说话；"
+      }
+    },
+    {
+      "id": "HEBREWS_01_P001_F3",
+      "box": [
+        0.5898,
+        0.3249,
+        0.4102,
+        0.3476
+      ]
+    },
+    {
+      "id": "HEBREWS_01_P001_F4",
+      "box": [
+        0,
+        0.6771,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "在这末后的日子，神藉着他的儿子向我们说话。神早已立他承受万有，也藉着他创造了宇宙。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_01_P001_B002",
+      "panel": "HEBREWS_01_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0232,
+        0.3353,
+        0.2673,
+        0.0695
+      ],
+      "tail": null,
+      "text_key": "hebrews.1.p1.b2"
+    },
+    {
+      "id": "HEBREWS_01_P001_B003",
+      "panel": "HEBREWS_01_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.28,
+        0.69,
+        0.68,
+        0.0581
+      ],
+      "tail": null,
+      "text_key": "hebrews.1.p1.b3"
+    }
+  ]
+}

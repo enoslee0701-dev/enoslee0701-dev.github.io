@@ -1,0 +1,133 @@
+{
+  "id": "HEBREWS_07_P003",
+  "book": "hebrews",
+  "chapter": 7,
+  "page": 3,
+  "ref": "7:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_07_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_07_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2415
+      ],
+      "alt": {
+        "zh-CN": "从前百姓是在利未人的祭司制度下领受律法的，如果靠这个制度就能达到完全，又何必另外兴起一位祭司，"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P003_F2",
+      "box": [
+        0,
+        0.2448,
+        1,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "……按照麦基洗德的样式，而不按照亚伦的样式呢？"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P003_F3",
+      "box": [
+        0.604,
+        0.4975,
+        0.39,
+        0.175
+      ],
+      "alt": {
+        "zh-CN": "祭司制度既然改变了，律法也必须改变。"
+      }
+    },
+    {
+      "id": "HEBREWS_07_P003_F4",
+      "box": [
+        0,
+        0.6803,
+        1,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "我们的主明明是从犹大支派出来的；摩西论到这个支派时，从来没有提到祭司。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_07_P003_B009",
+      "panel": "HEBREWS_07_P003_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.0097,
+        0.44,
+        0.0579
+      ],
+      "tail": null,
+      "text_key": "hebrews.7.p3.b9"
+    },
+    {
+      "id": "HEBREWS_07_P003_B010",
+      "panel": "HEBREWS_07_P003_F2",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.2621,
+        0.44,
+        0.0779
+      ],
+      "tail": null,
+      "text_key": "hebrews.7.p3.b10"
+    },
+    {
+      "id": "HEBREWS_07_P003_B011",
+      "panel": "HEBREWS_07_P003_F3",
+      "order": 11,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6196,
+        0.6375,
+        0.3588,
+        0.0315
+      ],
+      "tail": [
+        0.799,
+        0.6725
+      ],
+      "text_key": "hebrews.7.p3.b11"
+    },
+    {
+      "id": "HEBREWS_07_P003_B012",
+      "panel": "HEBREWS_07_P003_F4",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6899,
+        0.4,
+        0.0575
+      ],
+      "tail": [
+        0.5,
+        0.7794
+      ],
+      "text_key": "hebrews.7.p3.b12"
+    }
+  ]
+}

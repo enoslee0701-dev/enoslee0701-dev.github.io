@@ -1,0 +1,100 @@
+{
+  "id": "HEBREWS_04_P002",
+  "book": "hebrews",
+  "chapter": 4,
+  "page": 2,
+  "ref": "4:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_04_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_04_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "关于第七天，有一处经文说："
+      }
+    },
+    {
+      "id": "HEBREWS_04_P002_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "「到了第七天，神就停止了他一切的工作，安息了。」"
+      }
+    },
+    {
+      "id": "HEBREWS_04_P002_F3",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "「你们今天若听见他的声音，就不要硬着心。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_04_P002_B004",
+      "panel": "HEBREWS_04_P002_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0077,
+        0.34,
+        0.0564
+      ],
+      "tail": null,
+      "text_key": "hebrews.4.p2.b4"
+    },
+    {
+      "id": "HEBREWS_04_P002_B005",
+      "panel": "HEBREWS_04_P002_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.2765,
+        0.42,
+        0.0642
+      ],
+      "tail": null,
+      "text_key": "hebrews.4.p2.b5"
+    },
+    {
+      "id": "HEBREWS_04_P002_B006",
+      "panel": "HEBREWS_04_P002_F3",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.6794,
+        0.44,
+        0.0801
+      ],
+      "tail": null,
+      "text_key": "hebrews.4.p2.b6"
+    }
+  ]
+}

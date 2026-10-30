@@ -1,0 +1,130 @@
+{
+  "id": "HEBREWS_09_P002",
+  "book": "hebrews",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2057
+      ],
+      "alt": {
+        "zh-CN": "众祭司经常进入第一层帐幕，进行敬拜神的事奉。"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P002_F2",
+      "box": [
+        0,
+        0.209,
+        1,
+        0.4727
+      ],
+      "alt": {
+        "zh-CN": "至于第二层帐幕，只有大祭司一年一次独自进去，"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P002_F3",
+      "box": [
+        0.552,
+        0.4915,
+        0.442,
+        0.1888
+      ],
+      "alt": {
+        "zh-CN": "圣灵借此表明：第一层帐幕还存在的时候，进入至圣所的路还没有显明。"
+      }
+    },
+    {
+      "id": "HEBREWS_09_P002_F4",
+      "box": [
+        0,
+        0.6849,
+        1,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "所献的礼物和祭物，在良心上都不能使敬拜的人完全。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_09_P002_B005",
+      "panel": "HEBREWS_09_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0062,
+        0.4,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p2.b5"
+    },
+    {
+      "id": "HEBREWS_09_P002_B006",
+      "panel": "HEBREWS_09_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2232,
+        0.44,
+        0.0756
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p2.b6"
+    },
+    {
+      "id": "HEBREWS_09_P002_B007",
+      "panel": "HEBREWS_09_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5697,
+        0.6237,
+        0.4066,
+        0.0528
+      ],
+      "tail": null,
+      "text_key": "hebrews.9.p2.b7"
+    },
+    {
+      "id": "HEBREWS_09_P002_B008",
+      "panel": "HEBREWS_09_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6944,
+        0.4,
+        0.0567
+      ],
+      "tail": [
+        0.5,
+        0.7826
+      ],
+      "text_key": "hebrews.9.p2.b8"
+    }
+  ]
+}

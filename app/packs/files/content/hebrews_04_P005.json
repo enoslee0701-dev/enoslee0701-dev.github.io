@@ -1,0 +1,109 @@
+{
+  "id": "HEBREWS_04_P005",
+  "book": "hebrews",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HEBREWS_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HEBREWS_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "我们既然有一位伟大的大祭司，已经进入了高天，就是神的儿子耶稣，就应当坚守我们所宣认的信仰。"
+      }
+    },
+    {
+      "id": "HEBREWS_04_P005_F2",
+      "box": [
+        0,
+        0.3138,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "因为我们的大祭司并不是不能同情我们的软弱；他也在各方面受过试探，跟我们一样，只是他没有犯罪。"
+      }
+    },
+    {
+      "id": "HEBREWS_04_P005_F3",
+      "box": [
+        0,
+        0.5814,
+        1,
+        0.4186
+      ],
+      "alt": {
+        "zh-CN": "所以，我们只管放胆来到施恩的宝座前，好得着怜悯，蒙受恩典，作及时的帮助。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HEBREWS_04_P005_B013",
+      "panel": "HEBREWS_04_P005_F1",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0124,
+        0.44,
+        0.0807
+      ],
+      "tail": [
+        0.74,
+        0.1241
+      ],
+      "text_key": "hebrews.4.p5.b13"
+    },
+    {
+      "id": "HEBREWS_04_P005_B014",
+      "panel": "HEBREWS_04_P005_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.327,
+        0.4,
+        0.0898
+      ],
+      "tail": [
+        0.24,
+        0.4432
+      ],
+      "text_key": "hebrews.4.p5.b14"
+    },
+    {
+      "id": "HEBREWS_04_P005_B015",
+      "panel": "HEBREWS_04_P005_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.28,
+        0.594,
+        0.44,
+        0.0586
+      ],
+      "tail": [
+        0.5,
+        0.6945
+      ],
+      "text_key": "hebrews.4.p5.b15"
+    }
+  ]
+}
