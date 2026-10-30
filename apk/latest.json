@@ -1,31 +1,31 @@
 {
-  "build": 93,
+  "build": 94,
   "version": "1.1.0",
-  "published": "2026-10-30T09:09:46.255Z",
+  "published": "2026-10-30T10:47:36.622Z",
   "notes": {
-    "zh-Hans": "新增提多书 3 章漫画，五种语言",
-    "en": "Added Titus (3 chapters) in five languages"
+    "zh-Hans": "新增腓利门书（1 章），保罗书信十三卷全部上线",
+    "en": "Added Philemon; all 13 Pauline epistles are now available"
   },
   "assets": {
     "zh-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b93/bible-comics-zh-arm64.apk",
-      "size": 119650134,
-      "sha256": "9d32e14a5a71fc8bc09c6445a3fafa49edd9a34f9acb495ade18ba0792b5757a"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b94/bible-comics-zh-arm64.apk",
+      "size": 119999880,
+      "sha256": "c17a1152a877d461ece5c3b7352101c660b2e505d55801cfd551defa8aadbb76"
     },
     "zh-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b93/bible-comics-zh-armv7.apk",
-      "size": 112718836,
-      "sha256": "6d5fc99a821a9ed1b8e27be5a3491af5bbb41a13f192901d82520624ba8f4d83"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b94/bible-comics-zh-armv7.apk",
+      "size": 113068582,
+      "sha256": "0320e316bd7c86b8a2fddfc9ecf9123a593cfa030b8a0f519555078da080a056"
     },
     "en-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b93/bible-comics-en-arm64.apk",
-      "size": 119651690,
-      "sha256": "dff4809190c99d3c09b07541204746e2e19266f466efe365f0dbd660c54ccfc8"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b94/bible-comics-en-arm64.apk",
+      "size": 120001436,
+      "sha256": "296d968291aa51623c458ba1a52810532f9d27569fcd9be53b3aa87b1e67c30a"
     },
     "en-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b93/bible-comics-en-armv7.apk",
-      "size": 112720392,
-      "sha256": "39362a52c0080e4adfc23ba50af49248a4d3a56bc7a5df3a8dd6626482bf3331"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b94/bible-comics-en-armv7.apk",
+      "size": 113070138,
+      "sha256": "f9b489fcdad432a936bb5f407e36dd5d2362864177bdc8fae8a452fcb2b104db"
     }
   }
 }
