@@ -1,0 +1,139 @@
+{
+  "id": "PHILEMON_01_P006",
+  "book": "philemon",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILEMON_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILEMON_01_P006_F1",
+      "box": [
+        0,
+        0,
+        0.5605,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "你若把我当作同伴，就接纳他，像接纳我一样。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P006_F2",
+      "box": [
+        0.5674,
+        0,
+        0.4326,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "他若亏待了你，或欠你什么，都记在我的帐上；"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P006_F3",
+      "box": [
+        0,
+        0.3125,
+        1,
+        0.3724
+      ],
+      "alt": {
+        "zh-CN": "我会偿还，这是我保罗亲手写的。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P006_F4",
+      "box": [
+        0,
+        0.6888,
+        1,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "我不必对你说，连你自己也欠了我。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILEMON_01_P006_B017",
+      "panel": "PHILEMON_01_P006_F1",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3363,
+        0.0062,
+        0.2129,
+        0.0461
+      ],
+      "tail": [
+        0.4428,
+        0.0831
+      ],
+      "text_key": "philemon.1.p6.b17"
+    },
+    {
+      "id": "PHILEMON_01_P006_B018",
+      "panel": "PHILEMON_01_P006_F2",
+      "order": 18,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.827,
+        0.2525,
+        0.1643,
+        0.0492
+      ],
+      "tail": [
+        0.9091,
+        0.3079
+      ],
+      "text_key": "philemon.1.p6.b18"
+    },
+    {
+      "id": "PHILEMON_01_P006_B019",
+      "panel": "PHILEMON_01_P006_F3",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.16,
+        0.3199,
+        0.46,
+        0.0521
+      ],
+      "tail": [
+        0.39,
+        0.4092
+      ],
+      "text_key": "philemon.1.p6.b19"
+    },
+    {
+      "id": "PHILEMON_01_P006_B020",
+      "panel": "PHILEMON_01_P006_F4",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.7137,
+        0.35,
+        0.0933
+      ],
+      "tail": [
+        0.795,
+        0.8381
+      ],
+      "text_key": "philemon.1.p6.b20"
+    }
+  ]
+}

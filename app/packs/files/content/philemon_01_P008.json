@@ -1,0 +1,106 @@
+{
+  "id": "PHILEMON_01_P008",
+  "book": "philemon",
+  "chapter": 1,
+  "page": 8,
+  "ref": "1:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILEMON_01_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILEMON_01_P008_F1",
+      "box": [
+        0,
+        0,
+        0.4521,
+        0.4557
+      ],
+      "alt": {
+        "zh-CN": "还有，请你为我预备住处，因为我盼望借着你们的祷告，蒙恩回到你们那里。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P008_F2",
+      "box": [
+        0.459,
+        0,
+        0.541,
+        0.4557
+      ],
+      "alt": {
+        "zh-CN": "为基督耶稣和我一同坐牢的以巴弗问候你。和我同工的马可、亚里达古、底马、路加也问候你。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P008_F3",
+      "box": [
+        0,
+        0.459,
+        1,
+        0.541
+      ],
+      "alt": {
+        "zh-CN": "愿主耶稣基督的恩典常与你的心同在。阿们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILEMON_01_P008_B024",
+      "panel": "PHILEMON_01_P008_F1",
+      "order": 24,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0136,
+        0.0137,
+        0.1898,
+        0.0729
+      ],
+      "tail": [
+        0.1085,
+        0.1322
+      ],
+      "text_key": "philemon.1.p8.b24"
+    },
+    {
+      "id": "PHILEMON_01_P008_B025",
+      "panel": "PHILEMON_01_P008_F2",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5943,
+        0.0137,
+        0.2705,
+        0.0637
+      ],
+      "tail": [
+        0.7296,
+        0.123
+      ],
+      "text_key": "philemon.1.p8.b25"
+    },
+    {
+      "id": "PHILEMON_01_P008_B026",
+      "panel": "PHILEMON_01_P008_F3",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4752,
+        0.55,
+        0.0703
+      ],
+      "tail": null,
+      "text_key": "philemon.1.p8.b26"
+    }
+  ]
+}

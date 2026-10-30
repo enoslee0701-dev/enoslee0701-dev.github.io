@@ -1,0 +1,115 @@
+{
+  "id": "PHILEMON_01_P002",
+  "book": "philemon",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILEMON_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILEMON_01_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5479,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "我祷告的时候提到你，常常感谢我的　神；"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P002_F2",
+      "box": [
+        0.5557,
+        0,
+        0.4443,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "因为听说你对主耶稣和众圣徒的爱心与信心。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P002_F3",
+      "box": [
+        0,
+        0.3118,
+        1,
+        0.4036
+      ],
+      "alt": {
+        "zh-CN": "弟兄啊，你的爱心使我大有喜乐和安慰，因为众圣徒的心因你而得了畅快。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P002_F4",
+      "box": [
+        0,
+        0.7188,
+        1,
+        0.2812
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILEMON_01_P002_B004",
+      "panel": "PHILEMON_01_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2575,
+        0.0092,
+        0.2739,
+        0.0492
+      ],
+      "tail": [
+        0.3944,
+        0.0892
+      ],
+      "text_key": "philemon.1.p2.b4"
+    },
+    {
+      "id": "PHILEMON_01_P002_B005",
+      "panel": "PHILEMON_01_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.769,
+        0.0092,
+        0.2132,
+        0.0492
+      ],
+      "tail": [
+        0.8756,
+        0.0892
+      ],
+      "text_key": "philemon.1.p2.b5"
+    },
+    {
+      "id": "PHILEMON_01_P002_B006",
+      "panel": "PHILEMON_01_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3239,
+        0.4,
+        0.0484
+      ],
+      "tail": null,
+      "text_key": "philemon.1.p2.b6"
+    }
+  ]
+}

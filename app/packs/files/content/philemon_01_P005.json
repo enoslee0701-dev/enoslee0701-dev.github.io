@@ -1,0 +1,103 @@
+{
+  "id": "PHILEMON_01_P005",
+  "book": "philemon",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PHILEMON_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PHILEMON_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.209
+      ],
+      "alt": {
+        "zh-CN": "他暂时离开你，也许正是要让你永远得着他，"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P005_F2",
+      "box": [
+        0,
+        0.2129,
+        1,
+        0.7871
+      ],
+      "alt": {
+        "zh-CN": "不再是奴仆，而是比奴仆更好，是亲爱的弟兄。"
+      }
+    },
+    {
+      "id": "PHILEMON_01_P005_F3",
+      "box": [
+        0.575,
+        0.6625,
+        0.425,
+        0.3375
+      ],
+      "alt": {
+        "zh-CN": "对我来说确实是这样，对你来说更是如此！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PHILEMON_01_P005_B014",
+      "panel": "PHILEMON_01_P005_F1",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0084,
+        0.46,
+        0.0418
+      ],
+      "tail": null,
+      "text_key": "philemon.1.p5.b14"
+    },
+    {
+      "id": "PHILEMON_01_P005_B015",
+      "panel": "PHILEMON_01_P005_F2",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.33,
+        0.2365,
+        0.38,
+        0.1101
+      ],
+      "tail": null,
+      "text_key": "philemon.1.p5.b15"
+    },
+    {
+      "id": "PHILEMON_01_P005_B016",
+      "panel": "PHILEMON_01_P005_F3",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5962,
+        0.6693,
+        0.3825,
+        0.0438
+      ],
+      "tail": [
+        0.7875,
+        0.7469
+      ],
+      "text_key": "philemon.1.p5.b16"
+    }
+  ]
+}
