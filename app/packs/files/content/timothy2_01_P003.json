@@ -1,0 +1,118 @@
+{
+  "id": "TIMOTHY2_01_P003",
+  "book": "timothy2",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_01_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5176,
+        0.2604
+      ],
+      "alt": {
+        "zh-CN": "所以我提醒你，要把神借着我按手赐给你的恩赐再像火一样挑旺起来。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P003_F2",
+      "box": [
+        0.5225,
+        0,
+        0.4775,
+        0.2604
+      ]
+    },
+    {
+      "id": "TIMOTHY2_01_P003_F3",
+      "box": [
+        0,
+        0.263,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "因为神赐给我们的，不是胆怯的心，而是刚强、仁爱、自律的心。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P003_F4",
+      "box": [
+        0,
+        0.6563,
+        1,
+        0.3437
+      ],
+      "alt": {
+        "zh-CN": "也不要因我为主被囚而羞愧；要靠着神的能力，和我一起为福音受苦。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_01_P003_B001",
+      "panel": "TIMOTHY2_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0207,
+        0.2083,
+        0.4761,
+        0.0442
+      ],
+      "tail": [
+        0,
+        0.2604
+      ],
+      "text_key": "timothy2.1.p3.b1"
+    },
+    {
+      "id": "TIMOTHY2_01_P003_B002",
+      "panel": "TIMOTHY2_01_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2747,
+        0.4,
+        0.0703
+      ],
+      "tail": [
+        0,
+        0.3841
+      ],
+      "text_key": "timothy2.1.p3.b2"
+    },
+    {
+      "id": "TIMOTHY2_01_P003_B003",
+      "panel": "TIMOTHY2_01_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6632,
+        0.31,
+        0.0618
+      ],
+      "tail": [
+        0.175,
+        0.7594
+      ],
+      "text_key": "timothy2.1.p3.b3"
+    }
+  ]
+}

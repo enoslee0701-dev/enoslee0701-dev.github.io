@@ -1,0 +1,139 @@
+{
+  "id": "TIMOTHY2_02_P007",
+  "book": "timothy2",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:22-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_02_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_02_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "你要逃避年轻人的私欲，和那些用清洁的心求告主的人一同追求公义、信心、爱心与和平。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P007_F2",
+      "box": [
+        0,
+        0.2389,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "要拒绝愚蠢无知的争论，主的仆人不可争吵，要温和待人，善于教导，存心忍耐。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P007_F3",
+      "box": [
+        0,
+        0.4987,
+        1,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "要温柔地劝导反对的人；也许神会给他们悔改的心，明白真理。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P007_F4",
+      "box": [
+        0,
+        0.8301,
+        1,
+        0.1699
+      ],
+      "alt": {
+        "zh-CN": "使他们这些被魔鬼掳去、随他意思行事的人，能清醒过来，脱离他的网罗。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_02_P007_B001",
+      "panel": "TIMOTHY2_02_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0094,
+        0.4,
+        0.0515
+      ],
+      "tail": [
+        0,
+        0.0843
+      ],
+      "text_key": "timothy2.2.p7.b1"
+    },
+    {
+      "id": "TIMOTHY2_02_P007_B002",
+      "panel": "TIMOTHY2_02_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.2491,
+        0.38,
+        0.0509
+      ],
+      "tail": [
+        0,
+        0.3255
+      ],
+      "text_key": "timothy2.2.p7.b2"
+    },
+    {
+      "id": "TIMOTHY2_02_P007_B003",
+      "panel": "TIMOTHY2_02_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.5085,
+        0.27,
+        0.0784
+      ],
+      "tail": [
+        0,
+        0.6196
+      ],
+      "text_key": "timothy2.2.p7.b3"
+    },
+    {
+      "id": "TIMOTHY2_02_P007_B004",
+      "panel": "TIMOTHY2_02_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.8471,
+        0.35,
+        0.1359
+      ],
+      "tail": [
+        0,
+        1
+      ],
+      "text_key": "timothy2.2.p7.b4"
+    }
+  ]
+}

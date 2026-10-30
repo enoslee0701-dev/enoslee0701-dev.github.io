@@ -1,0 +1,106 @@
+{
+  "id": "TIMOTHY2_03_P002",
+  "book": "timothy2",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2689
+      ],
+      "alt": {
+        "zh-CN": "那些潜入别人家里、诱骗无知妇女的，正是这种人。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_03_P002_F2",
+      "box": [
+        0,
+        0.2721,
+        1,
+        0.3691
+      ],
+      "alt": {
+        "zh-CN": "从前雅尼和佯庇怎样抵挡摩西，这些人也怎样抵挡真理。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_03_P002_F3",
+      "box": [
+        0,
+        0.6445,
+        1,
+        0.3555
+      ],
+      "alt": {
+        "zh-CN": "但他们不能再得逞了，因为他们的愚昧必在众人面前显露出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_03_P002_B001",
+      "panel": "TIMOTHY2_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0108,
+        0.44,
+        0.0645
+      ],
+      "tail": [
+        0,
+        0.1022
+      ],
+      "text_key": "timothy2.3.p2.b1"
+    },
+    {
+      "id": "TIMOTHY2_03_P002_B002",
+      "panel": "TIMOTHY2_03_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2869,
+        0.42,
+        0.0664
+      ],
+      "tail": null,
+      "text_key": "timothy2.3.p2.b2"
+    },
+    {
+      "id": "TIMOTHY2_03_P002_B003",
+      "panel": "TIMOTHY2_03_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.6623,
+        0.43,
+        0.0782
+      ],
+      "tail": [
+        0.755,
+        0.7761
+      ],
+      "text_key": "timothy2.3.p2.b3"
+    }
+  ]
+}

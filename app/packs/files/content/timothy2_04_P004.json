@@ -1,0 +1,76 @@
+{
+  "id": "TIMOTHY2_04_P004",
+  "book": "timothy2",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:7-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_04_P004_B001",
+      "panel": "TIMOTHY2_04_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.04,
+        0.42,
+        0.16
+      ],
+      "tail": [
+        0.76,
+        0.3
+      ],
+      "text_key": "timothy2.4.p4.b1"
+    },
+    {
+      "id": "TIMOTHY2_04_P004_B002",
+      "panel": "TIMOTHY2_04_P004_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.24,
+        0.39,
+        0.12
+      ],
+      "tail": null,
+      "text_key": "timothy2.4.p4.b2"
+    },
+    {
+      "id": "TIMOTHY2_04_P004_B003",
+      "panel": "TIMOTHY2_04_P004_F1",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.84,
+        0.48,
+        0.13
+      ],
+      "tail": null,
+      "text_key": "timothy2.4.p4.b3"
+    }
+  ]
+}

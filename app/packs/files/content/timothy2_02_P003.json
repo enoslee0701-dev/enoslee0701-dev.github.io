@@ -1,0 +1,109 @@
+{
+  "id": "TIMOTHY2_02_P003",
+  "book": "timothy2",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "你要记得耶稣基督是大卫的后代，他从死人中复活了，这正是我所传的福音。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P003_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "我为这福音受苦，甚至像犯人一样被捆锁；然而神的道却不受捆锁。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P003_F3",
+      "box": [
+        0,
+        0.6673,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "所以我为蒙拣选的人忍受一切，使他们也能得着在基督耶稣里的救恩和永远的荣耀。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_02_P003_B001",
+      "panel": "TIMOTHY2_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.63,
+        0.0496,
+        0.34,
+        0.0675
+      ],
+      "tail": [
+        0.8,
+        0.1396
+      ],
+      "text_key": "timothy2.2.p3.b1"
+    },
+    {
+      "id": "TIMOTHY2_02_P003_B002",
+      "panel": "TIMOTHY2_02_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.2422,
+        0.36,
+        0.0738
+      ],
+      "tail": [
+        0.68,
+        0.3594
+      ],
+      "text_key": "timothy2.2.p3.b2"
+    },
+    {
+      "id": "TIMOTHY2_02_P003_B003",
+      "panel": "TIMOTHY2_02_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.6806,
+        0.38,
+        0.0565
+      ],
+      "tail": [
+        0,
+        0.7704
+      ],
+      "text_key": "timothy2.2.p3.b3"
+    }
+  ]
+}

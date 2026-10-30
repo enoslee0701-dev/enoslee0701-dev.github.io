@@ -1,0 +1,100 @@
+{
+  "id": "TIMOTHY2_02_P006",
+  "book": "timothy2",
+  "chapter": 2,
+  "page": 6,
+  "ref": "2:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_02_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_02_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ],
+      "alt": {
+        "zh-CN": "然而神坚固的根基屹立不动，上面刻着：「主认识属他的人」，又说：「凡称呼主名的人都要远离不义」。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P006_F2",
+      "box": [
+        0,
+        0.252,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "在大户人家里，不只有金器银器，也有木器瓦器；有的作贵重用途，有的作卑贱用途。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P006_F3",
+      "box": [
+        0,
+        0.5807,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "人若洁净自己，远离卑贱的事，就会成为贵重的器皿，分别为圣，合乎主用，预备好做各样的善事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_02_P006_B001",
+      "panel": "TIMOTHY2_02_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.0099,
+        0.39,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "timothy2.2.p6.b1"
+    },
+    {
+      "id": "TIMOTHY2_02_P006_B002",
+      "panel": "TIMOTHY2_02_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5039,
+        0.4,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "timothy2.2.p6.b2"
+    },
+    {
+      "id": "TIMOTHY2_02_P006_B003",
+      "panel": "TIMOTHY2_02_P006_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.63,
+        0.8994,
+        0.35,
+        0.088
+      ],
+      "tail": null,
+      "text_key": "timothy2.2.p6.b3"
+    }
+  ]
+}

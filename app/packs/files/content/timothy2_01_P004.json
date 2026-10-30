@@ -1,0 +1,136 @@
+{
+  "id": "TIMOTHY2_01_P004",
+  "book": "timothy2",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ],
+      "alt": {
+        "zh-CN": "神救了我们，用神圣的呼召召我们，不是按我们的行为，而是按他的旨意和恩典；"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P004_F2",
+      "box": [
+        0,
+        0.2513,
+        1,
+        0.3236
+      ],
+      "alt": {
+        "zh-CN": "他已经废除了死，借着福音，把不朽坏的生命显明出来。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P004_F3",
+      "box": [
+        0,
+        0.5775,
+        0.498,
+        0.4225
+      ],
+      "alt": {
+        "zh-CN": "我为这福音被派作传道的、使徒和教师。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P004_F4",
+      "box": [
+        0.5029,
+        0.5775,
+        0.4971,
+        0.4225
+      ],
+      "alt": {
+        "zh-CN": "可是我不以为耻，因为我知道我信的是谁，也深信他能保守我所交托他的，直到那日。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_01_P004_B001",
+      "panel": "TIMOTHY2_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0074,
+        0.41,
+        0.0595
+      ],
+      "tail": [
+        0.765,
+        0.0917
+      ],
+      "text_key": "timothy2.1.p4.b1"
+    },
+    {
+      "id": "TIMOTHY2_01_P004_B002",
+      "panel": "TIMOTHY2_01_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.261,
+        0.36,
+        0.0647
+      ],
+      "tail": null,
+      "text_key": "timothy2.1.p4.b2"
+    },
+    {
+      "id": "TIMOTHY2_01_P004_B003",
+      "panel": "TIMOTHY2_01_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.9155,
+        0.4581,
+        0.0718
+      ],
+      "tail": [
+        0,
+        1
+      ],
+      "text_key": "timothy2.1.p4.b3"
+    },
+    {
+      "id": "TIMOTHY2_01_P004_B004",
+      "panel": "TIMOTHY2_01_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7514,
+        0.586,
+        0.2336,
+        0.0929
+      ],
+      "tail": [
+        0.8682,
+        0.7212
+      ],
+      "text_key": "timothy2.1.p4.b4"
+    }
+  ]
+}

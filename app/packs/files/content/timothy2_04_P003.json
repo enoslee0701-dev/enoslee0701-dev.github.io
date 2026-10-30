@@ -1,0 +1,88 @@
+{
+  "id": "TIMOTHY2_04_P003",
+  "book": "timothy2",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "我现在已经被浇在祭坛上，"
+      }
+    },
+    {
+      "id": "TIMOTHY2_04_P003_F2",
+      "box": [
+        0,
+        0.3014,
+        1,
+        0.3704
+      ]
+    },
+    {
+      "id": "TIMOTHY2_04_P003_F3",
+      "box": [
+        0,
+        0.6771,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "我离世的时候到了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_04_P003_B001",
+      "panel": "TIMOTHY2_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0118,
+        0.41,
+        0.065
+      ],
+      "tail": [
+        0.765,
+        0.1064
+      ],
+      "text_key": "timothy2.4.p3.b1"
+    },
+    {
+      "id": "TIMOTHY2_04_P003_B002",
+      "panel": "TIMOTHY2_04_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.6932,
+        0.41,
+        0.0645
+      ],
+      "tail": [
+        0.765,
+        0.79
+      ],
+      "text_key": "timothy2.4.p3.b2"
+    }
+  ]
+}

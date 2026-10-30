@@ -1,0 +1,106 @@
+{
+  "id": "TIMOTHY2_03_P003",
+  "book": "timothy2",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "但你已经追随了我的教导、品行、志向、信心、宽容、爱心和忍耐，"
+      }
+    },
+    {
+      "id": "TIMOTHY2_03_P003_F2",
+      "box": [
+        0,
+        0.2819,
+        1,
+        0.347
+      ],
+      "alt": {
+        "zh-CN": "以及我在安提阿、以哥念、路司得所遭受的逼迫和苦难。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_03_P003_F3",
+      "box": [
+        0,
+        0.6335,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "我忍受了怎样的逼迫啊！但主把我从这一切苦难中救了出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_03_P003_B001",
+      "panel": "TIMOTHY2_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0111,
+        0.41,
+        0.0611
+      ],
+      "tail": [
+        0.765,
+        0.1
+      ],
+      "text_key": "timothy2.3.p3.b1"
+    },
+    {
+      "id": "TIMOTHY2_03_P003_B002",
+      "panel": "TIMOTHY2_03_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.2958,
+        0.42,
+        0.0416
+      ],
+      "tail": null,
+      "text_key": "timothy2.3.p3.b2"
+    },
+    {
+      "id": "TIMOTHY2_03_P003_B003",
+      "panel": "TIMOTHY2_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.6518,
+        0.35,
+        0.0806
+      ],
+      "tail": [
+        0.795,
+        0.7691
+      ],
+      "text_key": "timothy2.3.p3.b3"
+    }
+  ]
+}

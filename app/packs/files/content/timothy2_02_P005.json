@@ -1,0 +1,136 @@
+{
+  "id": "TIMOTHY2_02_P005",
+  "book": "timothy2",
+  "chapter": 2,
+  "page": 5,
+  "ref": "2:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_02_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_02_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "要在神面前郑重告诫他们，不要在言辞上争论，这毫无益处，只会害了听的人。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P005_F2",
+      "box": [
+        0,
+        0.2487,
+        1,
+        0.1432
+      ],
+      "alt": {
+        "zh-CN": "你要竭力在神面前作蒙悦纳、无愧的工人，正确地讲解真理的道。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P005_F3",
+      "box": [
+        0,
+        0.3958,
+        1,
+        0.3171
+      ],
+      "alt": {
+        "zh-CN": "要远避世俗的空谈；他们的话像恶疮一样蔓延，许米乃和腓理徒就是这种人。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P005_F4",
+      "box": [
+        0,
+        0.7161,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "他们偏离真理，说复活已经过去了，败坏了一些人的信心。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_02_P005_B001",
+      "panel": "TIMOTHY2_02_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0098,
+        0.35,
+        0.0588
+      ],
+      "tail": [
+        0,
+        0.0931
+      ],
+      "text_key": "timothy2.2.p5.b1"
+    },
+    {
+      "id": "TIMOTHY2_02_P005_B002",
+      "panel": "TIMOTHY2_02_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.263,
+        0.38,
+        0.1145
+      ],
+      "tail": [
+        0,
+        0.3918
+      ],
+      "text_key": "timothy2.2.p5.b2"
+    },
+    {
+      "id": "TIMOTHY2_02_P005_B003",
+      "panel": "TIMOTHY2_02_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4085,
+        0.44,
+        0.0634
+      ],
+      "tail": null,
+      "text_key": "timothy2.2.p5.b3"
+    },
+    {
+      "id": "TIMOTHY2_02_P005_B004",
+      "panel": "TIMOTHY2_02_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.7275,
+        0.45,
+        0.0567
+      ],
+      "tail": [
+        0,
+        0.8126
+      ],
+      "text_key": "timothy2.2.p5.b4"
+    }
+  ]
+}

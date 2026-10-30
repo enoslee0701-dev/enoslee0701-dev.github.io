@@ -1,0 +1,103 @@
+{
+  "id": "TIMOTHY2_02_P001",
+  "book": "timothy2",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "我儿啊，你要靠着基督耶稣的恩典刚强起来。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P001_F2",
+      "box": [
+        0,
+        0.2936,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "你在许多见证人面前听我所教导的，"
+      }
+    },
+    {
+      "id": "TIMOTHY2_02_P001_F3",
+      "box": [
+        0,
+        0.5313,
+        1,
+        0.4687
+      ],
+      "alt": {
+        "zh-CN": "也要托付给那些忠心、能教导别人的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_02_P001_B001",
+      "panel": "TIMOTHY2_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0116,
+        0.41,
+        0.064
+      ],
+      "tail": [
+        0.765,
+        0.1047
+      ],
+      "text_key": "timothy2.2.p1.b1"
+    },
+    {
+      "id": "TIMOTHY2_02_P001_B002",
+      "panel": "TIMOTHY2_02_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.303,
+        0.32,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "timothy2.2.p1.b2"
+    },
+    {
+      "id": "TIMOTHY2_02_P001_B003",
+      "panel": "TIMOTHY2_02_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.5501,
+        0.41,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "timothy2.2.p1.b3"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "TIMOTHY2_01_P005",
+  "book": "timothy2",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ],
+      "alt": {
+        "zh-CN": "你从我听到的健全的话，要以在基督耶稣里的信心和爱心，作为规范持守着。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P005_F2",
+      "box": [
+        0,
+        0.263,
+        1,
+        0.3984
+      ],
+      "alt": {
+        "zh-CN": "要靠着住在我们里面的圣灵，好好守护托付给你的美好的道。"
+      }
+    },
+    {
+      "id": "TIMOTHY2_01_P005_F3",
+      "box": [
+        0,
+        0.6647,
+        1,
+        0.3353
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_01_P005_B001",
+      "panel": "TIMOTHY2_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0078,
+        0.27,
+        0.0624
+      ],
+      "tail": [
+        0.165,
+        0.0962
+      ],
+      "text_key": "timothy2.1.p5.b1"
+    },
+    {
+      "id": "TIMOTHY2_01_P005_B002",
+      "panel": "TIMOTHY2_01_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.275,
+        0.4,
+        0.0717
+      ],
+      "tail": null,
+      "text_key": "timothy2.1.p5.b2"
+    }
+  ]
+}

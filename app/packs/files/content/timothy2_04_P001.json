@@ -1,0 +1,109 @@
+{
+  "id": "TIMOTHY2_04_P001",
+  "book": "timothy2",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY2_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY2_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "我在神面前，并在将要审判活人死人的基督耶稣面前，凭着他的显现和他的国度，郑重地嘱咐你："
+      }
+    },
+    {
+      "id": "TIMOTHY2_04_P001_F2",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "务要传道，不论时机是否合宜都要坚持，"
+      }
+    },
+    {
+      "id": "TIMOTHY2_04_P001_F3",
+      "box": [
+        0,
+        0.6667,
+        1,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "并以极大的忍耐和各样的教导去纠正人、责备人、劝勉人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY2_04_P001_B001",
+      "panel": "TIMOTHY2_04_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.008,
+        0.27,
+        0.0587
+      ],
+      "tail": [
+        0.165,
+        0.0934
+      ],
+      "text_key": "timothy2.4.p1.b1"
+    },
+    {
+      "id": "TIMOTHY2_04_P001_B002",
+      "panel": "TIMOTHY2_04_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.2871,
+        0.42,
+        0.0703
+      ],
+      "tail": [
+        0,
+        0.3965
+      ],
+      "text_key": "timothy2.4.p1.b2"
+    },
+    {
+      "id": "TIMOTHY2_04_P001_B003",
+      "panel": "TIMOTHY2_04_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.12,
+        0.6767,
+        0.4,
+        0.0566
+      ],
+      "tail": [
+        0,
+        0.7666
+      ],
+      "text_key": "timothy2.4.p1.b3"
+    }
+  ]
+}
