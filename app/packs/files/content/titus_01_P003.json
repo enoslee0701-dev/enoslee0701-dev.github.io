@@ -1,0 +1,106 @@
+{
+  "id": "TITUS_01_P003",
+  "book": "titus",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TITUS_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TITUS_01_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.4551
+      ],
+      "alt": {
+        "zh-CN": "监督既然是神的管家，就必须无可指责，……"
+      }
+    },
+    {
+      "id": "TITUS_01_P003_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.4551
+      ],
+      "alt": {
+        "zh-CN": "乐意款待客人，喜爱良善，自律，公正，圣洁，自制；"
+      }
+    },
+    {
+      "id": "TITUS_01_P003_F3",
+      "box": [
+        0,
+        0.4596,
+        1,
+        0.5404
+      ],
+      "alt": {
+        "zh-CN": "坚守所教导的可靠真道，好能用健全的教导劝勉人，又能驳倒反对的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TITUS_01_P003_B001",
+      "panel": "TITUS_01_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.0091,
+        0.4564,
+        0.0682
+      ],
+      "tail": null,
+      "text_key": "titus.1.p3.b1"
+    },
+    {
+      "id": "TITUS_01_P003_B002",
+      "panel": "TITUS_01_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5138,
+        0.0091,
+        0.1339,
+        0.1274
+      ],
+      "tail": [
+        0.5808,
+        0.182
+      ],
+      "text_key": "titus.1.p3.b2"
+    },
+    {
+      "id": "TITUS_01_P003_B003",
+      "panel": "TITUS_01_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.4758,
+        0.41,
+        0.0864
+      ],
+      "tail": [
+        0.765,
+        0.6162
+      ],
+      "text_key": "titus.1.p3.b3"
+    }
+  ]
+}

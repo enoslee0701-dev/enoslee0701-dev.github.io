@@ -1,0 +1,109 @@
+{
+  "id": "TITUS_02_P002",
+  "book": "titus",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TITUS_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TITUS_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "同样，劝年轻的男人要自律。"
+      }
+    },
+    {
+      "id": "TITUS_02_P002_F2",
+      "box": [
+        0,
+        0.2617,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "你自己要在凡事上作好行为的榜样；教导人要真诚、庄重，"
+      }
+    },
+    {
+      "id": "TITUS_02_P002_F3",
+      "box": [
+        0,
+        0.6855,
+        1,
+        0.3145
+      ],
+      "alt": {
+        "zh-CN": "言语健全、无可指责，使反对的人没有理由说我们的坏话，就自觉羞愧。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TITUS_02_P002_B001",
+      "panel": "TITUS_02_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0077,
+        0.46,
+        0.0514
+      ],
+      "tail": [
+        0.26,
+        0.0848
+      ],
+      "text_key": "titus.2.p2.b1"
+    },
+    {
+      "id": "TITUS_02_P002_B002",
+      "panel": "TITUS_02_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.2743,
+        0.41,
+        0.067
+      ],
+      "tail": [
+        0.765,
+        0.3832
+      ],
+      "text_key": "titus.2.p2.b2"
+    },
+    {
+      "id": "TITUS_02_P002_B003",
+      "panel": "TITUS_02_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.6949,
+        0.45,
+        0.0566
+      ],
+      "tail": [
+        0.745,
+        0.7829
+      ],
+      "text_key": "titus.2.p2.b3"
+    }
+  ]
+}

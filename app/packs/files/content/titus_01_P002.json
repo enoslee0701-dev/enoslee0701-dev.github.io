@@ -1,0 +1,106 @@
+{
+  "id": "TITUS_01_P002",
+  "book": "titus",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TITUS_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TITUS_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "我先前把你留在克里特，是要你把没有办完的事都整理好，"
+      }
+    },
+    {
+      "id": "TITUS_01_P002_F2",
+      "box": [
+        0,
+        0.3053,
+        1,
+        0.4271
+      ],
+      "alt": {
+        "zh-CN": "又照我吩咐你的，在各城设立长老。"
+      }
+    },
+    {
+      "id": "TITUS_01_P002_F3",
+      "box": [
+        0,
+        0.7376,
+        1,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "若有无可指责的人，只有一个妻子，儿女也是信主的……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TITUS_01_P002_B001",
+      "panel": "TITUS_01_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0091,
+        0.42,
+        0.0605
+      ],
+      "tail": [
+        0.76,
+        0.0999
+      ],
+      "text_key": "titus.1.p2.b1"
+    },
+    {
+      "id": "TITUS_01_P002_B002",
+      "panel": "TITUS_01_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3224,
+        0.42,
+        0.0683
+      ],
+      "tail": null,
+      "text_key": "titus.1.p2.b2"
+    },
+    {
+      "id": "TITUS_01_P002_B003",
+      "panel": "TITUS_01_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.75,
+        0.7455,
+        0.23,
+        0.0682
+      ],
+      "tail": [
+        0.865,
+        0.8399
+      ],
+      "text_key": "titus.1.p2.b3"
+    }
+  ]
+}

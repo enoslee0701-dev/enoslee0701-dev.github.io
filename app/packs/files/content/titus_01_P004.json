@@ -1,0 +1,103 @@
+{
+  "id": "TITUS_01_P004",
+  "book": "titus",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TITUS_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TITUS_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4089
+      ],
+      "alt": {
+        "zh-CN": "因为有许多人不服管束，说空话骗人，那些受割礼的更是这样。"
+      }
+    },
+    {
+      "id": "TITUS_01_P004_F2",
+      "box": [
+        0,
+        0.4134,
+        1,
+        0.2064
+      ],
+      "alt": {
+        "zh-CN": "必须堵住这些人的口。他们为了不义之财，……败坏人的全家。"
+      }
+    },
+    {
+      "id": "TITUS_01_P004_F3",
+      "box": [
+        0,
+        0.6243,
+        1,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "克里特人中有一位本地先知说：「克里特人常说谎，是凶恶的野兽，又贪吃又懒惰。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TITUS_01_P004_B001",
+      "panel": "TITUS_01_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0123,
+        0.48,
+        0.0695
+      ],
+      "tail": null,
+      "text_key": "titus.1.p4.b1"
+    },
+    {
+      "id": "TITUS_01_P004_B002",
+      "panel": "TITUS_01_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.4217,
+        0.38,
+        0.0495
+      ],
+      "tail": null,
+      "text_key": "titus.1.p4.b2"
+    },
+    {
+      "id": "TITUS_01_P004_B003",
+      "panel": "TITUS_01_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6356,
+        0.42,
+        0.0826
+      ],
+      "tail": [
+        0.76,
+        0.7558
+      ],
+      "text_key": "titus.1.p4.b3"
+    }
+  ]
+}

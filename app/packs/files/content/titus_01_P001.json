@@ -1,0 +1,121 @@
+{
+  "id": "TITUS_01_P001",
+  "book": "titus",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TITUS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TITUS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3711
+      ],
+      "alt": {
+        "zh-CN": "从马其顿到克里特"
+      }
+    },
+    {
+      "id": "TITUS_01_P001_F2",
+      "box": [
+        0,
+        0.3757,
+        1,
+        0.2363
+      ],
+      "alt": {
+        "zh-CN": "神的仆人、耶稣基督的使徒保罗，……"
+      }
+    },
+    {
+      "id": "TITUS_01_P001_F3",
+      "box": [
+        0,
+        0.6159,
+        0.5615,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "写信给提多，就是在我们共同的信仰上作我真儿子的。"
+      }
+    },
+    {
+      "id": "TITUS_01_P001_F4",
+      "box": [
+        0.5674,
+        0.6159,
+        0.4326,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "愿恩典、平安从父神和我们的救主基督耶稣临到你！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TITUS_01_P001_B001",
+      "panel": "TITUS_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.3828,
+        0.41,
+        0.0472
+      ],
+      "tail": [
+        0.765,
+        0.4536
+      ],
+      "text_key": "titus.1.p1.b1"
+    },
+    {
+      "id": "TITUS_01_P001_B002",
+      "panel": "TITUS_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.292,
+        0.6236,
+        0.2582,
+        0.0499
+      ],
+      "tail": [
+        0,
+        0.7119
+      ],
+      "text_key": "titus.1.p1.b2"
+    },
+    {
+      "id": "TITUS_01_P001_B003",
+      "panel": "TITUS_01_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.589,
+        0.9155,
+        0.3893,
+        0.0729
+      ],
+      "tail": [
+        0.5674,
+        1
+      ],
+      "text_key": "titus.1.p1.b3"
+    }
+  ]
+}
