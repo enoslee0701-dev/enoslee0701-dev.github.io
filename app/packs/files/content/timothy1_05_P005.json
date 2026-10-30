@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_05_P005",
+  "book": "timothy1",
+  "chapter": 5,
+  "page": 5,
+  "ref": "5:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_05_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_05_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3073
+      ],
+      "alt": {
+        "zh-CN": "善于管理教会的长老，应当被认为配得加倍的敬重和供养；那些在传道教导上劳苦的，更应当这样。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P005_F2",
+      "box": [
+        0,
+        0.3125,
+        1,
+        0.4212
+      ],
+      "alt": {
+        "zh-CN": "因为圣经说：「牛在场上踩谷的时候，不可笼住它的嘴」；又说：「工人得工钱是应当的。」"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P005_F3",
+      "box": [
+        0,
+        0.7389,
+        0.3975,
+        0.2611
+      ]
+    },
+    {
+      "id": "TIMOTHY1_05_P005_F4",
+      "box": [
+        0.4053,
+        0.7389,
+        0.5947,
+        0.2611
+      ],
+      "alt": {
+        "zh-CN": "控告长老的状子，没有两三个证人就不要受理。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_05_P005_B014",
+      "panel": "TIMOTHY1_05_P005_F1",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0092,
+        0.41,
+        0.0614
+      ],
+      "tail": [
+        0.765,
+        0.1013
+      ],
+      "text_key": "timothy1.5.p5.b14"
+    },
+    {
+      "id": "TIMOTHY1_05_P005_B015",
+      "panel": "TIMOTHY1_05_P005_F2",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.3251,
+        0.92,
+        0.0631
+      ],
+      "tail": null,
+      "text_key": "timothy1.5.p5.b15"
+    },
+    {
+      "id": "TIMOTHY1_05_P005_B016",
+      "panel": "TIMOTHY1_05_P005_F4",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7383,
+        0.7467,
+        0.2438,
+        0.0443
+      ],
+      "tail": [
+        0.8602,
+        0.8171
+      ],
+      "text_key": "timothy1.5.p5.b16"
+    }
+  ]
+}

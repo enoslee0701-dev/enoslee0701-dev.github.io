@@ -1,0 +1,112 @@
+{
+  "id": "TIMOTHY1_06_P002",
+  "book": "timothy1",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_06_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4863,
+        0.3477
+      ],
+      "alt": {
+        "zh-CN": "然而，敬虔加上知足，就是大利了。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P002_F2",
+      "box": [
+        0.4941,
+        0,
+        0.5059,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "因为我们没有带什么到世上来，也不能带什么走。只要有衣服、有食物，就应当知足。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P002_F3",
+      "box": [
+        0,
+        0.3522,
+        1,
+        0.6478
+      ],
+      "alt": {
+        "zh-CN": "贪爱钱财是一切罪恶的根源。有人贪恋钱财，就被引诱离开了信仰，用许多痛苦把自己刺透了。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P002_F4",
+      "box": [
+        0.5313,
+        0.7125,
+        0.4687,
+        0.2875
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_06_P002_B005",
+      "panel": "TIMOTHY1_06_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2675,
+        0.0104,
+        0.2042,
+        0.1182
+      ],
+      "tail": [
+        0.3696,
+        0.1634
+      ],
+      "text_key": "timothy1.6.p2.b5"
+    },
+    {
+      "id": "TIMOTHY1_06_P002_B006",
+      "panel": "TIMOTHY1_06_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5194,
+        0.249,
+        0.4553,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "timothy1.6.p2.b6"
+    },
+    {
+      "id": "TIMOTHY1_06_P002_B007",
+      "panel": "TIMOTHY1_06_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.3781,
+        0.4,
+        0.1166
+      ],
+      "tail": null,
+      "text_key": "timothy1.6.p2.b7"
+    }
+  ]
+}

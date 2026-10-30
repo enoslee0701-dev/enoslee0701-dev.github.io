@@ -1,0 +1,139 @@
+{
+  "id": "TIMOTHY1_02_P004",
+  "book": "timothy1",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "女人要安静地学习，凡事顺服。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P004_F2",
+      "box": [
+        0,
+        0.2682,
+        0.4443,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "我不许女人教导人，也不许她管辖男人，只要安静。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P004_F3",
+      "box": [
+        0.4521,
+        0.2682,
+        0.5479,
+        0.3398
+      ],
+      "alt": {
+        "zh-CN": "因为先被造的是亚当，后来才是夏娃，……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P004_F4",
+      "box": [
+        0,
+        0.6133,
+        1,
+        0.3867
+      ],
+      "alt": {
+        "zh-CN": "然而，女人若持守信心、爱心，又圣洁自律，就必在生养儿女的事上得救。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_02_P004_B001",
+      "panel": "TIMOTHY1_02_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0079,
+        0.42,
+        0.0527
+      ],
+      "tail": [
+        0.24,
+        0.087
+      ],
+      "text_key": "timothy1.2.p4.b1"
+    },
+    {
+      "id": "TIMOTHY1_02_P004_B002",
+      "panel": "TIMOTHY1_02_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0178,
+        0.275,
+        0.3998,
+        0.0543
+      ],
+      "tail": [
+        0.2177,
+        0.3633
+      ],
+      "text_key": "timothy1.2.p4.b2"
+    },
+    {
+      "id": "TIMOTHY1_02_P004_B003",
+      "panel": "TIMOTHY1_02_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7534,
+        0.2784,
+        0.2301,
+        0.0611
+      ],
+      "tail": [
+        0.8685,
+        0.3735
+      ],
+      "text_key": "timothy1.2.p4.b3"
+    },
+    {
+      "id": "TIMOTHY1_02_P004_B004",
+      "panel": "TIMOTHY1_02_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6249,
+        0.46,
+        0.0696
+      ],
+      "tail": [
+        0.26,
+        0.7332
+      ],
+      "text_key": "timothy1.2.p4.b4"
+    }
+  ]
+}

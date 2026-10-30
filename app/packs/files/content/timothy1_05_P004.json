@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_05_P004",
+  "book": "timothy1",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:13-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_05_P004_F1",
+      "box": [
+        0,
+        0,
+        0.4746,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "而且她们会养成懒惰的习惯，挨家挨户闲逛；……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P004_F2",
+      "box": [
+        0.4805,
+        0,
+        0.5195,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "所以我希望年轻的寡妇再嫁，生儿育女，管理家务，……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P004_F3",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.3978
+      ],
+      "alt": {
+        "zh-CN": "信主的妇女，如果家里有寡妇，就应当自己照顾她们，不要加重教会的负担，……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P004_F4",
+      "box": [
+        0,
+        0.7031,
+        1,
+        0.2969
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_05_P004_B011",
+      "panel": "TIMOTHY1_05_P004_F1",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.019,
+        0.009,
+        0.4271,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "timothy1.5.p4.b11"
+    },
+    {
+      "id": "TIMOTHY1_05_P004_B012",
+      "panel": "TIMOTHY1_05_P004_F2",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4909,
+        0.009,
+        0.2597,
+        0.0418
+      ],
+      "tail": [
+        0.6208,
+        0.0807
+      ],
+      "text_key": "timothy1.5.p4.b12"
+    },
+    {
+      "id": "TIMOTHY1_05_P004_B013",
+      "panel": "TIMOTHY1_05_P004_F3",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.314,
+        0.44,
+        0.0517
+      ],
+      "tail": [
+        0.25,
+        0.4055
+      ],
+      "text_key": "timothy1.5.p4.b13"
+    }
+  ]
+}

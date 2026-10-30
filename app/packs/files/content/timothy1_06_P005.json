@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_06_P005",
+  "book": "timothy1",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:17-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_06_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5537,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "你要叮嘱今世富有的人，不要骄傲，也不要把盼望放在不稳定的钱财上，要倚靠那把一切丰富地赐给我们享受的神。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P005_F2",
+      "box": [
+        0.5615,
+        0,
+        0.4385,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "还要叮嘱他们行善，在善事上富足，慷慨施舍，乐意与人分享，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P005_F3",
+      "box": [
+        0,
+        0.2904,
+        1,
+        0.4264
+      ],
+      "alt": {
+        "zh-CN": "这样就为自己积存美好的根基，预备将来，好持守那真正的生命。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P005_F4",
+      "box": [
+        0,
+        0.7207,
+        1,
+        0.2793
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_06_P005_B014",
+      "panel": "TIMOTHY1_06_P005_F1",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0221,
+        0.1943,
+        0.5094,
+        0.0828
+      ],
+      "tail": [
+        0.2768,
+        0.2858
+      ],
+      "text_key": "timothy1.6.p5.b14"
+    },
+    {
+      "id": "TIMOTHY1_06_P005_B015",
+      "panel": "TIMOTHY1_06_P005_F2",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5747,
+        0.0114,
+        0.1754,
+        0.0857
+      ],
+      "tail": [
+        0.6624,
+        0.1257
+      ],
+      "text_key": "timothy1.6.p5.b15"
+    },
+    {
+      "id": "TIMOTHY1_06_P005_B016",
+      "panel": "TIMOTHY1_06_P005_F3",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.3032,
+        0.41,
+        0.0639
+      ],
+      "tail": null,
+      "text_key": "timothy1.6.p5.b16"
+    }
+  ]
+}

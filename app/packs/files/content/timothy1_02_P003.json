@@ -1,0 +1,136 @@
+{
+  "id": "TIMOTHY1_02_P003",
+  "book": "timothy1",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_02_P003_F1",
+      "box": [
+        0,
+        0,
+        0.3135,
+        0.6536
+      ],
+      "alt": {
+        "zh-CN": "我希望男人不发怒、不争吵，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P003_F2",
+      "box": [
+        0.3223,
+        0,
+        0.6777,
+        0.6536
+      ],
+      "alt": {
+        "zh-CN": "在各处举起圣洁的手祷告；"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P003_F3",
+      "box": [
+        0.691,
+        0.4275,
+        0.305,
+        0.2245
+      ]
+    },
+    {
+      "id": "TIMOTHY1_02_P003_F4",
+      "box": [
+        0,
+        0.6576,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "也希望女人端庄、自律，穿着得体，……要有好的行为，这才配得上自称敬畏神的女人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_02_P003_B001",
+      "panel": "TIMOTHY1_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0125,
+        0.0065,
+        0.2884,
+        0.0588
+      ],
+      "tail": [
+        0.1567,
+        0.1307
+      ],
+      "text_key": "timothy1.2.p3.b1"
+    },
+    {
+      "id": "TIMOTHY1_02_P003_B002",
+      "panel": "TIMOTHY1_02_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7018,
+        0.0065,
+        0.2778,
+        0.0653
+      ],
+      "tail": [
+        0.8407,
+        0.1372
+      ],
+      "text_key": "timothy1.2.p3.b2"
+    },
+    {
+      "id": "TIMOTHY1_02_P003_B003",
+      "panel": "TIMOTHY1_02_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6679,
+        0.39,
+        0.0273
+      ],
+      "tail": [
+        0.775,
+        0.7294
+      ],
+      "text_key": "timothy1.2.p3.b3"
+    },
+    {
+      "id": "TIMOTHY1_02_P003_B004",
+      "panel": "TIMOTHY1_02_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.7021,
+        0.39,
+        0.0273
+      ],
+      "tail": [
+        0.775,
+        0.7636
+      ],
+      "text_key": "timothy1.2.p3.b4"
+    }
+  ]
+}

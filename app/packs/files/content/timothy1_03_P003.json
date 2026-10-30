@@ -1,0 +1,139 @@
+{
+  "id": "TIMOTHY1_03_P003",
+  "book": "timothy1",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_03_P003_F1",
+      "box": [
+        0,
+        0,
+        0.48,
+        0.35
+      ],
+      "alt": {
+        "zh-CN": "女执事也一样，必须端庄，不说毁谤的话，有节制，在各样事上忠心。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P003_F2",
+      "box": [
+        0.4863,
+        0,
+        0.5137,
+        0.35
+      ],
+      "alt": {
+        "zh-CN": "我希望快点到你那里去，所以先把这些事写给你。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P003_F3",
+      "box": [
+        0,
+        0.3567,
+        0.335,
+        0.6433
+      ],
+      "alt": {
+        "zh-CN": "如果我耽搁了，你也可以知道在神的家中应当怎样做。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P003_F4",
+      "box": [
+        0.34,
+        0.3567,
+        0.66,
+        0.6433
+      ],
+      "alt": {
+        "zh-CN": "这家就是永活神的教会，是真理的柱子和根基。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_03_P003_B001",
+      "panel": "TIMOTHY1_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0096,
+        0.301,
+        0.2016,
+        0.042
+      ],
+      "tail": [
+        0.1104,
+        0.35
+      ],
+      "text_key": "timothy1.3.p3.b1"
+    },
+    {
+      "id": "TIMOTHY1_03_P003_B002",
+      "panel": "TIMOTHY1_03_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7842,
+        0.0105,
+        0.2003,
+        0.056
+      ],
+      "tail": [
+        0.8844,
+        0.1015
+      ],
+      "text_key": "timothy1.3.p3.b2"
+    },
+    {
+      "id": "TIMOTHY1_03_P003_B003",
+      "panel": "TIMOTHY1_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0134,
+        0.8842,
+        0.2512,
+        0.0964
+      ],
+      "tail": [
+        0.139,
+        1
+      ],
+      "text_key": "timothy1.3.p3.b3"
+    },
+    {
+      "id": "TIMOTHY1_03_P003_B004",
+      "panel": "TIMOTHY1_03_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3928,
+        0.376,
+        0.264,
+        0.09
+      ],
+      "tail": [
+        0.5248,
+        0.5303
+      ],
+      "text_key": "timothy1.3.p3.b4"
+    }
+  ]
+}

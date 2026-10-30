@@ -1,0 +1,136 @@
+{
+  "id": "TIMOTHY1_03_P001",
+  "book": "timothy1",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_03_P001_F1",
+      "box": [
+        0,
+        0,
+        0.3496,
+        0.4688
+      ],
+      "alt": {
+        "zh-CN": "「人若想担任监督的职分，就是渴慕一件美好的工作。」这话是可信的。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P001_F2",
+      "box": [
+        0.3574,
+        0,
+        0.6426,
+        0.4688
+      ],
+      "alt": {
+        "zh-CN": "作监督的必须无可指责，……乐意接待客人，善于教导；"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P001_F3",
+      "box": [
+        0,
+        0.4733,
+        1,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "好好管理自己的家，使儿女在各样事上端庄顺服。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P001_F4",
+      "box": [
+        0,
+        0.7409,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "一个人若不知道怎样管理自己的家，又怎能照顾神的教会呢？"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_03_P001_B001",
+      "panel": "TIMOTHY1_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.014,
+        0.375,
+        0.3146,
+        0.075
+      ],
+      "tail": [
+        0.1713,
+        0.4688
+      ],
+      "text_key": "timothy1.3.p1.b1"
+    },
+    {
+      "id": "TIMOTHY1_03_P001_B002",
+      "panel": "TIMOTHY1_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7301,
+        0.0141,
+        0.2506,
+        0.0656
+      ],
+      "tail": [
+        0.8554,
+        0.1266
+      ],
+      "text_key": "timothy1.3.p1.b2"
+    },
+    {
+      "id": "TIMOTHY1_03_P001_B003",
+      "panel": "TIMOTHY1_03_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4812,
+        0.45,
+        0.0315
+      ],
+      "tail": null,
+      "text_key": "timothy1.3.p1.b3"
+    },
+    {
+      "id": "TIMOTHY1_03_P001_B004",
+      "panel": "TIMOTHY1_03_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.7513,
+        0.5,
+        0.0673
+      ],
+      "tail": [
+        0.29,
+        0.8445
+      ],
+      "text_key": "timothy1.3.p1.b4"
+    }
+  ]
+}

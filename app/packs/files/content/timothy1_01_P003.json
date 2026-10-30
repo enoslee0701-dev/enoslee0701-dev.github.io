@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_01_P003",
+  "book": "timothy1",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_01_P003_F1",
+      "box": [
+        0,
+        0,
+        0.457,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "我们知道，律法本是好的，只要人用得正当；"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P003_F2",
+      "box": [
+        0.4668,
+        0,
+        0.5332,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "因为律法不是为义人定的，而是为不守法和不服从的人……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P003_F3",
+      "box": [
+        0,
+        0.2708,
+        1,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "这是照着可称颂的神托付给我的荣耀福音说的。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P003_F4",
+      "box": [
+        0,
+        0.6589,
+        1,
+        0.3411
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_01_P003_B001",
+      "panel": "TIMOTHY1_01_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0183,
+        0.2077,
+        0.4204,
+        0.0505
+      ],
+      "tail": null,
+      "text_key": "timothy1.1.p3.b1"
+    },
+    {
+      "id": "TIMOTHY1_01_P003_B002",
+      "panel": "TIMOTHY1_01_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7867,
+        0.008,
+        0.1972,
+        0.0479
+      ],
+      "tail": [
+        0.8853,
+        0.0825
+      ],
+      "text_key": "timothy1.1.p3.b2"
+    },
+    {
+      "id": "TIMOTHY1_01_P003_B003",
+      "panel": "TIMOTHY1_01_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.2823,
+        0.39,
+        0.0614
+      ],
+      "tail": [
+        0.775,
+        0.3821
+      ],
+      "text_key": "timothy1.1.p3.b3"
+    }
+  ]
+}

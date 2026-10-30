@@ -1,0 +1,103 @@
+{
+  "id": "TIMOTHY1_01_P005",
+  "book": "timothy1",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "「基督耶稣到世上来，是要拯救罪人。」这话可信，值得完全接受。在罪人中我是罪魁。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P005_F2",
+      "box": [
+        0,
+        0.3444,
+        1,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "然而，我蒙了怜悯，为的是要让基督耶稣在我这罪魁身上显出他的一切忍耐，给以后信他得永生的人作榜样。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P005_F3",
+      "box": [
+        0,
+        0.6335,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "愿尊贵、荣耀归给永世的君王，就是那不朽坏、看不见、独一的神，直到永永远远。阿们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_01_P005_B001",
+      "panel": "TIMOTHY1_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0102,
+        0.47,
+        0.0544
+      ],
+      "tail": [
+        0.735,
+        0.0986
+      ],
+      "text_key": "timothy1.1.p5.b1"
+    },
+    {
+      "id": "TIMOTHY1_01_P005_B002",
+      "panel": "TIMOTHY1_01_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.3615,
+        0.35,
+        0.0855
+      ],
+      "tail": null,
+      "text_key": "timothy1.1.p5.b2"
+    },
+    {
+      "id": "TIMOTHY1_01_P005_B003",
+      "panel": "TIMOTHY1_01_P005_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.6518,
+        0.5,
+        0.1099
+      ],
+      "tail": null,
+      "text_key": "timothy1.1.p5.b3"
+    }
+  ]
+}

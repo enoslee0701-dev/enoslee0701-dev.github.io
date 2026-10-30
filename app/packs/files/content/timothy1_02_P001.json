@@ -1,0 +1,139 @@
+{
+  "id": "TIMOTHY1_02_P001",
+  "book": "timothy1",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_02_P001_F1",
+      "box": [
+        0,
+        0,
+        0.3467,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "我劝你，首先要为所有的人祈求、祷告、代求、感谢；"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P001_F2",
+      "box": [
+        0.3545,
+        0,
+        0.6455,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "也要为君王和一切掌权的人这样做，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P001_F3",
+      "box": [
+        0,
+        0.4382,
+        1,
+        0.3118
+      ],
+      "alt": {
+        "zh-CN": "好让我们能敬虔、端庄、平平安安地过日子。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P001_F4",
+      "box": [
+        0,
+        0.7539,
+        1,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "神愿意所有的人得救，明白真理。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_02_P001_B001",
+      "panel": "TIMOTHY1_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0139,
+        0.0087,
+        0.312,
+        0.0477
+      ],
+      "tail": [
+        0.1699,
+        0.0998
+      ],
+      "text_key": "timothy1.2.p1.b1"
+    },
+    {
+      "id": "TIMOTHY1_02_P001_B002",
+      "panel": "TIMOTHY1_02_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7095,
+        0.013,
+        0.2711,
+        0.0607
+      ],
+      "tail": [
+        0.8451,
+        0.1171
+      ],
+      "text_key": "timothy1.2.p1.b2"
+    },
+    {
+      "id": "TIMOTHY1_02_P001_B003",
+      "panel": "TIMOTHY1_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.4476,
+        0.37,
+        0.0498
+      ],
+      "tail": [
+        0.785,
+        0.5286
+      ],
+      "text_key": "timothy1.2.p1.b3"
+    },
+    {
+      "id": "TIMOTHY1_02_P001_B004",
+      "panel": "TIMOTHY1_02_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7,
+        0.7637,
+        0.28,
+        0.0738
+      ],
+      "tail": [
+        0.84,
+        0.8621
+      ],
+      "text_key": "timothy1.2.p1.b4"
+    }
+  ]
+}

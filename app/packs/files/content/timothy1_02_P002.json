@@ -1,0 +1,136 @@
+{
+  "id": "TIMOTHY1_02_P002",
+  "book": "timothy1",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "因为神只有一位，在神和人之间的中保也只有一位，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P002_F2",
+      "box": [
+        0,
+        0.2298,
+        0.2969,
+        0.515
+      ],
+      "alt": {
+        "zh-CN": "他献上自己，作所有人的赎价，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P002_F3",
+      "box": [
+        0.3027,
+        0.2298,
+        0.6973,
+        0.515
+      ],
+      "alt": {
+        "zh-CN": "我为这事被派作传道的人、作使徒、作外族人的老师，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_02_P002_F4",
+      "box": [
+        0,
+        0.7487,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "我说的是实话，不是谎言。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_02_P002_B001",
+      "panel": "TIMOTHY1_02_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0091,
+        0.4,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "timothy1.2.p2.b1"
+    },
+    {
+      "id": "TIMOTHY1_02_P002_B002",
+      "panel": "TIMOTHY1_02_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0148,
+        0.6418,
+        0.2672,
+        0.0875
+      ],
+      "tail": [
+        0.1484,
+        0.7448
+      ],
+      "text_key": "timothy1.2.p2.b2"
+    },
+    {
+      "id": "TIMOTHY1_02_P002_B003",
+      "panel": "TIMOTHY1_02_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6862,
+        0.2453,
+        0.2928,
+        0.0927
+      ],
+      "tail": [
+        0.8326,
+        0.3895
+      ],
+      "text_key": "timothy1.2.p2.b3"
+    },
+    {
+      "id": "TIMOTHY1_02_P002_B004",
+      "panel": "TIMOTHY1_02_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.9246,
+        0.36,
+        0.0653
+      ],
+      "tail": [
+        0.21,
+        1
+      ],
+      "text_key": "timothy1.2.p2.b4"
+    }
+  ]
+}

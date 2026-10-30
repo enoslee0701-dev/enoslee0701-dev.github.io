@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_01_P004",
+  "book": "timothy1",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "我感谢那赐我力量的我们的主基督耶稣，因为他认为我忠心，派我服事他。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P004_F2",
+      "box": [
+        0,
+        0.2598,
+        0.4961,
+        0.3346
+      ],
+      "alt": {
+        "zh-CN": "我从前是亵渎神的、迫害人的、凌辱人的；"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P004_F3",
+      "box": [
+        0.502,
+        0.2598,
+        0.498,
+        0.3346
+      ]
+    },
+    {
+      "id": "TIMOTHY1_01_P004_F4",
+      "box": [
+        0,
+        0.599,
+        1,
+        0.401
+      ],
+      "alt": {
+        "zh-CN": "然而我蒙了怜悯……我们主的恩典格外丰盛，使我在基督耶稣里有信心和爱心。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_01_P004_B001",
+      "panel": "TIMOTHY1_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0102,
+        0.42,
+        0.0511
+      ],
+      "tail": [
+        0.76,
+        0.0869
+      ],
+      "text_key": "timothy1.1.p4.b1"
+    },
+    {
+      "id": "TIMOTHY1_01_P004_B002",
+      "panel": "TIMOTHY1_01_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.2732,
+        0.248,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "timothy1.1.p4.b2"
+    },
+    {
+      "id": "TIMOTHY1_01_P004_B003",
+      "panel": "TIMOTHY1_01_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.615,
+        0.44,
+        0.0802
+      ],
+      "tail": [
+        0.25,
+        0.7353
+      ],
+      "text_key": "timothy1.1.p4.b3"
+    }
+  ]
+}

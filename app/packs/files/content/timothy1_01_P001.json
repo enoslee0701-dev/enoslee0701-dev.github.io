@@ -1,0 +1,121 @@
+{
+  "id": "TIMOTHY1_01_P001",
+  "book": "timothy1",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3411
+      ],
+      "alt": {
+        "zh-CN": "从马其顿到以弗所"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P001_F2",
+      "box": [
+        0,
+        0.3444,
+        1,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "我保罗奉我们的救主神和我们的盼望基督耶稣的命令，作基督耶稣的使徒，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P001_F3",
+      "box": [
+        0,
+        0.6667,
+        0.4971,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "写信给提摩太，就是因信主作我真儿子的。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_01_P001_F4",
+      "box": [
+        0.5039,
+        0.6667,
+        0.4961,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "愿恩典、怜悯、平安从父神和我们的主基督耶稣临到你！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_01_P001_B001",
+      "panel": "TIMOTHY1_01_P001_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.354,
+        0.4,
+        0.0638
+      ],
+      "tail": [
+        0.76,
+        0.4497
+      ],
+      "text_key": "timothy1.1.p1.b1"
+    },
+    {
+      "id": "TIMOTHY1_01_P001_B002",
+      "panel": "TIMOTHY1_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.9267,
+        0.4573,
+        0.0633
+      ],
+      "tail": [
+        0.2486,
+        1
+      ],
+      "text_key": "timothy1.1.p1.b2"
+    },
+    {
+      "id": "TIMOTHY1_01_P001_B003",
+      "panel": "TIMOTHY1_01_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8214,
+        0.6734,
+        0.1686,
+        0.0599
+      ],
+      "tail": [
+        0.9057,
+        0.7666
+      ],
+      "text_key": "timothy1.1.p1.b3"
+    }
+  ]
+}

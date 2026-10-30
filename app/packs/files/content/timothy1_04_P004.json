@@ -1,0 +1,136 @@
+{
+  "id": "TIMOTHY1_04_P004",
+  "book": "timothy1",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_04_P004_F1",
+      "box": [
+        0,
+        0,
+        0.519,
+        0.215
+      ],
+      "alt": {
+        "zh-CN": "不要忽略你所领受的恩赐，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_04_P004_F2",
+      "box": [
+        0,
+        0,
+        1,
+        0.668
+      ],
+      "alt": {
+        "zh-CN": "就是从前藉着预言、在众长老为你按手的时候赐给你的。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_04_P004_F3",
+      "box": [
+        0,
+        0.6719,
+        0.5225,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "这些事你要用心去做，专心投入，让众人看见你的长进。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_04_P004_F4",
+      "box": [
+        0.5293,
+        0.6719,
+        0.4707,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "你要留意自己和自己所教导的，在这些事上持守下去；因为这样做，既能救自己，也能救听你的人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_04_P004_B001",
+      "panel": "TIMOTHY1_04_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2855,
+        0.0086,
+        0.2179,
+        0.043
+      ],
+      "tail": [
+        0,
+        0.0731
+      ],
+      "text_key": "timothy1.4.p4.b1"
+    },
+    {
+      "id": "TIMOTHY1_04_P004_B002",
+      "panel": "TIMOTHY1_04_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4943,
+        0.44,
+        0.1469
+      ],
+      "tail": null,
+      "text_key": "timothy1.4.p4.b2"
+    },
+    {
+      "id": "TIMOTHY1_04_P004_B003",
+      "panel": "TIMOTHY1_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0209,
+        0.685,
+        0.3135,
+        0.059
+      ],
+      "tail": [
+        0,
+        0.7768
+      ],
+      "text_key": "timothy1.4.p4.b3"
+    },
+    {
+      "id": "TIMOTHY1_04_P004_B004",
+      "panel": "TIMOTHY1_04_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5528,
+        0.685,
+        0.4236,
+        0.059
+      ],
+      "tail": [
+        0.5293,
+        0.7768
+      ],
+      "text_key": "timothy1.4.p4.b4"
+    }
+  ]
+}

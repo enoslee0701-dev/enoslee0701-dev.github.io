@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_05_P003",
+  "book": "timothy1",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2533
+      ],
+      "alt": {
+        "zh-CN": "寡妇登记在名册上，必须年满六十岁，只作过一个丈夫的妻子，"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P003_F2",
+      "box": [
+        0,
+        0.2572,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "又有行善的好名声，例如养育儿女、接待客旅、洗圣徒的脚、救济受苦难的人，竭力行各样的善事。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P003_F3",
+      "box": [
+        0,
+        0.6667,
+        0.4971,
+        0.3333
+      ]
+    },
+    {
+      "id": "TIMOTHY1_05_P003_F4",
+      "box": [
+        0.5039,
+        0.6667,
+        0.4961,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "至于年轻的寡妇，可以不登记她们；……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_05_P003_B008",
+      "panel": "TIMOTHY1_05_P003_F1",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0101,
+        0.39,
+        0.0506
+      ],
+      "tail": [
+        0.775,
+        0.086
+      ],
+      "text_key": "timothy1.5.p3.b8"
+    },
+    {
+      "id": "TIMOTHY1_05_P003_B009",
+      "panel": "TIMOTHY1_05_P003_F2",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2734,
+        0.4,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "timothy1.5.p3.b9"
+    },
+    {
+      "id": "TIMOTHY1_05_P003_B010",
+      "panel": "TIMOTHY1_05_P003_F4",
+      "order": 10,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7817,
+        0.68,
+        0.1984,
+        0.0599
+      ],
+      "tail": [
+        0.8809,
+        0.7732
+      ],
+      "text_key": "timothy1.5.p3.b10"
+    }
+  ]
+}

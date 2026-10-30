@@ -1,0 +1,139 @@
+{
+  "id": "TIMOTHY1_03_P002",
+  "book": "timothy1",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_03_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4932,
+        0.3255
+      ],
+      "alt": {
+        "zh-CN": "刚信主的人不可作监督，免得他骄傲自大，……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P002_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.3255
+      ],
+      "alt": {
+        "zh-CN": "监督也必须在教会以外有好名声，……"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P002_F3",
+      "box": [
+        0,
+        0.3314,
+        1,
+        0.3047
+      ],
+      "alt": {
+        "zh-CN": "作执事的也是这样：必须端庄，……要存着清洁的良心，持守信仰的奥秘。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_03_P002_F4",
+      "box": [
+        0,
+        0.6419,
+        1,
+        0.3581
+      ],
+      "alt": {
+        "zh-CN": "这些人也要先接受考验，如果没有可指责的地方，然后才让他们作执事。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_03_P002_B001",
+      "panel": "TIMOTHY1_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0197,
+        0.0065,
+        0.4438,
+        0.0455
+      ],
+      "tail": [
+        0.2416,
+        0.0846
+      ],
+      "text_key": "timothy1.3.p2.b1"
+    },
+    {
+      "id": "TIMOTHY1_03_P002_B002",
+      "panel": "TIMOTHY1_03_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7514,
+        0.0098,
+        0.2286,
+        0.052
+      ],
+      "tail": [
+        0.8657,
+        0.0943
+      ],
+      "text_key": "timothy1.3.p2.b2"
+    },
+    {
+      "id": "TIMOTHY1_03_P002_B003",
+      "panel": "TIMOTHY1_03_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.66,
+        0.3405,
+        0.32,
+        0.067
+      ],
+      "tail": [
+        0.82,
+        0.438
+      ],
+      "text_key": "timothy1.3.p2.b3"
+    },
+    {
+      "id": "TIMOTHY1_03_P002_B004",
+      "panel": "TIMOTHY1_03_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.6491,
+        0.28,
+        0.0429
+      ],
+      "tail": [
+        0.56,
+        0.7278
+      ],
+      "text_key": "timothy1.3.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_05_P002",
+  "book": "timothy1",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_05_P002_F1",
+      "box": [
+        0,
+        0,
+        0.405,
+        0.2233
+      ]
+    },
+    {
+      "id": "TIMOTHY1_05_P002_F2",
+      "box": [
+        0,
+        0,
+        1,
+        0.5664
+      ],
+      "alt": {
+        "zh-CN": "那真正无依无靠、独自生活的寡妇，是仰望神，昼夜不停地祈求祷告。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P002_F3",
+      "box": [
+        0,
+        0.571,
+        0.501,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "你要把这些事吩咐她们，使她们无可指责。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_05_P002_F4",
+      "box": [
+        0.5098,
+        0.571,
+        0.4902,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "人如果不照顾亲属，就是背弃了信仰，比不信的人还不如，……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_05_P002_B005",
+      "panel": "TIMOTHY1_05_P002_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2322,
+        0.46,
+        0.0651
+      ],
+      "tail": null,
+      "text_key": "timothy1.5.p2.b5"
+    },
+    {
+      "id": "TIMOTHY1_05_P002_B006",
+      "panel": "TIMOTHY1_05_P002_F3",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2505,
+        0.5796,
+        0.2404,
+        0.0386
+      ],
+      "tail": [
+        0.3707,
+        0.6611
+      ],
+      "text_key": "timothy1.5.p2.b6"
+    },
+    {
+      "id": "TIMOTHY1_05_P002_B007",
+      "panel": "TIMOTHY1_05_P002_F4",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7843,
+        0.5839,
+        0.196,
+        0.0686
+      ],
+      "tail": [
+        0.8823,
+        0.6954
+      ],
+      "text_key": "timothy1.5.p2.b7"
+    }
+  ]
+}

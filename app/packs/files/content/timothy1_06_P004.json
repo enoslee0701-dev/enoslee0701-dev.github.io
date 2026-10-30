@@ -1,0 +1,115 @@
+{
+  "id": "TIMOTHY1_06_P004",
+  "book": "timothy1",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "TIMOTHY1_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "TIMOTHY1_06_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5586,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "要遵守这命令，不沾污点，无可指责，直到我们的主耶稣基督显现。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P004_F2",
+      "box": [
+        0.5664,
+        0,
+        0.4336,
+        0.2272
+      ]
+    },
+    {
+      "id": "TIMOTHY1_06_P004_F3",
+      "box": [
+        0,
+        0.2305,
+        1,
+        0.5443
+      ],
+      "alt": {
+        "zh-CN": "到了时候，那可称颂、唯一有权能的万王之王、万主之主，就是那唯一不死、住在人不能靠近的光里、没有人见过也不能见的那一位，必使这事显明。"
+      }
+    },
+    {
+      "id": "TIMOTHY1_06_P004_F4",
+      "box": [
+        0,
+        0.7793,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "愿尊贵和永远的权能都归给他。阿们！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "TIMOTHY1_06_P004_B011",
+      "panel": "TIMOTHY1_06_P004_F1",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0168,
+        0.0091,
+        0.2346,
+        0.0681
+      ],
+      "tail": [
+        0.1341,
+        0.0999
+      ],
+      "text_key": "timothy1.6.p4.b11"
+    },
+    {
+      "id": "TIMOTHY1_06_P004_B012",
+      "panel": "TIMOTHY1_06_P004_F3",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2468,
+        0.92,
+        0.0925
+      ],
+      "tail": null,
+      "text_key": "timothy1.6.p4.b12"
+    },
+    {
+      "id": "TIMOTHY1_06_P004_B013",
+      "panel": "TIMOTHY1_06_P004_F4",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.8014,
+        0.35,
+        0.1544
+      ],
+      "tail": [
+        0.795,
+        0.9779
+      ],
+      "text_key": "timothy1.6.p4.b13"
+    }
+  ]
+}
