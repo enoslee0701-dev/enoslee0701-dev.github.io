@@ -1,0 +1,127 @@
+{
+  "id": "JAMES_03_P005",
+  "book": "james",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:13-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JAMES_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JAMES_03_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5342,
+        0.3021
+      ]
+    },
+    {
+      "id": "JAMES_03_P005_F2",
+      "box": [
+        0.5439,
+        0,
+        0.4561,
+        0.3021
+      ]
+    },
+    {
+      "id": "JAMES_03_P005_F3",
+      "box": [
+        0,
+        0.3086,
+        1,
+        0.3574
+      ]
+    },
+    {
+      "id": "JAMES_03_P005_F4",
+      "box": [
+        0,
+        0.6699,
+        1,
+        0.3301
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JAMES_03_P005_B001",
+      "panel": "JAMES_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0214,
+        0.0091,
+        0.4914,
+        0.0543
+      ],
+      "tail": [
+        0.2671,
+        0.0936
+      ],
+      "text_key": "james.3.p5.b1"
+    },
+    {
+      "id": "JAMES_03_P005_B002",
+      "panel": "JAMES_03_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.7081,
+        0.0091,
+        0.1277,
+        0.0543
+      ],
+      "tail": [
+        0.7719,
+        0.0936
+      ],
+      "text_key": "james.3.p5.b2"
+    },
+    {
+      "id": "JAMES_03_P005_B003",
+      "panel": "JAMES_03_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3193,
+        0.42,
+        0.0643
+      ],
+      "tail": [
+        0.24,
+        0.4193
+      ],
+      "text_key": "james.3.p5.b3"
+    },
+    {
+      "id": "JAMES_03_P005_B004",
+      "panel": "JAMES_03_P005_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.3193,
+        0.42,
+        0.05
+      ],
+      "tail": [
+        0.76,
+        0.405
+      ],
+      "text_key": "james.3.p5.b4"
+    }
+  ]
+}

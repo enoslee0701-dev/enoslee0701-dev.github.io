@@ -1,0 +1,202 @@
+{
+  "james.5.p1.b1": {
+    "text": "들으라 부한 자들아 … 울고 통곡하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p1.b2": {
+    "text": "너희 재물은 썩었고 너희 옷은 좀 먹었으며 너희 금과 은은 녹이 슬었으니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p1.b3": {
+    "text": "보라 너희 밭에 추수한 품군에게 주지 아니한 삯이 소리 지르며 추수한 자의 우는 소리가 만군의 주의 귀에 들렸느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p1.b4": {
+    "text": "너희가 땅에서 사치하고 연락하여 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p2.b1": {
+    "text": "그러므로 형제들아 주의 강림 하시기까지 길이 참으라 보라 농부가 땅에서 나는 귀한 열매를 바라고 길이 참아 이른 비와 늦은 비를 기다리나니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p2.b2": {
+    "text": "너희도 길이 참고 마음을 굳게 하라 주의 강림이 가까우니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p2.b3": {
+    "text": "형제들아 서로 원망하지 말라 그리하여야 심판을 면하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p2.b4": {
+    "text": "보라 심판자가 문 밖에 서 계시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p3.b1": {
+    "text": "형제들아 주의 이름으로 말한 선지자들로 고난과 오래 참음의 본을 삼으라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p3.b2": {
+    "text": "… 너희가 욥의 인내를 들었고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p3.b3": {
+    "text": "주께서 주신 결말을 보았거니와 주는 가장 자비하시고 긍휼히 여기는 자시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p3.b4": {
+    "text": "… 오직 너희의 그렇다 하는것은 그렇다 하고 아니라 하는 것은 아니라 하여 죄 정함을 면하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p4.b1": {
+    "text": "너희 중에 고난 당하는 자가 있느냐 저는 기도할 것이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p4.b2": {
+    "text": "즐거워하는 자가 있느냐 저는 찬송할찌니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p4.b3": {
+    "text": "너희 중에 병든 자가 있느냐 저는 교회의 장로들을 청할 것이요 그들은 주의 이름으로 기름을 바르며 위하여 기도할찌니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p4.b4": {
+    "text": "이러므로 너희 죄를 서로 고하며 병 낫기를 위하여 서로 기도하라 의인의 간구는 역사하는 힘이 많으니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p5.b1": {
+    "text": "엘리야는 우리와 성정이 같은 사람이로되 저가 비 오지 않기를 간절히 기도한즉 삼년 육개월 동안 땅에 비가 아니 오고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p5.b2": {
+    "text": "디시 기도한즉 하늘이 비를 주고 땅이 열매를 내었느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p5.b3": {
+    "text": "내 형제들아 너희 중에 미혹하여 진리를 떠난 자를 누가 돌아서게 하면",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "james.5.p5.b4": {
+    "text": "너희가 알 것은 죄인을 미혹한 길에서 돌아서게 하는 자가 그 영혼을 사망에서 구원하며 허다한 죄를 덮을 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "James 5:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

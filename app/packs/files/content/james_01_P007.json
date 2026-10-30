@@ -1,0 +1,136 @@
+{
+  "id": "JAMES_01_P007",
+  "book": "james",
+  "chapter": 1,
+  "page": 7,
+  "ref": "1:22-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JAMES_01_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JAMES_01_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3275
+      ]
+    },
+    {
+      "id": "JAMES_01_P007_F2",
+      "box": [
+        0,
+        0.332,
+        0.4961,
+        0.25
+      ]
+    },
+    {
+      "id": "JAMES_01_P007_F3",
+      "box": [
+        0.5039,
+        0.332,
+        0.4961,
+        0.25
+      ]
+    },
+    {
+      "id": "JAMES_01_P007_F4",
+      "box": [
+        0,
+        0.5859,
+        0.4297,
+        0.4141
+      ]
+    },
+    {
+      "id": "JAMES_01_P007_F5",
+      "box": [
+        0.4375,
+        0.5859,
+        0.5625,
+        0.4141
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JAMES_01_P007_B001",
+      "panel": "JAMES_01_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0098,
+        0.42,
+        0.0589
+      ],
+      "tail": [
+        0.51,
+        0.1015
+      ],
+      "text_key": "james.1.p7.b1"
+    },
+    {
+      "id": "JAMES_01_P007_B002",
+      "panel": "JAMES_01_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0198,
+        0.3395,
+        0.4564,
+        0.05
+      ],
+      "tail": [
+        0.248,
+        0.4145
+      ],
+      "text_key": "james.1.p7.b2"
+    },
+    {
+      "id": "JAMES_01_P007_B003",
+      "panel": "JAMES_01_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2149,
+        0.5983,
+        0.1976,
+        0.0911
+      ],
+      "tail": [
+        0.3137,
+        0.7308
+      ],
+      "text_key": "james.1.p7.b3"
+    },
+    {
+      "id": "JAMES_01_P007_B004",
+      "panel": "JAMES_01_P007_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4544,
+        0.5983,
+        0.2812,
+        0.0828
+      ],
+      "tail": [
+        0.595,
+        0.7225
+      ],
+      "text_key": "james.1.p7.b4"
+    }
+  ]
+}
