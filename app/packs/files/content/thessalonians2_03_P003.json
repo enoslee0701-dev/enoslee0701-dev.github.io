@@ -1,0 +1,136 @@
+{
+  "id": "THESSALONIANS2_03_P003",
+  "book": "thessalonians2",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2174
+      ],
+      "alt": {
+        "zh-CN": "因为我们听说，你们中间有人不守规矩，什么工作都不做，反倒专管闲事。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_03_P003_F2",
+      "box": [
+        0,
+        0.2188,
+        1,
+        0.1837
+      ],
+      "alt": {
+        "zh-CN": "……要记下这人，不要和他来往，使他自觉羞愧。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_03_P003_F3",
+      "box": [
+        0,
+        0.405,
+        1,
+        0.1999
+      ],
+      "alt": {
+        "zh-CN": "但不要把他当仇人，要劝他像劝弟兄一样。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_03_P003_F4",
+      "box": [
+        0,
+        0.6068,
+        1,
+        0.3932
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，你们行善不可灰心。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_03_P003_B001",
+      "panel": "THESSALONIANS2_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0065,
+        0.4,
+        0.0478
+      ],
+      "tail": [
+        0.5,
+        0.076
+      ],
+      "text_key": "thessalonians2.3.p3.b1"
+    },
+    {
+      "id": "THESSALONIANS2_03_P003_B002",
+      "panel": "THESSALONIANS2_03_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.2261,
+        0.36,
+        0.0477
+      ],
+      "tail": [
+        0.6,
+        0.2922
+      ],
+      "text_key": "thessalonians2.3.p3.b2"
+    },
+    {
+      "id": "THESSALONIANS2_03_P003_B003",
+      "panel": "THESSALONIANS2_03_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.411,
+        0.22,
+        0.0599
+      ],
+      "tail": [
+        0.13,
+        0.4909
+      ],
+      "text_key": "thessalonians2.3.p3.b3"
+    },
+    {
+      "id": "THESSALONIANS2_03_P003_B004",
+      "panel": "THESSALONIANS2_03_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.6147,
+        0.32,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "thessalonians2.3.p3.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "THESSALONIANS2_01_P001",
+  "book": "thessalonians2",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "保罗、西拉、提摩太写信给帖撒罗尼迦，在父神和主耶稣基督里的教会。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_01_P001_F2",
+      "box": [
+        0,
+        0.2604,
+        1,
+        0.1751
+      ]
+    },
+    {
+      "id": "THESSALONIANS2_01_P001_F3",
+      "box": [
+        0,
+        0.4382,
+        1,
+        0.1829
+      ],
+      "alt": {
+        "zh-CN": "因为你们的信心大大增长，你们每个人彼此相爱的心也都充足。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_01_P001_F4",
+      "box": [
+        0,
+        0.6243,
+        1,
+        0.3757
+      ],
+      "alt": {
+        "zh-CN": "……都因为你们在所受的一切逼迫患难中，仍然存着忍耐和信心。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_01_P001_B001",
+      "panel": "THESSALONIANS2_01_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0103,
+        0.46,
+        0.0771
+      ],
+      "tail": null,
+      "text_key": "thessalonians2.1.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS2_01_P001_B002",
+      "panel": "THESSALONIANS2_01_P001_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.4437,
+        0.4,
+        0.0329
+      ],
+      "tail": [
+        0.76,
+        0.4949
+      ],
+      "text_key": "thessalonians2.1.p1.b2"
+    },
+    {
+      "id": "THESSALONIANS2_01_P001_B003",
+      "panel": "THESSALONIANS2_01_P001_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.6318,
+        0.33,
+        0.0488
+      ],
+      "tail": [
+        0.805,
+        0.7182
+      ],
+      "text_key": "thessalonians2.1.p1.b3"
+    }
+  ]
+}

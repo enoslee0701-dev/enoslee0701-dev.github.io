@@ -1,0 +1,109 @@
+{
+  "id": "THESSALONIANS2_02_P001",
+  "book": "thessalonians2",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，关于我们主耶稣基督降临，以及我们到他那里聚集的事，"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_02_P001_F2",
+      "box": [
+        0,
+        0.2546,
+        1,
+        0.4076
+      ],
+      "alt": {
+        "zh-CN": "……无论是灵、是言语、或是冒我名的书信，说主的日子已经到了，"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_02_P001_F3",
+      "box": [
+        0,
+        0.666,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "……不要轻易动摇，也不要惊慌。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_02_P001_B001",
+      "panel": "THESSALONIANS2_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.005,
+        0.3,
+        0.0501
+      ],
+      "tail": [
+        0.65,
+        0.0802
+      ],
+      "text_key": "thessalonians2.2.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS2_02_P001_B002",
+      "panel": "THESSALONIANS2_02_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.76,
+        0.2668,
+        0.22,
+        0.0692
+      ],
+      "tail": [
+        0.87,
+        0.3768
+      ],
+      "text_key": "thessalonians2.2.p1.b2"
+    },
+    {
+      "id": "THESSALONIANS2_02_P001_B003",
+      "panel": "THESSALONIANS2_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.54,
+        0.676,
+        0.42,
+        0.0534
+      ],
+      "tail": [
+        0.75,
+        0.7628
+      ],
+      "text_key": "thessalonians2.2.p1.b3"
+    }
+  ]
+}

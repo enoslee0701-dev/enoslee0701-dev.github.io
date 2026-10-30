@@ -1,0 +1,139 @@
+{
+  "id": "THESSALONIANS2_03_P001",
+  "book": "thessalonians2",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "弟兄们，还有，请你们为我们祷告，使主的道快快传开，"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_03_P001_F2",
+      "box": [
+        0,
+        0.2227,
+        1,
+        0.138
+      ],
+      "alt": {
+        "zh-CN": "也使我们脱离无理的恶人之手，因为不是人人都有信心。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_03_P001_F3",
+      "box": [
+        0,
+        0.3639,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "但主是信实的，他要坚固你们，保护你们脱离那恶者。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_03_P001_F4",
+      "box": [
+        0,
+        0.6777,
+        1,
+        0.3223
+      ],
+      "alt": {
+        "zh-CN": "愿主引导你们的心，使你们爱神，并学基督的忍耐！"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_03_P001_B001",
+      "panel": "THESSALONIANS2_03_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0066,
+        0.44,
+        0.057
+      ],
+      "tail": [
+        0.74,
+        0.0855
+      ],
+      "text_key": "thessalonians2.3.p1.b1"
+    },
+    {
+      "id": "THESSALONIANS2_03_P001_B002",
+      "panel": "THESSALONIANS2_03_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2282,
+        0.46,
+        0.0414
+      ],
+      "tail": [
+        0.26,
+        0.2834
+      ],
+      "text_key": "thessalonians2.3.p1.b2"
+    },
+    {
+      "id": "THESSALONIANS2_03_P001_B003",
+      "panel": "THESSALONIANS2_03_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.33,
+        0.3733,
+        0.3,
+        0.0687
+      ],
+      "tail": [
+        0.48,
+        0.4733
+      ],
+      "text_key": "thessalonians2.3.p1.b3"
+    },
+    {
+      "id": "THESSALONIANS2_03_P001_B004",
+      "panel": "THESSALONIANS2_03_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.6874,
+        0.36,
+        0.058
+      ],
+      "tail": [
+        0.78,
+        0.7776
+      ],
+      "text_key": "thessalonians2.3.p1.b4"
+    }
+  ]
+}

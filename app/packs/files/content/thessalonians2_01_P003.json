@@ -1,0 +1,106 @@
+{
+  "id": "THESSALONIANS2_01_P003",
+  "book": "thessalonians2",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2467
+      ],
+      "alt": {
+        "zh-CN": "也必使你们这些受患难的人和我们一同得安息。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_01_P003_F2",
+      "box": [
+        0,
+        0.2513,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "那时，主耶稣和他有能力的天使从天上在火焰中显现，"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_01_P003_F3",
+      "box": [
+        0,
+        0.6973,
+        1,
+        0.3027
+      ],
+      "alt": {
+        "zh-CN": "那就是主降临的日子，他要在他圣徒身上得荣耀，在一切信的人身上被人惊叹。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_01_P003_B001",
+      "panel": "THESSALONIANS2_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0099,
+        0.46,
+        0.069
+      ],
+      "tail": [
+        0.73,
+        0.1036
+      ],
+      "text_key": "thessalonians2.1.p3.b1"
+    },
+    {
+      "id": "THESSALONIANS2_01_P003_B002",
+      "panel": "THESSALONIANS2_01_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5435,
+        0.44,
+        0.1062
+      ],
+      "tail": null,
+      "text_key": "thessalonians2.1.p3.b2"
+    },
+    {
+      "id": "THESSALONIANS2_01_P003_B003",
+      "panel": "THESSALONIANS2_01_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7094,
+        0.4,
+        0.0847
+      ],
+      "tail": [
+        0.23,
+        0.8244
+      ],
+      "text_key": "thessalonians2.1.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "THESSALONIANS2_01_P004",
+  "book": "thessalonians2",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "因此，我们常为你们祷告，……又用大能成就你们一切想行的善和一切出于信心的工作，"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_01_P004_F2",
+      "box": [
+        0,
+        0.3314,
+        1,
+        0.2539
+      ]
+    },
+    {
+      "id": "THESSALONIANS2_01_P004_F3",
+      "box": [
+        0,
+        0.5898,
+        1,
+        0.4102
+      ],
+      "alt": {
+        "zh-CN": "使我们主耶稣的名在你们身上得荣耀，你们也在他里面得荣耀……"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_01_P004_B001",
+      "panel": "THESSALONIANS2_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0098,
+        0.42,
+        0.0652
+      ],
+      "tail": [
+        0.51,
+        0.1076
+      ],
+      "text_key": "thessalonians2.1.p4.b1"
+    },
+    {
+      "id": "THESSALONIANS2_01_P004_B002",
+      "panel": "THESSALONIANS2_01_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6021,
+        0.46,
+        0.0656
+      ],
+      "tail": [
+        0.26,
+        0.7087
+      ],
+      "text_key": "thessalonians2.1.p4.b2"
+    }
+  ]
+}

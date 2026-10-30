@@ -1,0 +1,109 @@
+{
+  "id": "THESSALONIANS2_02_P004",
+  "book": "thessalonians2",
+  "chapter": 2,
+  "page": 4,
+  "ref": "2:13-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "THESSALONIANS2_02_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "THESSALONIANS2_02_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "主所爱的弟兄们哪，我们应当常为你们感谢神，因为他从起初拣选了你们……使你们得救。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_02_P004_F2",
+      "box": [
+        0,
+        0.25,
+        1,
+        0.2669
+      ],
+      "alt": {
+        "zh-CN": "神借着我们所传的福音呼召你们到这地步，好得着我们主耶稣基督的荣耀。"
+      }
+    },
+    {
+      "id": "THESSALONIANS2_02_P004_F3",
+      "box": [
+        0,
+        0.5215,
+        1,
+        0.4785
+      ],
+      "alt": {
+        "zh-CN": "所以，弟兄们，你们要站立得稳，凡所领受的教导……都要坚守。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "THESSALONIANS2_02_P004_B001",
+      "panel": "THESSALONIANS2_02_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0073,
+        0.44,
+        0.0587
+      ],
+      "tail": [
+        0.25,
+        0.0905
+      ],
+      "text_key": "thessalonians2.2.p4.b1"
+    },
+    {
+      "id": "THESSALONIANS2_02_P004_B002",
+      "panel": "THESSALONIANS2_02_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.258,
+        0.4,
+        0.0587
+      ],
+      "tail": [
+        0.5,
+        0.3434
+      ],
+      "text_key": "thessalonians2.2.p4.b2"
+    },
+    {
+      "id": "THESSALONIANS2_02_P004_B003",
+      "panel": "THESSALONIANS2_02_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.5359,
+        0.44,
+        0.0861
+      ],
+      "tail": [
+        0.74,
+        0.6699
+      ],
+      "text_key": "thessalonians2.2.p4.b3"
+    }
+  ]
+}
