@@ -1,0 +1,136 @@
+{
+  "id": "PETER1_04_P004",
+  "book": "peter1",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:12-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PETER1_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PETER1_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1771
+      ]
+    },
+    {
+      "id": "PETER1_04_P004_F2",
+      "box": [
+        0,
+        0.181,
+        0.2432,
+        0.5579
+      ]
+    },
+    {
+      "id": "PETER1_04_P004_F3",
+      "box": [
+        0.25,
+        0.181,
+        0.75,
+        0.5579
+      ]
+    },
+    {
+      "id": "PETER1_04_P004_F4",
+      "box": [
+        0,
+        0.7422,
+        0.5166,
+        0.2578
+      ]
+    },
+    {
+      "id": "PETER1_04_P004_F5",
+      "box": [
+        0.5244,
+        0.7422,
+        0.4756,
+        0.2578
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PETER1_04_P004_B001",
+      "panel": "PETER1_04_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0089,
+        0.4,
+        0.0531
+      ],
+      "tail": [
+        0.23,
+        0.0797
+      ],
+      "text_key": "peter1.4.p4.b1"
+    },
+    {
+      "id": "PETER1_04_P004_B002",
+      "panel": "PETER1_04_P004_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2725,
+        0.1977,
+        0.315,
+        0.1115
+      ],
+      "tail": [
+        0.43,
+        0.365
+      ],
+      "text_key": "peter1.4.p4.b2"
+    },
+    {
+      "id": "PETER1_04_P004_B003",
+      "panel": "PETER1_04_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.2996,
+        0.7474,
+        0.2066,
+        0.0412
+      ],
+      "tail": [
+        0.4029,
+        0.8144
+      ],
+      "text_key": "peter1.4.p4.b3"
+    },
+    {
+      "id": "PETER1_04_P004_B004",
+      "panel": "PETER1_04_P004_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5482,
+        0.9227,
+        0.428,
+        0.067
+      ],
+      "tail": [
+        0.7622,
+        1
+      ],
+      "text_key": "peter1.4.p4.b4"
+    }
+  ]
+}

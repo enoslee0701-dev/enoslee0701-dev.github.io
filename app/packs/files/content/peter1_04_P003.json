@@ -1,0 +1,127 @@
+{
+  "id": "PETER1_04_P003",
+  "book": "peter1",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:7-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PETER1_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PETER1_04_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4287,
+        0.2682
+      ]
+    },
+    {
+      "id": "PETER1_04_P003_F2",
+      "box": [
+        0.4355,
+        0,
+        0.5645,
+        0.2682
+      ]
+    },
+    {
+      "id": "PETER1_04_P003_F3",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.383
+      ]
+    },
+    {
+      "id": "PETER1_04_P003_F4",
+      "box": [
+        0,
+        0.66,
+        1,
+        0.34
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PETER1_04_P003_B001",
+      "panel": "PETER1_04_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0214,
+        0.1985,
+        0.3858,
+        0.0643
+      ],
+      "tail": [
+        0.2143,
+        0.2682
+      ],
+      "text_key": "peter1.4.p3.b1"
+    },
+    {
+      "id": "PETER1_04_P003_B002",
+      "panel": "PETER1_04_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.729,
+        0.008,
+        0.2483,
+        0.0429
+      ],
+      "tail": [
+        0.8532,
+        0.0777
+      ],
+      "text_key": "peter1.4.p3.b2"
+    },
+    {
+      "id": "PETER1_04_P003_B003",
+      "panel": "PETER1_04_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.283,
+        0.33,
+        0.0689
+      ],
+      "tail": [
+        0.195,
+        0.3902
+      ],
+      "text_key": "peter1.4.p3.b3"
+    },
+    {
+      "id": "PETER1_04_P003_B004",
+      "panel": "PETER1_04_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.6702,
+        0.92,
+        0.0544
+      ],
+      "tail": [
+        0.5,
+        0.7586
+      ],
+      "text_key": "peter1.4.p3.b4"
+    }
+  ]
+}
