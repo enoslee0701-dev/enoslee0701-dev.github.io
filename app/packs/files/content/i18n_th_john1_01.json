@@ -1,0 +1,102 @@
+{
+  "john1.1.p1.b1": {
+    "text": "เรา​ประกาศ​แก่​ท่าน​ถึง​พระ​วาทะ​แห่ง​ชีวิต ซึ่ง​ดำรง​อยู่​ตั้งแต่​ปฐมกาล ซึ่ง​เรา​ได้ยิน ได้​เห็น​กับ​ตา ได้​มอง​ดู และ​ได้​สัมผัส​ด้วย​มือ​ของ​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p1.b2": {
+    "text": "ชีวิต​ปรากฏ​ขึ้น เรา​ได้​เห็น​และ​ได้​เป็น​พยาน​ถึง​ชีวิต​นั้น เรา​ประกาศ​กับ​ท่าน​ถึง​ชีวิต​นิรันดร์ ชีวิต​ซึ่ง​อยู่​กับ​พระบิดา​และ​มา​ปรากฏ​แก่​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p2.b1": {
+    "text": "เรา​ประกาศ​สิ่ง​ที่​เรา​ได้​เห็น​และ​ได้ยิน​กับ​ท่าน เพื่อ​ท่าน​จะ​ได้​ร่วม​สามัคคี​ธรรม​กับ​เรา​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p2.b2": {
+    "text": "เรา​เขียน​สิ่ง​นี้​มา​เพื่อ​ทำ​ให้​ความ​สุข​ของ​พวก​เรา​เต็ม​เปี่ยม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p2.b3": {
+    "text": "พระเจ้า​เป็น​ความ​สว่าง ใน​พระองค์​ไม่​มี​ความ​มืด​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p2.b4": {
+    "text": "ถ้า​เรา​อ้าง​ว่า​มี​สามัคคี​ธรรม​กับ​พระองค์ แต่​ยัง​เดิน​ใน​ความ​มืด เรา​ก็​โกหก​และ​ไม่​ได้​ใช้​ชีวิต​มา​จาก​ความ​จริง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p3.b1": {
+    "text": "แต่​ถ้า​เรา​เดิน​ใน​ความ​สว่าง​เหมือน​ที่​พระองค์​อยู่​ใน​ความ​สว่าง เรา​ก็​ร่วม​สามัคคี​ธรรม​กัน …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p3.b2": {
+    "text": "ถ้า​เรา​อ้าง​ว่า​ไม่​มี​บาป เรา​ก็​หลอก​ตัวเอง​และ​ความ​จริง​ไม่​ได้​อยู่​ใน​ตัว​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p3.b3": {
+    "text": "ถ้า​เรา​สารภาพ​บาป พระองค์​สัตย์ซื่อ​และ​เที่ยงธรรม​จะ​อภัย​บาป​ของ​เรา และ​ชำระ​เรา​ให้​บริสุทธิ์​จาก​ความ​อธรรม​ทั้ง​สิ้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.1.p3.b4": {
+    "text": "ถ้า​เรา​อ้าง​ว่า​ไม่​ได้​ทำ​บาป เรา​ก็​กำลัง​หา​ว่า​พระองค์​โกหก และ​คำ​พูด​ของ​พระองค์​ไม่​ได้​อยู่​ใน​เรา​เลย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "1 John 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

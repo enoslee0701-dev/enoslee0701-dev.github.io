@@ -1,0 +1,112 @@
+{
+  "john1.1.p1.b1": {
+    "text": "论到从起初原有的生命之道，就是我们所听见、所看见、亲眼看过、亲手摸过的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "论到从起⁠初原⁠有的生⁠命之⁠道，就⁠是我⁠们所听⁠见、所看⁠见、亲⁠眼看过、亲⁠手摸⁠过的。"
+  },
+  "john1.1.p1.b2": {
+    "text": "这生命已经显现出来，我们也看见过……将原与父同在、且显现与我们那永远的生命传给你们。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这生⁠命已⁠经显⁠现出⁠来，我⁠们也看⁠见过……将原与父同在、且显⁠现与我⁠们那永⁠远的生⁠命传⁠给你⁠们。"
+  },
+  "john1.1.p2.b1": {
+    "text": "我们将所看见、所听见的传给你们，使你们与我们相交。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们将所看⁠见、所听⁠见的传⁠给你⁠们，使你⁠们与我⁠们相⁠交。"
+  },
+  "john1.1.p2.b2": {
+    "text": "我们将这些话写给你们，使你们的喜乐充足。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们将这⁠些话写⁠给你⁠们，使你⁠们的喜⁠乐充⁠足。"
+  },
+  "john1.1.p2.b3": {
+    "text": "神就是光，在他毫无黑暗。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神就⁠是光，在他毫⁠无黑⁠暗。"
+  },
+  "john1.1.p2.b4": {
+    "text": "我们若说是与　神相交，却仍在黑暗里行，就是说谎话，不行真理了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们若说是与　神相⁠交，却仍⁠在黑⁠暗里行，就⁠是说⁠谎⁠话，不⁠行真⁠理了。"
+  },
+  "john1.1.p3.b1": {
+    "text": "我们若在光明中行，如同　神在光明中，就彼此相交……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们若在光⁠明中行，如⁠同　神在光⁠明中，就彼⁠此相⁠交……"
+  },
+  "john1.1.p3.b2": {
+    "text": "我们若说自己无罪，便是自欺，真理不在我们心里了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们若说自⁠己无⁠罪，便⁠是自⁠欺，真⁠理不⁠在我⁠们心⁠里了。"
+  },
+  "john1.1.p3.b3": {
+    "text": "我们若认自己的罪，　神是信实的，是公义的，必要赦免我们的罪，洗净我们一切的不义。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们若认自⁠己的罪，　神是信⁠实的，是公⁠义的，必⁠要赦⁠免我⁠们的罪，洗⁠净我⁠们一⁠切的不⁠义。"
+  },
+  "john1.1.p3.b4": {
+    "text": "我们若说自己没有犯过罪，便是以　神为说谎的，他的道也不在我们心里了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "1 John 1:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们若说自⁠己没⁠有犯过罪，便⁠是以　神为说⁠谎的，他⁠的道也⁠不在我⁠们心⁠里了。"
+  }
+}

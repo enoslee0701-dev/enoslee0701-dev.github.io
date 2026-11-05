@@ -1,0 +1,262 @@
+{
+  "john1.2.p1.b1": {
+    "text": "My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p1.b2": {
+    "text": "He Himself is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p1.b3": {
+    "text": "If anyone says, “I know Him,” but does not keep His commandments, he is a liar, and the truth is not in him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p1.b4": {
+    "text": "Whoever claims to abide in Him must walk as Jesus walked.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p2.b1": {
+    "text": "Beloved, I am not writing to you a new commandment, but an old one, which you have had from the beginning. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p2.b2": {
+    "text": "… For the darkness is fading and the true light is already shining.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p2.b3": {
+    "text": "If anyone claims to be in the light but hates his brother, he is still in the darkness.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p2.b4": {
+    "text": "But whoever hates his brother is in the darkness and walks in the darkness. He does not know where he is going, because the darkness has blinded his eyes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p3.b1": {
+    "text": "I am writing to you, little children, because your sins have been forgiven through His name.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p3.b2": {
+    "text": "I am writing to you, fathers, because you know Him who is from the beginning.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p3.b3": {
+    "text": "I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p3.b4": {
+    "text": "I have written to you, children, because you know the Father.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p4.b1": {
+    "text": "Do not love the world or anything in the world. If anyone loves the world, the love of the Father is not in him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p4.b2": {
+    "text": "For all that is in the world … is not from the Father but from the world.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p4.b3": {
+    "text": "The world is passing away, along with its desires; but whoever does the will of God remains forever.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p5.b1": {
+    "text": "Children, it is the last hour; … so now many antichrists have appeared. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p5.b2": {
+    "text": "They went out from us, but they did not belong to us. For if they had belonged to us, they would have remained with us. But their departure made it clear that none of them belonged to us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p5.b3": {
+    "text": "I have not written to you because you lack knowledge of the truth, but because you have it, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p6.b1": {
+    "text": "Who is the liar, if it is not the one who denies that Jesus is the Christ?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p6.b2": {
+    "text": "This is the antichrist, who denies the Father and the Son. Whoever denies the Son does not have the Father, but whoever confesses the Son has the Father as well.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:22-23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p6.b3": {
+    "text": "As for you, let what you have heard from the beginning remain in you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p6.b4": {
+    "text": "And this is the promise that He Himself made to us: eternal life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p7.b1": {
+    "text": "I have written these things to you about those who are trying to deceive you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p7.b2": {
+    "text": "And as for you, the anointing you received from Him remains in you, … just as His true and genuine anointing teaches you about all things, so remain in Him as you have been taught.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p7.b3": {
+    "text": "And now, little children, remain in Christ, so that when He appears, we may be confident and unashamed before Him at His coming.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "john1.2.p7.b4": {
+    "text": "If you know that He is righteous, you also know that everyone who practices righteousness has been born of Him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "1 John 2:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "JOHN1_02_P003",
+  "book": "john1",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN1_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN1_02_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4814,
+        0.3301
+      ]
+    },
+    {
+      "id": "JOHN1_02_P003_F2",
+      "box": [
+        0.4883,
+        0,
+        0.5117,
+        0.3301
+      ]
+    },
+    {
+      "id": "JOHN1_02_P003_F3",
+      "box": [
+        0,
+        0.334,
+        1,
+        0.666
+      ]
+    },
+    {
+      "id": "JOHN1_02_P003_F4",
+      "box": [
+        0,
+        0.7583,
+        0.4688,
+        0.2417
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN1_02_P003_B001",
+      "panel": "JOHN1_02_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0193,
+        0.2377,
+        0.4428,
+        0.0858
+      ],
+      "tail": [
+        0.2407,
+        0.3301
+      ],
+      "text_key": "john1.2.p3.b1"
+    },
+    {
+      "id": "JOHN1_02_P003_B002",
+      "panel": "JOHN1_02_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5037,
+        0.0099,
+        0.2302,
+        0.0726
+      ],
+      "tail": [
+        0.6188,
+        0.1155
+      ],
+      "text_key": "john1.2.p3.b2"
+    },
+    {
+      "id": "JOHN1_02_P003_B003",
+      "panel": "JOHN1_02_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.354,
+        0.42,
+        0.1465
+      ],
+      "tail": [
+        0.76,
+        0.5671
+      ],
+      "text_key": "john1.2.p3.b3"
+    },
+    {
+      "id": "JOHN1_02_P003_B004",
+      "panel": "JOHN1_02_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0188,
+        0.7656,
+        0.4312,
+        0.0628
+      ],
+      "tail": null,
+      "text_key": "john1.2.p3.b4"
+    }
+  ]
+}
