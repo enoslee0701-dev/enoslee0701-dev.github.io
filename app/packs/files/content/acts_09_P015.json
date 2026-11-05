@@ -10,7 +10,7 @@
   "art": {
     "file": "ACTS_09_P015",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -19,7 +19,7 @@
         0,
         0,
         1,
-        0.2201
+        0.2207
       ],
       "alt": {
         "zh-CN": "彼得就起身和他们一起去；到了以后，有人领他上楼。"

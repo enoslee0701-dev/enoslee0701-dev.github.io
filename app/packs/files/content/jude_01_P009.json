@@ -1,0 +1,85 @@
+{
+  "id": "JUDE_01_P009",
+  "book": "jude",
+  "chapter": 1,
+  "page": 9,
+  "ref": "1:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDE_01_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDE_01_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.6113
+      ]
+    },
+    {
+      "id": "JUDE_01_P009_F2",
+      "box": [
+        0,
+        0.6152,
+        1,
+        0.3848
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDE_01_P009_B001",
+      "panel": "JUDE_01_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0183,
+        0.44,
+        0.1467
+      ],
+      "tail": null,
+      "text_key": "jude.1.p9.b1"
+    },
+    {
+      "id": "JUDE_01_P009_B002",
+      "panel": "JUDE_01_P009_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.489,
+        0.44,
+        0.0978
+      ],
+      "tail": null,
+      "text_key": "jude.1.p9.b2"
+    },
+    {
+      "id": "JUDE_01_P009_B003",
+      "panel": "JUDE_01_P009_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.646,
+        0.3,
+        0.1539
+      ],
+      "tail": [
+        0.18,
+        0.8384
+      ],
+      "text_key": "jude.1.p9.b3"
+    }
+  ]
+}
