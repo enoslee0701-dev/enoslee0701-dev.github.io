@@ -1,0 +1,79 @@
+{
+  "id": "PETER2_03_P003",
+  "book": "peter2",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PETER2_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PETER2_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1823
+      ]
+    },
+    {
+      "id": "PETER2_03_P003_F2",
+      "box": [
+        0,
+        0.1868,
+        1,
+        0.5143
+      ]
+    },
+    {
+      "id": "PETER2_03_P003_F3",
+      "box": [
+        0,
+        0.7057,
+        1,
+        0.2943
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PETER2_03_P003_B001",
+      "panel": "PETER2_03_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0073,
+        0.38,
+        0.0546
+      ],
+      "tail": [
+        0.22,
+        0.0801
+      ],
+      "text_key": "peter2.3.p3.b1"
+    },
+    {
+      "id": "PETER2_03_P003_B002",
+      "panel": "PETER2_03_P003_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.7175,
+        0.52,
+        0.0765
+      ],
+      "tail": null,
+      "text_key": "peter2.3.p3.b2"
+    }
+  ]
+}

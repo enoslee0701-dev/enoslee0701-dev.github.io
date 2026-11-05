@@ -10,7 +10,7 @@
   "art": {
     "file": "CORINTHIANS1_02_P002",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -18,7 +18,7 @@
       "box": [
         0,
         0,
-        0.6328,
+        0.6338,
         0.3717
       ],
       "alt": {
@@ -28,9 +28,9 @@
     {
       "id": "CORINTHIANS1_02_P002_F2",
       "box": [
-        0.6445,
+        0.6455,
         0,
-        0.3555,
+        0.3545,
         0.3717
       ],
       "alt": {

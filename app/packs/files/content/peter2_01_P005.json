@@ -1,0 +1,106 @@
+{
+  "id": "PETER2_01_P005",
+  "book": "peter2",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "PETER2_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "PETER2_01_P005_F1",
+      "box": [
+        0,
+        0,
+        0.623,
+        0.3366
+      ]
+    },
+    {
+      "id": "PETER2_01_P005_F2",
+      "box": [
+        0.6279,
+        0,
+        0.3721,
+        0.3366
+      ]
+    },
+    {
+      "id": "PETER2_01_P005_F3",
+      "box": [
+        0,
+        0.3405,
+        1,
+        0.3678
+      ]
+    },
+    {
+      "id": "PETER2_01_P005_F4",
+      "box": [
+        0,
+        0.7122,
+        1,
+        0.2878
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "PETER2_01_P005_B001",
+      "panel": "PETER2_01_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0249,
+        0.0067,
+        0.5731,
+        0.0673
+      ],
+      "tail": [
+        0.3115,
+        0.1077
+      ],
+      "text_key": "peter2.1.p5.b1"
+    },
+    {
+      "id": "PETER2_01_P005_B002",
+      "panel": "PETER2_01_P005_F3",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.08,
+        0.3515,
+        0.4,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "peter2.1.p5.b2"
+    },
+    {
+      "id": "PETER2_01_P005_B003",
+      "panel": "PETER2_01_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.62,
+        0.7295,
+        0.34,
+        0.1151
+      ],
+      "tail": [
+        0.79,
+        0.8734
+      ],
+      "text_key": "peter2.1.p5.b3"
+    }
+  ]
+}
