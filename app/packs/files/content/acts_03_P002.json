@@ -10,7 +10,7 @@
   "art": {
     "file": "ACTS_03_P002",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -103,10 +103,10 @@
       "type": "caption",
       "style": "caption",
       "box": [
-        0.52,
-        0.8817,
-        0.45,
-        0.0914
+        0.2,
+        0.8935,
+        0.54,
+        0.0905
       ],
       "tail": null,
       "text_key": "acts.3.p2.b4"

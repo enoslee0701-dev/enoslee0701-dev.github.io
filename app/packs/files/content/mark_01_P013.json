@@ -10,7 +10,7 @@
   "art": {
     "file": "MARK_01_P013",
     "ratio": "2:3",
-    "master_version": 2
+    "master_version": 3
   },
   "panels": [
     {
@@ -110,9 +110,9 @@
       "style": "caption",
       "box": [
         0.007,
-        0.181,
-        0.31,
-        0.177
+        0.184,
+        0.276,
+        0.13
       ],
       "tail": null,
       "text_key": "mark.1.p13.b2"
