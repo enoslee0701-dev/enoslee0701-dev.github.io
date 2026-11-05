@@ -1,0 +1,118 @@
+{
+  "id": "JOHN3_01_P001",
+  "book": "john3",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOHN3_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOHN3_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2057
+      ]
+    },
+    {
+      "id": "JOHN3_01_P001_F2",
+      "box": [
+        0,
+        0.209,
+        0.4023,
+        0.4616
+      ]
+    },
+    {
+      "id": "JOHN3_01_P001_F3",
+      "box": [
+        0.4092,
+        0.209,
+        0.5908,
+        0.4616
+      ]
+    },
+    {
+      "id": "JOHN3_01_P001_F4",
+      "box": [
+        0,
+        0.6751,
+        1,
+        0.3249
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOHN3_01_P001_B001",
+      "panel": "JOHN3_01_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0103,
+        0.4,
+        0.0699
+      ],
+      "tail": null,
+      "text_key": "john3.1.p1.b1"
+    },
+    {
+      "id": "JOHN3_01_P001_B002",
+      "panel": "JOHN3_01_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0121,
+        0.2228,
+        0.2413,
+        0.083
+      ],
+      "tail": null,
+      "text_key": "john3.1.p1.b2"
+    },
+    {
+      "id": "JOHN3_01_P001_B003",
+      "panel": "JOHN3_01_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4328,
+        0.5967,
+        0.5435,
+        0.0692
+      ],
+      "tail": null,
+      "text_key": "john3.1.p1.b3"
+    },
+    {
+      "id": "JOHN3_01_P001_B004",
+      "panel": "JOHN3_01_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.6816,
+        0.35,
+        0.0454
+      ],
+      "tail": [
+        0.795,
+        0.7595
+      ],
+      "text_key": "john3.1.p1.b4"
+    }
+  ]
+}
