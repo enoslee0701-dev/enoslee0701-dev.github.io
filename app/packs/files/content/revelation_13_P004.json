@@ -10,7 +10,7 @@
   "art": {
     "file": "REVELATION_13_P004",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -19,25 +19,25 @@
         0,
         0,
         1,
-        0.2188
+        0.2682
       ]
     },
     {
       "id": "REVELATION_13_P004_F2",
       "box": [
         0,
-        0.2227,
+        0.2708,
         1,
-        0.3034
+        0.293
       ]
     },
     {
       "id": "REVELATION_13_P004_F3",
       "box": [
         0,
-        0.5306,
+        0.5664,
         1,
-        0.4694
+        0.4336
       ]
     }
   ],
@@ -50,9 +50,9 @@
       "style": "caption",
       "box": [
         0.03,
-        0.0088,
+        0.0107,
         0.44,
-        0.0656
+        0.0805
       ],
       "tail": null,
       "text_key": "revelation.13.p4.b10"
@@ -64,10 +64,10 @@
       "type": "caption",
       "style": "caption",
       "box": [
-        0.62,
-        0.2348,
-        0.36,
-        0.0728
+        0.5,
+        0.2796,
+        0.46,
+        0.0469
       ],
       "tail": null,
       "text_key": "revelation.13.p4.b11"
@@ -79,10 +79,10 @@
       "type": "caption",
       "style": "caption",
       "box": [
-        0.62,
-        0.9061,
-        0.36,
-        0.0751
+        0.4,
+        0.5794,
+        0.34,
+        0.065
       ],
       "tail": null,
       "text_key": "revelation.13.p4.b12"

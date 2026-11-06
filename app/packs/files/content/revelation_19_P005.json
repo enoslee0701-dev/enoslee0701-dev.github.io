@@ -10,7 +10,7 @@
   "art": {
     "file": "REVELATION_19_P005",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -47,8 +47,8 @@
       "style": "caption",
       "box": [
         0.03,
-        0.48,
-        0.34,
+        0.4,
+        0.19,
         0.16
       ],
       "tail": null,

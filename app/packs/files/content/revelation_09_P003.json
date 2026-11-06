@@ -10,7 +10,7 @@
   "art": {
     "file": "REVELATION_09_P003",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -19,16 +19,16 @@
         0,
         0,
         1,
-        0.5918
+        0.596
       ]
     },
     {
       "id": "REVELATION_09_P003_F2",
       "box": [
         0,
-        0.5964,
+        0.6,
         1,
-        0.4036
+        0.4
       ]
     }
   ],
@@ -40,10 +40,10 @@
       "type": "caption",
       "style": "caption",
       "box": [
-        0.6,
-        0.0178,
-        0.38,
-        0.1301
+        0.67,
+        0.0119,
+        0.31,
+        0.0834
       ],
       "tail": null,
       "text_key": "revelation.9.p3.b6"

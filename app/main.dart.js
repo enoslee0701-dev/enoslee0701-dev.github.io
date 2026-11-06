@@ -56019,7 +56019,7 @@ J3(a,b,c){return this.ayO(a,b,c)},
 ayO(a,b,c){var s=0,r=A.J(t.T),q,p=2,o=[],n=this,m,l,k,j,i,h
 var $async$J3=A.K(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:k=t.N
-j=A.aE(["device_id",c,"client_id",b.h(0,"id"),"app_version","1.1.0+103","platform","web","lang",b.h(0,"lang"),"type",b.h(0,"type"),"text",A.b8T(b.h(0,"text"),2000),"contact",A.b8T(b.h(0,"contact"),100),"ctx",A.b8T(b.h(0,"ctx"),300),"book",b.h(0,"book"),"chapter",b.h(0,"chapter"),"page",b.h(0,"page")],k,t.z)
+j=A.aE(["device_id",c,"client_id",b.h(0,"id"),"app_version","1.1.0+104","platform","web","lang",b.h(0,"lang"),"type",b.h(0,"type"),"text",A.b8T(b.h(0,"text"),2000),"contact",A.b8T(b.h(0,"contact"),100),"ctx",A.b8T(b.h(0,"ctx"),300),"book",b.h(0,"book"),"chapter",b.h(0,"chapter"),"page",b.h(0,"page")],k,t.z)
 i=null
 p=4
 s=7
@@ -57334,7 +57334,7 @@ Jx(a,b,c){return this.ayP(a,b,c)},
 ayP(a,b,c){var s=0,r=A.J(t.y),q,p=2,o=[],n=this,m,l,k,j,i,h
 var $async$Jx=A.K(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:k=t.N
-j=A.aE(["device_id",c,"batch_id",b.h(0,"id"),"app_version","1.1.0+103","platform","web","lang",A.a4(n.a.b0($.c_(),t.V).gcB().h(0,"readLang")),"events",b.h(0,"events")],k,t.z)
+j=A.aE(["device_id",c,"batch_id",b.h(0,"id"),"app_version","1.1.0+104","platform","web","lang",A.a4(n.a.b0($.c_(),t.V).gcB().h(0,"readLang")),"events",b.h(0,"events")],k,t.z)
 i=null
 p=4
 s=7
@@ -60055,7 +60055,7 @@ o.push(A.b7D(a.gBb(),!1,d))
 o.push(new A.rN(a.gDE(),!1,d))
 o.push(A.b7D(a.DF(B.b.aN(B.a57,a.gu4())),!1,d))
 o.push(new A.rN(a.gGM(),!1,d))
-o.push(new A.O2(a.gpI(),a.B4("1.1.0",103),d))
+o.push(new A.O2(a.gpI(),a.B4("1.1.0",104),d))
 return A.en(new A.hC(r,B.cs,d),b.a,A.ek(o,d,new A.T(20,4,20,32+q.r.d),d,!1),d,!1)}}
 A.alQ.prototype={
 $1(a){var s=this.a

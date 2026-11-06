@@ -10,7 +10,7 @@
   "art": {
     "file": "REVELATION_05_P005",
     "ratio": "2:3",
-    "master_version": 1
+    "master_version": 2
   },
   "panels": [
     {
@@ -19,25 +19,25 @@
         0,
         0,
         1,
-        0.4954
+        0.4902
       ]
     },
     {
       "id": "REVELATION_05_P005_F2",
       "box": [
         0,
-        0.5,
+        0.4941,
         1,
-        0.2181
+        0.2155
       ]
     },
     {
       "id": "REVELATION_05_P005_F3",
       "box": [
         0,
-        0.7227,
+        0.7135,
         1,
-        0.2773
+        0.2865
       ]
     }
   ],
@@ -50,9 +50,9 @@
       "style": "caption",
       "box": [
         0.51,
-        0.0099,
+        0.0098,
         0.46,
-        0.0792
+        0.0784
       ],
       "tail": null,
       "text_key": "revelation.5.p5.b12"
@@ -65,9 +65,9 @@
       "style": "caption",
       "box": [
         0.45,
-        0.731,
+        0.7221,
         0.52,
-        0.017
+        0.0176
       ],
       "tail": null,
       "text_key": "revelation.5.p5.b13"
@@ -80,9 +80,9 @@
       "style": "divine",
       "box": [
         0.45,
-        0.7537,
+        0.7455,
         0.52,
-        0.0605
+        0.0625
       ],
       "tail": null,
       "text_key": "revelation.5.p5.b14"
