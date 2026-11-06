@@ -1,0 +1,94 @@
+{
+  "id": "REVELATION_22_P009",
+  "book": "revelation",
+  "chapter": 22,
+  "page": 9,
+  "ref": "22:20-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_22_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_22_P009_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.3255
+      ]
+    },
+    {
+      "id": "REVELATION_22_P009_F2",
+      "box": [
+        0.501,
+        0,
+        0.499,
+        0.3255
+      ]
+    },
+    {
+      "id": "REVELATION_22_P009_F3",
+      "box": [
+        0,
+        0.3301,
+        1,
+        0.6699
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_22_P009_B001",
+      "panel": "REVELATION_22_P009_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0247,
+        0.013,
+        0.4446,
+        0.0781
+      ],
+      "tail": null,
+      "text_key": "revelation.22.p9.b1"
+    },
+    {
+      "id": "REVELATION_22_P009_B002",
+      "panel": "REVELATION_22_P009_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.3569,
+        0.55,
+        0.0937
+      ],
+      "tail": [
+        0.315,
+        0.5176
+      ],
+      "text_key": "revelation.22.p9.b2"
+    },
+    {
+      "id": "REVELATION_22_P009_B003",
+      "panel": "REVELATION_22_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.8928,
+        0.5,
+        0.0803
+      ],
+      "tail": null,
+      "text_key": "revelation.22.p9.b3"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "REVELATION_19_P006",
+  "book": "revelation",
+  "chapter": 19,
+  "page": 6,
+  "ref": "19:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_19_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_19_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4089
+      ]
+    },
+    {
+      "id": "REVELATION_19_P006_F2",
+      "box": [
+        0,
+        0.4134,
+        0.5371,
+        0.3138
+      ]
+    },
+    {
+      "id": "REVELATION_19_P006_F3",
+      "box": [
+        0.5459,
+        0.4134,
+        0.4541,
+        0.3138
+      ]
+    },
+    {
+      "id": "REVELATION_19_P006_F4",
+      "box": [
+        0,
+        0.7318,
+        1,
+        0.2682
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_19_P006_B001",
+      "panel": "REVELATION_19_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.3271,
+        0.42,
+        0.0695
+      ],
+      "tail": null,
+      "text_key": "revelation.19.p6.b1"
+    },
+    {
+      "id": "REVELATION_19_P006_B002",
+      "panel": "REVELATION_19_P006_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5641,
+        0.6017,
+        0.4177,
+        0.1129
+      ],
+      "tail": null,
+      "text_key": "revelation.19.p6.b2"
+    },
+    {
+      "id": "REVELATION_19_P006_B003",
+      "panel": "REVELATION_19_P006_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "jesus_power",
+      "box": [
+        0.03,
+        0.7425,
+        0.55,
+        0.0858
+      ],
+      "tail": [
+        0.305,
+        0.8551
+      ],
+      "text_key": "revelation.19.p6.b3"
+    }
+  ]
+}

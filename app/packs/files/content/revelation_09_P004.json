@@ -1,0 +1,115 @@
+{
+  "id": "REVELATION_09_P004",
+  "book": "revelation",
+  "chapter": 9,
+  "page": 4,
+  "ref": "9:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_09_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_09_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.321
+      ]
+    },
+    {
+      "id": "REVELATION_09_P004_F2",
+      "box": [
+        0,
+        0.3262,
+        0.4414,
+        0.2826
+      ]
+    },
+    {
+      "id": "REVELATION_09_P004_F3",
+      "box": [
+        0.4492,
+        0.3262,
+        0.5508,
+        0.2826
+      ]
+    },
+    {
+      "id": "REVELATION_09_P004_F4",
+      "box": [
+        0,
+        0.6133,
+        1,
+        0.3867
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_09_P004_B009",
+      "panel": "REVELATION_09_P004_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0128,
+        0.42,
+        0.0834
+      ],
+      "tail": null,
+      "text_key": "revelation.9.p4.b9"
+    },
+    {
+      "id": "REVELATION_09_P004_B010",
+      "panel": "REVELATION_09_P004_F2",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0177,
+        0.3347,
+        0.406,
+        0.0678
+      ],
+      "tail": null,
+      "text_key": "revelation.9.p4.b10"
+    },
+    {
+      "id": "REVELATION_09_P004_B011",
+      "panel": "REVELATION_09_P004_F3",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4712,
+        0.5297,
+        0.3304,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "revelation.9.p4.b11"
+    },
+    {
+      "id": "REVELATION_09_P004_B012",
+      "panel": "REVELATION_09_P004_F4",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.6249,
+        0.52,
+        0.0773
+      ],
+      "tail": null,
+      "text_key": "revelation.9.p4.b12"
+    }
+  ]
+}

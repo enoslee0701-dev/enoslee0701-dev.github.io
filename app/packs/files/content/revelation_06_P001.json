@@ -1,0 +1,106 @@
+{
+  "id": "REVELATION_06_P001",
+  "book": "revelation",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_06_P001_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.3268
+      ]
+    },
+    {
+      "id": "REVELATION_06_P001_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.3268
+      ]
+    },
+    {
+      "id": "REVELATION_06_P001_F3",
+      "box": [
+        0,
+        0.332,
+        1,
+        0.668
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_06_P001_B001",
+      "panel": "REVELATION_06_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0148,
+        0.0131,
+        0.247,
+        0.0718
+      ],
+      "tail": null,
+      "text_key": "revelation.6.p1.b1"
+    },
+    {
+      "id": "REVELATION_06_P001_B002",
+      "panel": "REVELATION_06_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5198,
+        0.2288,
+        0.2277,
+        0.0849
+      ],
+      "tail": null,
+      "text_key": "revelation.6.p1.b2"
+    },
+    {
+      "id": "REVELATION_06_P001_B003",
+      "panel": "REVELATION_06_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.64,
+        0.3387,
+        0.34,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "revelation.6.p1.b3"
+    },
+    {
+      "id": "REVELATION_06_P001_B004",
+      "panel": "REVELATION_06_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.8798,
+        0.48,
+        0.1002
+      ],
+      "tail": null,
+      "text_key": "revelation.6.p1.b4"
+    }
+  ]
+}

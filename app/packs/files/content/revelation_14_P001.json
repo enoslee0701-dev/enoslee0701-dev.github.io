@@ -1,0 +1,43 @@
+{
+  "id": "REVELATION_14_P001",
+  "book": "revelation",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_14_P001_B001",
+      "panel": "REVELATION_14_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.03,
+        0.41,
+        0.12
+      ],
+      "tail": null,
+      "text_key": "revelation.14.p1.b1"
+    }
+  ]
+}

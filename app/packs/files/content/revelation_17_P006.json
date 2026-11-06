@@ -1,0 +1,127 @@
+{
+  "id": "REVELATION_17_P006",
+  "book": "revelation",
+  "chapter": 17,
+  "page": 6,
+  "ref": "17:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_17_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_17_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2083
+      ]
+    },
+    {
+      "id": "REVELATION_17_P006_F2",
+      "box": [
+        0,
+        0.2109,
+        1,
+        0.4622
+      ]
+    },
+    {
+      "id": "REVELATION_17_P006_F3",
+      "box": [
+        0,
+        0.6771,
+        0.5117,
+        0.3229
+      ]
+    },
+    {
+      "id": "REVELATION_17_P006_F4",
+      "box": [
+        0.5176,
+        0.6771,
+        0.4824,
+        0.3229
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_17_P006_B001",
+      "panel": "REVELATION_17_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0083,
+        0.45,
+        0.0499
+      ],
+      "tail": [
+        0.255,
+        0.079
+      ],
+      "text_key": "revelation.17.p6.b1"
+    },
+    {
+      "id": "REVELATION_17_P006_B002",
+      "panel": "REVELATION_17_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2294,
+        0.36,
+        0.1016
+      ],
+      "tail": [
+        0.21,
+        0.3772
+      ],
+      "text_key": "revelation.17.p6.b2"
+    },
+    {
+      "id": "REVELATION_17_P006_B003",
+      "panel": "REVELATION_17_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0205,
+        0.69,
+        0.4605,
+        0.0774
+      ],
+      "tail": [
+        0.2508,
+        0.7997
+      ],
+      "text_key": "revelation.17.p6.b3"
+    },
+    {
+      "id": "REVELATION_17_P006_B004",
+      "panel": "REVELATION_17_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5369,
+        0.9354,
+        0.4341,
+        0.0548
+      ],
+      "tail": [
+        0.754,
+        1
+      ],
+      "text_key": "revelation.17.p6.b4"
+    }
+  ]
+}

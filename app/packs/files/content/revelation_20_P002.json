@@ -1,0 +1,115 @@
+{
+  "id": "REVELATION_20_P002",
+  "book": "revelation",
+  "chapter": 20,
+  "page": 2,
+  "ref": "20:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_20_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_20_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.252
+      ]
+    },
+    {
+      "id": "REVELATION_20_P002_F2",
+      "box": [
+        0,
+        0.2552,
+        1,
+        0.3828
+      ]
+    },
+    {
+      "id": "REVELATION_20_P002_F3",
+      "box": [
+        0,
+        0.6426,
+        0.4971,
+        0.3574
+      ]
+    },
+    {
+      "id": "REVELATION_20_P002_F4",
+      "box": [
+        0.5039,
+        0.6426,
+        0.4961,
+        0.3574
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_20_P002_B001",
+      "panel": "REVELATION_20_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.1865,
+        0.42,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "revelation.20.p2.b1"
+    },
+    {
+      "id": "REVELATION_20_P002_B002",
+      "panel": "REVELATION_20_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.2667,
+        0.37,
+        0.0918
+      ],
+      "tail": null,
+      "text_key": "revelation.20.p2.b2"
+    },
+    {
+      "id": "REVELATION_20_P002_B003",
+      "panel": "REVELATION_20_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.9142,
+        0.4473,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "revelation.20.p2.b3"
+    },
+    {
+      "id": "REVELATION_20_P002_B004",
+      "panel": "REVELATION_20_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5138,
+        0.6533,
+        0.1488,
+        0.1143
+      ],
+      "tail": null,
+      "text_key": "revelation.20.p2.b4"
+    }
+  ]
+}

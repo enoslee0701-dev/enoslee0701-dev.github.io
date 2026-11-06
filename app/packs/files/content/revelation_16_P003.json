@@ -1,0 +1,76 @@
+{
+  "id": "REVELATION_16_P003",
+  "book": "revelation",
+  "chapter": 16,
+  "page": 3,
+  "ref": "16:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_16_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_16_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4967
+      ]
+    },
+    {
+      "id": "REVELATION_16_P003_F2",
+      "box": [
+        0,
+        0.5007,
+        0.583,
+        0.4993
+      ]
+    },
+    {
+      "id": "REVELATION_16_P003_F3",
+      "box": [
+        0.5879,
+        0.5007,
+        0.4121,
+        0.4993
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_16_P003_B007",
+      "panel": "REVELATION_16_P003_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.3676,
+        0.42,
+        0.1092
+      ],
+      "tail": null,
+      "text_key": "revelation.16.p3.b7"
+    },
+    {
+      "id": "REVELATION_16_P003_B008",
+      "panel": "REVELATION_16_P003_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0233,
+        0.5207,
+        0.5247,
+        0.0798
+      ],
+      "tail": null,
+      "text_key": "revelation.16.p3.b8"
+    }
+  ]
+}

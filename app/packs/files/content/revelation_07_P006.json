@@ -1,0 +1,127 @@
+{
+  "id": "REVELATION_07_P006",
+  "book": "revelation",
+  "chapter": 7,
+  "page": 6,
+  "ref": "7:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_07_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_07_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3034
+      ]
+    },
+    {
+      "id": "REVELATION_07_P006_F2",
+      "box": [
+        0,
+        0.3079,
+        0.4268,
+        0.2832
+      ]
+    },
+    {
+      "id": "REVELATION_07_P006_F3",
+      "box": [
+        0.4336,
+        0.3079,
+        0.5664,
+        0.2832
+      ]
+    },
+    {
+      "id": "REVELATION_07_P006_F4",
+      "box": [
+        0,
+        0.5964,
+        1,
+        0.4036
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_07_P006_B016",
+      "panel": "REVELATION_07_P006_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0091,
+        0.4,
+        0.0667
+      ],
+      "tail": [
+        0.78,
+        0.1061
+      ],
+      "text_key": "revelation.7.p6.b16"
+    },
+    {
+      "id": "REVELATION_07_P006_B017",
+      "panel": "REVELATION_07_P006_F2",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0171,
+        0.5345,
+        0.3926,
+        0.0481
+      ],
+      "tail": [
+        0.2134,
+        0.5911
+      ],
+      "text_key": "revelation.7.p6.b17"
+    },
+    {
+      "id": "REVELATION_07_P006_B018",
+      "panel": "REVELATION_07_P006_F3",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7848,
+        0.3164,
+        0.1982,
+        0.1019
+      ],
+      "tail": [
+        0.8839,
+        0.4466
+      ],
+      "text_key": "revelation.7.p6.b18"
+    },
+    {
+      "id": "REVELATION_07_P006_B019",
+      "panel": "REVELATION_07_P006_F4",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.9193,
+        0.44,
+        0.0686
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "revelation.7.p6.b19"
+    }
+  ]
+}

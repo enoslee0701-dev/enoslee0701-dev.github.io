@@ -1,0 +1,109 @@
+{
+  "id": "REVELATION_14_P004",
+  "book": "revelation",
+  "chapter": 14,
+  "page": 4,
+  "ref": "14:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_14_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_14_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3275
+      ]
+    },
+    {
+      "id": "REVELATION_14_P004_F2",
+      "box": [
+        0,
+        0.332,
+        0.4785,
+        0.3457
+      ]
+    },
+    {
+      "id": "REVELATION_14_P004_F3",
+      "box": [
+        0.4883,
+        0.332,
+        0.5117,
+        0.3457
+      ]
+    },
+    {
+      "id": "REVELATION_14_P004_F4",
+      "box": [
+        0,
+        0.6829,
+        1,
+        0.3171
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_14_P004_B009",
+      "panel": "REVELATION_14_P004_F1",
+      "order": 9,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.53,
+        0.0131,
+        0.44,
+        0.072
+      ],
+      "tail": [
+        0.75,
+        0.1179
+      ],
+      "text_key": "revelation.14.p4.b9"
+    },
+    {
+      "id": "REVELATION_14_P004_B010",
+      "panel": "REVELATION_14_P004_F2",
+      "order": 10,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0191,
+        0.574,
+        0.4306,
+        0.0933
+      ],
+      "tail": [
+        0.2344,
+        0.6777
+      ],
+      "text_key": "revelation.14.p4.b10"
+    },
+    {
+      "id": "REVELATION_14_P004_B011",
+      "panel": "REVELATION_14_P004_F4",
+      "order": 11,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.6956,
+        0.47,
+        0.0697
+      ],
+      "tail": [
+        0.735,
+        0.797
+      ],
+      "text_key": "revelation.14.p4.b11"
+    }
+  ]
+}

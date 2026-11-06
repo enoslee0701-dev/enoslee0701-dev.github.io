@@ -1,0 +1,121 @@
+{
+  "id": "REVELATION_05_P004",
+  "book": "revelation",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:8-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "REVELATION_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "REVELATION_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5042
+      ]
+    },
+    {
+      "id": "REVELATION_05_P004_F2",
+      "box": [
+        0,
+        0.5125,
+        0.31,
+        0.2775
+      ]
+    },
+    {
+      "id": "REVELATION_05_P004_F3",
+      "box": [
+        0,
+        0.5125,
+        1,
+        0.4875
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "REVELATION_05_P004_B007",
+      "panel": "REVELATION_05_P004_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.4235,
+        0.4,
+        0.0705
+      ],
+      "tail": null,
+      "text_key": "revelation.5.p4.b7"
+    },
+    {
+      "id": "REVELATION_05_P004_B008",
+      "panel": "REVELATION_05_P004_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1705,
+        0.5236,
+        0.1302,
+        0.061
+      ],
+      "tail": null,
+      "text_key": "revelation.5.p4.b8"
+    },
+    {
+      "id": "REVELATION_05_P004_B009",
+      "panel": "REVELATION_05_P004_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.5223,
+        0.37,
+        0.0195
+      ],
+      "tail": null,
+      "text_key": "revelation.5.p4.b9"
+    },
+    {
+      "id": "REVELATION_05_P004_B010",
+      "panel": "REVELATION_05_P004_F3",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.5442,
+        0.37,
+        0.0414
+      ],
+      "tail": null,
+      "text_key": "revelation.5.p4.b10"
+    },
+    {
+      "id": "REVELATION_05_P004_B011",
+      "panel": "REVELATION_05_P004_F3",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.9123,
+        0.5,
+        0.0731
+      ],
+      "tail": null,
+      "text_key": "revelation.5.p4.b11"
+    }
+  ]
+}
