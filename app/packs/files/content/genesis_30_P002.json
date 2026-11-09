@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_30_P002",
+  "book": "genesis",
+  "chapter": 30,
+  "page": 2,
+  "ref": "30:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_30_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_30_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "辟拉就怀孕，给雅各生了一个儿子。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P002_F2",
+      "box": [
+        0,
+        0.2773,
+        0.5264,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "拉结说：「　神伸了我的冤，也听了我的声音，赐我一个儿子」，因此给他起名叫但。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P002_F3",
+      "box": [
+        0.5342,
+        0.2773,
+        0.4658,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "拉结的使女辟拉又怀孕，给雅各生了第二个儿子。利亚在对面帐棚门口看着。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P002_F4",
+      "box": [
+        0,
+        0.556,
+        1,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "拉结说：「我与我姊姊大大相争，并且得胜」，于是给他起名叫拿弗他利。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_30_P002_B001",
+      "panel": "GENESIS_30_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0082,
+        0.42,
+        0.0546
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p2.b1"
+    },
+    {
+      "id": "GENESIS_30_P002_B002",
+      "panel": "GENESIS_30_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3053,
+        0.2855,
+        0.2105,
+        0.0714
+      ],
+      "tail": [
+        0.4106,
+        0.3844
+      ],
+      "text_key": "genesis.30.p2.b2"
+    },
+    {
+      "id": "GENESIS_30_P002_B003",
+      "panel": "GENESIS_30_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.5693,
+        0.45,
+        0.0666
+      ],
+      "tail": [
+        0.255,
+        0.6803
+      ],
+      "text_key": "genesis.30.p2.b3"
+    }
+  ]
+}

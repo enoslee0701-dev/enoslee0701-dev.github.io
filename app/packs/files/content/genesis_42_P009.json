@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_42_P009",
+  "book": "genesis",
+  "chapter": 42,
+  "page": 9,
+  "ref": "42:35-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_42_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_42_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4382
+      ],
+      "alt": {
+        "zh-CN": "后来他们倒口袋，不料，各人的银包都在口袋里；"
+      }
+    },
+    {
+      "id": "GENESIS_42_P009_F2",
+      "box": [
+        0,
+        0.4408,
+        1,
+        0.1973
+      ],
+      "alt": {
+        "zh-CN": "他们和父亲看见银包就都害怕。"
+      }
+    },
+    {
+      "id": "GENESIS_42_P009_F3",
+      "box": [
+        0,
+        0.6406,
+        0.5107,
+        0.3594
+      ],
+      "alt": {
+        "zh-CN": "他们的父亲雅各对他们说：「你们使我丧失我的儿子：约瑟没有了，西缅也没有了，你们又要将便雅悯带去；"
+      }
+    },
+    {
+      "id": "GENESIS_42_P009_F4",
+      "box": [
+        0.5156,
+        0.6406,
+        0.4844,
+        0.3594
+      ],
+      "alt": {
+        "zh-CN": "这些事都归到我身上了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_42_P009_B001",
+      "panel": "GENESIS_42_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0088,
+        0.36,
+        0.0394
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p9.b1"
+    },
+    {
+      "id": "GENESIS_42_P009_B002",
+      "panel": "GENESIS_42_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.5947,
+        0.45,
+        0.0394
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p9.b2"
+    },
+    {
+      "id": "GENESIS_42_P009_B003",
+      "panel": "GENESIS_42_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0153,
+        0.6514,
+        0.3166,
+        0.079
+      ],
+      "tail": [
+        0.1736,
+        0.7663
+      ],
+      "text_key": "genesis.42.p9.b3"
+    },
+    {
+      "id": "GENESIS_42_P009_B004",
+      "panel": "GENESIS_42_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.5398,
+        0.9353,
+        0.4359,
+        0.0539
+      ],
+      "tail": [
+        0.7577,
+        1
+      ],
+      "text_key": "genesis.42.p9.b4"
+    }
+  ]
+}

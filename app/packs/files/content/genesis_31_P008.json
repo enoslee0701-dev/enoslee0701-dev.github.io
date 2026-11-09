@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_31_P008",
+  "book": "genesis",
+  "chapter": 31,
+  "page": 8,
+  "ref": "31:31-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_31_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_31_P008_F1",
+      "box": [
+        0,
+        0,
+        0.6729,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "雅各回答拉班说：「恐怕你把你的女儿从我夺去，所以我逃跑。至于你的神像，你在谁那里搜出来，就不容谁存活。当着我们的众弟兄，你认一认，在我这里有什么东西是你的，就拿去。」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P008_F2",
+      "box": [
+        0.6787,
+        0,
+        0.3213,
+        0.3262
+      ],
+      "alt": {
+        "zh-CN": "原来雅各不知道拉结偷了那些神像。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P008_F3",
+      "box": [
+        0,
+        0.3301,
+        1,
+        0.2585
+      ],
+      "alt": {
+        "zh-CN": "拉班进了雅各、利亚，并两个使女的帐棚，都没有搜出来，就从利亚的帐棚出来，进了拉结的帐棚。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P008_F4",
+      "box": [
+        0,
+        0.5918,
+        1,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "拉结已经把神像藏在骆驼的驮篓里，便坐在上头。拉班摸遍了那帐棚，并没有摸着。拉结对她父亲说：「现在我身上不便，不能在你面前起来，求我主不要生气。」这样，拉班搜寻神像，竟没有搜出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_31_P008_B001",
+      "panel": "GENESIS_31_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0202,
+        0.0098,
+        0.37,
+        0.0717
+      ],
+      "tail": [
+        0.2052,
+        0.1141
+      ],
+      "text_key": "genesis.31.p8.b1"
+    },
+    {
+      "id": "GENESIS_31_P008_B002",
+      "panel": "GENESIS_31_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6948,
+        0.2479,
+        0.2891,
+        0.0652
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p8.b2"
+    },
+    {
+      "id": "GENESIS_31_P008_B003",
+      "panel": "GENESIS_31_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3379,
+        0.45,
+        0.0517
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p8.b3"
+    },
+    {
+      "id": "GENESIS_31_P008_B004",
+      "panel": "GENESIS_31_P008_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.6,
+        0.57,
+        0.0571
+      ],
+      "tail": [
+        0.685,
+        0.6979
+      ],
+      "text_key": "genesis.31.p8.b4"
+    }
+  ]
+}

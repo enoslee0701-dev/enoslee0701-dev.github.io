@@ -1,0 +1,282 @@
+{
+  "genesis.4.p1.b1": {
+    "text": "人はその妻エバを知った。彼女はみごもり、カインを産んで",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p1.b2": {
+    "text": "わたしは主によって、ひとりの人を得た",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p1.b3": {
+    "text": "彼女はまた、その弟アベルを産んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p1.b4": {
+    "text": "アベルは羊を飼う者となり、カインは土を耕す者となった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p2.b5": {
+    "text": "日がたって、カインは地の産物を持ってきて、主に供え物とした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p2.b6": {
+    "text": "アベルもまた、その群れのういごと肥えたものとを持ってきた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p2.b7": {
+    "text": "主はアベルとその供え物とを顧みられた。しかしカインとその供え物とは顧みられなかったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p2.b8": {
+    "text": "カインは大いに憤って、顔を伏せた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p3.b9": {
+    "text": "なぜあなたは憤るのですか、なぜ顔を伏せるのですか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p3.b10": {
+    "text": "正しい事をしているのでしたら、顔をあげたらよいでしょう。もし正しい事をしていないのでしたら、罪が門口に待ち伏せています。それはあなたを慕い求めますが、あなたはそれを治めなければなりません」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p3.b11": {
+    "text": "カインは弟アベルに言った、「さあ、野原へ行こう」。彼らが野にいたとき、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p3.b12": {
+    "text": "カインは弟アベルに立ちかかって、これを殺した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p4.b13": {
+    "text": "弟アベルは、どこにいますか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p4.b14": {
+    "text": "知りません。わたしが弟の番人でしょうか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p4.b15": {
+    "text": "あなたは何をしたのです。あなたの弟の血の声が土の中からわたしに叫んでいます。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p4.b16": {
+    "text": "……今あなたはのろわれてこの土地を離れなければなりません。……あなたが土地を耕しても、土地は、もはやあなたのために実を結びません。あなたは地上の放浪者となるでしょう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:11-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p5.b17": {
+    "text": "わたしの罰は重くて負いきれません。……わたしを見付ける人はだれでもわたしを殺すでしょう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p5.b18": {
+    "text": "だれでもカインを殺す者は七倍の復讐を受けるでしょう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p5.b19": {
+    "text": "カインは主の前を去って、エデンの東、ノドの地に住んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p6.b20": {
+    "text": "カインは町を建て、その町の名をその子の名にしたがって、エノクと名づけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p6.b21": {
+    "text": "彼は天幕に住んで、家畜を飼う者の先祖となった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p6.b22": {
+    "text": "その弟の名はユバルといった。彼は琴や笛を執るすべての者の先祖となった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p6.b23": {
+    "text": "チラもまたトバルカインを産んだ。彼は青銅や鉄のすべての刃物を鍛える者となった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p6.b24": {
+    "text": "アダとチラよ、わたしの声を聞け、レメクの妻たちよ、わたしの言葉に耳を傾けよ。わたしは受ける傷のために、人を殺し、受ける打ち傷のために、わたしは若者を殺す。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p6.b25": {
+    "text": "カインのための復讐が七倍ならば、レメクのための復讐は七十七倍」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p7.b26": {
+    "text": "カインがアベルを殺したので、神はアベルの代りに、ひとりの子をわたしに授けられました",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p7.b27": {
+    "text": "セツにもまた男の子が生れた。彼はその名をエノスと名づけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.4.p7.b28": {
+    "text": "この時、人々は主の名を呼び始めた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 4:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

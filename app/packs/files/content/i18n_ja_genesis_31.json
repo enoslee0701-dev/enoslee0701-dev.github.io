@@ -1,0 +1,442 @@
+{
+  "genesis.31.p1.b1": {
+    "text": "「ヤコブはわれわれの父の物をことごとく奪い、父の物によってあのすべての富を獲たのだ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p1.b2": {
+    "text": "またヤコブがラバンの顔を見るのに、それは自分に対して以前のようではなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p1.b3": {
+    "text": "「あなたの先祖の国へ帰り、親族のもとに行きなさい。わたしはあなたと共にいるであろう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p2.b1": {
+    "text": "そこでヤコブは人をやって、ラケルとレアとを、野にいる自分の群れのところに招き、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p2.b2": {
+    "text": "「わたしがあなたがたの父の顔を見るのに、わたしに対して以前のようではない。しかし、わたしの父の神はわたしと共におられる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p2.b3": {
+    "text": "しかし、あなたがたの父はわたしを欺いて、十度もわたしの報酬を変えた。けれども神は彼がわたしに害を加えることをお許しにならなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p2.b4": {
+    "text": "こうして神はあなたがたの父の家畜をとってわたしに与えられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p3.b1": {
+    "text": "また群れが発情した時、わたしが夢に目をあげて見ると、群れの上に乗っている雄やぎは皆しまのあるもの、ぶちのもの、霜ふりのものであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p3.b2": {
+    "text": "『ヤコブよ』",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p3.b3": {
+    "text": "わたしはベテルの神です。かつてあなたはあそこで柱に油を注いで、わたしに誓いを立てましたが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p3.b4": {
+    "text": "いま立ってこの地を出て、あなたの生れた国へ帰りなさい』」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p4.b1": {
+    "text": "「わたしたちの父の家に、なおわたしたちの受くべき分、また嗣業がありましょうか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p4.b2": {
+    "text": "わたしたちは父に他人のように思われているではありませんか。彼はわたしたちを売ったばかりでなく、わたしたちのその金をさえ使い果たしたのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p4.b3": {
+    "text": "だから何事でも神があなたにお告げになった事をしてください」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p5.b1": {
+    "text": "そこでヤコブは立って、子らと妻たちをらくだに乗せ、 … カナンの地におる父イサクのもとへ赴いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:17-18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p5.b2": {
+    "text": "ラケルは父の所有のテラピムを盗み出した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p5.b3": {
+    "text": "その時ラバンは羊の毛を切るために出ていたので、 …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p5.b4": {
+    "text": "… 立って川を渡り、ギレアデの山地へ向かった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p6.b1": {
+    "text": "三日目になって、ヤコブの逃げ去ったことが、ラバンに聞えたので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p6.b2": {
+    "text": "彼は一族を率いて、七日の間そのあとを追い、ギレアデの山地で追いついた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p6.b3": {
+    "text": "「あなたは心してヤコブに、よしあしを言ってはなりません」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p7.b1": {
+    "text": "ヤコブが山に天幕を張っていたので、ラバンも一族と共にギレアデの山に天幕を張った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p7.b2": {
+    "text": "「あなたはなんという事をしたのですか。あなたはわたしを欺いてわたしの娘たちをいくさのとりこのように引いて行きました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p7.b3": {
+    "text": "わたしは手鼓や琴で喜び歌ってあなたを送りだそうとしていたのに。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p7.b4": {
+    "text": "今あなたが逃げ出したのは父の家が非常に恋しくなったからでしょうが、なぜあなたはわたしの神を盗んだのですか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p8.b1": {
+    "text": "だれの所にでもあなたの神が見つかったら、その者を生かしてはおきません。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p8.b2": {
+    "text": "ラケルが神を盗んだことをヤコブは知らなかったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p8.b3": {
+    "text": "そこでラバンはヤコブの天幕にはいり、またレアの天幕にはいり、更にふたりのはしための天幕にはいってみたが、見つからなかったので、 …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p8.b4": {
+    "text": "「わたしは女の常のことがあって、あなたの前に立ち上がることができません。わが主よ、どうかお怒りにならぬよう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p9.b1": {
+    "text": "「わたしにどんなあやまちがあり、どんな罪があって、あなたはわたしのあとを激しく追ったのですか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p9.b2": {
+    "text": "あなたはわたしの物をことごとく探られたが、何かあなたの家の物が見つかりましたか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p9.b3": {
+    "text": "わたしはこの二十年、あなたと一緒にいましたが、その間あなたの雌羊も雌やぎも子を産みそこねたことはなく、 …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p9.b4": {
+    "text": "また野獣が、かみ裂いたものは、あなたのもとに持ってこないで、自分でそれを償いました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p10.b1": {
+    "text": "わたしのことを言えば、昼は暑さに、夜は寒さに悩まされて、眠ることもできませんでした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p10.b2": {
+    "text": "わたしはこの二十年あなたの家族のひとりでありました。わたしはあなたのふたりの娘のために十四年、またあなたの群れのために六年、あなたに仕えましたが、あなたは十度もわたしの報酬を変えられました。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p10.b3": {
+    "text": "神はわたしの悩みと、わたしの労苦とを顧みられて昨夜あなたを戒められたのです」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p11.b1": {
+    "text": "「娘たちはわたしの娘、子どもたちはわたしの孫です。また群れはわたしの群れ、あなたの見るものはみなわたしのものです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p11.b2": {
+    "text": "さあ、それではわたしとあなたと契約を結んで、これをわたしとあなたとの間の証拠としましょう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p11.b3": {
+    "text": "「われわれが互に別れたのちも、どうか主がわたしとあなたとの間を見守られるように。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p11.b4": {
+    "text": "ラバンはこれをエガル・サハドタと名づけ、ヤコブはこれをガルエドと名づけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:47"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p12.b1": {
+    "text": "この石塚を越えてわたしがあなたに害を加えず、またこの石塚とこの柱を越えてあなたがわたしに害を加えないように、 …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:52"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p12.b2": {
+    "text": "ヤコブは父イサクのかしこむ者によって誓った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:53"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p12.b3": {
+    "text": "そしてヤコブは山で犠牲をささげ、一族を招いて、食事をした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:54"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.31.p12.b4": {
+    "text": "あくる朝ラバンは早く起き、孫と娘たちに口づけして彼らを祝福し、去って家に帰った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 31:55"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

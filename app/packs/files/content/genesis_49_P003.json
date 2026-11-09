@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_49_P003",
+  "book": "genesis",
+  "chapter": 49,
+  "page": 3,
+  "ref": "49:8-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_49_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_49_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.293
+      ]
+    },
+    {
+      "id": "GENESIS_49_P003_F2",
+      "box": [
+        0,
+        0.2956,
+        0.3008,
+        0.3952
+      ]
+    },
+    {
+      "id": "GENESIS_49_P003_F3",
+      "box": [
+        0.3076,
+        0.2956,
+        0.6924,
+        0.3952
+      ]
+    },
+    {
+      "id": "GENESIS_49_P003_F4",
+      "box": [
+        0,
+        0.6934,
+        1,
+        0.3066
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_49_P003_B001",
+      "panel": "GENESIS_49_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0088,
+        0.24,
+        0.0879
+      ],
+      "tail": [
+        0.14,
+        0.126
+      ],
+      "text_key": "genesis.49.p3.b1"
+    },
+    {
+      "id": "GENESIS_49_P003_B002",
+      "panel": "GENESIS_49_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.015,
+        0.3075,
+        0.2707,
+        0.0948
+      ],
+      "tail": [
+        0.1503,
+        0.4418
+      ],
+      "text_key": "genesis.49.p3.b2"
+    },
+    {
+      "id": "GENESIS_49_P003_B003",
+      "panel": "GENESIS_49_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7369,
+        0.3075,
+        0.2492,
+        0.079
+      ],
+      "tail": [
+        0.8615,
+        0.426
+      ],
+      "text_key": "genesis.49.p3.b3"
+    }
+  ]
+}

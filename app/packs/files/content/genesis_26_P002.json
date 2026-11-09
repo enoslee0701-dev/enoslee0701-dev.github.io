@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_26_P002",
+  "book": "genesis",
+  "chapter": 26,
+  "page": 2,
+  "ref": "26:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_26_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_26_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2995
+      ],
+      "alt": {
+        "zh-CN": "以撒就住在基拉耳。那地方的人问到他的妻子，他便说：「那是我的妹子。」原来他怕说：「是我的妻子」；他心里想：「恐怕这地方的人为利百加的缘故杀我」，因为她容貌俊美。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P002_F2",
+      "box": [
+        0,
+        0.304,
+        0.3818,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "以撒强笑着，眼睛斜着往旁边瞟，额上冒汗。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P002_F3",
+      "box": [
+        0.3887,
+        0.304,
+        0.6113,
+        0.696
+      ],
+      "alt": {
+        "zh-CN": "他在那里住了许久。有一天，非利士人的王亚比米勒从窗户里往外观看，见以撒和他的妻子利百加戏玩。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P002_F4",
+      "box": [
+        0,
+        0.571,
+        0.3818,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "亚比米勒召了以撒来，对他说：「她实在是你的妻子，你怎么说她是你的妹子？」以撒说：「我心里想，恐怕我因她而死。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_26_P002_B005",
+      "panel": "GENESIS_26_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.009,
+        0.4,
+        0.0658
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p2.b5"
+    },
+    {
+      "id": "GENESIS_26_P002_B006",
+      "panel": "GENESIS_26_P002_F1",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.009,
+        0.3,
+        0.0599
+      ],
+      "tail": [
+        0.55,
+        0.0989
+      ],
+      "text_key": "genesis.26.p2.b6"
+    },
+    {
+      "id": "GENESIS_26_P002_B007",
+      "panel": "GENESIS_26_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6944,
+        0.3249,
+        0.2873,
+        0.1252
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p2.b7"
+    },
+    {
+      "id": "GENESIS_26_P002_B008",
+      "panel": "GENESIS_26_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0153,
+        0.5796,
+        0.3512,
+        0.0772
+      ],
+      "tail": [
+        0.1909,
+        0.6997
+      ],
+      "text_key": "genesis.26.p2.b8"
+    }
+  ]
+}

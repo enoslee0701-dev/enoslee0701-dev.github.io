@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_34_P001",
+  "book": "genesis",
+  "chapter": 34,
+  "page": 1,
+  "ref": "34:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_34_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_34_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "利亚给雅各所生的女儿底拿出去，要见那地的女子们。"
+      }
+    },
+    {
+      "id": "GENESIS_34_P001_F2",
+      "box": [
+        0,
+        0.2865,
+        0.498,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "那地的主——希未人、哈抹的儿子示剑看见她，"
+      }
+    },
+    {
+      "id": "GENESIS_34_P001_F3",
+      "box": [
+        0.5039,
+        0.2865,
+        0.4961,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "就拉住她，与她行淫，玷辱她。"
+      }
+    },
+    {
+      "id": "GENESIS_34_P001_F4",
+      "box": [
+        0,
+        0.6211,
+        1,
+        0.3789
+      ],
+      "alt": {
+        "zh-CN": "示剑的心系恋雅各的女儿底拿，喜爱这女子，甜言蜜语地安慰她。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_34_P001_B001",
+      "panel": "GENESIS_34_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0085,
+        0.45,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "genesis.34.p1.b1"
+    },
+    {
+      "id": "GENESIS_34_P001_B002",
+      "panel": "GENESIS_34_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.2931,
+        0.4382,
+        0.0563
+      ],
+      "tail": null,
+      "text_key": "genesis.34.p1.b2"
+    },
+    {
+      "id": "GENESIS_34_P001_B003",
+      "panel": "GENESIS_34_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.5516,
+        0.4365,
+        0.0563
+      ],
+      "tail": null,
+      "text_key": "genesis.34.p1.b3"
+    },
+    {
+      "id": "GENESIS_34_P001_B004",
+      "panel": "GENESIS_34_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.6325,
+        0.42,
+        0.0568
+      ],
+      "tail": null,
+      "text_key": "genesis.34.p1.b4"
+    }
+  ]
+}

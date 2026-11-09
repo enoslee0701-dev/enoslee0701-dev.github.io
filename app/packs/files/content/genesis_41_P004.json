@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_41_P004",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 4,
+  "ref": "41:14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "法老遂即差人去召约瑟，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P004_F2",
+      "box": [
+        0,
+        0.2695,
+        0.498,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "他们便急忙带他出监，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P004_F3",
+      "box": [
+        0.5039,
+        0.2695,
+        0.4961,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "他就剃头，刮脸，换衣裳，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P004_F4",
+      "box": [
+        0,
+        0.6152,
+        1,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "进到法老面前。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P004_B001",
+      "panel": "GENESIS_41_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.0107,
+        0.31,
+        0.0479
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p4.b1"
+    },
+    {
+      "id": "GENESIS_41_P004_B002",
+      "panel": "GENESIS_41_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0149,
+        0.5434,
+        0.249,
+        0.0582
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p4.b2"
+    },
+    {
+      "id": "GENESIS_41_P004_B003",
+      "panel": "GENESIS_41_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8115,
+        0.2798,
+        0.1736,
+        0.0684
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p4.b3"
+    },
+    {
+      "id": "GENESIS_41_P004_B004",
+      "panel": "GENESIS_41_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6267,
+        0.47,
+        0.0538
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p4.b4"
+    }
+  ]
+}

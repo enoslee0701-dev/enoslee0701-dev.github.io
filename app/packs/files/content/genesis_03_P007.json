@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_03_P007",
+  "book": "genesis",
+  "chapter": 3,
+  "page": 7,
+  "ref": "3:16-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_03_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_03_P007_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.5117
+      ],
+      "alt": {
+        "zh-CN": "又对女人说：「我必多多加增你怀胎的苦楚；你生产儿女必多受苦楚。你必恋慕你丈夫；你丈夫必管辖你。」"
+      }
+    },
+    {
+      "id": "GENESIS_03_P007_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.5117
+      ],
+      "alt": {
+        "zh-CN": "又对亚当说：「你既听从妻子的话，吃了我所吩咐你不可吃的那树上的果子，地必为你的缘故受咒诅；你必终身劳苦才能从地里得吃的。地必给你长出荆棘和蒺藜来；你也要吃田间的菜蔬。」"
+      }
+    },
+    {
+      "id": "GENESIS_03_P007_F3",
+      "box": [
+        0,
+        0.5176,
+        1,
+        0.4824
+      ],
+      "alt": {
+        "zh-CN": "「你必汗流满面才得糊口，直到你归了土，因为你是从土而出的。你本是尘土，仍要归于尘土。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_03_P007_B021",
+      "panel": "GENESIS_03_P007_F1",
+      "order": 21,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0198,
+        0.0154,
+        0.4564,
+        0.1228
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p7.b21"
+    },
+    {
+      "id": "GENESIS_03_P007_B022",
+      "panel": "GENESIS_03_P007_F2",
+      "order": 22,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5247,
+        0.0154,
+        0.4554,
+        0.133
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p7.b22"
+    },
+    {
+      "id": "GENESIS_03_P007_B023",
+      "panel": "GENESIS_03_P007_F3",
+      "order": 23,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5321,
+        0.34,
+        0.0724
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p7.b23"
+    },
+    {
+      "id": "GENESIS_03_P007_B024",
+      "panel": "GENESIS_03_P007_F3",
+      "order": 24,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.6142,
+        0.34,
+        0.0336
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p7.b24"
+    }
+  ]
+}

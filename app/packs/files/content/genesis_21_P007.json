@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_21_P007",
+  "book": "genesis",
+  "chapter": 21,
+  "page": 7,
+  "ref": "21:20-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_21_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_21_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "神保佑童子，他就渐长，住在旷野，成了弓箭手。"
+      }
+    },
+    {
+      "id": "GENESIS_21_P007_F2",
+      "box": [
+        0,
+        0.2962,
+        1,
+        0.166
+      ],
+      "alt": {
+        "zh-CN": "他住在巴兰的旷野；他母亲从埃及地给他娶了一个妻子。"
+      }
+    },
+    {
+      "id": "GENESIS_21_P007_F3",
+      "box": [
+        0,
+        0.4674,
+        1,
+        0.1738
+      ],
+      "alt": {
+        "zh-CN": "当那时候，亚比米勒同他军长非各对亚伯拉罕说：「凡你所行的事都有神的保佑。我愿你如今在这里指着神对我起誓，不要欺负我与我的儿子，并我的子孙。我怎样厚待了你，你也要照样厚待我与你所寄居这地的民。」"
+      }
+    },
+    {
+      "id": "GENESIS_21_P007_F4",
+      "box": [
+        0,
+        0.6465,
+        1,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕说：「我情愿起誓。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_21_P007_B024",
+      "panel": "GENESIS_21_P007_F1",
+      "order": 24,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0116,
+        0.31,
+        0.0582
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p7.b24"
+    },
+    {
+      "id": "GENESIS_21_P007_B025",
+      "panel": "GENESIS_21_P007_F2",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3028,
+        0.18,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p7.b25"
+    },
+    {
+      "id": "GENESIS_21_P007_B026",
+      "panel": "GENESIS_21_P007_F3",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.27,
+        0.4744,
+        0.29,
+        0.0382
+      ],
+      "tail": [
+        0.415,
+        0.53
+      ],
+      "text_key": "genesis.21.p7.b26"
+    },
+    {
+      "id": "GENESIS_21_P007_B027",
+      "panel": "GENESIS_21_P007_F4",
+      "order": 27,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.6536,
+        0.2,
+        0.0353
+      ],
+      "tail": [
+        0.62,
+        0.7242
+      ],
+      "text_key": "genesis.21.p7.b27"
+    }
+  ]
+}

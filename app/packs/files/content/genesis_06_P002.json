@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_06_P002",
+  "book": "genesis",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5221
+      ],
+      "alt": {
+        "zh-CN": "挪亚的后代记在下面。挪亚是个义人，在当时的世代是个完全人。挪亚与神同行。挪亚生了三个儿子，就是闪、含、雅弗。挪亚一家八口围着火塘吃晚饭，挪亚掰饼分给大家。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P002_F2",
+      "box": [
+        0,
+        0.5254,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "世界在神面前败坏，地上满了强暴。城门口有人举棍抢羊，老人被推倒在地。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P002_F3",
+      "box": [
+        0,
+        0.7728,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "神观看世界，见是败坏了；凡有血气的人在地上都败坏了行为。雅弗站在院墙上回头望着城。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_06_P002_B006",
+      "panel": "GENESIS_06_P002_F1",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0157,
+        0.35,
+        0.0626
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p2.b6"
+    },
+    {
+      "id": "GENESIS_06_P002_B007",
+      "panel": "GENESIS_06_P002_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0888,
+        0.35,
+        0.0417
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p2.b7"
+    },
+    {
+      "id": "GENESIS_06_P002_B008",
+      "panel": "GENESIS_06_P002_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.01,
+        0.5303,
+        0.3,
+        0.0342
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p2.b8"
+    },
+    {
+      "id": "GENESIS_06_P002_B009",
+      "panel": "GENESIS_06_P002_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.7796,
+        0.5,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p2.b9"
+    }
+  ]
+}

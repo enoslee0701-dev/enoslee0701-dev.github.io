@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_02_P007",
+  "book": "genesis",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_02_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_02_P007_F1",
+      "box": [
+        0,
+        0,
+        0.584,
+        0.2292
+      ],
+      "alt": {
+        "zh-CN": "那人醒来，看见了她。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P007_F2",
+      "box": [
+        0.5908,
+        0,
+        0.4092,
+        0.2292
+      ],
+      "alt": {
+        "zh-CN": "他睁大了眼睛。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P007_F3",
+      "box": [
+        0,
+        0.2331,
+        1,
+        0.4434
+      ],
+      "alt": {
+        "zh-CN": "那人说：「这是我骨中的骨，肉中的肉，可以称她为女人，因为她是从男人身上取出来的。」"
+      }
+    },
+    {
+      "id": "GENESIS_02_P007_F4",
+      "box": [
+        0,
+        0.681,
+        1,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "当时夫妻二人赤身露体，并不羞耻。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_02_P007_B017",
+      "panel": "GENESIS_02_P007_F3",
+      "order": 17,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4,
+        0.2464,
+        0.42,
+        0.0266
+      ],
+      "tail": [
+        0.61,
+        0.3173
+      ],
+      "text_key": "genesis.2.p7.b17"
+    },
+    {
+      "id": "GENESIS_02_P007_B018",
+      "panel": "GENESIS_02_P007_F3",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.2819,
+        0.42,
+        0.0532
+      ],
+      "tail": [
+        0.61,
+        0.3794
+      ],
+      "text_key": "genesis.2.p7.b18"
+    },
+    {
+      "id": "GENESIS_02_P007_B019",
+      "panel": "GENESIS_02_P007_F4",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.7001,
+        0.44,
+        0.0765
+      ],
+      "tail": null,
+      "text_key": "genesis.2.p7.b19"
+    }
+  ]
+}

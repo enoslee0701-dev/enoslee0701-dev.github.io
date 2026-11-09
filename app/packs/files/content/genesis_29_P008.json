@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_29_P008",
+  "book": "genesis",
+  "chapter": 29,
+  "page": 8,
+  "ref": "29:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_29_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_29_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.418
+      ],
+      "alt": {
+        "zh-CN": "到了早晨，雅各一看是利亚，"
+      }
+    },
+    {
+      "id": "GENESIS_29_P008_F2",
+      "box": [
+        0,
+        0.4219,
+        0.5322,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "雅各就对拉班说：「你向我做的是什么事呢？我服事你，不是为拉结吗？你为什么欺哄我呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_29_P008_F3",
+      "box": [
+        0.54,
+        0.4219,
+        0.46,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "拉班说：「大女儿还没有给人，先把小女儿给人，在我们这地方没有这规矩。你为这个满了七日，我就把那个也给你，你再为她服事我七年。」"
+      }
+    },
+    {
+      "id": "GENESIS_29_P008_F4",
+      "box": [
+        0,
+        0.675,
+        1,
+        0.325
+      ],
+      "alt": {
+        "zh-CN": "雅各就如此行。满了利亚的七日，拉班便将女儿拉结给雅各为妻；又将婢女辟拉给女儿拉结作使女。雅各也与拉结同房，并且爱拉结胜似爱利亚，于是又服事了拉班七年。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_29_P008_B001",
+      "panel": "GENESIS_29_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.36,
+        0.0084,
+        0.28,
+        0.0501
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p8.b1"
+    },
+    {
+      "id": "GENESIS_29_P008_B002",
+      "panel": "GENESIS_29_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.016,
+        0.4294,
+        0.5002,
+        0.0497
+      ],
+      "tail": [
+        0.2661,
+        0.504
+      ],
+      "text_key": "genesis.29.p8.b2"
+    },
+    {
+      "id": "GENESIS_29_P008_B003",
+      "panel": "GENESIS_29_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5492,
+        0.4269,
+        0.1288,
+        0.0895
+      ],
+      "tail": [
+        0.6136,
+        0.5413
+      ],
+      "text_key": "genesis.29.p8.b3"
+    },
+    {
+      "id": "GENESIS_29_P008_B004",
+      "panel": "GENESIS_29_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.44,
+        0.6783,
+        0.33,
+        0.0487
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p8.b4"
+    }
+  ]
+}

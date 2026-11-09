@@ -1,0 +1,127 @@
+{
+  "id": "EXODUS_14_P009",
+  "book": "exodus",
+  "chapter": 14,
+  "page": 9,
+  "ref": "14:26-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_14_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_14_P009_F1",
+      "box": [
+        0,
+        0,
+        0.4404,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "耶和华对摩西说：「你向海伸杖，叫水仍合在埃及人并他们的车辆、马兵身上。」"
+      }
+    },
+    {
+      "id": "EXODUS_14_P009_F2",
+      "box": [
+        0.4443,
+        0,
+        0.5557,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "摩西就向海伸杖。"
+      }
+    },
+    {
+      "id": "EXODUS_14_P009_F3",
+      "box": [
+        0,
+        0.3184,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "到了天一亮，海水仍旧复原。埃及人避水逃跑的时候，耶和华把他们推翻在海中，水就回流，淹没了车辆和马兵。"
+      }
+    },
+    {
+      "id": "EXODUS_14_P009_F4",
+      "box": [
+        0,
+        0.7402,
+        1,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "那些跟着以色列人下海法老的全军，连一个也没有剩下。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_14_P009_B022",
+      "panel": "EXODUS_14_P009_F1",
+      "order": 22,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0132,
+        0.0063,
+        0.4139,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p9.b22"
+    },
+    {
+      "id": "EXODUS_14_P009_B023",
+      "panel": "EXODUS_14_P009_F3",
+      "order": 23,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.331,
+        0.45,
+        0.0145
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p9.b23"
+    },
+    {
+      "id": "EXODUS_14_P009_B024",
+      "panel": "EXODUS_14_P009_F3",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3539,
+        0.45,
+        0.0441
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p9.b24"
+    },
+    {
+      "id": "EXODUS_14_P009_B025",
+      "panel": "EXODUS_14_P009_F4",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.761,
+        0.47,
+        0.0779
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p9.b25"
+    }
+  ]
+}

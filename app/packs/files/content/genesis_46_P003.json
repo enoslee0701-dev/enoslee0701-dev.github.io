@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_46_P003",
+  "book": "genesis",
+  "chapter": 46,
+  "page": 3,
+  "ref": "46:8-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_46_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_46_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "来到埃及的以色列人名字记在下面。雅各和他的儿孙：雅各的长子是吕便。吕便的儿子是哈诺、法路、希斯伦、迦米。西缅的儿子是耶母利、雅悯、阿辖、雅斤、琐辖，还有迦南女子所生的扫罗。（46:8–11 名单见本页完整经文）"
+      }
+    },
+    {
+      "id": "GENESIS_46_P003_F2",
+      "box": [
+        0,
+        0.2643,
+        1,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "犹大的儿子是珥、俄南、示拉、法勒斯、谢拉；惟有珥与俄南死在迦南地。……"
+      }
+    },
+    {
+      "id": "GENESIS_46_P003_F3",
+      "box": [
+        0,
+        0.6569,
+        0.5254,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "……西布伦的儿子是西烈、以伦、雅利。"
+      }
+    },
+    {
+      "id": "GENESIS_46_P003_F4",
+      "box": [
+        0.5332,
+        0.6569,
+        0.4668,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "这是利亚在巴旦·亚兰给雅各所生的儿子，还有女儿底拿。儿孙共有三十三人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_46_P003_B001",
+      "panel": "GENESIS_46_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.0078,
+        0.52,
+        0.0571
+      ],
+      "tail": null,
+      "text_key": "genesis.46.p3.b1"
+    },
+    {
+      "id": "GENESIS_46_P003_B002",
+      "panel": "GENESIS_46_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2721,
+        0.22,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "genesis.46.p3.b2"
+    },
+    {
+      "id": "GENESIS_46_P003_B003",
+      "panel": "GENESIS_46_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5519,
+        0.9314,
+        0.4294,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "genesis.46.p3.b3"
+    }
+  ]
+}

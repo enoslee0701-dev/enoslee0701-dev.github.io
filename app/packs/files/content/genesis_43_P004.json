@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_43_P004",
+  "book": "genesis",
+  "chapter": 43,
+  "page": 4,
+  "ref": "43:18-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_43_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_43_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3138
+      ],
+      "alt": {
+        "zh-CN": "他们因为被领到约瑟的屋里，就害怕，说：「领我们到这里来，必是因为头次归还在我们口袋里的银子，找我们的错缝，下手害我们，强取我们为奴仆，抢夺我们的驴。」"
+      }
+    },
+    {
+      "id": "GENESIS_43_P004_F2",
+      "box": [
+        0,
+        0.3177,
+        1,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "他们就挨近约瑟的家宰，在屋门口和他说话，说：「我主啊，我们头次下来实在是要籴粮。后来到了住宿的地方，我们打开口袋，不料，各人的银子，分量足数，仍在各人的口袋内，现在我们手里又带回来了。另外又带下银子来籴粮。不知道先前谁把银子放在我们的口袋里。」"
+      }
+    },
+    {
+      "id": "GENESIS_43_P004_F3",
+      "box": [
+        0,
+        0.6725,
+        0.5508,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "家宰说：「你们可以放心，不要害怕，是你们的　神和你们父亲的　神赐给你们财宝在你们的口袋里；你们的银子，我早已收了。」"
+      }
+    },
+    {
+      "id": "GENESIS_43_P004_F4",
+      "box": [
+        0.5576,
+        0.6725,
+        0.4424,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "他就把西缅带出来，交给他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_43_P004_B001",
+      "panel": "GENESIS_43_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.52,
+        0.0094,
+        0.45,
+        0.0753
+      ],
+      "tail": [
+        0.745,
+        0.1161
+      ],
+      "text_key": "genesis.43.p4.b1"
+    },
+    {
+      "id": "GENESIS_43_P004_B002",
+      "panel": "GENESIS_43_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.3282,
+        0.52,
+        0.0701
+      ],
+      "tail": [
+        0.71,
+        0.4334
+      ],
+      "text_key": "genesis.43.p4.b2"
+    },
+    {
+      "id": "GENESIS_43_P004_B003",
+      "panel": "GENESIS_43_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.022,
+        0.6823,
+        0.4957,
+        0.0851
+      ],
+      "tail": [
+        0.2699,
+        0.8001
+      ],
+      "text_key": "genesis.43.p4.b3"
+    },
+    {
+      "id": "GENESIS_43_P004_B004",
+      "panel": "GENESIS_43_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5753,
+        0.6823,
+        0.407,
+        0.0425
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p4.b4"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_02_P003",
+  "book": "genesis",
+  "chapter": 2,
+  "page": 3,
+  "ref": "2:8-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_02_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_02_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2331
+      ],
+      "alt": {
+        "zh-CN": "耶和华神在东方的伊甸立了一个园子，把所造的人安置在那里。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P003_F2",
+      "box": [
+        0,
+        0.2389,
+        1,
+        0.515
+      ],
+      "alt": {
+        "zh-CN": "有河从伊甸流出来，滋润那园子，从那里分为四道。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P003_F3",
+      "box": [
+        0,
+        0.7598,
+        0.5381,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "亚当捞起河里的沙，沙里闪着金。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P003_F4",
+      "box": [
+        0.5479,
+        0.7598,
+        0.4521,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "那里有金子、珍珠和红玛瑙。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_02_P003_B006",
+      "panel": "GENESIS_02_P003_F1",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.014,
+        0.44,
+        0.0606
+      ],
+      "tail": null,
+      "text_key": "genesis.2.p3.b6"
+    },
+    {
+      "id": "GENESIS_02_P003_B007",
+      "panel": "GENESIS_02_P003_F2",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.6097,
+        0.42,
+        0.1133
+      ],
+      "tail": null,
+      "text_key": "genesis.2.p3.b7"
+    },
+    {
+      "id": "GENESIS_02_P003_B008",
+      "panel": "GENESIS_02_P003_F3",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0215,
+        0.7694,
+        0.3228,
+        0.0528
+      ],
+      "tail": null,
+      "text_key": "genesis.2.p3.b8"
+    }
+  ]
+}

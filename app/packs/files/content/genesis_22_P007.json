@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_22_P007",
+  "book": "genesis",
+  "chapter": 22,
+  "page": 7,
+  "ref": "22:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_22_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_22_P007_F1",
+      "box": [
+        0,
+        0,
+        0.3379,
+        0.4251
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕举目观看。"
+      }
+    },
+    {
+      "id": "GENESIS_22_P007_F2",
+      "box": [
+        0.3447,
+        0,
+        0.6553,
+        0.4251
+      ],
+      "alt": {
+        "zh-CN": "有一只公羊，两角扣在稠密的小树中。"
+      }
+    },
+    {
+      "id": "GENESIS_22_P007_F3",
+      "box": [
+        0,
+        0.429,
+        1,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕就取了那只公羊来，献为燔祭，代替他的儿子。"
+      }
+    },
+    {
+      "id": "GENESIS_22_P007_F4",
+      "box": [
+        0,
+        0.7279,
+        1,
+        0.2721
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕给那地方起名叫「耶和华以勒」，就是耶和华必预备的意思；直到今日人还说：「在耶和华的山上必有预备。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_22_P007_B017",
+      "panel": "GENESIS_22_P007_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0135,
+        0.0085,
+        0.3108,
+        0.051
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p7.b17"
+    },
+    {
+      "id": "GENESIS_22_P007_B018",
+      "panel": "GENESIS_22_P007_F3",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.4408,
+        0.44,
+        0.0766
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p7.b18"
+    },
+    {
+      "id": "GENESIS_22_P007_B019",
+      "panel": "GENESIS_22_P007_F4",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.7442,
+        0.46,
+        0.0925
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p7.b19"
+    }
+  ]
+}

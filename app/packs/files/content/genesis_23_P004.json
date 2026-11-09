@@ -1,0 +1,97 @@
+{
+  "id": "GENESIS_23_P004",
+  "book": "genesis",
+  "chapter": 23,
+  "page": 4,
+  "ref": "23:16-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_23_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_23_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4245
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕听从了以弗仑，照着他在赫人面前所说的话，把买卖通用的银子平了四百舍客勒给以弗仑。"
+      }
+    },
+    {
+      "id": "GENESIS_23_P004_F2",
+      "box": [
+        0,
+        0.4277,
+        0.4941,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "赫人和城门出入的人都看着秤。"
+      }
+    },
+    {
+      "id": "GENESIS_23_P004_F3",
+      "box": [
+        0.5,
+        0.4277,
+        0.5,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "以弗仑收下了银子。"
+      }
+    },
+    {
+      "id": "GENESIS_23_P004_F4",
+      "box": [
+        0,
+        0.6823,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "于是，麦比拉、幔利前、以弗仑的那块田和其中的洞，并田间四围的树木，都定准归与亚伯拉罕，乃是他在赫人面前并城门出入的人面前买妥的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_23_P004_B013",
+      "panel": "GENESIS_23_P004_F1",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0127,
+        0.45,
+        0.0849
+      ],
+      "tail": null,
+      "text_key": "genesis.23.p4.b13"
+    },
+    {
+      "id": "GENESIS_23_P004_B014",
+      "panel": "GENESIS_23_P004_F4",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6918,
+        0.47,
+        0.0698
+      ],
+      "tail": null,
+      "text_key": "genesis.23.p4.b14"
+    }
+  ]
+}

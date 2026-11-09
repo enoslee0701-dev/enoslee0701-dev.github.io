@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_42_P005",
+  "book": "genesis",
+  "chapter": 42,
+  "page": 5,
+  "ref": "42:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_42_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_42_P005_F1",
+      "box": [
+        0.0068,
+        0.0033,
+        0.9873,
+        0.3971
+      ],
+      "alt": {
+        "zh-CN": "他们彼此说：「我们在兄弟身上实在有罪。"
+      }
+    },
+    {
+      "id": "GENESIS_42_P005_F2",
+      "box": [
+        0.0068,
+        0.4043,
+        0.4912,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "他哀求我们的时候，我们见他心里的愁苦，却不肯听，所以这场苦难临到我们身上。」"
+      }
+    },
+    {
+      "id": "GENESIS_42_P005_F3",
+      "box": [
+        0.5039,
+        0.4043,
+        0.4902,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "吕便说：「我岂不是对你们说过，不可伤害那孩子吗？只是你们不肯听，所以流他血的罪向我们追讨。」"
+      }
+    },
+    {
+      "id": "GENESIS_42_P005_F4",
+      "box": [
+        0.0068,
+        0.7259,
+        0.9873,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "他们不知道约瑟听得出来，因为在他们中间用通事传话。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_42_P005_B001",
+      "panel": "GENESIS_42_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.4807,
+        0.0112,
+        0.4837,
+        0.0516
+      ],
+      "tail": [
+        0.7226,
+        0.1025
+      ],
+      "text_key": "genesis.42.p5.b1"
+    },
+    {
+      "id": "GENESIS_42_P005_B002",
+      "panel": "GENESIS_42_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0314,
+        0.5187,
+        0.442,
+        0.0635
+      ],
+      "tail": [
+        0.2524,
+        0.614
+      ],
+      "text_key": "genesis.42.p5.b2"
+    },
+    {
+      "id": "GENESIS_42_P005_B003",
+      "panel": "GENESIS_42_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5186,
+        0.4107,
+        0.2058,
+        0.0857
+      ],
+      "tail": [
+        0.6215,
+        0.5282
+      ],
+      "text_key": "genesis.42.p5.b3"
+    },
+    {
+      "id": "GENESIS_42_P005_B004",
+      "panel": "GENESIS_42_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5202,
+        0.734,
+        0.4442,
+        0.0486
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p5.b4"
+    }
+  ]
+}

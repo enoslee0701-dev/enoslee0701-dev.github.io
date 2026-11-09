@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_12_P001",
+  "book": "genesis",
+  "chapter": 12,
+  "page": 1,
+  "ref": "12:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_12_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_12_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.209
+      ],
+      "alt": {
+        "zh-CN": "家族树上，他拉的头像褪成了灰色，一根暖光的新枝从他那里长出来，枝头是亚伯兰。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P001_F2",
+      "box": [
+        0,
+        0.2129,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "耶和华对亚伯兰说：「你要离开本地、本族、父家，往我所要指示你的地去。」黎明前，亚伯兰站在父亲的坟旁，回头看哈兰城。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P001_F3",
+      "box": [
+        0,
+        0.4954,
+        1,
+        0.5046
+      ],
+      "alt": {
+        "zh-CN": "「我必叫你成为大国。我必赐福给你，叫你的名为大；你也要叫别人得福。为你祝福的，我必赐福与他；那咒诅你的，我必咒诅他。地上的万族都要因你得福。」晨光从左边照来，亚伯兰仰起脸。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_12_P001_B001",
+      "panel": "GENESIS_12_P001_F2",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.54,
+        0.224,
+        0.42,
+        0.0724
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p1.b1"
+    },
+    {
+      "id": "GENESIS_12_P001_B002",
+      "panel": "GENESIS_12_P001_F3",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5156,
+        0.44,
+        0.111
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p1.b2"
+    },
+    {
+      "id": "GENESIS_12_P001_B003",
+      "panel": "GENESIS_12_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.8789,
+        0.3,
+        0.1009
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p1.b3"
+    }
+  ]
+}

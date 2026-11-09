@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_27_P012",
+  "book": "genesis",
+  "chapter": 27,
+  "page": 12,
+  "ref": "27:43-46",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_27_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_27_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "利百加说：「现在，我儿，你要听我的话：起来，逃往哈兰、我哥哥拉班那里去，同他住些日子，直等你哥哥的怒气消了。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P012_F2",
+      "box": [
+        0,
+        0.3112,
+        0.498,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "「你哥哥向你消了怒气，忘了你向他所做的事，我便打发人去把你从那里带回来。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P012_F3",
+      "box": [
+        0.502,
+        0.3112,
+        0.498,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "「为什么一日丧你们二人呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P012_F4",
+      "box": [
+        0,
+        0.5697,
+        1,
+        0.4303
+      ],
+      "alt": {
+        "zh-CN": "利百加对以撒说：「我因这赫人的女子连性命都厌烦了；倘若雅各也娶赫人的女子为妻，像这些一样，我活着还有什么益处呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_27_P012_B052",
+      "panel": "GENESIS_27_P012_F1",
+      "order": 52,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.58,
+        0.0092,
+        0.39,
+        0.0923
+      ],
+      "tail": [
+        0.775,
+        0.1323
+      ],
+      "text_key": "genesis.27.p12.b52"
+    },
+    {
+      "id": "GENESIS_27_P012_B053",
+      "panel": "GENESIS_27_P012_F2",
+      "order": 53,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0498,
+        0.3163,
+        0.3984,
+        0.0281
+      ],
+      "tail": [
+        0.249,
+        0.37
+      ],
+      "text_key": "genesis.27.p12.b53"
+    },
+    {
+      "id": "GENESIS_27_P012_B054",
+      "panel": "GENESIS_27_P012_F3",
+      "order": 54,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5169,
+        0.3189,
+        0.2191,
+        0.0358
+      ],
+      "tail": [
+        0.6265,
+        0.3803
+      ],
+      "text_key": "genesis.27.p12.b54"
+    },
+    {
+      "id": "GENESIS_27_P012_B055",
+      "panel": "GENESIS_27_P012_F4",
+      "order": 55,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5826,
+        0.48,
+        0.1032
+      ],
+      "tail": [
+        0.27,
+        0.7288
+      ],
+      "text_key": "genesis.27.p12.b55"
+    }
+  ]
+}

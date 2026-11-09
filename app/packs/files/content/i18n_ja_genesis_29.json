@@ -1,0 +1,352 @@
+{
+  "genesis.29.p1.b1": {
+    "text": "ヤコブはその旅を続けて東の民の地へ行った。見ると野に一つの井戸があって、そのかたわらに羊の三つの群れが伏していた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p1.b2": {
+    "text": "人々はその井戸から群れに水を飲ませるのであったが、井戸の口には大きな石があった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p1.b3": {
+    "text": "群れが皆そこに集まると、人々は井戸の口から石をころがして羊に水を飲ませ、その石をまた井戸の口の元のところに返しておくのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p2.b1": {
+    "text": "「兄弟たちよ、あなたがたはどこからこられたのですか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p2.b2": {
+    "text": "「あなたがたはナホルの子ラバンを知っていますか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p2.b3": {
+    "text": "「無事です。御覧なさい。彼の娘ラケルはいま羊と一緒にここへきます」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p2.b4": {
+    "text": "「日はまだ高いし、家畜を集める時でもない。あなたがたは羊に水を飲ませてから、また行って飼いなさい」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p2.b5": {
+    "text": "「わたしたちはそれはできないのです。群れがみな集まった上で、…それから羊に水を飲ませるのです」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p3.b1": {
+    "text": "ヤコブがなお彼らと語っている時に、ラケルは父の羊と一緒にきた。彼女は羊を飼っていたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p3.b2": {
+    "text": "ヤコブは母の兄ラバンの娘ラケルと母の兄ラバンの羊とを見た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p3.b3": {
+    "text": "そしてヤコブは進み寄って井戸の口から石をころがし、母の兄ラバンの羊に水を飲ませた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p4.b1": {
+    "text": "ヤコブはラケルに口づけし、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p4.b2": {
+    "text": "…声をあげて泣いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p4.b3": {
+    "text": "ヤコブはラケルに、自分がラケルの父のおいであり、リベカの子であることを告げたので、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p4.b4": {
+    "text": "…彼女は走って行って父に話した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p5.b1": {
+    "text": "ラバンは妹の子ヤコブがきたという知らせを聞くとすぐ、走って行ってヤコブを迎え、これを抱いて口づけし、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p5.b2": {
+    "text": "…家に連れてきた。そこでヤコブはすべての事をラバンに話した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p5.b3": {
+    "text": "「あなたはほんとうにわたしの骨肉です」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p5.b4": {
+    "text": "ヤコブは一か月の間彼と共にいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p6.b1": {
+    "text": "「あなたはわたしのおいだからといって、ただでわたしのために働くこともないでしょう。どんな報酬を望みますか、わたしに言ってください」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p6.b2": {
+    "text": "さてラバンにはふたりの娘があった。姉の名はレアといい、妹の名はラケルといった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p6.b3": {
+    "text": "「わたしは、あなたの妹娘ラケルのために七年あなたに仕えましょう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p6.b4": {
+    "text": "こうして、ヤコブは七年の間ラケルのために働いたが、彼女を愛したので、ただ数日のように思われた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p7.b1": {
+    "text": "「期日が満ちたから、わたしの妻を与えて、…」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p7.b2": {
+    "text": "そこでラバンはその所の人々をみな集めて、ふるまいを設けた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p7.b3": {
+    "text": "夕暮となったとき、娘レアをヤコブのもとに連れてきたので、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p7.b4": {
+    "text": "ラバンはまた自分のつかえめジルパを娘レアにつかえめとして与えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p8.b1": {
+    "text": "朝になって、見ると、それはレアであったので、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p8.b2": {
+    "text": "「あなたはどうしてこんな事をわたしにされたのですか。…どうしてあなたはわたしを欺いたのですか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p8.b3": {
+    "text": "「妹を姉より先にとつがせる事はわれわれの国ではしません。」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p8.b4": {
+    "text": "…彼はレアよりもラケルを愛して、更に七年ラバンに仕えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p9.b1": {
+    "text": "主はレアがきらわれるのを見て、その胎を開かれたが、ラケルは、みごもらなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p9.b2": {
+    "text": "「主がわたしの悩みを顧みられたから、今は夫もわたしを愛するだろう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p9.b3": {
+    "text": "「わたしは彼に三人の子を産んだから、こんどこそは夫もわたしに親しむだろう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.29.p9.b4": {
+    "text": "「わたしは今、主をほめたたえる」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 29:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_26_P005",
+  "book": "genesis",
+  "chapter": 26,
+  "page": 5,
+  "ref": "26:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_26_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_26_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4824
+      ],
+      "alt": {
+        "zh-CN": "以撒离开那里，又挖了一口井，他们不为这井争竞了，他就给那井起名叫利河伯。他说：「耶和华现在给我们宽阔之地，我们必在这地昌盛。」"
+      }
+    },
+    {
+      "id": "GENESIS_26_P005_F2",
+      "box": [
+        0,
+        0.4863,
+        1,
+        0.1556
+      ],
+      "alt": {
+        "zh-CN": "以撒从那里上别是巴去。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P005_F3",
+      "box": [
+        0,
+        0.6465,
+        0.4883,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "当夜耶和华向他显现，说：「我是你父亲亚伯拉罕的　神，不要惧怕！因为我与你同在，要赐福给你，并要为我仆人亚伯拉罕的缘故，使你的后裔繁多。」"
+      }
+    },
+    {
+      "id": "GENESIS_26_P005_F4",
+      "box": [
+        0.4961,
+        0.6465,
+        0.5039,
+        0.3535
+      ],
+      "alt": {
+        "zh-CN": "以撒就在那里筑了一座坛，求告耶和华的名，并且支搭帐棚；他的仆人便在那里挖了一口井。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_26_P005_B017",
+      "panel": "GENESIS_26_P005_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0145,
+        0.5,
+        0.0964
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p5.b17"
+    },
+    {
+      "id": "GENESIS_26_P005_B018",
+      "panel": "GENESIS_26_P005_F1",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.0145,
+        0.35,
+        0.0868
+      ],
+      "tail": [
+        0.795,
+        0.1495
+      ],
+      "text_key": "genesis.26.p5.b18"
+    },
+    {
+      "id": "GENESIS_26_P005_B019",
+      "panel": "GENESIS_26_P005_F2",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.4956,
+        0.42,
+        0.0622
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p5.b19"
+    },
+    {
+      "id": "GENESIS_26_P005_B020",
+      "panel": "GENESIS_26_P005_F3",
+      "order": 20,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0195,
+        0.6571,
+        0.3906,
+        0.0883
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p5.b20"
+    }
+  ]
+}

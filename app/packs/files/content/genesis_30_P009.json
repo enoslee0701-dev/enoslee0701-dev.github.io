@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_30_P009",
+  "book": "genesis",
+  "chapter": 30,
+  "page": 9,
+  "ref": "30:37-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_30_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_30_P009_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "雅各拿杨树、杏树、枫树的嫩枝，将皮剥成白纹，使枝子露出白的来，"
+      }
+    },
+    {
+      "id": "GENESIS_30_P009_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.2819
+      ],
+      "alt": {
+        "zh-CN": "将剥了皮的枝子，对着羊群，插在饮羊的水沟里和水槽里，羊来喝的时候，牝牡配合。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P009_F3",
+      "box": [
+        0,
+        0.2871,
+        1,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "羊对着枝子配合，就生下有纹的、有点的、有斑的来。雅各把羊羔分出来，使拉班的羊与这有纹和黑色的羊相对，把自己的羊另放一处，不叫他和拉班的羊混杂。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P009_F4",
+      "box": [
+        0,
+        0.5313,
+        1,
+        0.4687
+      ],
+      "alt": {
+        "zh-CN": "到羊群肥壮配合的时候，雅各就把枝子插在水沟里，使羊对着枝子配合。只是到羊瘦弱配合的时候就不插枝子。这样，瘦弱的就归拉班，肥壮的就归雅各。于是雅各极其发大，得了许多的羊群、仆婢、骆驼，和驴。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_30_P009_B001",
+      "panel": "GENESIS_30_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.2142,
+        0.4564,
+        0.062
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p9.b1"
+    },
+    {
+      "id": "GENESIS_30_P009_B002",
+      "panel": "GENESIS_30_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2943,
+        0.38,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p9.b2"
+    },
+    {
+      "id": "GENESIS_30_P009_B003",
+      "panel": "GENESIS_30_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5454,
+        0.55,
+        0.0316
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p9.b3"
+    },
+    {
+      "id": "GENESIS_30_P009_B004",
+      "panel": "GENESIS_30_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5864,
+        0.55,
+        0.0433
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p9.b4"
+    }
+  ]
+}

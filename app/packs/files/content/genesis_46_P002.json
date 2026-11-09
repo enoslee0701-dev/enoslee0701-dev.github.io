@@ -1,0 +1,97 @@
+{
+  "id": "GENESIS_46_P002",
+  "book": "genesis",
+  "chapter": 46,
+  "page": 2,
+  "ref": "46:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_46_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_46_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4277
+      ],
+      "alt": {
+        "zh-CN": "雅各就从别是巴起行。以色列的儿子们使他们的父亲雅各和他们的妻子、儿女都坐在法老为雅各送来的车上。"
+      }
+    },
+    {
+      "id": "GENESIS_46_P002_F2",
+      "box": [
+        0,
+        0.4323,
+        1,
+        0.2311
+      ]
+    },
+    {
+      "id": "GENESIS_46_P002_F3",
+      "box": [
+        0,
+        0.668,
+        1,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "雅各和他的一切子孙都一同来了。雅各把他的儿子、孙子、女儿、孙女，并他的子子孙孙，一同带到埃及。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_46_P002_B001",
+      "panel": "GENESIS_46_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0128,
+        0.92,
+        0.0769
+      ],
+      "tail": null,
+      "text_key": "genesis.46.p2.b1"
+    },
+    {
+      "id": "GENESIS_46_P002_B002",
+      "panel": "GENESIS_46_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.6172,
+        0.36,
+        0.0392
+      ],
+      "tail": null,
+      "text_key": "genesis.46.p2.b2"
+    },
+    {
+      "id": "GENESIS_46_P002_B003",
+      "panel": "GENESIS_46_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.9402,
+        0.47,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "genesis.46.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_13_P003",
+  "book": "genesis",
+  "chapter": 13,
+  "page": 3,
+  "ref": "13:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_13_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_13_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2077
+      ],
+      "alt": {
+        "zh-CN": "第二天清早，亚伯兰领着罗得上到山顶。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P003_F2",
+      "box": [
+        0,
+        0.2122,
+        1,
+        0.4212
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰就对罗得说：「你我不可相争，你的牧人和我的牧人也不可相争，因为我们是骨肉。」"
+      }
+    },
+    {
+      "id": "GENESIS_13_P003_F3",
+      "box": [
+        0,
+        0.638,
+        1,
+        0.362
+      ],
+      "alt": {
+        "zh-CN": "「遍地不都在你眼前吗？请你离开我：你向左，我就向右；你向右，我就向左。」左边是绿色的约旦河谷，右边是褐色的山地。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_13_P003_B007",
+      "panel": "GENESIS_13_P003_F2",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.77,
+        0.3386,
+        0.21,
+        0.1432
+      ],
+      "tail": [
+        0.875,
+        0.5239
+      ],
+      "text_key": "genesis.13.p3.b7"
+    },
+    {
+      "id": "GENESIS_13_P003_B008",
+      "panel": "GENESIS_13_P003_F3",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6525,
+        0.42,
+        0.0434
+      ],
+      "tail": [
+        0.24,
+        0.7321
+      ],
+      "text_key": "genesis.13.p3.b8"
+    },
+    {
+      "id": "GENESIS_13_P003_B009",
+      "panel": "GENESIS_13_P003_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.6525,
+        0.41,
+        0.0362
+      ],
+      "tail": [
+        0.765,
+        0.7249
+      ],
+      "text_key": "genesis.13.p3.b9"
+    }
+  ]
+}

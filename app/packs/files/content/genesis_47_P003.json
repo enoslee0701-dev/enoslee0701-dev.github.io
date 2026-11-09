@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_47_P003",
+  "book": "genesis",
+  "chapter": 47,
+  "page": 3,
+  "ref": "47:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_47_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_47_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "约瑟遵着法老的命，把埃及国最好的地，就是兰塞境内的地，给他父亲和弟兄居住，作为产业。"
+      }
+    },
+    {
+      "id": "GENESIS_47_P003_F2",
+      "box": [
+        0,
+        0.349,
+        0.5703,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "约瑟用粮食奉养他父亲和他弟兄，并他父亲全家的眷属，都是照各家的人口奉养他们。"
+      }
+    },
+    {
+      "id": "GENESIS_47_P003_F3",
+      "box": [
+        0.5791,
+        0.349,
+        0.4209,
+        0.2884
+      ],
+      "alt": {
+        "zh-CN": "饥荒甚大，全地都绝了粮，甚至埃及地和迦南地的人因那饥荒的缘故都饿昏了。"
+      }
+    },
+    {
+      "id": "GENESIS_47_P003_F4",
+      "box": [
+        0,
+        0.6413,
+        1,
+        0.3587
+      ],
+      "alt": {
+        "zh-CN": "约瑟收聚了埃及地和迦南地所有的银子，就是众人籴粮的银子，约瑟就把那银子带到法老的宫里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_47_P003_B001",
+      "panel": "GENESIS_47_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.0104,
+        0.52,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p3.b1"
+    },
+    {
+      "id": "GENESIS_47_P003_B002",
+      "panel": "GENESIS_47_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0171,
+        0.3577,
+        0.2395,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p3.b2"
+    },
+    {
+      "id": "GENESIS_47_P003_B003",
+      "panel": "GENESIS_47_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5959,
+        0.3577,
+        0.3872,
+        0.0634
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p3.b3"
+    },
+    {
+      "id": "GENESIS_47_P003_B004",
+      "panel": "GENESIS_47_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6521,
+        0.5,
+        0.0502
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p3.b4"
+    }
+  ]
+}

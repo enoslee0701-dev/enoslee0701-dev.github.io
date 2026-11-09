@@ -1,0 +1,102 @@
+{
+  "genesis.5.p1.b1": {
+    "text": "アダムの系図は次のとおりである。神が人を創造された時、神をかたどって造り、彼らを男と女とに創造された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b2": {
+    "text": "アダムは百三十歳になって、自分にかたどり、自分のかたちのような男の子を生み、その名をセツと名づけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b3": {
+    "text": "アダムの生きた年は合わせて九百三十歳であった。そして彼は死んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b4": {
+    "text": "セツの年は合わせて九百十二歳であった。そして彼は死んだ。… エノスの年は合わせて九百五歳であった。そして彼は死んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:8-11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b5": {
+    "text": "マハラレルの年は合わせて八百九十五歳であった。そして彼は死んだ。… ヤレドの年は合わせて九百六十二歳であった。そして彼は死んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:17-20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b6": {
+    "text": "エノクはメトセラを生んだ後、三百年、神とともに歩み、男子と女子を生んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b7": {
+    "text": "エノクは神とともに歩み、神が彼を取られたので、いなくなった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b8": {
+    "text": "メトセラの年は合わせて九百六十九歳であった。そして彼は死んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b9": {
+    "text": "この子こそ、主が地をのろわれたため、骨折り働くわれわれを慰めるもの",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b10": {
+    "text": "ノアは五百歳になって、セム、ハム、ヤペテを生んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

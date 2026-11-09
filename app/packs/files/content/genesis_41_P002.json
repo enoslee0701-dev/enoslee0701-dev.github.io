@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_41_P002",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 2,
+  "ref": "41:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2728
+      ],
+      "alt": {
+        "zh-CN": "他又睡着，第二回做梦，梦见一棵麦子长了七个穗子，又肥大又佳美，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P002_F2",
+      "box": [
+        0,
+        0.2767,
+        1,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "随后又长了七个穗子，又细弱又被东风吹焦了。这细弱的穗子吞了那七个又肥大又饱满的穗子。法老醒了，不料是个梦。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P002_F3",
+      "box": [
+        0,
+        0.6113,
+        0.4424,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "到了早晨，法老心里不安，就差人召了埃及所有的术士和博士来；"
+      }
+    },
+    {
+      "id": "GENESIS_41_P002_F4",
+      "box": [
+        0.4502,
+        0.6113,
+        0.5498,
+        0.3887
+      ],
+      "alt": {
+        "zh-CN": "法老就把所做的梦告诉他们，却没有人能给法老圆解。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P002_B001",
+      "panel": "GENESIS_41_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.0082,
+        0.36,
+        0.0654
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p2.b1"
+    },
+    {
+      "id": "GENESIS_41_P002_B002",
+      "panel": "GENESIS_41_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.5418,
+        0.42,
+        0.0563
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p2.b2"
+    },
+    {
+      "id": "GENESIS_41_P002_B003",
+      "panel": "GENESIS_41_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0177,
+        0.623,
+        0.3981,
+        0.066
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p2.b3"
+    },
+    {
+      "id": "GENESIS_41_P002_B004",
+      "panel": "GENESIS_41_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4722,
+        0.623,
+        0.3298,
+        0.066
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p2.b4"
+    }
+  ]
+}

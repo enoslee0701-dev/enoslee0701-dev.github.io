@@ -1,0 +1,106 @@
+{
+  "id": "GENESIS_45_P008",
+  "book": "genesis",
+  "chapter": 45,
+  "page": 8,
+  "ref": "45:25-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_45_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_45_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ]
+    },
+    {
+      "id": "GENESIS_45_P008_F2",
+      "box": [
+        0,
+        0.2533,
+        0.46,
+        0.3294
+      ]
+    },
+    {
+      "id": "GENESIS_45_P008_F3",
+      "box": [
+        0.4668,
+        0.2533,
+        0.5332,
+        0.3294
+      ],
+      "alt": {
+        "zh-CN": "告诉他说：「约瑟还在，并且作埃及全地的宰相。」"
+      }
+    },
+    {
+      "id": "GENESIS_45_P008_F4",
+      "box": [
+        0,
+        0.5853,
+        1,
+        0.4147
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_45_P008_B001",
+      "panel": "GENESIS_45_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0075,
+        0.92,
+        0.0451
+      ],
+      "tail": null,
+      "text_key": "genesis.45.p8.b1"
+    },
+    {
+      "id": "GENESIS_45_P008_B002",
+      "panel": "GENESIS_45_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4828,
+        0.2599,
+        0.1386,
+        0.0296
+      ],
+      "tail": [
+        0.5521,
+        0.3224
+      ],
+      "text_key": "genesis.45.p8.b2"
+    },
+    {
+      "id": "GENESIS_45_P008_B003",
+      "panel": "GENESIS_45_P008_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.5977,
+        0.4,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "genesis.45.p8.b3"
+    }
+  ]
+}

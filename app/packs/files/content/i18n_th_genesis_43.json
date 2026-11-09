@@ -1,0 +1,312 @@
+{
+  "genesis.43.p1.b1": {
+    "text": "จง​กลับ​ไป​ซื้อ​อาหาร​มา​อีก​หน่อย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p1.b2": {
+    "text": "ชาย​คน​นั้น​กำชับ​พวก​เรา​ไว้​ว่า ‘เจ้า​จะ​ไม่​ได้รับ​อนุญาต​ให้​มา​พบ​เรา ถ้า​ไม่​พา​น้อง​ชาย​คน​เล็ก​มา​ด้วย’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p1.b3": {
+    "text": "ทำไม​พวก​เจ้า​ถึง​เอา​ปัญหา​มา​ให้​พ่อ เจ้า​ไป​บอก​เขา​ทำไม​ว่า​มี​น้อง​ชาย​อีก​คน​หนึ่ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p1.b4": {
+    "text": "ก็​เขา​เจาะจง​ถาม​ถึง​พวก​เรา​และ​ครอบครัว​ของ​เรา … เรา​จะ​ไป​รู้​หรือ​ว่า​เขา​จะ​สั่ง​ว่า ‘พา​น้อง​ชาย​ของ​เจ้า​ลง​มา​ที่นี่’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p2.b1": {
+    "text": "ตัว​ลูก​จะ​รับประกัน​ความ​ปลอดภัย​ของ​น้อง​เอง ให้​พ่อ​ถือ​ว่า​ข้า​เป็น​คน​รับผิดชอบ​ชีวิต​เขา ถ้า​ข้า​พา​น้อง​กลับ​มา​ให้​พ่อ​เห็น​หน้า​ไม่​ได้ ข้า​ก็​จะ​รับ​ผิด​ไป​ตลอด​ชีวิต",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p2.b2": {
+    "text": "จง​เอา​ผลผลิต​ที่​ดี​ที่สุด​ใน​ดินแดน​ของ​เรา คือ ยาง​ไม้ น้ำผึ้ง เครื่องเทศ มดยอบ ถั่ว​พิสทาชิโอ และ​อัลมอนด์ ใส่​กระสอบ​ไป​เป็น​ของ​กำนัล​ชาย​คน​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p2.b3": {
+    "text": "เอา​เงิน​ไป​สอง​เท่า … นี่​อาจ​จะ​เป็น​เรื่อง​ผิดพลาด​ก็​ได้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p2.b4": {
+    "text": "ขอ​พระเจ้า​ผู้​มี​ฤทธิ์​เมตตา​พวก​เจ้า​เมื่อ​อยู่​ต่อหน้า​ชาย​คน​นั้น … ส่วน​พ่อ​ถ้า​จะ​ต้อง​ไว้​ทุกข์​ก็​ต้อง​ยอม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p3.b1": {
+    "text": "พวก​เขา​จึง​นำ​ของ​กำนัล​และ​เงิน​สอง​เท่า พร้อม​ด้วย​เบนยามิน รีบ​ลง​ไป​อียิปต์​และ​เข้า​พบ​โยเซฟ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p3.b2": {
+    "text": "จง​พา​คน​เหล่า​นี้​ไป​ที่​บ้าน ฆ่า​สัตว์​สัก​ตัว​แล้ว​เตรียม​อาหาร​ไว้ พวก​เขา​จะ​กิน​อาหาร​เที่ยง​กับ​ข้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p3.b3": {
+    "text": "เขา​ก็​ทำ​ตาม​คำ​สั่ง แล้ว​พา​คน​เหล่า​นั้น​ไป​ที่​บ้าน​ของ​โยเซฟ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p4.b1": {
+    "text": "เรา​ถูก​พา​มา​ที่นี่​เพราะ​เงิน​ที่​ใส่​มา​ใน​กระสอบ​ครั้ง​แรก … จับ​ตัว​เรา​ไป​เป็น​ทาส",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p4.b2": {
+    "text": "ขอโทษ​ขอรับ​ท่าน … ก็​เห็น​เงิน​ของ​เรา​แต่ละ​คน​อยู่​ที่​ปาก​กระสอบ เท่ากับ​จำนวน​ที่​จ่าย​ไป​พอดี ครั้ง​นี้​พวก​เรา​จึง​เอา​มา​คืน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:20-21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p4.b3": {
+    "text": "ทำ​ใจ​ให้​สงบ อย่า​กลัว​เลย พระเจ้า​ของ​ท่าน พระเจ้า​ของ​พ่อ​ท่าน ให้​ทรัพย์สิน​ใน​กระสอบ​กับ​ท่าน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p4.b4": {
+    "text": "แล้ว​คน​ดูแล​บ้าน​ก็​พา​สิเมโอน​ออก​มา​พบ​พวก​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p5.b1": {
+    "text": "แล้ว​คน​ดูแล​บ้าน​พา​พวก​เขา​เข้า​ไป​ใน​บ้าน​ของ​โยเซฟ เอา​น้ำ​มา​ให้​ล้าง​เท้า และ​เอา​อาหาร​ให้​ลา​ของ​พวก​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p5.b2": {
+    "text": "พวก​เขา​ก็​เตรียม​ของ​กำนัล เพื่อ​ให้​กับ​โยเซฟ​ซึ่ง​จะ​มา​ถึง​ตอน​เที่ยง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p5.b3": {
+    "text": "พ่อ​ผู้​ชรา​ที่​พวก​เจ้า​บอก​เรา​สบายดี​ไหม ยัง​มี​ชีวิต​อยู่​หรือ​เปล่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p5.b4": {
+    "text": "พ่อ​ของ​พวก​เรา ผู้​รับใช้​ของ​ท่าน ยัง​มี​ชีวิต​อยู่​และ​สบายดี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p6.b1": {
+    "text": "คน​นี้​หรือ​คือ​น้อง​คน​สุด​ท้อง​ที่​เจ้า​พูด​ถึง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p6.b2": {
+    "text": "ลูก​เอ๋ย ขอ​พระเจ้า​เมตตา​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p7.b1": {
+    "text": "เมื่อ​โยเซฟ​ได้​พบ​หน้า​น้อง​ชาย​ก็​ตื้นตัน​ใจ​จน​ต้อง​รีบ​ออก​ไป​หา​ที่​ร้องไห้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p7.b2": {
+    "text": "เขา​เข้า​ไป​ใน​ห้อง​ส่วนตัว​และ​ร้องไห้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p7.b3": {
+    "text": "หลังจาก​ที่​ล้าง​หน้า​ล้าง​ตา​แล้ว เขา​ก็​กลับ​ออก​มา พยายาม​ควบคุม​อารมณ์ และ​พูด​ว่า “ยก​อาหาร​มา”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p8.b1": {
+    "text": "พวก​เขา​จัด​อาหาร​ให้​โยเซฟ​ส่วนตัว โต๊ะ​ของ​พี่​น้อง​อีก​โต๊ะ​หนึ่ง ส่วน​ชาว​อียิปต์​ที่​มา​ด้วย​ก็​อยู่​อีก​โต๊ะ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p8.b2": {
+    "text": "คน​อียิปต์​ไม่​นั่ง​ร่วม​โต๊ะ​กับ​คน​ฮีบรู เพราะ​เป็น​สิ่ง​น่า​รังเกียจ​สำหรับ​คน​อียิปต์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p8.b3": {
+    "text": "โยเซฟ​จัด​ที่​นั่ง​ให้​ชาย​เหล่า​นั้น นั่ง​เรียง​กัน​ตาม​ลำดับ​อายุ ตั้งแต่​คน​โต​สุด​จน​ถึง​คน​เล็ก​สุด",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p8.b4": {
+    "text": "พวก​เขา​ก็​มอง​หน้า​กัน​ด้วย​ความ​ประหลาด​ใจ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p9.b1": {
+    "text": "เมื่อ​อาหาร​ส่วน​ของ​พวก​เขา​ถูก​ส่ง​มา​จาก​โต๊ะ​ของ​โยเซฟ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p9.b2": {
+    "text": "เบนยามิน​ได้​อาหาร​มาก​กว่า​คน​อื่น​ๆ ห้า​เท่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.43.p9.b3": {
+    "text": "พวก​เขา​ก็​กิน​ดื่ม​กับ​โยเซฟ​อย่าง​อิ่มหนำ​สำราญ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 43:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

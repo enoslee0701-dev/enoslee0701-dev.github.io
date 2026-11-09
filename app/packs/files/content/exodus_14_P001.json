@@ -1,0 +1,85 @@
+{
+  "id": "EXODUS_14_P001",
+  "book": "exodus",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5755
+      ],
+      "alt": {
+        "zh-CN": "耶和华晓谕摩西，吩咐以色列人转回，安营在比·哈希录前，密夺和海的中间，靠近海边安营。"
+      }
+    },
+    {
+      "id": "EXODUS_14_P001_F2",
+      "box": [
+        0,
+        0.5801,
+        0.5313,
+        0.4199
+      ],
+      "alt": {
+        "zh-CN": "耶和华说：「我要使法老的心刚硬，他要追赶他们，我便在法老和他全军身上得荣耀；埃及人就知道我是耶和华。」"
+      }
+    },
+    {
+      "id": "EXODUS_14_P001_F3",
+      "box": [
+        0.5391,
+        0.5801,
+        0.4609,
+        0.4199
+      ],
+      "alt": {
+        "zh-CN": "远处山脊上，有埃及人望着以色列人的营。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_14_P001_B001",
+      "panel": "EXODUS_14_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.023,
+        0.44,
+        0.1035
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p1.b1"
+    },
+    {
+      "id": "EXODUS_14_P001_B002",
+      "panel": "EXODUS_14_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3772,
+        0.5927,
+        0.1434,
+        0.1385
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p1.b2"
+    }
+  ]
+}

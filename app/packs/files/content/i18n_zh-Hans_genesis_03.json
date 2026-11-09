@@ -1,0 +1,321 @@
+{
+  "genesis.3.p1.b1": {
+    "text": "耶和华　神所造的，惟有蛇比田野一切的活物更狡猾。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠和⁠华　神⁠所造的，惟⁠有蛇比田⁠野一⁠切的活物更狡⁠猾。"
+  },
+  "genesis.3.p1.b2": {
+    "text": "神岂是真说不许你们吃园中所有树上的果子吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神岂是真说不⁠许你⁠们吃园中所⁠有树上的果⁠子吗？"
+  },
+  "genesis.3.p1.b3": {
+    "text": "园中树上的果子，我们可以吃，惟有园当中那棵树上的果子，……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:2-3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "园中树上的果⁠子，我⁠们可⁠以吃，惟⁠有园当⁠中那⁠棵树上的果⁠子，……"
+  },
+  "genesis.3.p1.b4": {
+    "text": "神曾说：「你们不可吃，也不可摸，免得你们死。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神曾说：「你⁠们不⁠可吃，也不⁠可摸，免⁠得你⁠们死。」"
+  },
+  "genesis.3.p2.b5": {
+    "text": "你们不一定死；因为　神知道，你们吃的日子眼睛就明亮了，你们便如　神能知道善恶。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:4-5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们不⁠一⁠定死；因⁠为　神知⁠道，你⁠们吃的日⁠子眼⁠睛就明⁠亮了，你⁠们便如　神能知⁠道善恶。"
+  },
+  "genesis.3.p2.b6": {
+    "text": "于是女人见那棵树的果子好作食物，也悦人的眼目，且是可喜爱的，能使人有智慧，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是女⁠人见那⁠棵树的果⁠子好作食⁠物，也悦人⁠的眼⁠目，且是可喜⁠爱的，能使人有智⁠慧，"
+  },
+  "genesis.3.p2.b7": {
+    "text": "就摘下果子来吃了，又给她丈夫，她丈夫也吃了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就摘⁠下果⁠子来吃⁠了，又给她丈⁠夫，她丈⁠夫也吃⁠了。"
+  },
+  "genesis.3.p3.b8": {
+    "text": "他们二人的眼睛就明亮了，才知道自己是赤身露体，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们二⁠人的眼⁠睛就明⁠亮了，才知⁠道自⁠己是赤⁠身露⁠体，"
+  },
+  "genesis.3.p3.b9": {
+    "text": "便拿无花果树的叶子为自己编做裙子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "便拿无⁠花果⁠树的叶⁠子为自⁠己编做裙⁠子。"
+  },
+  "genesis.3.p3.b10": {
+    "text": "天起了凉风，耶和华　神在园中行走。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "天起⁠了凉⁠风，耶⁠和⁠华　神在园中行⁠走。"
+  },
+  "genesis.3.p3.b11": {
+    "text": "那人和他妻子……就藏在园里的树木中，躲避耶和华　神的面。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那人和他妻⁠子……就藏在园里的树⁠木中，躲⁠避耶⁠和⁠华　神的面。"
+  },
+  "genesis.3.p4.b12": {
+    "text": "你在哪里？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠在哪⁠里？"
+  },
+  "genesis.3.p4.b13": {
+    "text": "我在园中听见你的声音，我就害怕；因为我赤身露体，我便藏了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠在园中听⁠见你⁠的声⁠音，我就害⁠怕；因⁠为我赤⁠身露⁠体，我便藏了。"
+  },
+  "genesis.3.p5.b14": {
+    "text": "谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "谁告⁠诉你赤⁠身露⁠体呢？莫⁠非你吃⁠了我吩⁠咐你不⁠可吃的那树上的果⁠子吗？"
+  },
+  "genesis.3.p5.b15": {
+    "text": "你所赐给我、与我同居的女人，她把那树上的果子给我，我就吃了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你所赐⁠给我、与我同⁠居的女⁠人，她把那树上的果⁠子给我，我就吃⁠了。"
+  },
+  "genesis.3.p5.b16": {
+    "text": "你做的是什么事呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你做⁠的是什⁠么事呢？"
+  },
+  "genesis.3.p5.b17": {
+    "text": "那蛇引诱我，我就吃了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那蛇引⁠诱我，我就吃⁠了。"
+  },
+  "genesis.3.p6.b18": {
+    "text": "你既做了这事，就必受咒诅，比一切的牲畜野兽更甚；你必用肚子行走，终身吃土。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你既做⁠了这事，就必受咒诅，比一⁠切的牲⁠畜野⁠兽更甚；你必⁠用肚⁠子行⁠走，终⁠身吃土。"
+  },
+  "genesis.3.p6.b19": {
+    "text": "我又要叫你和女人彼此为仇；你的后裔和女人的后裔也彼此为仇。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我又⁠要叫你和女⁠人彼⁠此为仇；你⁠的后⁠裔和女⁠人的后⁠裔也彼⁠此为仇。"
+  },
+  "genesis.3.p6.b20": {
+    "text": "女人的后裔要伤你的头；你要伤他的脚跟。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "女⁠人的后⁠裔要伤你⁠的头；你⁠要伤他⁠的脚⁠跟。"
+  },
+  "genesis.3.p7.b21": {
+    "text": "我必多多加增你怀胎的苦楚；你生产儿女必多受苦楚。你必恋慕你丈夫；你丈夫必管辖你。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我必多⁠多加⁠增你怀⁠胎的苦⁠楚；你生⁠产儿⁠女必多受苦⁠楚。你必恋⁠慕你丈⁠夫；你丈⁠夫必管⁠辖你。"
+  },
+  "genesis.3.p7.b22": {
+    "text": "地必为你的缘故受咒诅；你必终身劳苦才能从地里得吃的。地必给你长出荆棘和蒺藜来；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:17-18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "地必为你⁠的缘⁠故受咒诅；你必终⁠身劳⁠苦才⁠能从地里得吃的。地必给你长⁠出荆⁠棘和蒺⁠藜来；"
+  },
+  "genesis.3.p7.b23": {
+    "text": "你必汗流满面才得糊口，直到你归了土，因为你是从土而出的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你必汗⁠流满面才⁠得糊⁠口，直⁠到你归了土，因⁠为你⁠是从土而⁠出的。"
+  },
+  "genesis.3.p7.b24": {
+    "text": "你本是尘土，仍要归于尘土。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你本是尘⁠土，仍⁠要归⁠于尘⁠土。"
+  },
+  "genesis.3.p8.b25": {
+    "text": "亚当给他妻子起名叫夏娃，因为她是众生之母。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "亚⁠当给他妻⁠子起名⁠叫夏⁠娃，因⁠为她⁠是众⁠生之母。"
+  },
+  "genesis.3.p8.b26": {
+    "text": "耶和华　神为亚当和他妻子用皮子做衣服给他们穿。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠和⁠华　神为亚⁠当和他妻⁠子用皮⁠子做衣⁠服给他⁠们穿。"
+  },
+  "genesis.3.p9.b27": {
+    "text": "那人已经与我们相似，能知道善恶；现在恐怕他伸手又摘生命树的果子吃，就永远活着。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那人已⁠经与我⁠们相⁠似，能知⁠道善恶；现⁠在恐⁠怕他伸⁠手又摘生⁠命树的果⁠子吃，就永⁠远活⁠着。"
+  },
+  "genesis.3.p9.b28": {
+    "text": "耶和华　神便打发他出伊甸园去，耕种他所自出之土。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠和⁠华　神便打⁠发他出伊⁠甸⁠园去，耕⁠种他⁠所自出之土。"
+  },
+  "genesis.3.p9.b29": {
+    "text": "于是把他赶出去了；又在伊甸园的东边安设基路伯和四面转动发火焰的剑，要把守生命树的道路。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 3:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是把他赶⁠出⁠去了；又⁠在伊⁠甸⁠园的东⁠边安设基路伯和四⁠面转⁠动发火⁠焰的剑，要把⁠守生⁠命树的道⁠路。"
+  }
+}

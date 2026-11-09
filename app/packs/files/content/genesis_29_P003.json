@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_29_P003",
+  "book": "genesis",
+  "chapter": 29,
+  "page": 3,
+  "ref": "29:9-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_29_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_29_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "雅各正和他们说话的时候，拉结领着她父亲的羊来了，因为那些羊是她牧放的。"
+      }
+    },
+    {
+      "id": "GENESIS_29_P003_F2",
+      "box": [
+        0,
+        0.2891,
+        0.3438,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "雅各愣住了，眼睛一直望着她。"
+      }
+    },
+    {
+      "id": "GENESIS_29_P003_F3",
+      "box": [
+        0.3516,
+        0.2891,
+        0.6484,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "雅各看见母舅拉班的女儿拉结和母舅拉班的羊群，"
+      }
+    },
+    {
+      "id": "GENESIS_29_P003_F4",
+      "box": [
+        0,
+        0.5716,
+        1,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "就上前把石头转离井口，饮他母舅拉班的羊群。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_29_P003_B001",
+      "panel": "GENESIS_29_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0114,
+        0.47,
+        0.0625
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p3.b1"
+    },
+    {
+      "id": "GENESIS_29_P003_B002",
+      "panel": "GENESIS_29_P003_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7082,
+        0.2974,
+        0.2723,
+        0.0556
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p3.b2"
+    },
+    {
+      "id": "GENESIS_29_P003_B003",
+      "panel": "GENESIS_29_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.9058,
+        0.39,
+        0.0813
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p3.b3"
+    }
+  ]
+}

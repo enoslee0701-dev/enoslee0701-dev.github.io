@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_04_P004",
+  "book": "genesis",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_04_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3372
+      ],
+      "alt": {
+        "zh-CN": "耶和华对该隐说：「你兄弟亚伯在哪里？」黄昏的田里空无一人，犁沟里有一小片深色的湿土。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P004_F2",
+      "box": [
+        0,
+        0.3411,
+        0.498,
+        0.3659
+      ],
+      "alt": {
+        "zh-CN": "该隐把锄头戳进地里，说：「我不知道！我岂是看守我兄弟的吗？」"
+      }
+    },
+    {
+      "id": "GENESIS_04_P004_F3",
+      "box": [
+        0.5049,
+        0.3411,
+        0.4951,
+        0.3659
+      ],
+      "alt": {
+        "zh-CN": "耶和华说：「你做了什么事呢？你兄弟的血有声音从地里向我哀告。」风把麦子压向地面。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P004_F4",
+      "box": [
+        0,
+        0.7109,
+        1,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "「地开了口，从你手里接受你兄弟的血。现在你必从这地受咒诅。你种地，地不再给你效力；你必流离飘荡在地上。」该隐捧着枯死的麦苗。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_04_P004_B013",
+      "panel": "GENESIS_04_P004_F1",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.06,
+        0.0135,
+        0.88,
+        0.0876
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p4.b13"
+    },
+    {
+      "id": "GENESIS_04_P004_B014",
+      "panel": "GENESIS_04_P004_F2",
+      "order": 14,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.239,
+        0.3557,
+        0.239,
+        0.1244
+      ],
+      "tail": [
+        0.3585,
+        0.5167
+      ],
+      "text_key": "genesis.4.p4.b14"
+    },
+    {
+      "id": "GENESIS_04_P004_B015",
+      "panel": "GENESIS_04_P004_F3",
+      "order": 15,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5247,
+        0.3557,
+        0.4554,
+        0.1317
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p4.b15"
+    },
+    {
+      "id": "GENESIS_04_P004_B016",
+      "panel": "GENESIS_04_P004_F4",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.7282,
+        0.37,
+        0.2486
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p4.b16"
+    }
+  ]
+}

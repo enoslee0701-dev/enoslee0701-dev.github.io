@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_03_P006",
+  "book": "genesis",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:14-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_03_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3105
+      ],
+      "alt": {
+        "zh-CN": "耶和华神对蛇说：「你既做了这事，就必受咒诅，比一切的牲畜野兽更甚；你必用肚子行走，终身吃土。」"
+      }
+    },
+    {
+      "id": "GENESIS_03_P006_F2",
+      "box": [
+        0,
+        0.3138,
+        0.4,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "蛇头贴在尘土里。"
+      }
+    },
+    {
+      "id": "GENESIS_03_P006_F3",
+      "box": [
+        0,
+        0.3138,
+        1,
+        0.6862
+      ],
+      "alt": {
+        "zh-CN": "「我又要叫你和女人彼此为仇；你的后裔和女人的后裔也彼此为仇。女人的后裔要伤你的头；你要伤他的脚跟。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_03_P006_B018",
+      "panel": "GENESIS_03_P006_F1",
+      "order": 18,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.48,
+        0.0124,
+        0.48,
+        0.1055
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p6.b18"
+    },
+    {
+      "id": "GENESIS_03_P006_B019",
+      "panel": "GENESIS_03_P006_F3",
+      "order": 19,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.3344,
+        0.47,
+        0.0829
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p6.b19"
+    },
+    {
+      "id": "GENESIS_03_P006_B020",
+      "panel": "GENESIS_03_P006_F3",
+      "order": 20,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.431,
+        0.47,
+        0.0543
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p6.b20"
+    }
+  ]
+}

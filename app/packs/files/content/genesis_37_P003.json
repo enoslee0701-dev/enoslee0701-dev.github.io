@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_37_P003",
+  "book": "genesis",
+  "chapter": 37,
+  "page": 3,
+  "ref": "37:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_37_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_37_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "后来他又做了一梦，也告诉他的哥哥们说：「看哪，我又做了一梦，梦见太阳、月亮，与十一个星向我下拜。」"
+      }
+    },
+    {
+      "id": "GENESIS_37_P003_F2",
+      "box": [
+        0,
+        0.4095,
+        0.5527,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "约瑟将这梦告诉他父亲和他哥哥们，"
+      }
+    },
+    {
+      "id": "GENESIS_37_P003_F3",
+      "box": [
+        0.5605,
+        0.4095,
+        0.4395,
+        0.3242
+      ],
+      "alt": {
+        "zh-CN": "他父亲就责备他说：「你做的这是什么梦！难道我和你母亲、你弟兄果然要来俯伏在地，向你下拜吗？」"
+      }
+    },
+    {
+      "id": "GENESIS_37_P003_F4",
+      "box": [
+        0,
+        0.7383,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "他哥哥们都嫉妒他，他父亲却把这话存在心里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_37_P003_B001",
+      "panel": "GENESIS_37_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3164,
+        0.42,
+        0.077
+      ],
+      "tail": [
+        0.24,
+        0.4056
+      ],
+      "text_key": "genesis.37.p3.b1"
+    },
+    {
+      "id": "GENESIS_37_P003_B002",
+      "panel": "GENESIS_37_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7583,
+        0.4192,
+        0.2285,
+        0.0713
+      ],
+      "tail": [
+        0.8726,
+        0.5229
+      ],
+      "text_key": "genesis.37.p3.b2"
+    },
+    {
+      "id": "GENESIS_37_P003_B003",
+      "panel": "GENESIS_37_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.36,
+        0.7462,
+        0.23,
+        0.0732
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p3.b3"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_44_P003",
+  "book": "genesis",
+  "chapter": 44,
+  "page": 3,
+  "ref": "44:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_44_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_44_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "于是他们各人急忙把口袋卸在地上，各人打开口袋。家宰就搜查，从年长的起到年幼的为止，"
+      }
+    },
+    {
+      "id": "GENESIS_44_P003_F2",
+      "box": [
+        0,
+        0.2956,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "那杯竟在便雅悯的口袋里搜出来。"
+      }
+    },
+    {
+      "id": "GENESIS_44_P003_F3",
+      "box": [
+        0,
+        0.6914,
+        0.3555,
+        0.3086
+      ]
+    },
+    {
+      "id": "GENESIS_44_P003_F4",
+      "box": [
+        0.3633,
+        0.6914,
+        0.6367,
+        0.3086
+      ],
+      "alt": {
+        "zh-CN": "他们就撕裂衣服，各人把驮子抬在驴上，回城去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_44_P003_B001",
+      "panel": "GENESIS_44_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.32,
+        0.0058,
+        0.65,
+        0.0377
+      ],
+      "tail": null,
+      "text_key": "genesis.44.p3.b1"
+    },
+    {
+      "id": "GENESIS_44_P003_B002",
+      "panel": "GENESIS_44_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6237,
+        0.92,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "genesis.44.p3.b2"
+    },
+    {
+      "id": "GENESIS_44_P003_B003",
+      "panel": "GENESIS_44_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6817,
+        0.7007,
+        0.2992,
+        0.0555
+      ],
+      "tail": null,
+      "text_key": "genesis.44.p3.b3"
+    }
+  ]
+}

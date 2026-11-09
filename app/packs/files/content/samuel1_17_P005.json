@@ -1,0 +1,112 @@
+{
+  "id": "SAMUEL1_17_P005",
+  "book": "samuel1",
+  "chapter": 17,
+  "page": 5,
+  "ref": "17:20-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_17_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_17_P005_F1",
+      "box": [
+        0,
+        0,
+        0.3623,
+        0.3047
+      ],
+      "alt": {
+        "zh-CN": "大卫早晨起来，将羊交托一个看守的人，照着他父亲所吩咐的话，带着食物去了。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P005_F2",
+      "box": [
+        0.3682,
+        0,
+        0.6318,
+        0.3047
+      ],
+      "alt": {
+        "zh-CN": "到了辎重营，军兵刚出到战场，呐喊要战。以色列人和非利士人都摆列队伍，彼此相对。大卫把他带来的食物留在看守物件人的手下，跑到战场，问他哥哥们安。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P005_F3",
+      "box": [
+        0,
+        0.3086,
+        1,
+        0.4564
+      ],
+      "alt": {
+        "zh-CN": "与他们说话的时候，那讨战的歌利亚从非利士队中出来，说从前所说的话；大卫都听见了。以色列众人看见那人，就逃跑，极其害怕。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P005_F4",
+      "box": [
+        0,
+        0.7695,
+        1,
+        0.2305
+      ],
+      "alt": {
+        "zh-CN": "大卫盯着谷中的非利士人。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_17_P005_B012",
+      "panel": "SAMUEL1_17_P005_F1",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0145,
+        0.0091,
+        0.3333,
+        0.0792
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p5.b12"
+    },
+    {
+      "id": "SAMUEL1_17_P005_B013",
+      "panel": "SAMUEL1_17_P005_F3",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3223,
+        0.46,
+        0.1004
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p5.b13"
+    },
+    {
+      "id": "SAMUEL1_17_P005_B014",
+      "panel": "SAMUEL1_17_P005_F3",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6737,
+        0.44,
+        0.0775
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p5.b14"
+    }
+  ]
+}

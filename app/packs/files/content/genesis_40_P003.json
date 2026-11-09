@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_40_P003",
+  "book": "genesis",
+  "chapter": 40,
+  "page": 3,
+  "ref": "40:9-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_40_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_40_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2266
+      ],
+      "alt": {
+        "zh-CN": "酒政便将他的梦告诉约瑟说：「我梦见在我面前有一棵葡萄树，"
+      }
+    },
+    {
+      "id": "GENESIS_40_P003_F2",
+      "box": [
+        0,
+        0.2298,
+        1,
+        0.4316
+      ],
+      "alt": {
+        "zh-CN": "树上有三根枝子，好像发了芽，开了花，上头的葡萄都成熟了。"
+      }
+    },
+    {
+      "id": "GENESIS_40_P003_F3",
+      "box": [
+        0,
+        0.6647,
+        0.4707,
+        0.3353
+      ]
+    },
+    {
+      "id": "GENESIS_40_P003_F4",
+      "box": [
+        0.4766,
+        0.6647,
+        0.5234,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "法老的杯在我手中，我就拿葡萄挤在法老的杯里，将杯递在他手中。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_40_P003_B001",
+      "panel": "GENESIS_40_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0068,
+        0.29,
+        0.0679
+      ],
+      "tail": [
+        0.505,
+        0.0974
+      ],
+      "text_key": "genesis.40.p3.b1"
+    },
+    {
+      "id": "GENESIS_40_P003_B002",
+      "panel": "GENESIS_40_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.66,
+        0.4974,
+        0.31,
+        0.0949
+      ],
+      "tail": [
+        0.815,
+        0.6355
+      ],
+      "text_key": "genesis.40.p3.b2"
+    },
+    {
+      "id": "GENESIS_40_P003_B003",
+      "panel": "GENESIS_40_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4975,
+        0.9464,
+        0.4815,
+        0.0435
+      ],
+      "tail": [
+        0.7383,
+        1
+      ],
+      "text_key": "genesis.40.p3.b3"
+    }
+  ]
+}

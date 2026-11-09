@@ -1,0 +1,97 @@
+{
+  "id": "GENESIS_06_P005",
+  "book": "genesis",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4811
+      ],
+      "alt": {
+        "zh-CN": "方舟的造法乃是这样：要长三百肘，宽五十肘，高三十肘。一家人拉着麻绳立起巨大的肋骨。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P005_F2",
+      "box": [
+        0,
+        0.4844,
+        0.4834,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "挪亚用打结的麻绳量长度。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P005_F3",
+      "box": [
+        0.4883,
+        0.4844,
+        0.5117,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "方舟上边要留透光处，高一肘。方舟的门要开在旁边。方舟要分上、中、下三层。含站在中层的横梁上冲下面喊。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P005_F4",
+      "box": [
+        0,
+        0.7741,
+        1,
+        0.2259
+      ],
+      "alt": {
+        "zh-CN": "城里的人在坡下指着骨架笑。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_06_P005_B014",
+      "panel": "GENESIS_06_P005_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0144,
+        0.4,
+        0.0962
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p5.b14"
+    },
+    {
+      "id": "GENESIS_06_P005_B015",
+      "panel": "GENESIS_06_P005_F3",
+      "order": 15,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5037,
+        0.4901,
+        0.2251,
+        0.0458
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p5.b15"
+    }
+  ]
+}

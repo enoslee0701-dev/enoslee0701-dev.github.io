@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_29_P004",
+  "book": "genesis",
+  "chapter": 29,
+  "page": 4,
+  "ref": "29:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_29_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_29_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "雅各与拉结亲嘴，"
+      }
+    },
+    {
+      "id": "GENESIS_29_P004_F2",
+      "box": [
+        0,
+        0.2741,
+        1,
+        0.4551
+      ],
+      "alt": {
+        "zh-CN": "就放声而哭。"
+      }
+    },
+    {
+      "id": "GENESIS_29_P004_F3",
+      "box": [
+        0,
+        0.7324,
+        0.4971,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "雅各告诉拉结，自己是她父亲的外甥，是利百加的儿子，"
+      }
+    },
+    {
+      "id": "GENESIS_29_P004_F4",
+      "box": [
+        0.5029,
+        0.7324,
+        0.4971,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "拉结就跑去告诉她父亲。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_29_P004_B001",
+      "panel": "GENESIS_29_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0081,
+        0.26,
+        0.054
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p4.b1"
+    },
+    {
+      "id": "GENESIS_29_P004_B002",
+      "panel": "GENESIS_29_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.2878,
+        0.48,
+        0.05
+      ],
+      "tail": [
+        0.27,
+        0.3833
+      ],
+      "text_key": "genesis.29.p4.b2"
+    },
+    {
+      "id": "GENESIS_29_P004_B003",
+      "panel": "GENESIS_29_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.7404,
+        0.4573,
+        0.0454
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p4.b3"
+    },
+    {
+      "id": "GENESIS_29_P004_B004",
+      "panel": "GENESIS_29_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7266,
+        0.7404,
+        0.2584,
+        0.0535
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p4.b4"
+    }
+  ]
+}

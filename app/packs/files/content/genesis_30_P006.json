@@ -1,0 +1,106 @@
+{
+  "id": "GENESIS_30_P006",
+  "book": "genesis",
+  "chapter": 30,
+  "page": 6,
+  "ref": "30:22-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_30_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_30_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "神顾念拉结，应允了她，使她能生育。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P006_F2",
+      "box": [
+        0,
+        0.334,
+        1,
+        0.3997
+      ],
+      "alt": {
+        "zh-CN": "拉结怀孕生子，说：「　神除去了我的羞耻」，"
+      }
+    },
+    {
+      "id": "GENESIS_30_P006_F3",
+      "box": [
+        0,
+        0.7363,
+        1,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "就给他起名叫约瑟，意思说：「愿耶和华再增添我一个儿子。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_30_P006_B001",
+      "panel": "GENESIS_30_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.68,
+        0.0099,
+        0.3,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p6.b1"
+    },
+    {
+      "id": "GENESIS_30_P006_B002",
+      "panel": "GENESIS_30_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.74,
+        0.346,
+        0.24,
+        0.0639
+      ],
+      "tail": [
+        0.86,
+        0.4499
+      ],
+      "text_key": "genesis.30.p6.b2"
+    },
+    {
+      "id": "GENESIS_30_P006_B003",
+      "panel": "GENESIS_30_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.12,
+        0.7468,
+        0.38,
+        0.058
+      ],
+      "tail": [
+        0.31,
+        0.8312
+      ],
+      "text_key": "genesis.30.p6.b3"
+    }
+  ]
+}

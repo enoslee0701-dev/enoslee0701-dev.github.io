@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_17_P003",
+  "book": "genesis",
+  "chapter": 17,
+  "page": 3,
+  "ref": "17:9-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_17_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_17_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2682
+      ],
+      "alt": {
+        "zh-CN": "神又对亚伯拉罕说：「你和你的后裔必世世代代遵守我的约。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P003_F2",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "「你们所有的男子都要受割礼；这就是我与你并你的后裔所立的约，是你们所当遵守的。这是我与你们立约的证据。你们世世代代的男子，无论是家里生的，是在你后裔之外用银子从外人买的，生下来第八日，都要受割礼。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P003_F3",
+      "box": [
+        0,
+        0.6803,
+        1,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "「你家里生的和你用银子买的，都必须受割礼。这样，我的约就立在你们肉体上作永远的约。但不受割礼的男子必从民中剪除，因他背了我的约。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_17_P003_B008",
+      "panel": "GENESIS_17_P003_F1",
+      "order": 8,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.48,
+        0.0107,
+        0.49,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p3.b8"
+    },
+    {
+      "id": "GENESIS_17_P003_B009",
+      "panel": "GENESIS_17_P003_F2",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.2837,
+        0.5,
+        0.0294
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p3.b9"
+    },
+    {
+      "id": "GENESIS_17_P003_B010",
+      "panel": "GENESIS_17_P003_F2",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.3213,
+        0.5,
+        0.0273
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p3.b10"
+    },
+    {
+      "id": "GENESIS_17_P003_B011",
+      "panel": "GENESIS_17_P003_F3",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.6931,
+        0.4,
+        0.0895
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p3.b11"
+    }
+  ]
+}

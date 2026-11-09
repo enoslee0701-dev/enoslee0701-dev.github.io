@@ -1,0 +1,151 @@
+{
+  "id": "GENESIS_27_P001",
+  "book": "genesis",
+  "chapter": 27,
+  "page": 1,
+  "ref": "27:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_27_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_27_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "以撒年老，眼睛昏花，不能看见，"
+      }
+    },
+    {
+      "id": "GENESIS_27_P001_F2",
+      "box": [
+        0,
+        0.2643,
+        0.416,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "就叫了他大儿子以扫来，说：「我儿。」以扫说：「我在这里。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P001_F3",
+      "box": [
+        0.4199,
+        0.2643,
+        0.5801,
+        0.7357
+      ],
+      "alt": {
+        "zh-CN": "他说：「我如今老了，不知道哪一天死。现在拿你的器械，就是箭囊和弓，往田野去为我打猎，照我所爱的做成美味，拿来给我吃，使我在未死之先给你祝福。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P001_F4",
+      "box": [
+        0,
+        0.6992,
+        0.416,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "以撒对他儿子以扫说话，利百加也听见了。以扫往田野去打猎，要得野味带来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_27_P001_B001",
+      "panel": "GENESIS_27_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0052,
+        0.42,
+        0.0287
+      ],
+      "tail": null,
+      "text_key": "genesis.27.p1.b1"
+    },
+    {
+      "id": "GENESIS_27_P001_B002",
+      "panel": "GENESIS_27_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.1997,
+        0.2773,
+        0.2038,
+        0.0779
+      ],
+      "tail": [
+        0.3016,
+        0.3985
+      ],
+      "text_key": "genesis.27.p1.b2"
+    },
+    {
+      "id": "GENESIS_27_P001_B003",
+      "panel": "GENESIS_27_P001_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0125,
+        0.2773,
+        0.1664,
+        0.0476
+      ],
+      "tail": [
+        0.0957,
+        0.3682
+      ],
+      "text_key": "genesis.27.p1.b3"
+    },
+    {
+      "id": "GENESIS_27_P001_B004",
+      "panel": "GENESIS_27_P001_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.4431,
+        0.279,
+        0.5336,
+        0.125
+      ],
+      "tail": [
+        0.7099,
+        0.4776
+      ],
+      "text_key": "genesis.27.p1.b4"
+    },
+    {
+      "id": "GENESIS_27_P001_B005",
+      "panel": "GENESIS_27_P001_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1872,
+        0.7082,
+        0.2163,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "genesis.27.p1.b5"
+    }
+  ]
+}

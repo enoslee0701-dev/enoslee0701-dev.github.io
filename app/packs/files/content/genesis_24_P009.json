@@ -1,0 +1,148 @@
+{
+  "id": "GENESIS_24_P009",
+  "book": "genesis",
+  "chapter": 24,
+  "page": 9,
+  "ref": "24:50-54",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_24_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_24_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3477
+      ],
+      "alt": {
+        "zh-CN": "拉班和彼土利回答说：「这事乃出于耶和华，我们不能向你说好说歹。看哪，利百加在你面前，可以将她带去，照着耶和华所说的，给你主人的儿子为妻。」"
+      }
+    },
+    {
+      "id": "GENESIS_24_P009_F2",
+      "box": [
+        0,
+        0.3529,
+        0.4326,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕的仆人听见他们这话，就向耶和华俯伏在地。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P009_F3",
+      "box": [
+        0.4424,
+        0.3529,
+        0.5576,
+        0.3451
+      ],
+      "alt": {
+        "zh-CN": "当下仆人拿出金器、银器，和衣服送给利百加，又将宝物送给她哥哥和她母亲。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P009_F4",
+      "box": [
+        0,
+        0.7025,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "仆人和跟从他的人吃了喝了，住了一夜。早晨起来，仆人就说：「请打发我回我主人那里去吧。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_24_P009_B035",
+      "panel": "GENESIS_24_P009_F1",
+      "order": 35,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0104,
+        0.5,
+        0.0591
+      ],
+      "tail": [
+        0.28,
+        0.1043
+      ],
+      "text_key": "genesis.24.p9.b35"
+    },
+    {
+      "id": "GENESIS_24_P009_B036",
+      "panel": "GENESIS_24_P009_F2",
+      "order": 36,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0216,
+        0.3598,
+        0.3893,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p9.b36"
+    },
+    {
+      "id": "GENESIS_24_P009_B037",
+      "panel": "GENESIS_24_P009_F3",
+      "order": 37,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.632,
+        0.3598,
+        0.2007,
+        0.0483
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p9.b37"
+    },
+    {
+      "id": "GENESIS_24_P009_B038",
+      "panel": "GENESIS_24_P009_F4",
+      "order": 38,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5,
+        0.7114,
+        0.47,
+        0.0272
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p9.b38"
+    },
+    {
+      "id": "GENESIS_24_P009_B039",
+      "panel": "GENESIS_24_P009_F4",
+      "order": 39,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.7446,
+        0.47,
+        0.0322
+      ],
+      "tail": [
+        0.735,
+        0.8066
+      ],
+      "text_key": "genesis.24.p9.b39"
+    }
+  ]
+}

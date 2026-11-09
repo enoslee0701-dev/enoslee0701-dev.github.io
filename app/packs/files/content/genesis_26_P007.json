@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_26_P007",
+  "book": "genesis",
+  "chapter": 26,
+  "page": 7,
+  "ref": "26:30-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_26_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_26_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "以撒就为他们设摆筵席，他们便吃了喝了。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P007_F2",
+      "box": [
+        0,
+        0.3151,
+        0.5371,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "他们清早起来彼此起誓。以撒打发他们走，他们就平平安安地离开他走了。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P007_F3",
+      "box": [
+        0.5449,
+        0.3151,
+        0.4551,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "三人骑驴走远，以撒站在坛旁送别。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P007_F4",
+      "box": [
+        0,
+        0.5788,
+        1,
+        0.4212
+      ],
+      "alt": {
+        "zh-CN": "那一天，以撒的仆人来，将挖井的事告诉他说：「我们得了水了。」他就给那井起名叫示巴；因此那城叫做别是巴，直到今日。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_26_P007_B025",
+      "panel": "GENESIS_26_P007_F1",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0093,
+        0.48,
+        0.0622
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p7.b25"
+    },
+    {
+      "id": "GENESIS_26_P007_B026",
+      "panel": "GENESIS_26_P007_F2",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0215,
+        0.3229,
+        0.4941,
+        0.0519
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p7.b26"
+    },
+    {
+      "id": "GENESIS_26_P007_B027",
+      "panel": "GENESIS_26_P007_F4",
+      "order": 27,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.01,
+        0.6209,
+        0.18,
+        0.0673
+      ],
+      "tail": [
+        0.1,
+        0.7303
+      ],
+      "text_key": "genesis.26.p7.b27"
+    },
+    {
+      "id": "GENESIS_26_P007_B028",
+      "panel": "GENESIS_26_P007_F4",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.9158,
+        0.42,
+        0.0716
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p7.b28"
+    }
+  ]
+}

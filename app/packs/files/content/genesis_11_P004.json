@@ -1,0 +1,85 @@
+{
+  "id": "GENESIS_11_P004",
+  "book": "genesis",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4199
+      ],
+      "alt": {
+        "zh-CN": "塔上的人突然彼此听不懂了：一个人把砖递过去，对方递回一根绳子；领头的人喊着，没有人回应。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P004_F2",
+      "box": [
+        0,
+        0.4232,
+        1,
+        0.2454
+      ],
+      "alt": {
+        "zh-CN": "于是耶和华使他们从那里分散在全地上；他们就停工，不造那城了。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P004_F3",
+      "box": [
+        0,
+        0.6719,
+        1,
+        0.3281
+      ],
+      "alt": {
+        "zh-CN": "因为耶和华在那里变乱天下人的言语，使众人分散在全地上，所以那城名叫巴别（就是变乱的意思）。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_11_P004_B008",
+      "panel": "GENESIS_11_P004_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4379,
+        0.4,
+        0.0981
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p4.b8"
+    },
+    {
+      "id": "GENESIS_11_P004_B009",
+      "panel": "GENESIS_11_P004_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.685,
+        0.46,
+        0.0721
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p4.b9"
+    }
+  ]
+}

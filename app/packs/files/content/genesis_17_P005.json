@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_17_P005",
+  "book": "genesis",
+  "chapter": 17,
+  "page": 5,
+  "ref": "17:18-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_17_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_17_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕对神说：「但愿以实玛利活在你面前。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P005_F2",
+      "box": [
+        0,
+        0.2747,
+        1,
+        0.446
+      ],
+      "alt": {
+        "zh-CN": "神说：「不然，你妻子撒拉要给你生一个儿子，你要给他起名叫以撒。我要与他坚定所立的约，作他后裔永远的约。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P005_F3",
+      "box": [
+        0,
+        0.7253,
+        0.5215,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "「至于以实玛利，我也应允你：我必赐福给他，使他昌盛，极其繁多。他必生十二个族长；我也要使他成为大国。到明年这时节，撒拉必给你生以撒，我要与他坚定所立的约。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P005_F4",
+      "box": [
+        0.5283,
+        0.7253,
+        0.4717,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "神和亚伯拉罕说完了话，就离开他上升去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_17_P005_B016",
+      "panel": "GENESIS_17_P005_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.0108,
+        0.48,
+        0.0595
+      ],
+      "tail": [
+        0.49,
+        0.0974
+      ],
+      "text_key": "genesis.17.p5.b16"
+    },
+    {
+      "id": "GENESIS_17_P005_B017",
+      "panel": "GENESIS_17_P005_F2",
+      "order": 17,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.2925,
+        0.5,
+        0.1338
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p5.b17"
+    },
+    {
+      "id": "GENESIS_17_P005_B018",
+      "panel": "GENESIS_17_P005_F3",
+      "order": 18,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0209,
+        0.7335,
+        0.4797,
+        0.0659
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p5.b18"
+    },
+    {
+      "id": "GENESIS_17_P005_B019",
+      "panel": "GENESIS_17_P005_F4",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5472,
+        0.9396,
+        0.4339,
+        0.0494
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p5.b19"
+    }
+  ]
+}

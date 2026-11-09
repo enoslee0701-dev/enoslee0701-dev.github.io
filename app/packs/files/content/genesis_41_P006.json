@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_41_P006",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 6,
+  "ref": "41:17-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P006",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "法老对约瑟说：「我梦见我站在河边，有七只母牛从河里上来，又肥壮又美好，在芦荻中吃草。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P006_F2",
+      "box": [
+        0,
+        0.3027,
+        0.499,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "随后又有七只母牛上来，又软弱又丑陋又干瘦，在埃及遍地，我没有见过这样不好的。这又干瘦又丑陋的母牛吃尽了那以先的七只肥母牛，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P006_F3",
+      "box": [
+        0.5059,
+        0.3027,
+        0.4941,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "吃了以后却看不出是吃了，那丑陋的样子仍旧和先前一样。我就醒了。我又梦见一棵麦子，长了七个穗子，又饱满又佳美，随后又长了七个穗子，枯槁细弱，被东风吹焦了。这些细弱的穗子吞了那七个佳美的穗子。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P006_F4",
+      "box": [
+        0,
+        0.5781,
+        1,
+        0.4219
+      ],
+      "alt": {
+        "zh-CN": "我将这梦告诉了术士，却没有人能给我解说。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P006_B001",
+      "panel": "GENESIS_41_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.009,
+        0.5,
+        0.0657
+      ],
+      "tail": [
+        0.28,
+        0.1046
+      ],
+      "text_key": "genesis.41.p6.b1"
+    },
+    {
+      "id": "GENESIS_41_P006_B002",
+      "panel": "GENESIS_41_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.02,
+        0.5193,
+        0.459,
+        0.046
+      ],
+      "tail": [
+        0.2495,
+        0.5735
+      ],
+      "text_key": "genesis.41.p6.b2"
+    },
+    {
+      "id": "GENESIS_41_P006_B003",
+      "panel": "GENESIS_41_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5257,
+        0.5193,
+        0.4545,
+        0.046
+      ],
+      "tail": [
+        0.753,
+        0.5735
+      ],
+      "text_key": "genesis.41.p6.b3"
+    },
+    {
+      "id": "GENESIS_41_P006_B004",
+      "panel": "GENESIS_41_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.32,
+        0.5865,
+        0.21,
+        0.0843
+      ],
+      "tail": [
+        0.425,
+        0.713
+      ],
+      "text_key": "genesis.41.p6.b4"
+    }
+  ]
+}

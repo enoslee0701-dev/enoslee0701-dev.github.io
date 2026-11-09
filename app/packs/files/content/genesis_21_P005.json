@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_21_P005",
+  "book": "genesis",
+  "chapter": 21,
+  "page": 5,
+  "ref": "21:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_21_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_21_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2741
+      ],
+      "alt": {
+        "zh-CN": "皮袋的水用尽了，"
+      }
+    },
+    {
+      "id": "GENESIS_21_P005_F2",
+      "box": [
+        0,
+        0.278,
+        0.498,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "夏甲就把孩子撇在小树底下，"
+      }
+    },
+    {
+      "id": "GENESIS_21_P005_F3",
+      "box": [
+        0.5049,
+        0.278,
+        0.4951,
+        0.2708
+      ],
+      "alt": {
+        "zh-CN": "自己走开约有一箭之远，相对而坐，"
+      }
+    },
+    {
+      "id": "GENESIS_21_P005_F4",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ],
+      "alt": {
+        "zh-CN": "说：「我不忍见孩子死」，就相对而坐，放声大哭。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_21_P005_B015",
+      "panel": "GENESIS_21_P005_F1",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.011,
+        0.42,
+        0.0657
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p5.b15"
+    },
+    {
+      "id": "GENESIS_21_P005_B016",
+      "panel": "GENESIS_21_P005_F3",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5198,
+        0.2888,
+        0.2723,
+        0.0487
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p5.b16"
+    },
+    {
+      "id": "GENESIS_21_P005_B017",
+      "panel": "GENESIS_21_P005_F4",
+      "order": 17,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.25,
+        0.5706,
+        0.5,
+        0.0626
+      ],
+      "tail": [
+        0.5,
+        0.6779
+      ],
+      "text_key": "genesis.21.p5.b17"
+    },
+    {
+      "id": "GENESIS_21_P005_B018",
+      "panel": "GENESIS_21_P005_F4",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.6511,
+        0.42,
+        0.0536
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p5.b18"
+    }
+  ]
+}

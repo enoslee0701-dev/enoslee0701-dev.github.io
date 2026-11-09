@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_33_P006",
+  "book": "genesis",
+  "chapter": 33,
+  "page": 6,
+  "ref": "33:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_33_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_33_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "雅各就往疏割去，在那里为自己盖造房屋，又为牲畜搭棚；因此那地方名叫疏割。"
+      }
+    },
+    {
+      "id": "GENESIS_33_P006_F2",
+      "box": [
+        0,
+        0.2975,
+        0.5166,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "雅各从巴旦·亚兰回来的时候，平平安安地到了迦南地的示剑城，在城东支搭帐棚，"
+      }
+    },
+    {
+      "id": "GENESIS_33_P006_F3",
+      "box": [
+        0.5244,
+        0.2975,
+        0.4756,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "就用一百块银子向示剑的父亲、哈抹的子孙买了支帐棚的那块地，"
+      }
+    },
+    {
+      "id": "GENESIS_33_P006_F4",
+      "box": [
+        0,
+        0.6165,
+        1,
+        0.3835
+      ],
+      "alt": {
+        "zh-CN": "在那里筑了一座坛，起名叫伊利·伊罗伊·以色列。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_33_P006_B001",
+      "panel": "GENESIS_33_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0088,
+        0.45,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "genesis.33.p6.b1"
+    },
+    {
+      "id": "GENESIS_33_P006_B002",
+      "panel": "GENESIS_33_P006_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0207,
+        0.3038,
+        0.3202,
+        0.0535
+      ],
+      "tail": null,
+      "text_key": "genesis.33.p6.b2"
+    },
+    {
+      "id": "GENESIS_33_P006_B003",
+      "panel": "GENESIS_33_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.628,
+        0.42,
+        0.0613
+      ],
+      "tail": null,
+      "text_key": "genesis.33.p6.b3"
+    }
+  ]
+}

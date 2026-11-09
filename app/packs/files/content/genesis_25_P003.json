@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_25_P003",
+  "book": "genesis",
+  "chapter": 25,
+  "page": 3,
+  "ref": "25:12-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_25_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_25_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3132
+      ],
+      "alt": {
+        "zh-CN": "撒拉的使女埃及人夏甲给亚伯拉罕所生的儿子是以实玛利。以实玛利站在旷野的岩石上，儿子们骑着骆驼围着他。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P003_F2",
+      "box": [
+        0,
+        0.3158,
+        1,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "以实玛利儿子们的名字，按着他们的家谱记在下面。以实玛利的长子是尼拜约，又有基达、亚德别、米比衫、米施玛、度玛、玛撒、哈大、提玛、伊突、拿非施、基底玛。这是以实玛利众子的名字，照着他们的村庄、营寨，作了十二族的族长。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P003_F3",
+      "box": [
+        0,
+        0.6074,
+        1,
+        0.3926
+      ],
+      "alt": {
+        "zh-CN": "他子孙的住处在他众弟兄东边，从哈腓拉直到埃及前的书珥，正在亚述的道上。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P003_F4",
+      "box": [
+        0.5195,
+        0.8208,
+        0.4805,
+        0.1792
+      ],
+      "alt": {
+        "zh-CN": "以实玛利享寿一百三十七岁，气绝而死，归到他列祖那里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_25_P003_B009",
+      "panel": "GENESIS_25_P003_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0094,
+        0.45,
+        0.0689
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p3.b9"
+    },
+    {
+      "id": "GENESIS_25_P003_B010",
+      "panel": "GENESIS_25_P003_F2",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.69,
+        0.3274,
+        0.29,
+        0.0753
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p3.b10"
+    },
+    {
+      "id": "GENESIS_25_P003_B011",
+      "panel": "GENESIS_25_P003_F3",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6192,
+        0.55,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p3.b11"
+    },
+    {
+      "id": "GENESIS_25_P003_B012",
+      "panel": "GENESIS_25_P003_F4",
+      "order": 12,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5435,
+        0.9642,
+        0.4324,
+        0.0304
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p3.b12"
+    }
+  ]
+}

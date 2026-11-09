@@ -1,0 +1,139 @@
+{
+  "id": "SAMUEL1_17_P012",
+  "book": "samuel1",
+  "chapter": 17,
+  "page": 12,
+  "ref": "17:55-58",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_17_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_17_P012_F1",
+      "box": [
+        0,
+        0,
+        0.6182,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "扫罗看见大卫去攻击非利士人，就问元帅押尼珥说：「押尼珥啊，那少年人是谁的儿子？」"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P012_F2",
+      "box": [
+        0.625,
+        0,
+        0.375,
+        0.2865
+      ],
+      "alt": {
+        "zh-CN": "押尼珥说：「我敢在王面前起誓，我不知道。」王说：「你可以问问那幼年人是谁的儿子。」"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P012_F3",
+      "box": [
+        0,
+        0.2917,
+        1,
+        0.7083
+      ],
+      "alt": {
+        "zh-CN": "大卫打死非利士人回来，押尼珥领他到扫罗面前，他手中拿着非利士人的头。扫罗问他说：「少年人哪，你是谁的儿子？」"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P012_F4",
+      "box": [
+        0.595,
+        0.705,
+        0.405,
+        0.295
+      ],
+      "alt": {
+        "zh-CN": "大卫说：「我是你仆人伯利恒人耶西的儿子。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_17_P012_B036",
+      "panel": "SAMUEL1_17_P012_F1",
+      "order": 36,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3956,
+        0.0086,
+        0.2101,
+        0.063
+      ],
+      "tail": [
+        0.5007,
+        0.1002
+      ],
+      "text_key": "samuel1.17.p12.b36"
+    },
+    {
+      "id": "SAMUEL1_17_P012_B037",
+      "panel": "SAMUEL1_17_P012_F2",
+      "order": 37,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6325,
+        0.0086,
+        0.1275,
+        0.1031
+      ],
+      "tail": [
+        0.6962,
+        0.1404
+      ],
+      "text_key": "samuel1.17.p12.b37"
+    },
+    {
+      "id": "SAMUEL1_17_P012_B038",
+      "panel": "SAMUEL1_17_P012_F3",
+      "order": 38,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.3129,
+        0.38,
+        0.0779
+      ],
+      "tail": [
+        0.79,
+        0.4616
+      ],
+      "text_key": "samuel1.17.p12.b38"
+    },
+    {
+      "id": "SAMUEL1_17_P012_B039",
+      "panel": "SAMUEL1_17_P012_F4",
+      "order": 39,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6112,
+        0.9174,
+        0.3726,
+        0.0737
+      ],
+      "tail": [
+        0.7975,
+        1
+      ],
+      "text_key": "samuel1.17.p12.b39"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "GENESIS_32_P010",
+  "book": "genesis",
+  "chapter": 32,
+  "page": 10,
+  "ref": "32:31-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_32_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_32_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5234
+      ],
+      "alt": {
+        "zh-CN": "日头刚出来的时候，雅各经过毗努伊勒，他的大腿就瘸了。"
+      }
+    },
+    {
+      "id": "GENESIS_32_P010_F2",
+      "box": [
+        0,
+        0.526,
+        0.501,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "他拖着右腿，拄着杖。"
+      }
+    },
+    {
+      "id": "GENESIS_32_P010_F3",
+      "box": [
+        0.5068,
+        0.526,
+        0.4932,
+        0.2422
+      ],
+      "alt": {
+        "zh-CN": "雅各迎着日出走去。"
+      }
+    },
+    {
+      "id": "GENESIS_32_P010_F4",
+      "box": [
+        0,
+        0.7721,
+        1,
+        0.2279
+      ],
+      "alt": {
+        "zh-CN": "故此，以色列人不吃大腿窝的筋，直到今日，因为那人摸了雅各大腿窝的筋。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_32_P010_B001",
+      "panel": "GENESIS_32_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.56,
+        0.0209,
+        0.41,
+        0.0942
+      ],
+      "tail": null,
+      "text_key": "genesis.32.p10.b1"
+    },
+    {
+      "id": "GENESIS_32_P010_B002",
+      "panel": "GENESIS_32_P010_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7835,
+        0.5,
+        0.0911
+      ],
+      "tail": null,
+      "text_key": "genesis.32.p10.b2"
+    }
+  ]
+}

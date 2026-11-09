@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_29_P007",
+  "book": "genesis",
+  "chapter": 29,
+  "page": 7,
+  "ref": "29:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_29_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_29_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2331
+      ],
+      "alt": {
+        "zh-CN": "雅各对拉班说：「日期已经满了，求你把我的妻子给我，我好与她同房。」"
+      }
+    },
+    {
+      "id": "GENESIS_29_P007_F2",
+      "box": [
+        0,
+        0.237,
+        1,
+        0.2253
+      ],
+      "alt": {
+        "zh-CN": "拉班就摆设筵席，请齐了那地方的众人。"
+      }
+    },
+    {
+      "id": "GENESIS_29_P007_F3",
+      "box": [
+        0,
+        0.4661,
+        0.3701,
+        0.5339
+      ],
+      "alt": {
+        "zh-CN": "到晚上，拉班将女儿利亚送来给雅各，"
+      }
+    },
+    {
+      "id": "GENESIS_29_P007_F4",
+      "box": [
+        0.377,
+        0.4661,
+        0.623,
+        0.5339
+      ],
+      "alt": {
+        "zh-CN": "雅各就与她同房。拉班又将婢女悉帕给女儿利亚作使女。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_29_P007_B001",
+      "panel": "GENESIS_29_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.007,
+        0.4,
+        0.0326
+      ],
+      "tail": [
+        0.23,
+        0.0629
+      ],
+      "text_key": "genesis.29.p7.b1"
+    },
+    {
+      "id": "GENESIS_29_P007_B002",
+      "panel": "GENESIS_29_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.72,
+        0.2438,
+        0.26,
+        0.045
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p7.b2"
+    },
+    {
+      "id": "GENESIS_29_P007_B003",
+      "panel": "GENESIS_29_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0185,
+        0.4768,
+        0.333,
+        0.0694
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p7.b3"
+    },
+    {
+      "id": "GENESIS_29_P007_B004",
+      "panel": "GENESIS_29_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6885,
+        0.4821,
+        0.2928,
+        0.0747
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p7.b4"
+    }
+  ]
+}

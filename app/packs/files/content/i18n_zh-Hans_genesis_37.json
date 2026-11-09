@@ -1,0 +1,420 @@
+{
+  "genesis.37.p1.b1": {
+    "text": "雅各住在迦南地，就是他父亲寄居的地。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "雅⁠各住⁠在迦⁠南地，就⁠是他父⁠亲寄⁠居的地。"
+  },
+  "genesis.37.p1.b2": {
+    "text": "约瑟十七岁与他哥哥们一同牧羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠瑟十⁠七⁠岁与他哥⁠哥们一⁠同牧⁠羊。"
+  },
+  "genesis.37.p1.b3": {
+    "text": "以色列原来爱约瑟过于爱他的众子，……他给约瑟做了一件彩衣。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠色⁠列原⁠来爱约⁠瑟过⁠于爱他⁠的众子，……他给约⁠瑟做⁠了一⁠件彩⁠衣。"
+  },
+  "genesis.37.p1.b4": {
+    "text": "约瑟的哥哥们见父亲爱约瑟过于爱他们，就恨约瑟，不与他说和睦的话。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠瑟的哥⁠哥们见父⁠亲爱约⁠瑟过⁠于爱他⁠们，就恨约⁠瑟，不与他说和⁠睦的⁠话。"
+  },
+  "genesis.37.p2.b1": {
+    "text": "请听我所做的梦：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "请听⁠我所做⁠的梦："
+  },
+  "genesis.37.p2.b2": {
+    "text": "我们在田里捆禾稼，我的捆起来站着，你们的捆来围着我的捆下拜。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们在田⁠里捆禾稼，我⁠的捆⁠起⁠来站着，你⁠们的捆来围着我⁠的捆下⁠拜。"
+  },
+  "genesis.37.p2.b3": {
+    "text": "难道你真要作我们的王吗？难道你真要管辖我们吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "难⁠道你真⁠要作我⁠们的王吗？难⁠道你真⁠要管⁠辖我⁠们吗？"
+  },
+  "genesis.37.p2.b4": {
+    "text": "他们就因为他的梦和他的话越发恨他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就因⁠为他⁠的梦和他的⁠话越发恨他。"
+  },
+  "genesis.37.p3.b1": {
+    "text": "看哪，我又做了一梦，梦见太阳、月亮，与十一个星向我下拜。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，我⁠又做⁠了一梦，梦⁠见太⁠阳、月⁠亮，与十一⁠个星向我下⁠拜。"
+  },
+  "genesis.37.p3.b2": {
+    "text": "你做的这是什么梦！难道我和你母亲、你弟兄果然要来俯伏在地，向你下拜吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你做⁠的这是什⁠么梦！难⁠道我和你母⁠亲、你弟⁠兄果⁠然要来俯⁠伏在地，向你下⁠拜吗？"
+  },
+  "genesis.37.p3.b3": {
+    "text": "他哥哥们都嫉妒他，他父亲却把这话存在心里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他哥⁠哥们都嫉⁠妒他，他父⁠亲却把这话存⁠在心⁠里。"
+  },
+  "genesis.37.p4.b1": {
+    "text": "你去看看你哥哥们平安不平安，群羊平安不平安，就回来报信给我",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你去看⁠看你哥⁠哥们平⁠安不平⁠安，群羊平⁠安不平⁠安，就回⁠来报信给我"
+  },
+  "genesis.37.p4.b2": {
+    "text": "他就往示剑去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他就往示剑去⁠了。"
+  },
+  "genesis.37.p4.b3": {
+    "text": "你找什么？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠找什⁠么？"
+  },
+  "genesis.37.p4.b4": {
+    "text": "我找我的哥哥们，求你告诉我，他们在何处放羊。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我找我⁠的哥⁠哥们，求你告⁠诉我，他⁠们在何⁠处放⁠羊。"
+  },
+  "genesis.37.p4.b5": {
+    "text": "他们已经走了，我听见他们说要往多坍去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们已⁠经走⁠了，我听⁠见他⁠们说要往多坍去。"
+  },
+  "genesis.37.p5.b1": {
+    "text": "他们远远地看见他，趁他还没有走到跟前，大家就同谋要害死他……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们远⁠远地看⁠见他，趁他还没⁠有走⁠到跟⁠前，大⁠家就同⁠谋要害⁠死他……"
+  },
+  "genesis.37.p5.b2": {
+    "text": "你看！那做梦的来了……我们且看他的梦将来怎么样。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:19-20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你看！那做⁠梦的来了……我⁠们且⁠看他⁠的梦将⁠来怎⁠么样。"
+  },
+  "genesis.37.p5.b3": {
+    "text": "不可流他的血，可以把他丢在这野地的坑里，不可下手害他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "不⁠可流他⁠的血，可⁠以把他丢在这野⁠地的坑⁠里，不⁠可下⁠手害他。"
+  },
+  "genesis.37.p5.b4": {
+    "text": "吕便的意思是要救他脱离他们的手，把他归还他的父亲。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "吕便的意⁠思是要救他脱⁠离他⁠们的手，把他归⁠还他⁠的父⁠亲。"
+  },
+  "genesis.37.p6.b1": {
+    "text": "约瑟到了他哥哥们那里，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约⁠瑟到⁠了他哥⁠哥们那⁠里，"
+  },
+  "genesis.37.p6.b2": {
+    "text": "他们就剥了他的外衣，就是他穿的那件彩衣，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就剥了他⁠的外⁠衣，就⁠是他穿⁠的那⁠件彩⁠衣，"
+  },
+  "genesis.37.p6.b3": {
+    "text": "把他丢在坑里；那坑是空的，里头没有水。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "把他丢在坑⁠里；那坑是空的，里⁠头没⁠有水。"
+  },
+  "genesis.37.p7.b1": {
+    "text": "他们坐下吃饭，举目观看，……用骆驼驮着香料、乳香、没药，要带下埃及去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们坐⁠下吃⁠饭，举目观⁠看，……用骆⁠驼驮着香⁠料、乳⁠香、没⁠药，要⁠带下埃⁠及去。"
+  },
+  "genesis.37.p7.b2": {
+    "text": "我们杀我们的兄弟，藏了他的血有什么益处呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们杀我⁠们的兄⁠弟，藏了他⁠的血有什⁠么益⁠处呢？"
+  },
+  "genesis.37.p7.b3": {
+    "text": "我们不如将他卖给以实玛利人，不可下手害他；因为他是我们的兄弟，我们的骨肉。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们不⁠如将他卖给⁠以实玛利人，不⁠可下⁠手害他；因⁠为他⁠是我⁠们的兄⁠弟，我⁠们的骨⁠肉。"
+  },
+  "genesis.37.p7.b4": {
+    "text": "众弟兄就听从了他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "众弟⁠兄就听⁠从了他。"
+  },
+  "genesis.37.p8.b1": {
+    "text": "有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有⁠些米甸的商⁠人从那⁠里经⁠过，哥⁠哥们就⁠把约⁠瑟从坑⁠里拉⁠上⁠来，"
+  },
+  "genesis.37.p8.b2": {
+    "text": "讲定二十舍客勒银子，把约瑟卖给以实玛利人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "讲定二⁠十舍客勒银⁠子，把约⁠瑟卖给⁠以实玛利人。"
+  },
+  "genesis.37.p8.b3": {
+    "text": "他们就把约瑟带到埃及去了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们就⁠把约⁠瑟带⁠到埃⁠及去⁠了。"
+  },
+  "genesis.37.p9.b1": {
+    "text": "吕便回到坑边，见约瑟不在坑里，就撕裂衣服，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "吕便回⁠到坑边，见约⁠瑟不⁠在坑⁠里，就撕⁠裂衣⁠服，"
+  },
+  "genesis.37.p9.b2": {
+    "text": "童子没有了。我往哪里去才好呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "童⁠子没⁠有了。我往哪⁠里去才⁠好呢？"
+  },
+  "genesis.37.p9.b3": {
+    "text": "……把约瑟的那件彩衣染了血，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……把约⁠瑟的那⁠件彩⁠衣染了血，"
+  },
+  "genesis.37.p9.b4": {
+    "text": "我们捡了这个；请认一认是你儿子的外衣不是？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们捡⁠了这⁠个；请认一认是你儿⁠子的外⁠衣不⁠是？"
+  },
+  "genesis.37.p10.b1": {
+    "text": "这是我儿子的外衣。……约瑟被撕碎了！撕碎了！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这是我儿⁠子的外⁠衣。……约⁠瑟被撕⁠碎了！撕⁠碎了！"
+  },
+  "genesis.37.p10.b2": {
+    "text": "雅各便撕裂衣服，腰间围上麻布，为他儿子悲哀了多日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "雅⁠各便撕⁠裂衣⁠服，腰间围上麻⁠布，为他儿⁠子悲⁠哀了多日。"
+  },
+  "genesis.37.p10.b3": {
+    "text": "我必悲哀着下阴间，到我儿子那里。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我必悲⁠哀着下阴⁠间，到我儿⁠子那⁠里。"
+  },
+  "genesis.37.p10.b4": {
+    "text": "米甸人带约瑟到埃及，把他卖给法老的内臣—护卫长波提乏。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 37:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "米甸人带约⁠瑟到埃⁠及，把他卖给法⁠老的内臣—护⁠卫长波提乏。"
+  }
+}

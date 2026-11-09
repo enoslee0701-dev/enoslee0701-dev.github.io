@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_42_P010",
+  "book": "genesis",
+  "chapter": 42,
+  "page": 10,
+  "ref": "42:37-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_42_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_42_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "吕便对他父亲说：「我若不带他回来交给你，你可以杀我的两个儿子。"
+      }
+    },
+    {
+      "id": "GENESIS_42_P010_F2",
+      "box": [
+        0,
+        0.3366,
+        0.4971,
+        0.2813
+      ],
+      "alt": {
+        "zh-CN": "只管把他交在我手里，我必带他回来交给你。」"
+      }
+    },
+    {
+      "id": "GENESIS_42_P010_F3",
+      "box": [
+        0.501,
+        0.3366,
+        0.499,
+        0.2813
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「我的儿子不可与你们一同下去；他哥哥死了，只剩下他，"
+      }
+    },
+    {
+      "id": "GENESIS_42_P010_F4",
+      "box": [
+        0,
+        0.6204,
+        1,
+        0.3796
+      ],
+      "alt": {
+        "zh-CN": "他若在你们所行的路上遭害，那便是你们使我白发苍苍、悲悲惨惨地下阴间去了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_42_P010_B001",
+      "panel": "GENESIS_42_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0067,
+        0.6,
+        0.0367
+      ],
+      "tail": [
+        0.33,
+        0.0768
+      ],
+      "text_key": "genesis.42.p10.b1"
+    },
+    {
+      "id": "GENESIS_42_P010_B002",
+      "panel": "GENESIS_42_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0249,
+        0.345,
+        0.4473,
+        0.0675
+      ],
+      "tail": [
+        0.2486,
+        0.4406
+      ],
+      "text_key": "genesis.42.p10.b2"
+    },
+    {
+      "id": "GENESIS_42_P010_B003",
+      "panel": "GENESIS_42_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.7106,
+        0.3422,
+        0.1247,
+        0.0618
+      ],
+      "tail": [
+        0.773,
+        0.4321
+      ],
+      "text_key": "genesis.42.p10.b3"
+    },
+    {
+      "id": "GENESIS_42_P010_B004",
+      "panel": "GENESIS_42_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.45,
+        0.9089,
+        0.52,
+        0.0797
+      ],
+      "tail": [
+        0.71,
+        1
+      ],
+      "text_key": "genesis.42.p10.b4"
+    }
+  ]
+}

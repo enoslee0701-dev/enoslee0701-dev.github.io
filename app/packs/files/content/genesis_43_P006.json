@@ -1,0 +1,88 @@
+{
+  "id": "GENESIS_43_P006",
+  "book": "genesis",
+  "chapter": 43,
+  "page": 6,
+  "ref": "43:29",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_43_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_43_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3086
+      ],
+      "alt": {
+        "zh-CN": "约瑟举目看见他同母的兄弟便雅悯，就说：「你们向我所说那顶小的兄弟就是这位吗？」"
+      }
+    },
+    {
+      "id": "GENESIS_43_P006_F2",
+      "box": [
+        0,
+        0.3118,
+        1,
+        0.4225
+      ],
+      "alt": {
+        "zh-CN": "又说：「小儿啊，愿　神赐恩给你！」"
+      }
+    },
+    {
+      "id": "GENESIS_43_P006_F3",
+      "box": [
+        0,
+        0.7376,
+        1,
+        0.2624
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_43_P006_B001",
+      "panel": "GENESIS_43_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.0093,
+        0.5,
+        0.0678
+      ],
+      "tail": [
+        0.5,
+        0.108
+      ],
+      "text_key": "genesis.43.p6.b1"
+    },
+    {
+      "id": "GENESIS_43_P006_B002",
+      "panel": "GENESIS_43_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.55,
+        0.3203,
+        0.42,
+        0.0591
+      ],
+      "tail": [
+        0.76,
+        0.4217
+      ],
+      "text_key": "genesis.43.p6.b2"
+    }
+  ]
+}

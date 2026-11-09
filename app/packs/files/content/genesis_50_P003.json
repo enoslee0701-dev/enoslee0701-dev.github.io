@@ -1,0 +1,91 @@
+{
+  "id": "GENESIS_50_P003",
+  "book": "genesis",
+  "chapter": 50,
+  "page": 3,
+  "ref": "50:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_50_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_50_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.6178
+      ]
+    },
+    {
+      "id": "GENESIS_50_P003_F2",
+      "box": [
+        0,
+        0.6217,
+        0.4932,
+        0.3783
+      ]
+    },
+    {
+      "id": "GENESIS_50_P003_F3",
+      "box": [
+        0.5,
+        0.6217,
+        0.5,
+        0.3783
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_50_P003_B001",
+      "panel": "GENESIS_50_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0185,
+        0.47,
+        0.0988
+      ],
+      "tail": null,
+      "text_key": "genesis.50.p3.b1"
+    },
+    {
+      "id": "GENESIS_50_P003_B002",
+      "panel": "GENESIS_50_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0247,
+        0.633,
+        0.4438,
+        0.0983
+      ],
+      "tail": null,
+      "text_key": "genesis.50.p3.b2"
+    },
+    {
+      "id": "GENESIS_50_P003_B003",
+      "panel": "GENESIS_50_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.525,
+        0.633,
+        0.45,
+        0.0907
+      ],
+      "tail": null,
+      "text_key": "genesis.50.p3.b3"
+    }
+  ]
+}

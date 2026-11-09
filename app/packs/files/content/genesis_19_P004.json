@@ -1,0 +1,145 @@
+{
+  "id": "GENESIS_19_P004",
+  "book": "genesis",
+  "chapter": 19,
+  "page": 4,
+  "ref": "19:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_19_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_19_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3125
+      ],
+      "alt": {
+        "zh-CN": "二人对罗得说：「你这里还有什么人吗？无论是女婿是儿女，和这城中一切属你的人，你都要将他们从这地方带出去。我们要毁灭这地方；因为城内罪恶的声音在耶和华面前甚大，耶和华差我们来，要毁灭这地方。」"
+      }
+    },
+    {
+      "id": "GENESIS_19_P004_F2",
+      "box": [
+        0,
+        0.3164,
+        1,
+        0.1712
+      ],
+      "alt": {
+        "zh-CN": "罗得抓起提灯。"
+      }
+    },
+    {
+      "id": "GENESIS_19_P004_F3",
+      "box": [
+        0,
+        0.4915,
+        0.3184,
+        0.5085
+      ],
+      "alt": {
+        "zh-CN": "罗得就出去，告诉娶了他女儿的女婿们说："
+      }
+    },
+    {
+      "id": "GENESIS_19_P004_F4",
+      "box": [
+        0.3262,
+        0.4915,
+        0.6738,
+        0.5085
+      ],
+      "alt": {
+        "zh-CN": "「你们起来离开这地方，因为耶和华要毁灭这城。」他女婿们却以为他说的是戏言。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_19_P004_B013",
+      "panel": "GENESIS_19_P004_F1",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.0125,
+        0.47,
+        0.065
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p4.b13"
+    },
+    {
+      "id": "GENESIS_19_P004_B014",
+      "panel": "GENESIS_19_P004_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.0837,
+        0.47,
+        0.0225
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p4.b14"
+    },
+    {
+      "id": "GENESIS_19_P004_B015",
+      "panel": "GENESIS_19_P004_F3",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0159,
+        0.5068,
+        0.2865,
+        0.0813
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p4.b15"
+    },
+    {
+      "id": "GENESIS_19_P004_B016",
+      "panel": "GENESIS_19_P004_F4",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3464,
+        0.5068,
+        0.3369,
+        0.1017
+      ],
+      "tail": [
+        0.5149,
+        0.6594
+      ],
+      "text_key": "genesis.19.p4.b16"
+    },
+    {
+      "id": "GENESIS_19_P004_B017",
+      "panel": "GENESIS_19_P004_F4",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6766,
+        0.8983,
+        0.3032,
+        0.0813
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p4.b17"
+    }
+  ]
+}

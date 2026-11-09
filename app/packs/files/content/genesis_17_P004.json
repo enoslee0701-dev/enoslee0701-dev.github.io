@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_17_P004",
+  "book": "genesis",
+  "chapter": 17,
+  "page": 4,
+  "ref": "17:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_17_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_17_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "神又对亚伯拉罕说：「你的妻子撒莱不可再叫撒莱，她的名要叫撒拉。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P004_F2",
+      "box": [
+        0,
+        0.3366,
+        1,
+        0.235
+      ],
+      "alt": {
+        "zh-CN": "「我必赐福给她，也要使你从她得一个儿子。我要赐福给她，她也要作多国之母；必有百姓的君王从她而出。」"
+      }
+    },
+    {
+      "id": "GENESIS_17_P004_F3",
+      "box": [
+        0,
+        0.5755,
+        1,
+        0.4245
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕就俯伏在地喜笑，心里说：「一百岁的人还能得孩子吗？撒拉已经九十岁了，还能生养吗？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_17_P004_B012",
+      "panel": "GENESIS_17_P004_F1",
+      "order": 12,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3,
+        0.0133,
+        0.5,
+        0.0731
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p4.b12"
+    },
+    {
+      "id": "GENESIS_17_P004_B013",
+      "panel": "GENESIS_17_P004_F2",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.3484,
+        0.45,
+        0.094
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p4.b13"
+    },
+    {
+      "id": "GENESIS_17_P004_B014",
+      "panel": "GENESIS_17_P004_F3",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5882,
+        0.55,
+        0.0287
+      ],
+      "tail": null,
+      "text_key": "genesis.17.p4.b14"
+    },
+    {
+      "id": "GENESIS_17_P004_B015",
+      "panel": "GENESIS_17_P004_F3",
+      "order": 15,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.03,
+        0.6255,
+        0.55,
+        0.0646
+      ],
+      "tail": [
+        0.305,
+        0.7325
+      ],
+      "text_key": "genesis.17.p4.b15"
+    }
+  ]
+}

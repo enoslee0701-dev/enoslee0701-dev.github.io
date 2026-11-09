@@ -1,0 +1,102 @@
+{
+  "genesis.10.p1.b1": {
+    "text": "นี่​คือ​เรื่องราว​ของ​ลูก​ชาย​ทั้ง​สาม​ของ​โนอาห์​คือ เชม ฮาม และ​ยาเฟท ซึ่ง​มี​ลูก​หลาน​เกิด​มา​หลัง​น้ำ​ท่วม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b2": {
+    "text": "ลูกชาย​ของ​ยาเฟท​ได้แก่ โกเมอร์ มาโกก มาดัย ยาวาน ทูบัล เมเชค และ​ทิราส",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b3": {
+    "text": "(“จาก​คน​เหล่า​นี้ ชาว​ทะเล​กระจาย​ไป​ใน​ดินแดน​ต่าง​ๆ ของ​เขา ต่าง​มี​ภาษา​ของ​ตนเอง ตาม​ตระกูล ตาม​ชนชาติ​ของ​เขา”)",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b4": {
+    "text": "ลูกชาย​ของ​ฮาม​ได้แก่ คูช อียิปต์ พูต และ​คานาอัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b5": {
+    "text": "… เป็น​นายพราน​เก่งกาจ​ต่อหน้า​พระยาห์เวห์​เหมือน​นิมโรด …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b6": {
+    "text": "ศูนย์​กลาง​อาณาจักร​แรก​ๆ ของ​นิมโรด​เริ่ม​จาก บาบิโลน เอเรก อัคคัด และ​คาลเนห์​ใน​ดินแดน​ชินาร์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b7": {
+    "text": "… ต่อมา​คน​ใน​ตระกูล​คานาอัน​ก็​กระจาย​ออก​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b8": {
+    "text": "เชม​ซึ่ง​มี​พี่ชาย​คือ​ยาเฟท​ก็​มี​ลูก​หลาย​คน เชม​เป็น​บรรพบุรุษ​ของ​เอเบอร์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b9": {
+    "text": "เอเบอร์​มี​ลูกชาย​สอง​คน ได้แก่ เปเลก เพราะ​โลก​ถูก​แบ่ง​แยก​ใน​สมัย​ของ​เขา …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b10": {
+    "text": "ทั้งหมด​นี้​คือ​ตระกูล​ของ​ลูก​ชาย​โนอาห์ ตาม​เชื้อสาย​ใน​ชนชาติ​ของ​พวก​เขา และ​จาก​คน​เหล่า​นี้​เอง ชนชาติ​ต่าง​ๆ จึง​กระจาย​กัน​ไป​ทั่ว​โลก​หลังจาก​น้ำ​ท่วม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

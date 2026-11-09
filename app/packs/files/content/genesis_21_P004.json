@@ -1,0 +1,85 @@
+{
+  "id": "GENESIS_21_P004",
+  "book": "genesis",
+  "chapter": 21,
+  "page": 4,
+  "ref": "21:14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_21_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_21_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕清早起来，拿饼和一皮袋水，给了夏甲，搭在她的肩上，又把孩子交给她，打发她走。"
+      }
+    },
+    {
+      "id": "GENESIS_21_P004_F2",
+      "box": [
+        0,
+        0.4466,
+        1,
+        0.1576
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕的手从皮袋带子上松开。"
+      }
+    },
+    {
+      "id": "GENESIS_21_P004_F3",
+      "box": [
+        0,
+        0.6081,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "夏甲就走了，在别是巴的旷野走迷了路。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_21_P004_B013",
+      "panel": "GENESIS_21_P004_F1",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0133,
+        0.9,
+        0.0796
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p4.b13"
+    },
+    {
+      "id": "GENESIS_21_P004_B014",
+      "panel": "GENESIS_21_P004_F3",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.6199,
+        0.55,
+        0.0509
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p4.b14"
+    }
+  ]
+}

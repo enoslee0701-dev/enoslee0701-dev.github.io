@@ -1,0 +1,82 @@
+{
+  "id": "GENESIS_06_P004",
+  "book": "genesis",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "你要用歌斐木造一只方舟，分一间一间地造，里外抹上松香。闪和含在山坡林子里拉锯放倒大树。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P004_F2",
+      "box": [
+        0,
+        0.2858,
+        0.626,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "挪亚和雅弗把长木料扛上坡。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P004_F3",
+      "box": [
+        0.6309,
+        0.2858,
+        0.3691,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "挪亚的妻子在陶缸里熬黑松香。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P004_F4",
+      "box": [
+        0,
+        0.7702,
+        1,
+        0.2298
+      ],
+      "alt": {
+        "zh-CN": "三个儿媳把松香抹上木板。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_06_P004_B013",
+      "panel": "GENESIS_06_P004_F1",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0113,
+        0.42,
+        0.0734
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p4.b13"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "GENESIS_27_P002",
+  "book": "genesis",
+  "chapter": 27,
+  "page": 2,
+  "ref": "27:6-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_27_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_27_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1999
+      ],
+      "alt": {
+        "zh-CN": "利百加侧着耳朵贴在以撒帐棚的门帘缝外，眯着眼听。"
+      }
+    },
+    {
+      "id": "GENESIS_27_P002_F2",
+      "box": [
+        0,
+        0.2031,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "利百加就对她儿子雅各说：「我听见你父亲对你哥哥以扫说：『你去把野兽带来，做成美味给我吃，我好在未死之先，在耶和华面前给你祝福。』"
+      }
+    },
+    {
+      "id": "GENESIS_27_P002_F3",
+      "box": [
+        0,
+        0.6484,
+        0.5088,
+        0.3516
+      ],
+      "alt": {
+        "zh-CN": "现在，我儿，你要照着我所吩咐你的，听从我的话。"
+      }
+    },
+    {
+      "id": "GENESIS_27_P002_F4",
+      "box": [
+        0.5146,
+        0.6484,
+        0.4854,
+        0.3516
+      ],
+      "alt": {
+        "zh-CN": "你到羊群里去，给我拿两只肥山羊羔来，我便照你父亲所爱的给他做成美味。你拿到你父亲那里给他吃，使他在未死之先给你祝福。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_27_P002_B007",
+      "panel": "GENESIS_27_P002_F2",
+      "order": 7,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.42,
+        0.212,
+        0.56,
+        0.0575
+      ],
+      "tail": [
+        0.7,
+        0.3138
+      ],
+      "text_key": "genesis.27.p2.b7"
+    },
+    {
+      "id": "GENESIS_27_P002_B008",
+      "panel": "GENESIS_27_P002_F3",
+      "order": 8,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0204,
+        0.6589,
+        0.468,
+        0.0773
+      ],
+      "tail": [
+        0.2544,
+        0.7714
+      ],
+      "text_key": "genesis.27.p2.b8"
+    },
+    {
+      "id": "GENESIS_27_P002_B009",
+      "panel": "GENESIS_27_P002_F4",
+      "order": 9,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5292,
+        0.6589,
+        0.1844,
+        0.0703
+      ],
+      "tail": [
+        0.5146,
+        0.7644
+      ],
+      "text_key": "genesis.27.p2.b9"
+    }
+  ]
+}

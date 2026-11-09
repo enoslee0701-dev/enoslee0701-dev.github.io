@@ -1,0 +1,302 @@
+{
+  "genesis.1.p1.b1": {
+    "text": "はじめに神は天と地とを創造された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p1.b2": {
+    "text": "地は形なく、むなしく、やみが淵のおもてにあり、神の霊が水のおもてをおおっていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p2.b3": {
+    "text": "光あれ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p2.b4": {
+    "text": "すると光があった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p2.b5": {
+    "text": "神はその光を見て、良しとされた。神はその光とやみとを分けられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p2.b6": {
+    "text": "夕となり、また朝となった。第一日である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p3.b7": {
+    "text": "水の間におおぞらがあって、水と水とを分けよ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p3.b8": {
+    "text": "神はおおぞらを造って、おおぞらの下の水とおおぞらの上の水とを分けられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p3.b9": {
+    "text": "夕となり、また朝となった。第二日である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p4.b10": {
+    "text": "天の下の水は一つ所に集まり、かわいた地が現れよ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p4.b11": {
+    "text": "神はそのかわいた地を陸と名づけ、水の集まった所を海と名づけられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p4.b12": {
+    "text": "地は青草と、種類にしたがって種をもつ草と、種類にしたがって種のある実を結ぶ木とをはえさせた。神は見て、良しとされた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p4.b13": {
+    "text": "夕となり、また朝となった。第三日である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p5.b14": {
+    "text": "天のおおぞらに光があって昼と夜とを分け、しるしのため、季節のため、日のため、年のためになり…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p5.b15": {
+    "text": "神は二つの大きな光を造り、大きい光に昼をつかさどらせ、小さい光に夜をつかさどらせ、また星を造られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p5.b16": {
+    "text": "昼と夜とをつかさどらせ、光とやみとを分けさせられた。神は見て、良しとされた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p5.b17": {
+    "text": "夕となり、また朝となった。第四日である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p6.b18": {
+    "text": "水は生き物の群れで満ち、鳥は地の上、天のおおぞらを飛べ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p6.b19": {
+    "text": "神は海の大いなる獣と、水に群がるすべての動く生き物とを、種類にしたがって創造し、また翼のあるすべての鳥を、種類にしたがって創造された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p6.b20": {
+    "text": "生めよ、ふえよ、海の水に満ちよ、また鳥は地にふえよ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p6.b21": {
+    "text": "夕となり、また朝となった。第五日である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p7.b22": {
+    "text": "地は生き物を種類にしたがっていだせ。家畜と、這うものと、地の獣とを種類にしたがっていだせ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p7.b23": {
+    "text": "神は地の獣を種類にしたがい、家畜を種類にしたがい、また地に這うすべての物を種類にしたがって造られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p7.b24": {
+    "text": "神は見て、良しとされた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p8.b25": {
+    "text": "われわれのかたちに、われわれにかたどって人を造り…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p8.b26": {
+    "text": "神は自分のかたちに人を創造された。すなわち、神のかたちに創造し、男と女とに創造された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p8.b27": {
+    "text": "生めよ、ふえよ、地に満ちよ、地を従わせよ…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p9.b28": {
+    "text": "わたしは全地のおもてにある種をもつすべての草と、種のある実を結ぶすべての木とをあなたがたに与える。これはあなたがたの食物となるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p9.b29": {
+    "text": "神が造ったすべての物を見られたところ、それは、はなはだ良かった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.1.p9.b30": {
+    "text": "夕となり、また朝となった。第六日である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 1:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

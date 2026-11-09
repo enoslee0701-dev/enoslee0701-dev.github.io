@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_41_P011",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 11,
+  "ref": "41:45-49",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "法老赐名给约瑟，叫撒发那忒·巴内亚，又将安城的祭司波提非拉的女儿亚西纳给他为妻。约瑟就出去巡行埃及地。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P011_F2",
+      "box": [
+        0,
+        0.3262,
+        0.4932,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "约瑟见埃及王法老的时候年三十岁。他从法老面前出去，遍行埃及全地。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P011_F3",
+      "box": [
+        0.5,
+        0.3262,
+        0.5,
+        0.2487
+      ],
+      "alt": {
+        "zh-CN": "七个丰年之内，地的出产极丰极盛，约瑟聚敛埃及地七个丰年一切的粮食，把粮食积存在各城里；各城周围田地的粮食都积存在本城里。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P011_F4",
+      "box": [
+        0,
+        0.5781,
+        1,
+        0.4219
+      ],
+      "alt": {
+        "zh-CN": "约瑟积蓄五谷甚多，如同海边的沙，无法计算，因为谷不可胜数。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P011_B001",
+      "panel": "GENESIS_41_P011_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0097,
+        0.94,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p11.b1"
+    },
+    {
+      "id": "GENESIS_41_P011_B002",
+      "panel": "GENESIS_41_P011_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0197,
+        0.3337,
+        0.4537,
+        0.0497
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p11.b2"
+    },
+    {
+      "id": "GENESIS_41_P011_B003",
+      "panel": "GENESIS_41_P011_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.3337,
+        0.46,
+        0.0497
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p11.b3"
+    },
+    {
+      "id": "GENESIS_41_P011_B004",
+      "panel": "GENESIS_41_P011_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5908,
+        0.47,
+        0.0759
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p11.b4"
+    }
+  ]
+}

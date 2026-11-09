@@ -1,0 +1,151 @@
+{
+  "id": "GENESIS_42_P004",
+  "book": "genesis",
+  "chapter": 42,
+  "page": 4,
+  "ref": "42:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_42_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_42_P004_F1",
+      "box": [
+        0.0068,
+        0.0039,
+        0.9863,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "到第三天，"
+      }
+    },
+    {
+      "id": "GENESIS_42_P004_F2",
+      "box": [
+        0.0068,
+        0.2474,
+        0.4268,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "约瑟对他们说：「我是敬畏神的；你们照我的话行就可以存活。"
+      }
+    },
+    {
+      "id": "GENESIS_42_P004_F3",
+      "box": [
+        0.4395,
+        0.2474,
+        0.5537,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "你们如果是诚实人，可以留你们中间的一个人囚在监里，但你们可以带着粮食回去，救你们家里的饥荒。"
+      }
+    },
+    {
+      "id": "GENESIS_42_P004_F4",
+      "box": [
+        0.0068,
+        0.5964,
+        0.9863,
+        0.3991
+      ],
+      "alt": {
+        "zh-CN": "把你们的小兄弟带到我这里来，如此，你们的话便有证据，你们也不至于死。」他们就照样而行。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_42_P004_B001",
+      "panel": "GENESIS_42_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0364,
+        0.0087,
+        0.4142,
+        0.0335
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p4.b1"
+    },
+    {
+      "id": "GENESIS_42_P004_B002",
+      "panel": "GENESIS_42_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2415,
+        0.2543,
+        0.1792,
+        0.0691
+      ],
+      "tail": [
+        0.3311,
+        0.358
+      ],
+      "text_key": "genesis.42.p4.b2"
+    },
+    {
+      "id": "GENESIS_42_P004_B003",
+      "panel": "GENESIS_42_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4616,
+        0.517,
+        0.5094,
+        0.0656
+      ],
+      "tail": [
+        0.7163,
+        0.5931
+      ],
+      "text_key": "genesis.42.p4.b3"
+    },
+    {
+      "id": "GENESIS_42_P004_B004",
+      "panel": "GENESIS_42_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5493,
+        0.6084,
+        0.4142,
+        0.0718
+      ],
+      "tail": [
+        0.7564,
+        0.7201
+      ],
+      "text_key": "genesis.42.p4.b4"
+    },
+    {
+      "id": "GENESIS_42_P004_B005",
+      "panel": "GENESIS_42_P004_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0364,
+        0.9356,
+        0.4931,
+        0.0478
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p4.b5"
+    }
+  ]
+}

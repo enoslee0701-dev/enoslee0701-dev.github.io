@@ -1,0 +1,157 @@
+{
+  "id": "GENESIS_27_P004",
+  "book": "genesis",
+  "chapter": 27,
+  "page": 4,
+  "ref": "27:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_27_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_27_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.319
+      ],
+      "alt": {
+        "zh-CN": "雅各到他父亲那里说：「我父亲！」他说：「我在这里。我儿，你是谁？」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P004_F2",
+      "box": [
+        0,
+        0.3223,
+        0.5098,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "雅各对他父亲说：「我是你的长子以扫；我已照你所吩咐我的行了。请起来坐着，吃我的野味，好给我祝福。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P004_F3",
+      "box": [
+        0.5156,
+        0.3223,
+        0.4844,
+        0.3529
+      ],
+      "alt": {
+        "zh-CN": "以撒对他儿子说：「我儿，你如何找得这么快呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P004_F4",
+      "box": [
+        0,
+        0.679,
+        1,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "他说：「因为耶和华—你的　神使我遇见好机会得着的。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_27_P004_B014",
+      "panel": "GENESIS_27_P004_F1",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.0096,
+        0.18,
+        0.0382
+      ],
+      "tail": [
+        0.45,
+        0.0797
+      ],
+      "text_key": "genesis.27.p4.b14"
+    },
+    {
+      "id": "GENESIS_27_P004_B015",
+      "panel": "GENESIS_27_P004_F1",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0096,
+        0.41,
+        0.0638
+      ],
+      "tail": [
+        0.765,
+        0.1053
+      ],
+      "text_key": "genesis.27.p4.b15"
+    },
+    {
+      "id": "GENESIS_27_P004_B016",
+      "panel": "GENESIS_27_P004_F2",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2855,
+        0.3329,
+        0.2141,
+        0.0705
+      ],
+      "tail": [
+        0.3925,
+        0.4387
+      ],
+      "text_key": "genesis.27.p4.b16"
+    },
+    {
+      "id": "GENESIS_27_P004_B017",
+      "panel": "GENESIS_27_P004_F3",
+      "order": 17,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5301,
+        0.3329,
+        0.1453,
+        0.0564
+      ],
+      "tail": [
+        0.6028,
+        0.4246
+      ],
+      "text_key": "genesis.27.p4.b17"
+    },
+    {
+      "id": "GENESIS_27_P004_B018",
+      "panel": "GENESIS_27_P004_F4",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6918,
+        0.4,
+        0.0706
+      ],
+      "tail": [
+        0.23,
+        0.7945
+      ],
+      "text_key": "genesis.27.p4.b18"
+    }
+  ]
+}

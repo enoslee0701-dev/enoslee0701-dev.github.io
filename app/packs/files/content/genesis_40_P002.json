@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_40_P002",
+  "book": "genesis",
+  "chapter": 40,
+  "page": 2,
+  "ref": "40:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_40_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_40_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "被囚在监之埃及王的酒政和膳长二人同夜各做一梦，各梦都有讲解。"
+      }
+    },
+    {
+      "id": "GENESIS_40_P002_F2",
+      "box": [
+        0,
+        0.2539,
+        0.4971,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "到了早晨，约瑟进到他们那里，见他们有愁闷的样子。他便问法老的二臣，就是与他同囚在他主人府里的，说：「你们今日为什么面带愁容呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_40_P002_F3",
+      "box": [
+        0.5039,
+        0.2539,
+        0.4961,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "他们对他说：「我们各人做了一梦，没有人能解。」"
+      }
+    },
+    {
+      "id": "GENESIS_40_P002_F4",
+      "box": [
+        0,
+        0.5579,
+        1,
+        0.4421
+      ],
+      "alt": {
+        "zh-CN": "约瑟说：「解梦不是出于　神吗？请你们将梦告诉我。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_40_P002_B001",
+      "panel": "GENESIS_40_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.0075,
+        0.24,
+        0.1002
+      ],
+      "tail": null,
+      "text_key": "genesis.40.p2.b1"
+    },
+    {
+      "id": "GENESIS_40_P002_B002",
+      "panel": "GENESIS_40_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.2629,
+        0.2734,
+        0.0541
+      ],
+      "tail": [
+        0.1566,
+        0.3471
+      ],
+      "text_key": "genesis.40.p2.b2"
+    },
+    {
+      "id": "GENESIS_40_P002_B003",
+      "panel": "GENESIS_40_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7271,
+        0.2629,
+        0.2579,
+        0.0391
+      ],
+      "tail": [
+        0.8561,
+        0.3321
+      ],
+      "text_key": "genesis.40.p2.b3"
+    },
+    {
+      "id": "GENESIS_40_P002_B004",
+      "panel": "GENESIS_40_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.5756,
+        0.35,
+        0.1326
+      ],
+      "tail": [
+        0.795,
+        0.7524
+      ],
+      "text_key": "genesis.40.p2.b4"
+    }
+  ]
+}

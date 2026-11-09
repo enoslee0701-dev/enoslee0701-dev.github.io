@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_13_P005",
+  "book": "genesis",
+  "chapter": 13,
+  "page": 5,
+  "ref": "13:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_13_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_13_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2005
+      ],
+      "alt": {
+        "zh-CN": "罗得离别亚伯兰以后，耶和华对亚伯兰说：「从你所在的地方，你举目向东西南北观看；」"
+      }
+    },
+    {
+      "id": "GENESIS_13_P005_F2",
+      "box": [
+        0,
+        0.2044,
+        0.3164,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "「凡你所看见的一切地，我都要赐给你和你的后裔，直到永远。」"
+      }
+    },
+    {
+      "id": "GENESIS_13_P005_F3",
+      "box": [
+        0.3242,
+        0.2044,
+        0.6758,
+        0.4818
+      ],
+      "alt": {
+        "zh-CN": "「我也要使你的后裔如同地上的尘沙那样多，人若能数算地上的尘沙才能数算你的后裔。你起来，纵横走遍这地，因为我必把这地赐给你。」亚伯兰抓起一把尘土。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P005_F4",
+      "box": [
+        0,
+        0.6908,
+        1,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰就搬了帐棚，来到希伯仑、幔利的橡树那里居住，在那里为耶和华筑了一座坛。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_13_P005_B014",
+      "panel": "GENESIS_13_P005_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.56,
+        0.01,
+        0.41,
+        0.0601
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p5.b14"
+    },
+    {
+      "id": "GENESIS_13_P005_B015",
+      "panel": "GENESIS_13_P005_F2",
+      "order": 15,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0127,
+        0.2237,
+        0.291,
+        0.1156
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p5.b15"
+    },
+    {
+      "id": "GENESIS_13_P005_B016",
+      "panel": "GENESIS_13_P005_F3",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.7026,
+        0.2237,
+        0.277,
+        0.1059
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p5.b16"
+    },
+    {
+      "id": "GENESIS_13_P005_B017",
+      "panel": "GENESIS_13_P005_F4",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9443,
+        0.33,
+        0.0463
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p5.b17"
+    }
+  ]
+}

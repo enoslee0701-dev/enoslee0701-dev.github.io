@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_47_P004",
+  "book": "genesis",
+  "chapter": 47,
+  "page": 4,
+  "ref": "47:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_47_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_47_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2318
+      ]
+    },
+    {
+      "id": "GENESIS_47_P004_F2",
+      "box": [
+        0,
+        0.2363,
+        1,
+        0.2188
+      ],
+      "alt": {
+        "zh-CN": "约瑟说：「若是银子用尽了，可以把你们的牲畜给我，我就为你们的牲畜给你们粮食。」于是他们把牲畜赶到约瑟那里，约瑟就拿粮食换了他们的牛、羊、驴、马；那一年因换他们一切的牲畜，就用粮食养活他们。"
+      }
+    },
+    {
+      "id": "GENESIS_47_P004_F3",
+      "box": [
+        0,
+        0.4596,
+        1,
+        0.1517
+      ]
+    },
+    {
+      "id": "GENESIS_47_P004_F4",
+      "box": [
+        0,
+        0.6159,
+        1,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "那一年过去，第二年他们又来见约瑟，说：「我们不瞒我主，我们的银子都花尽了，牲畜也都归了我主。我们在我主眼前，除了我们的身体和田地之外，一无所剩。你何忍见我们人死地荒呢？求你用粮食买我们和我们的地，我们和我们的地就要给法老效力。又求你给我们种子，使我们得以存活，不至死亡，地土也不至荒凉。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_47_P004_B001",
+      "panel": "GENESIS_47_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.48,
+        0.007,
+        0.49,
+        0.0509
+      ],
+      "tail": [
+        0.725,
+        0.0811
+      ],
+      "text_key": "genesis.47.p4.b1"
+    },
+    {
+      "id": "GENESIS_47_P004_B002",
+      "panel": "GENESIS_47_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.2429,
+        0.52,
+        0.0393
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p4.b2"
+    },
+    {
+      "id": "GENESIS_47_P004_B003",
+      "panel": "GENESIS_47_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.6274,
+        0.55,
+        0.0845
+      ],
+      "tail": [
+        0.305,
+        0.7503
+      ],
+      "text_key": "genesis.47.p4.b3"
+    }
+  ]
+}

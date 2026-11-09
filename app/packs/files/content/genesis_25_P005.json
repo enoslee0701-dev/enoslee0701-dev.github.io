@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_25_P005",
+  "book": "genesis",
+  "chapter": 25,
+  "page": 5,
+  "ref": "25:24-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_25_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_25_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "生产的日子到了，腹中果然是双子。先产的身体发红，浑身有毛，如同皮衣，他们就给他起名叫以扫。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P005_F2",
+      "box": [
+        0,
+        0.3314,
+        1,
+        0.334
+      ],
+      "alt": {
+        "zh-CN": "随后又生了以扫的兄弟，手抓住以扫的脚跟，因此给他起名叫雅各。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P005_F3",
+      "box": [
+        0,
+        0.6693,
+        1,
+        0.3307
+      ],
+      "alt": {
+        "zh-CN": "利百加生下两个儿子的时候，以撒年正六十岁。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_25_P005_B017",
+      "panel": "GENESIS_25_P005_F1",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0098,
+        0.45,
+        0.0718
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p5.b17"
+    },
+    {
+      "id": "GENESIS_25_P005_B018",
+      "panel": "GENESIS_25_P005_F2",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5986,
+        0.55,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p5.b18"
+    },
+    {
+      "id": "GENESIS_25_P005_B019",
+      "panel": "GENESIS_25_P005_F3",
+      "order": 19,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.6792,
+        0.4,
+        0.0727
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p5.b19"
+    }
+  ]
+}

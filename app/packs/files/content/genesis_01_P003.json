@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_01_P003",
+  "book": "genesis",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "神说：「众水之间要有穹苍，把水上下分开。」"
+      }
+    },
+    {
+      "id": "GENESIS_01_P003_F2",
+      "box": [
+        0,
+        0.2988,
+        1,
+        0.7012
+      ],
+      "alt": {
+        "zh-CN": "神造了穹苍，把穹苍以下的水和穹苍以上的水分开了。"
+      }
+    },
+    {
+      "id": "GENESIS_01_P003_F3",
+      "box": [
+        0.5038,
+        0.7875,
+        0.4962,
+        0.2125
+      ],
+      "alt": {
+        "zh-CN": "有晚上，有早晨，是第二天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_01_P003_B007",
+      "panel": "GENESIS_01_P003_F1",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.0147,
+        0.36,
+        0.0648
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p3.b7"
+    },
+    {
+      "id": "GENESIS_01_P003_B008",
+      "panel": "GENESIS_01_P003_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5933,
+        0.4,
+        0.1121
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p3.b8"
+    },
+    {
+      "id": "GENESIS_01_P003_B009",
+      "panel": "GENESIS_01_P003_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5832,
+        0.9405,
+        0.3274,
+        0.0467
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p3.b9"
+    }
+  ]
+}

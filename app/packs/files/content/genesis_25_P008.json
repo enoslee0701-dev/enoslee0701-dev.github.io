@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_25_P008",
+  "book": "genesis",
+  "chapter": 25,
+  "page": 8,
+  "ref": "25:32-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_25_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_25_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "以扫说：「我将要死，这长子的名分于我有什么益处呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_25_P008_F2",
+      "box": [
+        0,
+        0.2858,
+        0.4873,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「你今日对我起誓吧。」"
+      }
+    },
+    {
+      "id": "GENESIS_25_P008_F3",
+      "box": [
+        0.4951,
+        0.2858,
+        0.5049,
+        0.2845
+      ],
+      "alt": {
+        "zh-CN": "以扫就对他起了誓，把长子的名分卖给雅各。于是雅各将饼和红豆汤给了以扫，"
+      }
+    },
+    {
+      "id": "GENESIS_25_P008_F4",
+      "box": [
+        0,
+        0.5749,
+        1,
+        0.4251
+      ],
+      "alt": {
+        "zh-CN": "以扫吃了喝了，便起来走了。这就是以扫轻看了他长子的名分。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_25_P008_B026",
+      "panel": "GENESIS_25_P008_F1",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0084,
+        0.47,
+        0.0701
+      ],
+      "tail": [
+        0.735,
+        0.1066
+      ],
+      "text_key": "genesis.25.p8.b26"
+    },
+    {
+      "id": "GENESIS_25_P008_B027",
+      "panel": "GENESIS_25_P008_F2",
+      "order": 27,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.268,
+        0.5134,
+        0.2046,
+        0.0483
+      ],
+      "tail": [
+        0.3703,
+        0.5703
+      ],
+      "text_key": "genesis.25.p8.b27"
+    },
+    {
+      "id": "GENESIS_25_P008_B028",
+      "panel": "GENESIS_25_P008_F3",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7223,
+        0.5077,
+        0.2625,
+        0.054
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p8.b28"
+    },
+    {
+      "id": "GENESIS_25_P008_B029",
+      "panel": "GENESIS_25_P008_F4",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5877,
+        0.55,
+        0.085
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p8.b29"
+    }
+  ]
+}

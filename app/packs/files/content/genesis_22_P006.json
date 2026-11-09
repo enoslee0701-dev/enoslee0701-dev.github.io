@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_22_P006",
+  "book": "genesis",
+  "chapter": 22,
+  "page": 6,
+  "ref": "22:11-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_22_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_22_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "耶和华的使者从天上呼叫他说：「亚伯拉罕！亚伯拉罕！」他说：「我在这里。」"
+      }
+    },
+    {
+      "id": "GENESIS_22_P006_F2",
+      "box": [
+        0,
+        0.3158,
+        0.2998,
+        0.4173
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕手里的刀落了下来。"
+      }
+    },
+    {
+      "id": "GENESIS_22_P006_F3",
+      "box": [
+        0.3066,
+        0.3158,
+        0.6934,
+        0.6842
+      ],
+      "alt": {
+        "zh-CN": "天使说：「你不可在这童子身上下手。一点不可害他！现在我知道你是敬畏神的了；因为你没有将你的儿子，就是你独生的儿子，留下不给我。」"
+      }
+    },
+    {
+      "id": "GENESIS_22_P006_F4",
+      "box": [
+        0,
+        0.7376,
+        0.2998,
+        0.2624
+      ],
+      "alt": {
+        "zh-CN": "刀落在地上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_22_P006_B014",
+      "panel": "GENESIS_22_P006_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.0124,
+        0.46,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p6.b14"
+    },
+    {
+      "id": "GENESIS_22_P006_B015",
+      "panel": "GENESIS_22_P006_F1",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0768,
+        0.46,
+        0.029
+      ],
+      "tail": [
+        0.73,
+        0.1369
+      ],
+      "text_key": "genesis.22.p6.b15"
+    },
+    {
+      "id": "GENESIS_22_P006_B016",
+      "panel": "GENESIS_22_P006_F3",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3274,
+        0.3363,
+        0.6517,
+        0.0957
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p6.b16"
+    }
+  ]
+}

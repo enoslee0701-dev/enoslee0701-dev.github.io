@@ -1,0 +1,302 @@
+{
+  "genesis.45.p1.b1": {
+    "text": "人は皆ここから出てください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p1.b2": {
+    "text": "そこでヨセフはそばに立っているすべての人の前で、自分を制しきれなくなったので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p1.b3": {
+    "text": "それゆえヨセフが兄弟たちに自分のことを明かした時、ひとりも彼のそばに立っている者はなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p1.b4": {
+    "text": "ヨセフは声をあげて泣いた。エジプトびとはこれを聞き、パロの家もこれを聞いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p2.b1": {
+    "text": "わたしはヨセフです。父はまだ生きながらえていますか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p2.b2": {
+    "text": "兄弟たちは答えることができなかった。彼らは驚き恐れたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p3.b1": {
+    "text": "わたしに近寄ってください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p3.b2": {
+    "text": "わたしはあなたがたの弟ヨセフです。あなたがたがエジプトに売った者です。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p3.b3": {
+    "text": "しかしわたしをここに売ったのを嘆くことも、悔むこともいりません。神は命を救うために、あなたがたよりさきにわたしをつかわされたのです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p3.b4": {
+    "text": "それゆえわたしをここにつかわしたのはあなたがたではなく、神です。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p4.b1": {
+    "text": "あなたがたは父のもとに急ぎ上って言いなさい、『あなたの子ヨセフが、こう言いました。神がわたしをエジプト全国の主とされたから、ためらわずにわたしの所へ下ってきなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p4.b2": {
+    "text": "あなたはゴセンの地に住み、あなたも、あなたの子らも、孫たちも、羊も牛も、その他のものもみな、わたしの近くにおらせます。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p4.b3": {
+    "text": "あなたがたと弟ベニヤミンが目に見るとおり、あなたがたに口ら語っているのはこのわたしです。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p4.b4": {
+    "text": "急いでわたしの父をここへ連れ下りなさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p5.b1": {
+    "text": "そしてヨセフは弟ベニヤミンのくびを抱いて泣き、ベニヤミンも彼のくびを抱いて泣いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p5.b2": {
+    "text": "またヨセフはすべての兄弟たちに口づけし、彼らを抱いて泣いた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p5.b3": {
+    "text": "そして後、兄弟たちは彼と語った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p6.b1": {
+    "text": "時に、「ヨセフの兄弟たちがきた」と言ううわさがパロの家に聞えたので、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p6.b2": {
+    "text": "パロとその家来たちとは喜んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p6.b3": {
+    "text": "幼な子たちと妻たちのためにエジプトの地から車をもって行き、父を連れてきなさい。 … エジプト全国の良い物は、あなたがたのものだからです",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:19-20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p7.b1": {
+    "text": "イスラエルの子らはそのようにした。ヨセフはパロの命に従って彼らに車を与え、また途中の食料をも与えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p7.b2": {
+    "text": "まためいめいに晴着を与えたが、ベニヤミンには銀三百シケルと晴着五着とを与えた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p7.b3": {
+    "text": "また彼は父に次のようなものを贈った。すなわちエジプトの良い物を負わせたろば十頭と、穀物、パン及び父の道中の食料を負わせた雌ろば十頭。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p7.b4": {
+    "text": "途中で争ってはなりません",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p8.b1": {
+    "text": "彼らはエジプトから上ってカナンの地に入り、父ヤコブのもとへ行って、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p8.b2": {
+    "text": "ヨセフはなお生きていてエジプト全国のつかさです",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p8.b3": {
+    "text": "ヤコブは気が遠くなった。彼らの言うことが信じられなかったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p9.b1": {
+    "text": "そこで彼らはヨセフが語った言葉を残らず彼に告げた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p9.b2": {
+    "text": "父ヤコブはヨセフが自分を乗せるために送った車を見て元気づいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.45.p9.b3": {
+    "text": "満足だ。わが子ヨセフがまだ生きている。わたしは死ぬ前に行って彼を見よう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 45:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

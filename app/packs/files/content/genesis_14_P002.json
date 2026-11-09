@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_14_P002",
+  "book": "genesis",
+  "chapter": 14,
+  "page": 2,
+  "ref": "14:8-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_14_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_14_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "于是所多玛王、蛾摩拉王、押玛王、洗扁王，和比拉王都出来，在西订谷摆阵，与基大老玛等四王交战；乃是四王与五王交战。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P002_F2",
+      "box": [
+        0,
+        0.2871,
+        1,
+        0.4342
+      ],
+      "alt": {
+        "zh-CN": "西订谷有许多石漆坑。所多玛王和蛾摩拉王逃跑，有掉在坑里的，其余的人都往山上逃跑。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P002_F3",
+      "box": [
+        0,
+        0.7253,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "四王就把所多玛和蛾摩拉所有的财物，并一切的粮食都掳掠去了；又把亚伯兰的侄儿罗得和罗得的财物掳掠去了。当时罗得正住在所多玛。罗得在被掳的队伍里回头望。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_14_P002_B005",
+      "panel": "GENESIS_14_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0113,
+        0.4,
+        0.0736
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p2.b5"
+    },
+    {
+      "id": "GENESIS_14_P002_B006",
+      "panel": "GENESIS_14_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.3045,
+        0.39,
+        0.0868
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p2.b6"
+    },
+    {
+      "id": "GENESIS_14_P002_B007",
+      "panel": "GENESIS_14_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7363,
+        0.42,
+        0.0659
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p2.b7"
+    }
+  ]
+}

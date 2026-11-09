@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_13_P002",
+  "book": "genesis",
+  "chapter": 13,
+  "page": 2,
+  "ref": "13:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_13_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_13_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "与亚伯兰同行的罗得也有牛群、羊群、帐棚。那地容不下他们；因为他们的财物甚多，使他们不能同居。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P002_F2",
+      "box": [
+        0,
+        0.2233,
+        1,
+        0.5169
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰的牧人和罗得的牧人在井边相争。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P002_F3",
+      "box": [
+        0,
+        0.7435,
+        1,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "当时，迦南人与比利洗人在那地居住。亚伯兰和罗得各自站在帐棚口，远远看着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_13_P002_B004",
+      "panel": "GENESIS_13_P002_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.28,
+        0.0088,
+        0.44,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p2.b4"
+    },
+    {
+      "id": "GENESIS_13_P002_B005",
+      "panel": "GENESIS_13_P002_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.244,
+        0.3,
+        0.0827
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p2.b5"
+    },
+    {
+      "id": "GENESIS_13_P002_B006",
+      "panel": "GENESIS_13_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.18,
+        0.7512,
+        0.36,
+        0.0513
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p2.b6"
+    }
+  ]
+}

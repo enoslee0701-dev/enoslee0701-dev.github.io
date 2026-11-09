@@ -1,0 +1,85 @@
+{
+  "id": "GENESIS_02_P002",
+  "book": "genesis",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2943
+      ],
+      "alt": {
+        "zh-CN": "野地还没有草木；有雾气从地上腾，滋润遍地。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P002_F2",
+      "box": [
+        0,
+        0.2995,
+        1,
+        0.7005
+      ],
+      "alt": {
+        "zh-CN": "耶和华神用地上的尘土造人，将生气吹在他鼻孔里，他就成了有灵的活人，名叫亚当。"
+      }
+    },
+    {
+      "id": "GENESIS_02_P002_F3",
+      "box": [
+        0.56,
+        0.781,
+        0.44,
+        0.219
+      ],
+      "alt": {
+        "zh-CN": "他第一次睁开眼睛。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_02_P002_B004",
+      "panel": "GENESIS_02_P002_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0177,
+        0.56,
+        0.0882
+      ],
+      "tail": null,
+      "text_key": "genesis.2.p2.b4"
+    },
+    {
+      "id": "GENESIS_02_P002_B005",
+      "panel": "GENESIS_02_P002_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.3275,
+        0.42,
+        0.1401
+      ],
+      "tail": null,
+      "text_key": "genesis.2.p2.b5"
+    }
+  ]
+}

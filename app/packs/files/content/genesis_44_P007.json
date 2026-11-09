@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_44_P007",
+  "book": "genesis",
+  "chapter": 44,
+  "page": 7,
+  "ref": "44:30-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_44_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_44_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "我父亲的命与这童子的命相连。如今我回到你仆人—我父亲那里，若没有童子与我们同在，"
+      }
+    },
+    {
+      "id": "GENESIS_44_P007_F2",
+      "box": [
+        0,
+        0.3353,
+        0.4404,
+        0.3639
+      ],
+      "alt": {
+        "zh-CN": "我们的父亲见没有童子，他就必死。这便是我们使你仆人—我们的父亲白发苍苍、悲悲惨惨地下阴间去了。"
+      }
+    },
+    {
+      "id": "GENESIS_44_P007_F3",
+      "box": [
+        0.4482,
+        0.3353,
+        0.5518,
+        0.6647
+      ],
+      "alt": {
+        "zh-CN": "因为仆人曾向我父亲为这童子作保，说：『我若不带他回来交给父亲，我便在父亲面前永远担罪。』"
+      }
+    },
+    {
+      "id": "GENESIS_44_P007_F4",
+      "box": [
+        0,
+        0.7031,
+        0.4404,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "便雅悯跪着，含泪看着为他说话的哥哥犹大。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_44_P007_B001",
+      "panel": "GENESIS_44_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.1,
+        0.01,
+        0.3,
+        0.073
+      ],
+      "tail": [
+        0.25,
+        0.1162
+      ],
+      "text_key": "genesis.44.p7.b1"
+    },
+    {
+      "id": "GENESIS_44_P007_B002",
+      "panel": "GENESIS_44_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1585,
+        0.3462,
+        0.2642,
+        0.0727
+      ],
+      "tail": null,
+      "text_key": "genesis.44.p7.b2"
+    },
+    {
+      "id": "GENESIS_44_P007_B003",
+      "panel": "GENESIS_44_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4648,
+        0.3486,
+        0.1876,
+        0.0664
+      ],
+      "tail": null,
+      "text_key": "genesis.44.p7.b3"
+    }
+  ]
+}

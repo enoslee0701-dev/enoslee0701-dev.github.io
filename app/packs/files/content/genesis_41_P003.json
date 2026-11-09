@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_41_P003",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 3,
+  "ref": "41:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "那时酒政对法老说：「我今日想起我的罪来。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P003_F2",
+      "box": [
+        0,
+        0.2493,
+        0.5752,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "从前法老恼怒臣仆，把我和膳长下在护卫长府内的监里。我们二人同夜各做一梦，各梦都有讲解。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P003_F3",
+      "box": [
+        0.5811,
+        0.2493,
+        0.4189,
+        0.2917
+      ]
+    },
+    {
+      "id": "GENESIS_41_P003_F4",
+      "box": [
+        0,
+        0.5449,
+        1,
+        0.4551
+      ],
+      "alt": {
+        "zh-CN": "在那里同着我们有一个希伯来的少年人，是护卫长的仆人，我们告诉他，他就把我们的梦圆解，是按着各人的梦圆解的。后来正如他给我们圆解的成就了：我官复原职，膳长被挂起来了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P003_B001",
+      "panel": "GENESIS_41_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.3,
+        0.0073,
+        0.32,
+        0.0489
+      ],
+      "tail": [
+        0.46,
+        0.0807
+      ],
+      "text_key": "genesis.41.p3.b1"
+    },
+    {
+      "id": "GENESIS_41_P003_B002",
+      "panel": "GENESIS_41_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.023,
+        0.2581,
+        0.5176,
+        0.0583
+      ],
+      "tail": [
+        0.2818,
+        0.3456
+      ],
+      "text_key": "genesis.41.p3.b2"
+    },
+    {
+      "id": "GENESIS_41_P003_B003",
+      "panel": "GENESIS_41_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5586,
+        0.62,
+        0.0682
+      ],
+      "tail": [
+        0.34,
+        0.6723
+      ],
+      "text_key": "genesis.41.p3.b3"
+    },
+    {
+      "id": "GENESIS_41_P003_B004",
+      "panel": "GENESIS_41_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.909,
+        0.55,
+        0.0773
+      ],
+      "tail": [
+        0.305,
+        1
+      ],
+      "text_key": "genesis.41.p3.b4"
+    }
+  ]
+}

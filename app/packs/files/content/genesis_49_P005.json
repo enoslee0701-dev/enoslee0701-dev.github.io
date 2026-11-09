@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_49_P005",
+  "book": "genesis",
+  "chapter": 49,
+  "page": 5,
+  "ref": "49:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_49_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_49_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ]
+    },
+    {
+      "id": "GENESIS_49_P005_F2",
+      "box": [
+        0,
+        0.2604,
+        0.4316,
+        0.3548
+      ]
+    },
+    {
+      "id": "GENESIS_49_P005_F3",
+      "box": [
+        0.4375,
+        0.2604,
+        0.5625,
+        0.3548
+      ]
+    },
+    {
+      "id": "GENESIS_49_P005_F4",
+      "box": [
+        0,
+        0.6178,
+        0.3096,
+        0.3822
+      ]
+    },
+    {
+      "id": "GENESIS_49_P005_F5",
+      "box": [
+        0.3145,
+        0.6178,
+        0.6855,
+        0.3822
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_49_P005_B001",
+      "panel": "GENESIS_49_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0077,
+        0.47,
+        0.0462
+      ],
+      "tail": [
+        0.735,
+        0.0796
+      ],
+      "text_key": "genesis.49.p5.b1"
+    },
+    {
+      "id": "GENESIS_49_P005_B002",
+      "panel": "GENESIS_49_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4656,
+        0.2675,
+        0.5062,
+        0.039
+      ],
+      "tail": [
+        0.7187,
+        0.342
+      ],
+      "text_key": "genesis.49.p5.b2"
+    },
+    {
+      "id": "GENESIS_49_P005_B003",
+      "panel": "GENESIS_49_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0155,
+        0.6293,
+        0.2786,
+        0.0535
+      ],
+      "tail": [
+        0.1548,
+        0.721
+      ],
+      "text_key": "genesis.49.p5.b3"
+    }
+  ]
+}

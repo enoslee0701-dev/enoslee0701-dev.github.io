@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_20_P002",
+  "book": "genesis",
+  "chapter": 20,
+  "page": 2,
+  "ref": "20:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_20_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_20_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5254,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "亚比米勒却还没有亲近撒拉；他说：「主啊，连有义的国，你也要毁灭吗？"
+      }
+    },
+    {
+      "id": "GENESIS_20_P002_F2",
+      "box": [
+        0.5332,
+        0,
+        0.4668,
+        0.3053
+      ],
+      "alt": {
+        "zh-CN": "「那人岂不是自己对我说『她是我的妹子』吗？就是女人也自己说：『他是我的哥哥。』我做这事是心正手洁的。」"
+      }
+    },
+    {
+      "id": "GENESIS_20_P002_F3",
+      "box": [
+        0,
+        0.3105,
+        1,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "神在梦中对他说：「我知道你做这事是心中正直；我也拦阻了你，免得你得罪我，所以我不容你沾着她。」"
+      }
+    },
+    {
+      "id": "GENESIS_20_P002_F4",
+      "box": [
+        0,
+        0.7298,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "「现在你把这人的妻子归还他；因为他是先知，他要为你祷告，使你存活。你若不归还他，你当知道，你和你所有的人都必要死。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_20_P002_B004",
+      "panel": "GENESIS_20_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0158,
+        0.0092,
+        0.2416,
+        0.0519
+      ],
+      "tail": [
+        0.1366,
+        0.0916
+      ],
+      "text_key": "genesis.20.p2.b4"
+    },
+    {
+      "id": "GENESIS_20_P002_B005",
+      "panel": "GENESIS_20_P002_F2",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5565,
+        0.0061,
+        0.4201,
+        0.0366
+      ],
+      "tail": [
+        0.7665,
+        0.0732
+      ],
+      "text_key": "genesis.20.p2.b5"
+    },
+    {
+      "id": "GENESIS_20_P002_B006",
+      "panel": "GENESIS_20_P002_F3",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.3271,
+        0.55,
+        0.0911
+      ],
+      "tail": null,
+      "text_key": "genesis.20.p2.b6"
+    },
+    {
+      "id": "GENESIS_20_P002_B007",
+      "panel": "GENESIS_20_P002_F4",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.7406,
+        0.48,
+        0.081
+      ],
+      "tail": null,
+      "text_key": "genesis.20.p2.b7"
+    }
+  ]
+}

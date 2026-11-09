@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_24_P002",
+  "book": "genesis",
+  "chapter": 24,
+  "page": 2,
+  "ref": "24:10-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_24_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_24_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2747
+      ],
+      "alt": {
+        "zh-CN": "那仆人从他主人的骆驼里取了十匹骆驼，并带些他主人各样的财物，起身往美索不达米亚去，到了拿鹤的城。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P002_F2",
+      "box": [
+        0,
+        0.278,
+        0.5742,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "天将晚，众女子出来打水的时候，他便叫骆驼跪在城外的水井那里。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P002_F3",
+      "box": [
+        0.5811,
+        0.278,
+        0.4189,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "城内居民的女子们正出来打水。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P002_F4",
+      "box": [
+        0,
+        0.5872,
+        1,
+        0.4128
+      ],
+      "alt": {
+        "zh-CN": "他说：「耶和华—我主人亚伯拉罕的　神啊，求你施恩给我主人亚伯拉罕，使我今日遇见好机会。我现今站在井旁，城内居民的女子们正出来打水。我向那一个女子说：『请你拿下水瓶来，给我水喝』，她若说：『请喝！我也给你的骆驼喝。』愿那女子就作你所预定给你仆人以撒的妻。这样，我便知道你施恩给我主人了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_24_P002_B006",
+      "panel": "GENESIS_24_P002_F1",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.011,
+        0.47,
+        0.0659
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p2.b6"
+    },
+    {
+      "id": "GENESIS_24_P002_B007",
+      "panel": "GENESIS_24_P002_F2",
+      "order": 7,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.023,
+        0.2872,
+        0.5282,
+        0.0673
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p2.b7"
+    },
+    {
+      "id": "GENESIS_24_P002_B008",
+      "panel": "GENESIS_24_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.5996,
+        0.5,
+        0.0701
+      ],
+      "tail": [
+        0.28,
+        0.711
+      ],
+      "text_key": "genesis.24.p2.b8"
+    },
+    {
+      "id": "GENESIS_24_P002_B009",
+      "panel": "GENESIS_24_P002_F4",
+      "order": 9,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.52,
+        0.9174,
+        0.45,
+        0.0701
+      ],
+      "tail": [
+        0.745,
+        1
+      ],
+      "text_key": "genesis.24.p2.b9"
+    }
+  ]
+}

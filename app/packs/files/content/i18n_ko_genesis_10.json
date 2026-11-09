@@ -1,0 +1,102 @@
+{
+  "genesis.10.p1.b1": {
+    "text": "노아의 아들 셈과 함과 야벳의 후예는 이러하니라 홍수 후에 그들이 아들들을 낳았으니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b2": {
+    "text": "야벳의 아들은 고멜과 마곡과 마대와 야완과 두발과 메섹과 디라스요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b3": {
+    "text": "이들로부터 여러 나라 백성으로 나뉘어서 각기 방언과 종족과 나라대로 바닷가의 땅에 머물렀더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b4": {
+    "text": "함의 아들은 구스와 미스라임과 붓과 가나안이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b5": {
+    "text": "… 여호와 앞에 니므롯 같은 특이한 사냥군이로다 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b6": {
+    "text": "그의 나라는 시날땅의 바벨과 에렉과 악갓과 갈레에서 시작되었으며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b7": {
+    "text": "… 이 후로 가나안 자손의 족속이 흩어져 처하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b8": {
+    "text": "셈은 에벨 온 자손의 조상이요 야벳의 형이라 그에게도 자녀가 출생하였으니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b9": {
+    "text": "에벨은 두 아들을 낳고 하나의 이름을 벨렉이라 하였으니 그 때에 세상이 나뉘었음이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b10": {
+    "text": "이들은 노아 자손의 족속들이요 그 세계와 나라대로라 홍수 후에 이들에게서 땅의 열국 백성이 나뉘었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

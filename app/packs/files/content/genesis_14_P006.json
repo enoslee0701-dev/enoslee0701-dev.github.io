@@ -1,0 +1,103 @@
+{
+  "id": "GENESIS_14_P006",
+  "book": "genesis",
+  "chapter": 14,
+  "page": 6,
+  "ref": "14:17-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_14_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_14_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰杀败基大老玛和与他同盟的王回来的时候，所多玛王出来，在沙微谷迎接他；沙微谷就是王谷。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P006_F2",
+      "box": [
+        0,
+        0.2715,
+        1,
+        0.4401
+      ],
+      "alt": {
+        "zh-CN": "又有撒冷王麦基洗德带着饼和酒出来迎接；他是至高　神的祭司。他为亚伯兰祝福，说：「愿天地的主、至高的　神赐福与亚伯兰！至高的　神把敌人交在你手里，是应当称颂的！」"
+      }
+    },
+    {
+      "id": "GENESIS_14_P006_F3",
+      "box": [
+        0,
+        0.7161,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰就把所得的拿出十分之一来，给麦基洗德。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_14_P006_B015",
+      "panel": "GENESIS_14_P006_F1",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.0107,
+        0.34,
+        0.0692
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p6.b15"
+    },
+    {
+      "id": "GENESIS_14_P006_B016",
+      "panel": "GENESIS_14_P006_F2",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2847,
+        0.4,
+        0.1144
+      ],
+      "tail": [
+        0.23,
+        0.4431
+      ],
+      "text_key": "genesis.14.p6.b16"
+    },
+    {
+      "id": "GENESIS_14_P006_B017",
+      "panel": "GENESIS_14_P006_F3",
+      "order": 17,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.7218,
+        0.28,
+        0.0397
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p6.b17"
+    }
+  ]
+}

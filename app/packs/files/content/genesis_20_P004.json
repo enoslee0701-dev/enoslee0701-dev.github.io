@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_20_P004",
+  "book": "genesis",
+  "chapter": 20,
+  "page": 4,
+  "ref": "20:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_20_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_20_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕说：「我以为这地方的人总不惧怕　神，必为我妻子的缘故杀我。"
+      }
+    },
+    {
+      "id": "GENESIS_20_P004_F2",
+      "box": [
+        0,
+        0.4486,
+        1,
+        0.2181
+      ],
+      "alt": {
+        "zh-CN": "况且她也实在是我的妹子；她与我是同父异母，后来作了我的妻子。"
+      }
+    },
+    {
+      "id": "GENESIS_20_P004_F3",
+      "box": [
+        0,
+        0.6712,
+        1,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "当　神叫我离开父家、飘流在外的时候，我对她说：『我们无论走到什么地方，你可以对人说：他是我的哥哥；这就是你待我的恩典了。』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_20_P004_B012",
+      "panel": "GENESIS_20_P004_F1",
+      "order": 12,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.22,
+        0.0089,
+        0.36,
+        0.071
+      ],
+      "tail": [
+        0.4,
+        0.1243
+      ],
+      "text_key": "genesis.20.p4.b12"
+    },
+    {
+      "id": "GENESIS_20_P004_B013",
+      "panel": "GENESIS_20_P004_F2",
+      "order": 13,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.4573,
+        0.4,
+        0.0654
+      ],
+      "tail": [
+        0.22,
+        0.5445
+      ],
+      "text_key": "genesis.20.p4.b13"
+    },
+    {
+      "id": "GENESIS_20_P004_B014",
+      "panel": "GENESIS_20_P004_F3",
+      "order": 14,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6844,
+        0.47,
+        0.0986
+      ],
+      "tail": [
+        0.735,
+        0.8159
+      ],
+      "text_key": "genesis.20.p4.b14"
+    }
+  ]
+}

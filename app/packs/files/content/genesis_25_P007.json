@@ -1,0 +1,106 @@
+{
+  "id": "GENESIS_25_P007",
+  "book": "genesis",
+  "chapter": 25,
+  "page": 7,
+  "ref": "25:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_25_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_25_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "有一天，雅各熬汤，以扫从田野回来累昏了。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P007_F2",
+      "box": [
+        0,
+        0.2689,
+        1,
+        0.3333
+      ],
+      "alt": {
+        "zh-CN": "以扫对雅各说：「我累昏了，求你把这红汤给我喝。」因此以扫又叫以东。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P007_F3",
+      "box": [
+        0,
+        0.6061,
+        1,
+        0.3939
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「你今日把长子的名分卖给我吧。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_25_P007_B023",
+      "panel": "GENESIS_25_P007_F1",
+      "order": 23,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.3,
+        0.0079,
+        0.45,
+        0.0528
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p7.b23"
+    },
+    {
+      "id": "GENESIS_25_P007_B024",
+      "panel": "GENESIS_25_P007_F2",
+      "order": 24,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.47,
+        0.2789,
+        0.31,
+        0.0833
+      ],
+      "tail": [
+        0.625,
+        0.3955
+      ],
+      "text_key": "genesis.25.p7.b24"
+    },
+    {
+      "id": "GENESIS_25_P007_B025",
+      "panel": "GENESIS_25_P007_F3",
+      "order": 25,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.32,
+        0.614,
+        0.26,
+        0.0787
+      ],
+      "tail": [
+        0.45,
+        0.7321
+      ],
+      "text_key": "genesis.25.p7.b25"
+    }
+  ]
+}

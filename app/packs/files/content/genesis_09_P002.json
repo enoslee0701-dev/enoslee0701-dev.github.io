@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_09_P002",
+  "book": "genesis",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3483
+      ],
+      "alt": {
+        "zh-CN": "神晓谕挪亚和他的儿子说：「我与你们和你们的后裔立约，并与你们这里的一切活物—就是飞鸟、牲畜、走兽，凡从方舟里出来的活物—立约。」一家人和动物朝着光站着。"
+      }
+    },
+    {
+      "id": "GENESIS_09_P002_F2",
+      "box": [
+        0,
+        0.3509,
+        1,
+        0.194
+      ],
+      "alt": {
+        "zh-CN": "母羊舔着刚生下的小羊，鸽子落在新发的橄榄枝上。"
+      }
+    },
+    {
+      "id": "GENESIS_09_P002_F3",
+      "box": [
+        0,
+        0.5475,
+        1,
+        0.4525
+      ],
+      "alt": {
+        "zh-CN": "「我与你们立约，凡有血肉的，不再被洪水灭绝，也不再有洪水毁坏地了。」乌云压过来，雨点落下，一家人惊慌，挪亚仰脸望着天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_09_P002_B005",
+      "panel": "GENESIS_09_P002_F1",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0139,
+        0.46,
+        0.0199
+      ],
+      "tail": null,
+      "text_key": "genesis.9.p2.b5"
+    },
+    {
+      "id": "GENESIS_09_P002_B006",
+      "panel": "GENESIS_09_P002_F1",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0408,
+        0.46,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "genesis.9.p2.b6"
+    },
+    {
+      "id": "GENESIS_09_P002_B007",
+      "panel": "GENESIS_09_P002_F3",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.5611,
+        0.48,
+        0.0995
+      ],
+      "tail": null,
+      "text_key": "genesis.9.p2.b7"
+    }
+  ]
+}

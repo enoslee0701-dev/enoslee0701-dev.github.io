@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_37_P008",
+  "book": "genesis",
+  "chapter": 37,
+  "page": 8,
+  "ref": "37:28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_37_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_37_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2806
+      ],
+      "alt": {
+        "zh-CN": "有些米甸的商人从那里经过，哥哥们就把约瑟从坑里拉上来，"
+      }
+    },
+    {
+      "id": "GENESIS_37_P008_F2",
+      "box": [
+        0,
+        0.2852,
+        0.5029,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "讲定二十舍客勒银子，把约瑟卖给以实玛利人。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P008_F3",
+      "box": [
+        0.5098,
+        0.2852,
+        0.4902,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "约瑟被商人带走，回头望着哥哥们。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P008_F4",
+      "box": [
+        0,
+        0.597,
+        1,
+        0.403
+      ],
+      "alt": {
+        "zh-CN": "他们就把约瑟带到埃及去了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_37_P008_B001",
+      "panel": "GENESIS_37_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2189,
+        0.45,
+        0.0533
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p8.b1"
+    },
+    {
+      "id": "GENESIS_37_P008_B002",
+      "panel": "GENESIS_37_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0201,
+        0.2944,
+        0.2112,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p8.b2"
+    },
+    {
+      "id": "GENESIS_37_P008_B003",
+      "panel": "GENESIS_37_P008_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6131,
+        0.47,
+        0.0644
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p8.b3"
+    }
+  ]
+}

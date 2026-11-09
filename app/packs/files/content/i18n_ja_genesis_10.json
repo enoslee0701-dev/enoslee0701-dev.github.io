@@ -1,0 +1,102 @@
+{
+  "genesis.10.p1.b1": {
+    "text": "ノアの子セム、ハム、ヤペテの系図は次のとおりである。洪水の後、彼らに子が生れた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b2": {
+    "text": "ヤペテの子孫はゴメル、マゴグ、マダイ、ヤワン、トバル、メセク、テラスであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b3": {
+    "text": "これらから海沿いの地の国民が分れて、おのおのその土地におり、その言語にしたがい、その氏族にしたがって、その国々に住んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b4": {
+    "text": "ハムの子孫はクシ、ミツライム、プテ、カナンであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b5": {
+    "text": "… 主の前に力ある狩猟者ニムロデのごとし …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b6": {
+    "text": "彼の国は最初シナルの地にあるバベル、エレク、アカデ、カルネであった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b7": {
+    "text": "… 後になってカナンびとの氏族がひろがった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b8": {
+    "text": "セムにも子が生れた。セムはエベルのすべての子孫の先祖であって、ヤペテの兄であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b9": {
+    "text": "エベルにふたりの子が生れた。そのひとりの名をペレグといった。これは彼の代に地の民が分れたからである。 …",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b10": {
+    "text": "これらはノアの子らの氏族であって、血統にしたがって国々に住んでいたが、洪水の後、これらから地上の諸国民が分れたのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Genesis 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "GENESIS_29_P002",
+  "book": "genesis",
+  "chapter": 29,
+  "page": 2,
+  "ref": "29:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_29_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_29_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "雅各对牧人说：「弟兄们，你们是哪里来的？」他们说：「我们是哈兰来的。」"
+      }
+    },
+    {
+      "id": "GENESIS_29_P002_F2",
+      "box": [
+        0,
+        0.2962,
+        0.4961,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "他问他们说：「拿鹤的孙子拉班，你们认识吗？」他们说：「我们认识。」"
+      }
+    },
+    {
+      "id": "GENESIS_29_P002_F3",
+      "box": [
+        0.5029,
+        0.2962,
+        0.4971,
+        0.2194
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「他平安吗？」他们说：「平安。看哪，他女儿拉结领着羊来了。」"
+      }
+    },
+    {
+      "id": "GENESIS_29_P002_F4",
+      "box": [
+        0,
+        0.5195,
+        1,
+        0.4805
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「日头还高，不是羊群聚集的时候，你们不如饮羊，再去放一放。」他们说：「我们不能，必等羊群聚齐，人把石头转离井口才可饮羊。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_29_P002_B001",
+      "panel": "GENESIS_29_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.18,
+        0.0088,
+        0.5,
+        0.0644
+      ],
+      "tail": [
+        0.43,
+        0.1025
+      ],
+      "text_key": "genesis.29.p2.b1"
+    },
+    {
+      "id": "GENESIS_29_P002_B002",
+      "panel": "GENESIS_29_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0198,
+        0.3028,
+        0.4564,
+        0.0482
+      ],
+      "tail": [
+        0.248,
+        0.3729
+      ],
+      "text_key": "genesis.29.p2.b2"
+    },
+    {
+      "id": "GENESIS_29_P002_B003",
+      "panel": "GENESIS_29_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7266,
+        0.3028,
+        0.2584,
+        0.0526
+      ],
+      "tail": [
+        0.8558,
+        0.3773
+      ],
+      "text_key": "genesis.29.p2.b3"
+    },
+    {
+      "id": "GENESIS_29_P002_B004",
+      "panel": "GENESIS_29_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.21,
+        0.5291,
+        0.33,
+        0.0672
+      ],
+      "tail": [
+        0.375,
+        0.6444
+      ],
+      "text_key": "genesis.29.p2.b4"
+    },
+    {
+      "id": "GENESIS_29_P002_B005",
+      "panel": "GENESIS_29_P002_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.74,
+        0.8943,
+        0.25,
+        0.0912
+      ],
+      "tail": [
+        0.865,
+        1
+      ],
+      "text_key": "genesis.29.p2.b5"
+    }
+  ]
+}

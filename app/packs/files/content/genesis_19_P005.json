@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_19_P005",
+  "book": "genesis",
+  "chapter": 19,
+  "page": 5,
+  "ref": "19:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_19_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_19_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "天明了，天使催逼罗得说：「起来！带着你的妻子和你在这里的两个女儿出去，免得你因这城里的罪恶同被剿灭。」"
+      }
+    },
+    {
+      "id": "GENESIS_19_P005_F2",
+      "box": [
+        0,
+        0.2988,
+        1,
+        0.1771
+      ],
+      "alt": {
+        "zh-CN": "但罗得迟延不走。"
+      }
+    },
+    {
+      "id": "GENESIS_19_P005_F3",
+      "box": [
+        0,
+        0.4785,
+        1,
+        0.5215
+      ],
+      "alt": {
+        "zh-CN": "二人因为耶和华怜恤罗得，就拉着他的手和他妻子的手，并他两个女儿的手，把他们领出来，安置在城外；"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_19_P005_B018",
+      "panel": "GENESIS_19_P005_F1",
+      "order": 18,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0118,
+        0.33,
+        0.1123
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p5.b18"
+    },
+    {
+      "id": "GENESIS_19_P005_B019",
+      "panel": "GENESIS_19_P005_F2",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3077,
+        0.4,
+        0.0531
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p5.b19"
+    },
+    {
+      "id": "GENESIS_19_P005_B020",
+      "panel": "GENESIS_19_P005_F3",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.4941,
+        0.92,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p5.b20"
+    }
+  ]
+}

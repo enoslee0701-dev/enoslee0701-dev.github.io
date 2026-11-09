@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_14_P007",
+  "book": "genesis",
+  "chapter": 14,
+  "page": 7,
+  "ref": "14:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_14_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_14_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1934
+      ],
+      "alt": {
+        "zh-CN": "所多玛王对亚伯兰说：「你把人口给我，财物你自己拿去吧！」"
+      }
+    },
+    {
+      "id": "GENESIS_14_P007_F2",
+      "box": [
+        0,
+        0.1973,
+        1,
+        0.1432
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰对所多玛王说：「我已经向天地的主—至高的　神耶和华起誓：」"
+      }
+    },
+    {
+      "id": "GENESIS_14_P007_F3",
+      "box": [
+        0,
+        0.3444,
+        1,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "「凡是你的东西，就是一根线、一根鞋带，我都不拿，免得你说：『我使亚伯兰富足！』」"
+      }
+    },
+    {
+      "id": "GENESIS_14_P007_F4",
+      "box": [
+        0,
+        0.6803,
+        1,
+        0.3197
+      ],
+      "alt": {
+        "zh-CN": "「只有仆人所吃的，并与我同行的亚乃、以实各、幔利所应得的分，可以任凭他们拿去。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_14_P007_B018",
+      "panel": "GENESIS_14_P007_F1",
+      "order": 18,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0077,
+        0.41,
+        0.0502
+      ],
+      "tail": [
+        0.765,
+        0.0772
+      ],
+      "text_key": "genesis.14.p7.b18"
+    },
+    {
+      "id": "GENESIS_14_P007_B019",
+      "panel": "GENESIS_14_P007_F2",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2088,
+        0.32,
+        0.0716
+      ],
+      "tail": [
+        0.19,
+        0.2947
+      ],
+      "text_key": "genesis.14.p7.b19"
+    },
+    {
+      "id": "GENESIS_14_P007_B020",
+      "panel": "GENESIS_14_P007_F3",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.65,
+        0.3577,
+        0.32,
+        0.1062
+      ],
+      "tail": [
+        0.81,
+        0.4971
+      ],
+      "text_key": "genesis.14.p7.b20"
+    },
+    {
+      "id": "GENESIS_14_P007_B021",
+      "panel": "GENESIS_14_P007_F4",
+      "order": 21,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.6995,
+        0.39,
+        0.1278
+      ],
+      "tail": [
+        0,
+        0.8593
+      ],
+      "text_key": "genesis.14.p7.b21"
+    }
+  ]
+}

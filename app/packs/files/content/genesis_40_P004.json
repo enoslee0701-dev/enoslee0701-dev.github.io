@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_40_P004",
+  "book": "genesis",
+  "chapter": 40,
+  "page": 4,
+  "ref": "40:12-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_40_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_40_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "约瑟对他说：「你所做的梦是这样解：三根枝子就是三天；"
+      }
+    },
+    {
+      "id": "GENESIS_40_P004_F2",
+      "box": [
+        0,
+        0.2585,
+        0.5303,
+        0.2461
+      ],
+      "alt": {
+        "zh-CN": "三天之内，法老必提你出监，叫你官复原职，你仍要递杯在法老的手中，和先前作他的酒政一样。"
+      }
+    },
+    {
+      "id": "GENESIS_40_P004_F3",
+      "box": [
+        0.5371,
+        0.2585,
+        0.4629,
+        0.2461
+      ]
+    },
+    {
+      "id": "GENESIS_40_P004_F4",
+      "box": [
+        0,
+        0.5072,
+        1,
+        0.4928
+      ],
+      "alt": {
+        "zh-CN": "但你得好处的时候，求你记念我，施恩与我，在法老面前提说我，救我出这监牢。我实在是从希伯来人之地被拐来的；我在这里也没有做过什么，叫他们把我下在监里。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_40_P004_B001",
+      "panel": "GENESIS_40_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.34,
+        0.0077,
+        0.32,
+        0.0668
+      ],
+      "tail": [
+        0.5,
+        0.1002
+      ],
+      "text_key": "genesis.40.p4.b1"
+    },
+    {
+      "id": "GENESIS_40_P004_B002",
+      "panel": "GENESIS_40_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0159,
+        0.2634,
+        0.2969,
+        0.0467
+      ],
+      "tail": [
+        0.1644,
+        0.3347
+      ],
+      "text_key": "genesis.40.p4.b2"
+    },
+    {
+      "id": "GENESIS_40_P004_B003",
+      "panel": "GENESIS_40_P004_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.15,
+        0.5171,
+        0.38,
+        0.0985
+      ],
+      "tail": [
+        0.34,
+        0.6649
+      ],
+      "text_key": "genesis.40.p4.b3"
+    },
+    {
+      "id": "GENESIS_40_P004_B004",
+      "panel": "GENESIS_40_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.522,
+        0.41,
+        0.1084
+      ],
+      "tail": [
+        0.765,
+        0.6797
+      ],
+      "text_key": "genesis.40.p4.b4"
+    }
+  ]
+}

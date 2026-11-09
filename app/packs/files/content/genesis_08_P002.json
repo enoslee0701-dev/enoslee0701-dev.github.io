@@ -1,0 +1,85 @@
+{
+  "id": "GENESIS_08_P002",
+  "book": "genesis",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5924
+      ],
+      "alt": {
+        "zh-CN": "七月十七日，方舟停在亚拉腊山上。舱里猛地一震，挪亚抱住柱子，拽住妻子。"
+      }
+    },
+    {
+      "id": "GENESIS_08_P002_F2",
+      "box": [
+        0,
+        0.5951,
+        1,
+        0.207
+      ],
+      "alt": {
+        "zh-CN": "方舟的底卡在山岩上。"
+      }
+    },
+    {
+      "id": "GENESIS_08_P002_F3",
+      "box": [
+        0,
+        0.804,
+        1,
+        0.196
+      ],
+      "alt": {
+        "zh-CN": "水又渐消，到十月初一日，山顶都现出来了。挪亚和闪从窗缝望出去，远处的山尖一个个露出来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_08_P002_B004",
+      "panel": "GENESIS_08_P002_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0118,
+        0.31,
+        0.0592
+      ],
+      "tail": null,
+      "text_key": "genesis.8.p2.b4"
+    },
+    {
+      "id": "GENESIS_08_P002_B005",
+      "panel": "GENESIS_08_P002_F3",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.8099,
+        0.5,
+        0.049
+      ],
+      "tail": null,
+      "text_key": "genesis.8.p2.b5"
+    }
+  ]
+}

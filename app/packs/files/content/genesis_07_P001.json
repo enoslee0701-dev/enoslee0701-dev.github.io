@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_07_P001",
+  "book": "genesis",
+  "chapter": 7,
+  "page": 1,
+  "ref": "7:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_07_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_07_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1771
+      ],
+      "alt": {
+        "zh-CN": "方舟造好了，挪亚站在方舟顶上，刷完最后一道松香。"
+      }
+    },
+    {
+      "id": "GENESIS_07_P001_F2",
+      "box": [
+        0,
+        0.1816,
+        1,
+        0.3418
+      ],
+      "alt": {
+        "zh-CN": "耶和华对挪亚说：「你和你的全家都要进入方舟；因为在这世代中，我见你在我面前是义人。」"
+      }
+    },
+    {
+      "id": "GENESIS_07_P001_F3",
+      "box": [
+        0,
+        0.5273,
+        1,
+        0.1829
+      ],
+      "alt": {
+        "zh-CN": "「凡洁净的畜类，你要带七公七母；不洁净的畜类，你要带一公一母；空中的飞鸟也要带七公七母，可以留种，活在全地上。」挪亚蹲在羊圈里数羊。"
+      }
+    },
+    {
+      "id": "GENESIS_07_P001_F4",
+      "box": [
+        0,
+        0.7142,
+        1,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "「因为再过七天，我要降雨在地上四十昼夜，把我所造的各种活物都从地上除灭。」挪亚就遵着耶和华所吩咐的行了。他扛着粮袋走上方舟的踏板，乌云从城那边压过来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_07_P001_B001",
+      "panel": "GENESIS_07_P001_F2",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.1919,
+        0.34,
+        0.1162
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p1.b1"
+    },
+    {
+      "id": "GENESIS_07_P001_B002",
+      "panel": "GENESIS_07_P001_F3",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.5328,
+        0.34,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p1.b2"
+    },
+    {
+      "id": "GENESIS_07_P001_B003",
+      "panel": "GENESIS_07_P001_F4",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.52,
+        0.7285,
+        0.45,
+        0.0587
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p1.b3"
+    },
+    {
+      "id": "GENESIS_07_P001_B004",
+      "panel": "GENESIS_07_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.793,
+        0.45,
+        0.044
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p1.b4"
+    }
+  ]
+}

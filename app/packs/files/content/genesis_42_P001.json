@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_42_P001",
+  "book": "genesis",
+  "chapter": 42,
+  "page": 1,
+  "ref": "42:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_42_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_42_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.459
+      ],
+      "alt": {
+        "zh-CN": "雅各见埃及有粮，就对儿子们说：「你们为什么彼此观望呢？"
+      }
+    },
+    {
+      "id": "GENESIS_42_P001_F2",
+      "box": [
+        0,
+        0.4622,
+        0.4736,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "我听见埃及有粮，你们可以下去，从那里为我们籴些来，使我们可以存活，不至于死。」"
+      }
+    },
+    {
+      "id": "GENESIS_42_P001_F3",
+      "box": [
+        0.4805,
+        0.4622,
+        0.5195,
+        0.293
+      ],
+      "alt": {
+        "zh-CN": "但约瑟的兄弟便雅悯，雅各没有打发他和哥哥们同去，因为雅各说：「恐怕他遭害。」"
+      }
+    },
+    {
+      "id": "GENESIS_42_P001_F4",
+      "box": [
+        0,
+        0.7591,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "于是，约瑟的十个哥哥都下埃及籴粮去了。来籴粮的人中有以色列的儿子们，因为迦南地也有饥荒。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_42_P001_B001",
+      "panel": "GENESIS_42_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.3856,
+        0.4,
+        0.0642
+      ],
+      "tail": [
+        0.77,
+        0.459
+      ],
+      "text_key": "genesis.42.p1.b1"
+    },
+    {
+      "id": "GENESIS_42_P001_B002",
+      "panel": "GENESIS_42_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0189,
+        0.6907,
+        0.4262,
+        0.0556
+      ],
+      "tail": [
+        0.232,
+        0.7552
+      ],
+      "text_key": "genesis.42.p1.b2"
+    },
+    {
+      "id": "GENESIS_42_P001_B003",
+      "panel": "GENESIS_42_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5013,
+        0.471,
+        0.2857,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p1.b3"
+    },
+    {
+      "id": "GENESIS_42_P001_B004",
+      "panel": "GENESIS_42_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.7663,
+        0.52,
+        0.0385
+      ],
+      "tail": null,
+      "text_key": "genesis.42.p1.b4"
+    }
+  ]
+}

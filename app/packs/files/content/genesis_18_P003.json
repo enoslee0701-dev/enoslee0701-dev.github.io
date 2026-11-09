@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_18_P003",
+  "book": "genesis",
+  "chapter": 18,
+  "page": 3,
+  "ref": "18:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_18_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_18_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5176,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕急忙进帐棚见撒拉，说：「你速速拿三细亚细面调和做饼。」"
+      }
+    },
+    {
+      "id": "GENESIS_18_P003_F2",
+      "box": [
+        0.5283,
+        0,
+        0.4717,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕又跑到牛群里，牵了一只又嫩又好的牛犊来，交给仆人，"
+      }
+    },
+    {
+      "id": "GENESIS_18_P003_F3",
+      "box": [
+        0,
+        0.3405,
+        1,
+        0.1816
+      ],
+      "alt": {
+        "zh-CN": "仆人急忙预备好了。"
+      }
+    },
+    {
+      "id": "GENESIS_18_P003_F4",
+      "box": [
+        0,
+        0.5273,
+        1,
+        0.4727
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕又取了奶油和奶，并预备好的牛犊来，摆在他们面前，自己在树下站在旁边，他们就吃了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_18_P003_B008",
+      "panel": "GENESIS_18_P003_F1",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0155,
+        0.0101,
+        0.2329,
+        0.0804
+      ],
+      "tail": [
+        0.132,
+        0.124
+      ],
+      "text_key": "genesis.18.p3.b8"
+    },
+    {
+      "id": "GENESIS_18_P003_B009",
+      "panel": "GENESIS_18_P003_F2",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5377,
+        0.0101,
+        0.1556,
+        0.1072
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p3.b9"
+    },
+    {
+      "id": "GENESIS_18_P003_B010",
+      "panel": "GENESIS_18_P003_F4",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5415,
+        0.5,
+        0.085
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p3.b10"
+    }
+  ]
+}

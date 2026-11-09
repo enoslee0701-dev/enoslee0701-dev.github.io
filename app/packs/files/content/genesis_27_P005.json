@@ -1,0 +1,154 @@
+{
+  "id": "GENESIS_27_P005",
+  "book": "genesis",
+  "chapter": 27,
+  "page": 5,
+  "ref": "27:21-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_27_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_27_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2285
+      ],
+      "alt": {
+        "zh-CN": "以撒对雅各说：「我儿，你近前来，我摸摸你，知道你真是我的儿子以扫不是。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P005_F2",
+      "box": [
+        0,
+        0.2318,
+        1,
+        0.4688
+      ],
+      "alt": {
+        "zh-CN": "雅各就挨近他父亲以撒。以撒摸着他，说：「声音是雅各的声音，手却是以扫的手。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P005_F3",
+      "box": [
+        0,
+        0.7044,
+        0.4473,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "以撒就辨不出他来；因为他手上有毛，像他哥哥以扫的手一样，就给他祝福；"
+      }
+    },
+    {
+      "id": "GENESIS_27_P005_F4",
+      "box": [
+        0.4531,
+        0.7044,
+        0.5469,
+        0.2956
+      ],
+      "alt": {
+        "zh-CN": "又说：「你真是我儿子以扫吗？」他说：「我是。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_27_P005_B019",
+      "panel": "GENESIS_27_P005_F1",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0069,
+        0.42,
+        0.0594
+      ],
+      "tail": [
+        0.51,
+        0.0892
+      ],
+      "text_key": "genesis.27.p5.b19"
+    },
+    {
+      "id": "GENESIS_27_P005_B020",
+      "panel": "GENESIS_27_P005_F2",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.2459,
+        0.28,
+        0.0937
+      ],
+      "tail": [
+        0.59,
+        0.3865
+      ],
+      "text_key": "genesis.27.p5.b20"
+    },
+    {
+      "id": "GENESIS_27_P005_B021",
+      "panel": "GENESIS_27_P005_F3",
+      "order": 21,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0179,
+        0.7133,
+        0.4115,
+        0.065
+      ],
+      "tail": null,
+      "text_key": "genesis.27.p5.b21"
+    },
+    {
+      "id": "GENESIS_27_P005_B022",
+      "panel": "GENESIS_27_P005_F4",
+      "order": 22,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.475,
+        0.7133,
+        0.2296,
+        0.0413
+      ],
+      "tail": [
+        0.5898,
+        0.7842
+      ],
+      "text_key": "genesis.27.p5.b22"
+    },
+    {
+      "id": "GENESIS_27_P005_B023",
+      "panel": "GENESIS_27_P005_F4",
+      "order": 23,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.475,
+        0.935,
+        0.1421,
+        0.0354
+      ],
+      "tail": [
+        0.546,
+        1
+      ],
+      "text_key": "genesis.27.p5.b23"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "GENESIS_04_P007",
+  "book": "genesis",
+  "chapter": 4,
+  "page": 7,
+  "ref": "4:25-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_04_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_04_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5371
+      ],
+      "alt": {
+        "zh-CN": "亚当又与妻子同房，她就生了一个儿子，起名叫塞特，意思说：「神另给我立了一个儿子代替亚伯，因为该隐杀了他。」"
+      }
+    },
+    {
+      "id": "GENESIS_04_P007_F2",
+      "box": [
+        0,
+        0.5417,
+        1,
+        0.2188
+      ],
+      "alt": {
+        "zh-CN": "塞特也生了一个儿子，起名叫以挪士。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P007_F3",
+      "box": [
+        0,
+        0.7643,
+        1,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "那时候，人才求告耶和华的名。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_04_P007_B026",
+      "panel": "GENESIS_04_P007_F1",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.78,
+        0.0107,
+        0.21,
+        0.145
+      ],
+      "tail": [
+        0.885,
+        0.2094
+      ],
+      "text_key": "genesis.4.p7.b26"
+    },
+    {
+      "id": "GENESIS_04_P007_B027",
+      "panel": "GENESIS_04_P007_F2",
+      "order": 27,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5548,
+        0.23,
+        0.1881
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p7.b27"
+    },
+    {
+      "id": "GENESIS_04_P007_B028",
+      "panel": "GENESIS_04_P007_F3",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.7761,
+        0.5,
+        0.0754
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p7.b28"
+    }
+  ]
+}

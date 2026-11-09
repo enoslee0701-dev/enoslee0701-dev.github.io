@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_05_P002",
+  "book": "genesis",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:12-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2344
+      ],
+      "alt": {
+        "zh-CN": "该南活到七十岁，生了玛勒列……共活了九百一十岁就死了。玛勒列活到六十五岁，生了雅列……共活了八百九十五岁就死了。雅列活到一百六十二岁，生了以诺……共活了九百六十二岁就死了。家族树上，这几代的头像都褪成灰色。"
+      }
+    },
+    {
+      "id": "GENESIS_05_P002_F2",
+      "box": [
+        0,
+        0.2376,
+        1,
+        0.2663
+      ],
+      "alt": {
+        "zh-CN": "以诺活到六十五岁，生了玛土撒拉。以诺生玛土撒拉之后，与神同行三百年，并且生儿养女。以诺共活了三百六十五岁。"
+      }
+    },
+    {
+      "id": "GENESIS_05_P002_F3",
+      "box": [
+        0,
+        0.5072,
+        1,
+        0.4928
+      ],
+      "alt": {
+        "zh-CN": "以诺与神同行，神将他取去，他就不在世了。山路上的脚印走进光里就断了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_05_P002_B005",
+      "panel": "GENESIS_05_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.1547,
+        0.37,
+        0.0703
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p2.b5"
+    },
+    {
+      "id": "GENESIS_05_P002_B006",
+      "panel": "GENESIS_05_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.2509,
+        0.35,
+        0.0958
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p2.b6"
+    },
+    {
+      "id": "GENESIS_05_P002_B007",
+      "panel": "GENESIS_05_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.5269,
+        0.4,
+        0.1084
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p2.b7"
+    }
+  ]
+}

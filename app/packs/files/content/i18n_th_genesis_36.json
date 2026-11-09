@@ -1,0 +1,122 @@
+{
+  "genesis.36.p1.b1": {
+    "text": "นี่​คือ​เรื่องราว​เชื้อสาย​ของ​เอซาว (คือ​เอโดม)",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p1.b2": {
+    "text": "อาดาห์​มี​ลูก​ให้​เอซาว​คือ​เอลีฟัส บาเสมัท​มี​ลูก​คือ​เรอูเอล และ​ลูก​ของ​โอโฮลีบามาห์​คือ​เยอูช ยาลาม และ​โคราห์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p1.b3": {
+    "text": "ทรัพย์​สมบัติ​ของ​ทั้ง​สอง​มาก​เกิน​จะ​อยู่​ด้วย​กัน​ได้ ดินแดน​นั้น​ไม่​พอ​ให้​ทั้ง​คู่​เลี้ยง​ฝูง​สัตว์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p1.b4": {
+    "text": "ดังนั้น​เอซาว (คือ​เอโดม) จึง​ไป​ตั้ง​ถิ่นฐาน​ใน​แดน​เทือกเขา​เสอีร์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p2.b5": {
+    "text": "ต่อไป​นี้​คือ​หัวหน้า​ตระกูล​ที่​มา​จาก​ลูก​หลาน​ของ​เอซาว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p2.b6": {
+    "text": "… อานาห์​ผู้​ค้น​พบ​บ่อ​น้ำพุ​ร้อน​ใน​ทะเลทราย​ขณะ​ที่​เขา​กำลัง​เลี้ยง​ฝูง​ลา​ของ​ศิเบโอน​พ่อ​ของ​เขา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p2.b7": {
+    "text": "ต่อไป​นี้​เป็น​ลูก​ชาย​ของ​เสอีร์​ชาว​โฮรี​ซึ่ง​อาศัย​อยู่​ใน​ถิ่น​นั้น …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p2.b8": {
+    "text": "ลูกชาย​ของ​อานาห์​คือ ดีโชน และ​โอโฮลีบามาห์ ลูก​สาว​ของ​อานาห์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p3.b9": {
+    "text": "บรรดา​กษัตริย์​ซึ่ง​ปกครอง​ใน​เอโดม​ก่อน​ที่​จะ​มี​กษัตริย์​แห่ง​อิสราเอล​ได้แก่",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p3.b10": {
+    "text": "เมื่อ​เบลา​ตาย โยบับ​ลูก​ชาย​ของ​เศราห์​จาก​โบสราห์​ก็​ขึ้น​ปกครอง​แทน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p3.b11": {
+    "text": "… ฮาดัด​ลูก​ชาย​ของ​เบดัด​ผู้​ชนะ​กองทัพ​มีเดียน​ใน​ดินแดน​โมอับ …",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.36.p3.b12": {
+    "text": "นี่​คือ​วงศ์ตระกูล​เอซาว บรรพบุรุษ​ของ​ชาว​เอโดม",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Genesis 36:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

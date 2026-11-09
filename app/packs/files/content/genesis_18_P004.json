@@ -1,0 +1,148 @@
+{
+  "id": "GENESIS_18_P004",
+  "book": "genesis",
+  "chapter": 18,
+  "page": 4,
+  "ref": "18:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_18_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_18_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3392
+      ],
+      "alt": {
+        "zh-CN": "他们问亚伯拉罕说：「你妻子撒拉在哪里？」他说：「在帐棚里。」"
+      }
+    },
+    {
+      "id": "GENESIS_18_P004_F2",
+      "box": [
+        0,
+        0.3431,
+        0.4941,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "三人中有一位说：「到明年这时候，我必要回到你这里；你的妻子撒拉必生一个儿子。」撒拉在那人后边的帐棚门口也听见了这话。"
+      }
+    },
+    {
+      "id": "GENESIS_18_P004_F3",
+      "box": [
+        0.501,
+        0.3431,
+        0.499,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕和撒拉年纪老迈，撒拉的月经已断绝了。"
+      }
+    },
+    {
+      "id": "GENESIS_18_P004_F4",
+      "box": [
+        0,
+        0.6048,
+        1,
+        0.3952
+      ],
+      "alt": {
+        "zh-CN": "撒拉心里暗笑，说：「我既已衰败，我主也老迈，岂能有这喜事呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_18_P004_B011",
+      "panel": "GENESIS_18_P004_F1",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0136,
+        0.4,
+        0.0746
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p4.b11"
+    },
+    {
+      "id": "GENESIS_18_P004_B012",
+      "panel": "GENESIS_18_P004_F1",
+      "order": 12,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.0102,
+        0.27,
+        0.0508
+      ],
+      "tail": [
+        0.585,
+        0.0949
+      ],
+      "text_key": "genesis.18.p4.b12"
+    },
+    {
+      "id": "GENESIS_18_P004_B013",
+      "panel": "GENESIS_18_P004_F2",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0198,
+        0.3534,
+        0.4545,
+        0.0773
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p4.b13"
+    },
+    {
+      "id": "GENESIS_18_P004_B014",
+      "panel": "GENESIS_18_P004_F3",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8004,
+        0.5339,
+        0.1846,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p4.b14"
+    },
+    {
+      "id": "GENESIS_18_P004_B015",
+      "panel": "GENESIS_18_P004_F4",
+      "order": 15,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.03,
+        0.6246,
+        0.4,
+        0.1106
+      ],
+      "tail": [
+        0.23,
+        0.7747
+      ],
+      "text_key": "genesis.18.p4.b15"
+    }
+  ]
+}

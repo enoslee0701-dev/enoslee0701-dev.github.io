@@ -1,0 +1,102 @@
+{
+  "genesis.5.p1.b1": {
+    "text": "This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness. Male and female He created them",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b2": {
+    "text": "When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b3": {
+    "text": "So Adam lived a total of 930 years, and then he died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b4": {
+    "text": "So Seth lived a total of 912 years, and then he died. … So Enosh lived a total of 905 years, and then he died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:8-11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b5": {
+    "text": "So Mahalalel lived a total of 895 years, and then he died. … So Jared lived a total of 962 years, and then he died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:17-20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b6": {
+    "text": "And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b7": {
+    "text": "Enoch walked with God, and then he was no more, because God had taken him away.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b8": {
+    "text": "So Methuselah lived a total of 969 years, and then he died.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b9": {
+    "text": "May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b10": {
+    "text": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

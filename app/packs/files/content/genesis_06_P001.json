@@ -1,0 +1,142 @@
+{
+  "id": "GENESIS_06_P001",
+  "book": "genesis",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_06_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "当人在世上多起来、又生女儿的时候，城墙越修越高。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P001_F2",
+      "box": [
+        0,
+        0.2552,
+        0.4229,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "神的儿子们看见人的女子美貌，就随意挑选，娶来为妻。耶和华说：「人既属乎血气，我的灵就不永远住在他里面；然而他的日子还可到一百二十年。」那时候有伟人在地上，后来神的儿子们和人的女子们交合生子；那就是上古英武有名的人。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P001_F3",
+      "box": [
+        0.4297,
+        0.2552,
+        0.5703,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "耶和华见人在地上罪恶很大，终日所思想的尽都是恶，耶和华就后悔造人在地上，心中忧伤。耶和华说：「我要将所造的人和走兽，并昆虫，以及空中的飞鸟，都从地上除灭，因为我造他们后悔了。」暗云压在城上，云缝里的光正被合上。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P001_F4",
+      "box": [
+        0,
+        0.75,
+        1,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "惟有挪亚在耶和华眼前蒙恩。满城黑暗里，只有坡上挪亚家的一盏灯亮着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_06_P001_B001",
+      "panel": "GENESIS_06_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0125,
+        0.4,
+        0.105
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p1.b1"
+    },
+    {
+      "id": "GENESIS_06_P001_B002",
+      "panel": "GENESIS_06_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1269,
+        0.6469,
+        0.2833,
+        0.0881
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p1.b2"
+    },
+    {
+      "id": "GENESIS_06_P001_B003",
+      "panel": "GENESIS_06_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4525,
+        0.2748,
+        0.3193,
+        0.0755
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p1.b3"
+    },
+    {
+      "id": "GENESIS_06_P001_B004",
+      "panel": "GENESIS_06_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4525,
+        0.3602,
+        0.3193,
+        0.0321
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p1.b4"
+    },
+    {
+      "id": "GENESIS_06_P001_B005",
+      "panel": "GENESIS_06_P001_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.765,
+        0.45,
+        0.09
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p1.b5"
+    }
+  ]
+}

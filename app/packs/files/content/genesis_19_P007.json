@@ -1,0 +1,88 @@
+{
+  "id": "GENESIS_19_P007",
+  "book": "genesis",
+  "chapter": 19,
+  "page": 7,
+  "ref": "19:23-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_19_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_19_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "罗得到了琐珥，日头已经出来了。"
+      }
+    },
+    {
+      "id": "GENESIS_19_P007_F2",
+      "box": [
+        0,
+        0.2904,
+        1,
+        0.7096
+      ],
+      "alt": {
+        "zh-CN": "当时，耶和华将硫磺与火从天上耶和华那里降与所多玛和蛾摩拉，把那些城和全平原，并城里所有的居民，连地上生长的，都毁灭了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_19_P007_B026",
+      "panel": "GENESIS_19_P007_F1",
+      "order": 26,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.6,
+        0.0114,
+        0.38,
+        0.0857
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p7.b26"
+    },
+    {
+      "id": "GENESIS_19_P007_B027",
+      "panel": "GENESIS_19_P007_F2",
+      "order": 27,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3046,
+        0.4,
+        0.0709
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p7.b27"
+    },
+    {
+      "id": "GENESIS_19_P007_B028",
+      "panel": "GENESIS_19_P007_F2",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.9007,
+        0.43,
+        0.0851
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p7.b28"
+    }
+  ]
+}

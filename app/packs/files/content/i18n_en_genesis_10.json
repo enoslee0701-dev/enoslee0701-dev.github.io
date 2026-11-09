@@ -1,0 +1,102 @@
+{
+  "genesis.10.p1.b1": {
+    "text": "This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b2": {
+    "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p1.b3": {
+    "text": "From these, the maritime peoples separated into their territories, according to their languages, by clans within their nations.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b4": {
+    "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b5": {
+    "text": "He was a mighty hunter before the LORD …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b6": {
+    "text": "His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p2.b7": {
+    "text": "… Later the Canaanite clans were scattered …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b8": {
+    "text": "And sons were also born to Shem, the older brother of Japheth; Shem was the forefather of all the sons of Eber.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b9": {
+    "text": "Two sons were born to Eber: One was named Peleg, because in his days the earth was divided …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.10.p3.b10": {
+    "text": "All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 10:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

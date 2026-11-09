@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_11_P005",
+  "book": "genesis",
+  "chapter": 11,
+  "page": 5,
+  "ref": "11:10-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_11_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_11_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2734
+      ],
+      "alt": {
+        "zh-CN": "闪的后代记在下面。洪水以后二年，闪一百岁生了亚法撒。家族树上，从闪往上是亚法撒、沙拉、希伯、法勒，主干一节比一节短。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P005_F2",
+      "box": [
+        0,
+        0.2767,
+        1,
+        0.2786
+      ],
+      "alt": {
+        "zh-CN": "往上是拉吴、西鹿、拿鹤；拿鹤活到二十九岁，生了他拉。他拉的枝上分出三根新枝。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P005_F3",
+      "box": [
+        0,
+        0.5592,
+        1,
+        0.4408
+      ],
+      "alt": {
+        "zh-CN": "他拉活到七十岁，生了亚伯兰、拿鹤、哈兰。夜里，他拉在屋顶上把婴孩举向星空。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_11_P005_B010",
+      "panel": "GENESIS_11_P005_F1",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0109,
+        0.4,
+        0.071
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p5.b10"
+    },
+    {
+      "id": "GENESIS_11_P005_B011",
+      "panel": "GENESIS_11_P005_F2",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4494,
+        0.5,
+        0.0947
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p5.b11"
+    },
+    {
+      "id": "GENESIS_11_P005_B012",
+      "panel": "GENESIS_11_P005_F3",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5768,
+        0.44,
+        0.0969
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p5.b12"
+    }
+  ]
+}

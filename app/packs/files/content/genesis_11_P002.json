@@ -1,0 +1,73 @@
+{
+  "id": "GENESIS_11_P002",
+  "book": "genesis",
+  "chapter": 11,
+  "page": 2,
+  "ref": "11:4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_11_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_11_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "他们说：「来吧！我们要建造一座城和一座塔，塔顶通天，为要传扬我们的名，免得我们分散在全地上。」"
+      }
+    },
+    {
+      "id": "GENESIS_11_P002_F2",
+      "box": [
+        0,
+        0.321,
+        1,
+        0.679
+      ],
+      "alt": {
+        "zh-CN": "一座方形的阶梯塔一层层往上，坡道上扛砖的人一路排进云里。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P002_F3",
+      "box": [
+        0.5625,
+        0.3333,
+        0.4275,
+        0.25
+      ],
+      "alt": {
+        "zh-CN": "塔顶的年轻工人擦着汗，抬头望着云笑。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_11_P002_B004",
+      "panel": "GENESIS_11_P002_F1",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.6,
+        0.0127,
+        0.38,
+        0.127
+      ],
+      "tail": [
+        0.79,
+        0.1715
+      ],
+      "text_key": "genesis.11.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_31_P011",
+  "book": "genesis",
+  "chapter": 31,
+  "page": 11,
+  "ref": "31:43-50",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_31_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_31_P011_F1",
+      "box": [
+        0,
+        0,
+        0.5547,
+        0.3574
+      ],
+      "alt": {
+        "zh-CN": "拉班回答雅各说：「这女儿是我的女儿，这些孩子是我的孩子，这些羊群也是我的羊群；凡在你眼前的都是我的。我的女儿并她们所生的孩子，我今日能向他们做什么呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P011_F2",
+      "box": [
+        0.5625,
+        0,
+        0.4375,
+        0.3574
+      ],
+      "alt": {
+        "zh-CN": "「来吧！你我二人可以立约，作你我中间的证据。」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P011_F3",
+      "box": [
+        0,
+        0.362,
+        1,
+        0.1393
+      ],
+      "alt": {
+        "zh-CN": "雅各就拿一块石头立作柱子。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P011_F4",
+      "box": [
+        0,
+        0.5059,
+        1,
+        0.4941
+      ],
+      "alt": {
+        "zh-CN": "雅各对众弟兄说：「你们堆聚石头。」他们就拿石头来堆成一堆，大家便在旁边吃喝。拉班称那石堆为伊迦尔·撒哈杜他，雅各却称那石堆为迦累得。拉班说：「今日这石堆作你我中间的证据。」因此这地方名叫迦累得，又叫米斯巴，意思说：「我们彼此离别以后，愿耶和华在你我中间鉴察。你若苦待我的女儿，又在我的女儿以外另娶妻，虽没有人知道，却有　神在你我中间作见证。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_31_P011_B001",
+      "panel": "GENESIS_31_P011_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1997,
+        0.0107,
+        0.3328,
+        0.0714
+      ],
+      "tail": [
+        0.3661,
+        0.1178
+      ],
+      "text_key": "genesis.31.p11.b1"
+    },
+    {
+      "id": "GENESIS_31_P011_B002",
+      "panel": "GENESIS_31_P011_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.0107,
+        0.4025,
+        0.0607
+      ],
+      "tail": [
+        0.7813,
+        0.1071
+      ],
+      "text_key": "genesis.31.p11.b2"
+    },
+    {
+      "id": "GENESIS_31_P011_B003",
+      "panel": "GENESIS_31_P011_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5207,
+        0.4,
+        0.079
+      ],
+      "tail": [
+        0.23,
+        0.6491
+      ],
+      "text_key": "genesis.31.p11.b3"
+    },
+    {
+      "id": "GENESIS_31_P011_B004",
+      "panel": "GENESIS_31_P011_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9111,
+        0.4,
+        0.0741
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p11.b4"
+    }
+  ]
+}

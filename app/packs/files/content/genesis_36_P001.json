@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_36_P001",
+  "book": "genesis",
+  "chapter": 36,
+  "page": 1,
+  "ref": "36:1-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_36_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_36_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2715
+      ],
+      "alt": {
+        "zh-CN": "以扫就是以东，他的后代记在下面。以撒下葬以后，以扫带着妻儿和一切货财，在幔利的橡树下和弟弟雅各告别。"
+      }
+    },
+    {
+      "id": "GENESIS_36_P001_F2",
+      "box": [
+        0,
+        0.2741,
+        1,
+        0.2728
+      ],
+      "alt": {
+        "zh-CN": "以扫娶了迦南的女子亚大、阿何利巴玛，又娶了以实玛利的女儿巴实抹。亚大给以扫生了以利法；巴实抹生了流珥；阿何利巴玛生了耶乌施、雅兰、可拉。"
+      }
+    },
+    {
+      "id": "GENESIS_36_P001_F3",
+      "box": [
+        0,
+        0.5501,
+        0.6836,
+        0.4499
+      ],
+      "alt": {
+        "zh-CN": "以扫带着家中一切的人口和牲畜离了兄弟雅各，因为二人的财物群畜甚多，寄居的地方容不下他们，所以不能同居。"
+      }
+    },
+    {
+      "id": "GENESIS_36_P001_F4",
+      "box": [
+        0.6885,
+        0.5501,
+        0.3115,
+        0.4499
+      ],
+      "alt": {
+        "zh-CN": "于是以扫住在西珥山里；以扫就是以东。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_36_P001_B001",
+      "panel": "GENESIS_36_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0054,
+        0.43,
+        0.0434
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p1.b1"
+    },
+    {
+      "id": "GENESIS_36_P001_B002",
+      "panel": "GENESIS_36_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.69,
+        0.285,
+        0.29,
+        0.1091
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p1.b2"
+    },
+    {
+      "id": "GENESIS_36_P001_B003",
+      "panel": "GENESIS_36_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0273,
+        0.5636,
+        0.4101,
+        0.0809
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p1.b3"
+    },
+    {
+      "id": "GENESIS_36_P001_B004",
+      "panel": "GENESIS_36_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7072,
+        0.901,
+        0.2741,
+        0.0899
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p1.b4"
+    }
+  ]
+}

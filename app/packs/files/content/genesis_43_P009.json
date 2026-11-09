@@ -1,0 +1,103 @@
+{
+  "id": "GENESIS_43_P009",
+  "book": "genesis",
+  "chapter": 43,
+  "page": 9,
+  "ref": "43:34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_43_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_43_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2715
+      ]
+    },
+    {
+      "id": "GENESIS_43_P009_F2",
+      "box": [
+        0,
+        0.276,
+        1,
+        0.3789
+      ]
+    },
+    {
+      "id": "GENESIS_43_P009_F3",
+      "box": [
+        0,
+        0.6595,
+        0.4268,
+        0.3405
+      ]
+    },
+    {
+      "id": "GENESIS_43_P009_F4",
+      "box": [
+        0.4346,
+        0.6595,
+        0.5654,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "他们就饮酒，和约瑟一同宴乐。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_43_P009_B001",
+      "panel": "GENESIS_43_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0054,
+        0.36,
+        0.038
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p9.b1"
+    },
+    {
+      "id": "GENESIS_43_P009_B002",
+      "panel": "GENESIS_43_P009_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2836,
+        0.4,
+        0.0492
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p9.b2"
+    },
+    {
+      "id": "GENESIS_43_P009_B003",
+      "panel": "GENESIS_43_P009_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4572,
+        0.9421,
+        0.5201,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p9.b3"
+    }
+  ]
+}

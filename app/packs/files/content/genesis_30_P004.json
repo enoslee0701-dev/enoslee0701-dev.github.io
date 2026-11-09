@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_30_P004",
+  "book": "genesis",
+  "chapter": 30,
+  "page": 4,
+  "ref": "30:14-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_30_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_30_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2142
+      ],
+      "alt": {
+        "zh-CN": "割麦子的时候，吕便往田里去，寻见风茄，拿来给他母亲利亚。"
+      }
+    },
+    {
+      "id": "GENESIS_30_P004_F2",
+      "box": [
+        0,
+        0.2174,
+        1,
+        0.4336
+      ],
+      "alt": {
+        "zh-CN": "拉结对利亚说：「请你把你儿子的风茄给我些。」利亚说：「你夺了我的丈夫还算小事吗？你又要夺我儿子的风茄吗？」"
+      }
+    },
+    {
+      "id": "GENESIS_30_P004_F3",
+      "box": [
+        0,
+        0.6543,
+        0.46,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "拉结说：「为你儿子的风茄，今夜他可以与你同寝。」"
+      }
+    },
+    {
+      "id": "GENESIS_30_P004_F4",
+      "box": [
+        0.4668,
+        0.6543,
+        0.5332,
+        0.3457
+      ],
+      "alt": {
+        "zh-CN": "到了晚上，雅各从田里回来，利亚出来迎接他，说：「你要与我同寝，因为我实在用我儿子的风茄把你雇下了。」那一夜，雅各就与她同寝。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_30_P004_B001",
+      "panel": "GENESIS_30_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0086,
+        0.4,
+        0.0471
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p4.b1"
+    },
+    {
+      "id": "GENESIS_30_P004_B002",
+      "panel": "GENESIS_30_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.2304,
+        0.37,
+        0.0607
+      ],
+      "tail": [
+        0.785,
+        0.3345
+      ],
+      "text_key": "genesis.30.p4.b2"
+    },
+    {
+      "id": "GENESIS_30_P004_B003",
+      "panel": "GENESIS_30_P004_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.2304,
+        0.46,
+        0.0693
+      ],
+      "tail": [
+        0.26,
+        0.3431
+      ],
+      "text_key": "genesis.30.p4.b3"
+    },
+    {
+      "id": "GENESIS_30_P004_B004",
+      "panel": "GENESIS_30_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.4828,
+        0.9412,
+        0.5012,
+        0.0483
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p4.b4"
+    }
+  ]
+}

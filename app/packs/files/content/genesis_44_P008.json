@@ -1,0 +1,103 @@
+{
+  "id": "GENESIS_44_P008",
+  "book": "genesis",
+  "chapter": 44,
+  "page": 8,
+  "ref": "44:33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_44_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_44_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5521
+      ],
+      "alt": {
+        "zh-CN": "现在求你容仆人住下，替这童子作我主的奴仆，"
+      }
+    },
+    {
+      "id": "GENESIS_44_P008_F2",
+      "box": [
+        0,
+        0.5553,
+        0.4121,
+        0.2012
+      ],
+      "alt": {
+        "zh-CN": "犹大的手重重按在自己胸口，指节发白。"
+      }
+    },
+    {
+      "id": "GENESIS_44_P008_F3",
+      "box": [
+        0.418,
+        0.5553,
+        0.582,
+        0.2012
+      ],
+      "alt": {
+        "zh-CN": "叫童子和他哥哥们一同上去。"
+      }
+    },
+    {
+      "id": "GENESIS_44_P008_F4",
+      "box": [
+        0,
+        0.7598,
+        1,
+        0.2402
+      ],
+      "alt": {
+        "zh-CN": "约瑟的手指松开，银杯倒在扶手边，他的手在发抖。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_44_P008_B001",
+      "panel": "GENESIS_44_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4,
+        0.0166,
+        0.42,
+        0.0883
+      ],
+      "tail": [
+        0.61,
+        0.1601
+      ],
+      "text_key": "genesis.44.p8.b1"
+    },
+    {
+      "id": "GENESIS_44_P008_B002",
+      "panel": "GENESIS_44_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.709,
+        0.5633,
+        0.2735,
+        0.0523
+      ],
+      "tail": [
+        0.8458,
+        0.6357
+      ],
+      "text_key": "genesis.44.p8.b2"
+    }
+  ]
+}

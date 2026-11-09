@@ -1,0 +1,85 @@
+{
+  "id": "GENESIS_14_P003",
+  "book": "genesis",
+  "chapter": 14,
+  "page": 3,
+  "ref": "14:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_14_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_14_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3301
+      ],
+      "alt": {
+        "zh-CN": "有一个逃出来的人告诉希伯来人亚伯兰；亚伯兰正住在亚摩利人幔利的橡树那里。幔利和以实各并亚乃都是弟兄，曾与亚伯兰联盟。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P003_F2",
+      "box": [
+        0,
+        0.3327,
+        1,
+        0.2337
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰听见侄儿被掳，手按在腰间的短剑上。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P003_F3",
+      "box": [
+        0,
+        0.5703,
+        1,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰听见他侄儿被掳去，就率领他家里生养的精练壮丁三百一十八人，直追到但。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_14_P003_B008",
+      "panel": "GENESIS_14_P003_F1",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0132,
+        0.37,
+        0.0726
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p3.b8"
+    },
+    {
+      "id": "GENESIS_14_P003_B009",
+      "panel": "GENESIS_14_P003_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5875,
+        0.44,
+        0.0859
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p3.b9"
+    }
+  ]
+}

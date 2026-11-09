@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_45_P004",
+  "book": "genesis",
+  "chapter": 45,
+  "page": 4,
+  "ref": "45:9-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_45_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_45_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.418
+      ],
+      "alt": {
+        "zh-CN": "你们要赶紧上到我父亲那里，对他说：『你儿子约瑟这样说：　神使我作全埃及的主，请你下到我这里来，不要耽延。"
+      }
+    },
+    {
+      "id": "GENESIS_45_P004_F2",
+      "box": [
+        0,
+        0.4232,
+        1,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "你和你的儿子孙子，连牛群羊群，并一切所有的，都可以住在歌珊地，与我相近。我要在那里奉养你；因为还有五年的饥荒，免得你和你的眷属，并一切所有的，都败落了。』"
+      }
+    },
+    {
+      "id": "GENESIS_45_P004_F3",
+      "box": [
+        0,
+        0.7643,
+        0.4678,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "况且你们的眼和我兄弟便雅悯的眼都看见是我亲口对你们说话。"
+      }
+    },
+    {
+      "id": "GENESIS_45_P004_F4",
+      "box": [
+        0.4766,
+        0.7643,
+        0.5234,
+        0.2357
+      ],
+      "alt": {
+        "zh-CN": "你们也要将我在埃及一切的荣耀和你们所看见的事都告诉我父亲，又要赶紧地将我父亲搬到我这里来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_45_P004_B001",
+      "panel": "GENESIS_45_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.04,
+        0.0125,
+        0.92,
+        0.0836
+      ],
+      "tail": [
+        0.5,
+        0.1379
+      ],
+      "text_key": "genesis.45.p4.b1"
+    },
+    {
+      "id": "GENESIS_45_P004_B002",
+      "panel": "GENESIS_45_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.4333,
+        0.66,
+        0.0538
+      ],
+      "tail": [
+        0.63,
+        0.5208
+      ],
+      "text_key": "genesis.45.p4.b2"
+    },
+    {
+      "id": "GENESIS_45_P004_B003",
+      "panel": "GENESIS_45_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0187,
+        0.9481,
+        0.4303,
+        0.0447
+      ],
+      "tail": [
+        0.2339,
+        1
+      ],
+      "text_key": "genesis.45.p4.b3"
+    },
+    {
+      "id": "GENESIS_45_P004_B004",
+      "panel": "GENESIS_45_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4975,
+        0.7714,
+        0.2878,
+        0.0424
+      ],
+      "tail": [
+        0.6414,
+        0.8374
+      ],
+      "text_key": "genesis.45.p4.b4"
+    }
+  ]
+}

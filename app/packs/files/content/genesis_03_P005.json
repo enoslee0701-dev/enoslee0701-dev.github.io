@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_03_P005",
+  "book": "genesis",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:11-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_03_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2389
+      ],
+      "alt": {
+        "zh-CN": "耶和华说：「谁告诉你赤身露体呢？莫非你吃了我吩咐你不可吃的那树上的果子吗？」"
+      }
+    },
+    {
+      "id": "GENESIS_03_P005_F2",
+      "box": [
+        0,
+        0.2435,
+        1,
+        0.3965
+      ],
+      "alt": {
+        "zh-CN": "那人说：「你所赐给我、与我同居的女人，她把那树上的果子给我，我就吃了。」"
+      }
+    },
+    {
+      "id": "GENESIS_03_P005_F3",
+      "box": [
+        0,
+        0.6452,
+        0.5801,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "耶和华神对女人说：「你做的是什么事呢？」女人说：「那蛇引诱我，我就吃了。」"
+      }
+    },
+    {
+      "id": "GENESIS_03_P005_F4",
+      "box": [
+        0.5879,
+        0.6452,
+        0.4121,
+        0.3548
+      ],
+      "alt": {
+        "zh-CN": "树枝上已经空了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_03_P005_B014",
+      "panel": "GENESIS_03_P005_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0096,
+        0.5,
+        0.0716
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p5.b14"
+    },
+    {
+      "id": "GENESIS_03_P005_B015",
+      "panel": "GENESIS_03_P005_F2",
+      "order": 15,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.2554,
+        0.46,
+        0.0872
+      ],
+      "tail": [
+        0.26,
+        0.3823
+      ],
+      "text_key": "genesis.3.p5.b15"
+    },
+    {
+      "id": "GENESIS_03_P005_B016",
+      "panel": "GENESIS_03_P005_F3",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3017,
+        0.6558,
+        0.261,
+        0.0239
+      ],
+      "tail": null,
+      "text_key": "genesis.3.p5.b16"
+    },
+    {
+      "id": "GENESIS_03_P005_B017",
+      "panel": "GENESIS_03_P005_F3",
+      "order": 17,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.3017,
+        0.6869,
+        0.261,
+        0.0292
+      ],
+      "tail": [
+        0.4322,
+        0.7516
+      ],
+      "text_key": "genesis.3.p5.b17"
+    }
+  ]
+}

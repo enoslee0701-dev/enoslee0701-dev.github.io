@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_36_P002",
+  "book": "genesis",
+  "chapter": 36,
+  "page": 2,
+  "ref": "36:9-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_36_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_36_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ],
+      "alt": {
+        "zh-CN": "以扫是西珥山里以东人的始祖。以利法的儿子是提幔、阿抹、洗玻、迦坦、基纳斯，亭纳给以利法生了亚玛力；流珥的儿子是拿哈、谢拉、沙玛、米撒。以扫子孙中作族长的记在下面。"
+      }
+    },
+    {
+      "id": "GENESIS_36_P002_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.4531
+      ],
+      "alt": {
+        "zh-CN": "祭便的儿子是亚雅、亚拿；亚拿当时在旷野放他父亲祭便的驴，遇着了温泉。"
+      }
+    },
+    {
+      "id": "GENESIS_36_P002_F3",
+      "box": [
+        0,
+        0.7031,
+        0.5479,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "那地原有的居民—何利人西珥的子孙记在下面：就是罗坍、朔巴、祭便、亚拿、底顺、以察、底珊，都在西珥地按着宗族作族长。"
+      }
+    },
+    {
+      "id": "GENESIS_36_P002_F4",
+      "box": [
+        0.5527,
+        0.7031,
+        0.4473,
+        0.2969
+      ],
+      "alt": {
+        "zh-CN": "亚拿的儿子是底顺；亚拿的女儿是阿何利巴玛，她嫁给了以扫，何利人的一枝和以扫的一枝交缠在一起。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_36_P002_B005",
+      "panel": "GENESIS_36_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0098,
+        0.3,
+        0.0685
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p2.b5"
+    },
+    {
+      "id": "GENESIS_36_P002_B006",
+      "panel": "GENESIS_36_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.261,
+        0.33,
+        0.0724
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p2.b6"
+    },
+    {
+      "id": "GENESIS_36_P002_B007",
+      "panel": "GENESIS_36_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0164,
+        0.712,
+        0.3068,
+        0.0593
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p2.b7"
+    },
+    {
+      "id": "GENESIS_36_P002_B008",
+      "panel": "GENESIS_36_P002_F4",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8032,
+        0.8367,
+        0.1878,
+        0.1484
+      ],
+      "tail": null,
+      "text_key": "genesis.36.p2.b8"
+    }
+  ]
+}

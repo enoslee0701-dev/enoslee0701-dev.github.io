@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_23_P002",
+  "book": "genesis",
+  "chapter": 23,
+  "page": 2,
+  "ref": "23:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_23_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_23_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2773
+      ],
+      "alt": {
+        "zh-CN": "赫人回答亚伯拉罕说：「我主请听。你在我们中间是一位尊大的王子，只管在我们最好的坟地里埋葬你的死人；我们没有一人不容你在他的坟地里埋葬你的死人。」"
+      }
+    },
+    {
+      "id": "GENESIS_23_P002_F2",
+      "box": [
+        0,
+        0.2819,
+        1,
+        0.3711
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕就起来，向那地的赫人下拜，"
+      }
+    },
+    {
+      "id": "GENESIS_23_P002_F3",
+      "box": [
+        0,
+        0.6569,
+        0.5361,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "对他们说：「你们若有意叫我埋葬我的死人，使她不在我眼前，就请听我的话，为我求琐辖的儿子以弗仑；把田头上那麦比拉洞给我；他可以按着足价卖给我，作我在你们中间的坟地。」"
+      }
+    },
+    {
+      "id": "GENESIS_23_P002_F4",
+      "box": [
+        0.5439,
+        0.6569,
+        0.4561,
+        0.3431
+      ],
+      "alt": {
+        "zh-CN": "城外田头的岩壁底下，是麦比拉洞。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_23_P002_B005",
+      "panel": "GENESIS_23_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.45,
+        0.0083,
+        0.52,
+        0.061
+      ],
+      "tail": [
+        0.71,
+        0.097
+      ],
+      "text_key": "genesis.23.p2.b5"
+    },
+    {
+      "id": "GENESIS_23_P002_B006",
+      "panel": "GENESIS_23_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2967,
+        0.45,
+        0.0742
+      ],
+      "tail": null,
+      "text_key": "genesis.23.p2.b6"
+    },
+    {
+      "id": "GENESIS_23_P002_B007",
+      "panel": "GENESIS_23_P002_F3",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0214,
+        0.6672,
+        0.4824,
+        0.0754
+      ],
+      "tail": [
+        0.2626,
+        0.7769
+      ],
+      "text_key": "genesis.23.p2.b7"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_01_P005",
+  "book": "genesis",
+  "chapter": 1,
+  "page": 5,
+  "ref": "1:14-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_01_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_01_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "神说：「天上要有光体，可以分昼夜，作记号，定节令、日子、年岁。」"
+      }
+    },
+    {
+      "id": "GENESIS_01_P005_F2",
+      "box": [
+        0,
+        0.2207,
+        1,
+        0.4961
+      ],
+      "alt": {
+        "zh-CN": "于是神造了两个大光，大的管白天，小的管夜晚，又造了众星。"
+      }
+    },
+    {
+      "id": "GENESIS_01_P005_F3",
+      "box": [
+        0,
+        0.7207,
+        0.535,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "它们管理昼夜，分别明暗。神看着是好的。"
+      }
+    },
+    {
+      "id": "GENESIS_01_P005_F4",
+      "box": [
+        0.55,
+        0.7207,
+        0.45,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "有晚上，有早晨，是第四天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_01_P005_B014",
+      "panel": "GENESIS_01_P005_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4,
+        0.013,
+        0.56,
+        0.0867
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p5.b14"
+    },
+    {
+      "id": "GENESIS_01_P005_B015",
+      "panel": "GENESIS_01_P005_F2",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.2505,
+        0.4,
+        0.0793
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p5.b15"
+    },
+    {
+      "id": "GENESIS_01_P005_B016",
+      "panel": "GENESIS_01_P005_F3",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0214,
+        0.743,
+        0.2996,
+        0.0837
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p5.b16"
+    },
+    {
+      "id": "GENESIS_01_P005_B017",
+      "panel": "GENESIS_01_P005_F4",
+      "order": 17,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.595,
+        0.9274,
+        0.36,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p5.b17"
+    }
+  ]
+}

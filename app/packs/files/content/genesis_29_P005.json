@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_29_P005",
+  "book": "genesis",
+  "chapter": 29,
+  "page": 5,
+  "ref": "29:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_29_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_29_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2298
+      ],
+      "alt": {
+        "zh-CN": "拉班听见外甥雅各的信息，就跑去迎接，抱着他，与他亲嘴，"
+      }
+    },
+    {
+      "id": "GENESIS_29_P005_F2",
+      "box": [
+        0,
+        0.2331,
+        1,
+        0.4486
+      ],
+      "alt": {
+        "zh-CN": "拉班紧紧抱住雅各。"
+      }
+    },
+    {
+      "id": "GENESIS_29_P005_F3",
+      "box": [
+        0,
+        0.6842,
+        0.5625,
+        0.3158
+      ],
+      "alt": {
+        "zh-CN": "领他到自己的家。雅各将一切的情由告诉拉班。"
+      }
+    },
+    {
+      "id": "GENESIS_29_P005_F4",
+      "box": [
+        0.5674,
+        0.6842,
+        0.4326,
+        0.3158
+      ],
+      "alt": {
+        "zh-CN": "拉班对他说：「你实在是我的骨肉。」雅各就和他同住了一个月。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_29_P005_B001",
+      "panel": "GENESIS_29_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0069,
+        0.3,
+        0.0459
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p5.b1"
+    },
+    {
+      "id": "GENESIS_29_P005_B002",
+      "panel": "GENESIS_29_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0225,
+        0.6937,
+        0.5175,
+        0.0694
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p5.b2"
+    },
+    {
+      "id": "GENESIS_29_P005_B003",
+      "panel": "GENESIS_29_P005_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5847,
+        0.6905,
+        0.3979,
+        0.041
+      ],
+      "tail": [
+        0.7837,
+        0.7631
+      ],
+      "text_key": "genesis.29.p5.b3"
+    },
+    {
+      "id": "GENESIS_29_P005_B004",
+      "panel": "GENESIS_29_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5761,
+        0.9558,
+        0.1038,
+        0.0378
+      ],
+      "tail": null,
+      "text_key": "genesis.29.p5.b4"
+    }
+  ]
+}

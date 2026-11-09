@@ -1,0 +1,142 @@
+{
+  "id": "GENESIS_47_P007",
+  "book": "genesis",
+  "chapter": 47,
+  "page": 7,
+  "ref": "47:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_47_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_47_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2324
+      ]
+    },
+    {
+      "id": "GENESIS_47_P007_F2",
+      "box": [
+        0,
+        0.2363,
+        1,
+        0.2637
+      ],
+      "alt": {
+        "zh-CN": "他就叫了他儿子约瑟来，说：「我若在你眼前蒙恩，请你把手放在我大腿底下，用慈爱和诚实待我，请你不要将我葬在埃及。我与我祖我父同睡的时候，你要将我带出埃及，葬在他们所葬的地方。」"
+      }
+    },
+    {
+      "id": "GENESIS_47_P007_F3",
+      "box": [
+        0,
+        0.5026,
+        1,
+        0.1745
+      ]
+    },
+    {
+      "id": "GENESIS_47_P007_F4",
+      "box": [
+        0,
+        0.6784,
+        1,
+        0.3216
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_47_P007_B001",
+      "panel": "GENESIS_47_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.007,
+        0.5,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p7.b1"
+    },
+    {
+      "id": "GENESIS_47_P007_B002",
+      "panel": "GENESIS_47_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.2442,
+        0.28,
+        0.058
+      ],
+      "tail": [
+        0.16,
+        0.3286
+      ],
+      "text_key": "genesis.47.p7.b2"
+    },
+    {
+      "id": "GENESIS_47_P007_B003",
+      "panel": "GENESIS_47_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5096,
+        0.27,
+        0.0383
+      ],
+      "tail": [
+        0.165,
+        0.5654
+      ],
+      "text_key": "genesis.47.p7.b3"
+    },
+    {
+      "id": "GENESIS_47_P007_B004",
+      "panel": "GENESIS_47_P007_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.62,
+        0.6178,
+        0.35,
+        0.0488
+      ],
+      "tail": [
+        0.795,
+        0.6771
+      ],
+      "text_key": "genesis.47.p7.b4"
+    },
+    {
+      "id": "GENESIS_47_P007_B005",
+      "panel": "GENESIS_47_P007_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.688,
+        0.45,
+        0.0578
+      ],
+      "tail": null,
+      "text_key": "genesis.47.p7.b5"
+    }
+  ]
+}

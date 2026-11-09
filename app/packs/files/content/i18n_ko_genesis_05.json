@@ -1,0 +1,102 @@
+{
+  "genesis.5.p1.b1": {
+    "text": "아담 자손의 계보가 이러하니라 하나님이 사람을 창조하실 때에 하나님의 형상대로 지으시되 남자와 여자를 창조하셨고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b2": {
+    "text": "아담이 일백 삼십세에 자기 모양 곧 자기 형상과 같은 아들을 낳아 이름을 셋이라 하였고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b3": {
+    "text": "그가 구백 삼십세를 향수하고 죽었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p1.b4": {
+    "text": "그가 구백 십이세를 향수하고 죽었더라 … 그가 구백 오세를 향수하고 죽었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:8-11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b5": {
+    "text": "그가 팔백 구십 오세를 향수하고 죽었더라 … 그가 구백 육십 이세를 향수하고 죽었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:17-20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b6": {
+    "text": "므드셀라를 낳은 후 삼백년을 하나님과 동행하며 자녀를 낳았으며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p2.b7": {
+    "text": "에녹이 하나님과 동행하더니 하나님이 그를 데려가시므로 세상에 있지 아니하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b8": {
+    "text": "그는 구백 육십 구세를 향수하고 죽었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b9": {
+    "text": "여호와께서 땅을 저주하시므로 수고로이 일하는 우리를 이 아들이 안위하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.5.p3.b10": {
+    "text": "노아가 오백세 된 후에 셈과 함과 야벳을 낳았더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 5:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

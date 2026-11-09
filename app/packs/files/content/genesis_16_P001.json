@@ -1,0 +1,103 @@
+{
+  "id": "GENESIS_16_P001",
+  "book": "genesis",
+  "chapter": 16,
+  "page": 1,
+  "ref": "16:1-3",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_16_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_16_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰的妻子撒莱不给他生儿女。撒莱有一个使女，名叫夏甲，是埃及人。撒莱站在帐棚门口看别人家的孩子。"
+      }
+    },
+    {
+      "id": "GENESIS_16_P001_F2",
+      "box": [
+        0,
+        0.2617,
+        1,
+        0.2643
+      ],
+      "alt": {
+        "zh-CN": "撒莱对亚伯兰说：「耶和华使我不能生育。求你和我的使女同房，或者我可以因她得孩子。」亚伯兰听从了撒莱的话。"
+      }
+    },
+    {
+      "id": "GENESIS_16_P001_F3",
+      "box": [
+        0,
+        0.5299,
+        1,
+        0.4701
+      ],
+      "alt": {
+        "zh-CN": "于是亚伯兰的妻子撒莱将使女埃及人夏甲给了丈夫为妾；那时亚伯兰在迦南已经住了十年。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_16_P001_B001",
+      "panel": "GENESIS_16_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0103,
+        0.5,
+        0.0721
+      ],
+      "tail": null,
+      "text_key": "genesis.16.p1.b1"
+    },
+    {
+      "id": "GENESIS_16_P001_B002",
+      "panel": "GENESIS_16_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.42,
+        0.2696,
+        0.55,
+        0.0396
+      ],
+      "tail": [
+        0.695,
+        0.3356
+      ],
+      "text_key": "genesis.16.p1.b2"
+    },
+    {
+      "id": "GENESIS_16_P001_B003",
+      "panel": "GENESIS_16_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.544,
+        0.44,
+        0.0752
+      ],
+      "tail": null,
+      "text_key": "genesis.16.p1.b3"
+    }
+  ]
+}

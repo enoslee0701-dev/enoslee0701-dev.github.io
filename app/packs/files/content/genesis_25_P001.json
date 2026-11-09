@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_25_P001",
+  "book": "genesis",
+  "chapter": 25,
+  "page": 1,
+  "ref": "25:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_25_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_25_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕又娶了一妻，名叫基土拉。白发的亚伯拉罕抱着婴孩，基土拉和孩子们站在旁边。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P001_F2",
+      "box": [
+        0,
+        0.2656,
+        1,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "基土拉给他生了心兰、约珊、米但、米甸、伊施巴，和书亚。约珊生了示巴和底但。底但的子孙是亚书利族、利都是族，和利乌米族。米甸的儿子是以法、以弗、哈诺、亚比大，和以勒大。这都是基土拉的子孙。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P001_F3",
+      "box": [
+        0,
+        0.5983,
+        0.3398,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕将一切所有的都给了以撒。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P001_F4",
+      "box": [
+        0.3467,
+        0.5983,
+        0.6533,
+        0.4017
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕把财物分给他庶出的众子，趁着自己还在世的时候打发他们离开他的儿子以撒，往东方去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_25_P001_B001",
+      "panel": "GENESIS_25_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.76,
+        0.0079,
+        0.22,
+        0.0915
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p1.b1"
+    },
+    {
+      "id": "GENESIS_25_P001_B002",
+      "panel": "GENESIS_25_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.69,
+        0.2788,
+        0.29,
+        0.1183
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p1.b2"
+    },
+    {
+      "id": "GENESIS_25_P001_B003",
+      "panel": "GENESIS_25_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1903,
+        0.9357,
+        0.1393,
+        0.0562
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p1.b3"
+    },
+    {
+      "id": "GENESIS_25_P001_B004",
+      "panel": "GENESIS_25_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3728,
+        0.9197,
+        0.2743,
+        0.0682
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p1.b4"
+    }
+  ]
+}

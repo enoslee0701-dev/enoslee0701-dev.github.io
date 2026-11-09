@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_37_P001",
+  "book": "genesis",
+  "chapter": 37,
+  "page": 1,
+  "ref": "37:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_37_P001",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "GENESIS_37_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3047
+      ],
+      "alt": {
+        "zh-CN": "雅各住在迦南地，就是他父亲寄居的地。雅各的记略如下。约瑟十七岁与他哥哥们一同牧羊。他是个童子，与他父亲的妾辟拉、悉帕的儿子们常在一处。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P001_F2",
+      "box": [
+        0,
+        0.3105,
+        0.3281,
+        0.4049
+      ],
+      "alt": {
+        "zh-CN": "约瑟将他哥哥们的恶行报给他们的父亲。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P001_F3",
+      "box": [
+        0.3369,
+        0.3105,
+        0.6631,
+        0.4049
+      ],
+      "alt": {
+        "zh-CN": "以色列原来爱约瑟过于爱他的众子，因为约瑟是他年老生的；他给约瑟做了一件彩衣。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P001_F4",
+      "box": [
+        0,
+        0.7207,
+        1,
+        0.2793
+      ],
+      "alt": {
+        "zh-CN": "约瑟的哥哥们见父亲爱约瑟过于爱他们，就恨约瑟，不与他说和睦的话。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_37_P001_B001",
+      "panel": "GENESIS_37_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.55,
+        0.0091,
+        0.42,
+        0.0299
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p1.b1"
+    },
+    {
+      "id": "GENESIS_37_P001_B002",
+      "panel": "GENESIS_37_P001_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0452,
+        0.42,
+        0.0249
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p1.b2"
+    },
+    {
+      "id": "GENESIS_37_P001_B003",
+      "panel": "GENESIS_37_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3568,
+        0.6344,
+        0.3315,
+        0.0688
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p1.b3"
+    },
+    {
+      "id": "GENESIS_37_P001_B004",
+      "panel": "GENESIS_37_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9441,
+        0.55,
+        0.0474
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p1.b4"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_16_P003",
+  "book": "genesis",
+  "chapter": 16,
+  "page": 3,
+  "ref": "16:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_16_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_16_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4147
+      ],
+      "alt": {
+        "zh-CN": "耶和华的使者在旷野书珥路上的水泉旁遇见她。夏甲坐在井边，路那头逆光站着一个人。"
+      }
+    },
+    {
+      "id": "GENESIS_16_P003_F2",
+      "box": [
+        0,
+        0.418,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "对她说：「撒莱的使女夏甲，你从哪里来？要往哪里去？」"
+      }
+    },
+    {
+      "id": "GENESIS_16_P003_F3",
+      "box": [
+        0,
+        0.6654,
+        0.373,
+        0.3346
+      ],
+      "alt": {
+        "zh-CN": "夏甲说：「我从我的主母撒莱面前逃出来。」"
+      }
+    },
+    {
+      "id": "GENESIS_16_P003_F4",
+      "box": [
+        0.3779,
+        0.6654,
+        0.6221,
+        0.3346
+      ],
+      "alt": {
+        "zh-CN": "耶和华的使者对她说：「你回到你主母那里，服在她手下」；又说：「我必使你的后裔极其繁多，甚至不可胜数」。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_16_P003_B008",
+      "panel": "GENESIS_16_P003_F1",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0124,
+        0.46,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "genesis.16.p3.b8"
+    },
+    {
+      "id": "GENESIS_16_P003_B009",
+      "panel": "GENESIS_16_P003_F2",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.42,
+        0.4278,
+        0.3,
+        0.0732
+      ],
+      "tail": null,
+      "text_key": "genesis.16.p3.b9"
+    },
+    {
+      "id": "GENESIS_16_P003_B010",
+      "panel": "GENESIS_16_P003_F3",
+      "order": 10,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0149,
+        0.6754,
+        0.3431,
+        0.0669
+      ],
+      "tail": [
+        0.1865,
+        0.7758
+      ],
+      "text_key": "genesis.16.p3.b10"
+    },
+    {
+      "id": "GENESIS_16_P003_B011",
+      "panel": "GENESIS_16_P003_F4",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4028,
+        0.6754,
+        0.5723,
+        0.0936
+      ],
+      "tail": null,
+      "text_key": "genesis.16.p3.b11"
+    }
+  ]
+}

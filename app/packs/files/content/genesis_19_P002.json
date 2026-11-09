@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_19_P002",
+  "book": "genesis",
+  "chapter": 19,
+  "page": 2,
+  "ref": "19:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_19_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_19_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.291
+      ],
+      "alt": {
+        "zh-CN": "他们还没有躺下，所多玛城里各处的人，连老带少，都来围住那房子，"
+      }
+    },
+    {
+      "id": "GENESIS_19_P002_F2",
+      "box": [
+        0,
+        0.2943,
+        1,
+        0.1777
+      ],
+      "alt": {
+        "zh-CN": "呼叫罗得说：「今日晚上到你这里来的人在哪里呢？把他们带出来，任我们所为。」"
+      }
+    },
+    {
+      "id": "GENESIS_19_P002_F3",
+      "box": [
+        0,
+        0.4753,
+        0.5732,
+        0.5247
+      ],
+      "alt": {
+        "zh-CN": "罗得出来，把门关上，到众人那里，"
+      }
+    },
+    {
+      "id": "GENESIS_19_P002_F4",
+      "box": [
+        0.5791,
+        0.4753,
+        0.4209,
+        0.5247
+      ],
+      "alt": {
+        "zh-CN": "说：「众弟兄，请你们不要做这恶事。我有两个女儿，还是处女，容我领出来，任凭你们的心愿而行；只是这两个人既然到我舍下，不要向他们做什么。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_19_P002_B005",
+      "panel": "GENESIS_19_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0116,
+        0.25,
+        0.1105
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p2.b5"
+    },
+    {
+      "id": "GENESIS_19_P002_B006",
+      "panel": "GENESIS_19_P002_F2",
+      "order": 6,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.2996,
+        0.47,
+        0.0444
+      ],
+      "tail": [
+        0.735,
+        0.3618
+      ],
+      "text_key": "genesis.19.p2.b6"
+    },
+    {
+      "id": "GENESIS_19_P002_B007",
+      "panel": "GENESIS_19_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0229,
+        0.4858,
+        0.5273,
+        0.0524
+      ],
+      "tail": null,
+      "text_key": "genesis.19.p2.b7"
+    },
+    {
+      "id": "GENESIS_19_P002_B008",
+      "panel": "GENESIS_19_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6001,
+        0.8531,
+        0.3788,
+        0.1259
+      ],
+      "tail": [
+        0.7895,
+        1
+      ],
+      "text_key": "genesis.19.p2.b8"
+    }
+  ]
+}

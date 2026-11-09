@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_13_P004",
+  "book": "genesis",
+  "chapter": 13,
+  "page": 4,
+  "ref": "13:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_13_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_13_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3854
+      ],
+      "alt": {
+        "zh-CN": "罗得举目看见约旦河的全平原，直到琐珥，都是滋润的，如同耶和华的园子，也像埃及地。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P004_F2",
+      "box": [
+        0,
+        0.3887,
+        0.5498,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "于是罗得选择约旦河的全平原，往东迁移；他们就彼此分离了。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P004_F3",
+      "box": [
+        0.5557,
+        0.3887,
+        0.4443,
+        0.2923
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰一个人站在坡上，看着罗得远去。"
+      }
+    },
+    {
+      "id": "GENESIS_13_P004_F4",
+      "box": [
+        0,
+        0.6849,
+        1,
+        0.3151
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰住在迦南地，罗得住在平原的城邑，渐渐挪移帐棚，直到所多玛。所多玛人在耶和华面前罪大恶极。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_13_P004_B010",
+      "panel": "GENESIS_13_P004_F1",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0116,
+        0.55,
+        0.0616
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p4.b10"
+    },
+    {
+      "id": "GENESIS_13_P004_B011",
+      "panel": "GENESIS_13_P004_F2",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.022,
+        0.3975,
+        0.3848,
+        0.0526
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p4.b11"
+    },
+    {
+      "id": "GENESIS_13_P004_B012",
+      "panel": "GENESIS_13_P004_F4",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6975,
+        0.48,
+        0.063
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p4.b12"
+    },
+    {
+      "id": "GENESIS_13_P004_B013",
+      "panel": "GENESIS_13_P004_F4",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.937,
+        0.5,
+        0.0504
+      ],
+      "tail": null,
+      "text_key": "genesis.13.p4.b13"
+    }
+  ]
+}

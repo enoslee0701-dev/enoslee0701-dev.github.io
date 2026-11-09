@@ -1,0 +1,100 @@
+{
+  "id": "SAMUEL1_17_P002",
+  "book": "samuel1",
+  "chapter": 17,
+  "page": 2,
+  "ref": "17:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_17_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_17_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3021
+      ],
+      "alt": {
+        "zh-CN": "从非利士营中出来一个讨战的人，名叫歌利亚，是迦特人，身高六肘零一虎口。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P002_F2",
+      "box": [
+        0,
+        0.3066,
+        0.7188,
+        0.6934
+      ],
+      "alt": {
+        "zh-CN": "他头戴铜盔，身穿铠甲，甲重五千舍客勒；腿上有铜护膝，两肩之中背负铜戟。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P002_F3",
+      "box": [
+        0.7266,
+        0.3066,
+        0.2734,
+        0.6934
+      ],
+      "alt": {
+        "zh-CN": "枪杆粗如织布的机轴，铁枪头重六百舍客勒。有一个拿盾牌的人在他前面走。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_17_P002_B003",
+      "panel": "SAMUEL1_17_P002_F1",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0121,
+        0.5,
+        0.0906
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p2.b3"
+    },
+    {
+      "id": "SAMUEL1_17_P002_B004",
+      "panel": "SAMUEL1_17_P002_F2",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5032,
+        0.3205,
+        0.2012,
+        0.1248
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p2.b4"
+    },
+    {
+      "id": "SAMUEL1_17_P002_B005",
+      "panel": "SAMUEL1_17_P002_F3",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7403,
+        0.792,
+        0.246,
+        0.1872
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p2.b5"
+    }
+  ]
+}

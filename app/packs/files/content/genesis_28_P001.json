@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_28_P001",
+  "book": "genesis",
+  "chapter": 28,
+  "page": 1,
+  "ref": "28:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_28_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_28_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2559
+      ],
+      "alt": {
+        "zh-CN": "以撒叫了雅各来，给他祝福，并嘱咐他说："
+      }
+    },
+    {
+      "id": "GENESIS_28_P001_F2",
+      "box": [
+        0,
+        0.2604,
+        0.5674,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "「你不要娶迦南的女子为妻。"
+      }
+    },
+    {
+      "id": "GENESIS_28_P001_F3",
+      "box": [
+        0.5752,
+        0.2604,
+        0.4248,
+        0.2982
+      ],
+      "alt": {
+        "zh-CN": "你起身往巴旦·亚兰去，到你外祖彼土利家里，"
+      }
+    },
+    {
+      "id": "GENESIS_28_P001_F4",
+      "box": [
+        0,
+        0.5632,
+        1,
+        0.4368
+      ],
+      "alt": {
+        "zh-CN": "在你母舅拉班的女儿中娶一女为妻。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_28_P001_B001",
+      "panel": "GENESIS_28_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.0102,
+        0.56,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "genesis.28.p1.b1"
+    },
+    {
+      "id": "GENESIS_28_P001_B002",
+      "panel": "GENESIS_28_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.017,
+        0.2723,
+        0.2042,
+        0.0596
+      ],
+      "tail": [
+        0.1191,
+        0.3617
+      ],
+      "text_key": "genesis.28.p1.b2"
+    },
+    {
+      "id": "GENESIS_28_P001_B003",
+      "panel": "GENESIS_28_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5922,
+        0.487,
+        0.3908,
+        0.0626
+      ],
+      "tail": [
+        0.7876,
+        0.5586
+      ],
+      "text_key": "genesis.28.p1.b3"
+    },
+    {
+      "id": "GENESIS_28_P001_B004",
+      "panel": "GENESIS_28_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.8777,
+        0.33,
+        0.1048
+      ],
+      "tail": [
+        0.805,
+        1
+      ],
+      "text_key": "genesis.28.p1.b4"
+    }
+  ]
+}

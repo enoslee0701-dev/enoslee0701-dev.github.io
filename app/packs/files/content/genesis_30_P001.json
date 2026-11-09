@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_30_P001",
+  "book": "genesis",
+  "chapter": 30,
+  "page": 1,
+  "ref": "30:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_30_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_30_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "拉结见自己不给雅各生子，就嫉妒她姊姊，"
+      }
+    },
+    {
+      "id": "GENESIS_30_P001_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.3906
+      ],
+      "alt": {
+        "zh-CN": "对雅各说：「你给我孩子，不然我就死了。」"
+      }
+    },
+    {
+      "id": "GENESIS_30_P001_F3",
+      "box": [
+        0,
+        0.6348,
+        0.4971,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "雅各向拉结生气，说：「叫你不生育的是　神，我岂能代替他作主呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_30_P001_F4",
+      "box": [
+        0.5029,
+        0.6348,
+        0.4971,
+        0.3652
+      ],
+      "alt": {
+        "zh-CN": "拉结说：「有我的使女辟拉在这里，你可以与她同房，使她生子在我膝下，我便因她也得孩子。」拉结就把她的使女辟拉给丈夫为妾；雅各便与她同房，"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_30_P001_B001",
+      "panel": "GENESIS_30_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0071,
+        0.4,
+        0.0475
+      ],
+      "tail": null,
+      "text_key": "genesis.30.p1.b1"
+    },
+    {
+      "id": "GENESIS_30_P001_B002",
+      "panel": "GENESIS_30_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.2526,
+        0.4,
+        0.0624
+      ],
+      "tail": [
+        0.23,
+        0.3541
+      ],
+      "text_key": "genesis.30.p1.b2"
+    },
+    {
+      "id": "GENESIS_30_P001_B003",
+      "panel": "GENESIS_30_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0099,
+        0.6421,
+        0.169,
+        0.062
+      ],
+      "tail": [
+        0.0944,
+        0.7406
+      ],
+      "text_key": "genesis.30.p1.b3"
+    },
+    {
+      "id": "GENESIS_30_P001_B004",
+      "panel": "GENESIS_30_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5228,
+        0.6458,
+        0.4573,
+        0.0511
+      ],
+      "tail": [
+        0.7515,
+        0.7334
+      ],
+      "text_key": "genesis.30.p1.b4"
+    }
+  ]
+}

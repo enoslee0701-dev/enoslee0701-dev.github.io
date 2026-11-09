@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_45_P003",
+  "book": "genesis",
+  "chapter": 45,
+  "page": 3,
+  "ref": "45:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_45_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_45_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3047
+      ]
+    },
+    {
+      "id": "GENESIS_45_P003_F2",
+      "box": [
+        0,
+        0.3086,
+        0.3525,
+        0.2884
+      ]
+    },
+    {
+      "id": "GENESIS_45_P003_F3",
+      "box": [
+        0.3584,
+        0.3086,
+        0.6416,
+        0.6914
+      ],
+      "alt": {
+        "zh-CN": "现在，不要因为把我卖到这里自忧自恨。这是　神差我在你们以先来，为要保全生命。现在这地的饥荒已经二年了，还有五年不能耕种，不能收成。　神差我在你们以先来，为要给你们存留余种在世上，又要大施拯救，保全你们的生命。"
+      }
+    },
+    {
+      "id": "GENESIS_45_P003_F4",
+      "box": [
+        0,
+        0.6009,
+        0.3525,
+        0.3991
+      ],
+      "alt": {
+        "zh-CN": "这样看来，差我到这里来的不是你们，乃是　神。他又使我如法老的父，作他全家的主，并埃及全地的宰相。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_45_P003_B001",
+      "panel": "GENESIS_45_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0091,
+        0.4,
+        0.067
+      ],
+      "tail": [
+        0.5,
+        0.1066
+      ],
+      "text_key": "genesis.45.p3.b1"
+    },
+    {
+      "id": "GENESIS_45_P003_B002",
+      "panel": "GENESIS_45_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0141,
+        0.5336,
+        0.3243,
+        0.0547
+      ],
+      "tail": [
+        0.1763,
+        0.597
+      ],
+      "text_key": "genesis.45.p3.b2"
+    },
+    {
+      "id": "GENESIS_45_P003_B003",
+      "panel": "GENESIS_45_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3841,
+        0.3293,
+        0.5902,
+        0.1244
+      ],
+      "tail": [
+        0.6792,
+        0.5228
+      ],
+      "text_key": "genesis.45.p3.b3"
+    },
+    {
+      "id": "GENESIS_45_P003_B004",
+      "panel": "GENESIS_45_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0141,
+        0.9202,
+        0.3243,
+        0.0678
+      ],
+      "tail": [
+        0.1763,
+        1
+      ],
+      "text_key": "genesis.45.p3.b4"
+    }
+  ]
+}

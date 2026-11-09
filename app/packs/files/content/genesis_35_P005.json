@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_35_P005",
+  "book": "genesis",
+  "chapter": 35,
+  "page": 5,
+  "ref": "35:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_35_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_35_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "拉结死了，葬在以法他的路旁；以法他就是伯利恒。"
+      }
+    },
+    {
+      "id": "GENESIS_35_P005_F2",
+      "box": [
+        0,
+        0.3047,
+        1,
+        0.4023
+      ],
+      "alt": {
+        "zh-CN": "雅各在她的坟上立了一统碑，就是拉结的墓碑，到今日还在。"
+      }
+    },
+    {
+      "id": "GENESIS_35_P005_F3",
+      "box": [
+        0,
+        0.7096,
+        0.3545,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "婴孩的小手攥住哥哥的手指。"
+      }
+    },
+    {
+      "id": "GENESIS_35_P005_F4",
+      "box": [
+        0.3594,
+        0.7096,
+        0.6406,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "以色列起行前往，在以得台那边支搭帐棚。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_35_P005_B001",
+      "panel": "GENESIS_35_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.006,
+        0.55,
+        0.0391
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p5.b1"
+    },
+    {
+      "id": "GENESIS_35_P005_B002",
+      "panel": "GENESIS_35_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7,
+        0.3168,
+        0.28,
+        0.0643
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p5.b2"
+    },
+    {
+      "id": "GENESIS_35_P005_B003",
+      "panel": "GENESIS_35_P005_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.59,
+        0.7183,
+        0.3074,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p5.b3"
+    }
+  ]
+}

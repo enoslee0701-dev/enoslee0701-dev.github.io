@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_18_P008",
+  "book": "genesis",
+  "chapter": 18,
+  "page": 8,
+  "ref": "18:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_18_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_18_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.401
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕说：「我虽然是灰尘，还敢对主说话。"
+      }
+    },
+    {
+      "id": "GENESIS_18_P008_F2",
+      "box": [
+        0,
+        0.4049,
+        0.499,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "假若这五十个义人短了五个，你就因为短了五个毁灭全城吗？」他说：「我在那里若见有四十五个，也不毁灭那城。」"
+      }
+    },
+    {
+      "id": "GENESIS_18_P008_F3",
+      "box": [
+        0.5049,
+        0.4049,
+        0.4951,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕又对他说：「假若在那里见有四十个怎么样呢？」他说：「为这四十个的缘故，我也不做这事。」"
+      }
+    },
+    {
+      "id": "GENESIS_18_P008_F4",
+      "box": [
+        0,
+        0.6673,
+        1,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕说：「求主不要动怒，容我说，假若在那里见有三十个怎么样呢？」他说：「我在那里若见有三十个，我也不做这事。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_18_P008_B028",
+      "panel": "GENESIS_18_P008_F1",
+      "order": 28,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.016,
+        0.21,
+        0.1203
+      ],
+      "tail": [
+        0.685,
+        0.1764
+      ],
+      "text_key": "genesis.18.p8.b28"
+    },
+    {
+      "id": "GENESIS_18_P008_B029",
+      "panel": "GENESIS_18_P008_F2",
+      "order": 29,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.4127,
+        0.3093,
+        0.0362
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p8.b29"
+    },
+    {
+      "id": "GENESIS_18_P008_B030",
+      "panel": "GENESIS_18_P008_F3",
+      "order": 30,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5198,
+        0.4179,
+        0.1089,
+        0.1088
+      ],
+      "tail": [
+        0.5743,
+        0.5526
+      ],
+      "text_key": "genesis.18.p8.b30"
+    },
+    {
+      "id": "GENESIS_18_P008_B031",
+      "panel": "GENESIS_18_P008_F4",
+      "order": 31,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.6806,
+        0.32,
+        0.0598
+      ],
+      "tail": [
+        0.18,
+        0.7737
+      ],
+      "text_key": "genesis.18.p8.b31"
+    }
+  ]
+}

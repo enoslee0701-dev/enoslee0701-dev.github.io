@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_37_P010",
+  "book": "genesis",
+  "chapter": 37,
+  "page": 10,
+  "ref": "37:33-36",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_37_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_37_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4447
+      ],
+      "alt": {
+        "zh-CN": "他认得，就说：「这是我儿子的外衣。有恶兽把他吃了，约瑟被撕碎了！撕碎了！」"
+      }
+    },
+    {
+      "id": "GENESIS_37_P010_F2",
+      "box": [
+        0,
+        0.4486,
+        0.4121,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "雅各便撕裂衣服，腰间围上麻布，为他儿子悲哀了多日。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P010_F3",
+      "box": [
+        0.4199,
+        0.4486,
+        0.5801,
+        0.2891
+      ],
+      "alt": {
+        "zh-CN": "他的儿女都起来安慰他，他却不肯受安慰，说：「我必悲哀着下阴间，到我儿子那里。」约瑟的父亲就为他哀哭。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P010_F4",
+      "box": [
+        0,
+        0.7422,
+        1,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "米甸人带约瑟到埃及，把他卖给法老的内臣—护卫长波提乏。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_37_P010_B001",
+      "panel": "GENESIS_37_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.0133,
+        0.45,
+        0.1067
+      ],
+      "tail": [
+        0.745,
+        0.1645
+      ],
+      "text_key": "genesis.37.p10.b1"
+    },
+    {
+      "id": "GENESIS_37_P010_B002",
+      "panel": "GENESIS_37_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0165,
+        0.6799,
+        0.3708,
+        0.0491
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p10.b2"
+    },
+    {
+      "id": "GENESIS_37_P010_B003",
+      "panel": "GENESIS_37_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.4431,
+        0.6799,
+        0.522,
+        0.0491
+      ],
+      "tail": [
+        0.7041,
+        0.7377
+      ],
+      "text_key": "genesis.37.p10.b3"
+    },
+    {
+      "id": "GENESIS_37_P010_B004",
+      "panel": "GENESIS_37_P010_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7499,
+        0.55,
+        0.0515
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p10.b4"
+    }
+  ]
+}

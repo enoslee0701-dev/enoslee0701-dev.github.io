@@ -1,0 +1,151 @@
+{
+  "id": "GENESIS_24_P006",
+  "book": "genesis",
+  "chapter": 24,
+  "page": 6,
+  "ref": "24:28-33",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_24_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_24_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2396
+      ],
+      "alt": {
+        "zh-CN": "女子跑回去，照着这些话告诉她母亲和她家里的人。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P006_F2",
+      "box": [
+        0,
+        0.2428,
+        0.5342,
+        0.3444
+      ],
+      "alt": {
+        "zh-CN": "利百加有一个哥哥，名叫拉班，看见金环，又看见金镯在他妹子的手上，并听见他妹子利百加的话，说那人对我如此如此说。拉班就跑出来往井旁去，到那人跟前，见他仍站在骆驼旁边的井旁那里，"
+      }
+    },
+    {
+      "id": "GENESIS_24_P006_F3",
+      "box": [
+        0.542,
+        0.2428,
+        0.458,
+        0.3444
+      ],
+      "alt": {
+        "zh-CN": "便对他说：「你这蒙耶和华赐福的，请进来，为什么站在外边？我已经收拾了房屋，也为骆驼预备了地方。」"
+      }
+    },
+    {
+      "id": "GENESIS_24_P006_F4",
+      "box": [
+        0,
+        0.5918,
+        1,
+        0.4082
+      ],
+      "alt": {
+        "zh-CN": "那人就进了拉班的家。拉班卸了骆驼，用草料喂上，拿水给那人和跟随的人洗脚；把饭摆在他面前，叫他吃，他却说：「我不吃，等我说明白我的事情再吃。」拉班说：「请说。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_24_P006_B022",
+      "panel": "GENESIS_24_P006_F1",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.0072,
+        0.5,
+        0.0479
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p6.b22"
+    },
+    {
+      "id": "GENESIS_24_P006_B023",
+      "panel": "GENESIS_24_P006_F2",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0267,
+        0.2497,
+        0.4807,
+        0.0688
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p6.b23"
+    },
+    {
+      "id": "GENESIS_24_P006_B024",
+      "panel": "GENESIS_24_P006_F3",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7069,
+        0.2497,
+        0.1648,
+        0.0413
+      ],
+      "tail": [
+        0.7893,
+        0.3254
+      ],
+      "text_key": "genesis.24.p6.b24"
+    },
+    {
+      "id": "GENESIS_24_P006_B025",
+      "panel": "GENESIS_24_P006_F4",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.604,
+        0.48,
+        0.0734
+      ],
+      "tail": [
+        0.27,
+        0.7182
+      ],
+      "text_key": "genesis.24.p6.b25"
+    },
+    {
+      "id": "GENESIS_24_P006_B026",
+      "panel": "GENESIS_24_P006_F4",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.604,
+        0.35,
+        0.0489
+      ],
+      "tail": [
+        0.795,
+        0.6937
+      ],
+      "text_key": "genesis.24.p6.b26"
+    }
+  ]
+}

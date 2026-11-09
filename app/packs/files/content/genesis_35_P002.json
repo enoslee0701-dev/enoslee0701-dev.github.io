@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_35_P002",
+  "book": "genesis",
+  "chapter": 35,
+  "page": 2,
+  "ref": "35:5-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_35_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_35_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5557,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "他们便起行前往。　神使那周围城邑的人都甚惊惧，就不追赶雅各的众子了。"
+      }
+    },
+    {
+      "id": "GENESIS_35_P002_F2",
+      "box": [
+        0.5625,
+        0,
+        0.4375,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "于是雅各和一切与他同在的人到了迦南地的路斯，就是伯特利。"
+      }
+    },
+    {
+      "id": "GENESIS_35_P002_F3",
+      "box": [
+        0,
+        0.3138,
+        1,
+        0.373
+      ],
+      "alt": {
+        "zh-CN": "他在那里筑了一座坛，就给那地方起名叫伊勒·伯特利（就是伯特利之　神的意思）；因为他逃避他哥哥的时候，　神在那里向他显现。"
+      }
+    },
+    {
+      "id": "GENESIS_35_P002_F4",
+      "box": [
+        0,
+        0.6901,
+        1,
+        0.3099
+      ],
+      "alt": {
+        "zh-CN": "利百加的奶母底波拉死了，就葬在伯特利下边橡树底下；那棵树名叫亚伦·巴古（就是哭泣的橡树）。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_35_P002_B001",
+      "panel": "GENESIS_35_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0167,
+        0.0093,
+        0.2778,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p2.b1"
+    },
+    {
+      "id": "GENESIS_35_P002_B002",
+      "panel": "GENESIS_35_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5713,
+        0.0062,
+        0.175,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p2.b2"
+    },
+    {
+      "id": "GENESIS_35_P002_B003",
+      "panel": "GENESIS_35_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.3213,
+        0.38,
+        0.0559
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p2.b3"
+    },
+    {
+      "id": "GENESIS_35_P002_B004",
+      "panel": "GENESIS_35_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.6994,
+        0.41,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p2.b4"
+    }
+  ]
+}

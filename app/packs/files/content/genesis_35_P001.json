@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_35_P001",
+  "book": "genesis",
+  "chapter": 35,
+  "page": 1,
+  "ref": "35:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_35_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_35_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "神对雅各说：「起来！上伯特利去，住在那里；要在那里筑一座坛给　神，就是你逃避你哥哥以扫的时候向你显现的那位。」"
+      }
+    },
+    {
+      "id": "GENESIS_35_P001_F2",
+      "box": [
+        0,
+        0.2904,
+        0.584,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "雅各就对他家中的人并一切与他同在的人说：「你们要除掉你们中间的外邦神，也要自洁，更换衣裳。我们要起来，上伯特利去，在那里我要筑一座坛给　神，就是在我遭难的日子应允我的祷告、在我行的路上保佑我的那位。」"
+      }
+    },
+    {
+      "id": "GENESIS_35_P001_F3",
+      "box": [
+        0.5928,
+        0.2904,
+        0.4072,
+        0.3385
+      ],
+      "alt": {
+        "zh-CN": "他们就把外邦人的神像和他们耳朵上的环子交给雅各；"
+      }
+    },
+    {
+      "id": "GENESIS_35_P001_F4",
+      "box": [
+        0,
+        0.6335,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "雅各都藏在示剑那里的橡树底下。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_35_P001_B001",
+      "panel": "GENESIS_35_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0086,
+        0.5,
+        0.057
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p1.b1"
+    },
+    {
+      "id": "GENESIS_35_P001_B002",
+      "panel": "GENESIS_35_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.292,
+        0.2972,
+        0.2744,
+        0.0609
+      ],
+      "tail": [
+        0.4292,
+        0.392
+      ],
+      "text_key": "genesis.35.p1.b2"
+    },
+    {
+      "id": "GENESIS_35_P001_B003",
+      "panel": "GENESIS_35_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6091,
+        0.2972,
+        0.3583,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p1.b3"
+    },
+    {
+      "id": "GENESIS_35_P001_B004",
+      "panel": "GENESIS_35_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.6445,
+        0.45,
+        0.0513
+      ],
+      "tail": null,
+      "text_key": "genesis.35.p1.b4"
+    }
+  ]
+}

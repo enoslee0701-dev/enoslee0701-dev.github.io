@@ -1,0 +1,192 @@
+{
+  "genesis.12.p1.b1": {
+    "text": "너는 너의 본토 친척 아비 집을 떠나 내가 네게 지시할 땅으로 가라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p1.b2": {
+    "text": "내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대케 하리니 너는 복의 근원이 될지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p1.b3": {
+    "text": "… 땅의 모든 족속이 너를 인하여 복을 얻을 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p2.b4": {
+    "text": "이에 아브람이 여호와의 말씀을 좇아 갔고 롯도 그와 함께 갔으며 아브람이 하란을 떠날 때에 그 나이 칠십 오세였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p2.b5": {
+    "text": "… 하란에서 모은 모든 소유와 얻은 사람들을 이끌고 가나안 땅으로 가려고 떠나서 마침내 가나안 땅에 들어 갔더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p2.b6": {
+    "text": "아브람이 그 땅을 통과하여 세겜 땅 모레 상수리 나무에 이르니 그 때에 가나안 사람이 그 땅에 거하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p3.b7": {
+    "text": "내가 이 땅을 네 자손에게 주리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p3.b8": {
+    "text": "그가 자기에게 나타나신 여호와를 위하여 그 곳에 단을 쌓고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p3.b9": {
+    "text": "… 그가 그곳에서 여호와를 위하여 단을 쌓고 여호와의 이름을 부르더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p4.b10": {
+    "text": "그 땅에 기근이 있으므로 아브람이 애굽에 우거하려 하여 그리로 내려갔으니 이는 그 땅에 기근이 심하였음이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p4.b11": {
+    "text": "나 알기에 그대는 아리따운 여인이라 애굽 사람이 그대를 볼 때에 이르기를 이는 그의 아내라 하고 나는 죽이고 그대는 살리리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:11-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p4.b12": {
+    "text": "원컨대 그대는 나의 누이라 하라 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p5.b13": {
+    "text": "아브람이 애굽에 이르렀을 때에 애굽 사람들이 그 여인의 심히 아리따움을 보았고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p5.b14": {
+    "text": "바로의 대신들도 그를 보고 바로 앞에 칭찬하므로 그 여인을 바로의 궁으로 취하여 들인지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p5.b15": {
+    "text": "이에 바로가 그를 인하여 아브람을 후대하므로 아브람이 양과 소와 노비와 암수 나귀와 약대를 얻었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p6.b16": {
+    "text": "여호와께서 아브람의 아내 사래의 연고로 바로와 그 집에 큰 재앙을 내리신지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p6.b17": {
+    "text": "네가 어찌하여 나를 이렇게 대접하였느냐 네가 어찌하여 그를 네 아내라고 내게 고하지 아니하였느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p6.b18": {
+    "text": "… 네 아내가 여기 있으니 이제 데려가라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.12.p6.b19": {
+    "text": "바로가 사람들에게 그의 일을 명하매 그들이 그 아내와 그 모든 소유를 보내었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 12:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

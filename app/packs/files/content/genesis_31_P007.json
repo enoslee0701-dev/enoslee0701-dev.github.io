@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_31_P007",
+  "book": "genesis",
+  "chapter": 31,
+  "page": 7,
+  "ref": "31:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_31_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_31_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "拉班追上雅各。雅各在山上支搭帐棚；拉班和他的众弟兄也在基列山上支搭帐棚。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P007_F2",
+      "box": [
+        0,
+        0.2552,
+        0.5352,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "拉班对雅各说：「你做的是什么事呢？你背着我偷走了，又把我的女儿们带了去，如同用刀剑掳去的一般。」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P007_F3",
+      "box": [
+        0.541,
+        0.2552,
+        0.459,
+        0.4056
+      ],
+      "alt": {
+        "zh-CN": "「你为什么暗暗地逃跑，偷着走，并不告诉我，叫我可以欢乐、唱歌、击鼓、弹琴地送你回去？又不容我与外孙和女儿亲嘴？你所行的真是愚昧！」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P007_F4",
+      "box": [
+        0,
+        0.6641,
+        1,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "「我手中原有能力害你，只是你父亲的　神昨夜对我说：『你要小心，不可与雅各说好说歹。』现在你虽然想你父家，不得不去，为什么又偷了我的神像呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_31_P007_B001",
+      "panel": "GENESIS_31_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.0076,
+        0.5,
+        0.0454
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p7.b1"
+    },
+    {
+      "id": "GENESIS_31_P007_B002",
+      "panel": "GENESIS_31_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0161,
+        0.2674,
+        0.2943,
+        0.0892
+      ],
+      "tail": [
+        0.1633,
+        0.3972
+      ],
+      "text_key": "genesis.31.p7.b2"
+    },
+    {
+      "id": "GENESIS_31_P007_B003",
+      "panel": "GENESIS_31_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.564,
+        0.2674,
+        0.4131,
+        0.0892
+      ],
+      "tail": [
+        0.7706,
+        0.3972
+      ],
+      "text_key": "genesis.31.p7.b3"
+    },
+    {
+      "id": "GENESIS_31_P007_B004",
+      "panel": "GENESIS_31_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.6742,
+        0.4,
+        0.0671
+      ],
+      "tail": [
+        0.23,
+        0.7749
+      ],
+      "text_key": "genesis.31.p7.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_15_P002",
+  "book": "genesis",
+  "chapter": 15,
+  "page": 2,
+  "ref": "15:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_15_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_15_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2428
+      ],
+      "alt": {
+        "zh-CN": "耶和华又有话对他说：「这人必不成为你的后嗣；你本身所生的才成为你的后嗣。」于是领他走到外边。"
+      }
+    },
+    {
+      "id": "GENESIS_15_P002_F2",
+      "box": [
+        0,
+        0.2461,
+        1,
+        0.2552
+      ],
+      "alt": {
+        "zh-CN": "「你向天观看，数算众星，能数得过来吗？」亚伯兰仰脸数星。"
+      }
+    },
+    {
+      "id": "GENESIS_15_P002_F3",
+      "box": [
+        0,
+        0.5046,
+        1,
+        0.4954
+      ],
+      "alt": {
+        "zh-CN": "又对他说：「你的后裔将要如此。」亚伯兰信耶和华，耶和华就以此为他的义。满天星下，亚伯兰仰望的背影。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_15_P002_B004",
+      "panel": "GENESIS_15_P002_F1",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.58,
+        0.0121,
+        0.39,
+        0.0825
+      ],
+      "tail": null,
+      "text_key": "genesis.15.p2.b4"
+    },
+    {
+      "id": "GENESIS_15_P002_B005",
+      "panel": "GENESIS_15_P002_F2",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.72,
+        0.2589,
+        0.26,
+        0.0765
+      ],
+      "tail": null,
+      "text_key": "genesis.15.p2.b5"
+    },
+    {
+      "id": "GENESIS_15_P002_B006",
+      "panel": "GENESIS_15_P002_F3",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5195,
+        0.42,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "genesis.15.p2.b6"
+    },
+    {
+      "id": "GENESIS_15_P002_B007",
+      "panel": "GENESIS_15_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.9207,
+        0.41,
+        0.0644
+      ],
+      "tail": null,
+      "text_key": "genesis.15.p2.b7"
+    }
+  ]
+}

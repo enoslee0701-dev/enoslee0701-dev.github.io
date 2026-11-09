@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_24_P014",
+  "book": "genesis",
+  "chapter": 24,
+  "page": 14,
+  "ref": "24:66-67",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_24_P014",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_24_P014_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2799
+      ],
+      "alt": {
+        "zh-CN": "仆人就将所办的一切事都告诉以撒。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P014_F2",
+      "box": [
+        0,
+        0.2839,
+        0.5469,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "以撒便领利百加进了他母亲撒拉的帐棚，"
+      }
+    },
+    {
+      "id": "GENESIS_24_P014_F3",
+      "box": [
+        0.5547,
+        0.2839,
+        0.4453,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "油灯下，木箱上叠着母亲撒拉的旧长衣。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P014_F4",
+      "box": [
+        0,
+        0.5475,
+        1,
+        0.4525
+      ],
+      "alt": {
+        "zh-CN": "娶了她为妻，并且爱她。以撒自从他母亲不在了，这才得了安慰。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_24_P014_B054",
+      "panel": "GENESIS_24_P014_F1",
+      "order": 54,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0056,
+        0.42,
+        0.0335
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p14.b54"
+    },
+    {
+      "id": "GENESIS_24_P014_B055",
+      "panel": "GENESIS_24_P014_F2",
+      "order": 55,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0219,
+        0.2891,
+        0.2843,
+        0.0415
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p14.b55"
+    },
+    {
+      "id": "GENESIS_24_P014_B056",
+      "panel": "GENESIS_24_P014_F4",
+      "order": 56,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.05,
+        0.552,
+        0.9,
+        0.0543
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p14.b56"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_41_P010",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 10,
+  "ref": "41:42-44",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P010_F1",
+      "box": [
+        0,
+        0,
+        0.4414,
+        0.2161
+      ],
+      "alt": {
+        "zh-CN": "法老就摘下手上打印的戒指，戴在约瑟的手上，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P010_F2",
+      "box": [
+        0.4473,
+        0,
+        0.5527,
+        0.2161
+      ],
+      "alt": {
+        "zh-CN": "给他穿上细麻衣，把金链戴在他的颈项上，"
+      }
+    },
+    {
+      "id": "GENESIS_41_P010_F3",
+      "box": [
+        0,
+        0.2201,
+        1,
+        0.4805
+      ],
+      "alt": {
+        "zh-CN": "又叫约瑟坐他的副车，喝道的在前呼叫说：「跪下。」这样，法老派他治理埃及全地。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P010_F4",
+      "box": [
+        0,
+        0.7051,
+        1,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "法老对约瑟说：「我是法老，在埃及全地，若没有你的命令，不许人擅自办事。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P010_B001",
+      "panel": "GENESIS_41_P010_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0177,
+        0.0065,
+        0.406,
+        0.0475
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p10.b1"
+    },
+    {
+      "id": "GENESIS_41_P010_B002",
+      "panel": "GENESIS_41_P010_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7568,
+        0.1729,
+        0.2321,
+        0.0367
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p10.b2"
+    },
+    {
+      "id": "GENESIS_41_P010_B003",
+      "panel": "GENESIS_41_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.2345,
+        0.4,
+        0.0768
+      ],
+      "tail": [
+        0.23,
+        0.3593
+      ],
+      "text_key": "genesis.41.p10.b3"
+    },
+    {
+      "id": "GENESIS_41_P010_B004",
+      "panel": "GENESIS_41_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.74,
+        0.8879,
+        0.25,
+        0.1002
+      ],
+      "tail": [
+        0.865,
+        1
+      ],
+      "text_key": "genesis.41.p10.b4"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_04_P003",
+  "book": "genesis",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_04_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4951,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "耶和华对该隐说：「你为什么发怒呢？你为什么变了脸色呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_04_P003_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.4141
+      ],
+      "alt": {
+        "zh-CN": "「你若行得好，岂不蒙悦纳？你若行得不好，罪就伏在门前。它必恋慕你，你却要制伏它。」该隐门前的影子像一头伏着的兽。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P003_F3",
+      "box": [
+        0,
+        0.4193,
+        1,
+        0.1725
+      ],
+      "alt": {
+        "zh-CN": "该隐与他兄弟亚伯说话；二人正在田间。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P003_F4",
+      "box": [
+        0,
+        0.5964,
+        1,
+        0.4036
+      ],
+      "alt": {
+        "zh-CN": "该隐起来打他兄弟亚伯，把他杀了。田里只剩他一个人，亚伯的牧杖倒在麦子里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_04_P003_B009",
+      "panel": "GENESIS_04_P003_F1",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0198,
+        0.0166,
+        0.4554,
+        0.1242
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p3.b9"
+    },
+    {
+      "id": "GENESIS_04_P003_B010",
+      "panel": "GENESIS_04_P003_F2",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5257,
+        0.2485,
+        0.4545,
+        0.149
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p3.b10"
+    },
+    {
+      "id": "GENESIS_04_P003_B011",
+      "panel": "GENESIS_04_P003_F3",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.4262,
+        0.3,
+        0.069
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p3.b11"
+    },
+    {
+      "id": "GENESIS_04_P003_B012",
+      "panel": "GENESIS_04_P003_F4",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.6125,
+        0.44,
+        0.0887
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p3.b12"
+    }
+  ]
+}

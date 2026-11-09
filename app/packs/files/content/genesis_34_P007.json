@@ -1,0 +1,91 @@
+{
+  "id": "GENESIS_34_P007",
+  "book": "genesis",
+  "chapter": 34,
+  "page": 7,
+  "ref": "34:30-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_34_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_34_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2298
+      ],
+      "alt": {
+        "zh-CN": "清晨，示剑城上空冒着烟，雅各的帐棚外挤满了掳来的牲口。"
+      }
+    },
+    {
+      "id": "GENESIS_34_P007_F2",
+      "box": [
+        0,
+        0.2324,
+        1,
+        0.457
+      ],
+      "alt": {
+        "zh-CN": "雅各对西缅和利未说：「你们连累我，使我在这地的居民中，就是在迦南人和比利洗人中，有了臭名。我的人丁既然稀少，他们必聚集来击杀我，我和全家的人都必灭绝。」"
+      }
+    },
+    {
+      "id": "GENESIS_34_P007_F3",
+      "box": [
+        0,
+        0.6921,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "他们说：「他岂可待我们的妹子如同妓女吗？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_34_P007_B001",
+      "panel": "GENESIS_34_P007_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.4,
+        0.2415,
+        0.45,
+        0.0685
+      ],
+      "tail": [
+        0.625,
+        0.3557
+      ],
+      "text_key": "genesis.34.p7.b1"
+    },
+    {
+      "id": "GENESIS_34_P007_B002",
+      "panel": "GENESIS_34_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.01,
+        0.6983,
+        0.24,
+        0.0431
+      ],
+      "tail": [
+        0.13,
+        0.7722
+      ],
+      "text_key": "genesis.34.p7.b2"
+    }
+  ]
+}

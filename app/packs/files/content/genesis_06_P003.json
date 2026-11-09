@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_06_P003",
+  "book": "genesis",
+  "chapter": 6,
+  "page": 3,
+  "ref": "6:13-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_06_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_06_P003_F1",
+      "box": [
+        0,
+        0,
+        0.3271,
+        0.627
+      ],
+      "alt": {
+        "zh-CN": "夜里，挪亚一个人在作坊里凿木头。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P003_F2",
+      "box": [
+        0.333,
+        0,
+        0.667,
+        0.627
+      ],
+      "alt": {
+        "zh-CN": "神就对挪亚说：「凡有血气的人，他的尽头已经来到我面前；因为地上满了他们的强暴，我要把他们和地一并毁灭。」挪亚停下石锛，仰脸看着从上方照下来的光。"
+      }
+    },
+    {
+      "id": "GENESIS_06_P003_F3",
+      "box": [
+        0,
+        0.6296,
+        1,
+        0.3704
+      ],
+      "alt": {
+        "zh-CN": "你要用歌斐木造一只方舟，分一间一间地造，里外抹上松香。方舟的造法乃是这样：要长三百肘，宽五十肘，高三十肘。方舟上边要留透光处，高一肘。方舟的门要开在旁边。方舟要分上、中、下三层。看哪，我要使洪水泛滥在地上，毁灭天下；凡地上有血肉、有气息的活物，无一不死。挪亚跪在泥地上划出方舟的轮廓，抬头望向远处的城。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_06_P003_B010",
+      "panel": "GENESIS_06_P003_F2",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6999,
+        0.0125,
+        0.2868,
+        0.2006
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p3.b10"
+    },
+    {
+      "id": "GENESIS_06_P003_B011",
+      "panel": "GENESIS_06_P003_F3",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.36,
+        0.637,
+        0.62,
+        0.0238
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p3.b11"
+    },
+    {
+      "id": "GENESIS_06_P003_B012",
+      "panel": "GENESIS_06_P003_F3",
+      "order": 12,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.36,
+        0.6682,
+        0.62,
+        0.0206
+      ],
+      "tail": null,
+      "text_key": "genesis.6.p3.b12"
+    }
+  ]
+}

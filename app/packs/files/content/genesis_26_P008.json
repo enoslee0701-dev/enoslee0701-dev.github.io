@@ -1,0 +1,85 @@
+{
+  "id": "GENESIS_26_P008",
+  "book": "genesis",
+  "chapter": 26,
+  "page": 8,
+  "ref": "26:34-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_26_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_26_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "以扫四十岁的时候娶了赫人比利的女儿犹滴，与赫人以伦的女儿巴实抹为妻。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P008_F2",
+      "box": [
+        0,
+        0.3464,
+        1,
+        0.2826
+      ],
+      "alt": {
+        "zh-CN": "利百加攥着头巾转过脸去，以撒低着头。"
+      }
+    },
+    {
+      "id": "GENESIS_26_P008_F3",
+      "box": [
+        0,
+        0.6328,
+        1,
+        0.3672
+      ],
+      "alt": {
+        "zh-CN": "她们常使以撒和利百加心里愁烦。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_26_P008_B029",
+      "panel": "GENESIS_26_P008_F1",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0103,
+        0.42,
+        0.0684
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p8.b29"
+    },
+    {
+      "id": "GENESIS_26_P008_B030",
+      "panel": "GENESIS_26_P008_F3",
+      "order": 30,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6438,
+        0.55,
+        0.0734
+      ],
+      "tail": null,
+      "text_key": "genesis.26.p8.b30"
+    }
+  ]
+}

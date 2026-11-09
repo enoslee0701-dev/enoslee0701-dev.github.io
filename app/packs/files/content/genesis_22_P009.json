@@ -1,0 +1,91 @@
+{
+  "id": "GENESIS_22_P009",
+  "book": "genesis",
+  "chapter": 22,
+  "page": 9,
+  "ref": "22:20-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_22_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_22_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3359
+      ],
+      "alt": {
+        "zh-CN": "这事以后，有人告诉亚伯拉罕说：「密迦给你兄弟拿鹤生了几个儿子，长子是乌斯，他的兄弟是布斯和亚兰的父亲基母利。」"
+      }
+    },
+    {
+      "id": "GENESIS_22_P009_F2",
+      "box": [
+        0,
+        0.3405,
+        1,
+        0.6595
+      ],
+      "alt": {
+        "zh-CN": "拿鹤的家族树：密迦生的八个儿子是乌斯、布斯、基母利、基薛、哈琐、必达、益拉、彼土利，彼土利生利百加；拿鹤的妾流玛生了提八、迦含、他辖和玛迦。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_22_P009_B023",
+      "panel": "GENESIS_22_P009_F1",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0101,
+        0.28,
+        0.0571
+      ],
+      "tail": [
+        0.44,
+        0.1008
+      ],
+      "text_key": "genesis.22.p9.b23"
+    },
+    {
+      "id": "GENESIS_22_P009_B024",
+      "panel": "GENESIS_22_P009_F2",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.3603,
+        0.4,
+        0.1055
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p9.b24"
+    },
+    {
+      "id": "GENESIS_22_P009_B025",
+      "panel": "GENESIS_22_P009_F2",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.8021,
+        0.32,
+        0.0725
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p9.b25"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_07_P002",
+  "book": "genesis",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_07_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "当洪水泛滥在地上的时候，挪亚整六百岁。挪亚就同他的妻和儿子儿妇都进入方舟，躲避洪水。动物一对一对从四面的山坡走向方舟。"
+      }
+    },
+    {
+      "id": "GENESIS_07_P002_F2",
+      "box": [
+        0,
+        0.3965,
+        0.5283,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "洁净的畜类和不洁净的畜类，都是一对一对地，有公有母，到挪亚那里进入方舟，正如神所吩咐挪亚的。一对狮子从挪亚身边走过。"
+      }
+    },
+    {
+      "id": "GENESIS_07_P002_F3",
+      "box": [
+        0.5361,
+        0.3965,
+        0.4639,
+        0.3405
+      ],
+      "alt": {
+        "zh-CN": "飞鸟并地上一切的昆虫，也一对一对爬上踏板。"
+      }
+    },
+    {
+      "id": "GENESIS_07_P002_F4",
+      "box": [
+        0,
+        0.7409,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "城里的人照常吃喝嫁娶，指着方舟哄笑。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_07_P002_B005",
+      "panel": "GENESIS_07_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0118,
+        0.4,
+        0.094
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p2.b5"
+    },
+    {
+      "id": "GENESIS_07_P002_B006",
+      "panel": "GENESIS_07_P002_F2",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0211,
+        0.6553,
+        0.486,
+        0.0715
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p2.b6"
+    },
+    {
+      "id": "GENESIS_07_P002_B007",
+      "panel": "GENESIS_07_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5547,
+        0.4067,
+        0.2319,
+        0.0749
+      ],
+      "tail": null,
+      "text_key": "genesis.7.p2.b7"
+    }
+  ]
+}

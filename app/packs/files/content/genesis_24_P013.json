@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_24_P013",
+  "book": "genesis",
+  "chapter": 24,
+  "page": 13,
+  "ref": "24:64-65",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_24_P013",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_24_P013_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2767
+      ],
+      "alt": {
+        "zh-CN": "利百加举目看见以撒，就急忙下了骆驼，"
+      }
+    },
+    {
+      "id": "GENESIS_24_P013_F2",
+      "box": [
+        0,
+        0.2813,
+        0.4082,
+        0.2246
+      ],
+      "alt": {
+        "zh-CN": "利百加一手扶着鞍，从骆驼上急忙滑下来。"
+      }
+    },
+    {
+      "id": "GENESIS_24_P013_F3",
+      "box": [
+        0.416,
+        0.2813,
+        0.584,
+        0.2246
+      ],
+      "alt": {
+        "zh-CN": "问那仆人说：「这田间走来迎接我们的是谁？」仆人说：「是我的主人。」"
+      }
+    },
+    {
+      "id": "GENESIS_24_P013_F4",
+      "box": [
+        0,
+        0.5104,
+        1,
+        0.4896
+      ],
+      "alt": {
+        "zh-CN": "利百加就拿帕子蒙上脸。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_24_P013_B050",
+      "panel": "GENESIS_24_P013_F1",
+      "order": 50,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0083,
+        0.42,
+        0.0608
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p13.b50"
+    },
+    {
+      "id": "GENESIS_24_P013_B051",
+      "panel": "GENESIS_24_P013_F3",
+      "order": 51,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4335,
+        0.2858,
+        0.3212,
+        0.0359
+      ],
+      "tail": [
+        0.5941,
+        0.3442
+      ],
+      "text_key": "genesis.24.p13.b51"
+    },
+    {
+      "id": "GENESIS_24_P013_B052",
+      "panel": "GENESIS_24_P013_F3",
+      "order": 52,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7781,
+        0.2858,
+        0.2044,
+        0.0269
+      ],
+      "tail": [
+        0.8803,
+        0.3352
+      ],
+      "text_key": "genesis.24.p13.b52"
+    },
+    {
+      "id": "GENESIS_24_P013_B053",
+      "panel": "GENESIS_24_P013_F4",
+      "order": 53,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.5251,
+        0.42,
+        0.0783
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p13.b53"
+    }
+  ]
+}

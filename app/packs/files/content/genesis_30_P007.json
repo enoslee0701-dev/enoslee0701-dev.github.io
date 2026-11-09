@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_30_P007",
+  "book": "genesis",
+  "chapter": 30,
+  "page": 7,
+  "ref": "30:25-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_30_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_30_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2904
+      ],
+      "alt": {
+        "zh-CN": "拉结生约瑟之后，雅各对拉班说：「请打发我走，叫我回到我本乡本土去。请你把我服事你所得的妻子和儿女给我，让我走；我怎样服事你，你都知道。」"
+      }
+    },
+    {
+      "id": "GENESIS_30_P007_F2",
+      "box": [
+        0,
+        0.293,
+        0.4951,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "拉班对他说：「我若在你眼前蒙恩，请你仍与我同住，因为我已算定，耶和华赐福与我是为你的缘故」；"
+      }
+    },
+    {
+      "id": "GENESIS_30_P007_F3",
+      "box": [
+        0.5,
+        0.293,
+        0.5,
+        0.2754
+      ],
+      "alt": {
+        "zh-CN": "又说：「请你定你的工价，我就给你。」"
+      }
+    },
+    {
+      "id": "GENESIS_30_P007_F4",
+      "box": [
+        0,
+        0.5716,
+        1,
+        0.4284
+      ],
+      "alt": {
+        "zh-CN": "雅各对他说：「我怎样服事你，你的牲畜在我手里怎样，是你知道的。我未来之先，你所有的很少，现今却发大众多，耶和华随我的脚步赐福与你。如今，我什么时候才为自己兴家立业呢？」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_30_P007_B001",
+      "panel": "GENESIS_30_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.54,
+        0.0087,
+        0.42,
+        0.0493
+      ],
+      "tail": [
+        0.75,
+        0.087
+      ],
+      "text_key": "genesis.30.p7.b1"
+    },
+    {
+      "id": "GENESIS_30_P007_B002",
+      "panel": "GENESIS_30_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2723,
+        0.3013,
+        0.2079,
+        0.055
+      ],
+      "tail": [
+        0.3762,
+        0.3838
+      ],
+      "text_key": "genesis.30.p7.b2"
+    },
+    {
+      "id": "GENESIS_30_P007_B003",
+      "panel": "GENESIS_30_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.78,
+        0.3013,
+        0.205,
+        0.055
+      ],
+      "tail": [
+        0.8825,
+        0.3838
+      ],
+      "text_key": "genesis.30.p7.b3"
+    },
+    {
+      "id": "GENESIS_30_P007_B004",
+      "panel": "GENESIS_30_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.5845,
+        0.47,
+        0.0685
+      ],
+      "tail": [
+        0.735,
+        0.6958
+      ],
+      "text_key": "genesis.30.p7.b4"
+    }
+  ]
+}

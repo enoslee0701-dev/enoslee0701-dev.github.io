@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_41_P012",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 12,
+  "ref": "41:50-52",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2409
+      ],
+      "alt": {
+        "zh-CN": "荒年未到以前，安城的祭司波提非拉的女儿亚西纳给约瑟生了两个儿子。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P012_F2",
+      "box": [
+        0,
+        0.2435,
+        1,
+        0.4219
+      ],
+      "alt": {
+        "zh-CN": "约瑟给长子起名叫玛拿西，因为他说：「　神使我忘了一切的困苦和我父的全家。」"
+      }
+    },
+    {
+      "id": "GENESIS_41_P012_F3",
+      "box": [
+        0,
+        0.668,
+        0.4307,
+        0.332
+      ]
+    },
+    {
+      "id": "GENESIS_41_P012_F4",
+      "box": [
+        0.4375,
+        0.668,
+        0.5625,
+        0.332
+      ],
+      "alt": {
+        "zh-CN": "他给次子起名叫以法莲，因为他说：「　神使我在受苦的地方昌盛。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P012_B001",
+      "panel": "GENESIS_41_P012_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0072,
+        0.5,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "genesis.41.p12.b1"
+    },
+    {
+      "id": "GENESIS_41_P012_B002",
+      "panel": "GENESIS_41_P012_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.5726,
+        0.47,
+        0.0801
+      ],
+      "tail": [
+        0.735,
+        0.6654
+      ],
+      "text_key": "genesis.41.p12.b2"
+    },
+    {
+      "id": "GENESIS_41_P012_B003",
+      "panel": "GENESIS_41_P012_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4544,
+        0.678,
+        0.135,
+        0.0996
+      ],
+      "tail": [
+        0.5219,
+        0.8108
+      ],
+      "text_key": "genesis.41.p12.b3"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "GENESIS_09_P003",
+  "book": "genesis",
+  "chapter": 9,
+  "page": 3,
+  "ref": "9:12-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_09_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_09_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "alt": {
+        "zh-CN": "神说：「我与你们并你们这里的各样活物所立的永约是有记号的。我把虹放在云彩中，这就可作我与地立约的记号了。我使云彩盖地的时候，必有虹现在云彩中，我便记念我与你们和各样有血肉的活物所立的约，水就再不泛滥、毁坏一切有血肉的物了。虹必现在云彩中，我看见，就要记念我与地上各样有血肉的活物所立的永约。」雨后一道彩虹横跨山谷，一家人和动物仰头望着。"
+      }
+    },
+    {
+      "id": "GENESIS_09_P003_F2",
+      "box": [
+        0,
+        0.7525,
+        0.4725,
+        0.2475
+      ],
+      "alt": {
+        "zh-CN": "神对挪亚说：「这就是我与地上一切有血肉之物立约的记号了。」挪亚的眼里映着虹。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_09_P003_B008",
+      "panel": "GENESIS_09_P003_F1",
+      "order": 8,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.52,
+        0.02,
+        0.45,
+        0.0588
+      ],
+      "tail": null,
+      "text_key": "genesis.9.p3.b8"
+    },
+    {
+      "id": "GENESIS_09_P003_B009",
+      "panel": "GENESIS_09_P003_F1",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.52,
+        0.0988,
+        0.45,
+        0.0511
+      ],
+      "tail": null,
+      "text_key": "genesis.9.p3.b9"
+    },
+    {
+      "id": "GENESIS_09_P003_B010",
+      "panel": "GENESIS_09_P003_F2",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3119,
+        0.7599,
+        0.1512,
+        0.0792
+      ],
+      "tail": null,
+      "text_key": "genesis.9.p3.b10"
+    }
+  ]
+}

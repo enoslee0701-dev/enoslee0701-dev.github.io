@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_01_P006",
+  "book": "genesis",
+  "chapter": 1,
+  "page": 6,
+  "ref": "1:20-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_01_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_01_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1855
+      ],
+      "alt": {
+        "zh-CN": "神说：「水要多多滋生有生命的物；要有雀鸟飞在地面以上、天空之中。」"
+      }
+    },
+    {
+      "id": "GENESIS_01_P006_F2",
+      "box": [
+        0,
+        0.1888,
+        1,
+        0.487
+      ],
+      "alt": {
+        "zh-CN": "神就造出大鱼和水中各样有生命的动物，各从其类；又造出各样飞鸟，各从其类。"
+      }
+    },
+    {
+      "id": "GENESIS_01_P006_F3",
+      "box": [
+        0,
+        0.679,
+        0.5303,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "神赐福给它们，说：「要滋生繁多，充满海中的水；雀鸟也要在地上多多生养。」"
+      }
+    },
+    {
+      "id": "GENESIS_01_P006_F4",
+      "box": [
+        0.5361,
+        0.679,
+        0.4639,
+        0.321
+      ],
+      "alt": {
+        "zh-CN": "有晚上，有早晨，是第五天。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_01_P006_B018",
+      "panel": "GENESIS_01_P006_F1",
+      "order": 18,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.0111,
+        0.62,
+        0.0779
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p6.b18"
+    },
+    {
+      "id": "GENESIS_01_P006_B019",
+      "panel": "GENESIS_01_P006_F2",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5784,
+        0.4,
+        0.0779
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p6.b19"
+    },
+    {
+      "id": "GENESIS_01_P006_B020",
+      "panel": "GENESIS_01_P006_F3",
+      "order": 20,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.2121,
+        0.6918,
+        0.2969,
+        0.1027
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p6.b20"
+    },
+    {
+      "id": "GENESIS_01_P006_B021",
+      "panel": "GENESIS_01_P006_F4",
+      "order": 21,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.5825,
+        0.9165,
+        0.3711,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p6.b21"
+    }
+  ]
+}

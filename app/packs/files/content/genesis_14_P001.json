@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_14_P001",
+  "book": "genesis",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4479
+      ],
+      "alt": {
+        "zh-CN": "当暗拉非作示拿王，亚略作以拉撒王，基大老玛作以拦王，提达作戈印王的时候，他们都攻打所多玛王比拉、蛾摩拉王比沙、押玛王示纳、洗扁王善以别，和比拉王。他们已经事奉基大老玛十二年，到十三年就背叛了。东方的大军压过来。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P001_F2",
+      "box": [
+        0,
+        0.4531,
+        1,
+        0.2832
+      ],
+      "alt": {
+        "zh-CN": "十四年，基大老玛和同盟的王都来，杀败了利乏音人、苏西人、以米人、何利人，一直杀到靠近旷野的伊勒·巴兰。"
+      }
+    },
+    {
+      "id": "GENESIS_14_P001_F3",
+      "box": [
+        0,
+        0.7402,
+        1,
+        0.2598
+      ],
+      "alt": {
+        "zh-CN": "他们回到安·密巴，就是加低斯，杀败了亚玛力全地的人，以及住在哈洗逊·他玛的亚摩利人。一座村子着了火。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_14_P001_B001",
+      "panel": "GENESIS_14_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0179,
+        0.41,
+        0.0548
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p1.b1"
+    },
+    {
+      "id": "GENESIS_14_P001_B002",
+      "panel": "GENESIS_14_P001_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0817,
+        0.41,
+        0.0257
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p1.b2"
+    },
+    {
+      "id": "GENESIS_14_P001_B003",
+      "panel": "GENESIS_14_P001_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.4616,
+        0.42,
+        0.0623
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p1.b3"
+    },
+    {
+      "id": "GENESIS_14_P001_B004",
+      "panel": "GENESIS_14_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.7506,
+        0.37,
+        0.0571
+      ],
+      "tail": null,
+      "text_key": "genesis.14.p1.b4"
+    }
+  ]
+}

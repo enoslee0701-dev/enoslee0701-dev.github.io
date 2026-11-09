@@ -1,0 +1,112 @@
+{
+  "id": "SAMUEL1_17_P011",
+  "book": "samuel1",
+  "chapter": 17,
+  "page": 11,
+  "ref": "17:50-54",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_17_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_17_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.222
+      ],
+      "alt": {
+        "zh-CN": "这样，大卫用机弦甩石，胜了那非利士人，打死他；大卫手中却没有刀。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P011_F2",
+      "box": [
+        0,
+        0.2266,
+        0.3359,
+        0.5098
+      ],
+      "alt": {
+        "zh-CN": "大卫跑去，站在非利士人身旁，将他的刀从鞘中拔出来。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P011_F3",
+      "box": [
+        0.3428,
+        0.2266,
+        0.6572,
+        0.5098
+      ],
+      "alt": {
+        "zh-CN": "杀死他，割了他的头。"
+      }
+    },
+    {
+      "id": "SAMUEL1_17_P011_F4",
+      "box": [
+        0,
+        0.7409,
+        1,
+        0.2591
+      ],
+      "alt": {
+        "zh-CN": "非利士众人看见他们讨战的勇士死了，就都逃跑。以色列人和犹大人便起身呐喊，追赶非利士人，直到迦特和以革伦的城门。以色列人追赶非利士人回来，就夺了他们的营盘。大卫将那非利士人的头拿到耶路撒冷，却将他军装放在自己的帐棚里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_17_P011_B033",
+      "panel": "SAMUEL1_17_P011_F1",
+      "order": 33,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0089,
+        0.45,
+        0.0577
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p11.b33"
+    },
+    {
+      "id": "SAMUEL1_17_P011_B034",
+      "panel": "SAMUEL1_17_P011_F3",
+      "order": 34,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3691,
+        0.6293,
+        0.6046,
+        0.0917
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p11.b34"
+    },
+    {
+      "id": "SAMUEL1_17_P011_B035",
+      "panel": "SAMUEL1_17_P011_F4",
+      "order": 35,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.7513,
+        0.44,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "samuel1.17.p11.b35"
+    }
+  ]
+}

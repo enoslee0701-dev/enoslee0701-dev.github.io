@@ -1,0 +1,115 @@
+{
+  "id": "GENESIS_05_P001",
+  "book": "genesis",
+  "chapter": 5,
+  "page": 1,
+  "ref": "5:1-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_05_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_05_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5208
+      ],
+      "alt": {
+        "zh-CN": "亚当的后代记在下面。当神造人的日子，是照着自己的样式造的，并且造男造女。在他们被造的日子，神赐福给他们，称他们为「人」。亚当活到一百三十岁，生了一个儿子，形象样式和自己相似，就给他起名叫塞特。白发的亚当坐在橡树下，被几代子孙围着。"
+      }
+    },
+    {
+      "id": "GENESIS_05_P001_F2",
+      "box": [
+        0,
+        0.5241,
+        1,
+        0.2207
+      ],
+      "alt": {
+        "zh-CN": "亚当生塞特之后，又在世八百年，并且生儿养女。亚当共活了九百三十岁就死了。家族树上，亚当的头像褪成灰色，往上是塞特、以挪士、该南。"
+      }
+    },
+    {
+      "id": "GENESIS_05_P001_F3",
+      "box": [
+        0,
+        0.7493,
+        1,
+        0.2507
+      ],
+      "alt": {
+        "zh-CN": "塞特活到一百零五岁，生了以挪士……共活了九百一十二岁就死了。以挪士活到九十岁，生了该南……共活了九百零五岁就死了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_05_P001_B001",
+      "panel": "GENESIS_05_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0156,
+        0.37,
+        0.0588
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p1.b1"
+    },
+    {
+      "id": "GENESIS_05_P001_B002",
+      "panel": "GENESIS_05_P001_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0849,
+        0.37,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p1.b2"
+    },
+    {
+      "id": "GENESIS_05_P001_B003",
+      "panel": "GENESIS_05_P001_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6698,
+        0.47,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p1.b3"
+    },
+    {
+      "id": "GENESIS_05_P001_B004",
+      "panel": "GENESIS_05_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.7618,
+        0.4,
+        0.0752
+      ],
+      "tail": null,
+      "text_key": "genesis.5.p1.b4"
+    }
+  ]
+}

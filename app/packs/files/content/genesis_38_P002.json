@@ -1,0 +1,148 @@
+{
+  "id": "GENESIS_38_P002",
+  "book": "genesis",
+  "chapter": 38,
+  "page": 2,
+  "ref": "38:6-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_38_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_38_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "犹大为长子珥娶妻，名叫她玛。"
+      }
+    },
+    {
+      "id": "GENESIS_38_P002_F2",
+      "box": [
+        0,
+        0.265,
+        0.502,
+        0.3438
+      ],
+      "alt": {
+        "zh-CN": "犹大的长子珥在耶和华眼中看为恶，耶和华就叫他死了。"
+      }
+    },
+    {
+      "id": "GENESIS_38_P002_F3",
+      "box": [
+        0.5059,
+        0.265,
+        0.4941,
+        0.3438
+      ],
+      "alt": {
+        "zh-CN": "犹大对俄南说：「你当与你哥哥的妻子同房，向她尽你为弟的本分，为你哥哥生子立后。」俄南知道生子不归自己，所以同房的时候便遗在地，免得给他哥哥留后。俄南所做的在耶和华眼中看为恶，耶和华也就叫他死了。"
+      }
+    },
+    {
+      "id": "GENESIS_38_P002_F4",
+      "box": [
+        0,
+        0.6107,
+        1,
+        0.3893
+      ],
+      "alt": {
+        "zh-CN": "犹大心里说：「恐怕示拉也死，像他两个哥哥一样」，就对他儿妇她玛说：「你去，在你父亲家里守寡，等我儿子示拉长大。」她玛就回去，住在她父亲家里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_38_P002_B001",
+      "panel": "GENESIS_38_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0079,
+        0.45,
+        0.0526
+      ],
+      "tail": null,
+      "text_key": "genesis.38.p2.b1"
+    },
+    {
+      "id": "GENESIS_38_P002_B002",
+      "panel": "GENESIS_38_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0201,
+        0.2753,
+        0.2811,
+        0.0618
+      ],
+      "tail": null,
+      "text_key": "genesis.38.p2.b2"
+    },
+    {
+      "id": "GENESIS_38_P002_B003",
+      "panel": "GENESIS_38_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7282,
+        0.2753,
+        0.2569,
+        0.0618
+      ],
+      "tail": null,
+      "text_key": "genesis.38.p2.b3"
+    },
+    {
+      "id": "GENESIS_38_P002_B004",
+      "panel": "GENESIS_38_P002_F4",
+      "order": 4,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.5,
+        0.6224,
+        0.47,
+        0.0622
+      ],
+      "tail": [
+        0.735,
+        0.7235
+      ],
+      "text_key": "genesis.38.p2.b4"
+    },
+    {
+      "id": "GENESIS_38_P002_B005",
+      "panel": "GENESIS_38_P002_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.25,
+        0.9299,
+        0.5,
+        0.0583
+      ],
+      "tail": [
+        0.5,
+        1
+      ],
+      "text_key": "genesis.38.p2.b5"
+    }
+  ]
+}

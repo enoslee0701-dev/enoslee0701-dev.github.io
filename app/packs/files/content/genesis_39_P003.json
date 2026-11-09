@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_39_P003",
+  "book": "genesis",
+  "chapter": 39,
+  "page": 3,
+  "ref": "39:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_39_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_39_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3229
+      ],
+      "alt": {
+        "zh-CN": "这事以后，约瑟主人的妻以目送情给约瑟，说：「你与我同寝吧！」"
+      }
+    },
+    {
+      "id": "GENESIS_39_P003_F2",
+      "box": [
+        0,
+        0.3268,
+        1,
+        0.4193
+      ],
+      "alt": {
+        "zh-CN": "约瑟不从，对他主人的妻说：「看哪，一切家务，我主人都不知道；他把所有的都交在我手里。在这家里没有比我大的；并且他没有留下一样不交给我，只留下了你，因为你是他的妻子。我怎能作这大恶，得罪　神呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_39_P003_F3",
+      "box": [
+        0,
+        0.7507,
+        1,
+        0.2493
+      ],
+      "alt": {
+        "zh-CN": "后来她天天和约瑟说，约瑟却不听从她，不与她同寝，也不和她在一处。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_39_P003_B001",
+      "panel": "GENESIS_39_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0065,
+        0.36,
+        0.0322
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p3.b1"
+    },
+    {
+      "id": "GENESIS_39_P003_B002",
+      "panel": "GENESIS_39_P003_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.44,
+        0.0194,
+        0.2,
+        0.1033
+      ],
+      "tail": [
+        0.54,
+        0.155
+      ],
+      "text_key": "genesis.39.p3.b2"
+    },
+    {
+      "id": "GENESIS_39_P003_B003",
+      "panel": "GENESIS_39_P003_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.3478,
+        0.37,
+        0.1677
+      ],
+      "tail": [
+        0.785,
+        0.5574
+      ],
+      "text_key": "genesis.39.p3.b3"
+    },
+    {
+      "id": "GENESIS_39_P003_B004",
+      "panel": "GENESIS_39_P003_F2",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6287,
+        0.42,
+        0.1006
+      ],
+      "tail": [
+        0.76,
+        0.7461
+      ],
+      "text_key": "genesis.39.p3.b4"
+    },
+    {
+      "id": "GENESIS_39_P003_B005",
+      "panel": "GENESIS_39_P003_F3",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9551,
+        0.94,
+        0.0373
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p3.b5"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "genesis.1.p1.b1": {
+    "text": "起初，　神创造天地。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "起⁠初，　神创⁠造天⁠地。"
+  },
+  "genesis.1.p1.b2": {
+    "text": "地是空虚混沌，渊面黑暗；　神的灵运行在水面上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "地是空⁠虚混⁠沌，渊面黑⁠暗；　神的灵运⁠行在水⁠面⁠上。"
+  },
+  "genesis.1.p2.b3": {
+    "text": "要有光",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "要⁠有光"
+  },
+  "genesis.1.p2.b4": {
+    "text": "就有了光。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "就⁠有了光。"
+  },
+  "genesis.1.p2.b5": {
+    "text": "神看光是好的，就把光暗分开了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神看光是好⁠的，就⁠把光暗分⁠开了。"
+  },
+  "genesis.1.p2.b6": {
+    "text": "有晚上，有早晨，这是头一日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有晚⁠上，有早⁠晨，这是头一⁠日。"
+  },
+  "genesis.1.p3.b7": {
+    "text": "诸水之间要有空气，将水分为上下。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "诸水之⁠间要⁠有空⁠气，将水⁠分为上⁠下。"
+  },
+  "genesis.1.p3.b8": {
+    "text": "神就造出空气，将空气以下的水、空气以上的水分开了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神就造⁠出空⁠气，将空⁠气以⁠下的水、空⁠气以⁠上的水分⁠开了。"
+  },
+  "genesis.1.p3.b9": {
+    "text": "有晚上，有早晨，是第二日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有晚⁠上，有早⁠晨，是第⁠二日。"
+  },
+  "genesis.1.p4.b10": {
+    "text": "天下的水要聚在一处，使旱地露出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "天⁠下的水要聚⁠在一处，使旱⁠地露⁠出来。"
+  },
+  "genesis.1.p4.b11": {
+    "text": "神称旱地为「地」，称水的聚处为「海」。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神称旱⁠地为「地」，称水的聚处为「海」。"
+  },
+  "genesis.1.p4.b12": {
+    "text": "于是地发生了青草和结种子的菜蔬……并结果子的树木……　神看着是好的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是地发⁠生了青⁠草和结种⁠子的菜⁠蔬……并结⁠果子的树⁠木……　神看着是好⁠的。"
+  },
+  "genesis.1.p4.b13": {
+    "text": "有晚上，有早晨，是第三日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有晚⁠上，有早⁠晨，是第⁠三日。"
+  },
+  "genesis.1.p5.b14": {
+    "text": "天上要有光体，可以分昼夜，作记号，定节令、日子、年岁……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "天⁠上要⁠有光体，可⁠以分昼⁠夜，作记⁠号，定节令、日⁠子、年岁……"
+  },
+  "genesis.1.p5.b15": {
+    "text": "于是　神造了两个大光，大的管昼，小的管夜，又造众星……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是　神造了两个大⁠光，大的管昼，小的管夜，又造众星……"
+  },
+  "genesis.1.p5.b16": {
+    "text": "管理昼夜，分别明暗。　神看着是好的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "管⁠理昼⁠夜，分⁠别明⁠暗。　神看着是好⁠的。"
+  },
+  "genesis.1.p5.b17": {
+    "text": "有晚上，有早晨，是第四日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有晚⁠上，有早⁠晨，是第⁠四日。"
+  },
+  "genesis.1.p6.b18": {
+    "text": "水要多多滋生有生命的物；要有雀鸟飞在地面以上，天空之中。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "水要多⁠多滋⁠生有生⁠命的物；要⁠有雀鸟飞在地⁠面以⁠上，天⁠空之⁠中。"
+  },
+  "genesis.1.p6.b19": {
+    "text": "神就造出大鱼和水中所滋生各样有生命的动物，各从其类；又造出各样飞鸟……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神就造⁠出大鱼和水⁠中所滋⁠生各⁠样有生⁠命的动⁠物，各从其类；又造⁠出各⁠样飞⁠鸟……"
+  },
+  "genesis.1.p6.b20": {
+    "text": "滋生繁多，充满海中的水；雀鸟也要多生在地上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "滋⁠生繁⁠多，充⁠满海⁠中的水；雀鸟也⁠要多生在地⁠上。"
+  },
+  "genesis.1.p6.b21": {
+    "text": "有晚上，有早晨，是第五日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有晚⁠上，有早⁠晨，是第⁠五日。"
+  },
+  "genesis.1.p7.b22": {
+    "text": "地要生出活物来，各从其类；牲畜、昆虫、野兽，各从其类。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "地要生⁠出活物来，各从其类；牲⁠畜、昆⁠虫、野⁠兽，各从其类。"
+  },
+  "genesis.1.p7.b23": {
+    "text": "于是　神造出野兽，各从其类；牲畜，各从其类；地上一切昆虫，各从其类。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是　神造⁠出野⁠兽，各从其类；牲⁠畜，各从其类；地⁠上一⁠切昆⁠虫，各从其类。"
+  },
+  "genesis.1.p7.b24": {
+    "text": "神看着是好的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神看着是好⁠的。"
+  },
+  "genesis.1.p8.b25": {
+    "text": "我们要照着我们的形象、按着我们的样式造人……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们要照着我⁠们的形⁠象、按着我⁠们的样⁠式造人……"
+  },
+  "genesis.1.p8.b26": {
+    "text": "神就照着自己的形象造人，乃是照着他的形象造男造女。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神就照着自⁠己的形⁠象造人，乃⁠是照着他⁠的形⁠象造男造女。"
+  },
+  "genesis.1.p8.b27": {
+    "text": "要生养众多，遍满地面，治理这地……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "要生养众⁠多，遍满地⁠面，治⁠理这地……"
+  },
+  "genesis.1.p9.b28": {
+    "text": "看哪，我将遍地上一切结种子的菜蔬和一切树上所结有核的果子全赐给你们作食物。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，我将遍⁠地上一⁠切结种⁠子的菜⁠蔬和一⁠切树上⁠所结有核的果⁠子全赐⁠给你⁠们作食⁠物。"
+  },
+  "genesis.1.p9.b29": {
+    "text": "神看着一切所造的都甚好。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神看着一⁠切所造的都甚⁠好。"
+  },
+  "genesis.1.p9.b30": {
+    "text": "有晚上，有早晨，是第六日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Genesis 1:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "有晚⁠上，有早⁠晨，是第⁠六日。"
+  }
+}

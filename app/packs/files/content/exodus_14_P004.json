@@ -1,0 +1,121 @@
+{
+  "id": "EXODUS_14_P004",
+  "book": "exodus",
+  "chapter": 14,
+  "page": 4,
+  "ref": "14:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_14_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_14_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4232
+      ],
+      "alt": {
+        "zh-CN": "摩西对百姓说：「不要惧怕，只管站住！看耶和华今天向你们所要施行的救恩。」"
+      }
+    },
+    {
+      "id": "EXODUS_14_P004_F2",
+      "box": [
+        0,
+        0.4264,
+        0.5186,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "百姓渐渐安静下来。"
+      }
+    },
+    {
+      "id": "EXODUS_14_P004_F3",
+      "box": [
+        0.5244,
+        0.4264,
+        0.4756,
+        0.278
+      ],
+      "alt": {
+        "zh-CN": "「耶和华必为你们争战；你们只管静默，不要作声。」"
+      }
+    },
+    {
+      "id": "EXODUS_14_P004_F4",
+      "box": [
+        0,
+        0.7083,
+        1,
+        0.2917
+      ],
+      "alt": {
+        "zh-CN": "「因为，你们今天所看见的埃及人必永远不再看见了。」夜里，营中寂静，远处是埃及人的营火。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_14_P004_B010",
+      "panel": "EXODUS_14_P004_F1",
+      "order": 10,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.04,
+        0.0169,
+        0.4,
+        0.0761
+      ],
+      "tail": [
+        0.24,
+        0.1353
+      ],
+      "text_key": "exodus.14.p4.b10"
+    },
+    {
+      "id": "EXODUS_14_P004_B011",
+      "panel": "EXODUS_14_P004_F3",
+      "order": 11,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5482,
+        0.4347,
+        0.428,
+        0.05
+      ],
+      "tail": [
+        0.7622,
+        0.5125
+      ],
+      "text_key": "exodus.14.p4.b11"
+    },
+    {
+      "id": "EXODUS_14_P004_B012",
+      "panel": "EXODUS_14_P004_F4",
+      "order": 12,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.04,
+        0.72,
+        0.6,
+        0.0583
+      ],
+      "tail": [
+        0,
+        0.8075
+      ],
+      "text_key": "exodus.14.p4.b12"
+    }
+  ]
+}

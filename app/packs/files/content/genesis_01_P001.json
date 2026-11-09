@@ -1,0 +1,73 @@
+{
+  "id": "GENESIS_01_P001",
+  "book": "genesis",
+  "chapter": 1,
+  "page": 1,
+  "ref": "1:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_01_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_01_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.6673
+      ],
+      "alt": {
+        "zh-CN": "起初，神创造天地。"
+      }
+    },
+    {
+      "id": "GENESIS_01_P001_F2",
+      "box": [
+        0,
+        0.6725,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "地是空虚混沌，渊面黑暗；神的灵运行在水面上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_01_P001_B001",
+      "panel": "GENESIS_01_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.04,
+        0.56,
+        0.1067
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p1.b1"
+    },
+    {
+      "id": "GENESIS_01_P001_B002",
+      "panel": "GENESIS_01_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.06,
+        0.6889,
+        0.6,
+        0.072
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p1.b2"
+    }
+  ]
+}

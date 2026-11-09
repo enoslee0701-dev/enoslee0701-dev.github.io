@@ -1,0 +1,127 @@
+{
+  "id": "GENESIS_11_P006",
+  "book": "genesis",
+  "chapter": 11,
+  "page": 6,
+  "ref": "11:27-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_11_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_11_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2376
+      ],
+      "alt": {
+        "zh-CN": "他拉的后代记在下面。他拉生亚伯兰、拿鹤、哈兰；哈兰生罗得。哈兰死在他的本地迦勒底的吾珥，在他父亲他拉之先。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P006_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.2702
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰、拿鹤各娶了妻：亚伯兰的妻子名叫撒莱；拿鹤的妻子名叫密迦。撒莱不生育，没有孩子。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P006_F3",
+      "box": [
+        0,
+        0.5137,
+        1,
+        0.4863
+      ],
+      "alt": {
+        "zh-CN": "他拉带着他儿子亚伯兰和他孙子哈兰的儿子罗得，并他儿妇亚伯兰的妻子撒莱，出了迦勒底的吾珥，要往迦南地去。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P006_F4",
+      "box": [
+        0.554,
+        0.832,
+        0.436,
+        0.158
+      ],
+      "alt": {
+        "zh-CN": "他们走到哈兰，就住在那里。他拉共活了二百零五岁，就死在哈兰。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_11_P006_B013",
+      "panel": "GENESIS_11_P006_F1",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0048,
+        0.36,
+        0.057
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p6.b13"
+    },
+    {
+      "id": "GENESIS_11_P006_B014",
+      "panel": "GENESIS_11_P006_F2",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.249,
+        0.4,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p6.b14"
+    },
+    {
+      "id": "GENESIS_11_P006_B015",
+      "panel": "GENESIS_11_P006_F3",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.5283,
+        0.46,
+        0.0778
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p6.b15"
+    },
+    {
+      "id": "GENESIS_11_P006_B016",
+      "panel": "GENESIS_11_P006_F4",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7022,
+        0.8383,
+        0.2703,
+        0.041
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p6.b16"
+    }
+  ]
+}

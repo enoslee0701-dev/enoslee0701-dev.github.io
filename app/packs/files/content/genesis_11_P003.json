@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_11_P003",
+  "book": "genesis",
+  "chapter": 11,
+  "page": 3,
+  "ref": "11:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_11_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_11_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.181
+      ],
+      "alt": {
+        "zh-CN": "耶和华降临，要看看世人所建造的城和塔。云层裂开，一道光压下来。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P003_F2",
+      "box": [
+        0,
+        0.1849,
+        1,
+        0.4798
+      ],
+      "alt": {
+        "zh-CN": "耶和华说：「看哪，他们成为一样的人民，都是一样的言语，如今既做起这事来，以后他们所要做的事就没有不成就的了。」从云上看，那座塔小得像一根钉子。"
+      }
+    },
+    {
+      "id": "GENESIS_11_P003_F3",
+      "box": [
+        0,
+        0.6686,
+        1,
+        0.3314
+      ],
+      "alt": {
+        "zh-CN": "「我们下去，在那里变乱他们的口音，使他们的言语彼此不通。」塔顶的工人还在干活，一阵风压下来。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_11_P003_B005",
+      "panel": "GENESIS_11_P003_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0145,
+        0.36,
+        0.0796
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p3.b5"
+    },
+    {
+      "id": "GENESIS_11_P003_B006",
+      "panel": "GENESIS_11_P003_F2",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.2041,
+        0.4,
+        0.1151
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p3.b6"
+    },
+    {
+      "id": "GENESIS_11_P003_B007",
+      "panel": "GENESIS_11_P003_F3",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.6785,
+        0.46,
+        0.0497
+      ],
+      "tail": null,
+      "text_key": "genesis.11.p3.b7"
+    }
+  ]
+}

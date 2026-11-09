@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_31_P003",
+  "book": "genesis",
+  "chapter": 31,
+  "page": 3,
+  "ref": "31:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_31_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_31_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5469,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「羊配合的时候，我梦中举目一看，见跳母羊的公羊都是有纹的、有点的、有花斑的。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P003_F2",
+      "box": [
+        0.5537,
+        0,
+        0.4463,
+        0.3288
+      ],
+      "alt": {
+        "zh-CN": "神的使者在那梦中呼叫我说：『雅各。』我说：『我在这里。』他说：『你举目观看，跳母羊的公羊都是有纹的、有点的、有花斑的；凡拉班向你所做的，我都看见了。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P003_F3",
+      "box": [
+        0,
+        0.3333,
+        1,
+        0.3353
+      ],
+      "alt": {
+        "zh-CN": "我是伯特利的　神；你在那里用油浇过柱子，向我许过愿。"
+      }
+    },
+    {
+      "id": "GENESIS_31_P003_F4",
+      "box": [
+        0,
+        0.6725,
+        1,
+        0.3275
+      ],
+      "alt": {
+        "zh-CN": "现今你起来，离开这地，回你本地去吧！』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_31_P003_B001",
+      "panel": "GENESIS_31_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0164,
+        0.0099,
+        0.3281,
+        0.0526
+      ],
+      "tail": [
+        0.1805,
+        0.0954
+      ],
+      "text_key": "genesis.31.p3.b1"
+    },
+    {
+      "id": "GENESIS_31_P003_B002",
+      "panel": "GENESIS_31_P003_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5671,
+        0.0099,
+        0.2454,
+        0.0657
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p3.b2"
+    },
+    {
+      "id": "GENESIS_31_P003_B003",
+      "panel": "GENESIS_31_P003_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.3434,
+        0.47,
+        0.0737
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p3.b3"
+    },
+    {
+      "id": "GENESIS_31_P003_B004",
+      "panel": "GENESIS_31_P003_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.6823,
+        0.29,
+        0.0524
+      ],
+      "tail": null,
+      "text_key": "genesis.31.p3.b4"
+    }
+  ]
+}

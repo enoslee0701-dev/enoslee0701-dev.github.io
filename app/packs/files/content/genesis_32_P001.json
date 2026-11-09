@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_32_P001",
+  "book": "genesis",
+  "chapter": 32,
+  "page": 1,
+  "ref": "32:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_32_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_32_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3047
+      ],
+      "alt": {
+        "zh-CN": "雅各仍旧行路，　神的使者遇见他。"
+      }
+    },
+    {
+      "id": "GENESIS_32_P001_F2",
+      "box": [
+        0,
+        0.3079,
+        1,
+        0.388
+      ],
+      "alt": {
+        "zh-CN": "雅各看见他们就说：「这是　神的军兵」，于是给那地方起名叫玛哈念。"
+      }
+    },
+    {
+      "id": "GENESIS_32_P001_F3",
+      "box": [
+        0,
+        0.6992,
+        0.5137,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "雅各打发人先往西珥地去，就是以东地，见他哥哥以扫，吩咐他们说：「你们对我主以扫说：『你的仆人雅各这样说：我在拉班那里寄居，直到如今。"
+      }
+    },
+    {
+      "id": "GENESIS_32_P001_F4",
+      "box": [
+        0.5195,
+        0.6992,
+        0.4805,
+        0.3008
+      ],
+      "alt": {
+        "zh-CN": "我有牛、驴、羊群、仆婢，现在打发人来报告我主，为要在你眼前蒙恩。』」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_32_P001_B001",
+      "panel": "GENESIS_32_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0091,
+        0.4,
+        0.0487
+      ],
+      "tail": null,
+      "text_key": "genesis.32.p1.b1"
+    },
+    {
+      "id": "GENESIS_32_P001_B002",
+      "panel": "GENESIS_32_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.57,
+        0.3195,
+        0.27,
+        0.0659
+      ],
+      "tail": [
+        0.705,
+        0.4242
+      ],
+      "text_key": "genesis.32.p1.b2"
+    },
+    {
+      "id": "GENESIS_32_P001_B003",
+      "panel": "GENESIS_32_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0205,
+        0.7082,
+        0.4726,
+        0.0421
+      ],
+      "tail": [
+        0.2568,
+        0.7804
+      ],
+      "text_key": "genesis.32.p1.b3"
+    },
+    {
+      "id": "GENESIS_32_P001_B004",
+      "panel": "GENESIS_32_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5387,
+        0.7082,
+        0.2642,
+        0.0661
+      ],
+      "tail": [
+        0.6708,
+        0.8044
+      ],
+      "text_key": "genesis.32.p1.b4"
+    }
+  ]
+}

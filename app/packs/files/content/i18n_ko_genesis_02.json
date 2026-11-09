@@ -1,0 +1,192 @@
+{
+  "genesis.2.p1.b1": {
+    "text": "천지와 만물이 다 이루니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p1.b2": {
+    "text": "하나님의 지으시던 일이 일곱째 날이 이를 때에 마치니 그 지으시던 일이 다하므로 일곱째 날에 안식하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p1.b3": {
+    "text": "하나님이 일곱째 날을 복 주사 거룩하게 하셨으니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p2.b4": {
+    "text": "들에는 초목이 아직 없었고 … 안개만 땅에서 올라와 온 지면을 적셨더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p2.b5": {
+    "text": "여호와 하나님이 흙으로 사람을 지으시고 생기를 그 코에 불어 넣으시니 사람이 생령이 된지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p3.b6": {
+    "text": "여호와 하나님이 동방의 에덴에 동산을 창설하시고 그 지으신 사람을 거기 두시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p3.b7": {
+    "text": "강이 에덴에서 발원하여 동산을 적시고 거기서부터 갈라져 네 근원이 되었으니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p3.b8": {
+    "text": "금이 있는 … 그 땅의 금은 정금이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:11-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p4.b9": {
+    "text": "여호와 하나님이 그 사람을 이끌어 에덴 동산에 두사 그것을 다스리며 지키게 하시고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p4.b10": {
+    "text": "동산 각종 나무의 실과는 네가 임의로 먹되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p4.b11": {
+    "text": "선악을 알게 하는 나무의 실과는 먹지 말라 네가 먹는 날에는 정녕 죽으리라 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p5.b12": {
+    "text": "사람의 독처하는 것이 좋지 못하니 내가 그를 위하여 돕는 배필을 지으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p5.b13": {
+    "text": "아담이 각 생물을 일컫는 바가 곧 그 이름이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p5.b14": {
+    "text": "아담이 돕는 배필이 없으므로",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p6.b15": {
+    "text": "여호와 하나님이 아담을 깊이 잠들게 하시니 잠들매 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p6.b16": {
+    "text": "여호와 하나님이 아담에게서 취하신 그 갈빗대로 여자를 만드시고 그를 아담에게로 이끌어 오시니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p7.b17": {
+    "text": "이는 내 뼈 중의 뼈요 살 중의 살이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p7.b18": {
+    "text": "이것을 남자에게서 취하였은즉 여자라 칭하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.2.p7.b19": {
+    "text": "아담과 그 아내 두 사람이 벌거벗었으나 부끄러워 아니하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Genesis 2:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

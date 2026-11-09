@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_12_P003",
+  "book": "genesis",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ],
+      "alt": {
+        "zh-CN": "耶和华向亚伯兰显现，说：「我要把这地赐给你的后裔。」橡树下一道光落在地上，亚伯兰俯伏在光前。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P003_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.4245
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰就在那里为向他显现的耶和华筑了一座坛。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P003_F3",
+      "box": [
+        0,
+        0.6751,
+        1,
+        0.2129
+      ],
+      "alt": {
+        "zh-CN": "从那里他又迁到伯特利东边的山，支搭帐棚；西边是伯特利，东边是艾。他在那里又为耶和华筑了一座坛，求告耶和华的名。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P003_F4",
+      "box": [
+        0,
+        0.8913,
+        1,
+        0.1087
+      ],
+      "alt": {
+        "zh-CN": "后来亚伯兰又渐渐迁往南地去。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_12_P003_B007",
+      "panel": "GENESIS_12_P003_F1",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.58,
+        0.0098,
+        0.39,
+        0.0732
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p3.b7"
+    },
+    {
+      "id": "GENESIS_12_P003_B008",
+      "panel": "GENESIS_12_P003_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.2559,
+        0.45,
+        0.0382
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p3.b8"
+    },
+    {
+      "id": "GENESIS_12_P003_B009",
+      "panel": "GENESIS_12_P003_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.53,
+        0.6815,
+        0.42,
+        0.0425
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p3.b9"
+    }
+  ]
+}

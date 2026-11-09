@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_27_P011",
+  "book": "genesis",
+  "chapter": 27,
+  "page": 11,
+  "ref": "27:41-42",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_27_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_27_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "以扫因他父亲给雅各祝的福，就怨恨雅各，心里说：「为我父亲居丧的日子近了，到那时候，我要杀我的兄弟雅各。」"
+      }
+    },
+    {
+      "id": "GENESIS_27_P011_F2",
+      "box": [
+        0,
+        0.4323,
+        0.4834,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "有人把利百加大儿子以扫的话告诉利百加，"
+      }
+    },
+    {
+      "id": "GENESIS_27_P011_F3",
+      "box": [
+        0.4883,
+        0.4323,
+        0.5117,
+        0.2572
+      ],
+      "alt": {
+        "zh-CN": "利百加听了，脸色发白。"
+      }
+    },
+    {
+      "id": "GENESIS_27_P011_F4",
+      "box": [
+        0,
+        0.6921,
+        1,
+        0.3079
+      ],
+      "alt": {
+        "zh-CN": "她就打发人去，叫了她小儿子雅各来，对他说：「你哥哥以扫想要杀你，报仇雪恨。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_27_P011_B048",
+      "panel": "GENESIS_27_P011_F1",
+      "order": 48,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0129,
+        0.42,
+        0.0687
+      ],
+      "tail": null,
+      "text_key": "genesis.27.p11.b48"
+    },
+    {
+      "id": "GENESIS_27_P011_B049",
+      "panel": "GENESIS_27_P011_F1",
+      "order": 49,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.03,
+        0.1719,
+        0.36,
+        0.1117
+      ],
+      "tail": [
+        0.21,
+        0.3266
+      ],
+      "text_key": "genesis.27.p11.b49"
+    },
+    {
+      "id": "GENESIS_27_P011_B050",
+      "panel": "GENESIS_27_P011_F2",
+      "order": 50,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2417,
+        0.44,
+        0.1546,
+        0.0462
+      ],
+      "tail": null,
+      "text_key": "genesis.27.p11.b50"
+    },
+    {
+      "id": "GENESIS_27_P011_B051",
+      "panel": "GENESIS_27_P011_F4",
+      "order": 51,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.72,
+        0.7044,
+        0.26,
+        0.08
+      ],
+      "tail": [
+        0.85,
+        0.8152
+      ],
+      "text_key": "genesis.27.p11.b51"
+    }
+  ]
+}

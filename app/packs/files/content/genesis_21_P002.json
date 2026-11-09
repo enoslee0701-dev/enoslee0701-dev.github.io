@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_21_P002",
+  "book": "genesis",
+  "chapter": 21,
+  "page": 2,
+  "ref": "21:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_21_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_21_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3796
+      ],
+      "alt": {
+        "zh-CN": "撒拉说：「神使我喜笑，凡听见的必与我一同喜笑」；"
+      }
+    },
+    {
+      "id": "GENESIS_21_P002_F2",
+      "box": [
+        0,
+        0.3835,
+        1,
+        0.2513
+      ],
+      "alt": {
+        "zh-CN": "又说：「谁能预先对亚伯拉罕说『撒拉要乳养婴孩』呢？因为在他年老的时候，我给他生了一个儿子。」"
+      }
+    },
+    {
+      "id": "GENESIS_21_P002_F3",
+      "box": [
+        0,
+        0.6387,
+        0.6299,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "孩子渐长，就断了奶。以撒断奶的日子，亚伯拉罕设摆丰盛的筵席。"
+      }
+    },
+    {
+      "id": "GENESIS_21_P002_F4",
+      "box": [
+        0.6367,
+        0.6387,
+        0.3633,
+        0.3613
+      ],
+      "alt": {
+        "zh-CN": "筵席边，撒拉的笑容收住了，望向一旁。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_21_P002_B005",
+      "panel": "GENESIS_21_P002_F1",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0152,
+        0.42,
+        0.0911
+      ],
+      "tail": [
+        0.24,
+        0.1443
+      ],
+      "text_key": "genesis.21.p2.b5"
+    },
+    {
+      "id": "GENESIS_21_P002_B006",
+      "panel": "GENESIS_21_P002_F2",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.3936,
+        0.42,
+        0.0703
+      ],
+      "tail": [
+        0.76,
+        0.489
+      ],
+      "text_key": "genesis.21.p2.b6"
+    },
+    {
+      "id": "GENESIS_21_P002_B007",
+      "panel": "GENESIS_21_P002_F3",
+      "order": 7,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.0189,
+        0.6495,
+        0.3464,
+        0.0541
+      ],
+      "tail": null,
+      "text_key": "genesis.21.p2.b7"
+    }
+  ]
+}

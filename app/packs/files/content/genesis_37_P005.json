@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_37_P005",
+  "book": "genesis",
+  "chapter": 37,
+  "page": 5,
+  "ref": "37:18-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_37_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_37_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3665
+      ],
+      "alt": {
+        "zh-CN": "他们远远地看见他，趁他还没有走到跟前，大家就同谋要害死他，"
+      }
+    },
+    {
+      "id": "GENESIS_37_P005_F2",
+      "box": [
+        0,
+        0.3704,
+        1,
+        0.3073
+      ],
+      "alt": {
+        "zh-CN": "彼此说：「你看！那做梦的来了。来吧！我们将他杀了，丢在一个坑里，就说有恶兽把他吃了。我们且看他的梦将来怎么样。」"
+      }
+    },
+    {
+      "id": "GENESIS_37_P005_F3",
+      "box": [
+        0,
+        0.6816,
+        0.498,
+        0.3184
+      ],
+      "alt": {
+        "zh-CN": "吕便听见了，要救他脱离他们的手，说：「我们不可害他的性命」；又说：「不可流他的血，可以把他丢在这野地的坑里，不可下手害他。」"
+      }
+    },
+    {
+      "id": "GENESIS_37_P005_F4",
+      "box": [
+        0.5049,
+        0.6816,
+        0.4951,
+        0.3184
+      ],
+      "alt": {
+        "zh-CN": "吕便的意思是要救他脱离他们的手，把他归还他的父亲。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_37_P005_B001",
+      "panel": "GENESIS_37_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.011,
+        0.5,
+        0.0586
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p5.b1"
+    },
+    {
+      "id": "GENESIS_37_P005_B002",
+      "panel": "GENESIS_37_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.3796,
+        0.55,
+        0.0737
+      ],
+      "tail": [
+        0.305,
+        0.484
+      ],
+      "text_key": "genesis.37.p5.b2"
+    },
+    {
+      "id": "GENESIS_37_P005_B003",
+      "panel": "GENESIS_37_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.6912,
+        0.4482,
+        0.0764
+      ],
+      "tail": [
+        0.244,
+        0.7994
+      ],
+      "text_key": "genesis.37.p5.b3"
+    },
+    {
+      "id": "GENESIS_37_P005_B004",
+      "panel": "GENESIS_37_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7277,
+        0.93,
+        0.2574,
+        0.0604
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p5.b4"
+    }
+  ]
+}

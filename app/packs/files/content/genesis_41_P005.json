@@ -1,0 +1,88 @@
+{
+  "id": "GENESIS_41_P005",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 5,
+  "ref": "41:15-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3424
+      ],
+      "alt": {
+        "zh-CN": "法老对约瑟说：「我做了一梦，没有人能解；我听见人说，你听了梦就能解。」"
+      }
+    },
+    {
+      "id": "GENESIS_41_P005_F2",
+      "box": [
+        0,
+        0.347,
+        1,
+        0.2044
+      ]
+    },
+    {
+      "id": "GENESIS_41_P005_F3",
+      "box": [
+        0,
+        0.556,
+        1,
+        0.444
+      ],
+      "alt": {
+        "zh-CN": "约瑟回答法老说：「这不在乎我，　神必将平安的话回答法老。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P005_B001",
+      "panel": "GENESIS_41_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0103,
+        0.45,
+        0.0821
+      ],
+      "tail": [
+        0.255,
+        0.1266
+      ],
+      "text_key": "genesis.41.p5.b1"
+    },
+    {
+      "id": "GENESIS_41_P005_B002",
+      "panel": "GENESIS_41_P005_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.8846,
+        0.58,
+        0.0976
+      ],
+      "tail": [
+        0.32,
+        1
+      ],
+      "text_key": "genesis.41.p5.b2"
+    }
+  ]
+}

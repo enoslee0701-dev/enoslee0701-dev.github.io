@@ -1,0 +1,124 @@
+{
+  "id": "GENESIS_50_P006",
+  "book": "genesis",
+  "chapter": 50,
+  "page": 6,
+  "ref": "50:19-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_50_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_50_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4896
+      ]
+    },
+    {
+      "id": "GENESIS_50_P006_F2",
+      "box": [
+        0,
+        0.4928,
+        0.3818,
+        0.2383
+      ]
+    },
+    {
+      "id": "GENESIS_50_P006_F3",
+      "box": [
+        0.3877,
+        0.4928,
+        0.6123,
+        0.2383
+      ]
+    },
+    {
+      "id": "GENESIS_50_P006_F4",
+      "box": [
+        0,
+        0.7337,
+        1,
+        0.2663
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_50_P006_B001",
+      "panel": "GENESIS_50_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0147,
+        0.45,
+        0.0783
+      ],
+      "tail": [
+        0.255,
+        0.142
+      ],
+      "text_key": "genesis.50.p6.b1"
+    },
+    {
+      "id": "GENESIS_50_P006_B002",
+      "panel": "GENESIS_50_P006_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0147,
+        0.45,
+        0.0979
+      ],
+      "tail": [
+        0.745,
+        0.1616
+      ],
+      "text_key": "genesis.50.p6.b2"
+    },
+    {
+      "id": "GENESIS_50_P006_B003",
+      "panel": "GENESIS_50_P006_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4122,
+        0.4999,
+        0.3061,
+        0.0571
+      ],
+      "tail": [
+        0.5653,
+        0.5808
+      ],
+      "text_key": "genesis.50.p6.b3"
+    },
+    {
+      "id": "GENESIS_50_P006_B004",
+      "panel": "GENESIS_50_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9467,
+        0.5,
+        0.0452
+      ],
+      "tail": null,
+      "text_key": "genesis.50.p6.b4"
+    }
+  ]
+}

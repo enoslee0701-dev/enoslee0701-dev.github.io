@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_39_P005",
+  "book": "genesis",
+  "chapter": 39,
+  "page": 5,
+  "ref": "39:13-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_39_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_39_P005_F1",
+      "box": [
+        0,
+        0,
+        0.4092,
+        0.347
+      ],
+      "alt": {
+        "zh-CN": "妇人看见约瑟把衣裳丢在她手里跑出去了，"
+      }
+    },
+    {
+      "id": "GENESIS_39_P005_F2",
+      "box": [
+        0.417,
+        0,
+        0.583,
+        0.347
+      ],
+      "alt": {
+        "zh-CN": "就叫了家里的人来，对他们说：「你们看！他带了一个希伯来人进入我们家里，要戏弄我们。他到我这里来，要与我同寝，我就大声喊叫。他听见我放声喊起来，就把衣裳丢在我这里，跑到外边去了。」"
+      }
+    },
+    {
+      "id": "GENESIS_39_P005_F3",
+      "box": [
+        0,
+        0.3516,
+        1,
+        0.2526
+      ],
+      "alt": {
+        "zh-CN": "妇人把约瑟的衣裳放在自己那里，等着他主人回家，"
+      }
+    },
+    {
+      "id": "GENESIS_39_P005_F4",
+      "box": [
+        0,
+        0.6081,
+        1,
+        0.3919
+      ],
+      "alt": {
+        "zh-CN": "就对他如此如此说：「你所带到我们这里的那希伯来仆人进来要戏弄我，我放声喊起来，他就把衣裳丢在我这里，跑出去了。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_39_P005_B001",
+      "panel": "GENESIS_39_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0164,
+        0.0104,
+        0.3682,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p5.b1"
+    },
+    {
+      "id": "GENESIS_39_P005_B002",
+      "panel": "GENESIS_39_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6793,
+        0.0104,
+        0.3031,
+        0.0763
+      ],
+      "tail": [
+        0.8309,
+        0.1214
+      ],
+      "text_key": "genesis.39.p5.b2"
+    },
+    {
+      "id": "GENESIS_39_P005_B003",
+      "panel": "GENESIS_39_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3617,
+        0.45,
+        0.0505
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p5.b3"
+    },
+    {
+      "id": "GENESIS_39_P005_B004",
+      "panel": "GENESIS_39_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6199,
+        0.47,
+        0.0862
+      ],
+      "tail": [
+        0.735,
+        0.7453
+      ],
+      "text_key": "genesis.39.p5.b4"
+    }
+  ]
+}

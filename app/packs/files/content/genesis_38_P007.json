@@ -1,0 +1,148 @@
+{
+  "id": "GENESIS_38_P007",
+  "book": "genesis",
+  "chapter": 38,
+  "page": 7,
+  "ref": "38:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_38_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_38_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.306
+      ],
+      "alt": {
+        "zh-CN": "她玛将要生产，不料她腹里是一对双生。"
+      }
+    },
+    {
+      "id": "GENESIS_38_P007_F2",
+      "box": [
+        0,
+        0.3099,
+        0.4512,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "到生产的时候，一个孩子伸出一只手来；收生婆拿红线拴在他手上，说：「这是头生的。」"
+      }
+    },
+    {
+      "id": "GENESIS_38_P007_F3",
+      "box": [
+        0.459,
+        0.3099,
+        0.541,
+        0.2565
+      ],
+      "alt": {
+        "zh-CN": "随后这孩子把手收回去，他哥哥生出来了；收生婆说：「你为什么抢着来呢？」因此给他起名叫法勒斯。"
+      }
+    },
+    {
+      "id": "GENESIS_38_P007_F4",
+      "box": [
+        0,
+        0.571,
+        1,
+        0.429
+      ],
+      "alt": {
+        "zh-CN": "后来，他兄弟那手上有红线的也生出来，就给他起名叫谢拉。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_38_P007_B001",
+      "panel": "GENESIS_38_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.27,
+        0.0061,
+        0.3,
+        0.0397
+      ],
+      "tail": null,
+      "text_key": "genesis.38.p7.b1"
+    },
+    {
+      "id": "GENESIS_38_P007_B002",
+      "panel": "GENESIS_38_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0135,
+        0.3176,
+        0.2256,
+        0.0461
+      ],
+      "tail": [
+        0.1263,
+        0.3894
+      ],
+      "text_key": "genesis.38.p7.b2"
+    },
+    {
+      "id": "GENESIS_38_P007_B003",
+      "panel": "GENESIS_38_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4698,
+        0.3176,
+        0.1514,
+        0.0277
+      ],
+      "tail": [
+        0.5455,
+        0.371
+      ],
+      "text_key": "genesis.38.p7.b3"
+    },
+    {
+      "id": "GENESIS_38_P007_B004",
+      "panel": "GENESIS_38_P007_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4698,
+        0.3504,
+        0.1514,
+        0.0338
+      ],
+      "tail": null,
+      "text_key": "genesis.38.p7.b4"
+    },
+    {
+      "id": "GENESIS_38_P007_B005",
+      "panel": "GENESIS_38_P007_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.9314,
+        0.9,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "genesis.38.p7.b5"
+    }
+  ]
+}

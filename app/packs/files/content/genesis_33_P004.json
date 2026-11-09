@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_33_P004",
+  "book": "genesis",
+  "chapter": 33,
+  "page": 4,
+  "ref": "33:8-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_33_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_33_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5576,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "以扫说：「我所遇见的这些群畜是什么意思呢？」雅各说：「是要在我主面前蒙恩的。」"
+      }
+    },
+    {
+      "id": "GENESIS_33_P004_F2",
+      "box": [
+        0.5654,
+        0,
+        0.4346,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "以扫说：「兄弟啊，我的已经够了，你的仍归你吧！」"
+      }
+    },
+    {
+      "id": "GENESIS_33_P004_F3",
+      "box": [
+        0,
+        0.2943,
+        1,
+        0.3997
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「不然，我若在你眼前蒙恩，就求你从我手里收下这礼物；因为我见了你的面，如同见了　神的面，并且你容纳了我。"
+      }
+    },
+    {
+      "id": "GENESIS_33_P004_F4",
+      "box": [
+        0,
+        0.6986,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "求你收下我带来给你的礼物；因为　神恩待我，使我充足。」雅各再三地求他，他才收下了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_33_P004_B001",
+      "panel": "GENESIS_33_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0167,
+        0.0087,
+        0.2509,
+        0.0492
+      ],
+      "tail": [
+        0.1422,
+        0.0869
+      ],
+      "text_key": "genesis.33.p4.b1"
+    },
+    {
+      "id": "GENESIS_33_P004_B002",
+      "panel": "GENESIS_33_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5741,
+        0.0058,
+        0.1477,
+        0.0463
+      ],
+      "tail": [
+        0.648,
+        0.0811
+      ],
+      "text_key": "genesis.33.p4.b2"
+    },
+    {
+      "id": "GENESIS_33_P004_B003",
+      "panel": "GENESIS_33_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.3103,
+        0.4,
+        0.0799
+      ],
+      "tail": [
+        0.23,
+        0.4302
+      ],
+      "text_key": "genesis.33.p4.b3"
+    },
+    {
+      "id": "GENESIS_33_P004_B004",
+      "panel": "GENESIS_33_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.9277,
+        0.4,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "genesis.33.p4.b4"
+    }
+  ]
+}

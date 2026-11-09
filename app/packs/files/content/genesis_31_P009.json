@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_31_P009",
+  "book": "genesis",
+  "chapter": 31,
+  "page": 9,
+  "ref": "31:36-39",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_31_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_31_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4603
+      ],
+      "alt": {
+        "zh-CN": "雅各就发怒斥责拉班说：「我有什么过犯，有什么罪恶，你竟这样火速地追我？」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P009_F2",
+      "box": [
+        0,
+        0.4616,
+        1,
+        0.2617
+      ],
+      "alt": {
+        "zh-CN": "「你摸遍了我一切的家具，你搜出什么来呢？可以放在你我弟兄面前，叫他们在你我中间辨别辨别。」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P009_F3",
+      "box": [
+        0,
+        0.7267,
+        0.4963,
+        0.2733
+      ],
+      "alt": {
+        "zh-CN": "「我在你家这二十年，你的母绵羊、母山羊没有掉过胎。你群中的公羊，我没有吃过；」"
+      }
+    },
+    {
+      "id": "GENESIS_31_P009_F4",
+      "box": [
+        0.5013,
+        0.7267,
+        0.4987,
+        0.2733
+      ],
+      "alt": {
+        "zh-CN": "「被野兽撕裂的，我没有带来给你，是我自己赔上。无论是白日，是黑夜，被偷去的，你都向我索要。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_31_P009_B001",
+      "panel": "GENESIS_31_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.57,
+        0.0138,
+        0.4,
+        0.092
+      ],
+      "tail": [
+        0.77,
+        0.1518
+      ],
+      "text_key": "genesis.31.p9.b1"
+    },
+    {
+      "id": "GENESIS_31_P009_B002",
+      "panel": "GENESIS_31_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.27,
+        0.4695,
+        0.38,
+        0.0628
+      ],
+      "tail": [
+        0.46,
+        0.5585
+      ],
+      "text_key": "genesis.31.p9.b2"
+    },
+    {
+      "id": "GENESIS_31_P009_B003",
+      "panel": "GENESIS_31_P009_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0199,
+        0.7349,
+        0.4565,
+        0.0491
+      ],
+      "tail": [
+        0.2482,
+        0.8113
+      ],
+      "text_key": "genesis.31.p9.b3"
+    },
+    {
+      "id": "GENESIS_31_P009_B004",
+      "panel": "GENESIS_31_P009_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5212,
+        0.7349,
+        0.2393,
+        0.0683
+      ],
+      "tail": [
+        0.6409,
+        0.8305
+      ],
+      "text_key": "genesis.31.p9.b4"
+    }
+  ]
+}

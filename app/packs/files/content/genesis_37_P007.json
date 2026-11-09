@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_37_P007",
+  "book": "genesis",
+  "chapter": 37,
+  "page": 7,
+  "ref": "37:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_37_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_37_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "他们坐下吃饭，举目观看，见有一伙米甸的以实玛利人从基列来，用骆驼驮着香料、乳香、没药，要带下埃及去。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P007_F2",
+      "box": [
+        0,
+        0.3014,
+        1,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "一伙以实玛利人的骆驼商队从基列来，往埃及去。"
+      }
+    },
+    {
+      "id": "GENESIS_37_P007_F3",
+      "box": [
+        0,
+        0.6172,
+        0.5215,
+        0.3828
+      ],
+      "alt": {
+        "zh-CN": "犹大对众弟兄说：「我们杀我们的兄弟，藏了他的血有什么益处呢？我们不如将他卖给以实玛利人，不可下手害他；因为他是我们的兄弟，我们的骨肉。」"
+      }
+    },
+    {
+      "id": "GENESIS_37_P007_F4",
+      "box": [
+        0.5283,
+        0.6172,
+        0.4717,
+        0.3828
+      ],
+      "alt": {
+        "zh-CN": "众弟兄就听从了他。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_37_P007_B001",
+      "panel": "GENESIS_37_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0059,
+        0.47,
+        0.0446
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p7.b1"
+    },
+    {
+      "id": "GENESIS_37_P007_B002",
+      "panel": "GENESIS_37_P007_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2608,
+        0.6249,
+        0.2398,
+        0.018
+      ],
+      "tail": [
+        0.3807,
+        0.6812
+      ],
+      "text_key": "genesis.37.p7.b2"
+    },
+    {
+      "id": "GENESIS_37_P007_B003",
+      "panel": "GENESIS_37_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2608,
+        0.6505,
+        0.2398,
+        0.0317
+      ],
+      "tail": [
+        0.3807,
+        0.7205
+      ],
+      "text_key": "genesis.37.p7.b3"
+    },
+    {
+      "id": "GENESIS_37_P007_B004",
+      "panel": "GENESIS_37_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7264,
+        0.6249,
+        0.2547,
+        0.0344
+      ],
+      "tail": null,
+      "text_key": "genesis.37.p7.b4"
+    }
+  ]
+}

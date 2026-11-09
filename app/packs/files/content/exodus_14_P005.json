@@ -1,0 +1,100 @@
+{
+  "id": "EXODUS_14_P005",
+  "book": "exodus",
+  "chapter": 14,
+  "page": 5,
+  "ref": "14:15-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_14_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_14_P005_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "耶和华对摩西说：「你为什么向我哀求呢？你吩咐以色列人往前走。」"
+      }
+    },
+    {
+      "id": "EXODUS_14_P005_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3763
+      ],
+      "alt": {
+        "zh-CN": "「你举手向海伸杖，把水分开。以色列人要下海中走干地。」"
+      }
+    },
+    {
+      "id": "EXODUS_14_P005_F3",
+      "box": [
+        0,
+        0.3802,
+        1,
+        0.6198
+      ],
+      "alt": {
+        "zh-CN": "在以色列营前行走神的使者，转到他们后边去；云柱也从他们前边转到他们后边立住，在两营中间，一边黑暗，一边发光，终夜两下不得相近。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_14_P005_B013",
+      "panel": "EXODUS_14_P005_F1",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0199,
+        0.0113,
+        0.4573,
+        0.0827
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p5.b13"
+    },
+    {
+      "id": "EXODUS_14_P005_B014",
+      "panel": "EXODUS_14_P005_F2",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.8115,
+        0.0113,
+        0.1736,
+        0.1128
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p5.b14"
+    },
+    {
+      "id": "EXODUS_14_P005_B015",
+      "panel": "EXODUS_14_P005_F3",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.405,
+        0.4,
+        0.0991
+      ],
+      "tail": null,
+      "text_key": "exodus.14.p5.b15"
+    }
+  ]
+}

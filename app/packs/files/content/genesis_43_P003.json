@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_43_P003",
+  "book": "genesis",
+  "chapter": 43,
+  "page": 3,
+  "ref": "43:15-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_43_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_43_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3249
+      ],
+      "alt": {
+        "zh-CN": "于是，他们拿着那礼物，又手里加倍地带银子，并且带着便雅悯，起身下到埃及，站在约瑟面前。"
+      }
+    },
+    {
+      "id": "GENESIS_43_P003_F2",
+      "box": [
+        0,
+        0.3281,
+        1,
+        0.3184
+      ]
+    },
+    {
+      "id": "GENESIS_43_P003_F3",
+      "box": [
+        0,
+        0.6491,
+        0.458,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "约瑟见便雅悯和他们同来，就对家宰说：「将这些人领到屋里。要宰杀牲畜，预备筵席，因为晌午这些人同我吃饭。」"
+      }
+    },
+    {
+      "id": "GENESIS_43_P003_F4",
+      "box": [
+        0.4639,
+        0.6491,
+        0.5361,
+        0.3509
+      ],
+      "alt": {
+        "zh-CN": "家宰就遵着约瑟的命去行，领他们进约瑟的屋里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_43_P003_B001",
+      "panel": "GENESIS_43_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0097,
+        0.47,
+        0.0714
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p3.b1"
+    },
+    {
+      "id": "GENESIS_43_P003_B002",
+      "panel": "GENESIS_43_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0183,
+        0.6596,
+        0.4122,
+        0.0842
+      ],
+      "tail": [
+        0.2244,
+        0.7789
+      ],
+      "text_key": "genesis.43.p3.b2"
+    },
+    {
+      "id": "GENESIS_43_P003_B003",
+      "panel": "GENESIS_43_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4853,
+        0.9368,
+        0.4932,
+        0.0526
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p3.b3"
+    }
+  ]
+}

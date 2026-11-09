@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_39_P007",
+  "book": "genesis",
+  "chapter": 39,
+  "page": 7,
+  "ref": "39:21-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_39_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_39_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3802
+      ],
+      "alt": {
+        "zh-CN": "但耶和华与约瑟同在，向他施恩，使他在司狱的眼前蒙恩。"
+      }
+    },
+    {
+      "id": "GENESIS_39_P007_F2",
+      "box": [
+        0,
+        0.3841,
+        0.5,
+        0.3177
+      ]
+    },
+    {
+      "id": "GENESIS_39_P007_F3",
+      "box": [
+        0.5068,
+        0.3841,
+        0.4932,
+        0.3177
+      ],
+      "alt": {
+        "zh-CN": "司狱就把监里所有的囚犯都交在约瑟的手下；他们在那里所办的事都是经他的手。"
+      }
+    },
+    {
+      "id": "GENESIS_39_P007_F4",
+      "box": [
+        0,
+        0.7057,
+        1,
+        0.2943
+      ],
+      "alt": {
+        "zh-CN": "凡在约瑟手下的事，司狱一概不察，因为耶和华与约瑟同在；耶和华使他所做的尽都顺利。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_39_P007_B001",
+      "panel": "GENESIS_39_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2966,
+        0.4,
+        0.0722
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p7.b1"
+    },
+    {
+      "id": "GENESIS_39_P007_B002",
+      "panel": "GENESIS_39_P007_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7534,
+        0.3936,
+        0.2318,
+        0.0794
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p7.b2"
+    },
+    {
+      "id": "GENESIS_39_P007_B003",
+      "panel": "GENESIS_39_P007_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.7116,
+        0.42,
+        0.0441
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p7.b3"
+    }
+  ]
+}

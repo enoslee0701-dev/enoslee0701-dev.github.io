@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_33_P003",
+  "book": "genesis",
+  "chapter": 33,
+  "page": 3,
+  "ref": "33:5-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_33_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_33_P003_F1",
+      "box": [
+        0,
+        0,
+        0.5566,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "以扫举目看见妇人孩子，就说：「这些和你同行的是谁呢？」"
+      }
+    },
+    {
+      "id": "GENESIS_33_P003_F2",
+      "box": [
+        0.5645,
+        0,
+        0.4355,
+        0.2962
+      ],
+      "alt": {
+        "zh-CN": "雅各说：「这些孩子是　神施恩给你的仆人的。」"
+      }
+    },
+    {
+      "id": "GENESIS_33_P003_F3",
+      "box": [
+        0,
+        0.3008,
+        1,
+        0.2852
+      ],
+      "alt": {
+        "zh-CN": "于是两个使女和她们的孩子前来下拜；利亚和她的孩子也前来下拜；"
+      }
+    },
+    {
+      "id": "GENESIS_33_P003_F4",
+      "box": [
+        0,
+        0.5898,
+        1,
+        0.4102
+      ],
+      "alt": {
+        "zh-CN": "随后约瑟和拉结也前来下拜。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_33_P003_B001",
+      "panel": "GENESIS_33_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0167,
+        0.0089,
+        0.1892,
+        0.0533
+      ],
+      "tail": [
+        0.1113,
+        0.0918
+      ],
+      "text_key": "genesis.33.p3.b1"
+    },
+    {
+      "id": "GENESIS_33_P003_B002",
+      "panel": "GENESIS_33_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5863,
+        0.0059,
+        0.3135,
+        0.0414
+      ],
+      "tail": [
+        0.7431,
+        0.0769
+      ],
+      "text_key": "genesis.33.p3.b2"
+    },
+    {
+      "id": "GENESIS_33_P003_B003",
+      "panel": "GENESIS_33_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3094,
+        0.42,
+        0.0513
+      ],
+      "tail": null,
+      "text_key": "genesis.33.p3.b3"
+    },
+    {
+      "id": "GENESIS_33_P003_B004",
+      "panel": "GENESIS_33_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6021,
+        0.4,
+        0.0574
+      ],
+      "tail": null,
+      "text_key": "genesis.33.p3.b4"
+    }
+  ]
+}

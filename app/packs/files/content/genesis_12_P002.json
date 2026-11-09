@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_12_P002",
+  "book": "genesis",
+  "chapter": 12,
+  "page": 2,
+  "ref": "12:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_12_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_12_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰就照着耶和华的吩咐去了；罗得也和他同去。亚伯兰出哈兰的时候年七十五岁。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P002_F2",
+      "box": [
+        0,
+        0.306,
+        1,
+        0.2676
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰将他妻子撒莱和侄儿罗得，连他们在哈兰所积蓄的财物、所得的人口，都带往迦南地去。他们就到了迦南地。"
+      }
+    },
+    {
+      "id": "GENESIS_12_P002_F3",
+      "box": [
+        0,
+        0.5781,
+        1,
+        0.4219
+      ],
+      "alt": {
+        "zh-CN": "亚伯兰经过那地，到了示剑地方、摩利橡树那里。那时迦南人住在那地，在山城的墙头上看着他们。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_12_P002_B004",
+      "panel": "GENESIS_12_P002_F1",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.0121,
+        0.37,
+        0.0843
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p2.b4"
+    },
+    {
+      "id": "GENESIS_12_P002_B005",
+      "panel": "GENESIS_12_P002_F2",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3167,
+        0.4,
+        0.0963
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p2.b5"
+    },
+    {
+      "id": "GENESIS_12_P002_B006",
+      "panel": "GENESIS_12_P002_F3",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.8903,
+        0.41,
+        0.0928
+      ],
+      "tail": null,
+      "text_key": "genesis.12.p2.b6"
+    }
+  ]
+}

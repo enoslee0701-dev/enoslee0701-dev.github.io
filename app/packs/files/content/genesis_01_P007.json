@@ -1,0 +1,100 @@
+{
+  "id": "GENESIS_01_P007",
+  "book": "genesis",
+  "chapter": 1,
+  "page": 7,
+  "ref": "1:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_01_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_01_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2383
+      ],
+      "alt": {
+        "zh-CN": "神说：「地要生出活物来，各从其类；牲畜、昆虫、野兽，各从其类。」"
+      }
+    },
+    {
+      "id": "GENESIS_01_P007_F2",
+      "box": [
+        0,
+        0.2415,
+        1,
+        0.7585
+      ],
+      "alt": {
+        "zh-CN": "于是神造出野兽、牲畜和地上一切爬行的动物，各从其类。"
+      }
+    },
+    {
+      "id": "GENESIS_01_P007_F3",
+      "box": [
+        0.535,
+        0.2475,
+        0.459,
+        0.198
+      ],
+      "alt": {
+        "zh-CN": "神看着是好的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_01_P007_B022",
+      "panel": "GENESIS_01_P007_F1",
+      "order": 22,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4,
+        0.0143,
+        0.56,
+        0.0953
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p7.b22"
+    },
+    {
+      "id": "GENESIS_01_P007_B023",
+      "panel": "GENESIS_01_P007_F2",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2718,
+        0.46,
+        0.1061
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p7.b23"
+    },
+    {
+      "id": "GENESIS_01_P007_B024",
+      "panel": "GENESIS_01_P007_F3",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5625,
+        0.398,
+        0.4039,
+        0.0396
+      ],
+      "tail": null,
+      "text_key": "genesis.1.p7.b24"
+    }
+  ]
+}

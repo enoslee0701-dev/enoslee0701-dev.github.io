@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_39_P006",
+  "book": "genesis",
+  "chapter": 39,
+  "page": 6,
+  "ref": "39:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_39_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_39_P006_F1",
+      "box": [
+        0,
+        0,
+        0.4941,
+        0.3366
+      ],
+      "alt": {
+        "zh-CN": "约瑟的主人听见他妻子对他所说的话，说「你的仆人如此如此待我」，他就生气，"
+      }
+    },
+    {
+      "id": "GENESIS_39_P006_F2",
+      "box": [
+        0.5029,
+        0,
+        0.4971,
+        0.3366
+      ]
+    },
+    {
+      "id": "GENESIS_39_P006_F3",
+      "box": [
+        0,
+        0.3418,
+        1,
+        0.3561
+      ],
+      "alt": {
+        "zh-CN": "把约瑟下在监里，就是王的囚犯被囚的地方。"
+      }
+    },
+    {
+      "id": "GENESIS_39_P006_F4",
+      "box": [
+        0,
+        0.7025,
+        1,
+        0.2975
+      ],
+      "alt": {
+        "zh-CN": "于是约瑟在那里坐监。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_39_P006_B001",
+      "panel": "GENESIS_39_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0099,
+        0.2592,
+        0.2717,
+        0.0673
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p6.b1"
+    },
+    {
+      "id": "GENESIS_39_P006_B002",
+      "panel": "GENESIS_39_P006_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3525,
+        0.55,
+        0.0569
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p6.b2"
+    },
+    {
+      "id": "GENESIS_39_P006_B003",
+      "panel": "GENESIS_39_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9405,
+        0.45,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "genesis.39.p6.b3"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "GENESIS_43_P007",
+  "book": "genesis",
+  "chapter": 43,
+  "page": 7,
+  "ref": "43:30-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_43_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_43_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ]
+    },
+    {
+      "id": "GENESIS_43_P007_F2",
+      "box": [
+        0,
+        0.2786,
+        1,
+        0.4069
+      ]
+    },
+    {
+      "id": "GENESIS_43_P007_F3",
+      "box": [
+        0,
+        0.6888,
+        0.4277,
+        0.3112
+      ]
+    },
+    {
+      "id": "GENESIS_43_P007_F4",
+      "box": [
+        0.4346,
+        0.6888,
+        0.5654,
+        0.3112
+      ],
+      "alt": {
+        "zh-CN": "他洗了脸出来，勉强隐忍，吩咐人摆饭。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_43_P007_B001",
+      "panel": "GENESIS_43_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0083,
+        0.26,
+        0.055
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p7.b1"
+    },
+    {
+      "id": "GENESIS_43_P007_B002",
+      "panel": "GENESIS_43_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.2949,
+        0.39,
+        0.0569
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p7.b2"
+    },
+    {
+      "id": "GENESIS_43_P007_B003",
+      "panel": "GENESIS_43_P007_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4572,
+        0.944,
+        0.5201,
+        0.0466
+      ],
+      "tail": null,
+      "text_key": "genesis.43.p7.b3"
+    }
+  ]
+}

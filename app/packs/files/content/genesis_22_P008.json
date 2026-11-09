@@ -1,0 +1,112 @@
+{
+  "id": "GENESIS_22_P008",
+  "book": "genesis",
+  "chapter": 22,
+  "page": 8,
+  "ref": "22:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_22_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_22_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4362
+      ],
+      "alt": {
+        "zh-CN": "耶和华的使者第二次从天上呼叫亚伯拉罕说：「耶和华说：你既行了这事，不留下你的儿子，就是你独生的儿子，我便指着自己起誓说：论福，我必赐大福给你；论子孙，我必叫你的子孙多起来，如同天上的星，海边的沙。你子孙必得着仇敌的城门，并且地上万国都必因你的后裔得福，因为你听从了我的话。」"
+      }
+    },
+    {
+      "id": "GENESIS_22_P008_F2",
+      "box": [
+        0,
+        0.4395,
+        0.3828,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕泪流满面，却在笑。"
+      }
+    },
+    {
+      "id": "GENESIS_22_P008_F3",
+      "box": [
+        0.3887,
+        0.4395,
+        0.6113,
+        0.2988
+      ],
+      "alt": {
+        "zh-CN": "于是亚伯拉罕回到他仆人那里，他们一同起身往别是巴去。"
+      }
+    },
+    {
+      "id": "GENESIS_22_P008_F4",
+      "box": [
+        0,
+        0.7422,
+        1,
+        0.2578
+      ],
+      "alt": {
+        "zh-CN": "父子一同下山，父亲的手搭在儿子肩上。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_22_P008_B020",
+      "panel": "GENESIS_22_P008_F1",
+      "order": 20,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.0174,
+        0.46,
+        0.0959
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p8.b20"
+    },
+    {
+      "id": "GENESIS_22_P008_B021",
+      "panel": "GENESIS_22_P008_F1",
+      "order": 21,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.0174,
+        0.3,
+        0.0523
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p8.b21"
+    },
+    {
+      "id": "GENESIS_22_P008_B022",
+      "panel": "GENESIS_22_P008_F3",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4132,
+        0.4515,
+        0.5623,
+        0.0657
+      ],
+      "tail": null,
+      "text_key": "genesis.22.p8.b22"
+    }
+  ]
+}

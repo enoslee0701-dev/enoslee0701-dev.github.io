@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_44_P002",
+  "book": "genesis",
+  "chapter": 44,
+  "page": 2,
+  "ref": "44:4-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_44_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_44_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "他们出城走了不远，约瑟对家宰说：「起来，追那些人去，追上了就对他们说：『你们为什么以恶报善呢？"
+      }
+    },
+    {
+      "id": "GENESIS_44_P002_F2",
+      "box": [
+        0,
+        0.2695,
+        1,
+        0.4297
+      ],
+      "alt": {
+        "zh-CN": "这不是我主人饮酒的杯吗？岂不是他占卜用的吗？你们这样行是作恶了。』」家宰追上他们，将这些话对他们说了。"
+      }
+    },
+    {
+      "id": "GENESIS_44_P002_F3",
+      "box": [
+        0,
+        0.7051,
+        0.6289,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "他们回答说：「我主为什么说这样的话呢？你仆人断不能做这样的事。你看，我们从前在口袋里所见的银子，尚且从迦南地带来还你，我们怎能从你主人家里偷窃金银呢？你仆人中无论在谁那里搜出来，就叫他死，我们也作我主的奴仆。」"
+      }
+    },
+    {
+      "id": "GENESIS_44_P002_F4",
+      "box": [
+        0.6387,
+        0.7051,
+        0.3613,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "家宰说：「现在就照你们的话行吧！在谁那里搜出来，谁就作我的奴仆；其余的都没有罪。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_44_P002_B001",
+      "panel": "GENESIS_44_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0105,
+        0.47,
+        0.0789
+      ],
+      "tail": [
+        0.735,
+        0.1157
+      ],
+      "text_key": "genesis.44.p2.b1"
+    },
+    {
+      "id": "GENESIS_44_P002_B002",
+      "panel": "GENESIS_44_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.44,
+        0.2824,
+        0.53,
+        0.0644
+      ],
+      "tail": [
+        0.705,
+        0.3898
+      ],
+      "text_key": "genesis.44.p2.b2"
+    },
+    {
+      "id": "GENESIS_44_P002_B003",
+      "panel": "GENESIS_44_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0252,
+        0.7139,
+        0.5785,
+        0.0648
+      ],
+      "tail": [
+        0.3145,
+        0.8082
+      ],
+      "text_key": "genesis.44.p2.b3"
+    },
+    {
+      "id": "GENESIS_44_P002_B004",
+      "panel": "GENESIS_44_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6532,
+        0.9351,
+        0.3323,
+        0.056
+      ],
+      "tail": [
+        0.8194,
+        1
+      ],
+      "text_key": "genesis.44.p2.b4"
+    }
+  ]
+}

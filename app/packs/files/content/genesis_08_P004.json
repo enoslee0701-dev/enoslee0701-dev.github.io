@@ -1,0 +1,88 @@
+{
+  "id": "GENESIS_08_P004",
+  "book": "genesis",
+  "chapter": 8,
+  "page": 4,
+  "ref": "8:10-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_08_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_08_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "alt": {
+        "zh-CN": "他又等了七天，再把鸽子从方舟放出去。到了晚上，鸽子回到他那里，嘴里叼着一个新拧下来的橄榄叶子，挪亚就知道地上的水退了。挪亚探出窗口伸手迎接，一家人挤在他身后欢喜。"
+      }
+    },
+    {
+      "id": "GENESIS_08_P004_F2",
+      "box": [
+        0.4438,
+        0.69,
+        0.5562,
+        0.31
+      ],
+      "alt": {
+        "zh-CN": "他又等了七天，放出鸽子去，鸽子就不再回来了。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_08_P004_B009",
+      "panel": "GENESIS_08_P004_F1",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.02,
+        0.5,
+        0.0778
+      ],
+      "tail": null,
+      "text_key": "genesis.8.p4.b9"
+    },
+    {
+      "id": "GENESIS_08_P004_B010",
+      "panel": "GENESIS_08_P004_F1",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1178,
+        0.5,
+        0.0321
+      ],
+      "tail": null,
+      "text_key": "genesis.8.p4.b10"
+    },
+    {
+      "id": "GENESIS_08_P004_B011",
+      "panel": "GENESIS_08_P004_F2",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6552,
+        0.7024,
+        0.3225,
+        0.0744
+      ],
+      "tail": null,
+      "text_key": "genesis.8.p4.b11"
+    }
+  ]
+}

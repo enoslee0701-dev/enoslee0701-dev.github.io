@@ -1,0 +1,118 @@
+{
+  "id": "GENESIS_32_P002",
+  "book": "genesis",
+  "chapter": 32,
+  "page": 2,
+  "ref": "32:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_32_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_32_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2272
+      ],
+      "alt": {
+        "zh-CN": "所打发的人回到雅各那里，说：「我们到了你哥哥以扫那里，他带着四百人，正迎着你来。」"
+      }
+    },
+    {
+      "id": "GENESIS_32_P002_F2",
+      "box": [
+        0,
+        0.2292,
+        1,
+        0.3841
+      ],
+      "alt": {
+        "zh-CN": "雅各就甚惧怕，而且愁烦，"
+      }
+    },
+    {
+      "id": "GENESIS_32_P002_F3",
+      "box": [
+        0,
+        0.6152,
+        0.5488,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "便把那与他同在的人口和羊群、牛群、骆驼分做两队，说：「以扫若来击杀这一队，剩下的那一队还可以逃避。」"
+      }
+    },
+    {
+      "id": "GENESIS_32_P002_F4",
+      "box": [
+        0.5537,
+        0.6152,
+        0.4463,
+        0.3848
+      ],
+      "alt": {
+        "zh-CN": "拉结、利亚和孩子们惊惶地望着。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_32_P002_B001",
+      "panel": "GENESIS_32_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0068,
+        0.38,
+        0.0408
+      ],
+      "tail": [
+        0.22,
+        0.0703
+      ],
+      "text_key": "genesis.32.p2.b1"
+    },
+    {
+      "id": "GENESIS_32_P002_B002",
+      "panel": "GENESIS_32_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2407,
+        0.38,
+        0.0537
+      ],
+      "tail": null,
+      "text_key": "genesis.32.p2.b2"
+    },
+    {
+      "id": "GENESIS_32_P002_B003",
+      "panel": "GENESIS_32_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.022,
+        0.6229,
+        0.5048,
+        0.0692
+      ],
+      "tail": [
+        0.2744,
+        0.7306
+      ],
+      "text_key": "genesis.32.p2.b3"
+    }
+  ]
+}

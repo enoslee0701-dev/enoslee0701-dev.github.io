@@ -1,0 +1,109 @@
+{
+  "id": "GENESIS_40_P001",
+  "book": "genesis",
+  "chapter": 40,
+  "page": 1,
+  "ref": "40:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_40_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_40_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4427
+      ],
+      "alt": {
+        "zh-CN": "把他们下在护卫长府内的监里，就是约瑟被囚的地方。护卫长把他们交给约瑟，约瑟便伺候他们；"
+      }
+    },
+    {
+      "id": "GENESIS_40_P001_F2",
+      "box": [
+        0,
+        0.4466,
+        0.5977,
+        0.2949
+      ],
+      "alt": {
+        "zh-CN": "这事以后，埃及王的酒政和膳长得罪了他们的主—埃及王，法老就恼怒酒政和膳长这二臣，"
+      }
+    },
+    {
+      "id": "GENESIS_40_P001_F3",
+      "box": [
+        0.6045,
+        0.4466,
+        0.3955,
+        0.2949
+      ]
+    },
+    {
+      "id": "GENESIS_40_P001_F4",
+      "box": [
+        0,
+        0.7454,
+        1,
+        0.2546
+      ],
+      "alt": {
+        "zh-CN": "他们有些日子在监里。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_40_P001_B001",
+      "panel": "GENESIS_40_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.0089,
+        0.45,
+        0.0664
+      ],
+      "tail": null,
+      "text_key": "genesis.40.p1.b1"
+    },
+    {
+      "id": "GENESIS_40_P001_B002",
+      "panel": "GENESIS_40_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0179,
+        0.4554,
+        0.2689,
+        0.0589
+      ],
+      "tail": null,
+      "text_key": "genesis.40.p1.b2"
+    },
+    {
+      "id": "GENESIS_40_P001_B003",
+      "panel": "GENESIS_40_P001_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.36,
+        0.7556,
+        0.26,
+        0.0432
+      ],
+      "tail": null,
+      "text_key": "genesis.40.p1.b3"
+    }
+  ]
+}

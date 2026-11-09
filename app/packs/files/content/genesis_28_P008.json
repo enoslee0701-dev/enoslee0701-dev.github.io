@@ -1,0 +1,121 @@
+{
+  "id": "GENESIS_28_P008",
+  "book": "genesis",
+  "chapter": 28,
+  "page": 8,
+  "ref": "28:20-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_28_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_28_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4167
+      ],
+      "alt": {
+        "zh-CN": "雅各许愿说：「　神若与我同在，在我所行的路上保佑我，又给我食物吃，衣服穿，"
+      }
+    },
+    {
+      "id": "GENESIS_28_P008_F2",
+      "box": [
+        0,
+        0.4206,
+        0.4883,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "使我平平安安地回到我父亲的家，我就必以耶和华为我的　神。"
+      }
+    },
+    {
+      "id": "GENESIS_28_P008_F3",
+      "box": [
+        0.4951,
+        0.4206,
+        0.5049,
+        0.2897
+      ],
+      "alt": {
+        "zh-CN": "我所立为柱子的石头也必作　神的殿；凡你所赐给我的，我必将十分之一献给你。」"
+      }
+    },
+    {
+      "id": "GENESIS_28_P008_F4",
+      "box": [
+        0,
+        0.7142,
+        1,
+        0.2858
+      ],
+      "alt": {
+        "zh-CN": "雅各拄着杖，又往哈兰走去，身后只留下那根石柱。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_28_P008_B001",
+      "panel": "GENESIS_28_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0125,
+        0.3,
+        0.05
+      ],
+      "tail": [
+        0.18,
+        0.1042
+      ],
+      "text_key": "genesis.28.p8.b1"
+    },
+    {
+      "id": "GENESIS_28_P008_B002",
+      "panel": "GENESIS_28_P008_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3418,
+        0.4322,
+        0.1367,
+        0.0753
+      ],
+      "tail": [
+        0.4102,
+        0.5365
+      ],
+      "text_key": "genesis.28.p8.b2"
+    },
+    {
+      "id": "GENESIS_28_P008_B003",
+      "panel": "GENESIS_28_P008_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5153,
+        0.4322,
+        0.4645,
+        0.0753
+      ],
+      "tail": [
+        0.7475,
+        0.5365
+      ],
+      "text_key": "genesis.28.p8.b3"
+    }
+  ]
+}

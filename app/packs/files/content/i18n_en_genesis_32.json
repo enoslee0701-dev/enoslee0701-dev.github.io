@@ -1,0 +1,362 @@
+{
+  "genesis.32.p1.b1": {
+    "text": "Jacob also went on his way, and the angels of God met him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p1.b2": {
+    "text": "“This is the camp of God.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p1.b3": {
+    "text": "“You are to say to my master Esau, ‘Your servant Jacob says: I have been staying with Laban and have remained there until now.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p1.b4": {
+    "text": "I have oxen, donkeys, flocks, menservants, and maidservants. I have sent this message to inform my master, so that I may find favor in your sight.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p2.b1": {
+    "text": "“We went to your brother Esau, and now he is coming to meet you—he and four hundred men with him.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p2.b2": {
+    "text": "In great fear and distress,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p2.b3": {
+    "text": "“If Esau comes and attacks one camp, then the other camp can escape.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p3.b1": {
+    "text": "“O God of my father Abraham, God of my father Isaac,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p3.b2": {
+    "text": "I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p3.b3": {
+    "text": "Please deliver me from the hand of my brother Esau,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p3.b4": {
+    "text": "But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p4.b1": {
+    "text": "Jacob spent the night there, and from what he had brought with him, he selected a gift for his brother Esau:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p4.b2": {
+    "text": "200 female goats, 20 male goats, 200 ewes, 20 rams,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p4.b3": {
+    "text": "30 milk camels with their young, 40 cows, 10 bulls, 20 female donkeys, and 10 male donkeys.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p4.b4": {
+    "text": "“Go on ahead of me, and keep some distance between the herds.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p5.b1": {
+    "text": "“When my brother Esau meets you and asks, ‘To whom do you belong, where are you going, and whose animals are these before you?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p5.b2": {
+    "text": "then you are to say, ‘They belong to your servant Jacob. They are a gift, sent to my lord Esau. And behold, Jacob is behind us.’”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p5.b3": {
+    "text": "“I will appease Esau with the gift that is going before me. After that I can face him, and perhaps he will accept me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p5.b4": {
+    "text": "So Jacob’s gifts went on before him, while he spent the night in the camp.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p6.b1": {
+    "text": "During the night Jacob got up and took his two wives, his two maidservants, and his eleven sons, and crossed the ford of the Jabbok.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p6.b2": {
+    "text": "He took them and sent them across the stream, along with all his possessions.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p6.b3": {
+    "text": "So Jacob was left all alone,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p6.b4": {
+    "text": "and there a man …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p7.b1": {
+    "text": "there a man wrestled with him until daybreak.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p7.b2": {
+    "text": "When the man saw that he could not overpower Jacob,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p7.b3": {
+    "text": "he struck the socket of Jacob’s hip and dislocated it as they wrestled.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p8.b1": {
+    "text": "“Let me go, for it is daybreak.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p8.b2": {
+    "text": "“I will not let you go unless you bless me.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p8.b3": {
+    "text": "“What is your name?” the man asked. “Jacob,” he replied.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p8.b4": {
+    "text": "“Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p9.b1": {
+    "text": "And Jacob requested, “Please tell me your name.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p9.b2": {
+    "text": "But he replied, “Why do you ask my name?”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p9.b3": {
+    "text": "Then he blessed Jacob there.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p9.b4": {
+    "text": "“Indeed, I have seen God face to face, and yet my life was spared.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p10.b1": {
+    "text": "The sun rose above him as he passed by Penuel, and he was limping because of his hip.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "genesis.32.p10.b2": {
+    "text": "Therefore to this day the Israelites do not eat the tendon which is at the socket of the hip, because the socket of Jacob’s hip was struck near that tendon.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Genesis 32:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

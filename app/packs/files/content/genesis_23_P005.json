@@ -1,0 +1,97 @@
+{
+  "id": "GENESIS_23_P005",
+  "book": "genesis",
+  "chapter": 23,
+  "page": 5,
+  "ref": "23:19-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_23_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_23_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2839
+      ],
+      "alt": {
+        "zh-CN": "此后，亚伯拉罕把他妻子撒拉埋葬在迦南地幔利前的麦比拉田间的洞里。（幔利就是希伯仑）。"
+      }
+    },
+    {
+      "id": "GENESIS_23_P005_F2",
+      "box": [
+        0,
+        0.2871,
+        0.4746,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕最后一次按着盖在撒拉身上的布。"
+      }
+    },
+    {
+      "id": "GENESIS_23_P005_F3",
+      "box": [
+        0.4814,
+        0.2871,
+        0.5186,
+        0.3092
+      ],
+      "alt": {
+        "zh-CN": "仆人们把大石推到洞口。"
+      }
+    },
+    {
+      "id": "GENESIS_23_P005_F4",
+      "box": [
+        0,
+        0.5996,
+        1,
+        0.4004
+      ],
+      "alt": {
+        "zh-CN": "从此，那块田和田间的洞就借着赫人定准归与亚伯拉罕作坟地。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_23_P005_B015",
+      "panel": "GENESIS_23_P005_F1",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0085,
+        0.45,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "genesis.23.p5.b15"
+    },
+    {
+      "id": "GENESIS_23_P005_B016",
+      "panel": "GENESIS_23_P005_F4",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.53,
+        0.9119,
+        0.44,
+        0.076
+      ],
+      "tail": null,
+      "text_key": "genesis.23.p5.b16"
+    }
+  ]
+}

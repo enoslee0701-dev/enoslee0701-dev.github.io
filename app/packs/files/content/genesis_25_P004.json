@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_25_P004",
+  "book": "genesis",
+  "chapter": 25,
+  "page": 4,
+  "ref": "25:19-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_25_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_25_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1784
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕的儿子以撒的后代记在下面。亚伯拉罕生以撒。以撒娶利百加为妻的时候正四十岁。利百加是巴旦·亚兰地的亚兰人彼土利的女儿，是亚兰人拉班的妹子。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P004_F2",
+      "box": [
+        0,
+        0.1803,
+        0.5166,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "以撒因他妻子不生育，就为她祈求耶和华；耶和华应允他的祈求，他的妻子利百加就怀了孕。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P004_F3",
+      "box": [
+        0.5215,
+        0.1803,
+        0.4785,
+        0.3379
+      ],
+      "alt": {
+        "zh-CN": "孩子们在她腹中彼此相争，她就说：「若是这样，我为什么活着呢？」她就去求问耶和华。"
+      }
+    },
+    {
+      "id": "GENESIS_25_P004_F4",
+      "box": [
+        0,
+        0.5202,
+        1,
+        0.4798
+      ],
+      "alt": {
+        "zh-CN": "耶和华对她说：两国在你腹内；两族要从你身上出来。这族必强于那族；将来大的要服事小的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_25_P004_B013",
+      "panel": "GENESIS_25_P004_F1",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0143,
+        0.36,
+        0.1498
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p4.b13"
+    },
+    {
+      "id": "GENESIS_25_P004_B014",
+      "panel": "GENESIS_25_P004_F2",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.372,
+        0.1904,
+        0.1343,
+        0.0473
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p4.b14"
+    },
+    {
+      "id": "GENESIS_25_P004_B015",
+      "panel": "GENESIS_25_P004_F3",
+      "order": 15,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.5406,
+        0.1904,
+        0.4402,
+        0.0743
+      ],
+      "tail": [
+        0.7607,
+        0.2985
+      ],
+      "text_key": "genesis.25.p4.b15"
+    },
+    {
+      "id": "GENESIS_25_P004_B016",
+      "panel": "GENESIS_25_P004_F4",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5346,
+        0.5,
+        0.1919
+      ],
+      "tail": null,
+      "text_key": "genesis.25.p4.b16"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "GENESIS_18_P007",
+  "book": "genesis",
+  "chapter": 18,
+  "page": 7,
+  "ref": "18:22-26",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_18_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_18_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2168
+      ],
+      "alt": {
+        "zh-CN": "二人转身离开那里，向所多玛去；但亚伯拉罕仍旧站在耶和华面前。"
+      }
+    },
+    {
+      "id": "GENESIS_18_P007_F2",
+      "box": [
+        0,
+        0.2201,
+        1,
+        0.2122
+      ],
+      "alt": {
+        "zh-CN": "亚伯拉罕近前来，说：「无论善恶，你都要剿灭吗？假若那城里有五十个义人，你还剿灭那地方吗？不为城里这五十个义人饶恕其中的人吗？"
+      }
+    },
+    {
+      "id": "GENESIS_18_P007_F3",
+      "box": [
+        0,
+        0.4355,
+        1,
+        0.3822
+      ],
+      "alt": {
+        "zh-CN": "将义人与恶人同杀，将义人与恶人一样看待，这断不是你所行的。审判全地的主岂不行公义吗？」"
+      }
+    },
+    {
+      "id": "GENESIS_18_P007_F4",
+      "box": [
+        0,
+        0.821,
+        1,
+        0.179
+      ],
+      "alt": {
+        "zh-CN": "耶和华说：「我若在所多玛城里见有五十个义人，我就为他们的缘故饶恕那地方的众人。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_18_P007_B024",
+      "panel": "GENESIS_18_P007_F1",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0087,
+        0.46,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p7.b24"
+    },
+    {
+      "id": "GENESIS_18_P007_B025",
+      "panel": "GENESIS_18_P007_F2",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.2328,
+        0.27,
+        0.0891
+      ],
+      "tail": [
+        0.155,
+        0.3431
+      ],
+      "text_key": "genesis.18.p7.b25"
+    },
+    {
+      "id": "GENESIS_18_P007_B026",
+      "panel": "GENESIS_18_P007_F3",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.447,
+        0.38,
+        0.1146
+      ],
+      "tail": [
+        0.21,
+        0.5998
+      ],
+      "text_key": "genesis.18.p7.b26"
+    },
+    {
+      "id": "GENESIS_18_P007_B027",
+      "panel": "GENESIS_18_P007_F4",
+      "order": 27,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.8389,
+        0.44,
+        0.1342
+      ],
+      "tail": null,
+      "text_key": "genesis.18.p7.b27"
+    }
+  ]
+}

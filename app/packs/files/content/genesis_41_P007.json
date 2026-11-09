@@ -1,0 +1,139 @@
+{
+  "id": "GENESIS_41_P007",
+  "book": "genesis",
+  "chapter": 41,
+  "page": 7,
+  "ref": "41:25-32",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_41_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_41_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2936
+      ],
+      "alt": {
+        "zh-CN": "约瑟对法老说：「法老的梦乃是一个。　神已将所要做的事指示法老了。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P007_F2",
+      "box": [
+        0,
+        0.2995,
+        0.3984,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "七只好母牛是七年，七个好穗子也是七年；这梦乃是一个。那随后上来的七只又干瘦又丑陋的母牛是七年，那七个虚空、被东风吹焦的穗子也是七年，都是七个荒年。这就是我对法老所说，　神已将所要做的事显明给法老了。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P007_F3",
+      "box": [
+        0.4063,
+        0.2995,
+        0.5937,
+        0.263
+      ],
+      "alt": {
+        "zh-CN": "埃及遍地必来七个大丰年，随后又要来七个荒年，甚至在埃及地都忘了先前的丰收，全地必被饥荒所灭。因那以后的饥荒甚大，便不觉得先前的丰收了。"
+      }
+    },
+    {
+      "id": "GENESIS_41_P007_F4",
+      "box": [
+        0,
+        0.5671,
+        1,
+        0.4329
+      ],
+      "alt": {
+        "zh-CN": "至于法老两回做梦，是因　神命定这事，而且必速速成就。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_41_P007_B001",
+      "panel": "GENESIS_41_P007_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.3,
+        0.0088,
+        0.42,
+        0.0645
+      ],
+      "tail": [
+        0.51,
+        0.1027
+      ],
+      "text_key": "genesis.41.p7.b1"
+    },
+    {
+      "id": "GENESIS_41_P007_B002",
+      "panel": "GENESIS_41_P007_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.4994,
+        0.3585,
+        0.0552
+      ],
+      "tail": [
+        0.1992,
+        0.5625
+      ],
+      "text_key": "genesis.41.p7.b2"
+    },
+    {
+      "id": "GENESIS_41_P007_B003",
+      "panel": "GENESIS_41_P007_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4301,
+        0.31,
+        0.5462,
+        0.0578
+      ],
+      "tail": [
+        0.7032,
+        0.3941
+      ],
+      "text_key": "genesis.41.p7.b3"
+    },
+    {
+      "id": "GENESIS_41_P007_B004",
+      "panel": "GENESIS_41_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5801,
+        0.4,
+        0.0865
+      ],
+      "tail": [
+        0.23,
+        0.7099
+      ],
+      "text_key": "genesis.41.p7.b4"
+    }
+  ]
+}

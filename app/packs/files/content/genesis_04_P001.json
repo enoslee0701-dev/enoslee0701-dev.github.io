@@ -1,0 +1,130 @@
+{
+  "id": "GENESIS_04_P001",
+  "book": "genesis",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4375
+      ],
+      "alt": {
+        "zh-CN": "那人和他妻子夏娃同房，夏娃就怀孕，生了该隐，便说：「耶和华使我得了一个男子。」"
+      }
+    },
+    {
+      "id": "GENESIS_04_P001_F2",
+      "box": [
+        0,
+        0.4414,
+        1,
+        0.222
+      ],
+      "alt": {
+        "zh-CN": "她又生了该隐的兄弟亚伯。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P001_F3",
+      "box": [
+        0,
+        0.6673,
+        0.4951,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "该隐是种地的。"
+      }
+    },
+    {
+      "id": "GENESIS_04_P001_F4",
+      "box": [
+        0.5059,
+        0.6673,
+        0.4941,
+        0.3327
+      ],
+      "alt": {
+        "zh-CN": "亚伯是牧羊的。"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_04_P001_B001",
+      "panel": "GENESIS_04_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.73,
+        0.0175,
+        0.24,
+        0.0792
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p1.b1"
+    },
+    {
+      "id": "GENESIS_04_P001_B002",
+      "panel": "GENESIS_04_P001_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.73,
+        0.1055,
+        0.24,
+        0.0432
+      ],
+      "tail": [
+        0.85,
+        0.1925
+      ],
+      "text_key": "genesis.4.p1.b2"
+    },
+    {
+      "id": "GENESIS_04_P001_B003",
+      "panel": "GENESIS_04_P001_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.4592,
+        0.3,
+        0.111
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p1.b3"
+    },
+    {
+      "id": "GENESIS_04_P001_B004",
+      "panel": "GENESIS_04_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8221,
+        0.6773,
+        0.163,
+        0.0532
+      ],
+      "tail": null,
+      "text_key": "genesis.4.p1.b4"
+    }
+  ]
+}

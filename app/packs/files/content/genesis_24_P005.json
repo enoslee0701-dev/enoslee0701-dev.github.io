@@ -1,0 +1,136 @@
+{
+  "id": "GENESIS_24_P005",
+  "book": "genesis",
+  "chapter": 24,
+  "page": 5,
+  "ref": "24:22-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "GENESIS_24_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "GENESIS_24_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3158
+      ],
+      "alt": {
+        "zh-CN": "骆驼喝足了，那人就拿一个金环，重半舍客勒，两个金镯，重十舍客勒，给了那女子，"
+      }
+    },
+    {
+      "id": "GENESIS_24_P005_F2",
+      "box": [
+        0,
+        0.3197,
+        0.5146,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "说：「请告诉我，你是谁的女儿？你父亲家里有我们住宿的地方没有？」"
+      }
+    },
+    {
+      "id": "GENESIS_24_P005_F3",
+      "box": [
+        0.5215,
+        0.3197,
+        0.4785,
+        0.3268
+      ],
+      "alt": {
+        "zh-CN": "女子说：「我是密迦与拿鹤之子彼土利的女儿」；又说：「我们家里足有粮草，也有住宿的地方。」"
+      }
+    },
+    {
+      "id": "GENESIS_24_P005_F4",
+      "box": [
+        0,
+        0.6497,
+        1,
+        0.3503
+      ],
+      "alt": {
+        "zh-CN": "那人就低头向耶和华下拜，说：「耶和华—我主人亚伯拉罕的　神是应当称颂的，因他不断地以慈爱诚实待我主人。至于我，耶和华在路上引领我，直走到我主人的兄弟家里。」"
+      }
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "GENESIS_24_P005_B018",
+      "panel": "GENESIS_24_P005_F1",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0126,
+        0.42,
+        0.0821
+      ],
+      "tail": null,
+      "text_key": "genesis.24.p5.b18"
+    },
+    {
+      "id": "GENESIS_24_P005_B019",
+      "panel": "GENESIS_24_P005_F2",
+      "order": 19,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0154,
+        0.3262,
+        0.283,
+        0.0424
+      ],
+      "tail": [
+        0.1569,
+        0.4013
+      ],
+      "text_key": "genesis.24.p5.b19"
+    },
+    {
+      "id": "GENESIS_24_P005_B020",
+      "panel": "GENESIS_24_P005_F3",
+      "order": 20,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7895,
+        0.3262,
+        0.1961,
+        0.0784
+      ],
+      "tail": [
+        0.8876,
+        0.4373
+      ],
+      "text_key": "genesis.24.p5.b20"
+    },
+    {
+      "id": "GENESIS_24_P005_B021",
+      "panel": "GENESIS_24_P005_F4",
+      "order": 21,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.6602,
+        0.55,
+        0.07
+      ],
+      "tail": [
+        0.305,
+        0.7652
+      ],
+      "text_key": "genesis.24.p5.b21"
+    }
+  ]
+}
