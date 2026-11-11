@@ -1,0 +1,262 @@
+{
+  "exodus.8.p1.b1": {
+    "text": "너는 바로에게 가서 그에게 이르기를 여호와의 말씀에 내 백성을 보내라 그들이 나를 섬길 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p1.b2": {
+    "text": "네가 만일 보내기를 거절하면 내가 개구리로 너의 온 지경을 칠 지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p1.b3": {
+    "text": "개구리가 … 올라와서 네 궁에와 네 침실에와 네 침상 위에와 … 네 화덕에와 네 떡반죽 그릇에 들어갈지며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p2.b4": {
+    "text": "아론에게 명하기를 네 지팡이를 잡고 네 팔을 강들과 운하들과 못 위에 펴서 개구리로 애굽 땅에 올라오게 하라 할지니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p2.b5": {
+    "text": "아론이 팔을 애굽 물들 위에 펴매 개구리가 올라와서 애굽 땅에 덮이니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p2.b6": {
+    "text": "술객들도 자기 술법대로 이와 같이 하여 개구리로 애굽 땅에 올라오게 하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p3.b7": {
+    "text": "여호와께 구하여 개구리를 나와 내 백성에게서 떠나게 하라 내가 이 백성을 보내리니 그들이 여호와께 희생을 드릴 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p3.b8": {
+    "text": "내일이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p3.b9": {
+    "text": "왕의 말씀대로 하여 왕으로 우리 하나님 여호와와 같은 이가 없는 줄을 알게 하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p3.b10": {
+    "text": "사람들이 모아 무더기로 쌓으니 땅에서 악취가 나더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p3.b11": {
+    "text": "그러나 바로가 숨을 통할 수 있음을 볼 때에 그 마음을 완강케 하여 그들을 듣지 아니하였으니 여호와의 말씀과 같더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p4.b12": {
+    "text": "네 지팡이를 들어 땅의 티끌을 치라 … 그것이 애굽 온 땅에서 이가 되리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p4.b13": {
+    "text": "애굽 온 땅의 티끌이 다 이가 되어 사람과 생축에게 오르니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p4.b14": {
+    "text": "이는 하나님의 권능이니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p4.b15": {
+    "text": "바로의 마음이 강퍅케 되어 그들을 듣지 아니하였으니 여호와의 말씀과 같더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p5.b16": {
+    "text": "아침에 일찌기 일어나 바로 앞에 서라 그가 물로 나오리니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p5.b17": {
+    "text": "여호와의 말씀에 내 백성을 보내라 그들이 나를 섬길 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p5.b18": {
+    "text": "내가 내 백성과 네 백성 사이에 구별을 두리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p5.b19": {
+    "text": "무수한 파리 떼가 바로의 궁에와 그 신하의 집에와 애굽 전국에 이르니 파리 떼로 인하여 땅이 해를 받더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p6.b20": {
+    "text": "너희는 가서 이 땅에서 너희 하나님께 희생을 드리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p6.b21": {
+    "text": "그리함은 불가하니이다 … 우리가 만일 애굽 사람의 목전에서 희생을 드리면 그들이 그것을 미워하여 우리를 돌로 치지 아니하리이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p6.b22": {
+    "text": "우리가 사흘길쯤 광야로 들어가서 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p6.b23": {
+    "text": "내가 너희를 보내리니 … 너무 멀리는 가지 말라 그런즉 너희는 나를 위하여 기도하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p7.b24": {
+    "text": "내가 왕을 떠나 가서 여호와께 기도하리니 … 바로는 이 백성을 보내어 여호와께 희생을 드리는 일에 다시 거짓을 행치 마소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p7.b25": {
+    "text": "여호와께서 모세의 말대로 하사 파리를 바로와 그 신하와 그 백성에게 몰수이 떠나게 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.8.p7.b26": {
+    "text": "그러나 바로가 이 때에도 마음을 완강케 하여 백성을 보내지 아니하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Exodus 8:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

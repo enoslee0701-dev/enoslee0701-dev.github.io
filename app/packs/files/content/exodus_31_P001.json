@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_31_P001",
+  "book": "exodus",
+  "chapter": 31,
+  "page": 1,
+  "ref": "31:1-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_31_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_31_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2129
+      ]
+    },
+    {
+      "id": "EXODUS_31_P001_F2",
+      "box": [
+        0,
+        0.2161,
+        1,
+        0.3418
+      ]
+    },
+    {
+      "id": "EXODUS_31_P001_F3",
+      "box": [
+        0,
+        0.5612,
+        1,
+        0.2721
+      ]
+    },
+    {
+      "id": "EXODUS_31_P001_F4",
+      "box": [
+        0,
+        0.8359,
+        1,
+        0.1641
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_31_P001_B001",
+      "panel": "EXODUS_31_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.0064,
+        0.47,
+        0.0425
+      ],
+      "tail": null,
+      "text_key": "exodus.31.p1.b1"
+    },
+    {
+      "id": "EXODUS_31_P001_B002",
+      "panel": "EXODUS_31_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.2264,
+        0.26,
+        0.0957
+      ],
+      "tail": null,
+      "text_key": "exodus.31.p1.b2"
+    },
+    {
+      "id": "EXODUS_31_P001_B003",
+      "panel": "EXODUS_31_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.05,
+        0.7734,
+        0.9,
+        0.0516
+      ],
+      "tail": null,
+      "text_key": "exodus.31.p1.b3"
+    },
+    {
+      "id": "EXODUS_31_P001_B004",
+      "panel": "EXODUS_31_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.8408,
+        0.6,
+        0.0295
+      ],
+      "tail": null,
+      "text_key": "exodus.31.p1.b4"
+    }
+  ]
+}

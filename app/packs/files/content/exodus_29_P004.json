@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_29_P004",
+  "book": "exodus",
+  "chapter": 29,
+  "page": 4,
+  "ref": "29:29-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_29_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_29_P004_F1",
+      "box": [
+        0,
+        0,
+        0.457,
+        0.3952
+      ]
+    },
+    {
+      "id": "EXODUS_29_P004_F2",
+      "box": [
+        0.4639,
+        0,
+        0.5361,
+        0.3952
+      ]
+    },
+    {
+      "id": "EXODUS_29_P004_F3",
+      "box": [
+        0,
+        0.3991,
+        1,
+        0.1504
+      ]
+    },
+    {
+      "id": "EXODUS_29_P004_F4",
+      "box": [
+        0,
+        0.5527,
+        1,
+        0.4473
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_29_P004_B012",
+      "panel": "EXODUS_29_P004_F1",
+      "order": 12,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0183,
+        0.0119,
+        0.4113,
+        0.0632
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p4.b12"
+    },
+    {
+      "id": "EXODUS_29_P004_B013",
+      "panel": "EXODUS_29_P004_F2",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4853,
+        0.0119,
+        0.4824,
+        0.079
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p4.b13"
+    },
+    {
+      "id": "EXODUS_29_P004_B014",
+      "panel": "EXODUS_29_P004_F3",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.4141,
+        0.4,
+        0.1203
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p4.b14"
+    },
+    {
+      "id": "EXODUS_29_P004_B015",
+      "panel": "EXODUS_29_P004_F4",
+      "order": 15,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5661,
+        0.4,
+        0.0805
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p4.b15"
+    }
+  ]
+}

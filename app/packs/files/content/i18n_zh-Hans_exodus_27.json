@@ -1,0 +1,123 @@
+{
+  "exodus.27.p1.b1": {
+    "text": "你要用皂荚木做坛。这坛要四方的，长五肘，宽五肘，高三肘。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠要用皂荚木做坛。这坛要四⁠方的，长五肘，宽五肘，高⁠三肘。"
+  },
+  "exodus.27.p1.b2": {
+    "text": "要在坛的四拐角上做四个角，与坛接连一块，用铜把坛包裹。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "要在坛的四拐⁠角上做四个角，与坛接⁠连一⁠块，用铜把坛包⁠裹。"
+  },
+  "exodus.27.p1.b3": {
+    "text": "这杠要穿在坛两旁的环子内，用以抬坛。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这杠要⁠穿在坛两⁠旁的环子内，用⁠以抬坛。"
+  },
+  "exodus.27.p1.b4": {
+    "text": "……坛是空的，都照着在山上指示你的样式做。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……坛是空的，都照着在山⁠上指⁠示你⁠的样⁠式做。"
+  },
+  "exodus.27.p2.b5": {
+    "text": "你要做帐幕的院子。院子的南面要用捻的细麻做帷子，长一百肘。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠要做帐幕的院⁠子。院⁠子的南⁠面要⁠用捻的细麻做帷⁠子，长一⁠百肘。"
+  },
+  "exodus.27.p2.b6": {
+    "text": "院子四围一切的柱子都要用银杆连络，柱子上的钩子要用银做，带卯的座要用铜做。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "院⁠子四围一⁠切的柱⁠子都⁠要用银杆连络，柱⁠子上的钩⁠子要⁠用银做，带卯的座要⁠用铜做。"
+  },
+  "exodus.27.p2.b7": {
+    "text": "院子要长一百肘，宽五十肘，高五肘……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:18"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "院⁠子要长一⁠百肘，宽五⁠十肘，高五肘……"
+  },
+  "exodus.27.p2.b8": {
+    "text": "院子的门当有帘子，长二十肘，要拿蓝色、紫色、朱红色线，和捻的细麻，用绣花的手工织成……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "院⁠子的门当有帘⁠子，长二⁠十肘，要拿蓝⁠色、紫⁠色、朱红⁠色线，和捻的细麻，用绣⁠花的手⁠工织成……"
+  },
+  "exodus.27.p3.b9": {
+    "text": "你要吩咐以色列人，把那为点灯捣成的清橄榄油拿来给你，使灯常常点着。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠要吩⁠咐以⁠色列⁠人，把那为点⁠灯捣成的清橄⁠榄油拿⁠来给你，使灯常⁠常点着。"
+  },
+  "exodus.27.p3.b10": {
+    "text": "在会幕中法柜前的幔外，亚伦和他的儿子，从晚上到早晨，要在耶和华面前经理这灯。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在会幕中法柜前的幔外，亚伦和他⁠的儿⁠子，从晚⁠上到早⁠晨，要在耶⁠和⁠华面⁠前经⁠理这灯。"
+  },
+  "exodus.27.p3.b11": {
+    "text": "这要作以色列人世世代代永远的定例。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 27:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这要⁠作以⁠色列⁠人世⁠世代⁠代永⁠远的定⁠例。"
+  }
+}

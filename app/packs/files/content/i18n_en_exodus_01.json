@@ -1,0 +1,162 @@
+{
+  "exodus.1.p1.b1": {
+    "text": "Now Joseph and all his brothers and all that generation died,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p1.b2": {
+    "text": "These are the names of the sons of Israel who went to Egypt with Jacob, each with his family: … The descendants of Jacob numbered seventy in all, including Joseph, who was already in Egypt.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:1-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p1.b3": {
+    "text": "but the Israelites were fruitful and increased rapidly; they multiplied and became exceedingly numerous, so that the land was filled with them.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p2.b1": {
+    "text": "Then a new king, who did not know Joseph, came to power in Egypt.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p2.b2": {
+    "text": "Look, … the Israelites have become too numerous and too powerful for us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p2.b3": {
+    "text": "Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p3.b1": {
+    "text": "So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p3.b2": {
+    "text": "They worked the Israelites ruthlessly and made their lives bitter with hard labor in brick and mortar, … Every service they imposed was harsh.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p3.b3": {
+    "text": "But the more they were oppressed, the more they multiplied and flourished; so the Egyptians came to dread the Israelites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p4.b1": {
+    "text": "Then the king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p4.b2": {
+    "text": "“When you help the Hebrew women give birth, observe them on the birthstools. If the child is a son, kill him; but if it is a daughter, let her live.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p4.b3": {
+    "text": "The midwives, however, feared God and did not do as the king of Egypt had instructed; they let the boys live.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p4.b4": {
+    "text": "Why have you done this? Why have you let the boys live?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p4.b5": {
+    "text": "The Hebrew women are not like the Egyptian women, for they are vigorous and give birth before a midwife arrives.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p5.b1": {
+    "text": "So God was good to the midwives, and the people multiplied and became even more numerous. And because the midwives feared God, He gave them families of their own.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:20-21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.1.p5.b2": {
+    "text": "Every son born to the Hebrews you must throw into the Nile, but every daughter you may allow to live.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 1:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

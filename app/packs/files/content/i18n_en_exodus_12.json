@@ -1,0 +1,392 @@
+{
+  "exodus.12.p1.b1": {
+    "text": "“This month is the beginning of months for you; it shall be the first month of your year.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b2": {
+    "text": "on the tenth day of this month each man must select a lamb for his family, one per household.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b3": {
+    "text": "If the household is too small for a whole lamb, they are to share with the nearest neighbor…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b4": {
+    "text": "Your lamb must be an unblemished year-old male…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b5": {
+    "text": "You must keep it until the fourteenth day of the month…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b6": {
+    "text": "…the whole assembly of the congregation of Israel will slaughter the animals at twilight.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b7": {
+    "text": "They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b8": {
+    "text": "They are to eat the meat that night, roasted over the fire, along with unleavened bread and bitter herbs.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b9": {
+    "text": "This is how you are to eat it: You must be fully dressed for travel, with your sandals on your feet and your staff in your hand. You are to eat in haste; it is the LORD’s Passover.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b10": {
+    "text": "The blood on the houses where you are staying will distinguish them;",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b11": {
+    "text": "when I see the blood, I will pass over you.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b12": {
+    "text": "And this day will be a memorial for you, and you are to celebrate it as a feast to the LORD, as a permanent statute for the generations to come.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b13": {
+    "text": "For seven days you must eat unleavened bread.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b14": {
+    "text": "On the first day you are to hold a sacred assembly, and another on the seventh day.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b15": {
+    "text": "…for on this very day I brought your divisions out of the land of Egypt.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b16": {
+    "text": "Go at once and select for yourselves a lamb for each family, and slaughter the Passover lamb.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b17": {
+    "text": "None of you shall go out the door of his house until morning.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b18": {
+    "text": "When your children ask you, ‘What does this service mean to you?’",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b19": {
+    "text": "It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites… and spared our homes.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b20": {
+    "text": "Then the people bowed down and worshiped. And the Israelites went and did just what the LORD had commanded Moses and Aaron.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:27-28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b21": {
+    "text": "Now at midnight…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b22": {
+    "text": "there was loud wailing in Egypt; for there was no house without someone dead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b23": {
+    "text": "During the night Pharaoh got up—he and all his officials and all the Egyptians—",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b24": {
+    "text": "Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b25": {
+    "text": "Take your flocks and herds as well, just as you have said, and depart!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b26": {
+    "text": "And bless me also.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b27": {
+    "text": "we are all going to die!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b28": {
+    "text": "So the people took their dough before it was leavened, carrying it on their shoulders in kneading bowls wrapped in clothing.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b29": {
+    "text": "And the LORD gave the people such favor in the sight of the Egyptians that they granted their request.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b30": {
+    "text": "The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b31": {
+    "text": "And a mixed multitude also went up with them, along with great droves of livestock, both flocks and herds.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b32": {
+    "text": "the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay…",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b33": {
+    "text": "Now the duration of the Israelites’ stay in Egypt was 430 years.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b34": {
+    "text": "At the end of the 430 years, to the very day, all the LORD’s divisions went out of the land of Egypt.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b35": {
+    "text": "Because the LORD kept a vigil that night… this same night is to be a vigil to the LORD, to be observed by all the Israelites for the generations to come.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b36": {
+    "text": "This is the statute of the Passover: No foreigner is to eat of it.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b37": {
+    "text": "you may not break any of the bones.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b38": {
+    "text": "The same law shall apply to both the native and the foreigner who resides among you.”",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b39": {
+    "text": "Then all the Israelites did this—they did just as the LORD had commanded Moses and Aaron. And on that very day the LORD brought the Israelites out of the land of Egypt by their divisions.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 12:50-51"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

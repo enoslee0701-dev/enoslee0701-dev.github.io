@@ -1,0 +1,392 @@
+{
+  "exodus.12.p1.b1": {
+    "text": "“นับ​แต่​นี้​ไป ให้​เดือน​นี้​เป็น​เดือน​แรก​ของ​เจ้า เป็น​เดือน​แรก​ของ​ปี​สำหรับ​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b2": {
+    "text": "ใน​วันที่​สิบ​ของ​เดือน​นี้ ให้​แต่ละ​ครอบครัว​คัด​ลูก​แกะ​ตัว​หนึ่ง",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b3": {
+    "text": "หรือ​หาก​เป็น​ครอบครัว​เล็ก​มี​คน​น้อย​กิน​ลูก​แกะ​ทั้ง​ตัว​ไม่​หมด ก็​ให้​แบ่ง​กับ​เพื่อนบ้าน​ซึ่ง​อยู่​ใกล้​กัน​ที่​สุด…",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b4": {
+    "text": "…ต้อง​เป็น​ตัวผู้​อายุ​หนึ่ง​ปี​ไม่​มี​ตำหนิ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b5": {
+    "text": "จง​ดู​แล​พวก​มัน​ไว้​จน​ถึง​วันที่​สิบสี่​ของ​เดือน…",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b6": {
+    "text": "…สมาชิก​ทั้งปวง​ใน​ชุมชน​อิสราเอล​จะ​ต้อง​ฆ่า​ลูก​แกะ​ตอน​พลบค่ำ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b7": {
+    "text": "แล้ว​ให้​พวก​เขา​เอา​เลือด​บาง​ส่วน​ทา​ที่​ด้าน​ข้าง​และ​ด้าน​บน​ของ​วงกบ​ประตู​บ้าน​ที่​เขา​กิน​ลูก​แกะ​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b8": {
+    "text": "คืน​วัน​นั้น​ทุก​คน​จง​กิน​เนื้อ​แกะ​หรือ​แพะ​ย่าง พร้อม​กับ​ผัก​รส​ขม และ​ขนมปัง​ไม่​ใส่​ยีสต์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b9": {
+    "text": "ใน​การ​กิน​เลี้ยง​นี้ จง​สวม​ชุด​เดินทาง คาด​เข็มขัด ใส่​รองเท้า และ​ถือ​ไม้เท้า​ไว้ จง​รีบ​กิน เพราะ​นี่​คือ​ปัสกา​ของ​พระยาห์เวห์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b10": {
+    "text": "บ้าน​ที่​เจ้า​อยู่​จะ​มี​เลือด​เป็น​เครื่องหมาย​สำหรับ​เจ้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b11": {
+    "text": "เมื่อ​เรา​มอง​เห็น​เลือด​นั้น​เรา​จะ​ผ่าน​เจ้า​ไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b12": {
+    "text": "นี่​คือ​วันที่​เจ้า​ต้อง​รำลึก เจ้า​จง​ถือ​เป็น​เทศกาล​เฉลิม​ฉลอง​แด่​พระยาห์เวห์ เป็น​ข้อ​ปฏิบัติ​ชั่วลูกชั่วหลาน​สืบไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b13": {
+    "text": "เจ้า​ต้อง​กิน​ขนมปัง​ไม่​ใส่​ยีสต์​เป็น​เวลา​เจ็ด​วัน",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b14": {
+    "text": "ใน​วัน​แรก​และ​วันที่​เจ็ด​ของ​พิธี​ฉลอง จง​จัด​การ​ประชุม​อัน​ศักดิ์สิทธิ์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b15": {
+    "text": "…วัน​นี้​คือ​วันที่​เรา​นำ​หมู่​เหล่า​ของ​เจ้า​ออก​จาก​อียิปต์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b16": {
+    "text": "จง​ไป​คัดเลือก​ลูก​แกะ​มา​สำหรับ​ครอบครัว​ของ​ท่าน​และ​ฆ่า​แกะ​ปัสกา​นั้น",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b17": {
+    "text": "อย่า​ให้​ใคร​ออก​ไป​นอก​ประตู​บ้าน​จน​ถึง​รุ่งเช้า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b18": {
+    "text": "และ​เมื่อ​ลูกหลาน​ของ​ท่าน​ถาม​ว่า ‘พิธี​นี้​มี​ความหมาย​อย่างไร​สำหรับ​ท่าน’",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b19": {
+    "text": "เป็น​การ​ถวาย​ปัสกา​แด่​พระยาห์เวห์​ผู้​ผ่าน​บ้าน​ของ​ชาว​อิสราเอล​ใน​อียิปต์​ไป…และ​ละเว้น​บ้าน​ของ​พวก​เรา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b20": {
+    "text": "แล้ว​ประชาชน​ต่าง​กราบ​ลง​นมัสการ ชาว​อิสราเอล​ได้​ทำ​ตาม​ที่​พระยาห์เวห์​สั่ง​โมเสส​กับ​อาโรน​ทุก​ประการ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:27-28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b21": {
+    "text": "เที่ยงคืน​วัน​นั้น…",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b22": {
+    "text": "ร้องไห้​คร่ำครวญ​ดัง​ระงม​ไป​ทั่ว​อียิปต์​เพราะ​ทุก​บ้าน​มี​คน​ตาย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b23": {
+    "text": "ฟาโรห์​และ​ข้าราชการ​ตลอดจน​ชาว​อียิปต์​ทั้งปวง​ตื่น​ขึ้น​มา​กลาง​ดึก",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b24": {
+    "text": "ไป! เจ้า​กับ​พวก​อิสราเอล! จง​ไป​ให้​พ้น​พวก​เรา จง​ไป​นมัสการ​พระยาห์เวห์​ตาม​ที่​เจ้า​ขอ​ไว้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b25": {
+    "text": "เอา​ฝูง​สัตว์​ไป​อย่าง​ที่​ว่า​ไว้",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b26": {
+    "text": "และ​อวยพร​เรา​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b27": {
+    "text": "เรา​จะ​ตาย​กัน​หมด!",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b28": {
+    "text": "ชาว​อิสราเอล​เอา​แป้ง​ดิบ​ที่​ผสม​เสร็จ​แล้ว​แต่​ยัง​ไม่​ใส่​ยีสต์​และ​เอา​ราง​นวด​แป้ง​ห่อ​ผ้า​แบก​ไป​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b29": {
+    "text": "พระยาห์เวห์​ทำ​ให้​ชาว​อียิปต์​เมตตา​ยก​ข้าวของ​ให้​ชาว​อิสราเอล​ตาม​ที่​เขา​ขอ",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b30": {
+    "text": "คืน​นั้น​ชาว​อิสราเอล​ราว​หกแสน​คน ไม่​นับ​ผู้หญิง​และ​เด็ก เดิน​เท้า​ออก​จาก​เมือง​ราเมเสส​ไป​ยัง​เมือง​สุคคท",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b31": {
+    "text": "มี​ชนชาติ​อื่น​ๆ มากมาย​ร่วม​เดินทาง​และ​มี​ฝูง​สัตว์​จำนวน​มาก​ไป​กับ​พวก​เขา​ด้วย",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b32": {
+    "text": "ชาว​อิสราเอล​เอา​แป้ง​ดิบ​ที่​นำ​มา​จาก​อียิปต์​มา​ปิ้ง​ขนมปัง​ไร้​เชื้อ ที่​แป้ง​ไม่​ใส่​ยีสต์​เพราะ​พวก​เขา​ถูก​ขับ​ออก​จาก​อียิปต์…",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b33": {
+    "text": "ชาว​อิสราเอล​อาศัย​อยู่​ใน​อียิปต์ 430 ปี",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b34": {
+    "text": "วัน​สุดท้าย​ของ 430 ปี​นั้น ประชาชน​ของ​พระยาห์เวห์​ทุก​หมู่​เหล่า​ก็​ออก​จาก​ดินแดน​อียิปต์",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b35": {
+    "text": "…ใน​คืน​วัน​นี้​ชาว​อิสราเอล​ทั้งปวง​จะ​เฝ้า​ระวัง​อยู่​ตลอด​คืน เพื่อ​ถวาย​เกียรติ​แด่​พระยาห์เวห์​ชั่วลูกชั่วหลาน​สืบไป",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b36": {
+    "text": "กฎ​ระเบียบ​ของ​พิธี​ปัสกา​มี​ดังนี้​คือ ห้าม​คน​ต่าง​ชาติ​กิน​ปัสกา",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b37": {
+    "text": "อย่า​หัก​กระดูก​ของ​มัน​แม้​แต่​ข้อ​เดียว",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b38": {
+    "text": "ใช้​กฎ​ข้อ​นี้​ทั้ง​กับ​คน​อิสราเอล​โดย​กำเนิด​และ​กับ​คน​ต่าง​ชาติ​ซึ่ง​อาศัย​อยู่​ใน​หมู่​พวก​เจ้า”",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b39": {
+    "text": "ชาว​อิสราเอล​ทั้งปวง​ก็​ปฏิบัติ​ตาม​ที่​พระยาห์เวห์​สั่ง​โมเสส​กับ​อาโรน​ไว้ และ​ใน​วัน​นั้น​เอง​พระยาห์เวห์​ก็​นำ​ชาว​อิสราเอล​ออก​จาก​ดินแดน​อียิปต์​เป็น​หมู่​เหล่า",
+    "kind": "scripture",
+    "source": {
+      "version": "thatcv",
+      "ref": "Exodus 12:50-51"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

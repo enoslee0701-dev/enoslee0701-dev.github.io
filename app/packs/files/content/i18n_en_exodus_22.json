@@ -1,0 +1,142 @@
+{
+  "exodus.22.p1.b1": {
+    "text": "“If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p1.b2": {
+    "text": "If a man grazes his livestock in a field or vineyard and allows them to stray so that they graze in someone else’s field, he must make restitution from the best of his own field or vineyard.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p1.b3": {
+    "text": "If a fire breaks out and spreads to thornbushes so that it consumes stacked or standing grain, or the whole field, the one who started the fire must make full restitution.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b4": {
+    "text": "If a man gives his neighbor money or goods for safekeeping and they are stolen from the neighbor’s house, the thief, if caught, must pay back double.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b5": {
+    "text": "an oath before the LORD shall be made between the parties to determine whether or not the man has taken his neighbor’s property. The owner must accept the oath and require no restitution.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b6": {
+    "text": "If the animal was torn to pieces, he shall bring it as evidence; he need not make restitution for the torn carcass.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b7": {
+    "text": "If a man borrows an animal from his neighbor and it is injured or dies while its owner is not present, he must make full restitution.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p3.b8": {
+    "text": "You must not exploit or oppress a foreign resident, for you yourselves were foreigners in the land of Egypt.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p3.b9": {
+    "text": "You must not mistreat any widow or orphan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p3.b10": {
+    "text": "If you do mistreat them, and they cry out to Me in distress, I will surely hear their cry.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b11": {
+    "text": "If you lend money to one of My people among you who is poor, you must not act as a creditor to him; you are not to charge him interest.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b12": {
+    "text": "If you take your neighbor’s cloak as collateral, return it to him by sunset,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b13": {
+    "text": "because his cloak is the only covering he has for his body. What else will he sleep in? And if he cries out to Me, I will hear, for I am compassionate.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b14": {
+    "text": "You are to be My holy people. …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 22:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

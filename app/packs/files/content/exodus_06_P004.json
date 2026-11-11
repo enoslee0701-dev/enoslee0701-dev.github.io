@@ -1,0 +1,91 @@
+{
+  "id": "EXODUS_06_P004",
+  "book": "exodus",
+  "chapter": 6,
+  "page": 4,
+  "ref": "6:14-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_06_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_06_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.207
+      ]
+    },
+    {
+      "id": "EXODUS_06_P004_F2",
+      "box": [
+        0,
+        0.2103,
+        1,
+        0.4824
+      ]
+    },
+    {
+      "id": "EXODUS_06_P004_F3",
+      "box": [
+        0,
+        0.696,
+        1,
+        0.304
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_06_P004_B011",
+      "panel": "EXODUS_06_P004_F1",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0083,
+        0.4,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "exodus.6.p4.b11"
+    },
+    {
+      "id": "EXODUS_06_P004_B012",
+      "panel": "EXODUS_06_P004_F2",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.5721,
+        0.44,
+        0.0964
+      ],
+      "tail": null,
+      "text_key": "exodus.6.p4.b12"
+    },
+    {
+      "id": "EXODUS_06_P004_B013",
+      "panel": "EXODUS_06_P004_F3",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7051,
+        0.38,
+        0.0608
+      ],
+      "tail": null,
+      "text_key": "exodus.6.p4.b13"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_12_P011",
+  "book": "exodus",
+  "chapter": 12,
+  "page": 11,
+  "ref": "12:43-51",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_12_P011",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_12_P011_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.252
+      ]
+    },
+    {
+      "id": "EXODUS_12_P011_F2",
+      "box": [
+        0,
+        0.2565,
+        0.2373,
+        0.418
+      ]
+    },
+    {
+      "id": "EXODUS_12_P011_F3",
+      "box": [
+        0.2461,
+        0.2565,
+        0.7539,
+        0.418
+      ]
+    },
+    {
+      "id": "EXODUS_12_P011_F4",
+      "box": [
+        0,
+        0.6784,
+        1,
+        0.3216
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_12_P011_B036",
+      "panel": "EXODUS_12_P011_F1",
+      "order": 36,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0076,
+        0.32,
+        0.0655
+      ],
+      "tail": null,
+      "text_key": "exodus.12.p11.b36"
+    },
+    {
+      "id": "EXODUS_12_P011_B037",
+      "panel": "EXODUS_12_P011_F2",
+      "order": 37,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0095,
+        0.269,
+        0.2135,
+        0.0752
+      ],
+      "tail": null,
+      "text_key": "exodus.12.p11.b37"
+    },
+    {
+      "id": "EXODUS_12_P011_B038",
+      "panel": "EXODUS_12_P011_F3",
+      "order": 38,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6381,
+        0.269,
+        0.3317,
+        0.0836
+      ],
+      "tail": null,
+      "text_key": "exodus.12.p11.b38"
+    },
+    {
+      "id": "EXODUS_12_P011_B039",
+      "panel": "EXODUS_12_P011_F4",
+      "order": 39,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.688,
+        0.9,
+        0.0578
+      ],
+      "tail": null,
+      "text_key": "exodus.12.p11.b39"
+    }
+  ]
+}

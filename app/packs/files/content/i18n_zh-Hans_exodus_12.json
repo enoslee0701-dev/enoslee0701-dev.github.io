@@ -1,0 +1,431 @@
+{
+  "exodus.12.p1.b1": {
+    "text": "你们要以本月为正月，为一年之首。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要以本月为正⁠月，为一⁠年之首。"
+  },
+  "exodus.12.p1.b2": {
+    "text": "本月初十日，各人要按着父家取羊羔，一家一只。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "本月⁠初十⁠日，各⁠人要按着父家取羊⁠羔，一⁠家一⁠只。"
+  },
+  "exodus.12.p1.b3": {
+    "text": "若是一家的人太少，吃不了一只羊羔，本人就要和他隔壁的邻舍共取一只。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若⁠是一⁠家的人太⁠少，吃⁠不⁠了一⁠只羊⁠羔，本⁠人就⁠要和他隔⁠壁的邻舍共取一⁠只。"
+  },
+  "exodus.12.p1.b4": {
+    "text": "要无残疾、一岁的公羊羔……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "要无残⁠疾、一⁠岁的公羊⁠羔……"
+  },
+  "exodus.12.p2.b5": {
+    "text": "本月十四日，在黄昏的时候……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "本月十⁠四⁠日，在黄⁠昏的时⁠候……"
+  },
+  "exodus.12.p2.b6": {
+    "text": "以色列全会众把羊羔宰了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠色⁠列全⁠会众把羊⁠羔宰了。"
+  },
+  "exodus.12.p2.b7": {
+    "text": "各家要取点血，涂在吃羊羔的房屋左右的门框上和门楣上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "各⁠家要取点血，涂⁠在吃羊⁠羔的房⁠屋左⁠右的门⁠框上和门楣上。"
+  },
+  "exodus.12.p2.b8": {
+    "text": "当夜要吃羊羔的肉；用火烤了，与无酵饼和苦菜同吃。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "当⁠夜要吃羊⁠羔的肉；用火⁠烤了，与无酵饼和苦菜同⁠吃。"
+  },
+  "exodus.12.p3.b9": {
+    "text": "你们吃羊羔当腰间束带，脚上穿鞋，手中拿杖，赶紧地吃；这是耶和华的逾越节。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们吃羊⁠羔当腰间束⁠带，脚⁠上穿⁠鞋，手⁠中拿杖，赶⁠紧地吃；这是耶⁠和⁠华的逾⁠越⁠节。"
+  },
+  "exodus.12.p3.b10": {
+    "text": "这血要在你们所住的房屋上作记号；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这血要在你⁠们所住的房⁠屋上⁠作记⁠号；"
+  },
+  "exodus.12.p3.b11": {
+    "text": "我一见这血，就越过你们去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我一见这血，就越⁠过你⁠们去。"
+  },
+  "exodus.12.p4.b12": {
+    "text": "你们要记念这日，守为耶和华的节，作为你们世世代代永远的定例。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要记念这日，守为耶⁠和⁠华的节，作⁠为你⁠们世⁠世代⁠代永⁠远的定⁠例。"
+  },
+  "exodus.12.p4.b13": {
+    "text": "你们要吃无酵饼七日。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要吃无酵饼七⁠日。"
+  },
+  "exodus.12.p4.b14": {
+    "text": "头一日你们当有圣会，第七日也当有圣会。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "头一⁠日你⁠们当有圣会，第⁠七日也当有圣会。"
+  },
+  "exodus.12.p4.b15": {
+    "text": "……因为我正当这日把你们的军队从埃及地领出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……因⁠为我正⁠当这日把你⁠们的军⁠队从埃⁠及地领出⁠来。"
+  },
+  "exodus.12.p5.b16": {
+    "text": "你们要按着家口取出羊羔，把这逾越节的羊羔宰了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:21"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们要按着家口取⁠出羊⁠羔，把这逾⁠越⁠节的羊⁠羔宰了。"
+  },
+  "exodus.12.p5.b17": {
+    "text": "你们谁也不可出自己的房门，直到早晨。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们谁也不⁠可出自⁠己的房⁠门，直⁠到早⁠晨。"
+  },
+  "exodus.12.p5.b18": {
+    "text": "你们的儿女问你们说：『行这礼是什么意思？』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们的儿⁠女问你⁠们说：『行这礼是什⁠么意⁠思？』"
+  },
+  "exodus.12.p5.b19": {
+    "text": "『这是献给耶和华逾越节的祭。……越过以色列人的房屋，救了我们各家。』",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:27"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "『这是献⁠给耶⁠和⁠华逾⁠越⁠节的祭。……越⁠过以⁠色列⁠人的房⁠屋，救了我⁠们各⁠家。』"
+  },
+  "exodus.12.p5.b20": {
+    "text": "于是百姓低头下拜。……耶和华怎样吩咐摩西、亚伦，以色列人就怎样行。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:27-28"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是百⁠姓低⁠头下⁠拜。……耶⁠和⁠华怎⁠样吩⁠咐摩⁠西、亚伦，以⁠色列⁠人就怎⁠样行。"
+  },
+  "exodus.12.p6.b21": {
+    "text": "到了半夜，……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "到⁠了半⁠夜，……"
+  },
+  "exodus.12.p6.b22": {
+    "text": "在埃及有大哀号，无一家不死一个人的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在埃⁠及有大哀⁠号，无一⁠家不⁠死一⁠个人⁠的。"
+  },
+  "exodus.12.p6.b23": {
+    "text": "法老和一切臣仆，并埃及众人，夜间都起来了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "法⁠老和一⁠切臣⁠仆，并埃⁠及众⁠人，夜⁠间都起⁠来了。"
+  },
+  "exodus.12.p7.b24": {
+    "text": "起来！连你们带以色列人，从我民中出去，……去事奉耶和华吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:31"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "起⁠来！连你⁠们带以⁠色列⁠人，从我民中出⁠去，……去事奉耶⁠和⁠华吧！"
+  },
+  "exodus.12.p7.b25": {
+    "text": "也依你们所说的，连羊群牛群带着走吧！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "也依你⁠们所说⁠的，连羊⁠群牛⁠群带着走吧！"
+  },
+  "exodus.12.p7.b26": {
+    "text": "并要为我祝福。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "并要为⁠我祝⁠福。"
+  },
+  "exodus.12.p8.b27": {
+    "text": "我们都要死了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:33"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠们都⁠要死⁠了。"
+  },
+  "exodus.12.p8.b28": {
+    "text": "百姓就拿着没有酵的生面，把抟面盆包在衣服中，扛在肩头上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "百⁠姓就⁠拿着没⁠有酵的生面，把抟面⁠盆包在衣⁠服中，扛⁠在肩头上。"
+  },
+  "exodus.12.p8.b29": {
+    "text": "耶和华叫百姓在埃及人眼前蒙恩，以致埃及人给他们所要的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:36"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠和⁠华叫百⁠姓在埃⁠及人眼⁠前蒙⁠恩，以⁠致埃⁠及人给他⁠们所⁠要的。"
+  },
+  "exodus.12.p9.b30": {
+    "text": "以色列人从兰塞起行，往疏割去；除了妇人孩子，步行的男人约有六十万。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:37"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠色列⁠人从兰塞起行，往疏割去；除⁠了妇⁠人孩⁠子，步⁠行的男⁠人约有六⁠十万。"
+  },
+  "exodus.12.p9.b31": {
+    "text": "又有许多闲杂人，并有羊群牛群，和他们一同上去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:38"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "又⁠有许⁠多闲杂人，并有羊⁠群牛⁠群，和他⁠们一⁠同上⁠去。"
+  },
+  "exodus.12.p9.b32": {
+    "text": "他们用埃及带出来的生面烤成无酵饼。……因为他们被催逼离开埃及，不能耽延……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:39"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们用埃⁠及带出⁠来的生面烤⁠成无酵饼。……因⁠为他⁠们被催⁠逼离⁠开埃⁠及，不⁠能耽延……"
+  },
+  "exodus.12.p10.b33": {
+    "text": "以色列人住在埃及共有四百三十年。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:40"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠色列⁠人住⁠在埃⁠及共⁠有四⁠百三⁠十年。"
+  },
+  "exodus.12.p10.b34": {
+    "text": "正满了四百三十年的那一天，耶和华的军队都从埃及地出来了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:41"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "正满⁠了四⁠百三⁠十年的那一⁠天，耶⁠和⁠华的军⁠队都从埃⁠及地出⁠来了。"
+  },
+  "exodus.12.p10.b35": {
+    "text": "这夜是耶和华的夜；……是以色列众人世世代代该谨守的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:42"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这夜是耶⁠和⁠华的夜；……是以⁠色⁠列众⁠人世⁠世代⁠代该谨⁠守的。"
+  },
+  "exodus.12.p11.b36": {
+    "text": "逾越节的例是这样：外邦人都不可吃这羊羔。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:43"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "逾⁠越⁠节的例是这⁠样：外⁠邦⁠人都不⁠可吃这羊⁠羔。"
+  },
+  "exodus.12.p11.b37": {
+    "text": "羊羔的骨头一根也不可折断。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:46"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "羊⁠羔的骨⁠头一⁠根也不⁠可折⁠断。"
+  },
+  "exodus.12.p11.b38": {
+    "text": "本地人和寄居在你们中间的外人同归一例。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:49"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "本⁠地人和寄⁠居在你⁠们中⁠间的外⁠人同归一⁠例。"
+  },
+  "exodus.12.p11.b39": {
+    "text": "耶和华怎样吩咐摩西、亚伦，以色列众人就怎样行了。正当那日，耶和华将以色列人按着他们的军队，从埃及地领出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 12:50-51"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "耶⁠和⁠华怎⁠样吩⁠咐摩⁠西、亚伦，以⁠色⁠列众⁠人就怎⁠样行了。正⁠当那日，耶⁠和⁠华将以⁠色列⁠人按着他⁠们的军⁠队，从埃⁠及地领出⁠来。"
+  }
+}

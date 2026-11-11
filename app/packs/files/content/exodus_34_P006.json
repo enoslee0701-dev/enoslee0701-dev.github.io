@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_34_P006",
+  "book": "exodus",
+  "chapter": 34,
+  "page": 6,
+  "ref": "34:21-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_34_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_34_P006_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.2936
+      ]
+    },
+    {
+      "id": "EXODUS_34_P006_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.2936
+      ]
+    },
+    {
+      "id": "EXODUS_34_P006_F3",
+      "box": [
+        0,
+        0.2975,
+        1,
+        0.2467
+      ]
+    },
+    {
+      "id": "EXODUS_34_P006_F4",
+      "box": [
+        0,
+        0.5482,
+        1,
+        0.4518
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_34_P006_B019",
+      "panel": "EXODUS_34_P006_F1",
+      "order": 19,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0088,
+        0.4491,
+        0.0557
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p6.b19"
+    },
+    {
+      "id": "EXODUS_34_P006_B020",
+      "panel": "EXODUS_34_P006_F2",
+      "order": 20,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5306,
+        0.0088,
+        0.4446,
+        0.0704
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p6.b20"
+    },
+    {
+      "id": "EXODUS_34_P006_B021",
+      "panel": "EXODUS_34_P006_F3",
+      "order": 21,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.25,
+        0.3049,
+        0.26,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p6.b21"
+    },
+    {
+      "id": "EXODUS_34_P006_B022",
+      "panel": "EXODUS_34_P006_F4",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.58,
+        0.5618,
+        0.39,
+        0.0813
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p6.b22"
+    }
+  ]
+}

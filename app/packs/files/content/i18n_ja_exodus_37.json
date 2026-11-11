@@ -1,0 +1,102 @@
+{
+  "exodus.37.p1.b1": {
+    "text": "ベザレルはアカシヤ材の箱を造った。長さは二キュビト半、幅は一キュビト半、高さは一キュビト半である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p1.b2": {
+    "text": "純金で、内そとをおおい、その周囲に金の飾り縁を造った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p1.b3": {
+    "text": "そのさおを箱の側面の環に通して、箱をかつぐようにした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p1.b4": {
+    "text": "ケルビムは翼を高く伸べ、その翼で贖罪所をおおい、顔は互に向かい合った。すなわちケルビムの顔は贖罪所に向かっていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p2.b5": {
+    "text": "またアカシヤ材で、机を造った。……純金でこれをおおい、その周囲に金の飾り縁を造った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:10-11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p2.b6": {
+    "text": "また机の上の器、すなわちその皿、乳香を盛る杯および灌祭を注ぐための鉢と瓶とを純金で造った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p2.b7": {
+    "text": "それらの節と枝を一つに連ね、ことごとく純金の打物造りとした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p2.b8": {
+    "text": "すなわち純金一タラントをもって、燭台とそのすべての器とを造った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p3.b9": {
+    "text": "またアカシヤ材で香の祭壇を造った。……これにその一部として角をつけた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.37.p3.b10": {
+    "text": "また香料を造るわざにしたがって、聖なる注ぎ油と純粋の香料の薫香とを造った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 37:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "exodus.12.p1.b1": {
+    "text": "「この月をあなたがたの初めの月とし、これを年の正月としなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b2": {
+    "text": "この月の十日におのおの、その父の家ごとに小羊を取らなければならない。すなわち、一家族に小羊一頭を取らなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b3": {
+    "text": "もし家族が少なくて一頭の小羊を食べきれないときは、家のすぐ隣の人と共に、人数に従って一頭を取り……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p1.b4": {
+    "text": "小羊は傷のないもので、一歳の雄でなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b5": {
+    "text": "そしてこの月の十四日まで、これを守って置き……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b6": {
+    "text": "イスラエルの会衆はみな、夕暮にこれをほふり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b7": {
+    "text": "その血を取り、小羊を食する家の入口の二つの柱と、かもいにそれを塗らなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p2.b8": {
+    "text": "そしてその夜、その肉を火に焼いて食べ、種入れぬパンと苦菜を添えて食べなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b9": {
+    "text": "あなたがたは、こうして、それを食べなければならない。すなわち腰を引きからげ、足にくつをはき、手につえを取って、急いでそれを食べなければならない。これは主の過越である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b10": {
+    "text": "その血はあなたがたのおる家々で、あなたがたのために、しるしとなり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p3.b11": {
+    "text": "わたしはその血を見て、あなたがたの所を過ぎ越すであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b12": {
+    "text": "この日はあなたがたに記念となり、あなたがたは主の祭としてこれを守り、代々、永久の定めとしてこれを守らなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b13": {
+    "text": "七日の間あなたがたは種入れぬパンを食べなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b14": {
+    "text": "あなたがたは第一日に聖会を、また第七日に聖会を開かなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p4.b15": {
+    "text": "……ちょうど、この日、わたしがあなたがたの軍勢をエジプトの国から導き出したからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b16": {
+    "text": "あなたがたは急いで家族ごとに一つの小羊を取り、その過越の獣をほふらなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b17": {
+    "text": "朝まであなたがたは、ひとりも家の戸の外に出てはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b18": {
+    "text": "もし、あなたがたの子供たちが『この儀式はどんな意味ですか』と問うならば、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b19": {
+    "text": "これは主の過越の犠牲である。……エジプトにいたイスラエルの人々の家を過ぎ越して、われわれの家を救われたのである",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p5.b20": {
+    "text": "民はこのとき、伏して礼拝した。……主がモーセとアロンに命じられたようにした。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:27-28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b21": {
+    "text": "夜中になって……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b22": {
+    "text": "エジプトに大いなる叫びがあった。死人のない家がなかったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p6.b23": {
+    "text": "パロとその家来およびエジプトびとはみな夜のうちに起きあがり、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b24": {
+    "text": "あなたがたとイスラエルの人々は立って、わたしの民の中から出て行くがよい。そしてあなたがたの言うように、行って主に仕えなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b25": {
+    "text": "あなたがたの言うように羊と牛とを取って行きなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p7.b26": {
+    "text": "また、わたしを祝福しなさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b27": {
+    "text": "われわれはみな死ぬ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b28": {
+    "text": "民はまだパン種を入れない練り粉を、こばちのまま着物に包んで肩に負った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p8.b29": {
+    "text": "主は民にエジプトびとの情を得させ、彼らの請い求めたものを与えさせられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b30": {
+    "text": "さて、イスラエルの人々はラメセスを出立してスコテに向かった。女と子供を除いて徒歩の男子は約六十万人であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b31": {
+    "text": "また多くの入り混じった群衆および羊、牛など非常に多くの家畜も彼らと共に上った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p9.b32": {
+    "text": "彼らはエジプトから携えて出た練り粉をもって、種入れぬパンの菓子を焼いた。……彼らがエジプトから追い出されて滞ることができず……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b33": {
+    "text": "イスラエルの人々がエジプトに住んでいた間は、四百三十年であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b34": {
+    "text": "四百三十年の終りとなって、ちょうどその日に、主の全軍はエジプトの国を出た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p10.b35": {
+    "text": "これは彼らをエジプトの国から導き出すために主が寝ずの番をされた夜であった。……すべてのイスラエルの人々は代々、主のために寝ずの番をしなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b36": {
+    "text": "過越の祭の定めは次のとおりである。すなわち、異邦人はだれもこれを食べてはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b37": {
+    "text": "その骨を折ってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b38": {
+    "text": "この律法は国に生れたものにも、あなたがたのうちに寄留している外国人にも同一である」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:49"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.12.p11.b39": {
+    "text": "イスラエルの人々は、みなこのようにし、主がモーセとアロンに命じられたようにした。 ちょうどその日に、主はイスラエルの人々を、その軍団に従ってエジプトの国から導き出された。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 12:50-51"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

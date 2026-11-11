@@ -1,0 +1,192 @@
+{
+  "exodus.21.p1.b1": {
+    "text": "これはあなたが彼らの前に示すべきおきてである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p1.b2": {
+    "text": "あなたがヘブルびとである奴隷を買う時は、六年のあいだ仕えさせ、七年目には無償で自由の身として去らせなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p1.b3": {
+    "text": "わたしは、わたしの主人と、わたしの妻と子供を愛します。わたしは自由の身となって去ることを好みません",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p1.b4": {
+    "text": "戸あるいは柱のところに連れて行って、主人は、きりで彼の耳を刺し通さなければならない。そうすれば彼はいつまでもこれに仕えるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b5": {
+    "text": "もし人がその娘を女奴隷として売るならば、その娘は男奴隷が去るように去ってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b6": {
+    "text": "彼がもし彼女を自分の子のものと定めるならば、これを娘のように扱わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b7": {
+    "text": "彼が、たとい、ほかに女をめとることがあっても、前の女に食物と衣服を与えることと、その夫婦の道とを絶えさせてはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b8": {
+    "text": "彼がもしこの三つを行わないならば、彼女は金を償わずに去ることができる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b9": {
+    "text": "人を撃って死なせた者は、必ず殺されなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b10": {
+    "text": "しかし、人がたくむことをしないのに、神が彼の手に人をわたされることのある時は、わたしはあなたのために一つの所を定めよう。彼はその所へのがれることができる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b11": {
+    "text": "人をかどわかした者は、これを売っていても、なお彼の手にあっても、必ず殺されなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b12": {
+    "text": "再び起きあがって、つえにすがり、外を歩くようになるならば、これを撃った者は、ゆるされるであろう。ただその仕事を休んだ損失を償い、かつこれにじゅうぶん治療させなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p4.b13": {
+    "text": "もし人が互に争って、身ごもった女を撃ち、…裁判人の定めるとおりに支払わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p4.b14": {
+    "text": "目には目、歯には歯、手には手、足には足、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p4.b15": {
+    "text": "もし人が自分の男奴隷の片目、または女奴隷の片目を撃ち、これをつぶすならば、その目のためにこれを自由の身として去らせなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b16": {
+    "text": "牛がもし以前から突く癖があって、その持ち主が注意されても、これを守りおかなかったために、…その持ち主もまた殺されなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b17": {
+    "text": "牛がもし男奴隷または女奴隷を突くならば、その主人に銀三十シケルを支払わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b18": {
+    "text": "もし人が穴をあけたままに置き、あるいは穴を掘ってこれにおおいをしないために、牛または、ろばがこれに落ち込むことがあれば、 穴の持ち主はこれを償い、金をその持ち主に支払わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:33-34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b19": {
+    "text": "ある人の牛が、もし他人の牛を突いて殺すならば、彼らはその生きている牛を売って、その価を分け、またその死んだものをも分けなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 21:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_34_P004",
+  "book": "exodus",
+  "chapter": 34,
+  "page": 4,
+  "ref": "34:10-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_34_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_34_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3281
+      ]
+    },
+    {
+      "id": "EXODUS_34_P004_F2",
+      "box": [
+        0,
+        0.3314,
+        0.5146,
+        0.2604
+      ]
+    },
+    {
+      "id": "EXODUS_34_P004_F3",
+      "box": [
+        0.5195,
+        0.3314,
+        0.4805,
+        0.2604
+      ]
+    },
+    {
+      "id": "EXODUS_34_P004_F4",
+      "box": [
+        0,
+        0.5951,
+        1,
+        0.4049
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_34_P004_B011",
+      "panel": "EXODUS_34_P004_F1",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0131,
+        0.42,
+        0.0787
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p4.b11"
+    },
+    {
+      "id": "EXODUS_34_P004_B012",
+      "panel": "EXODUS_34_P004_F2",
+      "order": 12,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.1544,
+        0.3392,
+        0.3396,
+        0.0572
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p4.b12"
+    },
+    {
+      "id": "EXODUS_34_P004_B013",
+      "panel": "EXODUS_34_P004_F3",
+      "order": 13,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5387,
+        0.3392,
+        0.2642,
+        0.0572
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p4.b13"
+    },
+    {
+      "id": "EXODUS_34_P004_B014",
+      "panel": "EXODUS_34_P004_F4",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.58,
+        0.6072,
+        0.39,
+        0.0809
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p4.b14"
+    }
+  ]
+}

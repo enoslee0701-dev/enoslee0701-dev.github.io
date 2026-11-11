@@ -1,0 +1,118 @@
+{
+  "id": "EXODUS_19_P007",
+  "book": "exodus",
+  "chapter": 19,
+  "page": 7,
+  "ref": "19:20-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_19_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_19_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ]
+    },
+    {
+      "id": "EXODUS_19_P007_F2",
+      "box": [
+        0,
+        0.2786,
+        0.4629,
+        0.3171
+      ]
+    },
+    {
+      "id": "EXODUS_19_P007_F3",
+      "box": [
+        0.4688,
+        0.2786,
+        0.5312,
+        0.3171
+      ]
+    },
+    {
+      "id": "EXODUS_19_P007_F4",
+      "box": [
+        0,
+        0.5996,
+        1,
+        0.4004
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_19_P007_B021",
+      "panel": "EXODUS_19_P007_F1",
+      "order": 21,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0083,
+        0.42,
+        0.0605
+      ],
+      "tail": null,
+      "text_key": "exodus.19.p7.b21"
+    },
+    {
+      "id": "EXODUS_19_P007_B022",
+      "panel": "EXODUS_19_P007_F2",
+      "order": 22,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.2777,
+        0.3928,
+        0.1712,
+        0.1078
+      ],
+      "tail": null,
+      "text_key": "exodus.19.p7.b22"
+    },
+    {
+      "id": "EXODUS_19_P007_B023",
+      "panel": "EXODUS_19_P007_F3",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4847,
+        0.2881,
+        0.2869,
+        0.0951
+      ],
+      "tail": [
+        0.6282,
+        0.4149
+      ],
+      "text_key": "exodus.19.p7.b23"
+    },
+    {
+      "id": "EXODUS_19_P007_B024",
+      "panel": "EXODUS_19_P007_F4",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.6116,
+        0.44,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "exodus.19.p7.b24"
+    }
+  ]
+}

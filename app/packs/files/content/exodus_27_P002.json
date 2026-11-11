@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_27_P002",
+  "book": "exodus",
+  "chapter": 27,
+  "page": 2,
+  "ref": "27:9-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_27_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_27_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5449,
+        0.3854
+      ]
+    },
+    {
+      "id": "EXODUS_27_P002_F2",
+      "box": [
+        0.5527,
+        0,
+        0.4473,
+        0.3854
+      ]
+    },
+    {
+      "id": "EXODUS_27_P002_F3",
+      "box": [
+        0,
+        0.3887,
+        1,
+        0.3203
+      ]
+    },
+    {
+      "id": "EXODUS_27_P002_F4",
+      "box": [
+        0,
+        0.7122,
+        1,
+        0.2878
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_27_P002_B005",
+      "panel": "EXODUS_27_P002_F1",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0218,
+        0.0116,
+        0.4359,
+        0.0693
+      ],
+      "tail": null,
+      "text_key": "exodus.27.p2.b5"
+    },
+    {
+      "id": "EXODUS_27_P002_B006",
+      "panel": "EXODUS_27_P002_F2",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.7987,
+        0.1349,
+        0.1878,
+        0.1156
+      ],
+      "tail": null,
+      "text_key": "exodus.27.p2.b6"
+    },
+    {
+      "id": "EXODUS_27_P002_B007",
+      "panel": "EXODUS_27_P002_F3",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.6449,
+        0.34,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "exodus.27.p2.b7"
+    },
+    {
+      "id": "EXODUS_27_P002_B008",
+      "panel": "EXODUS_27_P002_F4",
+      "order": 8,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3,
+        0.9597,
+        0.66,
+        0.0345
+      ],
+      "tail": null,
+      "text_key": "exodus.27.p2.b8"
+    }
+  ]
+}

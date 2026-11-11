@@ -1,0 +1,139 @@
+{
+  "id": "EXODUS_01_P004",
+  "book": "exodus",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:15-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_01_P004_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.3112
+      ]
+    },
+    {
+      "id": "EXODUS_01_P004_F2",
+      "box": [
+        0.5049,
+        0,
+        0.4951,
+        0.3112
+      ]
+    },
+    {
+      "id": "EXODUS_01_P004_F3",
+      "box": [
+        0,
+        0.3145,
+        1,
+        0.3802
+      ]
+    },
+    {
+      "id": "EXODUS_01_P004_F4",
+      "box": [
+        0,
+        0.6973,
+        1,
+        0.3027
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_01_P004_B001",
+      "panel": "EXODUS_01_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0093,
+        0.459,
+        0.0809
+      ],
+      "tail": null,
+      "text_key": "exodus.1.p4.b1"
+    },
+    {
+      "id": "EXODUS_01_P004_B002",
+      "panel": "EXODUS_01_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5247,
+        0.2241,
+        0.4554,
+        0.0778
+      ],
+      "tail": [
+        0.7524,
+        0.3112
+      ],
+      "text_key": "exodus.1.p4.b2"
+    },
+    {
+      "id": "EXODUS_01_P004_B003",
+      "panel": "EXODUS_01_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3259,
+        0.25,
+        0.1064
+      ],
+      "tail": null,
+      "text_key": "exodus.1.p4.b3"
+    },
+    {
+      "id": "EXODUS_01_P004_B004",
+      "panel": "EXODUS_01_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.58,
+        0.7064,
+        0.4,
+        0.0665
+      ],
+      "tail": [
+        0.78,
+        0.8032
+      ],
+      "text_key": "exodus.1.p4.b4"
+    },
+    {
+      "id": "EXODUS_01_P004_B005",
+      "panel": "EXODUS_01_P004_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.7064,
+        0.45,
+        0.0726
+      ],
+      "tail": [
+        0.255,
+        0.8093
+      ],
+      "text_key": "exodus.1.p4.b5"
+    }
+  ]
+}

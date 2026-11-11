@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_09_P003",
+  "book": "exodus",
+  "chapter": 9,
+  "page": 3,
+  "ref": "9:8-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_09_P003",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "EXODUS_09_P003_F1",
+      "box": [
+        0,
+        0,
+        0.3633,
+        0.4375
+      ]
+    },
+    {
+      "id": "EXODUS_09_P003_F2",
+      "box": [
+        0.37,
+        0,
+        0.63,
+        0.455
+      ]
+    },
+    {
+      "id": "EXODUS_09_P003_F3",
+      "box": [
+        0,
+        0.445,
+        0.605,
+        0.555
+      ]
+    },
+    {
+      "id": "EXODUS_09_P003_F4",
+      "box": [
+        0.615,
+        0.461,
+        0.385,
+        0.539
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_09_P003_B008",
+      "panel": "EXODUS_09_P003_F1",
+      "order": 8,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0145,
+        0.0131,
+        0.3269,
+        0.0787
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p3.b8"
+    },
+    {
+      "id": "EXODUS_09_P003_B009",
+      "panel": "EXODUS_09_P003_F2",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3952,
+        0.3868,
+        0.5796,
+        0.0546
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p3.b9"
+    },
+    {
+      "id": "EXODUS_09_P003_B010",
+      "panel": "EXODUS_09_P003_F3",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0242,
+        0.4617,
+        0.5566,
+        0.0999
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p3.b10"
+    },
+    {
+      "id": "EXODUS_09_P003_B011",
+      "panel": "EXODUS_09_P003_F4",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6304,
+        0.4772,
+        0.3465,
+        0.1078
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p3.b11"
+    }
+  ]
+}

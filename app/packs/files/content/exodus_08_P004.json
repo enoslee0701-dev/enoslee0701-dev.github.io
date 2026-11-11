@@ -1,0 +1,118 @@
+{
+  "id": "EXODUS_08_P004",
+  "book": "exodus",
+  "chapter": 8,
+  "page": 4,
+  "ref": "8:16-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_08_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_08_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3112
+      ]
+    },
+    {
+      "id": "EXODUS_08_P004_F2",
+      "box": [
+        0,
+        0.3138,
+        0.4668,
+        0.2083
+      ]
+    },
+    {
+      "id": "EXODUS_08_P004_F3",
+      "box": [
+        0.4707,
+        0.3138,
+        0.5293,
+        0.2083
+      ]
+    },
+    {
+      "id": "EXODUS_08_P004_F4",
+      "box": [
+        0,
+        0.5254,
+        1,
+        0.4746
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_08_P004_B012",
+      "panel": "EXODUS_08_P004_F1",
+      "order": 12,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.58,
+        0.0093,
+        0.38,
+        0.0622
+      ],
+      "tail": null,
+      "text_key": "exodus.8.p4.b12"
+    },
+    {
+      "id": "EXODUS_08_P004_B013",
+      "panel": "EXODUS_08_P004_F3",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7777,
+        0.318,
+        0.2117,
+        0.0312
+      ],
+      "tail": null,
+      "text_key": "exodus.8.p4.b13"
+    },
+    {
+      "id": "EXODUS_08_P004_B014",
+      "panel": "EXODUS_08_P004_F4",
+      "order": 14,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.02,
+        0.5349,
+        0.27,
+        0.0616
+      ],
+      "tail": [
+        0.155,
+        0.644
+      ],
+      "text_key": "exodus.8.p4.b14"
+    },
+    {
+      "id": "EXODUS_08_P004_B015",
+      "panel": "EXODUS_08_P004_F4",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.9241,
+        0.46,
+        0.0616
+      ],
+      "tail": null,
+      "text_key": "exodus.8.p4.b15"
+    }
+  ]
+}

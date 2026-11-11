@@ -1,0 +1,118 @@
+{
+  "id": "EXODUS_29_P003",
+  "book": "exodus",
+  "chapter": 29,
+  "page": 3,
+  "ref": "29:19-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_29_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_29_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4541,
+        0.4844
+      ]
+    },
+    {
+      "id": "EXODUS_29_P003_F2",
+      "box": [
+        0,
+        0.4902,
+        0.4541,
+        0.1777
+      ]
+    },
+    {
+      "id": "EXODUS_29_P003_F3",
+      "box": [
+        0.4658,
+        0,
+        0.5342,
+        0.2207
+      ]
+    },
+    {
+      "id": "EXODUS_29_P003_F4",
+      "box": [
+        0.4658,
+        0.2259,
+        0.5342,
+        0.1803
+      ]
+    },
+    {
+      "id": "EXODUS_29_P003_F5",
+      "box": [
+        0.4658,
+        0.4115,
+        0.5342,
+        0.2565
+      ]
+    },
+    {
+      "id": "EXODUS_29_P003_F6",
+      "box": [
+        0,
+        0.6745,
+        1,
+        0.3255
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_29_P003_B009",
+      "panel": "EXODUS_29_P003_F4",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4765,
+        0.2367,
+        0.1602,
+        0.0991
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p3.b9"
+    },
+    {
+      "id": "EXODUS_29_P003_B010",
+      "panel": "EXODUS_29_P003_F2",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0182,
+        0.6146,
+        0.4177,
+        0.0462
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p3.b10"
+    },
+    {
+      "id": "EXODUS_29_P003_B011",
+      "panel": "EXODUS_29_P003_F6",
+      "order": 11,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.6843,
+        0.7,
+        0.039
+      ],
+      "tail": null,
+      "text_key": "exodus.29.p3.b11"
+    }
+  ]
+}

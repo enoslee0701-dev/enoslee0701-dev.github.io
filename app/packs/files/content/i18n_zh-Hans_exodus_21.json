@@ -1,0 +1,211 @@
+{
+  "exodus.21.p1.b1": {
+    "text": "你在百姓面前所要立的典章是这样：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠在百⁠姓面⁠前所⁠要立的典⁠章是这⁠样："
+  },
+  "exodus.21.p1.b2": {
+    "text": "你若买希伯来人作奴仆，他必服事你六年；第七年他可以自由，白白地出去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你若买希⁠伯来⁠人作奴⁠仆，他必服事你六⁠年；第⁠七年他可⁠以自⁠由，白⁠白地出⁠去。"
+  },
+  "exodus.21.p1.b3": {
+    "text": "我爱我的主人和我的妻子儿女，不愿意自由出去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我爱我⁠的主⁠人和我⁠的妻⁠子儿⁠女，不愿⁠意自⁠由出⁠去。"
+  },
+  "exodus.21.p1.b4": {
+    "text": "……又要带他到门前，靠近门框，用锥子穿他的耳朵，他就永远服事主人。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……又⁠要带他到门⁠前，靠⁠近门⁠框，用锥⁠子穿他⁠的耳⁠朵，他就永⁠远服事主⁠人。"
+  },
+  "exodus.21.p2.b5": {
+    "text": "人若卖女儿作婢女，婢女不可像男仆那样出去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若卖女⁠儿作婢⁠女，婢⁠女不⁠可像男⁠仆那⁠样出⁠去。"
+  },
+  "exodus.21.p2.b6": {
+    "text": "主人若选定她给自己的儿子，就当待她如同女儿。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "主⁠人若选⁠定她给自⁠己的儿⁠子，就当待她如⁠同女⁠儿。"
+  },
+  "exodus.21.p2.b7": {
+    "text": "若另娶一个，那女子的吃食、衣服，并好合的事，仍不可减少。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若另娶一⁠个，那女⁠子的吃⁠食、衣⁠服，并好合的事，仍不⁠可减⁠少。"
+  },
+  "exodus.21.p2.b8": {
+    "text": "若不向她行这三样，她就可以不用钱赎，白白地出去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若不⁠向她行这三⁠样，她就可⁠以不⁠用钱赎，白⁠白地出⁠去。"
+  },
+  "exodus.21.p3.b9": {
+    "text": "打人以致打死的，必要把他治死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "打⁠人以⁠致打⁠死的，必⁠要把他治死。"
+  },
+  "exodus.21.p3.b10": {
+    "text": "人若不是埋伏着杀人，乃是神交在他手中，我就设下一个地方，他可以往那里逃跑。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:13"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若不⁠是埋⁠伏着杀⁠人，乃⁠是神交在他手⁠中，我就设⁠下一⁠个地⁠方，他可⁠以往那⁠里逃⁠跑。"
+  },
+  "exodus.21.p3.b11": {
+    "text": "拐带人口，或是把人卖了，或是留在他手下，必要把他治死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "拐⁠带人⁠口，或⁠是把人卖了，或⁠是留⁠在他手⁠下，必⁠要把他治死。"
+  },
+  "exodus.21.p3.b12": {
+    "text": "若再能起来扶杖而出，那打他的可算无罪；但要将他耽误的工夫用钱赔补，并要将他全然医好。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "若再能起⁠来扶⁠杖而⁠出，那打他⁠的可⁠算无⁠罪；但要将他耽⁠误的工⁠夫用钱赔补，并要将他全⁠然医好。"
+  },
+  "exodus.21.p4.b13": {
+    "text": "人若彼此争斗，伤害有孕的妇人……照审判官所断的，受罚。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若彼⁠此争⁠斗，伤⁠害有⁠孕的妇⁠人……照审⁠判官所断的，受罚。"
+  },
+  "exodus.21.p4.b14": {
+    "text": "以眼还眼，以牙还牙，以手还手，以脚还脚，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:24"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "以⁠眼还⁠眼，以⁠牙还⁠牙，以手还手，以脚还脚，"
+  },
+  "exodus.21.p4.b15": {
+    "text": "人若打坏了他奴仆或是婢女的一只眼，就要因他的眼放他去得以自由。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:26"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若打坏了他奴⁠仆或⁠是婢⁠女的一⁠只眼，就要⁠因他⁠的眼放他去得⁠以自⁠由。"
+  },
+  "exodus.21.p5.b16": {
+    "text": "倘若那牛素来是触人的，有人报告了牛主，他竟不把牛拴着……牛主也必治死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "倘⁠若那牛素来是触人⁠的，有⁠人报⁠告了牛主，他竟不⁠把牛拴着……牛主也必治死。"
+  },
+  "exodus.21.p5.b17": {
+    "text": "牛若触了奴仆或是婢女，必将银子三十舍客勒给他们的主人，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:32"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "牛若触了奴⁠仆或⁠是婢⁠女，必⁠将银⁠子三⁠十舍客勒给他⁠们的主⁠人，"
+  },
+  "exodus.21.p5.b18": {
+    "text": "人若敞着井口，或挖井不遮盖，有牛或驴掉在里头，井主要拿钱赔还本主人，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:33-34"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人若敞⁠着井⁠口，或挖⁠井不遮⁠盖，有牛或驴掉⁠在里⁠头，井主⁠要拿钱赔还本主⁠人，"
+  },
+  "exodus.21.p5.b19": {
+    "text": "这人的牛若伤了那人的牛，以至于死，他们要卖了活牛，平分价值，也要平分死牛。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Exodus 21:35"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这人⁠的牛若伤⁠了那人⁠的牛，以⁠至⁠于死，他⁠们要卖了活牛，平⁠分价⁠值，也⁠要平⁠分死牛。"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "exodus.20.p1.b1": {
+    "text": "神はこのすべての言葉を語って言われた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p1.b2": {
+    "text": "「わたしはあなたの神、主であって、あなたをエジプトの地、奴隷の家から導き出した者である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p1.b3": {
+    "text": "あなたはわたしのほかに、なにものをも神としてはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p2.b4": {
+    "text": "あなたは自分のために、刻んだ像を造ってはならない。上は天にあるもの、下は地にあるもの、また地の下の水のなかにあるものの、どんな形をも造ってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p2.b5": {
+    "text": "それにひれ伏してはならない。それに仕えてはならない。あなたの神、主であるわたしは、ねたむ神であるから、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p2.b6": {
+    "text": "わたしを憎むものは、父の罪を子に報いて、三四代に及ぼし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p2.b7": {
+    "text": "わたしを愛し、わたしの戒めを守るものには、恵みを施して、千代に至るであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p3.b8": {
+    "text": "あなたは、あなたの神、主の名を、みだりに唱えてはならない。主は、み名をみだりに唱えるものを、罰しないでは置かないであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p3.b9": {
+    "text": "安息日を覚えて、これを聖とせよ。 六日のあいだ働いてあなたのすべてのわざをせよ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:8-9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p3.b10": {
+    "text": "七日目はあなたの神、主の安息であるから、なんのわざをもしてはならない。あなたもあなたのむすこ、娘、しもべ、はしため、家畜、またあなたの門のうちにいる他国の人もそうである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p3.b11": {
+    "text": "主は六日のうちに、天と地と海と、その中のすべてのものを造って、七日目に休まれたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p4.b12": {
+    "text": "あなたの父と母を敬え。これは、あなたの神、主が賜わる地で、あなたが長く生きるためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p4.b13": {
+    "text": "あなたは殺してはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p4.b14": {
+    "text": "あなたは姦淫してはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p5.b15": {
+    "text": "あなたは盗んではならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p5.b16": {
+    "text": "あなたは隣人について、偽証してはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p5.b17": {
+    "text": "あなたは隣人の家をむさぼってはならない。隣人の妻、しもべ、はしため、牛、ろば、またすべて隣人のものをむさぼってはならない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p6.b18": {
+    "text": "民は皆、かみなりと、いなずまと、ラッパの音と、山の煙っているのとを見た。民は恐れおののき、遠く離れて立った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p6.b19": {
+    "text": "「あなたがわたしたちに語ってください。わたしたちは聞き従います。神がわたしたちに語られぬようにしてください。それでなければ、わたしたちは死ぬでしょう」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p6.b20": {
+    "text": "「恐れてはならない。神はあなたがたを試みるため、またその恐れをあなたがたの目の前において、あなたがたが罪を犯さないようにするために臨まれたのである」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p6.b21": {
+    "text": "そこで、民は遠く離れて立ったが、モーセは神のおられる濃い雲に近づいて行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p7.b22": {
+    "text": "あなたがたは、わたしが天からあなたがたと語るのを見た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p7.b23": {
+    "text": "あなたがたはわたしと並べて、何をも造ってはならない。銀の神々も、金の神々も、あなたがたのために、造ってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p7.b24": {
+    "text": "あなたはわたしのために土の祭壇を築き、その上にあなたの燔祭、酬恩祭、羊、牛をささげなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.20.p7.b25": {
+    "text": "わたしの名を覚えさせるすべての所で、わたしはあなたに臨んで、あなたを祝福するであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 20:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

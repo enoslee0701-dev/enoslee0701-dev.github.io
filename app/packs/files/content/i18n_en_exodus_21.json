@@ -1,0 +1,192 @@
+{
+  "exodus.21.p1.b1": {
+    "text": "“These are the ordinances that you are to set before them:",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p1.b2": {
+    "text": "If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p1.b3": {
+    "text": "I love my master and my wife and children; I do not want to go free",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p1.b4": {
+    "text": "And he shall take him to the door or doorpost and pierce his ear with an awl. Then he shall serve his master for life.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b5": {
+    "text": "And if a man sells his daughter as a servant, she is not to go free as the menservants do.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b6": {
+    "text": "And if he chooses her for his son, he must deal with her as with a daughter.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b7": {
+    "text": "If he takes another wife, he must not reduce the food, clothing, or marital rights of his first wife.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p2.b8": {
+    "text": "If, however, he does not provide her with these three things, she is free to go without monetary payment.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b9": {
+    "text": "Whoever strikes and kills a man must surely be put to death.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b10": {
+    "text": "If, however, he did not lie in wait, but God allowed it to happen, then I will appoint for you a place where he may flee.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b11": {
+    "text": "Whoever kidnaps another man must be put to death, whether he sells him or the man is found in his possession.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p3.b12": {
+    "text": "then the one who struck him shall go unpunished, as long as the other can get up and walk around outside with his staff. Nevertheless, he must compensate the man for his lost work and see that he is completely healed.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p4.b13": {
+    "text": "If men who are fighting strike a pregnant woman … he shall surely be fined as the woman’s husband demands and as the court allows.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p4.b14": {
+    "text": "eye for eye, tooth for tooth, hand for hand, foot for foot,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p4.b15": {
+    "text": "If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b16": {
+    "text": "But if the ox has a habit of goring, and its owner has been warned yet does not restrain it … its owner must also be put to death.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b17": {
+    "text": "If the ox gores a manservant or maidservant, the owner must pay thirty shekels of silver to the master of that servant,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b18": {
+    "text": "If a man opens or digs a pit and fails to cover it, and an ox or a donkey falls into it, the owner of the pit shall make restitution; he must pay its owner,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:33-34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.21.p5.b19": {
+    "text": "If a man’s ox injures his neighbor’s ox and it dies, they must sell the live one and divide the proceeds; they also must divide the dead animal.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Exodus 21:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

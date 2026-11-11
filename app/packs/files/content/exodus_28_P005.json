@@ -1,0 +1,100 @@
+{
+  "id": "EXODUS_28_P005",
+  "book": "exodus",
+  "chapter": 28,
+  "page": 5,
+  "ref": "28:36-43",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_28_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_28_P005_F1",
+      "box": [
+        0,
+        0,
+        0.4629,
+        0.252
+      ]
+    },
+    {
+      "id": "EXODUS_28_P005_F2",
+      "box": [
+        0.4736,
+        0,
+        0.5264,
+        0.252
+      ]
+    },
+    {
+      "id": "EXODUS_28_P005_F3",
+      "box": [
+        0,
+        0.2572,
+        1,
+        0.2279
+      ]
+    },
+    {
+      "id": "EXODUS_28_P005_F4",
+      "box": [
+        0,
+        0.4902,
+        1,
+        0.5098
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_28_P005_B014",
+      "panel": "EXODUS_28_P005_F1",
+      "order": 14,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0231,
+        0.1915,
+        0.4166,
+        0.0529
+      ],
+      "tail": null,
+      "text_key": "exodus.28.p5.b14"
+    },
+    {
+      "id": "EXODUS_28_P005_B015",
+      "panel": "EXODUS_28_P005_F3",
+      "order": 15,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3,
+        0.264,
+        0.66,
+        0.0296
+      ],
+      "tail": null,
+      "text_key": "exodus.28.p5.b15"
+    },
+    {
+      "id": "EXODUS_28_P005_B016",
+      "panel": "EXODUS_28_P005_F4",
+      "order": 16,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5055,
+        0.39,
+        0.0764
+      ],
+      "tail": null,
+      "text_key": "exodus.28.p5.b16"
+    }
+  ]
+}

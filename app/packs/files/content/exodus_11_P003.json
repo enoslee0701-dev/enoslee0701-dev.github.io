@@ -1,0 +1,121 @@
+{
+  "id": "EXODUS_11_P003",
+  "book": "exodus",
+  "chapter": 11,
+  "page": 3,
+  "ref": "11:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_11_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_11_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2298
+      ]
+    },
+    {
+      "id": "EXODUS_11_P003_F2",
+      "box": [
+        0,
+        0.2318,
+        0.47,
+        0.5892
+      ]
+    },
+    {
+      "id": "EXODUS_11_P003_F3",
+      "box": [
+        0.355,
+        0.2318,
+        0.645,
+        0.5892
+      ]
+    },
+    {
+      "id": "EXODUS_11_P003_F4",
+      "box": [
+        0,
+        0.8236,
+        1,
+        0.1764
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_11_P003_B009",
+      "panel": "EXODUS_11_P003_F1",
+      "order": 9,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.0069,
+        0.46,
+        0.0551
+      ],
+      "tail": [
+        0.73,
+        0.085
+      ],
+      "text_key": "exodus.11.p3.b9"
+    },
+    {
+      "id": "EXODUS_11_P003_B010",
+      "panel": "EXODUS_11_P003_F2",
+      "order": 10,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0188,
+        0.2495,
+        0.423,
+        0.0942
+      ],
+      "tail": [
+        0.2303,
+        0.4026
+      ],
+      "text_key": "exodus.11.p3.b10"
+    },
+    {
+      "id": "EXODUS_11_P003_B011",
+      "panel": "EXODUS_11_P003_F3",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7549,
+        0.7267,
+        0.2322,
+        0.0765
+      ],
+      "tail": null,
+      "text_key": "exodus.11.p3.b11"
+    },
+    {
+      "id": "EXODUS_11_P003_B012",
+      "panel": "EXODUS_11_P003_F4",
+      "order": 12,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.8377,
+        0.5,
+        0.1411
+      ],
+      "tail": null,
+      "text_key": "exodus.11.p3.b12"
+    }
+  ]
+}

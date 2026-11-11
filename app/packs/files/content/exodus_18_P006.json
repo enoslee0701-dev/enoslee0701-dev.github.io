@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_18_P006",
+  "book": "exodus",
+  "chapter": 18,
+  "page": 6,
+  "ref": "18:24-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_18_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_18_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1888
+      ]
+    },
+    {
+      "id": "EXODUS_18_P006_F2",
+      "box": [
+        0,
+        0.1934,
+        1,
+        0.3327
+      ]
+    },
+    {
+      "id": "EXODUS_18_P006_F3",
+      "box": [
+        0,
+        0.5306,
+        1,
+        0.2669
+      ]
+    },
+    {
+      "id": "EXODUS_18_P006_F4",
+      "box": [
+        0,
+        0.8014,
+        1,
+        0.1986
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_18_P006_B020",
+      "panel": "EXODUS_18_P006_F1",
+      "order": 20,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0038,
+        0.44,
+        0.0339
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p6.b20"
+    },
+    {
+      "id": "EXODUS_18_P006_B021",
+      "panel": "EXODUS_18_P006_F2",
+      "order": 21,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2001,
+        0.58,
+        0.0532
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p6.b21"
+    },
+    {
+      "id": "EXODUS_18_P006_B022",
+      "panel": "EXODUS_18_P006_F3",
+      "order": 22,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.5359,
+        0.92,
+        0.0587
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p6.b22"
+    },
+    {
+      "id": "EXODUS_18_P006_B023",
+      "panel": "EXODUS_18_P006_F4",
+      "order": 23,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.24,
+        0.8074,
+        0.32,
+        0.0317
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p6.b23"
+    }
+  ]
+}

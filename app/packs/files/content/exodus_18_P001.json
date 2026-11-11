@@ -1,0 +1,118 @@
+{
+  "id": "EXODUS_18_P001",
+  "book": "exodus",
+  "chapter": 18,
+  "page": 1,
+  "ref": "18:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_18_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_18_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3359
+      ]
+    },
+    {
+      "id": "EXODUS_18_P001_F2",
+      "box": [
+        0,
+        0.3385,
+        0.3828,
+        0.3229
+      ]
+    },
+    {
+      "id": "EXODUS_18_P001_F3",
+      "box": [
+        0.3887,
+        0.3385,
+        0.6113,
+        0.3229
+      ]
+    },
+    {
+      "id": "EXODUS_18_P001_F4",
+      "box": [
+        0,
+        0.6647,
+        1,
+        0.3353
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_18_P001_B001",
+      "panel": "EXODUS_18_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0101,
+        0.52,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p1.b1"
+    },
+    {
+      "id": "EXODUS_18_P001_B002",
+      "panel": "EXODUS_18_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0153,
+        0.345,
+        0.3521,
+        0.0645
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p1.b2"
+    },
+    {
+      "id": "EXODUS_18_P001_B003",
+      "panel": "EXODUS_18_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.407,
+        0.3482,
+        0.379,
+        0.0774
+      ],
+      "tail": null,
+      "text_key": "exodus.18.p1.b3"
+    },
+    {
+      "id": "EXODUS_18_P001_B004",
+      "panel": "EXODUS_18_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6748,
+        0.37,
+        0.0536
+      ],
+      "tail": [
+        0.215,
+        0.7619
+      ],
+      "text_key": "exodus.18.p1.b4"
+    }
+  ]
+}

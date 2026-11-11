@@ -1,0 +1,118 @@
+{
+  "id": "EXODUS_34_P003",
+  "book": "exodus",
+  "chapter": 34,
+  "page": 3,
+  "ref": "34:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_34_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_34_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ]
+    },
+    {
+      "id": "EXODUS_34_P003_F2",
+      "box": [
+        0,
+        0.2344,
+        1,
+        0.4733
+      ]
+    },
+    {
+      "id": "EXODUS_34_P003_F3",
+      "box": [
+        0,
+        0.7109,
+        0.4961,
+        0.2891
+      ]
+    },
+    {
+      "id": "EXODUS_34_P003_F4",
+      "box": [
+        0.501,
+        0.7109,
+        0.499,
+        0.2891
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_34_P003_B007",
+      "panel": "EXODUS_34_P003_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0092,
+        0.4,
+        0.06
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p3.b7"
+    },
+    {
+      "id": "EXODUS_34_P003_B008",
+      "panel": "EXODUS_34_P003_F2",
+      "order": 8,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.05,
+        0.2486,
+        0.9,
+        0.0946
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p3.b8"
+    },
+    {
+      "id": "EXODUS_34_P003_B009",
+      "panel": "EXODUS_34_P003_F3",
+      "order": 9,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0248,
+        0.7196,
+        0.4464,
+        0.0636
+      ],
+      "tail": null,
+      "text_key": "exodus.34.p3.b9"
+    },
+    {
+      "id": "EXODUS_34_P003_B010",
+      "panel": "EXODUS_34_P003_F4",
+      "order": 10,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.7605,
+        0.7196,
+        0.2245,
+        0.0693
+      ],
+      "tail": [
+        0.8728,
+        0.8178
+      ],
+      "text_key": "exodus.34.p3.b10"
+    }
+  ]
+}

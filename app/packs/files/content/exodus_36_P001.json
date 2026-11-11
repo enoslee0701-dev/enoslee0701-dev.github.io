@@ -1,0 +1,121 @@
+{
+  "id": "EXODUS_36_P001",
+  "book": "exodus",
+  "chapter": 36,
+  "page": 1,
+  "ref": "36:1-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_36_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_36_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2617
+      ]
+    },
+    {
+      "id": "EXODUS_36_P001_F2",
+      "box": [
+        0,
+        0.2643,
+        0.583,
+        0.3424
+      ]
+    },
+    {
+      "id": "EXODUS_36_P001_F3",
+      "box": [
+        0.5889,
+        0.2643,
+        0.4111,
+        0.3424
+      ]
+    },
+    {
+      "id": "EXODUS_36_P001_F4",
+      "box": [
+        0,
+        0.61,
+        1,
+        0.39
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_36_P001_B001",
+      "panel": "EXODUS_36_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0105,
+        0.45,
+        0.0575
+      ],
+      "tail": null,
+      "text_key": "exodus.36.p1.b1"
+    },
+    {
+      "id": "EXODUS_36_P001_B002",
+      "panel": "EXODUS_36_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0117,
+        0.5553,
+        0.3614,
+        0.0479
+      ],
+      "tail": [
+        0.1924,
+        0.6067
+      ],
+      "text_key": "exodus.36.p1.b2"
+    },
+    {
+      "id": "EXODUS_36_P001_B003",
+      "panel": "EXODUS_36_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5971,
+        0.2746,
+        0.1233,
+        0.0821
+      ],
+      "tail": [
+        0.6587,
+        0.3909
+      ],
+      "text_key": "exodus.36.p1.b3"
+    },
+    {
+      "id": "EXODUS_36_P001_B004",
+      "panel": "EXODUS_36_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.6178,
+        0.32,
+        0.039
+      ],
+      "tail": null,
+      "text_key": "exodus.36.p1.b4"
+    }
+  ]
+}

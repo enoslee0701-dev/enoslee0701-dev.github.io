@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_09_P008",
+  "book": "exodus",
+  "chapter": 9,
+  "page": 8,
+  "ref": "9:31-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_09_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_09_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1797
+      ]
+    },
+    {
+      "id": "EXODUS_09_P008_F2",
+      "box": [
+        0,
+        0.1829,
+        1,
+        0.4642
+      ]
+    },
+    {
+      "id": "EXODUS_09_P008_F3",
+      "box": [
+        0,
+        0.6504,
+        0.4883,
+        0.3496
+      ]
+    },
+    {
+      "id": "EXODUS_09_P008_F4",
+      "box": [
+        0.4971,
+        0.6504,
+        0.5029,
+        0.3496
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_09_P008_B027",
+      "panel": "EXODUS_09_P008_F1",
+      "order": 27,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0072,
+        0.92,
+        0.0431
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p8.b27"
+    },
+    {
+      "id": "EXODUS_09_P008_B028",
+      "panel": "EXODUS_09_P008_F2",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5728,
+        0.5,
+        0.0603
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p8.b28"
+    },
+    {
+      "id": "EXODUS_09_P008_B029",
+      "panel": "EXODUS_09_P008_F3",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0146,
+        0.6609,
+        0.1953,
+        0.0839
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p8.b29"
+    },
+    {
+      "id": "EXODUS_09_P008_B030",
+      "panel": "EXODUS_09_P008_F4",
+      "order": 30,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5172,
+        0.6609,
+        0.4526,
+        0.0699
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p8.b30"
+    }
+  ]
+}

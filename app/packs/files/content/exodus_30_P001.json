@@ -1,0 +1,115 @@
+{
+  "id": "EXODUS_30_P001",
+  "book": "exodus",
+  "chapter": 30,
+  "page": 1,
+  "ref": "30:1-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_30_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_30_P001_F1",
+      "box": [
+        0,
+        0,
+        0.4961,
+        0.2904
+      ]
+    },
+    {
+      "id": "EXODUS_30_P001_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.2904
+      ]
+    },
+    {
+      "id": "EXODUS_30_P001_F3",
+      "box": [
+        0,
+        0.2949,
+        1,
+        0.4303
+      ]
+    },
+    {
+      "id": "EXODUS_30_P001_F4",
+      "box": [
+        0,
+        0.7292,
+        1,
+        0.2708
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_30_P001_B001",
+      "panel": "EXODUS_30_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0149,
+        0.0087,
+        0.2877,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "exodus.30.p1.b1"
+    },
+    {
+      "id": "EXODUS_30_P001_B002",
+      "panel": "EXODUS_30_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5306,
+        0.0087,
+        0.4199,
+        0.058
+      ],
+      "tail": null,
+      "text_key": "exodus.30.p1.b2"
+    },
+    {
+      "id": "EXODUS_30_P001_B003",
+      "panel": "EXODUS_30_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.58,
+        0.3121,
+        0.4,
+        0.086
+      ],
+      "tail": null,
+      "text_key": "exodus.30.p1.b3"
+    },
+    {
+      "id": "EXODUS_30_P001_B004",
+      "panel": "EXODUS_30_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.74,
+        0.45,
+        0.0541
+      ],
+      "tail": null,
+      "text_key": "exodus.30.p1.b4"
+    }
+  ]
+}

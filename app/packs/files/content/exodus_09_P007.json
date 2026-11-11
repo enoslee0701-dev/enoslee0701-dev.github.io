@@ -1,0 +1,127 @@
+{
+  "id": "EXODUS_09_P007",
+  "book": "exodus",
+  "chapter": 9,
+  "page": 7,
+  "ref": "9:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_09_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_09_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2383
+      ]
+    },
+    {
+      "id": "EXODUS_09_P007_F2",
+      "box": [
+        0,
+        0.2409,
+        1,
+        0.4264
+      ]
+    },
+    {
+      "id": "EXODUS_09_P007_F3",
+      "box": [
+        0,
+        0.6699,
+        0.4082,
+        0.3301
+      ]
+    },
+    {
+      "id": "EXODUS_09_P007_F4",
+      "box": [
+        0.4141,
+        0.6699,
+        0.5859,
+        0.3301
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_09_P007_B023",
+      "panel": "EXODUS_09_P007_F2",
+      "order": 23,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.32,
+        0.2494,
+        0.27,
+        0.0852
+      ],
+      "tail": [
+        0.455,
+        0.3772
+      ],
+      "text_key": "exodus.9.p7.b23"
+    },
+    {
+      "id": "EXODUS_09_P007_B024",
+      "panel": "EXODUS_09_P007_F3",
+      "order": 24,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0122,
+        0.6798,
+        0.1714,
+        0.099
+      ],
+      "tail": [
+        0.0979,
+        0.8118
+      ],
+      "text_key": "exodus.9.p7.b24"
+    },
+    {
+      "id": "EXODUS_09_P007_B025",
+      "panel": "EXODUS_09_P007_F4",
+      "order": 25,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4375,
+        0.6798,
+        0.5273,
+        0.066
+      ],
+      "tail": [
+        0.7011,
+        0.7788
+      ],
+      "text_key": "exodus.9.p7.b25"
+    },
+    {
+      "id": "EXODUS_09_P007_B026",
+      "panel": "EXODUS_09_P007_F4",
+      "order": 26,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4375,
+        0.9472,
+        0.539,
+        0.0429
+      ],
+      "tail": [
+        0.707,
+        1
+      ],
+      "text_key": "exodus.9.p7.b26"
+    }
+  ]
+}

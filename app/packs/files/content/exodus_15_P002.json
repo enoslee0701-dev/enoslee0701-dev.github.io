@@ -1,0 +1,133 @@
+{
+  "id": "EXODUS_15_P002",
+  "book": "exodus",
+  "chapter": 15,
+  "page": 2,
+  "ref": "15:4-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_15_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_15_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3151
+      ]
+    },
+    {
+      "id": "EXODUS_15_P002_F2",
+      "box": [
+        0,
+        0.3171,
+        1,
+        0.4323
+      ]
+    },
+    {
+      "id": "EXODUS_15_P002_F3",
+      "box": [
+        0.494,
+        0.54,
+        0.494,
+        0.192
+      ]
+    },
+    {
+      "id": "EXODUS_15_P002_F4",
+      "box": [
+        0,
+        0.752,
+        1,
+        0.248
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_15_P002_B006",
+      "panel": "EXODUS_15_P002_F1",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0095,
+        0.9,
+        0.0567
+      ],
+      "tail": null,
+      "text_key": "exodus.15.p2.b6"
+    },
+    {
+      "id": "EXODUS_15_P002_B007",
+      "panel": "EXODUS_15_P002_F1",
+      "order": 7,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2584,
+        0.9,
+        0.0441
+      ],
+      "tail": null,
+      "text_key": "exodus.15.p2.b7"
+    },
+    {
+      "id": "EXODUS_15_P002_B008",
+      "panel": "EXODUS_15_P002_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3301,
+        0.4,
+        0.0864
+      ],
+      "tail": null,
+      "text_key": "exodus.15.p2.b8"
+    },
+    {
+      "id": "EXODUS_15_P002_B009",
+      "panel": "EXODUS_15_P002_F3",
+      "order": 9,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5138,
+        0.5458,
+        0.4446,
+        0.0499
+      ],
+      "tail": [
+        0.7361,
+        0.6149
+      ],
+      "text_key": "exodus.15.p2.b9"
+    },
+    {
+      "id": "EXODUS_15_P002_B010",
+      "panel": "EXODUS_15_P002_F4",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.7594,
+        0.9,
+        0.0545
+      ],
+      "tail": null,
+      "text_key": "exodus.15.p2.b10"
+    }
+  ]
+}

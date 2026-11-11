@@ -1,0 +1,142 @@
+{
+  "exodus.22.p1.b1": {
+    "text": "もし人が牛または羊を盗んで、これを殺し、あるいはこれを売るならば、彼は一頭の牛のために五頭の牛をもって、一頭の羊のために四頭の羊をもって償わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p1.b2": {
+    "text": "もし人が畑またはぶどう畑のものを食わせ、その家畜を放って他人の畑のものを食わせた時は、自分の畑の最も良い物と、ぶどう畑の最も良い物をもって、これを償わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p1.b3": {
+    "text": "もし火が出て、いばらに移り、積みあげた麦束、または立穂、または畑を焼いたならば、その火を燃やした者は、必ずこれを償わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b4": {
+    "text": "もし人が金銭または物品の保管を隣人に託し、それが隣人の家から盗まれた時、その盗びとが見つけられたならば、これを二倍にして償わせなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b5": {
+    "text": "双方の間に、隣人の持ち物に手をかけなかったという誓いが、主の前になされなければならない。そうすれば、持ち主はこれを受け入れ、隣人は償うに及ばない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b6": {
+    "text": "もしそれが裂き殺された時は、それを証拠として持って来るならば、その裂き殺されたものは償うに及ばない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p2.b7": {
+    "text": "もし人が隣人から家畜を借りて、それが傷つき、または死ぬ場合、その持ち主がそれと共にいない時は、必ずこれを償わなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p3.b8": {
+    "text": "あなたは寄留の他国人を苦しめてはならない。また、これをしえたげてはならない。あなたがたも、かつてエジプトの国で、寄留の他国人であったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p3.b9": {
+    "text": "あなたがたはすべて寡婦、または孤児を悩ましてはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p3.b10": {
+    "text": "もしあなたが彼らを悩まして、彼らがわたしにむかって叫ぶならば、わたしは必ずその叫びを聞くであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b11": {
+    "text": "あなたが、共におるわたしの民の貧しい者に金を貸す時は、これに対して金貸しのようになってはならない。これから利子を取ってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b12": {
+    "text": "もし隣人の上着を質に取るならば、日の入るまでにそれを返さなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b13": {
+    "text": "これは彼の身をおおう、ただ一つの物、彼の膚のための着物だからである。彼は何を着て寝ることができよう。彼がわたしにむかって叫ぶならば、わたしはこれに聞くであろう。わたしはあわれみ深いからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "exodus.22.p4.b14": {
+    "text": "あなたがたは、わたしに対して聖なる民とならなければならない。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Exodus 22:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "EXODUS_09_P005",
+  "book": "exodus",
+  "chapter": 9,
+  "page": 5,
+  "ref": "9:18-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EXODUS_09_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EXODUS_09_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5449,
+        0.403
+      ]
+    },
+    {
+      "id": "EXODUS_09_P005_F2",
+      "box": [
+        0.5537,
+        0,
+        0.4463,
+        0.403
+      ]
+    },
+    {
+      "id": "EXODUS_09_P005_F3",
+      "box": [
+        0,
+        0.4082,
+        0.6318,
+        0.5918
+      ]
+    },
+    {
+      "id": "EXODUS_09_P005_F4",
+      "box": [
+        0.6396,
+        0.4082,
+        0.3604,
+        0.5918
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EXODUS_09_P005_B016",
+      "panel": "EXODUS_09_P005_F1",
+      "order": 16,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0218,
+        0.0121,
+        0.425,
+        0.0886
+      ],
+      "tail": [
+        0.2343,
+        0.141
+      ],
+      "text_key": "exodus.9.p5.b16"
+    },
+    {
+      "id": "EXODUS_09_P005_B017",
+      "panel": "EXODUS_09_P005_F2",
+      "order": 17,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5716,
+        0.0161,
+        0.4016,
+        0.0967
+      ],
+      "tail": [
+        0.7724,
+        0.1531
+      ],
+      "text_key": "exodus.9.p5.b17"
+    },
+    {
+      "id": "EXODUS_09_P005_B018",
+      "panel": "EXODUS_09_P005_F3",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0253,
+        0.426,
+        0.5686,
+        0.0828
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p5.b18"
+    },
+    {
+      "id": "EXODUS_09_P005_B019",
+      "panel": "EXODUS_09_P005_F4",
+      "order": 19,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.654,
+        0.426,
+        0.3243,
+        0.0828
+      ],
+      "tail": null,
+      "text_key": "exodus.9.p5.b19"
+    }
+  ]
+}
