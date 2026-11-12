@@ -1,0 +1,115 @@
+{
+  "id": "KINGS1_03_P003",
+  "book": "kings1",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:10-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3509
+      ]
+    },
+    {
+      "id": "KINGS1_03_P003_F2",
+      "box": [
+        0,
+        0.3555,
+        0.4912,
+        0.2969
+      ]
+    },
+    {
+      "id": "KINGS1_03_P003_F3",
+      "box": [
+        0.498,
+        0.3555,
+        0.502,
+        0.2969
+      ]
+    },
+    {
+      "id": "KINGS1_03_P003_F4",
+      "box": [
+        0,
+        0.6569,
+        1,
+        0.3431
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_03_P003_B001",
+      "panel": "KINGS1_03_P003_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.0105,
+        0.92,
+        0.0912
+      ],
+      "tail": null,
+      "text_key": "kings1.3.p3.b1"
+    },
+    {
+      "id": "KINGS1_03_P003_B002",
+      "panel": "KINGS1_03_P003_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0196,
+        0.5693,
+        0.4519,
+        0.0712
+      ],
+      "tail": null,
+      "text_key": "kings1.3.p3.b2"
+    },
+    {
+      "id": "KINGS1_03_P003_B003",
+      "panel": "KINGS1_03_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5131,
+        0.3644,
+        0.1907,
+        0.0534
+      ],
+      "tail": null,
+      "text_key": "kings1.3.p3.b3"
+    },
+    {
+      "id": "KINGS1_03_P003_B004",
+      "panel": "KINGS1_03_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.6672,
+        0.92,
+        0.0617
+      ],
+      "tail": null,
+      "text_key": "kings1.3.p3.b4"
+    }
+  ]
+}

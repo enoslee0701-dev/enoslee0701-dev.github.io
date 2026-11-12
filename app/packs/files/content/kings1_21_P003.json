@@ -1,0 +1,133 @@
+{
+  "id": "KINGS1_21_P003",
+  "book": "kings1",
+  "chapter": 21,
+  "page": 3,
+  "ref": "21:8-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_21_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_21_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.286
+      ]
+    },
+    {
+      "id": "KINGS1_21_P003_F2",
+      "box": [
+        0,
+        0.29,
+        0.491,
+        0.354
+      ]
+    },
+    {
+      "id": "KINGS1_21_P003_F3",
+      "box": [
+        0.4975,
+        0.29,
+        0.5025,
+        0.354
+      ]
+    },
+    {
+      "id": "KINGS1_21_P003_F4",
+      "box": [
+        0,
+        0.6497,
+        1,
+        0.3503
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_21_P003_B001",
+      "panel": "KINGS1_21_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0114,
+        0.45,
+        0.0858
+      ],
+      "tail": null,
+      "text_key": "kings1.21.p3.b1"
+    },
+    {
+      "id": "KINGS1_21_P003_B002",
+      "panel": "KINGS1_21_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0196,
+        0.3006,
+        0.4517,
+        0.0778
+      ],
+      "tail": null,
+      "text_key": "kings1.21.p3.b2"
+    },
+    {
+      "id": "KINGS1_21_P003_B003",
+      "panel": "KINGS1_21_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6583,
+        0.3006,
+        0.211,
+        0.0778
+      ],
+      "tail": [
+        0.7638,
+        0.4138
+      ],
+      "text_key": "kings1.21.p3.b3"
+    },
+    {
+      "id": "KINGS1_21_P003_B004",
+      "panel": "KINGS1_21_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6602,
+        0.55,
+        0.07
+      ],
+      "tail": null,
+      "text_key": "kings1.21.p3.b4"
+    },
+    {
+      "id": "KINGS1_21_P003_B005",
+      "panel": "KINGS1_21_P003_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.944,
+        0.47,
+        0.0455
+      ],
+      "tail": null,
+      "text_key": "kings1.21.p3.b5"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "KINGS1_18_P002",
+  "book": "kings1",
+  "chapter": 18,
+  "page": 2,
+  "ref": "18:7-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_18_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_18_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2188
+      ]
+    },
+    {
+      "id": "KINGS1_18_P002_F2",
+      "box": [
+        0,
+        0.2227,
+        0.583,
+        0.3841
+      ]
+    },
+    {
+      "id": "KINGS1_18_P002_F3",
+      "box": [
+        0.5908,
+        0.2227,
+        0.4092,
+        0.3841
+      ]
+    },
+    {
+      "id": "KINGS1_18_P002_F4",
+      "box": [
+        0,
+        0.6107,
+        1,
+        0.3893
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_18_P002_B001",
+      "panel": "KINGS1_18_P002_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2915,
+        0.2381,
+        0.2681,
+        0.0768
+      ],
+      "tail": [
+        0.4256,
+        0.3533
+      ],
+      "text_key": "kings1.18.p2.b1"
+    },
+    {
+      "id": "KINGS1_18_P002_B002",
+      "panel": "KINGS1_18_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6113,
+        0.4993,
+        0.3682,
+        0.0921
+      ],
+      "tail": [
+        0.7954,
+        0.6068
+      ],
+      "text_key": "kings1.18.p2.b2"
+    },
+    {
+      "id": "KINGS1_18_P002_B003",
+      "panel": "KINGS1_18_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.6224,
+        0.46,
+        0.0778
+      ],
+      "tail": [
+        0.26,
+        0.7391
+      ],
+      "text_key": "kings1.18.p2.b3"
+    },
+    {
+      "id": "KINGS1_18_P002_B004",
+      "panel": "KINGS1_18_P002_F4",
+      "order": 4,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.53,
+        0.6224,
+        0.44,
+        0.07
+      ],
+      "tail": [
+        0.75,
+        0.7313
+      ],
+      "text_key": "kings1.18.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "KINGS1_07_P002",
+  "book": "kings1",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:9-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_07_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5039,
+        0.3568
+      ]
+    },
+    {
+      "id": "KINGS1_07_P002_F2",
+      "box": [
+        0.5117,
+        0,
+        0.4883,
+        0.3568
+      ]
+    },
+    {
+      "id": "KINGS1_07_P002_F3",
+      "box": [
+        0,
+        0.3613,
+        1,
+        0.3581
+      ]
+    },
+    {
+      "id": "KINGS1_07_P002_F4",
+      "box": [
+        0,
+        0.7227,
+        1,
+        0.2773
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_07_P002_B001",
+      "panel": "KINGS1_07_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0202,
+        0.0143,
+        0.4434,
+        0.0784
+      ],
+      "tail": null,
+      "text_key": "kings1.7.p2.b1"
+    },
+    {
+      "id": "KINGS1_07_P002_B002",
+      "panel": "KINGS1_07_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5312,
+        0.0143,
+        0.4297,
+        0.0713
+      ],
+      "tail": null,
+      "text_key": "kings1.7.p2.b2"
+    },
+    {
+      "id": "KINGS1_07_P002_B003",
+      "panel": "KINGS1_07_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.372,
+        0.45,
+        0.0716
+      ],
+      "tail": null,
+      "text_key": "kings1.7.p2.b3"
+    },
+    {
+      "id": "KINGS1_07_P002_B004",
+      "panel": "KINGS1_07_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.7338,
+        0.32,
+        0.061
+      ],
+      "tail": null,
+      "text_key": "kings1.7.p2.b4"
+    }
+  ]
+}

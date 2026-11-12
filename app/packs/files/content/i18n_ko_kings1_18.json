@@ -1,0 +1,492 @@
+{
+  "kings1.18.p1.b1": {
+    "text": "너는 가서 아합에게 보이라 내가 비를 지면에 내리리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p1.b2": {
+    "text": "그 때에 사마리아에 기근이 심하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p1.b3": {
+    "text": "오바댜가 선지자 일백인을 가져 오십인씩 굴에 숨기고 떡과 물을 먹였었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p1.b4": {
+    "text": "두사람이 두루 다닐 땅을 나누어 아합은 홀로 이 길로 가고 오바댜는 홀로 저 길로 가니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p2.b1": {
+    "text": "내 주 엘리야여 당신이시니이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p2.b2": {
+    "text": "그러하다 가서 네 주에게 고하기를 엘리야가 여기 있다 하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p2.b3": {
+    "text": "내가 무슨 죄를 범하였기에 당신이 당신의 종을 아합의 손에 붙여 죽이게 하려 하시나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p2.b4": {
+    "text": "내가 당신을 떠나간 후에 여호와의 신이 나의 알지 못하는 곳으로 당신을 이끌어 가시리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p3.b1": {
+    "text": "…내가 여호와의 선지자 중에 일백인을 오십 인씩 굴에 숨기고 떡과 물로 먹인 일이 내 주께 들리지 아니하였나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p3.b2": {
+    "text": "내가 모시는 만군의 여호와의 사심을 가리켜 맹세하노니 내가 오늘날 아합에게 보이리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p3.b3": {
+    "text": "오바댜가 가서 아합을 만나 고하매 아합이 엘리야를 만나려 하여 가다가",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p4.b1": {
+    "text": "이스라엘을 괴롭게 하는 자여 네냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p4.b2": {
+    "text": "내가 이스라엘을 괴롭게 한 것이 아니라 당신과 당신의 아비의 집이 괴롭게 하였으니 이는 여호와의 명령을 버렸고 당신이 바알들을 좇았음이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p4.b3": {
+    "text": "그런즉 보내어 온 이스라엘과 … 바알의 선지자 사백 오십인과 … 갈멜 산으로 모아 내게로 나오게 하소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p5.b1": {
+    "text": "너희가 어느 때까지 두 사이에서 머뭇머뭇 하려느냐 여호와가 만일 하나님이면 그를 좇고 바알이 만일 하나님이면 그를 좇을지니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p5.b2": {
+    "text": "백성이 한 말도 대답지 아니하는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p5.b3": {
+    "text": "여호와의 선지자는 나만 홀로 남았으나 바알의 선지자는 사백 오십인이로다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p5.b4": {
+    "text": "그 말이 옳도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p6.b1": {
+    "text": "너희는 많으니 먼저 한 송아지를 택하여 잡고 너희 신의 이름을 부르라 그러나 불을 놓지 말라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p6.b2": {
+    "text": "바알이여 우리에게 응답하소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p6.b3": {
+    "text": "아무 소리도 없고 아무 응답하는 자도 없으므로 저희가 그 쌓은 단 주위에서 뛰놀더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p6.b4": {
+    "text": "오정에 이르러는",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p6.b5": {
+    "text": "큰 소리로 부르라 저는 신인즉 묵상하고 있는지 혹 잠간 나갔는지 혹 길을 행하는지 혹 잠이 들어서 깨워야 할 것인지",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p7.b1": {
+    "text": "이에 저희가 큰 소리로 부르고 그 규례를 따라 피가 흐르기까지 칼과 창으로 그 몸을 상하게 하더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p7.b2": {
+    "text": "이같이 하여 오정이 지났으나 저희가 오히려 진언을 하여 저녁 소제 드릴 때까지 이를지라도",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p7.b3": {
+    "text": "아무 소리도 없고 아무 응답하는 자도 없고 아무 돌아보는 자도 없더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p8.b1": {
+    "text": "내게로 가까이 오라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p8.b2": {
+    "text": "야곱의 아들들의 지파의 수효를 따라 열 두 돌을 취하니 … 저가 여호와의 이름을 의지하여 그 돌로 단을 쌓고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:31-32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p8.b3": {
+    "text": "통 넷에 물을 채워다가 번제물과 나무 위에 부으라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p8.b4": {
+    "text": "세 번 그리하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p8.b5": {
+    "text": "물이 단으로 두루 흐르고 도랑에도 물이 가득하게 되었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p9.b1": {
+    "text": "저녁 소제 드릴 때에 이르러 선지자 엘리야가 나아가서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p9.b2": {
+    "text": "아브라함과 이삭과 이스라엘의 하나님 여호와여 주께서 이스라엘 중에서 하나님이 되심과 … 오늘날 알게 하옵소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p9.b3": {
+    "text": "여호와여 내게 응답하옵소서 내게 응답하옵소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p9.b4": {
+    "text": "이 백성으로 주 여호와는 하나님이신 것과 주는 저희의 마음으로 돌이키게 하시는 것을 알게 하옵소서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p10.b1": {
+    "text": "이에 여호와의 불이 내려서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p10.b2": {
+    "text": "번제물과 나무와 돌과 흙을 태우고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p10.b3": {
+    "text": "또 도랑의 물을 핥은지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p11.b1": {
+    "text": "모든 백성이 보고 엎드려 말하되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p11.b2": {
+    "text": "여호와 그는 하나님이시로다 여호와 그는 하나님이시로다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p11.b3": {
+    "text": "바알의 선지자를 잡되 하나도 도망하지 못하게 하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p11.b4": {
+    "text": "엘리야가 저희를 기손 시내로 내려다가 거기서 죽이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:40"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p12.b1": {
+    "text": "올라가서 먹고 마시소서 큰 비의 소리가 있나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p12.b2": {
+    "text": "엘리야가 갈멜 산 꼭대기로 올라 가서 땅에 꿇어 엎드려 그 얼굴을 무릎 사이에 넣고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:42"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p12.b3": {
+    "text": "아무것도 없나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:43"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p12.b4": {
+    "text": "바다에서 사람의 손만한 작은 구름이 일어나나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:44"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p13.b1": {
+    "text": "조금 후에 구름과 바람이 일어나서 하늘이 캄캄하여지며 큰 비가 내리는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p13.b2": {
+    "text": "아합이 마차를 타고 이스르엘로 가니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:45"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "kings1.18.p13.b3": {
+    "text": "여호와의 능력이 엘리야에게 임하매 저가 허리를 동이고 이스르엘로 들어가는 곳까지 아합 앞에서 달려갔더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Kings 18:46"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

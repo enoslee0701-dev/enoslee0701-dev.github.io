@@ -1,0 +1,121 @@
+{
+  "id": "KINGS1_13_P009",
+  "book": "kings1",
+  "chapter": 13,
+  "page": 9,
+  "ref": "13:31-34",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_13_P009",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_13_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2799
+      ]
+    },
+    {
+      "id": "KINGS1_13_P009_F2",
+      "box": [
+        0,
+        0.2839,
+        0.3633,
+        0.3034
+      ]
+    },
+    {
+      "id": "KINGS1_13_P009_F3",
+      "box": [
+        0.3711,
+        0.2839,
+        0.6289,
+        0.3034
+      ]
+    },
+    {
+      "id": "KINGS1_13_P009_F4",
+      "box": [
+        0,
+        0.5918,
+        1,
+        0.4082
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_13_P009_B001",
+      "panel": "KINGS1_13_P009_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.0084,
+        0.45,
+        0.0615
+      ],
+      "tail": [
+        0.745,
+        0.0979
+      ],
+      "text_key": "kings1.13.p9.b1"
+    },
+    {
+      "id": "KINGS1_13_P009_B002",
+      "panel": "KINGS1_13_P009_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0145,
+        0.293,
+        0.3269,
+        0.0606
+      ],
+      "tail": [
+        0.178,
+        0.3839
+      ],
+      "text_key": "kings1.13.p9.b2"
+    },
+    {
+      "id": "KINGS1_13_P009_B003",
+      "panel": "KINGS1_13_P009_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6981,
+        0.293,
+        0.283,
+        0.0728
+      ],
+      "tail": null,
+      "text_key": "kings1.13.p9.b3"
+    },
+    {
+      "id": "KINGS1_13_P009_B004",
+      "panel": "KINGS1_13_P009_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.604,
+        0.46,
+        0.0653
+      ],
+      "tail": null,
+      "text_key": "kings1.13.p9.b4"
+    }
+  ]
+}

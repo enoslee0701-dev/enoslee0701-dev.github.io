@@ -1,0 +1,127 @@
+{
+  "id": "KINGS1_08_P010",
+  "book": "kings1",
+  "chapter": 8,
+  "page": 10,
+  "ref": "8:46-53",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_08_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_08_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3047
+      ]
+    },
+    {
+      "id": "KINGS1_08_P010_F2",
+      "box": [
+        0,
+        0.3145,
+        0.4971,
+        0.2611
+      ]
+    },
+    {
+      "id": "KINGS1_08_P010_F3",
+      "box": [
+        0.5049,
+        0.3145,
+        0.4951,
+        0.2611
+      ]
+    },
+    {
+      "id": "KINGS1_08_P010_F4",
+      "box": [
+        0,
+        0.5853,
+        1,
+        0.4147
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_08_P010_B001",
+      "panel": "KINGS1_08_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0122,
+        0.55,
+        0.0792
+      ],
+      "tail": [
+        0.305,
+        0.1219
+      ],
+      "text_key": "kings1.8.p10.b1"
+    },
+    {
+      "id": "KINGS1_08_P010_B002",
+      "panel": "KINGS1_08_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0199,
+        0.3249,
+        0.4473,
+        0.0626
+      ],
+      "tail": [
+        0.2436,
+        0.4136
+      ],
+      "text_key": "kings1.8.p10.b2"
+    },
+    {
+      "id": "KINGS1_08_P010_B003",
+      "panel": "KINGS1_08_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5247,
+        0.3249,
+        0.2079,
+        0.1044
+      ],
+      "tail": [
+        0.6287,
+        0.4554
+      ],
+      "text_key": "kings1.8.p10.b3"
+    },
+    {
+      "id": "KINGS1_08_P010_B004",
+      "panel": "KINGS1_08_P010_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.67,
+        0.6019,
+        0.3,
+        0.0746
+      ],
+      "tail": [
+        0.82,
+        0.718
+      ],
+      "text_key": "kings1.8.p10.b4"
+    }
+  ]
+}

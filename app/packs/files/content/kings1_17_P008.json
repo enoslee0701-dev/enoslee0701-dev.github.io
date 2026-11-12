@@ -1,0 +1,91 @@
+{
+  "id": "KINGS1_17_P008",
+  "book": "kings1",
+  "chapter": 17,
+  "page": 8,
+  "ref": "17:23-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_17_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_17_P008_F1",
+      "box": [
+        0,
+        0,
+        0.3994,
+        0.3379
+      ]
+    },
+    {
+      "id": "KINGS1_17_P008_F2",
+      "box": [
+        0.4053,
+        0,
+        0.5947,
+        0.3379
+      ]
+    },
+    {
+      "id": "KINGS1_17_P008_F3",
+      "box": [
+        0,
+        0.3418,
+        1,
+        0.4642
+      ]
+    },
+    {
+      "id": "KINGS1_17_P008_F4",
+      "box": [
+        0,
+        0.8099,
+        1,
+        0.1901
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_17_P008_B001",
+      "panel": "KINGS1_17_P008_F2",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.4291,
+        0.0101,
+        0.5352,
+        0.0675
+      ],
+      "tail": [
+        0.6967,
+        0.1114
+      ],
+      "text_key": "kings1.17.p8.b1"
+    },
+    {
+      "id": "KINGS1_17_P008_B002",
+      "panel": "KINGS1_17_P008_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.63,
+        0.3557,
+        0.34,
+        0.0928
+      ],
+      "tail": [
+        0.8,
+        0.4949
+      ],
+      "text_key": "kings1.17.p8.b2"
+    }
+  ]
+}

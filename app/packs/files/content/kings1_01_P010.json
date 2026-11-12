@@ -1,0 +1,118 @@
+{
+  "id": "KINGS1_01_P010",
+  "book": "kings1",
+  "chapter": 1,
+  "page": 10,
+  "ref": "1:41-48",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_01_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_01_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2441
+      ]
+    },
+    {
+      "id": "KINGS1_01_P010_F2",
+      "box": [
+        0,
+        0.2474,
+        1,
+        0.2461
+      ]
+    },
+    {
+      "id": "KINGS1_01_P010_F3",
+      "box": [
+        0,
+        0.4974,
+        1,
+        0.5026
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_01_P010_B001",
+      "panel": "KINGS1_01_P010_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0098,
+        0.42,
+        0.0732
+      ],
+      "tail": [
+        0.76,
+        0.1074
+      ],
+      "text_key": "kings1.1.p10.b1"
+    },
+    {
+      "id": "KINGS1_01_P010_B002",
+      "panel": "KINGS1_01_P010_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.38,
+        0.2548,
+        0.3,
+        0.059
+      ],
+      "tail": [
+        0.53,
+        0.3384
+      ],
+      "text_key": "kings1.1.p10.b2"
+    },
+    {
+      "id": "KINGS1_01_P010_B003",
+      "panel": "KINGS1_01_P010_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.5075,
+        0.48,
+        0.0502
+      ],
+      "tail": [
+        0.27,
+        0.608
+      ],
+      "text_key": "kings1.1.p10.b3"
+    },
+    {
+      "id": "KINGS1_01_P010_B004",
+      "panel": "KINGS1_01_P010_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.8794,
+        0.45,
+        0.1055
+      ],
+      "tail": [
+        0.745,
+        1
+      ],
+      "text_key": "kings1.1.p10.b4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "KINGS1_11_P004",
+  "book": "kings1",
+  "chapter": 11,
+  "page": 4,
+  "ref": "11:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS1_11_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS1_11_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3099
+      ]
+    },
+    {
+      "id": "KINGS1_11_P004_F2",
+      "box": [
+        0,
+        0.3138,
+        0.4531,
+        0.3451
+      ]
+    },
+    {
+      "id": "KINGS1_11_P004_F3",
+      "box": [
+        0.46,
+        0.3138,
+        0.54,
+        0.6862
+      ]
+    },
+    {
+      "id": "KINGS1_11_P004_F4",
+      "box": [
+        0,
+        0.6621,
+        0.4531,
+        0.3379
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS1_11_P004_B001",
+      "panel": "KINGS1_11_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0124,
+        0.5,
+        0.0743
+      ],
+      "tail": null,
+      "text_key": "kings1.11.p4.b1"
+    },
+    {
+      "id": "KINGS1_11_P004_B002",
+      "panel": "KINGS1_11_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0181,
+        0.3207,
+        0.4077,
+        0.0759
+      ],
+      "tail": null,
+      "text_key": "kings1.11.p4.b2"
+    },
+    {
+      "id": "KINGS1_11_P004_B003",
+      "panel": "KINGS1_11_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.487,
+        0.3275,
+        0.4752,
+        0.096
+      ],
+      "tail": null,
+      "text_key": "kings1.11.p4.b3"
+    },
+    {
+      "id": "KINGS1_11_P004_B004",
+      "panel": "KINGS1_11_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0181,
+        0.6689,
+        0.4077,
+        0.0608
+      ],
+      "tail": null,
+      "text_key": "kings1.11.p4.b4"
+    }
+  ]
+}
