@@ -1,0 +1,115 @@
+{
+  "id": "JOSHUA_06_P001",
+  "book": "joshua",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_06_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4505
+      ]
+    },
+    {
+      "id": "JOSHUA_06_P001_F2",
+      "box": [
+        0,
+        0.4538,
+        0.4385,
+        0.2904
+      ]
+    },
+    {
+      "id": "JOSHUA_06_P001_F3",
+      "box": [
+        0.4443,
+        0.4538,
+        0.5557,
+        0.2904
+      ]
+    },
+    {
+      "id": "JOSHUA_06_P001_F4",
+      "box": [
+        0,
+        0.7474,
+        1,
+        0.2526
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_06_P001_B001",
+      "panel": "JOSHUA_06_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.3424,
+        0.4,
+        0.0901
+      ],
+      "tail": null,
+      "text_key": "joshua.6.p1.b1"
+    },
+    {
+      "id": "JOSHUA_06_P001_B002",
+      "panel": "JOSHUA_06_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.2631,
+        0.599,
+        0.1666,
+        0.0755
+      ],
+      "tail": null,
+      "text_key": "joshua.6.p1.b2"
+    },
+    {
+      "id": "JOSHUA_06_P001_B003",
+      "panel": "JOSHUA_06_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4665,
+        0.4625,
+        0.5001,
+        0.0696
+      ],
+      "tail": null,
+      "text_key": "joshua.6.p1.b3"
+    },
+    {
+      "id": "JOSHUA_06_P001_B004",
+      "panel": "JOSHUA_06_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3,
+        0.755,
+        0.66,
+        0.0505
+      ],
+      "tail": null,
+      "text_key": "joshua.6.p1.b4"
+    }
+  ]
+}

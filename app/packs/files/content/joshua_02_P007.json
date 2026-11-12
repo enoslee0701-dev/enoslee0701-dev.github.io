@@ -1,0 +1,124 @@
+{
+  "id": "JOSHUA_02_P007",
+  "book": "joshua",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:17-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_02_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_02_P007_F1",
+      "box": [
+        0,
+        0,
+        0.499,
+        0.2214
+      ]
+    },
+    {
+      "id": "JOSHUA_02_P007_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.2214
+      ]
+    },
+    {
+      "id": "JOSHUA_02_P007_F3",
+      "box": [
+        0,
+        0.2246,
+        1,
+        0.5495
+      ]
+    },
+    {
+      "id": "JOSHUA_02_P007_F4",
+      "box": [
+        0,
+        0.7767,
+        1,
+        0.2233
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_02_P007_B021",
+      "panel": "JOSHUA_02_P007_F1",
+      "order": 21,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.02,
+        0.0066,
+        0.4491,
+        0.0575
+      ],
+      "tail": [
+        0.2446,
+        0.0862
+      ],
+      "text_key": "joshua.2.p7.b21"
+    },
+    {
+      "id": "JOSHUA_02_P007_B022",
+      "panel": "JOSHUA_02_P007_F2",
+      "order": 22,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5237,
+        0.1638,
+        0.4464,
+        0.0509
+      ],
+      "tail": [
+        0.7469,
+        0.2214
+      ],
+      "text_key": "joshua.2.p7.b22"
+    },
+    {
+      "id": "JOSHUA_02_P007_B023",
+      "panel": "JOSHUA_02_P007_F4",
+      "order": 23,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.7856,
+        0.42,
+        0.0669
+      ],
+      "tail": [
+        0.77,
+        0.8748
+      ],
+      "text_key": "joshua.2.p7.b23"
+    },
+    {
+      "id": "JOSHUA_02_P007_B024",
+      "panel": "JOSHUA_02_P007_F4",
+      "order": 24,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.933,
+        0.4,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "joshua.2.p7.b24"
+    }
+  ]
+}

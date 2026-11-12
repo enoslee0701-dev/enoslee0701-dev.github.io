@@ -1,0 +1,42 @@
+{
+  "joshua.16.p1.b1": {
+    "text": "요셉 자손이 제비 뽑은 것은 여리고 곁 요단 곧 여리고 물 동편 광야에서부터 나아가 … 산지를 지나 벧엘에 이르고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Joshua 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.16.p1.b2": {
+    "text": "요셉의 자손 므낫세와 에브라임이 그 기업을 얻었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Joshua 16:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.16.p1.b3": {
+    "text": "또 답부아에서부터 서편으로 지나서 가나 시내에 미치나니 그 끝은 바다라 에브라임 자손의 지파가 그 가족대로 얻은 기업이 이러하였고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Joshua 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.16.p1.b4": {
+    "text": "그들이 게셀에 거하는 가나안 사람을 쫓아내지 아니하였으므로 가나안 사람이 오늘날까지 에브라임 가운데 거하며 사역하는 종이 되니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Joshua 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

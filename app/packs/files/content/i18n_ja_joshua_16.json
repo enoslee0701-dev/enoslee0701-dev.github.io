@@ -1,0 +1,42 @@
+{
+  "joshua.16.p1.b1": {
+    "text": "ヨセフの子孫が、くじによって獲た地の境は、エリコのほとりのヨルダン、すなわちエリコの水の東から起って、…エリコから山地に上っている荒野を経て、ベテルに至り、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 16:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.16.p1.b2": {
+    "text": "こうしてヨセフの子孫のマナセと、エフライムとは、その嗣業を受けた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 16:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.16.p1.b3": {
+    "text": "タップアからその境は西に進んで、カナの川に達し、海に至って尽きる。これはエフライムの子孫の部族が、その家族にしたがって獲た嗣業である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 16:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.16.p1.b4": {
+    "text": "ただし、ゲゼルに住むカナンびとを、追い払わなかったので、カナンびとは今日までエフライムの中に住み、奴隷となって追い使われている。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 16:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "JOSHUA_17_P003",
+  "book": "joshua",
+  "chapter": 17,
+  "page": 3,
+  "ref": "17:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_17_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_17_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2539
+      ]
+    },
+    {
+      "id": "JOSHUA_17_P003_F2",
+      "box": [
+        0,
+        0.2578,
+        0.5146,
+        0.25
+      ]
+    },
+    {
+      "id": "JOSHUA_17_P003_F3",
+      "box": [
+        0.5234,
+        0.2578,
+        0.4766,
+        0.25
+      ]
+    },
+    {
+      "id": "JOSHUA_17_P003_F4",
+      "box": [
+        0.01,
+        0.522,
+        0.355,
+        0.16
+      ]
+    },
+    {
+      "id": "JOSHUA_17_P003_F5",
+      "box": [
+        0,
+        0.5124,
+        1,
+        0.4876
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_17_P003_B001",
+      "panel": "JOSHUA_17_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.45,
+        0.0076,
+        0.52,
+        0.0431
+      ],
+      "tail": [
+        0.71,
+        0.0761
+      ],
+      "text_key": "joshua.17.p3.b1"
+    },
+    {
+      "id": "JOSHUA_17_P003_B002",
+      "panel": "JOSHUA_17_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.283,
+        0.4328,
+        0.2212,
+        0.0675
+      ],
+      "tail": [
+        0.3936,
+        0.5078
+      ],
+      "text_key": "joshua.17.p3.b2"
+    },
+    {
+      "id": "JOSHUA_17_P003_B003",
+      "panel": "JOSHUA_17_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6664,
+        0.2653,
+        0.324,
+        0.0375
+      ],
+      "tail": [
+        0.8284,
+        0.3278
+      ],
+      "text_key": "joshua.17.p3.b3"
+    },
+    {
+      "id": "JOSHUA_17_P003_B004",
+      "panel": "JOSHUA_17_P003_F5",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.55,
+        0.8927,
+        0.42,
+        0.0926
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "joshua.17.p3.b4"
+    }
+  ]
+}

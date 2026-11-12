@@ -1,0 +1,118 @@
+{
+  "id": "JOSHUA_21_P001",
+  "book": "joshua",
+  "chapter": 21,
+  "page": 1,
+  "ref": "21:1-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_21_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_21_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3229
+      ]
+    },
+    {
+      "id": "JOSHUA_21_P001_F2",
+      "box": [
+        0,
+        0.3281,
+        0.5967,
+        0.3001
+      ]
+    },
+    {
+      "id": "JOSHUA_21_P001_F3",
+      "box": [
+        0.6055,
+        0.3281,
+        0.3945,
+        0.3001
+      ]
+    },
+    {
+      "id": "JOSHUA_21_P001_F4",
+      "box": [
+        0,
+        0.6335,
+        1,
+        0.3665
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_21_P001_B001",
+      "panel": "JOSHUA_21_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0097,
+        0.55,
+        0.0581
+      ],
+      "tail": null,
+      "text_key": "joshua.21.p1.b1"
+    },
+    {
+      "id": "JOSHUA_21_P001_B002",
+      "panel": "JOSHUA_21_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0179,
+        0.3371,
+        0.3281,
+        0.09
+      ],
+      "tail": [
+        0.182,
+        0.4571
+      ],
+      "text_key": "joshua.21.p1.b2"
+    },
+    {
+      "id": "JOSHUA_21_P001_B003",
+      "panel": "JOSHUA_21_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.8895,
+        0.5142,
+        0.1025,
+        0.108
+      ],
+      "tail": null,
+      "text_key": "joshua.21.p1.b3"
+    },
+    {
+      "id": "JOSHUA_21_P001_B004",
+      "panel": "JOSHUA_21_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6445,
+        0.55,
+        0.0549
+      ],
+      "tail": null,
+      "text_key": "joshua.21.p1.b4"
+    }
+  ]
+}

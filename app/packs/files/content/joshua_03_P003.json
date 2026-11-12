@@ -1,0 +1,118 @@
+{
+  "id": "JOSHUA_03_P003",
+  "book": "joshua",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2064
+      ]
+    },
+    {
+      "id": "JOSHUA_03_P003_F2",
+      "box": [
+        0,
+        0.2096,
+        1,
+        0.2363
+      ]
+    },
+    {
+      "id": "JOSHUA_03_P003_F3",
+      "box": [
+        0,
+        0.4492,
+        1,
+        0.2878
+      ]
+    },
+    {
+      "id": "JOSHUA_03_P003_F4",
+      "box": [
+        0,
+        0.7409,
+        1,
+        0.2591
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_03_P003_B007",
+      "panel": "JOSHUA_03_P003_F1",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.0062,
+        0.42,
+        0.0392
+      ],
+      "tail": [
+        0.77,
+        0.066
+      ],
+      "text_key": "joshua.3.p3.b7"
+    },
+    {
+      "id": "JOSHUA_03_P003_B008",
+      "panel": "JOSHUA_03_P003_F2",
+      "order": 8,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.4034,
+        0.6,
+        0.0378
+      ],
+      "tail": null,
+      "text_key": "joshua.3.p3.b8"
+    },
+    {
+      "id": "JOSHUA_03_P003_B009",
+      "panel": "JOSHUA_03_P003_F3",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.4578,
+        0.92,
+        0.092
+      ],
+      "tail": null,
+      "text_key": "joshua.3.p3.b9"
+    },
+    {
+      "id": "JOSHUA_03_P003_B010",
+      "panel": "JOSHUA_03_P003_F4",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.9223,
+        0.92,
+        0.0725
+      ],
+      "tail": null,
+      "text_key": "joshua.3.p3.b10"
+    }
+  ]
+}

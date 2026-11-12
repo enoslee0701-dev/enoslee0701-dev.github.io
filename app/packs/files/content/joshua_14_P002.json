@@ -1,0 +1,127 @@
+{
+  "id": "JOSHUA_14_P002",
+  "book": "joshua",
+  "chapter": 14,
+  "page": 2,
+  "ref": "14:6-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_14_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_14_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2161
+      ]
+    },
+    {
+      "id": "JOSHUA_14_P002_F2",
+      "box": [
+        0,
+        0.2207,
+        1,
+        0.4264
+      ]
+    },
+    {
+      "id": "JOSHUA_14_P002_F3",
+      "box": [
+        0,
+        0.6517,
+        0.4971,
+        0.3483
+      ]
+    },
+    {
+      "id": "JOSHUA_14_P002_F4",
+      "box": [
+        0.5049,
+        0.6517,
+        0.4951,
+        0.3483
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_14_P002_B001",
+      "panel": "JOSHUA_14_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.31,
+        0.0043,
+        0.32,
+        0.0734
+      ],
+      "tail": [
+        0.47,
+        0.0993
+      ],
+      "text_key": "joshua.14.p2.b1"
+    },
+    {
+      "id": "JOSHUA_14_P002_B002",
+      "panel": "JOSHUA_14_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.58,
+        0.2335,
+        0.39,
+        0.1023
+      ],
+      "tail": [
+        0.775,
+        0.3784
+      ],
+      "text_key": "joshua.14.p2.b2"
+    },
+    {
+      "id": "JOSHUA_14_P002_B003",
+      "panel": "JOSHUA_14_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0199,
+        0.6621,
+        0.4573,
+        0.0835
+      ],
+      "tail": [
+        0.2486,
+        0.7804
+      ],
+      "text_key": "joshua.14.p2.b3"
+    },
+    {
+      "id": "JOSHUA_14_P002_B004",
+      "panel": "JOSHUA_14_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5247,
+        0.6621,
+        0.2723,
+        0.0905
+      ],
+      "tail": [
+        0.6609,
+        0.7874
+      ],
+      "text_key": "joshua.14.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "joshua.20.p1.b1": {
+    "text": "イスラエルの人々に言いなさい、『先にわたしがモーセによって言っておいた、のがれの町を選び定め…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.20.p1.b2": {
+    "text": "あやまって、知らずに人を殺した者を、そこへのがれさせなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.20.p1.b3": {
+    "text": "… 町の門の入口に立ち、その町の長老たちに、そのわけを述べなければならない。そうすれば、彼らはその人を町に受け入れて…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.20.p1.b4": {
+    "text": "たとい、あだを討つ者が追ってきても、人を殺したその者を、その手に渡してはならない。彼はあやまって隣人を殺したのであって、もとからそれを憎んでいたのではないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.20.p2.b1": {
+    "text": "… その時の大祭司が死ぬまで、その町に住まなければならない。そして後、彼は自分の町、自分の家に帰って行って、逃げ出してきたその町に住むことができる",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.20.p2.b2": {
+    "text": "そこで、ナフタリの山地にあるガリラヤのケデシ、エフライムの山地にあるシケム、およびユダの山地にあるキリアテ・アルバすなわちヘブロンを、これがために選び分かち…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.20.p2.b3": {
+    "text": "これらは、イスラエルのすべての人々、およびそのうちに寄留する他国人のために設けられた町々であって、すべて、あやまって人を殺した者を、そこにのがれさせ…あだを討つ者の手にかかって死ぬことのないようにするためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 20:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

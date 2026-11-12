@@ -1,0 +1,115 @@
+{
+  "id": "JOSHUA_09_P001",
+  "book": "joshua",
+  "chapter": 9,
+  "page": 1,
+  "ref": "9:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_09_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_09_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ]
+    },
+    {
+      "id": "JOSHUA_09_P001_F2",
+      "box": [
+        0,
+        0.252,
+        1,
+        0.474
+      ]
+    },
+    {
+      "id": "JOSHUA_09_P001_F3",
+      "box": [
+        0.535,
+        0.506,
+        0.465,
+        0.2175
+      ]
+    },
+    {
+      "id": "JOSHUA_09_P001_F4",
+      "box": [
+        0,
+        0.7298,
+        1,
+        0.2702
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_09_P001_B001",
+      "panel": "JOSHUA_09_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.005,
+        0.62,
+        0.0248
+      ],
+      "tail": null,
+      "text_key": "joshua.9.p1.b1"
+    },
+    {
+      "id": "JOSHUA_09_P001_B002",
+      "panel": "JOSHUA_09_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3,
+        0.2567,
+        0.4,
+        0.0474
+      ],
+      "tail": null,
+      "text_key": "joshua.9.p1.b2"
+    },
+    {
+      "id": "JOSHUA_09_P001_B003",
+      "panel": "JOSHUA_09_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5443,
+        0.6887,
+        0.279,
+        0.0304
+      ],
+      "tail": null,
+      "text_key": "joshua.9.p1.b3"
+    },
+    {
+      "id": "JOSHUA_09_P001_B004",
+      "panel": "JOSHUA_09_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.7352,
+        0.4,
+        0.0459
+      ],
+      "tail": null,
+      "text_key": "joshua.9.p1.b4"
+    }
+  ]
+}

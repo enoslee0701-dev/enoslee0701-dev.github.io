@@ -1,0 +1,115 @@
+{
+  "id": "JOSHUA_15_P001",
+  "book": "joshua",
+  "chapter": 15,
+  "page": 1,
+  "ref": "15:1-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_15_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_15_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.416
+      ]
+    },
+    {
+      "id": "JOSHUA_15_P001_F2",
+      "box": [
+        0,
+        0.4193,
+        0.4971,
+        0.3346
+      ]
+    },
+    {
+      "id": "JOSHUA_15_P001_F3",
+      "box": [
+        0.5029,
+        0.4193,
+        0.4971,
+        0.3346
+      ]
+    },
+    {
+      "id": "JOSHUA_15_P001_F4",
+      "box": [
+        0,
+        0.7572,
+        1,
+        0.2428
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_15_P001_B001",
+      "panel": "JOSHUA_15_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0166,
+        0.32,
+        0.1913
+      ],
+      "tail": null,
+      "text_key": "joshua.15.p1.b1"
+    },
+    {
+      "id": "JOSHUA_15_P001_B002",
+      "panel": "JOSHUA_15_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.4293,
+        0.4573,
+        0.0803
+      ],
+      "tail": null,
+      "text_key": "joshua.15.p1.b2"
+    },
+    {
+      "id": "JOSHUA_15_P001_B003",
+      "panel": "JOSHUA_15_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7266,
+        0.4595,
+        0.2584,
+        0.0736
+      ],
+      "tail": null,
+      "text_key": "joshua.15.p1.b3"
+    },
+    {
+      "id": "JOSHUA_15_P001_B004",
+      "panel": "JOSHUA_15_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7645,
+        0.5,
+        0.0582
+      ],
+      "tail": null,
+      "text_key": "joshua.15.p1.b4"
+    }
+  ]
+}

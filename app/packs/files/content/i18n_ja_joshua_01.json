@@ -1,0 +1,132 @@
+{
+  "joshua.1.p1.b1": {
+    "text": "主のしもべモーセが死んだ後、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p1.b2": {
+    "text": "主はモーセの従者、ヌンの子ヨシュアに言われた、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p1.b3": {
+    "text": "「わたしのしもべモーセは死んだ。それゆえ、今あなたと、このすべての民とは、共に立って、このヨルダンを渡り、わたしがイスラエルの人々に与える地に行きなさい。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p2.b4": {
+    "text": "あなたがたが、足の裏で踏む所はみな、わたしがモーセに約束したように、あなたがたに与えるであろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p2.b5": {
+    "text": "… わたしは、モーセと共にいたように、あなたと共におるであろう。わたしはあなたを見放すことも、見捨ることもしない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p3.b6": {
+    "text": "ただ強く、また雄々しくあって、わたしのしもべモーセがあなたに命じた律法をことごとく守って行い、これを離れて右にも左にも曲ってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p3.b7": {
+    "text": "この律法の書をあなたの口から離すことなく、昼も夜もそれを思い、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p3.b8": {
+    "text": "わたしはあなたに命じたではないか。強く、また雄々しくあれ。あなたがどこへ行くにも、あなたの神、主が共におられるゆえ、恐れてはならない、おののいてはならない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p4.b9": {
+    "text": "そこでヨシュアは民のつかさたちに命じて言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p4.b10": {
+    "text": "糧食の備えをしなさい。三日のうちに、あなたがたはこのヨルダンを渡って、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p5.b11": {
+    "text": "あなたがたの妻子と家畜とは、モーセがあなたがたに与えたヨルダンのこちら側の地にとどまらなければならない。しかし、あなたがたのうちの勇士はみな武装して、兄弟たちの先に立って渡り、これを助けなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p5.b12": {
+    "text": "あなたがわれわれに命じられたことをみな行います。あなたがつかわされる所へは、どこへでも行きます。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "joshua.1.p5.b13": {
+    "text": "… どうぞ、あなたの神、主がモーセと共におられたように、あなたと共におられますように。… ただ、強く、また雄々しくあってください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Joshua 1:17-18"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

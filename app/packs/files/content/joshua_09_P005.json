@@ -1,0 +1,127 @@
+{
+  "id": "JOSHUA_09_P005",
+  "book": "joshua",
+  "chapter": 9,
+  "page": 5,
+  "ref": "9:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOSHUA_09_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOSHUA_09_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4388
+      ]
+    },
+    {
+      "id": "JOSHUA_09_P005_F2",
+      "box": [
+        0,
+        0.4421,
+        0.4541,
+        0.2441
+      ]
+    },
+    {
+      "id": "JOSHUA_09_P005_F3",
+      "box": [
+        0.46,
+        0.4421,
+        0.54,
+        0.2441
+      ]
+    },
+    {
+      "id": "JOSHUA_09_P005_F4",
+      "box": [
+        0,
+        0.6888,
+        1,
+        0.3112
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOSHUA_09_P005_B001",
+      "panel": "JOSHUA_09_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.56,
+        0.0088,
+        0.42,
+        0.0394
+      ],
+      "tail": [
+        0.77,
+        0.0921
+      ],
+      "text_key": "joshua.9.p5.b1"
+    },
+    {
+      "id": "JOSHUA_09_P005_B002",
+      "panel": "JOSHUA_09_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0091,
+        0.4543,
+        0.3632,
+        0.0292
+      ],
+      "tail": [
+        0.1907,
+        0.5079
+      ],
+      "text_key": "joshua.9.p5.b2"
+    },
+    {
+      "id": "JOSHUA_09_P005_B003",
+      "panel": "JOSHUA_09_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.8488,
+        0.5568,
+        0.1404,
+        0.0341
+      ],
+      "tail": [
+        0.919,
+        0.6153
+      ],
+      "text_key": "joshua.9.p5.b3"
+    },
+    {
+      "id": "JOSHUA_09_P005_B004",
+      "panel": "JOSHUA_09_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.52,
+        0.9689,
+        0.46,
+        0.0248
+      ],
+      "tail": [
+        0.75,
+        1
+      ],
+      "text_key": "joshua.9.p5.b4"
+    }
+  ]
+}
