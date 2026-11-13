@@ -1,0 +1,124 @@
+{
+  "id": "JUDGES_11_P002",
+  "book": "judges",
+  "chapter": 11,
+  "page": 2,
+  "ref": "11:4-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_11_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_11_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.25
+      ]
+    },
+    {
+      "id": "JUDGES_11_P002_F2",
+      "box": [
+        0,
+        0.2533,
+        0.5176,
+        0.3001
+      ]
+    },
+    {
+      "id": "JUDGES_11_P002_F3",
+      "box": [
+        0.5244,
+        0.2533,
+        0.4756,
+        0.3001
+      ]
+    },
+    {
+      "id": "JUDGES_11_P002_F4",
+      "box": [
+        0,
+        0.5566,
+        1,
+        0.4434
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_11_P002_B005",
+      "panel": "JUDGES_11_P002_F1",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.22,
+        0.0075,
+        0.5,
+        0.06
+      ],
+      "tail": null,
+      "text_key": "judges.11.p2.b5"
+    },
+    {
+      "id": "JUDGES_11_P002_B006",
+      "panel": "JUDGES_11_P002_F2",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0207,
+        0.2623,
+        0.4658,
+        0.066
+      ],
+      "tail": [
+        0.2536,
+        0.3583
+      ],
+      "text_key": "judges.11.p2.b6"
+    },
+    {
+      "id": "JUDGES_11_P002_B007",
+      "panel": "JUDGES_11_P002_F4",
+      "order": 7,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.5699,
+        0.5,
+        0.0753
+      ],
+      "tail": [
+        0.28,
+        0.6895
+      ],
+      "text_key": "judges.11.p2.b7"
+    },
+    {
+      "id": "JUDGES_11_P002_B008",
+      "panel": "JUDGES_11_P002_F4",
+      "order": 8,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.9113,
+        0.42,
+        0.0753
+      ],
+      "tail": [
+        0.76,
+        1
+      ],
+      "text_key": "judges.11.p2.b8"
+    }
+  ]
+}

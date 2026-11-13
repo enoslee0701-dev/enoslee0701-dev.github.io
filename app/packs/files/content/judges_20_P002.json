@@ -1,0 +1,127 @@
+{
+  "id": "JUDGES_20_P002",
+  "book": "judges",
+  "chapter": 20,
+  "page": 2,
+  "ref": "20:4-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_20_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_20_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2936
+      ]
+    },
+    {
+      "id": "JUDGES_20_P002_F2",
+      "box": [
+        0,
+        0.2975,
+        0.4863,
+        0.3255
+      ]
+    },
+    {
+      "id": "JUDGES_20_P002_F3",
+      "box": [
+        0.4932,
+        0.2975,
+        0.5068,
+        0.3255
+      ]
+    },
+    {
+      "id": "JUDGES_20_P002_F4",
+      "box": [
+        0,
+        0.6263,
+        1,
+        0.3737
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_20_P002_B001",
+      "panel": "JUDGES_20_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.0117,
+        0.42,
+        0.0704
+      ],
+      "tail": [
+        0.76,
+        0.1115
+      ],
+      "text_key": "judges.20.p2.b1"
+    },
+    {
+      "id": "JUDGES_20_P002_B002",
+      "panel": "JUDGES_20_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0195,
+        0.3073,
+        0.4473,
+        0.0651
+      ],
+      "tail": [
+        0.2432,
+        0.405
+      ],
+      "text_key": "judges.20.p2.b2"
+    },
+    {
+      "id": "JUDGES_20_P002_B003",
+      "panel": "JUDGES_20_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.6375,
+        0.52,
+        0.0672
+      ],
+      "tail": [
+        0.71,
+        0.7421
+      ],
+      "text_key": "judges.20.p2.b3"
+    },
+    {
+      "id": "JUDGES_20_P002_B004",
+      "panel": "JUDGES_20_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.9402,
+        0.5,
+        0.0485
+      ],
+      "tail": [
+        0.28,
+        1
+      ],
+      "text_key": "judges.20.p2.b4"
+    }
+  ]
+}

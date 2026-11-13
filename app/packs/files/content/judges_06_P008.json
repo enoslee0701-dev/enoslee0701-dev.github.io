@@ -1,0 +1,115 @@
+{
+  "id": "JUDGES_06_P008",
+  "book": "judges",
+  "chapter": 6,
+  "page": 8,
+  "ref": "6:25-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_06_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_06_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2799
+      ]
+    },
+    {
+      "id": "JUDGES_06_P008_F2",
+      "box": [
+        0,
+        0.2832,
+        0.3281,
+        0.4238
+      ]
+    },
+    {
+      "id": "JUDGES_06_P008_F3",
+      "box": [
+        0.335,
+        0.2832,
+        0.665,
+        0.4238
+      ]
+    },
+    {
+      "id": "JUDGES_06_P008_F4",
+      "box": [
+        0,
+        0.7096,
+        1,
+        0.2904
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_06_P008_B027",
+      "panel": "JUDGES_06_P008_F1",
+      "order": 27,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.24,
+        0.0056,
+        0.37,
+        0.0363
+      ],
+      "tail": null,
+      "text_key": "judges.6.p8.b27"
+    },
+    {
+      "id": "JUDGES_06_P008_B028",
+      "panel": "JUDGES_06_P008_F2",
+      "order": 28,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0131,
+        0.2959,
+        0.2952,
+        0.0678
+      ],
+      "tail": null,
+      "text_key": "judges.6.p8.b28"
+    },
+    {
+      "id": "JUDGES_06_P008_B029",
+      "panel": "JUDGES_06_P008_F3",
+      "order": 29,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3616,
+        0.2959,
+        0.2394,
+        0.0678
+      ],
+      "tail": null,
+      "text_key": "judges.6.p8.b29"
+    },
+    {
+      "id": "JUDGES_06_P008_B030",
+      "panel": "JUDGES_06_P008_F4",
+      "order": 30,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.38,
+        0.7154,
+        0.48,
+        0.0493
+      ],
+      "tail": null,
+      "text_key": "judges.6.p8.b30"
+    }
+  ]
+}

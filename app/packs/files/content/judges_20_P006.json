@@ -1,0 +1,118 @@
+{
+  "id": "JUDGES_20_P006",
+  "book": "judges",
+  "chapter": 20,
+  "page": 6,
+  "ref": "20:22-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_20_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_20_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2148
+      ]
+    },
+    {
+      "id": "JUDGES_20_P006_F2",
+      "box": [
+        0,
+        0.2188,
+        1,
+        0.4069
+      ]
+    },
+    {
+      "id": "JUDGES_20_P006_F3",
+      "box": [
+        0,
+        0.6302,
+        0.3545,
+        0.3698
+      ]
+    },
+    {
+      "id": "JUDGES_20_P006_F4",
+      "box": [
+        0.3613,
+        0.6302,
+        0.6387,
+        0.3698
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_20_P006_B001",
+      "panel": "JUDGES_20_P006_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.64,
+        0.0064,
+        0.34,
+        0.0472
+      ],
+      "tail": null,
+      "text_key": "judges.20.p6.b1"
+    },
+    {
+      "id": "JUDGES_20_P006_B002",
+      "panel": "JUDGES_20_P006_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.5,
+        0.2269,
+        0.47,
+        0.0528
+      ],
+      "tail": [
+        0.735,
+        0.3204
+      ],
+      "text_key": "judges.20.p6.b2"
+    },
+    {
+      "id": "JUDGES_20_P006_B003",
+      "panel": "JUDGES_20_P006_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0142,
+        0.8151,
+        0.1949,
+        0.0443
+      ],
+      "tail": null,
+      "text_key": "judges.20.p6.b3"
+    },
+    {
+      "id": "JUDGES_20_P006_B004",
+      "panel": "JUDGES_20_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.3805,
+        0.9334,
+        0.3512,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "judges.20.p6.b4"
+    }
+  ]
+}

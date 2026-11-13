@@ -1,0 +1,121 @@
+{
+  "id": "JUDGES_06_P012",
+  "book": "judges",
+  "chapter": 6,
+  "page": 12,
+  "ref": "6:36-40",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_06_P012",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_06_P012_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.276
+      ]
+    },
+    {
+      "id": "JUDGES_06_P012_F2",
+      "box": [
+        0,
+        0.2793,
+        0.502,
+        0.3314
+      ]
+    },
+    {
+      "id": "JUDGES_06_P012_F3",
+      "box": [
+        0.5078,
+        0.2793,
+        0.4922,
+        0.3314
+      ]
+    },
+    {
+      "id": "JUDGES_06_P012_F4",
+      "box": [
+        0,
+        0.6139,
+        1,
+        0.3861
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_06_P012_B042",
+      "panel": "JUDGES_06_P012_F1",
+      "order": 42,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0083,
+        0.5,
+        0.0828
+      ],
+      "tail": [
+        0.28,
+        0.1187
+      ],
+      "text_key": "judges.6.p12.b42"
+    },
+    {
+      "id": "JUDGES_06_P012_B043",
+      "panel": "JUDGES_06_P012_F2",
+      "order": 43,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0201,
+        0.2892,
+        0.4518,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "judges.6.p12.b43"
+    },
+    {
+      "id": "JUDGES_06_P012_B044",
+      "panel": "JUDGES_06_P012_F3",
+      "order": 44,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.5324,
+        0.2892,
+        0.4429,
+        0.0662
+      ],
+      "tail": [
+        0.7539,
+        0.3885
+      ],
+      "text_key": "judges.6.p12.b44"
+    },
+    {
+      "id": "JUDGES_06_P012_B045",
+      "panel": "JUDGES_06_P012_F4",
+      "order": 45,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.9228,
+        0.92,
+        0.0656
+      ],
+      "tail": null,
+      "text_key": "judges.6.p12.b45"
+    }
+  ]
+}

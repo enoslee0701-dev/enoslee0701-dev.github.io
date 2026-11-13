@@ -1,0 +1,139 @@
+{
+  "id": "JUDGES_11_P007",
+  "book": "judges",
+  "chapter": 11,
+  "page": 7,
+  "ref": "11:29-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_11_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_11_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4622
+      ]
+    },
+    {
+      "id": "JUDGES_11_P007_F2",
+      "box": [
+        0,
+        0.4655,
+        1,
+        0.1582
+      ]
+    },
+    {
+      "id": "JUDGES_11_P007_F3",
+      "box": [
+        0,
+        0.627,
+        0.4795,
+        0.373
+      ]
+    },
+    {
+      "id": "JUDGES_11_P007_F4",
+      "box": [
+        0.4854,
+        0.627,
+        0.5146,
+        0.373
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_11_P007_B025",
+      "panel": "JUDGES_11_P007_F1",
+      "order": 25,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0139,
+        0.36,
+        0.0739
+      ],
+      "tail": null,
+      "text_key": "judges.11.p7.b25"
+    },
+    {
+      "id": "JUDGES_11_P007_B026",
+      "panel": "JUDGES_11_P007_F2",
+      "order": 26,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4718,
+        0.94,
+        0.0411
+      ],
+      "tail": null,
+      "text_key": "judges.11.p7.b26"
+    },
+    {
+      "id": "JUDGES_11_P007_B027",
+      "panel": "JUDGES_11_P007_F3",
+      "order": 27,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.0144,
+        0.6382,
+        0.1726,
+        0.0746
+      ],
+      "tail": [
+        0.1007,
+        0.7501
+      ],
+      "text_key": "judges.11.p7.b27"
+    },
+    {
+      "id": "JUDGES_11_P007_B028",
+      "panel": "JUDGES_11_P007_F4",
+      "order": 28,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.506,
+        0.6382,
+        0.4734,
+        0.0969
+      ],
+      "tail": [
+        0.7427,
+        0.7724
+      ],
+      "text_key": "judges.11.p7.b28"
+    },
+    {
+      "id": "JUDGES_11_P007_B029",
+      "panel": "JUDGES_11_P007_F4",
+      "order": 29,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.717,
+        0.9329,
+        0.2675,
+        0.0559
+      ],
+      "tail": [
+        0.8508,
+        1
+      ],
+      "text_key": "judges.11.p7.b29"
+    }
+  ]
+}

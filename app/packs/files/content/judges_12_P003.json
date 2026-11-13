@@ -1,0 +1,115 @@
+{
+  "id": "JUDGES_12_P003",
+  "book": "judges",
+  "chapter": 12,
+  "page": 3,
+  "ref": "12:7-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_12_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_12_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2103
+      ]
+    },
+    {
+      "id": "JUDGES_12_P003_F2",
+      "box": [
+        0,
+        0.2148,
+        1,
+        0.4701
+      ]
+    },
+    {
+      "id": "JUDGES_12_P003_F3",
+      "box": [
+        0,
+        0.6895,
+        0.3799,
+        0.3105
+      ]
+    },
+    {
+      "id": "JUDGES_12_P003_F4",
+      "box": [
+        0.3867,
+        0.6895,
+        0.6133,
+        0.3105
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_12_P003_B010",
+      "panel": "JUDGES_12_P003_F1",
+      "order": 10,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0063,
+        0.92,
+        0.0462
+      ],
+      "tail": null,
+      "text_key": "judges.12.p3.b10"
+    },
+    {
+      "id": "JUDGES_12_P003_B011",
+      "panel": "JUDGES_12_P003_F2",
+      "order": 11,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.2289,
+        0.92,
+        0.0564
+      ],
+      "tail": null,
+      "text_key": "judges.12.p3.b11"
+    },
+    {
+      "id": "JUDGES_12_P003_B012",
+      "panel": "JUDGES_12_P003_F3",
+      "order": 12,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.019,
+        0.6988,
+        0.3419,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "judges.12.p3.b12"
+    },
+    {
+      "id": "JUDGES_12_P003_B013",
+      "panel": "JUDGES_12_P003_F4",
+      "order": 13,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4112,
+        0.6988,
+        0.5642,
+        0.0745
+      ],
+      "tail": null,
+      "text_key": "judges.12.p3.b13"
+    }
+  ]
+}

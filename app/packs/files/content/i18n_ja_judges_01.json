@@ -1,0 +1,272 @@
+{
+  "judges.1.p1.b1": {
+    "text": "ヨシュアが死んだ後、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p1.b2": {
+    "text": "わたしたちのうち、だれが先に攻め上って、カナンびとと戦いましょうか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p1.b3": {
+    "text": "ユダが上るべきである。わたしはこの国を彼の手にわたした",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p1.b4": {
+    "text": "わたしと一緒に、わたしに割り当てられた領地へ上って行って、カナンびとと戦ってください。そうすればわたしもあなたと一緒に、あなたに割り当てられた領地へ行きましょう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p2.b5": {
+    "text": "ユダが上って行くと、主は彼らの手にカナンびととペリジびととをわたされたので、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p2.b6": {
+    "text": "アドニベゼクは逃げたが、彼らはそのあとを追って彼を捕え、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p2.b7": {
+    "text": "かつて七十人の王たちが手足の親指を切られて、わたしの食卓の下で、くずを拾ったことがあったが、神はわたしがしたように、わたしに報いられたのだ",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p3.b8": {
+    "text": "ユダの人々はエルサレムを攻めて、これを取り、……町に火を放った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p3.b9": {
+    "text": "その後、ユダの人々は山地とネゲブと平地に住んでいるカナンびとと戦うために下ったが、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p3.b10": {
+    "text": "ユダはまずヘブロンに住んでいるカナンびとを攻めて、セシャイとアヒマンとタルマイを撃ち破った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p4.b11": {
+    "text": "キリアテ・セペルを撃って、これを取る者には、わたしの娘アクサを妻として与えるであろう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p4.b12": {
+    "text": "カレブの弟ケナズの子オテニエルがそれを取ったので、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p4.b13": {
+    "text": "あなたは何を望むのか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p4.b14": {
+    "text": "わたしに贈り物をください。あなたはわたしをネゲブの地へやられるのですから、泉をもください",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p5.b15": {
+    "text": "モーセのしゅうとであるケニびとの子孫はユダの人々と共に、しゅろの町から……上ってきて、アマレクびとと共に住んだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p5.b16": {
+    "text": "……それをことごとく滅ぼした。これによってその町の名はホルマと呼ばれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p5.b17": {
+    "text": "主がユダと共におられたので、ユダはついに山地を手に入れたが、平地に住んでいた民は鉄の戦車をもっていたので、これを追い出すことができなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p6.b18": {
+    "text": "ベニヤミンの人々はエルサレムに住んでいたエブスびとを追い出さなかったので、エブスびとは今日までベニヤミンの人々と共にエルサレムに住んでいる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p6.b19": {
+    "text": "どうぞこの町にはいる道を教えてください。そうすればわたしたちはあなたに恵みを施しましょう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p6.b20": {
+    "text": "……しかし、かの人とその家族は自由に去らせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p6.b21": {
+    "text": "その人はヘテびとの地に行って町を建て、それをルズと名づけた。これは今日までその名である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p7.b22": {
+    "text": "マナセはベテシャンとその村里の住民、……を追い出さなかったので、カナンびとは引き続いてその地に住んでいた",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p7.b23": {
+    "text": "イスラエルは強くなったとき、カナンびとを強制労働に服させ、彼らをことごとくは追い出さなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p7.b24": {
+    "text": "またエフライムはゲゼルに住んでいたカナンびとを追い出さなかったので、カナンびとはゲゼルにおいて彼らのうちに住んでいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p8.b25": {
+    "text": "アセルびとは、その地の住民であるカナンびとのうちに住んでいた。彼らが追い出さなかったからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p8.b26": {
+    "text": "……その地の住民であるカナンびとのうちに住んでいた。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.1.p8.b27": {
+    "text": "アモリびとはダンの人々を山地に追い込んで平地に下ることを許さなかった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Judges 1:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

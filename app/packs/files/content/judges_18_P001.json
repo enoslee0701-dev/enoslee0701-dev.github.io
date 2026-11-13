@@ -1,0 +1,118 @@
+{
+  "id": "JUDGES_18_P001",
+  "book": "judges",
+  "chapter": 18,
+  "page": 1,
+  "ref": "18:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_18_P001",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "JUDGES_18_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.248
+      ]
+    },
+    {
+      "id": "JUDGES_18_P001_F2",
+      "box": [
+        0,
+        0.2513,
+        0.7119,
+        0.3717
+      ]
+    },
+    {
+      "id": "JUDGES_18_P001_F3",
+      "box": [
+        0.7168,
+        0.2513,
+        0.2832,
+        0.3717
+      ]
+    },
+    {
+      "id": "JUDGES_18_P001_F4",
+      "box": [
+        0,
+        0.6257,
+        1,
+        0.3743
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_18_P001_B001",
+      "panel": "JUDGES_18_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0124,
+        0.45,
+        0.0744
+      ],
+      "tail": null,
+      "text_key": "judges.18.p1.b1"
+    },
+    {
+      "id": "JUDGES_18_P001_B002",
+      "panel": "JUDGES_18_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1424,
+        0.2625,
+        0.541,
+        0.045
+      ],
+      "tail": null,
+      "text_key": "judges.18.p1.b2"
+    },
+    {
+      "id": "JUDGES_18_P001_B003",
+      "panel": "JUDGES_18_P001_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.1424,
+        0.3149,
+        0.541,
+        0.0144
+      ],
+      "tail": [
+        0.4129,
+        0.3665
+      ],
+      "text_key": "judges.18.p1.b3"
+    },
+    {
+      "id": "JUDGES_18_P001_B004",
+      "panel": "JUDGES_18_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9251,
+        0.55,
+        0.0636
+      ],
+      "tail": null,
+      "text_key": "judges.18.p1.b4"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "judges.2.p1.b1": {
+    "text": "여호와의 사자가 길갈에서부터 보김에 이르러",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p1.b2": {
+    "text": "내가 너희로 애굽에서 나오게 하고 … 또 내가 이르기를 내가 너희에게 세운 언약을 영원히 어기지 아니하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p1.b3": {
+    "text": "너희가 내 목소리를 청종치 아니하였도다 그리함은 어찜이뇨",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p1.b4": {
+    "text": "… 그들이 너희 옆구리에 가시가 될 것이며 그들의 신들이 너희에게 올무가 되리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p2.b5": {
+    "text": "여호와의 사자가 이스라엘 모든 자손에게 이 말씀을 이르매 백성이 소리를 높여 운지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p2.b6": {
+    "text": "그러므로 그곳을 이름하여 보김이라 하니라 무리가 거기서 여호와께 제사를 드렸더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p2.b7": {
+    "text": "전에 여호수아가 백성을 보내매 이스라엘 자손이 각기 그 기업으로 가서 땅을 차지하였고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p2.b8": {
+    "text": "백성이 여호수아의 사는 날 동안과 여호수아 뒤에 생존한 장로들 곧 여호와께서 이스라엘을 위하여 행하신 모든 큰 일을 본 자의 사는 날 동안에 여호와를 섬겼더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p3.b9": {
+    "text": "여호와의 종 눈의 아들 여호수아가 일백십세에 죽으매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p3.b10": {
+    "text": "그 세대 사람도 다 그 열조에게로 돌아갔고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p3.b11": {
+    "text": "그 후에 일어난 다른 세대는 여호와를 알지 못하며 여호와께서 이스라엘을 위하여 행하신 일도 알지 못하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p4.b12": {
+    "text": "이스라엘 자손이 여호와의 목전에 악을 행하여 바알들을 섬기며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p4.b13": {
+    "text": "애굽 땅에서 그들을 인도하여 내신 그 열조의 하나님 여호와를 버리고 다른 신 곧 그 사방에 있는 백성의 신들을 좇아 그들에게 절하여 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p4.b14": {
+    "text": "곧 그들이 여호와를 버리고 바알과 아스다롯을 섬겼으므로",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p5.b15": {
+    "text": "여호와께서 이스라엘에게 진노하사 노략하는 자의 손에 붙여 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p5.b16": {
+    "text": "… 그들의 괴로움이 심하였더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p5.b17": {
+    "text": "여호와께서 사사를 세우사 노략하는 자의 손에서 그들을 건져내게 하셨으나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p5.b18": {
+    "text": "그 사사가 죽은 후에는 그들이 돌이켜 그 열조보다 더욱 패괴하여 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p6.b19": {
+    "text": "이 백성이 내가 그 열조와 세운 언약을 어기고 나의 목소리를 청종치 아니하였은즉",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p6.b20": {
+    "text": "나도 여호수아가 죽을 때에 남겨둔 열국을 다시는 그들의 앞에서 하나도 쫓아내지 아니하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p6.b21": {
+    "text": "이는 이스라엘이 그 열조의 지킨 것같이 나 여호와의 도를 지켜 행하나 아니하나 그들로 시험하려 함이라 하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.2.p6.b22": {
+    "text": "그 열국을 머물러두사 속히 쫓아내지 아니하시며 여호수아의 손에 붙이지 아니하셨음이 이를 인함이었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Judges 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

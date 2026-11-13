@@ -1,0 +1,109 @@
+{
+  "id": "JUDGES_20_P007",
+  "book": "judges",
+  "chapter": 20,
+  "page": 7,
+  "ref": "20:26-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_20_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_20_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2435
+      ]
+    },
+    {
+      "id": "JUDGES_20_P007_F2",
+      "box": [
+        0,
+        0.248,
+        1,
+        0.5143
+      ]
+    },
+    {
+      "id": "JUDGES_20_P007_F3",
+      "box": [
+        0,
+        0.7676,
+        1,
+        0.2324
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_20_P007_B001",
+      "panel": "JUDGES_20_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0073,
+        0.55,
+        0.0535
+      ],
+      "tail": null,
+      "text_key": "judges.20.p7.b1"
+    },
+    {
+      "id": "JUDGES_20_P007_B002",
+      "panel": "JUDGES_20_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.66,
+        0.2737,
+        0.31,
+        0.1131
+      ],
+      "tail": null,
+      "text_key": "judges.20.p7.b2"
+    },
+    {
+      "id": "JUDGES_20_P007_B003",
+      "panel": "JUDGES_20_P007_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.6594,
+        0.42,
+        0.0874
+      ],
+      "tail": [
+        0.76,
+        0.7623
+      ],
+      "text_key": "judges.20.p7.b3"
+    },
+    {
+      "id": "JUDGES_20_P007_B004",
+      "panel": "JUDGES_20_P007_F3",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.25,
+        0.7746,
+        0.5,
+        0.0511
+      ],
+      "tail": null,
+      "text_key": "judges.20.p7.b4"
+    }
+  ]
+}

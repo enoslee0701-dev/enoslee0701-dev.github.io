@@ -1,0 +1,85 @@
+{
+  "id": "JUDGES_21_P007",
+  "book": "judges",
+  "chapter": 21,
+  "page": 7,
+  "ref": "21:24-25",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_21_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_21_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ]
+    },
+    {
+      "id": "JUDGES_21_P007_F2",
+      "box": [
+        0,
+        0.3047,
+        0.4844,
+        0.2682
+      ]
+    },
+    {
+      "id": "JUDGES_21_P007_F3",
+      "box": [
+        0.4912,
+        0.3047,
+        0.5088,
+        0.2682
+      ]
+    },
+    {
+      "id": "JUDGES_21_P007_F4",
+      "box": [
+        0,
+        0.5768,
+        1,
+        0.4232
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_21_P007_B001",
+      "panel": "JUDGES_21_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.009,
+        0.45,
+        0.0602
+      ],
+      "tail": null,
+      "text_key": "judges.21.p7.b1"
+    },
+    {
+      "id": "JUDGES_21_P007_B002",
+      "panel": "JUDGES_21_P007_F4",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1,
+        0.5937,
+        0.8,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "judges.21.p7.b2"
+    }
+  ]
+}

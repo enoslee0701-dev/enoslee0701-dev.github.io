@@ -1,0 +1,133 @@
+{
+  "id": "JUDGES_15_P007",
+  "book": "judges",
+  "chapter": 15,
+  "page": 7,
+  "ref": "15:18-20",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_15_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_15_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3229
+      ]
+    },
+    {
+      "id": "JUDGES_15_P007_F2",
+      "box": [
+        0,
+        0.3262,
+        1,
+        0.3418
+      ]
+    },
+    {
+      "id": "JUDGES_15_P007_F3",
+      "box": [
+        0,
+        0.6712,
+        0.4844,
+        0.3288
+      ]
+    },
+    {
+      "id": "JUDGES_15_P007_F4",
+      "box": [
+        0.4893,
+        0.6712,
+        0.5107,
+        0.3288
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_15_P007_B001",
+      "panel": "JUDGES_15_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0097,
+        0.4,
+        0.0452
+      ],
+      "tail": null,
+      "text_key": "judges.15.p7.b1"
+    },
+    {
+      "id": "JUDGES_15_P007_B002",
+      "panel": "JUDGES_15_P007_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.0969,
+        0.38,
+        0.1291
+      ],
+      "tail": [
+        0.22,
+        0.2583
+      ],
+      "text_key": "judges.15.p7.b2"
+    },
+    {
+      "id": "JUDGES_15_P007_B003",
+      "panel": "JUDGES_15_P007_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.3365,
+        0.45,
+        0.0546
+      ],
+      "tail": null,
+      "text_key": "judges.15.p7.b3"
+    },
+    {
+      "id": "JUDGES_15_P007_B004",
+      "panel": "JUDGES_15_P007_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0194,
+        0.9342,
+        0.4456,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "judges.15.p7.b4"
+    },
+    {
+      "id": "JUDGES_15_P007_B005",
+      "panel": "JUDGES_15_P007_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7242,
+        0.6811,
+        0.2604,
+        0.0789
+      ],
+      "tail": null,
+      "text_key": "judges.15.p7.b5"
+    }
+  ]
+}

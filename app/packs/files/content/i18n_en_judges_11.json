@@ -1,0 +1,412 @@
+{
+  "judges.11.p1.b1": {
+    "text": "Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p1.b2": {
+    "text": "You shall have no inheritance in our father’s house, because you are the son of another woman.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p1.b3": {
+    "text": "So Jephthah fled from his brothers and settled in the land of Tob, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p1.b4": {
+    "text": "… where worthless men gathered around him and traveled with him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p2.b5": {
+    "text": "… the elders of Gilead went to get Jephthah from the land of Tob.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p2.b6": {
+    "text": "Come … be our commander, so that we can fight against the Ammonites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p2.b7": {
+    "text": "Did you not hate me and expel me from my father’s house? Why then have you come to me now, when you are in distress?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p2.b8": {
+    "text": "This is why we now turn to you, that you may go with us, fight the Ammonites, and become leader over all of us who live in Gilead.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p3.b9": {
+    "text": "If you take me back to fight the Ammonites and the LORD gives them to me, will I really be your leader?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p3.b10": {
+    "text": "The LORD is our witness if we do not do as you say.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p3.b11": {
+    "text": "So Jephthah went with the elders of Gilead, and the people made him their leader and commander.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p3.b12": {
+    "text": "And Jephthah repeated all his terms in the presence of the LORD at Mizpah.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p4.b13": {
+    "text": "What do you have against me that you have come to fight against my land?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p4.b14": {
+    "text": "Then Jephthah sent messengers to the king of the Ammonites, …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p4.b15": {
+    "text": "When Israel came up out of Egypt, they seized my land, from the Arnon to the Jabbok and all the way to the Jordan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p4.b16": {
+    "text": "Now, therefore, restore it peaceably.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p5.b17": {
+    "text": "This is what Jephthah says: Israel did not take away the land of Moab or of the Ammonites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p5.b18": {
+    "text": "… and came to Kadesh. … Then Israel sent messengers to the king of Edom, saying, ‘Please let us pass through your land,’ but the king of Edom would not listen.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:16-17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p5.b19": {
+    "text": "… camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p5.b20": {
+    "text": "But Sihon would not trust Israel to pass through his territory. So he gathered all his people, encamped in Jahaz, and fought with Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p6.b21": {
+    "text": "Then the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, … seizing all the land from the Arnon to the Jabbok and from the wilderness to the Jordan.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:21-22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p6.b22": {
+    "text": "Do you not possess whatever your god Chemosh grants you? So also, we possess whatever the LORD our God has granted us.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p6.b23": {
+    "text": "I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p6.b24": {
+    "text": "But the king of the Ammonites paid no heed to the message Jephthah sent him.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p7.b25": {
+    "text": "Then the Spirit of the LORD came upon Jephthah,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p7.b26": {
+    "text": "and he passed through Gilead and Manasseh, then through Mizpah of Gilead. And from there he advanced against the Ammonites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:29"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p7.b27": {
+    "text": "If indeed You will deliver the Ammonites into my hand,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:30"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p7.b28": {
+    "text": "then whatever comes out the door of my house to greet me on my triumphant return from the Ammonites",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p7.b29": {
+    "text": "will belong to the LORD, and I will offer it up as a burnt offering.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p8.b30": {
+    "text": "So Jephthah crossed over to the Ammonites to fight against them, and the LORD delivered them into his hand.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p8.b31": {
+    "text": "With a great blow he devastated twenty cities from Aroer to the vicinity of Minnith, as far as Abel-keramim.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p8.b32": {
+    "text": "So the Ammonites were subdued before the Israelites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:33"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p9.b33": {
+    "text": "And when Jephthah returned home to Mizpah, there was his daughter coming out to meet him with tambourines and dancing! She was his only child; he had no son or daughter besides her.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p9.b34": {
+    "text": "No! Not my daughter! You have brought me to my knees! You have brought great misery upon me,",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p9.b35": {
+    "text": "for I have given my word to the LORD and cannot take it back.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:35"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p9.b36": {
+    "text": "My father … you have given your word to the LORD. Do to me as you have said, for the LORD has avenged you of your enemies, the Ammonites.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:36"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p10.b37": {
+    "text": "Let me do this one thing: Let me wander for two months through the mountains with my friends and mourn my virginity.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:37"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p10.b38": {
+    "text": "Go",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p10.b39": {
+    "text": "So she left with her friends and mourned her virginity upon the mountains.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:38"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p10.b40": {
+    "text": "After two months, she returned to her father, and he did to her as he had vowed. And she had never had relations with a man.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:39"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "judges.11.p10.b41": {
+    "text": "So it has become a custom in Israel that each year the young women of Israel go out for four days to lament the daughter of Jephthah the Gileadite.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Judges 11:39-40"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

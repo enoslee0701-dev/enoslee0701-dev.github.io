@@ -1,0 +1,133 @@
+{
+  "id": "JUDGES_05_P004",
+  "book": "judges",
+  "chapter": 5,
+  "page": 4,
+  "ref": "5:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_05_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_05_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2051
+      ]
+    },
+    {
+      "id": "JUDGES_05_P004_F2",
+      "box": [
+        0,
+        0.2083,
+        1,
+        0.4779
+      ]
+    },
+    {
+      "id": "JUDGES_05_P004_F3",
+      "box": [
+        0,
+        0.6888,
+        0.4307,
+        0.3112
+      ]
+    },
+    {
+      "id": "JUDGES_05_P004_F4",
+      "box": [
+        0.4365,
+        0.6888,
+        0.5635,
+        0.3112
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_05_P004_B014",
+      "panel": "JUDGES_05_P004_F1",
+      "order": 14,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0062,
+        0.46,
+        0.0533
+      ],
+      "tail": null,
+      "text_key": "judges.5.p4.b14"
+    },
+    {
+      "id": "JUDGES_05_P004_B015",
+      "panel": "JUDGES_05_P004_F2",
+      "order": 15,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2226,
+        0.42,
+        0.0669
+      ],
+      "tail": null,
+      "text_key": "judges.5.p4.b15"
+    },
+    {
+      "id": "JUDGES_05_P004_B016",
+      "panel": "JUDGES_05_P004_F2",
+      "order": 16,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.6097,
+        0.47,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "judges.5.p4.b16"
+    },
+    {
+      "id": "JUDGES_05_P004_B017",
+      "panel": "JUDGES_05_P004_F3",
+      "order": 17,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0129,
+        0.6981,
+        0.1464,
+        0.0684
+      ],
+      "tail": [
+        0.0861,
+        0.7976
+      ],
+      "text_key": "judges.5.p4.b17"
+    },
+    {
+      "id": "JUDGES_05_P004_B018",
+      "panel": "JUDGES_05_P004_F4",
+      "order": 18,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4534,
+        0.9315,
+        0.2479,
+        0.0591
+      ],
+      "tail": null,
+      "text_key": "judges.5.p4.b18"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "JUDGES_09_P010",
+  "book": "judges",
+  "chapter": 9,
+  "page": 10,
+  "ref": "9:42-45",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JUDGES_09_P010",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JUDGES_09_P010_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2721
+      ]
+    },
+    {
+      "id": "JUDGES_09_P010_F2",
+      "box": [
+        0,
+        0.2741,
+        1,
+        0.3158
+      ]
+    },
+    {
+      "id": "JUDGES_09_P010_F3",
+      "box": [
+        0,
+        0.5931,
+        0.7471,
+        0.4069
+      ]
+    },
+    {
+      "id": "JUDGES_09_P010_F4",
+      "box": [
+        0.7529,
+        0.5931,
+        0.2471,
+        0.4069
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JUDGES_09_P010_B032",
+      "panel": "JUDGES_09_P010_F1",
+      "order": 32,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.0082,
+        0.45,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "judges.9.p10.b32"
+    },
+    {
+      "id": "JUDGES_09_P010_B033",
+      "panel": "JUDGES_09_P010_F2",
+      "order": 33,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2836,
+        0.4,
+        0.0568
+      ],
+      "tail": null,
+      "text_key": "judges.9.p10.b33"
+    },
+    {
+      "id": "JUDGES_09_P010_B034",
+      "panel": "JUDGES_09_P010_F3",
+      "order": 34,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0224,
+        0.6053,
+        0.4109,
+        0.061
+      ],
+      "tail": null,
+      "text_key": "judges.9.p10.b34"
+    }
+  ]
+}
