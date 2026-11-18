@@ -1,0 +1,118 @@
+{
+  "id": "RUTH_02_P008",
+  "book": "ruth",
+  "chapter": 2,
+  "page": 8,
+  "ref": "2:22-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "RUTH_02_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "RUTH_02_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3659
+      ]
+    },
+    {
+      "id": "RUTH_02_P008_F2",
+      "box": [
+        0,
+        0.3691,
+        1,
+        0.2142
+      ]
+    },
+    {
+      "id": "RUTH_02_P008_F3",
+      "box": [
+        0,
+        0.5872,
+        1,
+        0.2142
+      ]
+    },
+    {
+      "id": "RUTH_02_P008_F4",
+      "box": [
+        0,
+        0.8053,
+        1,
+        0.1947
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "RUTH_02_P008_B001",
+      "panel": "RUTH_02_P008_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.011,
+        0.25,
+        0.1317
+      ],
+      "tail": [
+        0.145,
+        0.1793
+      ],
+      "text_key": "ruth.2.p8.b1"
+    },
+    {
+      "id": "RUTH_02_P008_B002",
+      "panel": "RUTH_02_P008_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.3798,
+        0.5,
+        0.0556
+      ],
+      "tail": null,
+      "text_key": "ruth.2.p8.b2"
+    },
+    {
+      "id": "RUTH_02_P008_B003",
+      "panel": "RUTH_02_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.5979,
+        0.42,
+        0.0514
+      ],
+      "tail": null,
+      "text_key": "ruth.2.p8.b3"
+    },
+    {
+      "id": "RUTH_02_P008_B004",
+      "panel": "RUTH_02_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.815,
+        0.4,
+        0.0428
+      ],
+      "tail": null,
+      "text_key": "ruth.2.p8.b4"
+    }
+  ]
+}

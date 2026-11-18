@@ -1,0 +1,282 @@
+{
+  "ruth.2.p1.b1": {
+    "text": "나오미의 남편 엘리멜렉의 친족 중 유력한 자가 있으니 이름은 보아스더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p1.b2": {
+    "text": "나로 밭에 가게 하소서 내가 뉘게 은혜를 입으면 그를 따라서 이삭을 줍겠나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p1.b3": {
+    "text": "내 딸아 갈지어다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p1.b4": {
+    "text": "룻이 가서 … 우연히 엘리멜렉의 친족 보아스에게 속한 밭에 이르렀더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p2.b1": {
+    "text": "여호와께서 너희와 함께 하시기를 원하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p2.b2": {
+    "text": "여호와께서 당신에게 복 주시기를 원하나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p2.b3": {
+    "text": "이는 뉘 소녀냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p2.b4": {
+    "text": "이는 나오미와 함께 모압 지방에서 돌아온 모압 소녀인데 … 아침부터 와서는 잠시 집에서 쉰 외에 지금까지 계속하는 중이니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:6-7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p3.b1": {
+    "text": "내 딸아 들으라 이삭을 주우러 다른 밭으로 가지 말며 … 나의 소녀들과 함께 있으라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p3.b2": {
+    "text": "내가 그 소년들에게 명하여 너를 건드리지 말라 하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p3.b3": {
+    "text": "목이 마르거든 그릇에 가서 소년들의 길어 온 것을 마실지니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p4.b1": {
+    "text": "나는 이방 여인이어늘 당신이 어찌하여 내게 은혜를 베푸시며 나를 돌아보시나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p4.b2": {
+    "text": "네 남편이 죽은 후로 네가 시모에게 행한 모든 것과 … 내게 분명히 들렸느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p4.b3": {
+    "text": "여호와께서 네 행한 일을 보응하시기를 원하며 이스라엘의 하나님 여호와께서 그 날개 아래 보호를 받으러 온 네게 온전한 상 주시기를 원하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p4.b4": {
+    "text": "내 주여 … 나는 당신의 시녀의 하나와 같지 못하오나 당신이 이 시녀를 위로하시고 마음을 기쁘게 하는 말씀을 하셨나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p5.b1": {
+    "text": "이리로 와서 떡을 먹으며 네 떡 조각을 초에 찍으라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p5.b2": {
+    "text": "룻이 배불리 먹고 남았더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p5.b3": {
+    "text": "그로 곡식 단 사이에서 줍게 하고 책망하지 말며 또 그를 위하여 줌에서 조금씩 뽑아 버려서 그로 줍게 하고 꾸짖지 말라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:15-16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p6.b1": {
+    "text": "룻이 밭에서 저녁까지 줍고 그 주운 것을 떠니 보리가 한 에바쯤 되는지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p6.b2": {
+    "text": "그것을 가지고 성읍에 들어가서 시모에게 그 주운 것을 보이고 그 배불리 먹고 남긴 것을 내어 시모에게 드리매",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p7.b1": {
+    "text": "오늘 어디서 주웠느냐 어디서 일을 하였느냐 너를 돌아본 자에게 복이 있기를 원하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p7.b2": {
+    "text": "오늘 일하게 한 사람의 이름은 보아스니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p7.b3": {
+    "text": "여호와의 복이 그에게 있기를 원하노라 그가 생존한 자와 사망한 자에게 은혜 베풀기를 그치지 아니하도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p7.b4": {
+    "text": "그 사람은 우리의 근족이니 우리 기업을 무를 자 중 하나이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p8.b1": {
+    "text": "내 딸아 너는 그 소녀들과 함께 나가고 다른 밭에서 사람을 만나지 아니하는 것이 좋으니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p8.b2": {
+    "text": "이에 룻이 보아스의 소녀들에게 가까이 있어서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p8.b3": {
+    "text": "보리 추수와 밀 추수를 마치기까지 이삭을 주우며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ruth.2.p8.b4": {
+    "text": "그 시모와 함께 거하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ruth 2:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

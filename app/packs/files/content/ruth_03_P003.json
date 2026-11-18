@@ -1,0 +1,115 @@
+{
+  "id": "RUTH_03_P003",
+  "book": "ruth",
+  "chapter": 3,
+  "page": 3,
+  "ref": "3:8-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "RUTH_03_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "RUTH_03_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2995
+      ]
+    },
+    {
+      "id": "RUTH_03_P003_F2",
+      "box": [
+        0,
+        0.3021,
+        1,
+        0.2018
+      ]
+    },
+    {
+      "id": "RUTH_03_P003_F3",
+      "box": [
+        0,
+        0.5059,
+        1,
+        0.4941
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "RUTH_03_P003_B001",
+      "panel": "RUTH_03_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.03,
+        0.012,
+        0.46,
+        0.0778
+      ],
+      "tail": null,
+      "text_key": "ruth.3.p3.b1"
+    },
+    {
+      "id": "RUTH_03_P003_B002",
+      "panel": "RUTH_03_P003_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.03,
+        0.2156,
+        0.3,
+        0.0658
+      ],
+      "tail": [
+        0.18,
+        0.2995
+      ],
+      "text_key": "ruth.3.p3.b2"
+    },
+    {
+      "id": "RUTH_03_P003_B003",
+      "panel": "RUTH_03_P003_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.6,
+        0.3142,
+        0.37,
+        0.1009
+      ],
+      "tail": [
+        0.785,
+        0.4353
+      ],
+      "text_key": "ruth.3.p3.b3"
+    },
+    {
+      "id": "RUTH_03_P003_B004",
+      "panel": "RUTH_03_P003_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.5207,
+        0.4,
+        0.079
+      ],
+      "tail": [
+        0.23,
+        0.6491
+      ],
+      "text_key": "ruth.3.p3.b4"
+    }
+  ]
+}

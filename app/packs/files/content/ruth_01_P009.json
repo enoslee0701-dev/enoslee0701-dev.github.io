@@ -1,0 +1,76 @@
+{
+  "id": "RUTH_01_P009",
+  "book": "ruth",
+  "chapter": 1,
+  "page": 9,
+  "ref": "1:22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "RUTH_01_P009",
+    "ratio": "2:3",
+    "master_version": 2
+  },
+  "panels": [
+    {
+      "id": "RUTH_01_P009_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3555
+      ]
+    },
+    {
+      "id": "RUTH_01_P009_F2",
+      "box": [
+        0,
+        0.3607,
+        1,
+        0.2422
+      ]
+    },
+    {
+      "id": "RUTH_01_P009_F3",
+      "box": [
+        0,
+        0.6087,
+        1,
+        0.3913
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "RUTH_01_P009_B001",
+      "panel": "RUTH_01_P009_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0107,
+        0.45,
+        0.0711
+      ],
+      "tail": null,
+      "text_key": "ruth.1.p9.b1"
+    },
+    {
+      "id": "RUTH_01_P009_B002",
+      "panel": "RUTH_01_P009_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6244,
+        0.46,
+        0.0508
+      ],
+      "tail": null,
+      "text_key": "ruth.1.p9.b2"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "RUTH_01_P004",
+  "book": "ruth",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:10-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "RUTH_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "RUTH_01_P004_F1",
+      "box": [
+        0,
+        0.0462,
+        1,
+        0.2806
+      ]
+    },
+    {
+      "id": "RUTH_01_P004_F2",
+      "box": [
+        0,
+        0.332,
+        0.5391,
+        0.2995
+      ]
+    },
+    {
+      "id": "RUTH_01_P004_F3",
+      "box": [
+        0.5479,
+        0.332,
+        0.4521,
+        0.2995
+      ]
+    },
+    {
+      "id": "RUTH_01_P004_F4",
+      "box": [
+        0,
+        0.6361,
+        1,
+        0.3639
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "RUTH_01_P004_B001",
+      "panel": "RUTH_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.02,
+        0.0518,
+        0.3,
+        0.0336
+      ],
+      "tail": [
+        0.17,
+        0.1135
+      ],
+      "text_key": "ruth.1.p4.b1"
+    },
+    {
+      "id": "RUTH_01_P004_B002",
+      "panel": "RUTH_01_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2426,
+        0.341,
+        0.2803,
+        0.0359
+      ],
+      "tail": [
+        0.3828,
+        0.4069
+      ],
+      "text_key": "ruth.1.p4.b2"
+    },
+    {
+      "id": "RUTH_01_P004_B003",
+      "panel": "RUTH_01_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5705,
+        0.5656,
+        0.4068,
+        0.0569
+      ],
+      "tail": [
+        0.7739,
+        0.6315
+      ],
+      "text_key": "ruth.1.p4.b3"
+    },
+    {
+      "id": "RUTH_01_P004_B004",
+      "panel": "RUTH_01_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.03,
+        0.9345,
+        0.45,
+        0.0545
+      ],
+      "tail": [
+        0.255,
+        1
+      ],
+      "text_key": "ruth.1.p4.b4"
+    }
+  ]
+}
