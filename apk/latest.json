@@ -1,31 +1,31 @@
 {
-  "build": 109,
+  "build": 110,
   "version": "1.1.0",
-  "published": "2026-11-13T05:23:35.807Z",
+  "published": "2026-11-18T13:09:57.633Z",
   "notes": {
-    "zh-Hans": "新增士师记全卷 21 章漫画",
-    "en": "Added the complete Book of Judges (21 chapters)"
+    "zh-Hans": "新增路得记全卷 4 章漫画",
+    "en": "Added the complete Book of Ruth (4 chapters) in comics"
   },
   "assets": {
     "zh-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b109/bible-comics-zh-arm64.apk",
-      "size": 146934308,
-      "sha256": "0bf8047a526c524611841c692282698c9e20e466a18874d9430ef030cd4b02b2"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b110/bible-comics-zh-arm64.apk",
+      "size": 147510371,
+      "sha256": "5ffe2c76cc4f78b14d23ee26841faebd71baab7594366e52b67cf9cef9ec3df4"
     },
     "zh-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b109/bible-comics-zh-armv7.apk",
-      "size": 139986626,
-      "sha256": "aab855168855e328856359c2a3bdf7cf8ea3e9307d9a663c1a917d3e79335043"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b110/bible-comics-zh-armv7.apk",
+      "size": 140562689,
+      "sha256": "9c83bd889c6cc4050c1cb3cbf525424c56c62a89aae756b5c1b7f40422c76f63"
     },
     "en-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b109/bible-comics-en-arm64.apk",
-      "size": 146935864,
-      "sha256": "e2ddb11df346d4c8520f0300cc9e5cda90385e52ecee6f44ad580119780b93e4"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b110/bible-comics-en-arm64.apk",
+      "size": 147511927,
+      "sha256": "4660ff2d2e7b56e92877c169bab945154b03ec192b13956ea58ddd46523175bd"
     },
     "en-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b109/bible-comics-en-armv7.apk",
-      "size": 139988182,
-      "sha256": "c02c43ff69bc8861bf939d4aaeefb03ea2279054c502ff903fd897ca3d85902f"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b110/bible-comics-en-armv7.apk",
+      "size": 140564245,
+      "sha256": "c7c2654bbafb2463e997b1d3402a0e3d98ea7b9b290c122e3fc59df8575fedcb"
     }
   }
 }
