@@ -1,0 +1,118 @@
+{
+  "id": "SAMUEL2_20_P001",
+  "book": "samuel2",
+  "chapter": 20,
+  "page": 1,
+  "ref": "20:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL2_20_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL2_20_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3158
+      ]
+    },
+    {
+      "id": "SAMUEL2_20_P001_F2",
+      "box": [
+        0,
+        0.3197,
+        1,
+        0.3906
+      ]
+    },
+    {
+      "id": "SAMUEL2_20_P001_F3",
+      "box": [
+        0,
+        0.7142,
+        0.498,
+        0.2858
+      ]
+    },
+    {
+      "id": "SAMUEL2_20_P001_F4",
+      "box": [
+        0.5039,
+        0.7142,
+        0.4961,
+        0.2858
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL2_20_P001_B001",
+      "panel": "SAMUEL2_20_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0126,
+        0.42,
+        0.0821
+      ],
+      "tail": null,
+      "text_key": "samuel2.20.p1.b1"
+    },
+    {
+      "id": "SAMUEL2_20_P001_B002",
+      "panel": "SAMUEL2_20_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.02,
+        0.3314,
+        0.5,
+        0.0937
+      ],
+      "tail": [
+        0.27,
+        0.4642
+      ],
+      "text_key": "samuel2.20.p1.b2"
+    },
+    {
+      "id": "SAMUEL2_20_P001_B003",
+      "panel": "SAMUEL2_20_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.9257,
+        0.3087,
+        0.0628
+      ],
+      "tail": null,
+      "text_key": "samuel2.20.p1.b3"
+    },
+    {
+      "id": "SAMUEL2_20_P001_B004",
+      "panel": "SAMUEL2_20_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5337,
+        0.7228,
+        0.4365,
+        0.0571
+      ],
+      "tail": null,
+      "text_key": "samuel2.20.p1.b4"
+    }
+  ]
+}

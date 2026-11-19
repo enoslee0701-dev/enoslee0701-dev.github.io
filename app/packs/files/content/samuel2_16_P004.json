@@ -1,0 +1,136 @@
+{
+  "id": "SAMUEL2_16_P004",
+  "book": "samuel2",
+  "chapter": 16,
+  "page": 4,
+  "ref": "16:9-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL2_16_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL2_16_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1875
+      ]
+    },
+    {
+      "id": "SAMUEL2_16_P004_F2",
+      "box": [
+        0,
+        0.1901,
+        1,
+        0.3724
+      ]
+    },
+    {
+      "id": "SAMUEL2_16_P004_F3",
+      "box": [
+        0,
+        0.5651,
+        0.5146,
+        0.2096
+      ]
+    },
+    {
+      "id": "SAMUEL2_16_P004_F4",
+      "box": [
+        0.5195,
+        0.5651,
+        0.4805,
+        0.2096
+      ]
+    },
+    {
+      "id": "SAMUEL2_16_P004_F5",
+      "box": [
+        0,
+        0.7773,
+        1,
+        0.2227
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL2_16_P004_B001",
+      "panel": "SAMUEL2_16_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.02,
+        0.0075,
+        0.44,
+        0.0562
+      ],
+      "tail": [
+        0.24,
+        0.0825
+      ],
+      "text_key": "samuel2.16.p4.b1"
+    },
+    {
+      "id": "SAMUEL2_16_P004_B002",
+      "panel": "SAMUEL2_16_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.2013,
+        0.6,
+        0.0744
+      ],
+      "tail": [
+        0.5,
+        0.3129
+      ],
+      "text_key": "samuel2.16.p4.b2"
+    },
+    {
+      "id": "SAMUEL2_16_P004_B003",
+      "panel": "SAMUEL2_16_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0309,
+        0.5714,
+        0.4528,
+        0.0586
+      ],
+      "tail": [
+        0.2573,
+        0.651
+      ],
+      "text_key": "samuel2.16.p4.b3"
+    },
+    {
+      "id": "SAMUEL2_16_P004_B004",
+      "panel": "SAMUEL2_16_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5483,
+        0.7076,
+        0.4228,
+        0.0586
+      ],
+      "tail": [
+        0.7597,
+        0.7747
+      ],
+      "text_key": "samuel2.16.p4.b4"
+    }
+  ]
+}

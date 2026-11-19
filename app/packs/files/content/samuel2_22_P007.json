@@ -1,0 +1,115 @@
+{
+  "id": "SAMUEL2_22_P007",
+  "book": "samuel2",
+  "chapter": 22,
+  "page": 7,
+  "ref": "22:29-37",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL2_22_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL2_22_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.28
+      ]
+    },
+    {
+      "id": "SAMUEL2_22_P007_F2",
+      "box": [
+        0,
+        0.27,
+        1,
+        0.41
+      ]
+    },
+    {
+      "id": "SAMUEL2_22_P007_F3",
+      "box": [
+        0,
+        0.68,
+        0.43,
+        0.32
+      ]
+    },
+    {
+      "id": "SAMUEL2_22_P007_F4",
+      "box": [
+        0.44,
+        0.66,
+        0.56,
+        0.34
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL2_22_P007_B001",
+      "panel": "SAMUEL2_22_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.014,
+        0.4,
+        0.084
+      ],
+      "tail": null,
+      "text_key": "samuel2.22.p7.b1"
+    },
+    {
+      "id": "SAMUEL2_22_P007_B002",
+      "panel": "SAMUEL2_22_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.76,
+        0.2823,
+        0.22,
+        0.082
+      ],
+      "tail": null,
+      "text_key": "samuel2.22.p7.b2"
+    },
+    {
+      "id": "SAMUEL2_22_P007_B003",
+      "panel": "SAMUEL2_22_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0129,
+        0.6896,
+        0.2365,
+        0.0544
+      ],
+      "tail": null,
+      "text_key": "samuel2.22.p7.b3"
+    },
+    {
+      "id": "SAMUEL2_22_P007_B004",
+      "panel": "SAMUEL2_22_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.608,
+        0.864,
+        0.168,
+        0.0748
+      ],
+      "tail": null,
+      "text_key": "samuel2.22.p7.b4"
+    }
+  ]
+}
