@@ -1,0 +1,109 @@
+{
+  "id": "KINGS2_08_P002",
+  "book": "kings2",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS2_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS2_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2448
+      ]
+    },
+    {
+      "id": "KINGS2_08_P002_F2",
+      "box": [
+        0,
+        0.2493,
+        1,
+        0.3874
+      ]
+    },
+    {
+      "id": "KINGS2_08_P002_F3",
+      "box": [
+        0,
+        0.6406,
+        0.4023,
+        0.3594
+      ]
+    },
+    {
+      "id": "KINGS2_08_P002_F4",
+      "box": [
+        0.4092,
+        0.6406,
+        0.5908,
+        0.3594
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS2_08_P002_B001",
+      "panel": "KINGS2_08_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.35,
+        0.0073,
+        0.2,
+        0.0979
+      ],
+      "tail": [
+        0.45,
+        0.1297
+      ],
+      "text_key": "kings2.8.p2.b1"
+    },
+    {
+      "id": "KINGS2_08_P002_B002",
+      "panel": "KINGS2_08_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.257,
+        0.45,
+        0.0619
+      ],
+      "tail": [
+        0.745,
+        0.3576
+      ],
+      "text_key": "kings2.8.p2.b2"
+    },
+    {
+      "id": "KINGS2_08_P002_B003",
+      "panel": "KINGS2_08_P002_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4328,
+        0.6514,
+        0.5435,
+        0.0862
+      ],
+      "tail": [
+        0.7046,
+        0.7735
+      ],
+      "text_key": "kings2.8.p2.b3"
+    }
+  ]
+}

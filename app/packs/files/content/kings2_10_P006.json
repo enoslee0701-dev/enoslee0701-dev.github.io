@@ -1,0 +1,118 @@
+{
+  "id": "KINGS2_10_P006",
+  "book": "kings2",
+  "chapter": 10,
+  "page": 6,
+  "ref": "10:25-28",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS2_10_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS2_10_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2734
+      ]
+    },
+    {
+      "id": "KINGS2_10_P006_F2",
+      "box": [
+        0,
+        0.2773,
+        0.4688,
+        0.2637
+      ]
+    },
+    {
+      "id": "KINGS2_10_P006_F3",
+      "box": [
+        0.4746,
+        0.2773,
+        0.5254,
+        0.2637
+      ]
+    },
+    {
+      "id": "KINGS2_10_P006_F4",
+      "box": [
+        0,
+        0.5443,
+        1,
+        0.4557
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS2_10_P006_B001",
+      "panel": "KINGS2_10_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6,
+        0.0055,
+        0.38,
+        0.0656
+      ],
+      "tail": [
+        0.79,
+        0.0984
+      ],
+      "text_key": "kings2.10.p6.b1"
+    },
+    {
+      "id": "KINGS2_10_P006_B002",
+      "panel": "KINGS2_10_P006_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4956,
+        0.4777,
+        0.4833,
+        0.0553
+      ],
+      "tail": null,
+      "text_key": "kings2.10.p6.b2"
+    },
+    {
+      "id": "KINGS2_10_P006_B003",
+      "panel": "KINGS2_10_P006_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.54,
+        0.5534,
+        0.44,
+        0.0546
+      ],
+      "tail": null,
+      "text_key": "kings2.10.p6.b3"
+    },
+    {
+      "id": "KINGS2_10_P006_B004",
+      "panel": "KINGS2_10_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9271,
+        0.5,
+        0.0592
+      ],
+      "tail": null,
+      "text_key": "kings2.10.p6.b4"
+    }
+  ]
+}

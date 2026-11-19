@@ -1,0 +1,115 @@
+{
+  "id": "KINGS2_23_P008",
+  "book": "kings2",
+  "chapter": 23,
+  "page": 8,
+  "ref": "23:26-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS2_23_P008",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS2_23_P008_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ]
+    },
+    {
+      "id": "KINGS2_23_P008_F2",
+      "box": [
+        0,
+        0.2624,
+        1,
+        0.1354
+      ]
+    },
+    {
+      "id": "KINGS2_23_P008_F3",
+      "box": [
+        0,
+        0.3997,
+        1,
+        0.4036
+      ]
+    },
+    {
+      "id": "KINGS2_23_P008_F4",
+      "box": [
+        0,
+        0.8053,
+        1,
+        0.1947
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS2_23_P008_B001",
+      "panel": "KINGS2_23_P008_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0104,
+        0.5,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p8.b1"
+    },
+    {
+      "id": "KINGS2_23_P008_B002",
+      "panel": "KINGS2_23_P008_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.2732,
+        0.56,
+        0.1137
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p8.b2"
+    },
+    {
+      "id": "KINGS2_23_P008_B003",
+      "panel": "KINGS2_23_P008_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7226,
+        0.5,
+        0.0686
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p8.b3"
+    },
+    {
+      "id": "KINGS2_23_P008_B004",
+      "panel": "KINGS2_23_P008_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.8131,
+        0.7,
+        0.0584
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p8.b4"
+    }
+  ]
+}

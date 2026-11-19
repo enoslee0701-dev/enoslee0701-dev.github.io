@@ -1,0 +1,115 @@
+{
+  "id": "KINGS2_23_P004",
+  "book": "kings2",
+  "chapter": 23,
+  "page": 4,
+  "ref": "23:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS2_23_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS2_23_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5518,
+        0.3301
+      ]
+    },
+    {
+      "id": "KINGS2_23_P004_F2",
+      "box": [
+        0.5596,
+        0,
+        0.4404,
+        0.3301
+      ]
+    },
+    {
+      "id": "KINGS2_23_P004_F3",
+      "box": [
+        0,
+        0.3346,
+        1,
+        0.3822
+      ]
+    },
+    {
+      "id": "KINGS2_23_P004_F4",
+      "box": [
+        0,
+        0.7214,
+        1,
+        0.2786
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS2_23_P004_B001",
+      "panel": "KINGS2_23_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0221,
+        0.0099,
+        0.4304,
+        0.066
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p4.b1"
+    },
+    {
+      "id": "KINGS2_23_P004_B002",
+      "panel": "KINGS2_23_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5816,
+        0.2575,
+        0.3963,
+        0.0594
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p4.b2"
+    },
+    {
+      "id": "KINGS2_23_P004_B003",
+      "panel": "KINGS2_23_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3461,
+        0.44,
+        0.0649
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p4.b3"
+    },
+    {
+      "id": "KINGS2_23_P004_B004",
+      "panel": "KINGS2_23_P004_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.727,
+        0.3,
+        0.0362
+      ],
+      "tail": null,
+      "text_key": "kings2.23.p4.b4"
+    }
+  ]
+}

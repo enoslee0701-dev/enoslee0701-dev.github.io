@@ -1,0 +1,148 @@
+{
+  "id": "KINGS2_05_P007",
+  "book": "kings2",
+  "chapter": 5,
+  "page": 7,
+  "ref": "5:19-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS2_05_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS2_05_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1497
+      ]
+    },
+    {
+      "id": "KINGS2_05_P007_F2",
+      "box": [
+        0,
+        0.1536,
+        0.6143,
+        0.2917
+      ]
+    },
+    {
+      "id": "KINGS2_05_P007_F3",
+      "box": [
+        0.6201,
+        0.1536,
+        0.3799,
+        0.2917
+      ]
+    },
+    {
+      "id": "KINGS2_05_P007_F4",
+      "box": [
+        0,
+        0.4492,
+        1,
+        0.3197
+      ]
+    },
+    {
+      "id": "KINGS2_05_P007_F5",
+      "box": [
+        0,
+        0.7728,
+        1,
+        0.2272
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS2_05_P007_B001",
+      "panel": "KINGS2_05_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0045,
+        0.92,
+        0.0269
+      ],
+      "tail": null,
+      "text_key": "kings2.5.p7.b1"
+    },
+    {
+      "id": "KINGS2_05_P007_B002",
+      "panel": "KINGS2_05_P007_F2",
+      "order": 2,
+      "type": "thought",
+      "style": "thought",
+      "box": [
+        0.0123,
+        0.1594,
+        0.1597,
+        0.1691
+      ],
+      "tail": [
+        0.0922,
+        0.3577
+      ],
+      "text_key": "kings2.5.p7.b2"
+    },
+    {
+      "id": "KINGS2_05_P007_B003",
+      "panel": "KINGS2_05_P007_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.4588,
+        0.24,
+        0.0703
+      ],
+      "tail": [
+        0.14,
+        0.5611
+      ],
+      "text_key": "kings2.5.p7.b3"
+    },
+    {
+      "id": "KINGS2_05_P007_B004",
+      "panel": "KINGS2_05_P007_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.4588,
+        0.47,
+        0.0959
+      ],
+      "tail": [
+        0.735,
+        0.5867
+      ],
+      "text_key": "kings2.5.p7.b4"
+    },
+    {
+      "id": "KINGS2_05_P007_B005",
+      "panel": "KINGS2_05_P007_F5",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.32,
+        0.7796,
+        0.3,
+        0.0408
+      ],
+      "tail": null,
+      "text_key": "kings2.5.p7.b5"
+    }
+  ]
+}

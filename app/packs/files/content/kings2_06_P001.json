@@ -1,0 +1,124 @@
+{
+  "id": "KINGS2_06_P001",
+  "book": "kings2",
+  "chapter": 6,
+  "page": 1,
+  "ref": "6:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "KINGS2_06_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "KINGS2_06_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3314
+      ]
+    },
+    {
+      "id": "KINGS2_06_P001_F2",
+      "box": [
+        0,
+        0.3353,
+        0.4551,
+        0.2611
+      ]
+    },
+    {
+      "id": "KINGS2_06_P001_F3",
+      "box": [
+        0.4619,
+        0.3353,
+        0.5381,
+        0.2611
+      ]
+    },
+    {
+      "id": "KINGS2_06_P001_F4",
+      "box": [
+        0,
+        0.6009,
+        1,
+        0.3991
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "KINGS2_06_P001_B001",
+      "panel": "KINGS2_06_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.2,
+        0.0099,
+        0.6,
+        0.0662
+      ],
+      "tail": [
+        0.5,
+        0.1092
+      ],
+      "text_key": "kings2.6.p1.b1"
+    },
+    {
+      "id": "KINGS2_06_P001_B002",
+      "panel": "KINGS2_06_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0273,
+        0.3457,
+        0.4004,
+        0.0574
+      ],
+      "tail": [
+        0.2275,
+        0.4292
+      ],
+      "text_key": "kings2.6.p1.b2"
+    },
+    {
+      "id": "KINGS2_06_P001_B003",
+      "panel": "KINGS2_06_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.731,
+        0.3457,
+        0.2475,
+        0.0469
+      ],
+      "tail": [
+        0.8548,
+        0.4187
+      ],
+      "text_key": "kings2.6.p1.b3"
+    },
+    {
+      "id": "KINGS2_06_P001_B004",
+      "panel": "KINGS2_06_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6129,
+        0.55,
+        0.0518
+      ],
+      "tail": null,
+      "text_key": "kings2.6.p1.b4"
+    }
+  ]
+}
