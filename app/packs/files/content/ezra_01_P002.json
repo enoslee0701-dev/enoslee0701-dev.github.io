@@ -1,0 +1,91 @@
+{
+  "id": "EZRA_01_P002",
+  "book": "ezra",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:5-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZRA_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZRA_01_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2337
+      ]
+    },
+    {
+      "id": "EZRA_01_P002_F2",
+      "box": [
+        0,
+        0.2389,
+        1,
+        0.4434
+      ]
+    },
+    {
+      "id": "EZRA_01_P002_F3",
+      "box": [
+        0,
+        0.6868,
+        1,
+        0.3132
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZRA_01_P002_B001",
+      "panel": "EZRA_01_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0093,
+        0.45,
+        0.0467
+      ],
+      "tail": null,
+      "text_key": "ezra.1.p2.b1"
+    },
+    {
+      "id": "EZRA_01_P002_B002",
+      "panel": "EZRA_01_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.2522,
+        0.47,
+        0.062
+      ],
+      "tail": null,
+      "text_key": "ezra.1.p2.b2"
+    },
+    {
+      "id": "EZRA_01_P002_B003",
+      "panel": "EZRA_01_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6993,
+        0.48,
+        0.0814
+      ],
+      "tail": null,
+      "text_key": "ezra.1.p2.b3"
+    }
+  ]
+}

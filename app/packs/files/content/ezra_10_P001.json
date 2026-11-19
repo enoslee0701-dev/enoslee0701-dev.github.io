@@ -1,0 +1,124 @@
+{
+  "id": "EZRA_10_P001",
+  "book": "ezra",
+  "chapter": 10,
+  "page": 1,
+  "ref": "10:1-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZRA_10_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZRA_10_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ]
+    },
+    {
+      "id": "EZRA_10_P001_F2",
+      "box": [
+        0,
+        0.2786,
+        0.498,
+        0.3659
+      ]
+    },
+    {
+      "id": "EZRA_10_P001_F3",
+      "box": [
+        0.5049,
+        0.2786,
+        0.4951,
+        0.3659
+      ]
+    },
+    {
+      "id": "EZRA_10_P001_F4",
+      "box": [
+        0,
+        0.6478,
+        1,
+        0.3522
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZRA_10_P001_B001",
+      "panel": "EZRA_10_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.0055,
+        0.92,
+        0.044
+      ],
+      "tail": null,
+      "text_key": "ezra.10.p1.b1"
+    },
+    {
+      "id": "EZRA_10_P001_B002",
+      "panel": "EZRA_10_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0149,
+        0.2896,
+        0.2739,
+        0.0951
+      ],
+      "tail": [
+        0.1518,
+        0.4213
+      ],
+      "text_key": "ezra.10.p1.b2"
+    },
+    {
+      "id": "EZRA_10_P001_B003",
+      "panel": "EZRA_10_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5247,
+        0.2896,
+        0.4554,
+        0.0878
+      ],
+      "tail": [
+        0.7524,
+        0.414
+      ],
+      "text_key": "ezra.10.p1.b3"
+    },
+    {
+      "id": "EZRA_10_P001_B004",
+      "panel": "EZRA_10_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.6548,
+        0.47,
+        0.0457
+      ],
+      "tail": [
+        0.735,
+        0.7357
+      ],
+      "text_key": "ezra.10.p1.b4"
+    }
+  ]
+}

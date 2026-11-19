@@ -1,0 +1,112 @@
+{
+  "ezra.2.p1.b1": {
+    "text": "옛적에 바벨론 왕 느부갓네살에게 사로잡혀 바벨론으로 갔던 자의 자손 중에서 놓임을 받고 예루살렘과 유다 도로 돌아와 각기 본성에 이른 자",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p1.b2": {
+    "text": "곧 스룹바벨과 예수아와 느헤미야와 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p1.b3": {
+    "text": "이스라엘 백성의 명수가 이러하니 바로스 자손이 이천 일백 칠십 이명이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p1.b4": {
+    "text": "베들레헴 사람이 일백 이십 삼명이요 … 여리고 자손이 삼백 사십 오명이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:21-34"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p2.b1": {
+    "text": "제사장들은 예수아의 집 여다야 자손이 구백 칠십 삼명이요 … 노래하는 자들은 아삽 자손이 일백 이십 팔명이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:36-41"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p2.b2": {
+    "text": "이 사람들이 보계 중에서 자기 이름을 찾아도 얻지 못한고로 저희를 부정하게 여겨 제사장의 직분을 행치 못하게 하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:62"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p2.b3": {
+    "text": "방백이 저희에게 명하여 우림과 둠밈을 가진 제사장이 일어나기 전에는 지성물을 먹지 말라 하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:63"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p3.b1": {
+    "text": "온 회중의 합계가 사만 이천 삼백 육십명이요",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:64"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p3.b2": {
+    "text": "말이 칠백 삼십 육이요 노새가 이백 사십 오요 약대가 사백 삼십 오요 나귀가 육천 칠백 이십이었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:66-67"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p3.b3": {
+    "text": "어떤 적장들이 예루살렘 여호와의 전 터에 이르러 하나님의 전을 그곳에 다시 건축하려고 예물을 즐거이 드리되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:68"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezra.2.p3.b4": {
+    "text": "이에 제사장들과 레위 사람들과 백성 몇과 노래하는 자들과 문지기들과 느디님 사람들이 그 본성 들에 거하고 이스라엘 무리도 그 본성 들에 거하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezra 2:70"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

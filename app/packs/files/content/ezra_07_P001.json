@@ -1,0 +1,115 @@
+{
+  "id": "EZRA_07_P001",
+  "book": "ezra",
+  "chapter": 7,
+  "page": 1,
+  "ref": "7:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZRA_07_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZRA_07_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2311
+      ]
+    },
+    {
+      "id": "EZRA_07_P001_F2",
+      "box": [
+        0,
+        0.2344,
+        0.4043,
+        0.4134
+      ]
+    },
+    {
+      "id": "EZRA_07_P001_F3",
+      "box": [
+        0.4102,
+        0.2344,
+        0.5898,
+        0.4134
+      ]
+    },
+    {
+      "id": "EZRA_07_P001_F4",
+      "box": [
+        0,
+        0.651,
+        1,
+        0.349
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZRA_07_P001_B001",
+      "panel": "EZRA_07_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.04,
+        0.0069,
+        0.92,
+        0.06
+      ],
+      "tail": null,
+      "text_key": "ezra.7.p1.b1"
+    },
+    {
+      "id": "EZRA_07_P001_B002",
+      "panel": "EZRA_07_P001_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0162,
+        0.6023,
+        0.3719,
+        0.0372
+      ],
+      "tail": null,
+      "text_key": "ezra.7.p1.b2"
+    },
+    {
+      "id": "EZRA_07_P001_B003",
+      "panel": "EZRA_07_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7051,
+        0.2468,
+        0.2772,
+        0.0909
+      ],
+      "tail": null,
+      "text_key": "ezra.7.p1.b3"
+    },
+    {
+      "id": "EZRA_07_P001_B004",
+      "panel": "EZRA_07_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.6545,
+        0.55,
+        0.0383
+      ],
+      "tail": null,
+      "text_key": "ezra.7.p1.b4"
+    }
+  ]
+}

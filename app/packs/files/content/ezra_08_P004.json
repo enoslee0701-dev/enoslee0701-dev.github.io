@@ -1,0 +1,133 @@
+{
+  "id": "EZRA_08_P004",
+  "book": "ezra",
+  "chapter": 8,
+  "page": 4,
+  "ref": "8:24-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZRA_08_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZRA_08_P004_F1",
+      "box": [
+        0,
+        0,
+        0.457,
+        0.3158
+      ]
+    },
+    {
+      "id": "EZRA_08_P004_F2",
+      "box": [
+        0.4639,
+        0,
+        0.5361,
+        0.3158
+      ]
+    },
+    {
+      "id": "EZRA_08_P004_F3",
+      "box": [
+        0,
+        0.3197,
+        1,
+        0.349
+      ]
+    },
+    {
+      "id": "EZRA_08_P004_F4",
+      "box": [
+        0,
+        0.6725,
+        1,
+        0.3275
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZRA_08_P004_B001",
+      "panel": "EZRA_08_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0183,
+        0.0095,
+        0.4204,
+        0.0473
+      ],
+      "tail": null,
+      "text_key": "ezra.8.p4.b1"
+    },
+    {
+      "id": "EZRA_08_P004_B002",
+      "panel": "EZRA_08_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6783,
+        0.0095,
+        0.3055,
+        0.0631
+      ],
+      "tail": null,
+      "text_key": "ezra.8.p4.b2"
+    },
+    {
+      "id": "EZRA_08_P004_B003",
+      "panel": "EZRA_08_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3302,
+        0.45,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "ezra.8.p4.b3"
+    },
+    {
+      "id": "EZRA_08_P004_B004",
+      "panel": "EZRA_08_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.6823,
+        0.53,
+        0.0458
+      ],
+      "tail": [
+        0.705,
+        0.7609
+      ],
+      "text_key": "ezra.8.p4.b4"
+    },
+    {
+      "id": "EZRA_08_P004_B005",
+      "panel": "EZRA_08_P004_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9411,
+        0.94,
+        0.0491
+      ],
+      "tail": null,
+      "text_key": "ezra.8.p4.b5"
+    }
+  ]
+}

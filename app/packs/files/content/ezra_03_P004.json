@@ -1,0 +1,139 @@
+{
+  "id": "EZRA_03_P004",
+  "book": "ezra",
+  "chapter": 3,
+  "page": 4,
+  "ref": "3:10-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZRA_03_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZRA_03_P004_F1",
+      "box": [
+        0,
+        0,
+        0.5615,
+        0.3223
+      ]
+    },
+    {
+      "id": "EZRA_03_P004_F2",
+      "box": [
+        0.5723,
+        0,
+        0.4277,
+        0.3223
+      ]
+    },
+    {
+      "id": "EZRA_03_P004_F3",
+      "box": [
+        0,
+        0.3288,
+        1,
+        0.4238
+      ]
+    },
+    {
+      "id": "EZRA_03_P004_F4",
+      "box": [
+        0,
+        0.7585,
+        1,
+        0.2415
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZRA_03_P004_B001",
+      "panel": "EZRA_03_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0168,
+        0.0097,
+        0.3369,
+        0.0709
+      ],
+      "tail": null,
+      "text_key": "ezra.3.p4.b1"
+    },
+    {
+      "id": "EZRA_03_P004_B002",
+      "panel": "EZRA_03_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5937,
+        0.2449,
+        0.3849,
+        0.0644
+      ],
+      "tail": null,
+      "text_key": "ezra.3.p4.b2"
+    },
+    {
+      "id": "EZRA_03_P004_B003",
+      "panel": "EZRA_03_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.03,
+        0.3415,
+        0.34,
+        0.0847
+      ],
+      "tail": [
+        0.2,
+        0.4686
+      ],
+      "text_key": "ezra.3.p4.b3"
+    },
+    {
+      "id": "EZRA_03_P004_B004",
+      "panel": "EZRA_03_P004_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.63,
+        0.3415,
+        0.34,
+        0.0847
+      ],
+      "tail": [
+        0.8,
+        0.4686
+      ],
+      "text_key": "ezra.3.p4.b4"
+    },
+    {
+      "id": "EZRA_03_P004_B005",
+      "panel": "EZRA_03_P004_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.04,
+        0.7657,
+        0.92,
+        0.0483
+      ],
+      "tail": [
+        0.5,
+        0.8382
+      ],
+      "text_key": "ezra.3.p4.b5"
+    }
+  ]
+}
