@@ -1,0 +1,124 @@
+{
+  "id": "SAMUEL1_28_P001",
+  "book": "samuel1",
+  "chapter": 28,
+  "page": 1,
+  "ref": "28:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_28_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_28_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ]
+    },
+    {
+      "id": "SAMUEL1_28_P001_F2",
+      "box": [
+        0,
+        0.2871,
+        0.5771,
+        0.3301
+      ]
+    },
+    {
+      "id": "SAMUEL1_28_P001_F3",
+      "box": [
+        0.584,
+        0.2871,
+        0.416,
+        0.3301
+      ]
+    },
+    {
+      "id": "SAMUEL1_28_P001_F4",
+      "box": [
+        0,
+        0.6217,
+        1,
+        0.3783
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_28_P001_B001",
+      "panel": "SAMUEL1_28_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0085,
+        0.46,
+        0.0509
+      ],
+      "tail": null,
+      "text_key": "samuel1.28.p1.b1"
+    },
+    {
+      "id": "SAMUEL1_28_P001_B002",
+      "panel": "SAMUEL1_28_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0115,
+        0.2937,
+        0.2308,
+        0.033
+      ],
+      "tail": [
+        0.1269,
+        0.3597
+      ],
+      "text_key": "samuel1.28.p1.b2"
+    },
+    {
+      "id": "SAMUEL1_28_P001_B003",
+      "panel": "SAMUEL1_28_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.609,
+        0.538,
+        0.366,
+        0.066
+      ],
+      "tail": [
+        0.792,
+        0.6172
+      ],
+      "text_key": "samuel1.28.p1.b3"
+    },
+    {
+      "id": "SAMUEL1_28_P001_B004",
+      "panel": "SAMUEL1_28_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.6293,
+        0.46,
+        0.0378
+      ],
+      "tail": [
+        0.25,
+        0.7049
+      ],
+      "text_key": "samuel1.28.p1.b4"
+    }
+  ]
+}

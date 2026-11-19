@@ -1,0 +1,127 @@
+{
+  "id": "SAMUEL1_28_P005",
+  "book": "samuel1",
+  "chapter": 28,
+  "page": 5,
+  "ref": "28:12-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_28_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_28_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3014
+      ]
+    },
+    {
+      "id": "SAMUEL1_28_P005_F2",
+      "box": [
+        0,
+        0.3053,
+        0.4873,
+        0.3047
+      ]
+    },
+    {
+      "id": "SAMUEL1_28_P005_F3",
+      "box": [
+        0.4932,
+        0.3053,
+        0.5068,
+        0.3047
+      ]
+    },
+    {
+      "id": "SAMUEL1_28_P005_F4",
+      "box": [
+        0,
+        0.6139,
+        1,
+        0.3861
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_28_P005_B001",
+      "panel": "SAMUEL1_28_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.66,
+        0.009,
+        0.32,
+        0.0783
+      ],
+      "tail": [
+        0.82,
+        0.1174
+      ],
+      "text_key": "samuel1.28.p5.b1"
+    },
+    {
+      "id": "SAMUEL1_28_P005_B002",
+      "panel": "SAMUEL1_28_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0195,
+        0.3114,
+        0.4385,
+        0.0426
+      ],
+      "tail": [
+        0.2388,
+        0.3845
+      ],
+      "text_key": "samuel1.28.p5.b2"
+    },
+    {
+      "id": "SAMUEL1_28_P005_B003",
+      "panel": "SAMUEL1_28_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7365,
+        0.3144,
+        0.2432,
+        0.0609
+      ],
+      "tail": [
+        0.8581,
+        0.4058
+      ],
+      "text_key": "samuel1.28.p5.b3"
+    },
+    {
+      "id": "SAMUEL1_28_P005_B004",
+      "panel": "SAMUEL1_28_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.6255,
+        0.36,
+        0.0463
+      ],
+      "tail": [
+        0.21,
+        0.7104
+      ],
+      "text_key": "samuel1.28.p5.b4"
+    }
+  ]
+}

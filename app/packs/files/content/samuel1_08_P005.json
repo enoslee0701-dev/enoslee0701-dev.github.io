@@ -1,0 +1,118 @@
+{
+  "id": "SAMUEL1_08_P005",
+  "book": "samuel1",
+  "chapter": 8,
+  "page": 5,
+  "ref": "8:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_08_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_08_P005_F1",
+      "box": [
+        0,
+        0,
+        0.3291,
+        0.3079
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P005_F2",
+      "box": [
+        0.3359,
+        0,
+        0.3232,
+        0.3079
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P005_F3",
+      "box": [
+        0.666,
+        0,
+        0.334,
+        0.3079
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P005_F4",
+      "box": [
+        0,
+        0.3118,
+        1,
+        0.2533
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P005_F5",
+      "box": [
+        0,
+        0.5684,
+        1,
+        0.4316
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_08_P005_B001",
+      "panel": "SAMUEL1_08_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0132,
+        0.0062,
+        0.3027,
+        0.0492
+      ],
+      "tail": [
+        0.1646,
+        0.0862
+      ],
+      "text_key": "samuel1.8.p5.b1"
+    },
+    {
+      "id": "SAMUEL1_08_P005_B002",
+      "panel": "SAMUEL1_08_P005_F4",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.81,
+        0.3219,
+        0.17,
+        0.0658
+      ],
+      "tail": [
+        0.895,
+        0.413
+      ],
+      "text_key": "samuel1.8.p5.b2"
+    },
+    {
+      "id": "SAMUEL1_08_P005_B003",
+      "panel": "SAMUEL1_08_P005_F5",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.48,
+        0.577,
+        0.48,
+        0.0604
+      ],
+      "tail": [
+        0.72,
+        0.6806
+      ],
+      "text_key": "samuel1.8.p5.b3"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "SAMUEL1_08_P006",
+  "book": "samuel1",
+  "chapter": 8,
+  "page": 6,
+  "ref": "8:19-22",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_08_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_08_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3763
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P006_F2",
+      "box": [
+        0,
+        0.3796,
+        0.498,
+        0.2917
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P006_F3",
+      "box": [
+        0.5039,
+        0.3796,
+        0.4961,
+        0.2917
+      ]
+    },
+    {
+      "id": "SAMUEL1_08_P006_F4",
+      "box": [
+        0,
+        0.6745,
+        1,
+        0.3255
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_08_P006_B001",
+      "panel": "SAMUEL1_08_P006_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.02,
+        0.0075,
+        0.22,
+        0.0451
+      ],
+      "tail": [
+        0.13,
+        0.0902
+      ],
+      "text_key": "samuel1.8.p6.b1"
+    },
+    {
+      "id": "SAMUEL1_08_P006_B002",
+      "panel": "SAMUEL1_08_P006_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.36,
+        0.0038,
+        0.4,
+        0.0489
+      ],
+      "tail": [
+        0.56,
+        0.0903
+      ],
+      "text_key": "samuel1.8.p6.b2"
+    },
+    {
+      "id": "SAMUEL1_08_P006_B003",
+      "panel": "SAMUEL1_08_P006_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5237,
+        0.3854,
+        0.4564,
+        0.0408
+      ],
+      "tail": null,
+      "text_key": "samuel1.8.p6.b3"
+    },
+    {
+      "id": "SAMUEL1_08_P006_B004",
+      "panel": "SAMUEL1_08_P006_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.6843,
+        0.47,
+        0.0585
+      ],
+      "tail": [
+        0.735,
+        0.7754
+      ],
+      "text_key": "samuel1.8.p6.b4"
+    }
+  ]
+}

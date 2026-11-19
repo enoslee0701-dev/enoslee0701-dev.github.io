@@ -1,0 +1,115 @@
+{
+  "id": "SAMUEL1_13_P007",
+  "book": "samuel1",
+  "chapter": 13,
+  "page": 7,
+  "ref": "13:19-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_13_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_13_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2363
+      ]
+    },
+    {
+      "id": "SAMUEL1_13_P007_F2",
+      "box": [
+        0,
+        0.2402,
+        1,
+        0.2435
+      ]
+    },
+    {
+      "id": "SAMUEL1_13_P007_F3",
+      "box": [
+        0,
+        0.4876,
+        1,
+        0.3496
+      ]
+    },
+    {
+      "id": "SAMUEL1_13_P007_F4",
+      "box": [
+        0,
+        0.8411,
+        1,
+        0.1589
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_13_P007_B001",
+      "panel": "SAMUEL1_13_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0071,
+        0.56,
+        0.0614
+      ],
+      "tail": null,
+      "text_key": "samuel1.13.p7.b1"
+    },
+    {
+      "id": "SAMUEL1_13_P007_B002",
+      "panel": "SAMUEL1_13_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.25,
+        0.2475,
+        0.14,
+        0.1168
+      ],
+      "tail": null,
+      "text_key": "samuel1.13.p7.b2"
+    },
+    {
+      "id": "SAMUEL1_13_P007_B003",
+      "panel": "SAMUEL1_13_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.4946,
+        0.6,
+        0.0489
+      ],
+      "tail": null,
+      "text_key": "samuel1.13.p7.b3"
+    },
+    {
+      "id": "SAMUEL1_13_P007_B004",
+      "panel": "SAMUEL1_13_P007_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.8475,
+        0.48,
+        0.0476
+      ],
+      "tail": null,
+      "text_key": "samuel1.13.p7.b4"
+    }
+  ]
+}

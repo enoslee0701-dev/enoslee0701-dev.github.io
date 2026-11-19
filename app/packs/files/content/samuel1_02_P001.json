@@ -1,0 +1,127 @@
+{
+  "id": "SAMUEL1_02_P001",
+  "book": "samuel1",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3451
+      ]
+    },
+    {
+      "id": "SAMUEL1_02_P001_F2",
+      "box": [
+        0,
+        0.3503,
+        0.5322,
+        0.2565
+      ]
+    },
+    {
+      "id": "SAMUEL1_02_P001_F3",
+      "box": [
+        0.541,
+        0.3503,
+        0.459,
+        0.2565
+      ]
+    },
+    {
+      "id": "SAMUEL1_02_P001_F4",
+      "box": [
+        0,
+        0.612,
+        1,
+        0.388
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_02_P001_B001",
+      "panel": "SAMUEL1_02_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.26,
+        0.0069,
+        0.32,
+        0.0517
+      ],
+      "tail": [
+        0.42,
+        0.0931
+      ],
+      "text_key": "samuel1.2.p1.b1"
+    },
+    {
+      "id": "SAMUEL1_02_P001_B002",
+      "panel": "SAMUEL1_02_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0213,
+        0.3606,
+        0.2661,
+        0.0769
+      ],
+      "tail": [
+        0.1543,
+        0.4632
+      ],
+      "text_key": "samuel1.2.p1.b2"
+    },
+    {
+      "id": "SAMUEL1_02_P001_B003",
+      "panel": "SAMUEL1_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.6787,
+        0.5709,
+        0.3029,
+        0.0307
+      ],
+      "tail": [
+        0.8302,
+        0.6068
+      ],
+      "text_key": "samuel1.2.p1.b3"
+    },
+    {
+      "id": "SAMUEL1_02_P001_B004",
+      "panel": "SAMUEL1_02_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.6275,
+        0.46,
+        0.0931
+      ],
+      "tail": [
+        0.26,
+        0.7594
+      ],
+      "text_key": "samuel1.2.p1.b4"
+    }
+  ]
+}

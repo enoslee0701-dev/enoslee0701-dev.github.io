@@ -1,0 +1,292 @@
+{
+  "samuel1.23.p1.b1": {
+    "text": "블레셋 사람이 그일라를 쳐서 그 타작 마당을 탈취하더이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p1.b2": {
+    "text": "내가 가서 이 블레셋 사람을 치리이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p1.b3": {
+    "text": "가서 블레셋 사람을 치고 그일라를 구원하라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p2.b1": {
+    "text": "우리가 유다에 있기도 두렵거든 하물며 그일라에 가서 블레셋 사람의 군대를 치는 일이리이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p2.b2": {
+    "text": "일어나 그일라로 내려가라 내가 블레셋 사람을 네 손에 붙이리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p2.b3": {
+    "text": "… 다윗이 이와 같이 그 일라 거민을 구원하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p3.b1": {
+    "text": "아히멜렉의 아들 아비아달이 그일라 다윗에게로 도망할 때에 손에 에봇을 가지고 내려왔었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p3.b2": {
+    "text": "다윗이 그일라에 온 것을 혹이 사울에게 고하매 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p3.b3": {
+    "text": "하나님이 그를 내 손에 붙이셨도다 그가 문과 문빗장이 있는 성에 들어갔으니 갇혔도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p4.b1": {
+    "text": "에봇을 이리로 가져 오라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p4.b2": {
+    "text": "그일라 사람들이 나를 그의 손에 붙이겠나이까 주의 종의 들은 대로 사울이 내려 오겠나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p4.b3": {
+    "text": "그가 내려 오리라 … 그들이 너를 붙이리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:11-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p4.b4": {
+    "text": "다윗과 그의 사람 육백명 가량이 일어나 그일라를 떠나서 갈 수 있는 곳으로 갔더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p5.b1": {
+    "text": "다윗이 황무지 요새에도 있었고 또 십 황무지 산골에도 유하였으므로",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p5.b2": {
+    "text": "사울이 매일 찾되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p5.b3": {
+    "text": "다윗이 사울의 자기 생명을 찾으려고 나온 것을 보았으므로 그가 십 황무지 수풀에 있었더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p5.b4": {
+    "text": "하나님이 그를 그의 손에 붙이지 아니하시니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p6.b1": {
+    "text": "사울의 아들 요나단이 일어나 수풀에 들어가서 다윗에게 이르러 그로 하나님을 힘있게 의지하게 하였는데",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p6.b2": {
+    "text": "두려워 말라 내 부친 사울의 손이 네게 미치지 못할 것이요 너는 이스라엘 왕이 되고 나는 네 다음이 될 것을",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p6.b3": {
+    "text": "내 부친 사울도 안다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p6.b4": {
+    "text": "두 사람이 여호와 앞에서 언약하고 다윗은 수풀에 거하고 요나단은 자기 집으로 돌아가니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p7.b1": {
+    "text": "다윗이 우리와 함께 광야 남편 하길라 산 수풀 요새에 숨지 아니하였나이까 … 왕은 내려오시기를 원하시는 대로 내려오소서 그를 왕의 손에 붙일 것이 우리의 의무니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:19-20"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p7.b2": {
+    "text": "너희가 나를 긍휼히 여겼으니 여호와께 복 받기를 원하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p7.b3": {
+    "text": "그가 이 땅에 있으면 유다 천천인 중에서 그를 찾아내리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:23"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p7.b4": {
+    "text": "다윗과 그의 사람들이 광야 남편 마온 황무지 아라바에 있더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:24"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p8.b1": {
+    "text": "사울과 그의 사람들이 찾으러 온 것을 혹이 다윗에게 고하매 이에 다윗이 바위로 내려 마온 황무지에 있더니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p8.b2": {
+    "text": "사울이 산 이편으로 가매 다윗과 그의 사람들은 산 저편으로 가며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:26"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p8.b3": {
+    "text": "급히 오소서 블레셋 사람이 땅을 침노하나이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:27"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "samuel1.23.p8.b4": {
+    "text": "이에 사울이 다윗 쫓기를 그치고 … 그 곳을 셀라하마느곳이라 칭하니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "1 Samuel 23:28"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

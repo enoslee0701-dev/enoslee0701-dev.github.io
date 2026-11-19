@@ -1,0 +1,103 @@
+{
+  "id": "SAMUEL1_24_P002",
+  "book": "samuel1",
+  "chapter": 24,
+  "page": 2,
+  "ref": "24:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_24_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_24_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2585
+      ]
+    },
+    {
+      "id": "SAMUEL1_24_P002_F2",
+      "box": [
+        0,
+        0.2624,
+        0.4072,
+        0.3203
+      ]
+    },
+    {
+      "id": "SAMUEL1_24_P002_F3",
+      "box": [
+        0.415,
+        0.2624,
+        0.585,
+        0.3203
+      ]
+    },
+    {
+      "id": "SAMUEL1_24_P002_F4",
+      "box": [
+        0,
+        0.5859,
+        1,
+        0.4141
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_24_P002_B001",
+      "panel": "SAMUEL1_24_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.0078,
+        0.4,
+        0.062
+      ],
+      "tail": null,
+      "text_key": "samuel1.24.p2.b1"
+    },
+    {
+      "id": "SAMUEL1_24_P002_B002",
+      "panel": "SAMUEL1_24_P002_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.4326,
+        0.272,
+        0.5499,
+        0.0832
+      ],
+      "tail": [
+        0.7076,
+        0.3872
+      ],
+      "text_key": "samuel1.24.p2.b2"
+    },
+    {
+      "id": "SAMUEL1_24_P002_B003",
+      "panel": "SAMUEL1_24_P002_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.5983,
+        0.42,
+        0.0662
+      ],
+      "tail": null,
+      "text_key": "samuel1.24.p2.b3"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "SAMUEL1_15_P002",
+  "book": "samuel1",
+  "chapter": 15,
+  "page": 2,
+  "ref": "15:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_15_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_15_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2637
+      ]
+    },
+    {
+      "id": "SAMUEL1_15_P002_F2",
+      "box": [
+        0,
+        0.2669,
+        1,
+        0.1745
+      ]
+    },
+    {
+      "id": "SAMUEL1_15_P002_F3",
+      "box": [
+        0,
+        0.4447,
+        1,
+        0.3685
+      ]
+    },
+    {
+      "id": "SAMUEL1_15_P002_F4",
+      "box": [
+        0,
+        0.8171,
+        1,
+        0.1829
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_15_P002_B001",
+      "panel": "SAMUEL1_15_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.0053,
+        0.48,
+        0.0527
+      ],
+      "tail": null,
+      "text_key": "samuel1.15.p2.b1"
+    },
+    {
+      "id": "SAMUEL1_15_P002_B002",
+      "panel": "SAMUEL1_15_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.2739,
+        0.5,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "samuel1.15.p2.b2"
+    },
+    {
+      "id": "SAMUEL1_15_P002_B003",
+      "panel": "SAMUEL1_15_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.36,
+        0.4521,
+        0.62,
+        0.0552
+      ],
+      "tail": [
+        0.67,
+        0.5442
+      ],
+      "text_key": "samuel1.15.p2.b3"
+    },
+    {
+      "id": "SAMUEL1_15_P002_B004",
+      "panel": "SAMUEL1_15_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.9086,
+        0.42,
+        0.0804
+      ],
+      "tail": null,
+      "text_key": "samuel1.15.p2.b4"
+    }
+  ]
+}

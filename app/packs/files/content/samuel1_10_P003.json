@@ -1,0 +1,124 @@
+{
+  "id": "SAMUEL1_10_P003",
+  "book": "samuel1",
+  "chapter": 10,
+  "page": 3,
+  "ref": "10:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_10_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_10_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3066
+      ]
+    },
+    {
+      "id": "SAMUEL1_10_P003_F2",
+      "box": [
+        0,
+        0.3092,
+        0.5322,
+        0.2611
+      ]
+    },
+    {
+      "id": "SAMUEL1_10_P003_F3",
+      "box": [
+        0.5381,
+        0.3092,
+        0.4619,
+        0.2611
+      ]
+    },
+    {
+      "id": "SAMUEL1_10_P003_F4",
+      "box": [
+        0,
+        0.5736,
+        1,
+        0.4264
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_10_P003_B001",
+      "panel": "SAMUEL1_10_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.44,
+        0.0092,
+        0.54,
+        0.0797
+      ],
+      "tail": [
+        0.71,
+        0.1196
+      ],
+      "text_key": "samuel1.10.p3.b1"
+    },
+    {
+      "id": "SAMUEL1_10_P003_B002",
+      "panel": "SAMUEL1_10_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.016,
+        0.317,
+        0.5002,
+        0.0574
+      ],
+      "tail": [
+        0.2661,
+        0.4005
+      ],
+      "text_key": "samuel1.10.p3.b2"
+    },
+    {
+      "id": "SAMUEL1_10_P003_B003",
+      "panel": "SAMUEL1_10_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5566,
+        0.317,
+        0.4249,
+        0.0783
+      ],
+      "tail": [
+        0.7691,
+        0.4214
+      ],
+      "text_key": "samuel1.10.p3.b3"
+    },
+    {
+      "id": "SAMUEL1_10_P003_B004",
+      "panel": "SAMUEL1_10_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.9318,
+        0.35,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "samuel1.10.p3.b4"
+    }
+  ]
+}

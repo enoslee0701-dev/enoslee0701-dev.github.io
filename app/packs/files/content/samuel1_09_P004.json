@@ -1,0 +1,115 @@
+{
+  "id": "SAMUEL1_09_P004",
+  "book": "samuel1",
+  "chapter": 9,
+  "page": 4,
+  "ref": "9:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_09_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_09_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5013
+      ]
+    },
+    {
+      "id": "SAMUEL1_09_P004_F2",
+      "box": [
+        0,
+        0.5059,
+        1,
+        0.1842
+      ]
+    },
+    {
+      "id": "SAMUEL1_09_P004_F3",
+      "box": [
+        0,
+        0.6947,
+        1,
+        0.3053
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_09_P004_B001",
+      "panel": "SAMUEL1_09_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.015,
+        0.42,
+        0.0701
+      ],
+      "tail": [
+        0.76,
+        0.1352
+      ],
+      "text_key": "samuel1.9.p4.b1"
+    },
+    {
+      "id": "SAMUEL1_09_P004_B002",
+      "panel": "SAMUEL1_09_P004_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.015,
+        0.4,
+        0.0701
+      ],
+      "tail": [
+        0.22,
+        0.1352
+      ],
+      "text_key": "samuel1.9.p4.b2"
+    },
+    {
+      "id": "SAMUEL1_09_P004_B003",
+      "panel": "SAMUEL1_09_P004_F2",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.62,
+        0.517,
+        0.35,
+        0.1584
+      ],
+      "tail": [
+        0.795,
+        0.6901
+      ],
+      "text_key": "samuel1.9.p4.b3"
+    },
+    {
+      "id": "SAMUEL1_09_P004_B004",
+      "panel": "SAMUEL1_09_P004_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.7039,
+        0.6,
+        0.0549
+      ],
+      "tail": null,
+      "text_key": "samuel1.9.p4.b4"
+    }
+  ]
+}

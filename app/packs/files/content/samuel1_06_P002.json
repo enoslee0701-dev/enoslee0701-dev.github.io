@@ -1,0 +1,127 @@
+{
+  "id": "SAMUEL1_06_P002",
+  "book": "samuel1",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_06_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2533
+      ]
+    },
+    {
+      "id": "SAMUEL1_06_P002_F2",
+      "box": [
+        0,
+        0.2552,
+        1,
+        0.3197
+      ]
+    },
+    {
+      "id": "SAMUEL1_06_P002_F3",
+      "box": [
+        0,
+        0.5768,
+        0.2813,
+        0.4232
+      ]
+    },
+    {
+      "id": "SAMUEL1_06_P002_F4",
+      "box": [
+        0.2861,
+        0.5768,
+        0.7139,
+        0.4232
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_06_P002_B001",
+      "panel": "SAMUEL1_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0076,
+        0.45,
+        0.0607
+      ],
+      "tail": [
+        0.255,
+        0.0936
+      ],
+      "text_key": "samuel1.6.p2.b1"
+    },
+    {
+      "id": "SAMUEL1_06_P002_B002",
+      "panel": "SAMUEL1_06_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.01,
+        0.2616,
+        0.25,
+        0.0703
+      ],
+      "tail": [
+        0.135,
+        0.3639
+      ],
+      "text_key": "samuel1.6.p2.b2"
+    },
+    {
+      "id": "SAMUEL1_06_P002_B003",
+      "panel": "SAMUEL1_06_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0141,
+        0.9154,
+        0.2531,
+        0.0761
+      ],
+      "tail": [
+        0.1407,
+        1
+      ],
+      "text_key": "samuel1.6.p2.b3"
+    },
+    {
+      "id": "SAMUEL1_06_P002_B004",
+      "panel": "SAMUEL1_06_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.3075,
+        0.5895,
+        0.3426,
+        0.0804
+      ],
+      "tail": [
+        0.4788,
+        0.7122
+      ],
+      "text_key": "samuel1.6.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "SAMUEL1_06_P005",
+  "book": "samuel1",
+  "chapter": 6,
+  "page": 5,
+  "ref": "6:13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_06_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_06_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.6257
+      ]
+    },
+    {
+      "id": "SAMUEL1_06_P005_F2",
+      "box": [
+        0,
+        0.6309,
+        0.4785,
+        0.3691
+      ]
+    },
+    {
+      "id": "SAMUEL1_06_P005_F3",
+      "box": [
+        0.4863,
+        0.6309,
+        0.5137,
+        0.3691
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_06_P005_B001",
+      "panel": "SAMUEL1_06_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0188,
+        0.55,
+        0.075
+      ],
+      "tail": null,
+      "text_key": "samuel1.6.p5.b1"
+    },
+    {
+      "id": "SAMUEL1_06_P005_B002",
+      "panel": "SAMUEL1_06_P005_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.512,
+        0.9262,
+        0.4623,
+        0.0627
+      ],
+      "tail": null,
+      "text_key": "samuel1.6.p5.b2"
+    }
+  ]
+}

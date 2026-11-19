@@ -1,0 +1,115 @@
+{
+  "id": "SAMUEL1_03_P006",
+  "book": "samuel1",
+  "chapter": 3,
+  "page": 6,
+  "ref": "3:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "SAMUEL1_03_P006",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "SAMUEL1_03_P006_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3236
+      ]
+    },
+    {
+      "id": "SAMUEL1_03_P006_F2",
+      "box": [
+        0,
+        0.3275,
+        0.4932,
+        0.263
+      ]
+    },
+    {
+      "id": "SAMUEL1_03_P006_F3",
+      "box": [
+        0.499,
+        0.3275,
+        0.501,
+        0.263
+      ]
+    },
+    {
+      "id": "SAMUEL1_03_P006_F4",
+      "box": [
+        0,
+        0.5938,
+        1,
+        0.4062
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "SAMUEL1_03_P006_B001",
+      "panel": "SAMUEL1_03_P006_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0129,
+        0.42,
+        0.0906
+      ],
+      "tail": null,
+      "text_key": "samuel1.3.p6.b1"
+    },
+    {
+      "id": "SAMUEL1_03_P006_B002",
+      "panel": "SAMUEL1_03_P006_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0247,
+        0.3354,
+        0.4438,
+        0.0631
+      ],
+      "tail": null,
+      "text_key": "samuel1.3.p6.b2"
+    },
+    {
+      "id": "SAMUEL1_03_P006_B003",
+      "panel": "SAMUEL1_03_P006_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5241,
+        0.5274,
+        0.4509,
+        0.0552
+      ],
+      "tail": null,
+      "text_key": "samuel1.3.p6.b3"
+    },
+    {
+      "id": "SAMUEL1_03_P006_B004",
+      "panel": "SAMUEL1_03_P006_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.6101,
+        0.37,
+        0.0975
+      ],
+      "tail": null,
+      "text_key": "samuel1.3.p6.b4"
+    }
+  ]
+}
