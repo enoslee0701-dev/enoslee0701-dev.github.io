@@ -1,0 +1,118 @@
+{
+  "id": "NEHEMIAH_07_P004",
+  "book": "nehemiah",
+  "chapter": 7,
+  "page": 4,
+  "ref": "7:39-65",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "NEHEMIAH_07_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "NEHEMIAH_07_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3099
+      ]
+    },
+    {
+      "id": "NEHEMIAH_07_P004_F2",
+      "box": [
+        0,
+        0.3138,
+        1,
+        0.1146
+      ]
+    },
+    {
+      "id": "NEHEMIAH_07_P004_F3",
+      "box": [
+        0,
+        0.4323,
+        1,
+        0.3177
+      ]
+    },
+    {
+      "id": "NEHEMIAH_07_P004_F4",
+      "box": [
+        0,
+        0.7533,
+        1,
+        0.2467
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "NEHEMIAH_07_P004_B001",
+      "panel": "NEHEMIAH_07_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0093,
+        0.5,
+        0.0495
+      ],
+      "tail": null,
+      "text_key": "nehemiah.7.p4.b1"
+    },
+    {
+      "id": "NEHEMIAH_07_P004_B002",
+      "panel": "NEHEMIAH_07_P004_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.3172,
+        0.33,
+        0.0275
+      ],
+      "tail": null,
+      "text_key": "nehemiah.7.p4.b2"
+    },
+    {
+      "id": "NEHEMIAH_07_P004_B003",
+      "panel": "NEHEMIAH_07_P004_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.04,
+        0.4418,
+        0.84,
+        0.0571
+      ],
+      "tail": null,
+      "text_key": "nehemiah.7.p4.b3"
+    },
+    {
+      "id": "NEHEMIAH_07_P004_B004",
+      "panel": "NEHEMIAH_07_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.7607,
+        0.52,
+        0.0641
+      ],
+      "tail": [
+        0.29,
+        0.8495
+      ],
+      "text_key": "nehemiah.7.p4.b4"
+    }
+  ]
+}

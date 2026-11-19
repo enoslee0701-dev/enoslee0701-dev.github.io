@@ -1,0 +1,121 @@
+{
+  "id": "NEHEMIAH_13_P005",
+  "book": "nehemiah",
+  "chapter": 13,
+  "page": 5,
+  "ref": "13:15-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "NEHEMIAH_13_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "NEHEMIAH_13_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4238
+      ]
+    },
+    {
+      "id": "NEHEMIAH_13_P005_F2",
+      "box": [
+        0,
+        0.4271,
+        0.5273,
+        0.3021
+      ]
+    },
+    {
+      "id": "NEHEMIAH_13_P005_F3",
+      "box": [
+        0.5332,
+        0.4271,
+        0.4668,
+        0.3021
+      ]
+    },
+    {
+      "id": "NEHEMIAH_13_P005_F4",
+      "box": [
+        0,
+        0.7331,
+        1,
+        0.2669
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "NEHEMIAH_13_P005_B001",
+      "panel": "NEHEMIAH_13_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.62,
+        0.0127,
+        0.36,
+        0.0593
+      ],
+      "tail": null,
+      "text_key": "nehemiah.13.p5.b1"
+    },
+    {
+      "id": "NEHEMIAH_13_P005_B002",
+      "panel": "NEHEMIAH_13_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0158,
+        0.6627,
+        0.3058,
+        0.0573
+      ],
+      "tail": null,
+      "text_key": "nehemiah.13.p5.b2"
+    },
+    {
+      "id": "NEHEMIAH_13_P005_B003",
+      "panel": "NEHEMIAH_13_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.7573,
+        0.4301,
+        0.1587,
+        0.0302
+      ],
+      "tail": [
+        0.8367,
+        0.4905
+      ],
+      "text_key": "nehemiah.13.p5.b3"
+    },
+    {
+      "id": "NEHEMIAH_13_P005_B004",
+      "panel": "NEHEMIAH_13_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.9306,
+        0.46,
+        0.0587
+      ],
+      "tail": [
+        0.25,
+        1
+      ],
+      "text_key": "nehemiah.13.p5.b4"
+    }
+  ]
+}

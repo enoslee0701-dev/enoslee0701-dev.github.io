@@ -1,0 +1,127 @@
+{
+  "id": "NEHEMIAH_09_P003",
+  "book": "nehemiah",
+  "chapter": 9,
+  "page": 3,
+  "ref": "9:9-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "NEHEMIAH_09_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "NEHEMIAH_09_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4342
+      ]
+    },
+    {
+      "id": "NEHEMIAH_09_P003_F2",
+      "box": [
+        0,
+        0.4382,
+        1,
+        0.1908
+      ]
+    },
+    {
+      "id": "NEHEMIAH_09_P003_F3",
+      "box": [
+        0,
+        0.6328,
+        0.4941,
+        0.3672
+      ]
+    },
+    {
+      "id": "NEHEMIAH_09_P003_F4",
+      "box": [
+        0.501,
+        0.6328,
+        0.499,
+        0.3672
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "NEHEMIAH_09_P003_B001",
+      "panel": "NEHEMIAH_09_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.0087,
+        0.55,
+        0.0607
+      ],
+      "tail": [
+        0.305,
+        0.1128
+      ],
+      "text_key": "nehemiah.9.p3.b1"
+    },
+    {
+      "id": "NEHEMIAH_09_P003_B002",
+      "panel": "NEHEMIAH_09_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5,
+        0.4458,
+        0.47,
+        0.0496
+      ],
+      "tail": [
+        0.735,
+        0.5145
+      ],
+      "text_key": "nehemiah.9.p3.b2"
+    },
+    {
+      "id": "NEHEMIAH_09_P003_B003",
+      "panel": "NEHEMIAH_09_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0198,
+        0.9339,
+        0.4545,
+        0.055
+      ],
+      "tail": [
+        0.2471,
+        1
+      ],
+      "text_key": "nehemiah.9.p3.b3"
+    },
+    {
+      "id": "NEHEMIAH_09_P003_B004",
+      "panel": "NEHEMIAH_09_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.521,
+        0.6438,
+        0.2744,
+        0.066
+      ],
+      "tail": [
+        0.6582,
+        0.7465
+      ],
+      "text_key": "nehemiah.9.p3.b4"
+    }
+  ]
+}

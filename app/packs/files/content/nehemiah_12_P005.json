@@ -1,0 +1,115 @@
+{
+  "id": "NEHEMIAH_12_P005",
+  "book": "nehemiah",
+  "chapter": 12,
+  "page": 5,
+  "ref": "12:44-47",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "NEHEMIAH_12_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "NEHEMIAH_12_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3854
+      ]
+    },
+    {
+      "id": "NEHEMIAH_12_P005_F2",
+      "box": [
+        0,
+        0.3893,
+        0.4961,
+        0.3079
+      ]
+    },
+    {
+      "id": "NEHEMIAH_12_P005_F3",
+      "box": [
+        0.5039,
+        0.3893,
+        0.4961,
+        0.3079
+      ]
+    },
+    {
+      "id": "NEHEMIAH_12_P005_F4",
+      "box": [
+        0,
+        0.7005,
+        1,
+        0.2995
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "NEHEMIAH_12_P005_B001",
+      "panel": "NEHEMIAH_12_P005_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0116,
+        0.5,
+        0.0616
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p5.b1"
+    },
+    {
+      "id": "NEHEMIAH_12_P005_B002",
+      "panel": "NEHEMIAH_12_P005_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0198,
+        0.6356,
+        0.4564,
+        0.0523
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p5.b2"
+    },
+    {
+      "id": "NEHEMIAH_12_P005_B003",
+      "panel": "NEHEMIAH_12_P005_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7271,
+        0.3985,
+        0.2579,
+        0.0554
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p5.b3"
+    },
+    {
+      "id": "NEHEMIAH_12_P005_B004",
+      "panel": "NEHEMIAH_12_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.7095,
+        0.55,
+        0.0449
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p5.b4"
+    }
+  ]
+}

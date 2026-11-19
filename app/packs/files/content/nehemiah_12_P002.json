@@ -1,0 +1,100 @@
+{
+  "id": "NEHEMIAH_12_P002",
+  "book": "nehemiah",
+  "chapter": 12,
+  "page": 2,
+  "ref": "12:27-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "NEHEMIAH_12_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "NEHEMIAH_12_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3112
+      ]
+    },
+    {
+      "id": "NEHEMIAH_12_P002_F2",
+      "box": [
+        0,
+        0.3145,
+        0.4941,
+        0.3314
+      ]
+    },
+    {
+      "id": "NEHEMIAH_12_P002_F3",
+      "box": [
+        0.502,
+        0.3145,
+        0.498,
+        0.3314
+      ]
+    },
+    {
+      "id": "NEHEMIAH_12_P002_F4",
+      "box": [
+        0,
+        0.6491,
+        1,
+        0.3509
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "NEHEMIAH_12_P002_B001",
+      "panel": "NEHEMIAH_12_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0062,
+        0.58,
+        0.056
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p2.b1"
+    },
+    {
+      "id": "NEHEMIAH_12_P002_B002",
+      "panel": "NEHEMIAH_12_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0148,
+        0.3211,
+        0.3755,
+        0.0497
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p2.b2"
+    },
+    {
+      "id": "NEHEMIAH_12_P002_B003",
+      "panel": "NEHEMIAH_12_P002_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6561,
+        0.33,
+        0.0385
+      ],
+      "tail": null,
+      "text_key": "nehemiah.12.p2.b3"
+    }
+  ]
+}

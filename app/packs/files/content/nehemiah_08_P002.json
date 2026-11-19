@@ -1,0 +1,118 @@
+{
+  "id": "NEHEMIAH_08_P002",
+  "book": "nehemiah",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:4-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "NEHEMIAH_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "NEHEMIAH_08_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2526
+      ]
+    },
+    {
+      "id": "NEHEMIAH_08_P002_F2",
+      "box": [
+        0,
+        0.2565,
+        1,
+        0.2643
+      ]
+    },
+    {
+      "id": "NEHEMIAH_08_P002_F3",
+      "box": [
+        0,
+        0.5247,
+        1,
+        0.1615
+      ]
+    },
+    {
+      "id": "NEHEMIAH_08_P002_F4",
+      "box": [
+        0,
+        0.6901,
+        1,
+        0.3099
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "NEHEMIAH_08_P002_B001",
+      "panel": "NEHEMIAH_08_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.1768,
+        0.4,
+        0.0656
+      ],
+      "tail": null,
+      "text_key": "nehemiah.8.p2.b1"
+    },
+    {
+      "id": "NEHEMIAH_08_P002_B002",
+      "panel": "NEHEMIAH_08_P002_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.2644,
+        0.45,
+        0.0475
+      ],
+      "tail": null,
+      "text_key": "nehemiah.8.p2.b2"
+    },
+    {
+      "id": "NEHEMIAH_08_P002_B003",
+      "panel": "NEHEMIAH_08_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.3,
+        0.5344,
+        0.4,
+        0.0646
+      ],
+      "tail": [
+        0.5,
+        0.6152
+      ],
+      "text_key": "nehemiah.8.p2.b3"
+    },
+    {
+      "id": "NEHEMIAH_08_P002_B004",
+      "panel": "NEHEMIAH_08_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.9504,
+        0.47,
+        0.0402
+      ],
+      "tail": null,
+      "text_key": "nehemiah.8.p2.b4"
+    }
+  ]
+}
