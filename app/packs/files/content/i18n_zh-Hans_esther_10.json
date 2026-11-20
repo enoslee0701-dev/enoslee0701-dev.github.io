@@ -1,0 +1,46 @@
+{
+  "esther.10.p1.b1": {
+    "text": "亚哈随鲁王使旱地和海岛的人民都进贡。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Esther 10:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "亚哈随鲁王使旱⁠地和海⁠岛的人⁠民都进贡。"
+  },
+  "esther.10.p2.b1": {
+    "text": "他以权柄能力所行的，并他抬举末底改使他高升的事，岂不都写在米底亚和波斯王的历史上吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Esther 10:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他以权⁠柄能⁠力所行的，并他抬举末底改使他高⁠升的事，岂⁠不都写⁠在米底亚和波⁠斯王的历⁠史上吗？"
+  },
+  "esther.10.p3.b1": {
+    "text": "犹大人末底改作亚哈随鲁王的宰相，在犹大人中为大，得他众弟兄的喜悦，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Esther 10:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "犹⁠大人末底改⁠作亚哈随鲁王的宰⁠相，在犹⁠大人⁠中为大，得他众弟⁠兄的喜⁠悦，"
+  },
+  "esther.10.p3.b2": {
+    "text": "为本族的人求好处，向他们说和平的话。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Esther 10:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "为本族的人求好⁠处，向他⁠们说和⁠平的⁠话。"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "esther.10.p1.b1": {
+    "text": "Now King Xerxes imposed tribute throughout the land, even to its farthest shores.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Esther 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "esther.10.p2.b1": {
+    "text": "And all of Mordecai’s powerful and magnificent accomplishments, together with the full account of the greatness to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Esther 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "esther.10.p3.b1": {
+    "text": "For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Esther 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "esther.10.p3.b2": {
+    "text": "seeking the good of his people and speaking peace to all his countrymen.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Esther 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

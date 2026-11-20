@@ -1,0 +1,124 @@
+{
+  "id": "ESTHER_05_P002",
+  "book": "esther",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:3-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_05_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2754
+      ]
+    },
+    {
+      "id": "ESTHER_05_P002_F2",
+      "box": [
+        0,
+        0.2786,
+        0.5898,
+        0.4434
+      ]
+    },
+    {
+      "id": "ESTHER_05_P002_F3",
+      "box": [
+        0.5947,
+        0.2786,
+        0.4053,
+        0.4434
+      ]
+    },
+    {
+      "id": "ESTHER_05_P002_F4",
+      "box": [
+        0,
+        0.7259,
+        1,
+        0.2741
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_05_P002_B001",
+      "panel": "ESTHER_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0083,
+        0.5,
+        0.066
+      ],
+      "tail": [
+        0.28,
+        0.1018
+      ],
+      "text_key": "esther.5.p2.b1"
+    },
+    {
+      "id": "ESTHER_05_P002_B002",
+      "panel": "ESTHER_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0295,
+        0.6333,
+        0.5308,
+        0.0753
+      ],
+      "tail": [
+        0.2949,
+        0.722
+      ],
+      "text_key": "esther.5.p2.b2"
+    },
+    {
+      "id": "ESTHER_05_P002_B003",
+      "panel": "ESTHER_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.7649,
+        0.2919,
+        0.2229,
+        0.0975
+      ],
+      "tail": [
+        0.8764,
+        0.4337
+      ],
+      "text_key": "esther.5.p2.b3"
+    },
+    {
+      "id": "ESTHER_05_P002_B004",
+      "panel": "ESTHER_05_P002_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.7369,
+        0.42,
+        0.0657
+      ],
+      "tail": null,
+      "text_key": "esther.5.p2.b4"
+    }
+  ]
+}

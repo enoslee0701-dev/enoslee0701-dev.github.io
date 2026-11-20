@@ -1,0 +1,127 @@
+{
+  "id": "ESTHER_04_P005",
+  "book": "esther",
+  "chapter": 4,
+  "page": 5,
+  "ref": "4:13-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_04_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_04_P005_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3522
+      ]
+    },
+    {
+      "id": "ESTHER_04_P005_F2",
+      "box": [
+        0,
+        0.3574,
+        0.4668,
+        0.2044
+      ]
+    },
+    {
+      "id": "ESTHER_04_P005_F3",
+      "box": [
+        0.4756,
+        0.3574,
+        0.5244,
+        0.2044
+      ]
+    },
+    {
+      "id": "ESTHER_04_P005_F4",
+      "box": [
+        0,
+        0.5664,
+        1,
+        0.4336
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_04_P005_B001",
+      "panel": "ESTHER_04_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5,
+        0.007,
+        0.47,
+        0.0669
+      ],
+      "tail": [
+        0.735,
+        0.1091
+      ],
+      "text_key": "esther.4.p5.b1"
+    },
+    {
+      "id": "ESTHER_04_P005_B002",
+      "panel": "ESTHER_04_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0233,
+        0.3635,
+        0.4201,
+        0.0531
+      ],
+      "tail": [
+        0.2334,
+        0.437
+      ],
+      "text_key": "esther.4.p5.b2"
+    },
+    {
+      "id": "ESTHER_04_P005_B003",
+      "panel": "ESTHER_04_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.8217,
+        0.3676,
+        0.1625,
+        0.0613
+      ],
+      "tail": [
+        0.903,
+        0.4493
+      ],
+      "text_key": "esther.4.p5.b3"
+    },
+    {
+      "id": "ESTHER_04_P005_B004",
+      "panel": "ESTHER_04_P005_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.5837,
+        0.4,
+        0.104
+      ],
+      "tail": [
+        0.23,
+        0.7311
+      ],
+      "text_key": "esther.4.p5.b4"
+    }
+  ]
+}

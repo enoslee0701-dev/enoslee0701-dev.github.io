@@ -1,0 +1,130 @@
+{
+  "id": "ESTHER_04_P003",
+  "book": "esther",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.273
+      ]
+    },
+    {
+      "id": "ESTHER_04_P003_F2",
+      "box": [
+        0,
+        0.277,
+        1,
+        0.152
+      ]
+    },
+    {
+      "id": "ESTHER_04_P003_F3",
+      "box": [
+        0,
+        0.433,
+        1,
+        0.335
+      ]
+    },
+    {
+      "id": "ESTHER_04_P003_F4",
+      "box": [
+        0,
+        0.773,
+        1,
+        0.227
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_04_P003_B001",
+      "panel": "ESTHER_04_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.0055,
+        0.42,
+        0.0436
+      ],
+      "tail": null,
+      "text_key": "esther.4.p3.b1"
+    },
+    {
+      "id": "ESTHER_04_P003_B002",
+      "panel": "ESTHER_04_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.2831,
+        0.3,
+        0.0425
+      ],
+      "tail": null,
+      "text_key": "esther.4.p3.b2"
+    },
+    {
+      "id": "ESTHER_04_P003_B003",
+      "panel": "ESTHER_04_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.4,
+        0.4431,
+        0.31,
+        0.0536
+      ],
+      "tail": null,
+      "text_key": "esther.4.p3.b3"
+    },
+    {
+      "id": "ESTHER_04_P003_B004",
+      "panel": "ESTHER_04_P003_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.38,
+        0.6909,
+        0.38,
+        0.067
+      ],
+      "tail": null,
+      "text_key": "esther.4.p3.b4"
+    },
+    {
+      "id": "ESTHER_04_P003_B005",
+      "panel": "ESTHER_04_P003_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.02,
+        0.9591,
+        0.26,
+        0.0363
+      ],
+      "tail": null,
+      "text_key": "esther.4.p3.b5"
+    }
+  ]
+}

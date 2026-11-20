@@ -1,0 +1,127 @@
+{
+  "id": "ESTHER_07_P002",
+  "book": "esther",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:3-4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_07_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3158
+      ]
+    },
+    {
+      "id": "ESTHER_07_P002_F2",
+      "box": [
+        0,
+        0.319,
+        1,
+        0.4128
+      ]
+    },
+    {
+      "id": "ESTHER_07_P002_F3",
+      "box": [
+        0,
+        0.735,
+        0.498,
+        0.265
+      ]
+    },
+    {
+      "id": "ESTHER_07_P002_F4",
+      "box": [
+        0.5039,
+        0.735,
+        0.4961,
+        0.265
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_07_P002_B001",
+      "panel": "ESTHER_07_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0095,
+        0.48,
+        0.0757
+      ],
+      "tail": [
+        0.27,
+        0.1168
+      ],
+      "text_key": "esther.7.p2.b1"
+    },
+    {
+      "id": "ESTHER_07_P002_B002",
+      "panel": "ESTHER_07_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.52,
+        0.3314,
+        0.45,
+        0.099
+      ],
+      "tail": [
+        0.745,
+        0.4717
+      ],
+      "text_key": "esther.7.p2.b2"
+    },
+    {
+      "id": "ESTHER_07_P002_B003",
+      "panel": "ESTHER_07_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.0149,
+        0.743,
+        0.4681,
+        0.0424
+      ],
+      "tail": [
+        0.249,
+        0.8119
+      ],
+      "text_key": "esther.7.p2.b3"
+    },
+    {
+      "id": "ESTHER_07_P002_B004",
+      "panel": "ESTHER_07_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5287,
+        0.743,
+        0.4464,
+        0.0689
+      ],
+      "tail": [
+        0.7519,
+        0.8384
+      ],
+      "text_key": "esther.7.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ESTHER_02_P007",
+  "book": "esther",
+  "chapter": 2,
+  "page": 7,
+  "ref": "2:23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_02_P007",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_02_P007_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3841
+      ]
+    },
+    {
+      "id": "ESTHER_02_P007_F2",
+      "box": [
+        0,
+        0.39,
+        1,
+        0.1556
+      ]
+    },
+    {
+      "id": "ESTHER_02_P007_F3",
+      "box": [
+        0,
+        0.5501,
+        1,
+        0.4499
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_02_P007_B001",
+      "panel": "ESTHER_02_P007_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.0115,
+        0.42,
+        0.0691
+      ],
+      "tail": null,
+      "text_key": "esther.2.p7.b1"
+    },
+    {
+      "id": "ESTHER_02_P007_B002",
+      "panel": "ESTHER_02_P007_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3993,
+        0.4,
+        0.0466
+      ],
+      "tail": null,
+      "text_key": "esther.2.p7.b2"
+    },
+    {
+      "id": "ESTHER_02_P007_B003",
+      "panel": "ESTHER_02_P007_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5,
+        0.91,
+        0.47,
+        0.0764
+      ],
+      "tail": null,
+      "text_key": "esther.2.p7.b3"
+    }
+  ]
+}

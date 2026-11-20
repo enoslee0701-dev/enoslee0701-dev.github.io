@@ -1,0 +1,109 @@
+{
+  "id": "ESTHER_05_P003",
+  "book": "esther",
+  "chapter": 5,
+  "page": 3,
+  "ref": "5:6-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_05_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_05_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3411
+      ]
+    },
+    {
+      "id": "ESTHER_05_P003_F2",
+      "box": [
+        0,
+        0.3451,
+        0.4795,
+        0.2943
+      ]
+    },
+    {
+      "id": "ESTHER_05_P003_F3",
+      "box": [
+        0.4863,
+        0.3451,
+        0.5137,
+        0.2943
+      ]
+    },
+    {
+      "id": "ESTHER_05_P003_F4",
+      "box": [
+        0,
+        0.6432,
+        1,
+        0.3568
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_05_P003_B001",
+      "panel": "ESTHER_05_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.03,
+        0.0102,
+        0.55,
+        0.0818
+      ],
+      "tail": [
+        0.305,
+        0.1261
+      ],
+      "text_key": "esther.5.p3.b1"
+    },
+    {
+      "id": "ESTHER_05_P003_B002",
+      "panel": "ESTHER_05_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.024,
+        0.3569,
+        0.4315,
+        0.0706
+      ],
+      "tail": [
+        0.2398,
+        0.4569
+      ],
+      "text_key": "esther.5.p3.b2"
+    },
+    {
+      "id": "ESTHER_05_P003_B003",
+      "panel": "ESTHER_05_P003_F4",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.45,
+        0.6539,
+        0.52,
+        0.107
+      ],
+      "tail": [
+        0.71,
+        0.7966
+      ],
+      "text_key": "esther.5.p3.b3"
+    }
+  ]
+}

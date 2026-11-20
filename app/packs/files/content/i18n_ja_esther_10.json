@@ -1,0 +1,42 @@
+{
+  "esther.10.p1.b1": {
+    "text": "アハシュエロス王はその国および海に沿った国々にみつぎを課した。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Esther 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "esther.10.p2.b1": {
+    "text": "彼の権力と勢力によるすべての事業、および王がモルデカイを高い地位にのぼらせた事の詳しい話はメデアとペルシャの王たちの日誌の書にしるされているではないか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Esther 10:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "esther.10.p3.b1": {
+    "text": "ユダヤ人モルデカイはアハシュエロス王に次ぐ者となり、ユダヤ人の中にあって大いなる者となり、その多くの兄弟に喜ばれた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Esther 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "esther.10.p3.b2": {
+    "text": "彼はその民の幸福を求め、すべての国民に平和を述べたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Esther 10:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

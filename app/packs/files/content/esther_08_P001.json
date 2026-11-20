@@ -1,0 +1,115 @@
+{
+  "id": "ESTHER_08_P001",
+  "book": "esther",
+  "chapter": 8,
+  "page": 1,
+  "ref": "8:1-2",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_08_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_08_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2962
+      ]
+    },
+    {
+      "id": "ESTHER_08_P001_F2",
+      "box": [
+        0,
+        0.2995,
+        1,
+        0.3529
+      ]
+    },
+    {
+      "id": "ESTHER_08_P001_F3",
+      "box": [
+        0,
+        0.6556,
+        0.4834,
+        0.3444
+      ]
+    },
+    {
+      "id": "ESTHER_08_P001_F4",
+      "box": [
+        0.4893,
+        0.6556,
+        0.5107,
+        0.3444
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_08_P001_B001",
+      "panel": "ESTHER_08_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.27,
+        0.0059,
+        0.28,
+        0.077
+      ],
+      "tail": null,
+      "text_key": "esther.8.p1.b1"
+    },
+    {
+      "id": "ESTHER_08_P001_B002",
+      "panel": "ESTHER_08_P001_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.56,
+        0.0059,
+        0.27,
+        0.077
+      ],
+      "tail": null,
+      "text_key": "esther.8.p1.b2"
+    },
+    {
+      "id": "ESTHER_08_P001_B003",
+      "panel": "ESTHER_08_P001_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3101,
+        0.44,
+        0.0705
+      ],
+      "tail": null,
+      "text_key": "esther.8.p1.b3"
+    },
+    {
+      "id": "ESTHER_08_P001_B004",
+      "panel": "ESTHER_08_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.203,
+        0.6694,
+        0.1256,
+        0.1239
+      ],
+      "tail": null,
+      "text_key": "esther.8.p1.b4"
+    }
+  ]
+}

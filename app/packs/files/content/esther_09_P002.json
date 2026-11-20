@@ -1,0 +1,130 @@
+{
+  "id": "ESTHER_09_P002",
+  "book": "esther",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:5-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ESTHER_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ESTHER_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2988
+      ]
+    },
+    {
+      "id": "ESTHER_09_P002_F2",
+      "box": [
+        0,
+        0.3034,
+        0.4541,
+        0.3809
+      ]
+    },
+    {
+      "id": "ESTHER_09_P002_F3",
+      "box": [
+        0.4619,
+        0.3034,
+        0.5381,
+        0.6966
+      ]
+    },
+    {
+      "id": "ESTHER_09_P002_F4",
+      "box": [
+        0,
+        0.6888,
+        0.4541,
+        0.3112
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ESTHER_09_P002_B001",
+      "panel": "ESTHER_09_P002_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.009,
+        0.55,
+        0.0657
+      ],
+      "tail": null,
+      "text_key": "esther.9.p2.b1"
+    },
+    {
+      "id": "ESTHER_09_P002_B002",
+      "panel": "ESTHER_09_P002_F1",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6,
+        0.009,
+        0.37,
+        0.0358
+      ],
+      "tail": null,
+      "text_key": "esther.9.p2.b2"
+    },
+    {
+      "id": "ESTHER_09_P002_B003",
+      "panel": "ESTHER_09_P002_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0182,
+        0.3148,
+        0.4177,
+        0.0378
+      ],
+      "tail": null,
+      "text_key": "esther.9.p2.b3"
+    },
+    {
+      "id": "ESTHER_09_P002_B004",
+      "panel": "ESTHER_09_P002_F2",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0182,
+        0.3603,
+        0.4177,
+        0.0193
+      ],
+      "tail": null,
+      "text_key": "esther.9.p2.b4"
+    },
+    {
+      "id": "ESTHER_09_P002_B005",
+      "panel": "ESTHER_09_P002_F3",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.6018,
+        0.3243,
+        0.3766,
+        0.1253
+      ],
+      "tail": null,
+      "text_key": "esther.9.p2.b5"
+    }
+  ]
+}
