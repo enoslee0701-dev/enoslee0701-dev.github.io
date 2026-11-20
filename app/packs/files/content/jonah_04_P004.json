@@ -1,0 +1,139 @@
+{
+  "id": "JONAH_04_P004",
+  "book": "jonah",
+  "chapter": 4,
+  "page": 4,
+  "ref": "4:7-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JONAH_04_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JONAH_04_P004_F1",
+      "box": [
+        0.0068,
+        0.0052,
+        0.4063,
+        0.2598
+      ]
+    },
+    {
+      "id": "JONAH_04_P004_F2",
+      "box": [
+        0.4219,
+        0.0052,
+        0.5713,
+        0.2598
+      ]
+    },
+    {
+      "id": "JONAH_04_P004_F3",
+      "box": [
+        0.0078,
+        0.2702,
+        0.9854,
+        0.2826
+      ]
+    },
+    {
+      "id": "JONAH_04_P004_F4",
+      "box": [
+        0.0078,
+        0.5573,
+        0.9854,
+        0.4375
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JONAH_04_P004_B001",
+      "panel": "JONAH_04_P004_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.019,
+        0.0156,
+        0.2275,
+        0.0779
+      ],
+      "tail": null,
+      "text_key": "jonah.4.p4.b1"
+    },
+    {
+      "id": "JONAH_04_P004_B002",
+      "panel": "JONAH_04_P004_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0275,
+        0.2815,
+        0.3744,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "jonah.4.p4.b2"
+    },
+    {
+      "id": "JONAH_04_P004_B003",
+      "panel": "JONAH_04_P004_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "tremble",
+      "box": [
+        0.6582,
+        0.4906,
+        0.3153,
+        0.0508
+      ],
+      "tail": [
+        0.8159,
+        0.5528
+      ],
+      "text_key": "jonah.4.p4.b3"
+    },
+    {
+      "id": "JONAH_04_P004_B004",
+      "panel": "JONAH_04_P004_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0374,
+        0.5792,
+        0.335,
+        0.1312
+      ],
+      "tail": [
+        0.2049,
+        0.7542
+      ],
+      "text_key": "jonah.4.p4.b4"
+    },
+    {
+      "id": "JONAH_04_P004_B005",
+      "panel": "JONAH_04_P004_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.6976,
+        0.5792,
+        0.2759,
+        0.1312
+      ],
+      "tail": [
+        0.8356,
+        0.7542
+      ],
+      "text_key": "jonah.4.p4.b5"
+    }
+  ]
+}

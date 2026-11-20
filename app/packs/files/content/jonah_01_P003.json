@@ -1,0 +1,52 @@
+{
+  "id": "JONAH_01_P003",
+  "book": "jonah",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:4",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JONAH_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JONAH_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.7526
+      ]
+    },
+    {
+      "id": "JONAH_01_P003_F2",
+      "box": [
+        0,
+        0.7572,
+        1,
+        0.2428
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JONAH_01_P003_B001",
+      "panel": "JONAH_01_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.0226,
+        0.45,
+        0.1204
+      ],
+      "tail": null,
+      "text_key": "jonah.1.p3.b1"
+    }
+  ]
+}

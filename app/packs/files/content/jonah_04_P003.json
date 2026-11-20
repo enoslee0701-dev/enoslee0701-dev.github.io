@@ -1,0 +1,67 @@
+{
+  "id": "JONAH_04_P003",
+  "book": "jonah",
+  "chapter": 4,
+  "page": 3,
+  "ref": "4:6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JONAH_04_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JONAH_04_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2897
+      ]
+    },
+    {
+      "id": "JONAH_04_P003_F2",
+      "box": [
+        0,
+        0.2956,
+        1,
+        0.7044
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JONAH_04_P003_B001",
+      "panel": "JONAH_04_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.45,
+        0.0174,
+        0.52,
+        0.1158
+      ],
+      "tail": null,
+      "text_key": "jonah.4.p3.b1"
+    },
+    {
+      "id": "JONAH_04_P003_B002",
+      "panel": "JONAH_04_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.8873,
+        0.42,
+        0.0845
+      ],
+      "tail": null,
+      "text_key": "jonah.4.p3.b2"
+    }
+  ]
+}

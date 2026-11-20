@@ -1,0 +1,124 @@
+{
+  "id": "JONAH_03_P005",
+  "book": "jonah",
+  "chapter": 3,
+  "page": 5,
+  "ref": "3:7-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JONAH_03_P005",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JONAH_03_P005_F1",
+      "box": [
+        0,
+        0,
+        0.5713,
+        0.3346
+      ]
+    },
+    {
+      "id": "JONAH_03_P005_F2",
+      "box": [
+        0.5771,
+        0,
+        0.4229,
+        0.3346
+      ]
+    },
+    {
+      "id": "JONAH_03_P005_F3",
+      "box": [
+        0,
+        0.3379,
+        1,
+        0.2702
+      ]
+    },
+    {
+      "id": "JONAH_03_P005_F4",
+      "box": [
+        0,
+        0.6107,
+        1,
+        0.3893
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JONAH_03_P005_B001",
+      "panel": "JONAH_03_P005_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.3256,
+        0.0067,
+        0.2342,
+        0.0736
+      ],
+      "tail": [
+        0.4427,
+        0.1138
+      ],
+      "text_key": "jonah.3.p5.b1"
+    },
+    {
+      "id": "JONAH_03_P005_B002",
+      "panel": "JONAH_03_P005_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5982,
+        0.0134,
+        0.3806,
+        0.0803
+      ],
+      "tail": [
+        0.7885,
+        0.1272
+      ],
+      "text_key": "jonah.3.p5.b2"
+    },
+    {
+      "id": "JONAH_03_P005_B003",
+      "panel": "JONAH_03_P005_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.76,
+        0.3487,
+        0.22,
+        0.1026
+      ],
+      "tail": [
+        0.87,
+        0.4783
+      ],
+      "text_key": "jonah.3.p5.b3"
+    },
+    {
+      "id": "JONAH_03_P005_B004",
+      "panel": "JONAH_03_P005_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.9144,
+        0.6,
+        0.07
+      ],
+      "tail": null,
+      "text_key": "jonah.3.p5.b4"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "jonah.1.p1.b2": {
+    "text": "主の言葉がアミッタイの子ヨナに臨んで言った、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p1.b3": {
+    "text": "「立って、あの大きな町ニネベに行き、これに向かって呼ばわれ。彼らの悪がわたしの前に上ってきたからである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p2.b1": {
+    "text": "しかしヨナは主の前を離れてタルシシへのがれようと、立ってヨッパに下って行った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p2.b2": {
+    "text": "ところがちょうど、タルシシへ行く船があったので",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p2.b3": {
+    "text": "船賃を払い、主の前を離れて、人々と共にタルシシへ行こうと船に乗った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p3.b1": {
+    "text": "時に、主は大風を海の上に起されたので、船が破れるほどの激しい暴風が海の上にあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p4.b1": {
+    "text": "それで水夫たちは恐れて、めいめい自分の神を呼び求め、また船を軽くするため、その中の積み荷を海に投げ捨てた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p4.b2": {
+    "text": "しかし、ヨナは船の奥に下り、伏して熟睡していた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p4.b3": {
+    "text": "「あなたはどうして眠っているのか。起きて、あなたの神に呼ばわりなさい。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p4.b4": {
+    "text": "……神があるいは、われわれを顧みて、助けてくださるだろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p5.b1": {
+    "text": "そして彼らが、くじを引いたところ、くじはヨナに当った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p5.b2": {
+    "text": "「この災がだれのせいで、われわれに臨んだのか、われわれに告げなさい。あなたの職業は何か。あなたはどこから来たのか。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p5.b3": {
+    "text": "「わたしはヘブルびとです。わたしは海と陸とをお造りになった天の神、主を恐れる者です」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p5.b4": {
+    "text": "「あなたはなんたる事をしてくれたのか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p6.b1": {
+    "text": "「われわれのために海が静まるには、あなたをどうしたらよかろうか」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p6.b2": {
+    "text": "「わたしを取って海に投げ入れなさい。そうしたら海は、あなたがたのために静まるでしょう。わたしにはよくわかっています。この激しい暴風があなたがたに臨んだのは、わたしのせいです」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p6.b3": {
+    "text": "しかし人々は船を陸にこぎもどそうとつとめたが、成功しなかった。それは海が彼らに逆らって、いよいよ荒れたからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p7.b1": {
+    "text": "「主よ、どうぞ、この人の生命のために、われわれを滅ぼさないでください。また罪なき血を、われわれに帰しないでください。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p7.b2": {
+    "text": "そして彼らはヨナを取って海に投げ入れた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p7.b3": {
+    "text": "すると海の荒れるのがやんだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p7.b4": {
+    "text": "そこで人々は大いに主を恐れ、犠牲を主にささげて、誓願を立てた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p8.b1": {
+    "text": "主は大いなる魚を備えて、ヨナをのませられた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "jonah.1.p8.b2": {
+    "text": "ヨナは三日三夜その魚の腹の中にいた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Jonah 1:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}
