@@ -1,0 +1,124 @@
+{
+  "id": "EZEKIEL_37_P001",
+  "book": "ezekiel",
+  "chapter": 37,
+  "page": 1,
+  "ref": "37:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_37_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_37_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.5911
+      ]
+    },
+    {
+      "id": "EZEKIEL_37_P001_F2",
+      "box": [
+        0,
+        0.5957,
+        0.4814,
+        0.4043
+      ]
+    },
+    {
+      "id": "EZEKIEL_37_P001_F3",
+      "box": [
+        0.4883,
+        0.5957,
+        0.5117,
+        0.4043
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_37_P001_B001",
+      "panel": "EZEKIEL_37_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0177,
+        0.5,
+        0.0945
+      ],
+      "tail": null,
+      "text_key": "ezekiel.37.p1.b1"
+    },
+    {
+      "id": "EZEKIEL_37_P001_B002",
+      "panel": "EZEKIEL_37_P001_F1",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.55,
+        0.0177,
+        0.42,
+        0.0827
+      ],
+      "tail": null,
+      "text_key": "ezekiel.37.p1.b2"
+    },
+    {
+      "id": "EZEKIEL_37_P001_B003",
+      "panel": "EZEKIEL_37_P001_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0096,
+        0.6038,
+        0.1684,
+        0.0485
+      ],
+      "tail": null,
+      "text_key": "ezekiel.37.p1.b3"
+    },
+    {
+      "id": "EZEKIEL_37_P001_B004",
+      "panel": "EZEKIEL_37_P001_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8158,
+        0.6078,
+        0.1739,
+        0.0727
+      ],
+      "tail": [
+        0.9028,
+        0.7209
+      ],
+      "text_key": "ezekiel.37.p1.b4"
+    },
+    {
+      "id": "EZEKIEL_37_P001_B005",
+      "panel": "EZEKIEL_37_P001_F3",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.8721,
+        0.6927,
+        0.1176,
+        0.1212
+      ],
+      "tail": null,
+      "text_key": "ezekiel.37.p1.b5"
+    }
+  ]
+}

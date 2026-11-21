@@ -1,0 +1,42 @@
+{
+  "ezekiel.46.p1.b1": {
+    "text": "内庭にある東向きの門は、働きをする六日の間は閉じ、安息日にはこれを開き、またついたちにはこれを開け。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 46:1-8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.46.p1.b2": {
+    "text": "国の民が、祝い日に主の前に出る時……北の門の道からはいる者は、南の門の道から出て行き、南の門の道からはいる者は、北の門の道から出て行け。……彼らがはいる時、君たる者は、彼らと共にはいり……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 46:9-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.46.p1.b3": {
+    "text": "彼は日ごとに一歳の無傷の小羊を燔祭として、主にささげなければならない。すなわち朝ごとに、これをささげなければならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 46:13-18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.46.p1.b4": {
+    "text": "これらは宮の仕え人たちが、民のささげる犠牲のものを煮る台所である",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 46:19-24"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

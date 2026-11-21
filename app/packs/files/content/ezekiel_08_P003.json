@@ -1,0 +1,130 @@
+{
+  "id": "EZEKIEL_08_P003",
+  "book": "ezekiel",
+  "chapter": 8,
+  "page": 3,
+  "ref": "8:14-18",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_08_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_08_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2604
+      ]
+    },
+    {
+      "id": "EZEKIEL_08_P003_F2",
+      "box": [
+        0,
+        0.2637,
+        1,
+        0.4421
+      ]
+    },
+    {
+      "id": "EZEKIEL_08_P003_F3",
+      "box": [
+        0,
+        0.7083,
+        0.4824,
+        0.2917
+      ]
+    },
+    {
+      "id": "EZEKIEL_08_P003_F4",
+      "box": [
+        0.4883,
+        0.7083,
+        0.5117,
+        0.2917
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_08_P003_B001",
+      "panel": "EZEKIEL_08_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.2,
+        0.0078,
+        0.36,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "ezekiel.8.p3.b1"
+    },
+    {
+      "id": "EZEKIEL_08_P003_B002",
+      "panel": "EZEKIEL_08_P003_F1",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.0104,
+        0.37,
+        0.0624
+      ],
+      "tail": null,
+      "text_key": "ezekiel.8.p3.b2"
+    },
+    {
+      "id": "EZEKIEL_08_P003_B003",
+      "panel": "EZEKIEL_08_P003_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.277,
+        0.34,
+        0.1061
+      ],
+      "tail": null,
+      "text_key": "ezekiel.8.p3.b3"
+    },
+    {
+      "id": "EZEKIEL_08_P003_B004",
+      "panel": "EZEKIEL_08_P003_F3",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0241,
+        0.7171,
+        0.4341,
+        0.07
+      ],
+      "tail": null,
+      "text_key": "ezekiel.8.p3.b4"
+    },
+    {
+      "id": "EZEKIEL_08_P003_B005",
+      "panel": "EZEKIEL_08_P003_F4",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.7697,
+        0.7171,
+        0.2149,
+        0.0875
+      ],
+      "tail": null,
+      "text_key": "ezekiel.8.p3.b5"
+    }
+  ]
+}

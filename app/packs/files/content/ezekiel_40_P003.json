@@ -1,0 +1,118 @@
+{
+  "id": "EZEKIEL_40_P003",
+  "book": "ezekiel",
+  "chapter": 40,
+  "page": 3,
+  "ref": "40:28-49",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_40_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_40_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2728
+      ]
+    },
+    {
+      "id": "EZEKIEL_40_P003_F2",
+      "box": [
+        0,
+        0.278,
+        0.4541,
+        0.3047
+      ]
+    },
+    {
+      "id": "EZEKIEL_40_P003_F3",
+      "box": [
+        0.4639,
+        0.278,
+        0.5361,
+        0.3047
+      ]
+    },
+    {
+      "id": "EZEKIEL_40_P003_F4",
+      "box": [
+        0,
+        0.5872,
+        1,
+        0.4128
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_40_P003_B001",
+      "panel": "EZEKIEL_40_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.42,
+        0.2019,
+        0.55,
+        0.06
+      ],
+      "tail": null,
+      "text_key": "ezekiel.40.p3.b1"
+    },
+    {
+      "id": "EZEKIEL_40_P003_B002",
+      "panel": "EZEKIEL_40_P003_F3",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4853,
+        0.2871,
+        0.4824,
+        0.0731
+      ],
+      "tail": [
+        0.7265,
+        0.3907
+      ],
+      "text_key": "ezekiel.40.p3.b2"
+    },
+    {
+      "id": "EZEKIEL_40_P003_B003",
+      "panel": "EZEKIEL_40_P003_F4",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.5996,
+        0.44,
+        0.0577
+      ],
+      "tail": null,
+      "text_key": "ezekiel.40.p3.b3"
+    },
+    {
+      "id": "EZEKIEL_40_P003_B004",
+      "panel": "EZEKIEL_40_P003_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.9422,
+        0.45,
+        0.0454
+      ],
+      "tail": null,
+      "text_key": "ezekiel.40.p3.b4"
+    }
+  ]
+}

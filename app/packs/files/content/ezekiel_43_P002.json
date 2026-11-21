@@ -1,0 +1,115 @@
+{
+  "id": "EZEKIEL_43_P002",
+  "book": "ezekiel",
+  "chapter": 43,
+  "page": 2,
+  "ref": "43:6-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_43_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_43_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3301
+      ]
+    },
+    {
+      "id": "EZEKIEL_43_P002_F2",
+      "box": [
+        0,
+        0.3353,
+        0.4873,
+        0.2507
+      ]
+    },
+    {
+      "id": "EZEKIEL_43_P002_F3",
+      "box": [
+        0.4971,
+        0.3353,
+        0.5029,
+        0.2507
+      ]
+    },
+    {
+      "id": "EZEKIEL_43_P002_F4",
+      "box": [
+        0,
+        0.5918,
+        1,
+        0.4082
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_43_P002_B001",
+      "panel": "EZEKIEL_43_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0099,
+        0.46,
+        0.1122
+      ],
+      "tail": null,
+      "text_key": "ezekiel.43.p2.b1"
+    },
+    {
+      "id": "EZEKIEL_43_P002_B002",
+      "panel": "EZEKIEL_43_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0195,
+        0.5058,
+        0.4483,
+        0.0701
+      ],
+      "tail": null,
+      "text_key": "ezekiel.43.p2.b2"
+    },
+    {
+      "id": "EZEKIEL_43_P002_B003",
+      "panel": "EZEKIEL_43_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5172,
+        0.3428,
+        0.4626,
+        0.0551
+      ],
+      "tail": null,
+      "text_key": "ezekiel.43.p2.b3"
+    },
+    {
+      "id": "EZEKIEL_43_P002_B004",
+      "panel": "EZEKIEL_43_P002_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.56,
+        0.604,
+        0.41,
+        0.0816
+      ],
+      "tail": null,
+      "text_key": "ezekiel.43.p2.b4"
+    }
+  ]
+}

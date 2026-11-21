@@ -1,0 +1,118 @@
+{
+  "id": "EZEKIEL_46_P001",
+  "book": "ezekiel",
+  "chapter": 46,
+  "page": 1,
+  "ref": "46:1-24",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_46_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_46_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2474
+      ]
+    },
+    {
+      "id": "EZEKIEL_46_P001_F2",
+      "box": [
+        0,
+        0.252,
+        1,
+        0.4499
+      ]
+    },
+    {
+      "id": "EZEKIEL_46_P001_F3",
+      "box": [
+        0,
+        0.7064,
+        0.3994,
+        0.2936
+      ]
+    },
+    {
+      "id": "EZEKIEL_46_P001_F4",
+      "box": [
+        0.4063,
+        0.7064,
+        0.5937,
+        0.2936
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_46_P001_B001",
+      "panel": "EZEKIEL_46_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0272,
+        0.33,
+        0.042
+      ],
+      "tail": null,
+      "text_key": "ezekiel.46.p1.b1"
+    },
+    {
+      "id": "EZEKIEL_46_P001_B002",
+      "panel": "EZEKIEL_46_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.27,
+        0.3,
+        0.1349
+      ],
+      "tail": null,
+      "text_key": "ezekiel.46.p1.b2"
+    },
+    {
+      "id": "EZEKIEL_46_P001_B003",
+      "panel": "EZEKIEL_46_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.1997,
+        0.8385,
+        0.1917,
+        0.1233
+      ],
+      "tail": null,
+      "text_key": "ezekiel.46.p1.b3"
+    },
+    {
+      "id": "EZEKIEL_46_P001_B004",
+      "panel": "EZEKIEL_46_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.7329,
+        0.7152,
+        0.2493,
+        0.088
+      ],
+      "tail": [
+        0.8576,
+        0.8326
+      ],
+      "text_key": "ezekiel.46.p1.b4"
+    }
+  ]
+}

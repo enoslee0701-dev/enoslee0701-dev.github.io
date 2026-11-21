@@ -1,0 +1,42 @@
+{
+  "ezekiel.45.p1.b1": {
+    "text": "あなたがたは、くじを引き、地を分けて、それを所有するときには、地の一部を聖なる地所として主にささげよ。……その区域はすべて聖なる地である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 45:1-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.45.p1.b2": {
+    "text": "その所有の地所はイスラエルの中にある。わたしの君たちは、重ねてわたしの民をしえたげず、部族にしたがってイスラエルの家に土地を与える。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 45:7-8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.45.p1.b3": {
+    "text": "イスラエルの君たちよ、暴虐と略奪とをやめ、公道と正義を行え。……あなたがたは正しいはかり……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 45:9-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.45.p1.b4": {
+    "text": "国の民は皆これをイスラエルの君にささげ物とせよ。また祭日、ついたち、安息日……燔祭、素祭、灌祭を供えるのは、君たる者の務である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 45:13-25"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

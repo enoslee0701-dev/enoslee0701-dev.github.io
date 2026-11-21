@@ -1,0 +1,46 @@
+{
+  "ezekiel.42.p1.b1": {
+    "text": "他带我出来向北，到外院，又带我进入圣屋；……圣屋有三层，……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Ezekiel 42:1-6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他带我出⁠来向⁠北，到外⁠院，又带我进⁠入圣屋；……圣屋有三⁠层，……"
+  },
+  "ezekiel.42.p1.b2": {
+    "text": "……要在圣屋放下他们供职的衣服，因为是圣衣；要穿上别的衣服才可以到属民的外院。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Ezekiel 42:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "……要在圣屋放⁠下他⁠们供⁠职的衣⁠服，因⁠为是圣衣；要穿⁠上别⁠的衣⁠服才⁠可⁠以到属民的外⁠院。"
+  },
+  "ezekiel.42.p1.b3": {
+    "text": "他量完了内殿，就带我出朝东的门，量院的四围。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Ezekiel 42:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他量完⁠了内⁠殿，就带我出朝东的门，量院的四围。"
+  },
+  "ezekiel.42.p1.b4": {
+    "text": "他量四面，四围有墙，长五百肘，宽五百肘，为要分别圣地与俗地。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Ezekiel 42:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他量四⁠面，四围有墙，长五⁠百肘，宽五⁠百肘，为要分⁠别圣⁠地与俗地。"
+  }
+}

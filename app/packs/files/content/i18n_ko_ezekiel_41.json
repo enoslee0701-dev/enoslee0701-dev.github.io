@@ -1,0 +1,72 @@
+{
+  "ezekiel.41.p1.b1": {
+    "text": "그가 나를 데리고 성소에 이르러 그 문벽을 척량하니 … 그 문통의 광이 십척이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p1.b2": {
+    "text": "그가 안으로 들어가서 내전 문통의 벽을 척량하니 … 그가 내게 이르되 이는 지성소니라 하고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:3-4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p1.b3": {
+    "text": "골방은 삼층인데 골방 위에 골방이 있어 … 이 두루 있는 골방이 그 층이 높아갈수록 넓으므로 … 골방은 아랫층에서 중층으로 윗층에 올라가게 되었더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:6-7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b1": {
+    "text": "그가 전을 척량하니 장이 일백척이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b2": {
+    "text": "널판에는 그룹들과 종려나무를 새겼는데 … 하나는 사람의 얼굴이라 이편 종려나무를 향하였고 하나는 어린 사자의 얼굴이라 저편 종려나무를 향하였으며 온 전 사면이 다 그러하여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:18-19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b3": {
+    "text": "이는 여호와의 앞의 상이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b4": {
+    "text": "내전과 외전에 각기 문이 있는데 문마다 각기 두 문짝 곧 접치는 두 문짝이 있어 이 문에 두 짝이요 저 문에 두 짝이며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 41:23-24"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

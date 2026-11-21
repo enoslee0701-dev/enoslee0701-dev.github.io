@@ -1,0 +1,142 @@
+{
+  "id": "EZEKIEL_20_P002",
+  "book": "ezekiel",
+  "chapter": 20,
+  "page": 2,
+  "ref": "20:18-38",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_20_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_20_P002_F1",
+      "box": [
+        0,
+        0,
+        0.498,
+        0.2266
+      ]
+    },
+    {
+      "id": "EZEKIEL_20_P002_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.2266
+      ]
+    },
+    {
+      "id": "EZEKIEL_20_P002_F3",
+      "box": [
+        0,
+        0.2298,
+        0.3223,
+        0.2005
+      ]
+    },
+    {
+      "id": "EZEKIEL_20_P002_F4",
+      "box": [
+        0.3281,
+        0.2298,
+        0.6719,
+        0.2005
+      ]
+    },
+    {
+      "id": "EZEKIEL_20_P002_F5",
+      "box": [
+        0,
+        0.4336,
+        1,
+        0.5664
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_20_P002_B001",
+      "panel": "EZEKIEL_20_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0199,
+        0.0068,
+        0.4482,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "ezekiel.20.p2.b1"
+    },
+    {
+      "id": "EZEKIEL_20_P002_B002",
+      "panel": "EZEKIEL_20_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.752,
+        0.0068,
+        0.2331,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "ezekiel.20.p2.b2"
+    },
+    {
+      "id": "EZEKIEL_20_P002_B003",
+      "panel": "EZEKIEL_20_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0161,
+        0.2358,
+        0.29,
+        0.036
+      ],
+      "tail": null,
+      "text_key": "ezekiel.20.p2.b3"
+    },
+    {
+      "id": "EZEKIEL_20_P002_B004",
+      "panel": "EZEKIEL_20_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4961,
+        0.2358,
+        0.3359,
+        0.0401
+      ],
+      "tail": [
+        0.6641,
+        0.296
+      ],
+      "text_key": "ezekiel.20.p2.b4"
+    },
+    {
+      "id": "EZEKIEL_20_P002_B005",
+      "panel": "EZEKIEL_20_P002_F5",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.55,
+        0.4449,
+        0.42,
+        0.0679
+      ],
+      "tail": null,
+      "text_key": "ezekiel.20.p2.b5"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "EZEKIEL_48_P002",
+  "book": "ezekiel",
+  "chapter": 48,
+  "page": 2,
+  "ref": "48:30-35",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_48_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_48_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2943
+      ]
+    },
+    {
+      "id": "EZEKIEL_48_P002_F2",
+      "box": [
+        0,
+        0.2969,
+        1,
+        0.2526
+      ]
+    },
+    {
+      "id": "EZEKIEL_48_P002_F3",
+      "box": [
+        0,
+        0.5534,
+        1,
+        0.4466
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_48_P002_B001",
+      "panel": "EZEKIEL_48_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0088,
+        0.45,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "ezekiel.48.p2.b1"
+    },
+    {
+      "id": "EZEKIEL_48_P002_B002",
+      "panel": "EZEKIEL_48_P002_F3",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.1,
+        0.5623,
+        0.8,
+        0.0714
+      ],
+      "tail": null,
+      "text_key": "ezekiel.48.p2.b2"
+    }
+  ]
+}

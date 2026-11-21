@@ -1,0 +1,42 @@
+{
+  "ezekiel.46.p1.b1": {
+    "text": "The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 46:1-8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.46.p1.b2": {
+    "text": "When the people of the land come before the LORD at the appointed feasts … whoever enters by the north gate to worship must go out by the south gate, and whoever enters by the south gate must go out by the north gate. … When the people enter, the prince shall go in with them …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 46:9-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.46.p1.b3": {
+    "text": "You shall provide an unblemished year-old lamb as a daily burnt offering to the LORD; you are to offer it every morning.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 46:13-18"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.46.p1.b4": {
+    "text": "These are the kitchens where those who minister at the temple will cook the sacrifices offered by the people.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 46:19-24"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

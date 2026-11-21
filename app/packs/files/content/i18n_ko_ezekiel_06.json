@@ -1,0 +1,82 @@
+{
+  "ezekiel.6.p1.b1": {
+    "text": "인자야 너는 이스라엘 산을 향하여 그들에게 예언하여",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b2": {
+    "text": "이스라엘 산들아 주 여호와의 말씀을 들으라 … 나 곧 내가 칼로 너희에게 임하게 하여 너희 산당을 멸하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b3": {
+    "text": "너희 제단이 황무하고 태양상이 훼파될 것이며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b4": {
+    "text": "내가 너희 거하는 모든 성읍으로 사막이 되며 산당으로 황무하게 하리니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b5": {
+    "text": "너희 중 피한 자가 사로잡혀 이방인 중에 있어서 나를 기억하되 … 스스로 한탄하리니 이는 그 모든 가증한 일로 악을 행하였음이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b6": {
+    "text": "너는 손뼉을 치고 발을 구르며 말할지어다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b7": {
+    "text": "오호라 이스라엘 족속이 모든 가증한 악을 행하므로 필경 칼과 기근과 온역에 망하되",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.6.p1.b8": {
+    "text": "… 각 높은 고개에, 모든 산꼭대기에, 모든 푸른 나무 아래에, 무성한 상수리나무 아래 … 너희가 나를 여호와인줄 알리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 6:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

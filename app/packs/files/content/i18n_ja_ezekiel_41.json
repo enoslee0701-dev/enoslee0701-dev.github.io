@@ -1,0 +1,72 @@
+{
+  "ezekiel.41.p1.b1": {
+    "text": "彼がわたしを拝殿に連れて行って、脇柱を測ると、……その戸の幅は十キュビト……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p1.b2": {
+    "text": "彼がまた内にはいって、戸の脇柱を測ると、……そして彼はわたしに、これは至聖所であると言った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:3-4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p1.b3": {
+    "text": "脇間は、室の上に室があって三階になり、……階を重ねて上にいくにしたがって広くなり、……一階から三階へは、二階をとおって上るのである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:6-7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b1": {
+    "text": "彼が宮を測ると、その長さは百キュビトあり、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b2": {
+    "text": "……ケルビムと、しゅろとが彫刻してあった。……こなたには、しゅろに向かって、人の顔があり、かなたには、しゅろに向かって、若じしの顔があり、宮の周囲は、すべてこのように彫刻してあった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:18-19"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b3": {
+    "text": "「これは主の前にある机である」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:22"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.41.p2.b4": {
+    "text": "拝殿と聖所とには、二つの戸があり、その戸には、二つのとびらがあった。すなわち二つの開き戸である。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 41:23-24"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

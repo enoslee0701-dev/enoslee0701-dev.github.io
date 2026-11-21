@@ -1,0 +1,62 @@
+{
+  "ezekiel.19.p1.b1": {
+    "text": "너는 이스라엘 방백들을 위하여 애가를 지어",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 19:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.19.p1.b2": {
+    "text": "네 어미는 무엇이냐 암사자라 그가 사자들 가운데 엎드리어",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 19:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.19.p1.b3": {
+    "text": "이방이 듣고 함정으로 그를 잡아 갈고리로 꿰어끌고 애굽 땅으로 간지라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 19:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.19.p1.b4": {
+    "text": "갈고리로 꿰고 철롱에 넣어 끌고 바벨론 왕에게 이르렀나니 … 그 소리로 다시 이스라엘 산에 들리지 않게 하려 함이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 19:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.19.p1.b5": {
+    "text": "네 피의 어미는 물 가에 심긴 포도나무 같아서 물이 많으므로 실과가 많고 가지가 무성하며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 19:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.19.p1.b6": {
+    "text": "분노 중에 뽑혀서 땅에 던짐을 당하매 … 권세 잡은 자의 홀이 될만한 견강한 가지가 없도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 19:12-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

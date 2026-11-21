@@ -1,0 +1,42 @@
+{
+  "ezekiel.15.p1.b1": {
+    "text": "Son of man, how does the wood of the vine surpass any other branch among the trees in the forest? … Or can one make from it a peg on which to hang utensils?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 15:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.15.p1.b2": {
+    "text": "No, it is cast into the fire for fuel. The fire devours both ends, and the middle is charred. Can it be useful for anything?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 15:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.15.p1.b3": {
+    "text": "Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the people of Jerusalem.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 15:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.15.p1.b4": {
+    "text": "Thus I will make the land desolate, because they have acted unfaithfully,’ declares the Lord GOD.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Ezekiel 15:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

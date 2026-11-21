@@ -1,0 +1,62 @@
+{
+  "ezekiel.2.p1.b1": {
+    "text": "人の子よ、立ちあがれ、わたしはあなたに語ろう",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 2:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.2.p1.b2": {
+    "text": "そして彼がわたしに語られた時、霊がわたしのうちに入り、わたしを立ちあがらせた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 2:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.2.p1.b3": {
+    "text": "人の子よ、わたしはあなたをイスラエルの民、すなわちわたしにそむいた反逆の民につかわす。……彼らは聞いても、拒んでも、（彼らは反逆の家だから）彼らの中に預言者がいたことを知るだろう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 2:3-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.2.p1.b4": {
+    "text": "人の子よ……たといあざみといばらがあなたと一緒にあっても、またあなたが、さそりの中に住んでも、彼らの言葉を恐れてはならない。彼らの顔をはばかってはならない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 2:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.2.p1.b5": {
+    "text": "人の子よ、わたしがあなたに語るところを聞きなさい。……あなたの口を開いて、わたしが与えるものを食べなさい",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 2:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.2.p1.b6": {
+    "text": "彼がわたしの前にこれを開くと、その表にも裏にも文字が書いてあった。その書かれていることは悲しみと、嘆きと、災の言葉であった。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 2:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

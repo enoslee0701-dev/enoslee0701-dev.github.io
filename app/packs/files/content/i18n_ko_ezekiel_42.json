@@ -1,0 +1,42 @@
+{
+  "ezekiel.42.p1.b1": {
+    "text": "그가 나를 데리고 밖으로 나가 북편 뜰로 가서 두 방에 이르니 … 그 방 삼층에 툇마루들이 있는데 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 42:1-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.42.p1.b2": {
+    "text": "제사장의 의복은 거룩하므로 제사장이 성소에 들어갔다가 나올 때에 바로 바깥 뜰로 가지 못하고 수종드는 그 의복을 그 방에 두고 다른 옷을 입고 백성의 뜰로 나갈 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 42:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.42.p1.b3": {
+    "text": "그가 안에 있는 전 척량하기를 마친 후에 나를 데리고 동향한 문길로 나가서 사면 담을 척량하는데",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 42:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.42.p1.b4": {
+    "text": "그가 이와 같이 그 사방을 척량하니 그 사방 담 안 마당의 장과 광이 오백척씩이라 그 담은 거룩한 것과 속된 것을 구별하는 것이더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 42:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

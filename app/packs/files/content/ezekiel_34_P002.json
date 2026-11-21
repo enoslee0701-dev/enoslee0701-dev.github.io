@@ -1,0 +1,148 @@
+{
+  "id": "EZEKIEL_34_P002",
+  "book": "ezekiel",
+  "chapter": 34,
+  "page": 2,
+  "ref": "34:17-31",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_34_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_34_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2832
+      ]
+    },
+    {
+      "id": "EZEKIEL_34_P002_F2",
+      "box": [
+        0,
+        0.2865,
+        1,
+        0.3431
+      ]
+    },
+    {
+      "id": "EZEKIEL_34_P002_F3",
+      "box": [
+        0,
+        0.6328,
+        1,
+        0.1491
+      ]
+    },
+    {
+      "id": "EZEKIEL_34_P002_F4",
+      "box": [
+        0,
+        0.7852,
+        1,
+        0.2148
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_34_P002_B001",
+      "panel": "EZEKIEL_34_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.55,
+        0.0085,
+        0.42,
+        0.042
+      ],
+      "tail": null,
+      "text_key": "ezekiel.34.p2.b1"
+    },
+    {
+      "id": "EZEKIEL_34_P002_B002",
+      "panel": "EZEKIEL_34_P002_F1",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.55,
+        0.0562,
+        0.42,
+        0.0315
+      ],
+      "tail": null,
+      "text_key": "ezekiel.34.p2.b2"
+    },
+    {
+      "id": "EZEKIEL_34_P002_B003",
+      "panel": "EZEKIEL_34_P002_F2",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.2968,
+        0.44,
+        0.0686
+      ],
+      "tail": null,
+      "text_key": "ezekiel.34.p2.b3"
+    },
+    {
+      "id": "EZEKIEL_34_P002_B004",
+      "panel": "EZEKIEL_34_P002_F3",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.6373,
+        0.6,
+        0.0278
+      ],
+      "tail": null,
+      "text_key": "ezekiel.34.p2.b4"
+    },
+    {
+      "id": "EZEKIEL_34_P002_B005",
+      "panel": "EZEKIEL_34_P002_F3",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.6681,
+        0.6,
+        0.0139
+      ],
+      "tail": null,
+      "text_key": "ezekiel.34.p2.b5"
+    },
+    {
+      "id": "EZEKIEL_34_P002_B006",
+      "panel": "EZEKIEL_34_P002_F4",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.24,
+        0.7916,
+        0.33,
+        0.0601
+      ],
+      "tail": [
+        0.405,
+        0.8732
+      ],
+      "text_key": "ezekiel.34.p2.b6"
+    }
+  ]
+}

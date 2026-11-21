@@ -1,0 +1,100 @@
+{
+  "id": "EZEKIEL_47_P002",
+  "book": "ezekiel",
+  "chapter": 47,
+  "page": 2,
+  "ref": "47:6-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_47_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_47_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3001
+      ]
+    },
+    {
+      "id": "EZEKIEL_47_P002_F2",
+      "box": [
+        0,
+        0.3027,
+        1,
+        0.4388
+      ]
+    },
+    {
+      "id": "EZEKIEL_47_P002_F3",
+      "box": [
+        0,
+        0.7448,
+        1,
+        0.2552
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_47_P002_B001",
+      "panel": "EZEKIEL_47_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.64,
+        0.126,
+        0.34,
+        0.09
+      ],
+      "tail": [
+        0.81,
+        0.246
+      ],
+      "text_key": "ezekiel.47.p2.b1"
+    },
+    {
+      "id": "EZEKIEL_47_P002_B002",
+      "panel": "EZEKIEL_47_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.55,
+        0.3159,
+        0.42,
+        0.1053
+      ],
+      "tail": [
+        0.76,
+        0.4651
+      ],
+      "text_key": "ezekiel.47.p2.b2"
+    },
+    {
+      "id": "EZEKIEL_47_P002_B003",
+      "panel": "EZEKIEL_47_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.6,
+        0.755,
+        0.38,
+        0.0612
+      ],
+      "tail": [
+        0.79,
+        0.8417
+      ],
+      "text_key": "ezekiel.47.p2.b3"
+    }
+  ]
+}

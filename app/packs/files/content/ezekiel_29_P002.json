@@ -1,0 +1,115 @@
+{
+  "id": "EZEKIEL_29_P002",
+  "book": "ezekiel",
+  "chapter": 29,
+  "page": 2,
+  "ref": "29:13-21",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_29_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_29_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1569
+      ]
+    },
+    {
+      "id": "EZEKIEL_29_P002_F2",
+      "box": [
+        0,
+        0.1615,
+        1,
+        0.4173
+      ]
+    },
+    {
+      "id": "EZEKIEL_29_P002_F3",
+      "box": [
+        0,
+        0.5833,
+        1,
+        0.194
+      ]
+    },
+    {
+      "id": "EZEKIEL_29_P002_F4",
+      "box": [
+        0,
+        0.7813,
+        1,
+        0.2187
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_29_P002_B001",
+      "panel": "EZEKIEL_29_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.0063,
+        0.47,
+        0.047
+      ],
+      "tail": null,
+      "text_key": "ezekiel.29.p2.b1"
+    },
+    {
+      "id": "EZEKIEL_29_P002_B002",
+      "panel": "EZEKIEL_29_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.174,
+        0.46,
+        0.05
+      ],
+      "tail": null,
+      "text_key": "ezekiel.29.p2.b2"
+    },
+    {
+      "id": "EZEKIEL_29_P002_B003",
+      "panel": "EZEKIEL_29_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.5911,
+        0.47,
+        0.0504
+      ],
+      "tail": null,
+      "text_key": "ezekiel.29.p2.b3"
+    },
+    {
+      "id": "EZEKIEL_29_P002_B004",
+      "panel": "EZEKIEL_29_P002_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.7901,
+        0.38,
+        0.0656
+      ],
+      "tail": null,
+      "text_key": "ezekiel.29.p2.b4"
+    }
+  ]
+}

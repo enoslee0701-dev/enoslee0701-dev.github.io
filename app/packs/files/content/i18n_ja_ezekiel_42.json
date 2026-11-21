@@ -1,0 +1,42 @@
+{
+  "ezekiel.42.p1.b1": {
+    "text": "彼はわたしを北の方の内庭に連れ出し、庭に向かった北の方の建物に対する室に導いた。……三階になった廊下があった。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 42:1-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.42.p1.b2": {
+    "text": "……彼らは勤めを行う衣服を、その所に置かなければならない。これは聖だからである。彼らは民衆に属する場所に近づく前に、他の衣服を着けなければならない",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 42:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.42.p1.b3": {
+    "text": "彼らは宮の庭の内部を測り終えると、東向きの門の道から、わたしを連れ出して、宮の周囲を測った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 42:15"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.42.p1.b4": {
+    "text": "このように、四方を測ったが、その周囲に、長さ五百キュビト、幅五百キュビトのかきがあって、聖所と、俗の所との隔てをなしていた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Ezekiel 42:20"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

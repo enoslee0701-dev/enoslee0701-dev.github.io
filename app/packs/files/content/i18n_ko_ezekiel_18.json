@@ -1,0 +1,102 @@
+{
+  "ezekiel.18.p1.b1": {
+    "text": "아비가 신 포도를 먹었으므로 아들의 이가 시다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p1.b2": {
+    "text": "모든 영혼이 다 내게 속한지라 … 범죄하는 그 영혼이 죽으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p1.b3": {
+    "text": "주린 자에게 식물을 주며 벗은 자에게 옷을 입히며 … 그는 의인이니 정녕 살리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:7-9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p1.b4": {
+    "text": "그가 살겠느냐 살지 못하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p1.b5": {
+    "text": "이 사람은 그 아비의 죄악으로 인하여 죽지 아니하고 정녕 살겠고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:17"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p2.b1": {
+    "text": "주의 길이 공평치 않다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p2.b2": {
+    "text": "이스라엘 족속아 들을지어다 내 길이 어찌 공평치 아니하냐 너희 길이 공평치 않은 것이 아니냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:25"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p2.b3": {
+    "text": "악인이 만일 그 행한 모든 죄에서 돌이켜 떠나 … 정녕 살고 죽지 아니할 것이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:21"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p2.b4": {
+    "text": "너희는 범한 모든 죄악을 버리고 마음과 영을 새롭게 할지어다 이스라엘 족속아 너희가 어찌하여 죽고자 하느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:31"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "ezekiel.18.p2.b5": {
+    "text": "죽는 자의 죽는 것은 내가 기뻐하지 아니하노니 너희는 스스로 돌이키고 살지니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Ezekiel 18:32"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

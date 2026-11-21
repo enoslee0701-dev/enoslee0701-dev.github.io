@@ -1,0 +1,130 @@
+{
+  "id": "EZEKIEL_10_P001",
+  "book": "ezekiel",
+  "chapter": 10,
+  "page": 1,
+  "ref": "10:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "EZEKIEL_10_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "EZEKIEL_10_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2943
+      ]
+    },
+    {
+      "id": "EZEKIEL_10_P001_F2",
+      "box": [
+        0,
+        0.2975,
+        0.4912,
+        0.3086
+      ]
+    },
+    {
+      "id": "EZEKIEL_10_P001_F3",
+      "box": [
+        0.498,
+        0.2975,
+        0.502,
+        0.3086
+      ]
+    },
+    {
+      "id": "EZEKIEL_10_P001_F4",
+      "box": [
+        0,
+        0.6094,
+        1,
+        0.3906
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "EZEKIEL_10_P001_B001",
+      "panel": "EZEKIEL_10_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.2119,
+        0.42,
+        0.0706
+      ],
+      "tail": null,
+      "text_key": "ezekiel.10.p1.b1"
+    },
+    {
+      "id": "EZEKIEL_10_P001_B002",
+      "panel": "EZEKIEL_10_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0196,
+        0.3068,
+        0.442,
+        0.0925
+      ],
+      "tail": null,
+      "text_key": "ezekiel.10.p1.b2"
+    },
+    {
+      "id": "EZEKIEL_10_P001_B003",
+      "panel": "EZEKIEL_10_P001_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5181,
+        0.3068,
+        0.4518,
+        0.0864
+      ],
+      "tail": null,
+      "text_key": "ezekiel.10.p1.b3"
+    },
+    {
+      "id": "EZEKIEL_10_P001_B004",
+      "panel": "EZEKIEL_10_P001_F4",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.6211,
+        0.32,
+        0.0859
+      ],
+      "tail": null,
+      "text_key": "ezekiel.10.p1.b4"
+    },
+    {
+      "id": "EZEKIEL_10_P001_B005",
+      "panel": "EZEKIEL_10_P001_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.55,
+        0.9063,
+        0.42,
+        0.0781
+      ],
+      "tail": null,
+      "text_key": "ezekiel.10.p1.b5"
+    }
+  ]
+}
