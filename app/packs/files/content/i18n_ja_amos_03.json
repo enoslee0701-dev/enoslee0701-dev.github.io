@@ -1,0 +1,62 @@
+{
+  "amos.3.p1.b1": {
+    "text": "「地のもろもろのやからのうちで、わたしはただ、あなたがただけを知った。それゆえ、わたしはあなたがたのもろもろの罪のため、あなたがたを罰する。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 3:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b2": {
+    "text": "ふたりの者がもし約束しなかったなら、一緒に歩くだろうか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 3:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b3": {
+    "text": "ししがほえる、だれが恐れないでいられよう。主なる神が語られる、だれが預言しないでいられよう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 3:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b4": {
+    "text": "「サマリヤの山々に集まり、そのうちにある大いなる騒ぎと、その中で行われる暴虐とを見よ」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 3:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b5": {
+    "text": "「羊飼がししの口から、羊の両足、あるいは片耳を取り返すように、……救われるであろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b6": {
+    "text": "その祭壇の角は折れて、地に落ちる。……象牙の家は滅び、……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 3:14-15"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

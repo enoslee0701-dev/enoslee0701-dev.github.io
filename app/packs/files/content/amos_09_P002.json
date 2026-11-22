@@ -1,0 +1,115 @@
+{
+  "id": "AMOS_09_P002",
+  "book": "amos",
+  "chapter": 9,
+  "page": 2,
+  "ref": "9:11-15",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "AMOS_09_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "AMOS_09_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3438
+      ]
+    },
+    {
+      "id": "AMOS_09_P002_F2",
+      "box": [
+        0,
+        0.347,
+        1,
+        0.319
+      ]
+    },
+    {
+      "id": "AMOS_09_P002_F3",
+      "box": [
+        0,
+        0.6693,
+        0.5,
+        0.3307
+      ]
+    },
+    {
+      "id": "AMOS_09_P002_F4",
+      "box": [
+        0.5068,
+        0.6693,
+        0.4932,
+        0.3307
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "AMOS_09_P002_B001",
+      "panel": "AMOS_09_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0103,
+        0.44,
+        0.0687
+      ],
+      "tail": null,
+      "text_key": "amos.9.p2.b1"
+    },
+    {
+      "id": "AMOS_09_P002_B002",
+      "panel": "AMOS_09_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.3566,
+        0.47,
+        0.0829
+      ],
+      "tail": null,
+      "text_key": "amos.9.p2.b2"
+    },
+    {
+      "id": "AMOS_09_P002_B003",
+      "panel": "AMOS_09_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.6792,
+        0.46,
+        0.0992
+      ],
+      "tail": null,
+      "text_key": "amos.9.p2.b3"
+    },
+    {
+      "id": "AMOS_09_P002_B004",
+      "panel": "AMOS_09_P002_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.8027,
+        0.6792,
+        0.1874,
+        0.0793
+      ],
+      "tail": null,
+      "text_key": "amos.9.p2.b4"
+    }
+  ]
+}

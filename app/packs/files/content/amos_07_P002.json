@@ -1,0 +1,190 @@
+{
+  "id": "AMOS_07_P002",
+  "book": "amos",
+  "chapter": 7,
+  "page": 2,
+  "ref": "7:10-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "AMOS_07_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "AMOS_07_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5332,
+        0.2077
+      ]
+    },
+    {
+      "id": "AMOS_07_P002_F2",
+      "box": [
+        0.5381,
+        0,
+        0.4619,
+        0.2077
+      ]
+    },
+    {
+      "id": "AMOS_07_P002_F3",
+      "box": [
+        0,
+        0.2103,
+        1,
+        0.2044
+      ]
+    },
+    {
+      "id": "AMOS_07_P002_F4",
+      "box": [
+        0,
+        0.4173,
+        1,
+        0.3854
+      ]
+    },
+    {
+      "id": "AMOS_07_P002_F5",
+      "box": [
+        0,
+        0.8053,
+        1,
+        0.1947
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "AMOS_07_P002_B001",
+      "panel": "AMOS_07_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0213,
+        0.0062,
+        0.4905,
+        0.0498
+      ],
+      "tail": [
+        0.2666,
+        0.0768
+      ],
+      "text_key": "amos.7.p2.b1"
+    },
+    {
+      "id": "AMOS_07_P002_B002",
+      "panel": "AMOS_07_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5612,
+        0.1537,
+        0.4157,
+        0.0477
+      ],
+      "tail": [
+        0.7691,
+        0.2077
+      ],
+      "text_key": "amos.7.p2.b2"
+    },
+    {
+      "id": "AMOS_07_P002_B003",
+      "panel": "AMOS_07_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.2164,
+        0.38,
+        0.0408
+      ],
+      "tail": [
+        0.21,
+        0.2776
+      ],
+      "text_key": "amos.7.p2.b3"
+    },
+    {
+      "id": "AMOS_07_P002_B004",
+      "panel": "AMOS_07_P002_F3",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.56,
+        0.3697,
+        0.4,
+        0.0388
+      ],
+      "tail": [
+        0.76,
+        0.4147
+      ],
+      "text_key": "amos.7.p2.b4"
+    },
+    {
+      "id": "AMOS_07_P002_B005",
+      "panel": "AMOS_07_P002_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.425,
+        0.24,
+        0.1002
+      ],
+      "tail": [
+        0.14,
+        0.5637
+      ],
+      "text_key": "amos.7.p2.b5"
+    },
+    {
+      "id": "AMOS_07_P002_B006",
+      "panel": "AMOS_07_P002_F4",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.46,
+        0.7256,
+        0.5,
+        0.0655
+      ],
+      "tail": [
+        0.71,
+        0.8027
+      ],
+      "text_key": "amos.7.p2.b6"
+    },
+    {
+      "id": "AMOS_07_P002_B007",
+      "panel": "AMOS_07_P002_F5",
+      "order": 7,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.8,
+        0.8131,
+        0.19,
+        0.0739
+      ],
+      "tail": [
+        0.895,
+        0.9065
+      ],
+      "text_key": "amos.7.p2.b7"
+    }
+  ]
+}

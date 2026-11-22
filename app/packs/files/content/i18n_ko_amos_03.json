@@ -1,0 +1,62 @@
+{
+  "amos.3.p1.b1": {
+    "text": "내가 땅의 모든 족속 중에 너희만 알았나니 그러므로 내가 너희 모든 죄악을 너희에게 보응하리라 하셨나니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 3:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b2": {
+    "text": "두 사람이 의합지 못하고야 어찌 동행하겠으며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 3:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b3": {
+    "text": "사자가 부르짖은즉 누가 두려워하지 아니하겠느냐 주 여호와께서 말씀하신즉 누가 예언하지 아니하겠느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 3:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b4": {
+    "text": "너희는 사마리아 산들에 모여 그 성 중에서 얼마나 큰 요란함과 학대함이 있나 보라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 3:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b5": {
+    "text": "목자가 사자 입에서 양의 두 다리나 귀 조각을 건져냄과 같이 … 이스라엘 자손이 건져냄을 입으리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.3.p1.b6": {
+    "text": "그 단의 뿔들을 꺾어 땅에 떨어뜨리고 … 상아궁들이 파멸되며 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 3:14-15"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

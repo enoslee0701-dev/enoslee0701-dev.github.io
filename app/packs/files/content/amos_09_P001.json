@@ -1,0 +1,178 @@
+{
+  "id": "AMOS_09_P001",
+  "book": "amos",
+  "chapter": 9,
+  "page": 1,
+  "ref": "9:1-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "AMOS_09_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "AMOS_09_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2539
+      ]
+    },
+    {
+      "id": "AMOS_09_P001_F3",
+      "box": [
+        0,
+        0.3613,
+        0.4941,
+        0.0931
+      ]
+    },
+    {
+      "id": "AMOS_09_P001_F5",
+      "box": [
+        0,
+        0.5365,
+        0.4941,
+        0.0723
+      ]
+    },
+    {
+      "id": "AMOS_09_P001_F6",
+      "box": [
+        0.502,
+        0.2565,
+        0.498,
+        0.194
+      ]
+    },
+    {
+      "id": "AMOS_09_P001_F7",
+      "box": [
+        0.502,
+        0.4531,
+        0.498,
+        0.1556
+      ]
+    },
+    {
+      "id": "AMOS_09_P001_F8",
+      "box": [
+        0,
+        0.6113,
+        1,
+        0.3887
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "AMOS_09_P001_B001",
+      "panel": "AMOS_09_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.63,
+        0.0076,
+        0.34,
+        0.0609
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b1"
+    },
+    {
+      "id": "AMOS_09_P001_B002",
+      "panel": "AMOS_09_P001_F3",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0099,
+        0.365,
+        0.1877,
+        0.0391
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b2"
+    },
+    {
+      "id": "AMOS_09_P001_B003",
+      "panel": "AMOS_09_P001_F5",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0148,
+        0.5394,
+        0.247,
+        0.0289
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b3"
+    },
+    {
+      "id": "AMOS_09_P001_B004",
+      "panel": "AMOS_09_P001_F6",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5169,
+        0.2623,
+        0.2788,
+        0.0465
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b4"
+    },
+    {
+      "id": "AMOS_09_P001_B005",
+      "panel": "AMOS_09_P001_F7",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5219,
+        0.5589,
+        0.3286,
+        0.0435
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b5"
+    },
+    {
+      "id": "AMOS_09_P001_B006",
+      "panel": "AMOS_09_P001_F8",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.58,
+        0.8445,
+        0.39,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b6"
+    },
+    {
+      "id": "AMOS_09_P001_B007",
+      "panel": "AMOS_09_P001_F8",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.9145,
+        0.47,
+        0.0738
+      ],
+      "tail": null,
+      "text_key": "amos.9.p1.b7"
+    }
+  ]
+}

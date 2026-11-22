@@ -1,0 +1,92 @@
+{
+  "amos.8.p1.b1": {
+    "text": "「アモスよ、あなたは何を見るか」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b2": {
+    "text": "「ひとかごの夏のくだもの」",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b3": {
+    "text": "「わが民イスラエルの終りがきた。わたしは再び彼らを見過しにしない。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b4": {
+    "text": "その日には宮の歌は嘆きに変り、…",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b5": {
+    "text": "「新月はいつ過ぎ去るだろう、そうしたら、われわれは穀物を売ろう。安息日はいつ過ぎ去るだろう、そうしたら、われわれは麦を売り出そう。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b6": {
+    "text": "…偽りのはかりをもって欺き、乏しい者を金で買い、貧しい者をくつ一足で買いとり、また、くず麦を売ろう」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b7": {
+    "text": "「その日には、わたしは真昼に太陽を沈ませ、白昼に地を暗くし、",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:7-10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b8": {
+    "text": "…わたしがききんをこの国に送る日が来る、それはパンのききんではない、水にかわくのでもない、主の言葉を聞くことのききんである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:11-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b9": {
+    "text": "その日には美しいおとめも、若い男もかわきのために気を失う。…必ず倒れる。再び起きあがることはない」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Amos 8:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "amos.8.p1.b1": {
+    "text": "아모스야 네가 무엇을 보느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:1-2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b2": {
+    "text": "여름 실과 한 광주리니이다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b3": {
+    "text": "내 백성 이스라엘의 끝이 이르렀은즉 내가 다시는 저를 용서치 아니하리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b4": {
+    "text": "그 날에 궁전의 노래가 애곡으로 변할 것이며 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b5": {
+    "text": "월삭이 언제나 지나서 우리로 곡식을 팔게 하며 안식일이 언제나 지나서 우리로 밀을 내게 할꼬",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b6": {
+    "text": "… 거짓 저울로 속이며 은으로 가난한 자를 사며 신 한 켤레로 궁핍한 자를 사며 잿밀을 팔자",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b7": {
+    "text": "그 날에 내가 해로 대낮에 지게 하여 백주에 땅을 캄캄케 하며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:7-10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b8": {
+    "text": "… 내가 기근을 땅에 보내리니 양식이 없어 주림이 아니며 물이 없어 갈함이 아니요 여호와의 말씀을 듣지 못한 기갈이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:11-12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "amos.8.p1.b9": {
+    "text": "그 날에 아름다운 처녀와 젊은 남자가 다 갈하여 피곤하리라 … 엎드러지고 다시 일어나지 못하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Amos 8:13-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}
