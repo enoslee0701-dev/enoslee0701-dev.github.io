@@ -1,0 +1,166 @@
+{
+  "id": "JOEL_03_P002",
+  "book": "joel",
+  "chapter": 3,
+  "page": 2,
+  "ref": "3:9-16",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOEL_03_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOEL_03_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.127
+      ]
+    },
+    {
+      "id": "JOEL_03_P002_F2",
+      "box": [
+        0,
+        0.1302,
+        1,
+        0.4577
+      ]
+    },
+    {
+      "id": "JOEL_03_P002_F3",
+      "box": [
+        0.4975,
+        0.2833,
+        0.5025,
+        0.3028
+      ]
+    },
+    {
+      "id": "JOEL_03_P002_F4",
+      "box": [
+        0,
+        0.5911,
+        1,
+        0.1803
+      ]
+    },
+    {
+      "id": "JOEL_03_P002_F5",
+      "box": [
+        0,
+        0.7734,
+        1,
+        0.2266
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOEL_03_P002_B001",
+      "panel": "JOEL_03_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5,
+        0.0051,
+        0.47,
+        0.0508
+      ],
+      "tail": [
+        0.735,
+        0.0686
+      ],
+      "text_key": "joel.3.p2.b1"
+    },
+    {
+      "id": "JOEL_03_P002_B002",
+      "panel": "JOEL_03_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.74,
+        0.1439,
+        0.23,
+        0.1373
+      ],
+      "tail": [
+        0.855,
+        0.327
+      ],
+      "text_key": "joel.3.p2.b2"
+    },
+    {
+      "id": "JOEL_03_P002_B003",
+      "panel": "JOEL_03_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5176,
+        0.2924,
+        0.4623,
+        0.0484
+      ],
+      "tail": null,
+      "text_key": "joel.3.p2.b3"
+    },
+    {
+      "id": "JOEL_03_P002_B004",
+      "panel": "JOEL_03_P002_F3",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5176,
+        0.5316,
+        0.4623,
+        0.0454
+      ],
+      "tail": null,
+      "text_key": "joel.3.p2.b4"
+    },
+    {
+      "id": "JOEL_03_P002_B005",
+      "panel": "JOEL_03_P002_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.5983,
+        0.5,
+        0.0396
+      ],
+      "tail": [
+        0.28,
+        0.6559
+      ],
+      "text_key": "joel.3.p2.b5"
+    },
+    {
+      "id": "JOEL_03_P002_B006",
+      "panel": "JOEL_03_P002_F5",
+      "order": 6,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.7825,
+        0.36,
+        0.0815
+      ],
+      "tail": [
+        0.21,
+        0.8867
+      ],
+      "text_key": "joel.3.p2.b6"
+    }
+  ]
+}

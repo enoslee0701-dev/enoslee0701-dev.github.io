@@ -1,0 +1,124 @@
+{
+  "id": "JOEL_01_P003",
+  "book": "joel",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:11-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOEL_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOEL_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3099
+      ]
+    },
+    {
+      "id": "JOEL_01_P003_F2",
+      "box": [
+        0,
+        0.3138,
+        0.4863,
+        0.3281
+      ]
+    },
+    {
+      "id": "JOEL_01_P003_F3",
+      "box": [
+        0.4922,
+        0.3138,
+        0.5078,
+        0.6862
+      ]
+    },
+    {
+      "id": "JOEL_01_P003_F4",
+      "box": [
+        0,
+        0.6452,
+        0.4863,
+        0.3548
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOEL_01_P003_B001",
+      "panel": "JOEL_01_P003_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.55,
+        0.0124,
+        0.42,
+        0.0929
+      ],
+      "tail": [
+        0.76,
+        0.1363
+      ],
+      "text_key": "joel.1.p3.b1"
+    },
+    {
+      "id": "JOEL_01_P003_B002",
+      "panel": "JOEL_01_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0195,
+        0.3236,
+        0.4473,
+        0.0853
+      ],
+      "tail": null,
+      "text_key": "joel.1.p3.b2"
+    },
+    {
+      "id": "JOEL_01_P003_B003",
+      "panel": "JOEL_01_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.5176,
+        0.3344,
+        0.457,
+        0.1097
+      ],
+      "tail": [
+        0.7461,
+        0.5127
+      ],
+      "text_key": "joel.1.p3.b3"
+    },
+    {
+      "id": "JOEL_01_P003_B004",
+      "panel": "JOEL_01_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.2821,
+        0.6558,
+        0.1945,
+        0.0922
+      ],
+      "tail": [
+        0.3794,
+        0.7835
+      ],
+      "text_key": "joel.1.p3.b4"
+    }
+  ]
+}

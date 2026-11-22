@@ -1,0 +1,72 @@
+{
+  "hosea.12.p1.b1": {
+    "text": "エフライムはひねもす風を牧し、東風を追い……アッスリヤと取引をなし、油をエジプトに送った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b2": {
+    "text": "ヤコブは胎にいたとき、その兄弟のかかとを捕え",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b3": {
+    "text": "彼は天の使と争って勝ち、泣いてこれにあわれみを求めた。彼はベテルで神に出会い……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b4": {
+    "text": "それゆえ、あなたはあなたの神に帰り、いつくしみと正しきとを守り、つねにあなたの神を待ち望め。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b5": {
+    "text": "商人はその手に偽りのはかりを持ち、しえたげることを好む。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b6": {
+    "text": "ヤコブはアラムの地に逃げっていった。イスラエルは妻をめとるために人に仕えた。彼は妻をめとるために羊を飼った。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b7": {
+    "text": "主はひとりの預言者によって、イスラエルをエジプトから導き出し、ひとりの預言者によってこれを守られた。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

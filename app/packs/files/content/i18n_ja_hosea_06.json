@@ -1,0 +1,62 @@
+{
+  "hosea.6.p1.b1": {
+    "text": "「さあ、わたしたちは主に帰ろう。主はわたしたちをかき裂かれたが、またいやし、わたしたちを打たれたが、また包んでくださるからだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 6:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b2": {
+    "text": "わたしたちは主を知ろう、せつに主を知ることを求めよう。主はあしたの光のように必ず現れいで、冬の雨のように、わたしたちに臨み、春の雨のように地を潤される」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 6:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b3": {
+    "text": "エフライムよ、わたしはあなたに何をしようか。ユダよ、わたしはあなたに何をしようか。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b4": {
+    "text": "……あなたがたの愛はあしたの雲のごとく、また、たちまち消える露のようなものである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b5": {
+    "text": "わたしはいつくしみを喜び、犠牲を喜ばない。燔祭よりもむしろ神を知ることを喜ぶ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 6:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b6": {
+    "text": "盗賊が人を待ち伏せするように、祭司たちは党を組み、シケムへ行く道で人を殺す。このように彼らは悪しき事を行う。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 6:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

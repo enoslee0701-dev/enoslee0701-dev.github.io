@@ -1,0 +1,62 @@
+{
+  "hosea.10.p1.b1": {
+    "text": "이스라엘은 열매 맺는 무성한 포도 나무라 그 열매가 많을수록 제단을 많게 하며 그 땅이 아름다울수록 주상을 아름답게 하도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 10:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.10.p1.b2": {
+    "text": "… 그 백성이 슬퍼하며 그것을 기뻐하던 제사장들도 슬퍼하리니 이는 그 영광이 떠나 감이며 그 송아지는 앗수르로 옮겨다가 예물로 야렙 왕에게 드리리니",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 10:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.10.p1.b3": {
+    "text": "사마리아 왕은 물 위에 거품 같이 멸망할 것이며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 10:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.10.p1.b4": {
+    "text": "… 가시와 질려가가 그 단 위에 날 것이니 그 때에 저희가 산더러 우리를 가리우라 할 것이요 작은 산더러 우리 위에 무너지라 하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 10:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.10.p1.b5": {
+    "text": "에브라임은 마치 길들인 암소 같아서 곡식 밟기를 좋아하나 내가 그 아름다운 목에 멍에를 메우고 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 10:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.10.p1.b6": {
+    "text": "너희가 자기를 위하여 의를 심고 긍휼을 거두라 지금이 곧 여호와를 찾을 때니 너희 묵은 땅을 기경하라 마침내 여호와께서 임하사 의를 비처럼 너희에게 내리시리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 10:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

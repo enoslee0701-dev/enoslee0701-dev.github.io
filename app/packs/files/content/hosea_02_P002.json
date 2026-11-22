@@ -1,0 +1,115 @@
+{
+  "id": "HOSEA_02_P002",
+  "book": "hosea",
+  "chapter": 2,
+  "page": 2,
+  "ref": "2:8-13",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HOSEA_02_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HOSEA_02_P002_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3542
+      ]
+    },
+    {
+      "id": "HOSEA_02_P002_F2",
+      "box": [
+        0,
+        0.3568,
+        0.5078,
+        0.2676
+      ]
+    },
+    {
+      "id": "HOSEA_02_P002_F3",
+      "box": [
+        0.5127,
+        0.3568,
+        0.4873,
+        0.2676
+      ]
+    },
+    {
+      "id": "HOSEA_02_P002_F4",
+      "box": [
+        0,
+        0.627,
+        1,
+        0.373
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HOSEA_02_P002_B001",
+      "panel": "HOSEA_02_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0106,
+        0.44,
+        0.085
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p2.b1"
+    },
+    {
+      "id": "HOSEA_02_P002_B002",
+      "panel": "HOSEA_02_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0203,
+        0.3675,
+        0.457,
+        0.0749
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p2.b2"
+    },
+    {
+      "id": "HOSEA_02_P002_B003",
+      "panel": "HOSEA_02_P002_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5273,
+        0.3675,
+        0.2728,
+        0.0749
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p2.b3"
+    },
+    {
+      "id": "HOSEA_02_P002_B004",
+      "panel": "HOSEA_02_P002_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5,
+        0.6419,
+        0.46,
+        0.082
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p2.b4"
+    }
+  ]
+}

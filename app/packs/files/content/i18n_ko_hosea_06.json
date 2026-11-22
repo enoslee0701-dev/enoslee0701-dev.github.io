@@ -1,0 +1,62 @@
+{
+  "hosea.6.p1.b1": {
+    "text": "오라 우리가 여호와께로 돌아가자 여호와께서 우리를 찢으셨으나 도로 낫게 하실 것이요 우리를 치셨으나 싸매어 주실 것임이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 6:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b2": {
+    "text": "그러므로 우리가 여호와를 알자 힘써 여호와를 알자 그의 나오심은 새벽 빛같이 일정하니 비와 같이, 땅을 적시는 늦은 비와 같이 우리에게 임하시리라 하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 6:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b3": {
+    "text": "에브라임아 내가 네게 어떻게 하랴 유다야 내가 네게 어떻게 하랴 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b4": {
+    "text": "… 너희의 인애가 아침 구름이나 쉬 없어지는 이슬 같도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 6:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b5": {
+    "text": "나는 인애를 원하고 제사를 원치 아니하며 번제보다 하나님을 아는 것을 원하노라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 6:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.6.p1.b6": {
+    "text": "강도떼가 사람을 기다림같이 제사장의 무리가 세겜 길에서 살인하니 저희가 사악을 행하였느니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 6:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

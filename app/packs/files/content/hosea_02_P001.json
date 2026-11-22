@@ -1,0 +1,136 @@
+{
+  "id": "HOSEA_02_P001",
+  "book": "hosea",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-7",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HOSEA_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HOSEA_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2513
+      ]
+    },
+    {
+      "id": "HOSEA_02_P001_F2",
+      "box": [
+        0,
+        0.2546,
+        0.4619,
+        0.2858
+      ]
+    },
+    {
+      "id": "HOSEA_02_P001_F3",
+      "box": [
+        0.4678,
+        0.2546,
+        0.5322,
+        0.2858
+      ]
+    },
+    {
+      "id": "HOSEA_02_P001_F4",
+      "box": [
+        0,
+        0.5436,
+        1,
+        0.4564
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HOSEA_02_P001_B001",
+      "panel": "HOSEA_02_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0126,
+        0.4,
+        0.0854
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p1.b1"
+    },
+    {
+      "id": "HOSEA_02_P001_B002",
+      "panel": "HOSEA_02_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0185,
+        0.2632,
+        0.4157,
+        0.0743
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p1.b2"
+    },
+    {
+      "id": "HOSEA_02_P001_B003",
+      "panel": "HOSEA_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.4838,
+        0.2632,
+        0.2661,
+        0.08
+      ],
+      "tail": [
+        0.6169,
+        0.3718
+      ],
+      "text_key": "hosea.2.p1.b3"
+    },
+    {
+      "id": "HOSEA_02_P001_B004",
+      "panel": "HOSEA_02_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.5619,
+        0.46,
+        0.0912
+      ],
+      "tail": null,
+      "text_key": "hosea.2.p1.b4"
+    },
+    {
+      "id": "HOSEA_02_P001_B005",
+      "panel": "HOSEA_02_P001_F4",
+      "order": 5,
+      "type": "speech",
+      "style": "whisper",
+      "box": [
+        0.7,
+        0.7581,
+        0.27,
+        0.073
+      ],
+      "tail": [
+        0.835,
+        0.8767
+      ],
+      "text_key": "hosea.2.p1.b5"
+    }
+  ]
+}

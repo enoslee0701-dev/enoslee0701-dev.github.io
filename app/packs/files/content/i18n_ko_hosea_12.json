@@ -1,0 +1,72 @@
+{
+  "hosea.12.p1.b1": {
+    "text": "에브라임은 바람을 먹으며 동풍을 따라 가서 … 앗수르와 계약을 맺고 기름을 애굽에 보내도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b2": {
+    "text": "야곱은 태에서 그 형의 발뒤꿈치를 잡았고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b3": {
+    "text": "천사와 힘을 겨루어 이기고 울며 그에게 간구하였으며 하나님은 벧엘에서 저를 만나셨고 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:4-5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b4": {
+    "text": "그런즉 너의 하나님께로 돌아와서 인애와 공의를 지키며 항상 너의 하나님을 바라볼지니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b5": {
+    "text": "저는 상고여늘 손에 거짓 저울을 가지고 사취하기를 좋아하는도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b6": {
+    "text": "옛적에 야곱이 아람 들로 도망하였으며 이스라엘이 아내 얻기 위하여 사람을 섬기며 아내 얻기 위하여 양을 쳤고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.12.p1.b7": {
+    "text": "여호와께서는 선지자로 이스라엘을 애굽에서 인도하여 내시며 선지자로 저를 보호하셨거늘",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 12:13"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

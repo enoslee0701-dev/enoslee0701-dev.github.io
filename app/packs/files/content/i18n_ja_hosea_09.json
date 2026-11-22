@@ -1,0 +1,62 @@
+{
+  "hosea.9.p1.b1": {
+    "text": "イスラエルよ、もろもろの民のように喜びおどるな。あなたは淫行をなして、あなたの神を離れ……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 9:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b2": {
+    "text": "彼らは主の地に住むことなく、エフライムはエジプトに帰り、アッスリヤで汚れた物を食べる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 9:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b3": {
+    "text": "預言者は愚かな者、霊に感じた人は狂った者だ。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 9:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b4": {
+    "text": "わたしはイスラエルを荒野のぶどうのように見、あなたがたの先祖たちを、いちじくの木の初めに結んだ初なりのように見た。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 9:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b5": {
+    "text": "エフライムの栄光は、鳥のようにとび去る。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 9:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b6": {
+    "text": "エフライムは撃たれ、その根は枯れて、実を結ばない。……彼らは聞き従わないので、わが神はこれを捨てられる。彼らはもろもろの国民のうちに、さすらい人となる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 9:16-17"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

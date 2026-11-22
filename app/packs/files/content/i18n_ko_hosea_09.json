@@ -1,0 +1,62 @@
+{
+  "hosea.9.p1.b1": {
+    "text": "이스라엘아 너는 이방 사람처럼 기뻐 뛰놀지 말라 네가 행음하여 네 하나님을 떠나고 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 9:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b2": {
+    "text": "저희가 여호와의 땅에 거하지 못하며 에브라임이 애굽으로 다시 가고 앗수르에서 더러운 것을 먹을 것이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 9:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b3": {
+    "text": "선지자가 어리석었고 신에 감동하는 자가 미쳤나니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 9:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b4": {
+    "text": "옛적에 내가 이스라엘 만나기를 광야에서 포도를 만남 같이 하였으며 너희 열조 보기를 무화과나무에서 처음 맺힌 첫 열매를 봄 같이 하였거늘 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 9:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b5": {
+    "text": "에브라임의 영광이 새같이 날아 가리니 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 9:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.9.p1.b6": {
+    "text": "에브라임이 침을 입고 그 뿌리가 말라 과실을 맺지 못하나니 … 저희가 듣지 아니하므로 내 하나님이 저희를 버리시리니 저희가 열국 가운데 유리하는 자가 되리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 9:16-17"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

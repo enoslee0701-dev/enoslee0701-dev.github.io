@@ -1,0 +1,130 @@
+{
+  "id": "JOEL_03_P001",
+  "book": "joel",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOEL_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOEL_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3242
+      ]
+    },
+    {
+      "id": "JOEL_03_P001_F2",
+      "box": [
+        0,
+        0.3288,
+        0.3516,
+        0.3392
+      ]
+    },
+    {
+      "id": "JOEL_03_P001_F3",
+      "box": [
+        0.3574,
+        0.3288,
+        0.6426,
+        0.3392
+      ]
+    },
+    {
+      "id": "JOEL_03_P001_F4",
+      "box": [
+        0,
+        0.6712,
+        1,
+        0.3288
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOEL_03_P001_B001",
+      "panel": "JOEL_03_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.013,
+        0.52,
+        0.0907
+      ],
+      "tail": null,
+      "text_key": "joel.3.p1.b1"
+    },
+    {
+      "id": "JOEL_03_P001_B002",
+      "panel": "JOEL_03_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0141,
+        0.339,
+        0.3234,
+        0.0746
+      ],
+      "tail": null,
+      "text_key": "joel.3.p1.b2"
+    },
+    {
+      "id": "JOEL_03_P001_B003",
+      "panel": "JOEL_03_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.3767,
+        0.339,
+        0.3534,
+        0.0949
+      ],
+      "tail": null,
+      "text_key": "joel.3.p1.b3"
+    },
+    {
+      "id": "JOEL_03_P001_B004",
+      "panel": "JOEL_03_P001_F3",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6787,
+        0.6002,
+        0.302,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "joel.3.p1.b4"
+    },
+    {
+      "id": "JOEL_03_P001_B005",
+      "panel": "JOEL_03_P001_F4",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.8751,
+        0.38,
+        0.0558
+      ],
+      "tail": null,
+      "text_key": "joel.3.p1.b5"
+    }
+  ]
+}

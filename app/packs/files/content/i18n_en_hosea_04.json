@@ -1,0 +1,62 @@
+{
+  "hosea.4.p1.b1": {
+    "text": "Hear the word of the LORD, O children of Israel … There is no truth, no loving devotion, and no knowledge of God in the land!",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Hosea 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b2": {
+    "text": "Therefore the land mourns … even the fish of the sea disappear.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Hosea 4:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b3": {
+    "text": "My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you … Since you have forgotten the law of your God, I will also forget your children.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Hosea 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b4": {
+    "text": "My people consult their wooden idols, and their divining rods inform them … They sacrifice on the mountaintops and burn offerings on the hills, under oak, poplar, and terebinth, because their shade is pleasant.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Hosea 4:12-13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b5": {
+    "text": "For Israel is as obstinate as a stubborn heifer. Can the LORD now shepherd them like lambs in an open meadow?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Hosea 4:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b6": {
+    "text": "The whirlwind has wrapped them in its wings, and their sacrifices will bring them shame.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Hosea 4:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

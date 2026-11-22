@@ -1,0 +1,62 @@
+{
+  "hosea.4.p1.b1": {
+    "text": "이스라엘 자손들아 여호와의 말씀을 들으라 … 이 땅에는 진실도 없고 인애도 없고 하나님을 아는 지식도 없고 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b2": {
+    "text": "그러므로 이 땅이 슬퍼하며 … 바다의 고기도 없어지리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 4:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b3": {
+    "text": "내 백성이 지식이 없으므로 망하는도다 네가 지식을 버렸으니 나도 너를 버려 … 네가 네 하나님의 율법을 잊었으니 나도 네 자녀들을 잊어버리리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b4": {
+    "text": "내 백성이 나무를 향하여 묻고 그 막대기는 저희에게 고하나니 … 저희가 산 꼭대기에서 제사를 드리며 작은 산 위에서 분향하되 참나무와 버드나무와 상수리나무 아래서 하니 이는 그 나무 그늘이 아름다움이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 4:12-13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b5": {
+    "text": "이스라엘은 완강한 암소처럼 완강하니 이제 여호와께서 어린 양을 넓은 들에서 먹임같이 저희를 먹이시겠느냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 4:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b6": {
+    "text": "바람이 그 날개로 저를 쌌나니 저희가 그 제물로 인하여 수치를 당하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Hosea 4:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

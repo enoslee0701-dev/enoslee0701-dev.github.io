@@ -1,0 +1,62 @@
+{
+  "hosea.8.p1.b1": {
+    "text": "ラッパをあなたの口にあてよ、はげたかは主の家に臨む。彼らがわたしの契約を破り、わたしの律法を犯したからだ。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 8:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.8.p1.b2": {
+    "text": "彼らは王を立てた、しかし、わたしによって立てたのではない。彼らは君を立てた、しかし、わたしはこれを知らない。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 8:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.8.p1.b3": {
+    "text": "サマリヤよ、わたしはあなたの子牛を忌みきらう。……サマリヤの子牛は砕けて粉となる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 8:5-6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.8.p1.b4": {
+    "text": "彼らは風をまいて、つむじ風を刈り取る。立っている穀物は穂を持たず、また実らない。……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 8:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.8.p1.b5": {
+    "text": "彼らはひとりさまよう野のろばのように、アッスリヤにのぼって行った。エフライムは物を贈って恋人を得た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 8:9"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.8.p1.b6": {
+    "text": "イスラエルは自分の造り主を忘れて、もろもろの宮殿を建てた。……しかしわたしは火をその町々に送って、もろもろの城を焼き滅ぼす。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 8:14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "hosea.4.p1.b1": {
+    "text": "イスラエルの人々よ、主の言葉を聞け。……この地には真実がなく、愛情がなく、また神を知ることもないからである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b2": {
+    "text": "それゆえ、この地は嘆き……海の魚さえも絶えはてる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 4:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b3": {
+    "text": "わたしの民は知識がないために滅ぼされる。あなたは知識を捨てたゆえに、わたしもあなたを捨てて……あなたはあなたの神の律法を忘れたゆえに、わたしもまたあなたの子らを忘れる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b4": {
+    "text": "わが民は木に向かって事を尋ねる。またそのつえは彼らに事を示す。……彼らは山々の頂で犠牲をささげ、丘の上、かしの木、柳の木、テレビンの木の下で供え物をささげる。これはその木陰がここちよいためである。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 4:12-13"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b5": {
+    "text": "イスラエルは強情な雌牛のように強情である。今、主は小羊を広い野に放つようにして、彼らを養うことができようか。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 4:16"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "hosea.4.p1.b6": {
+    "text": "風はその翼に彼らを包んだ。彼らはその祭壇のゆえに恥を受ける。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Hosea 4:19"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

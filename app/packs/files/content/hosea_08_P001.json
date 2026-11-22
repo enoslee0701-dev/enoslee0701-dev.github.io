@@ -1,0 +1,166 @@
+{
+  "id": "HOSEA_08_P001",
+  "book": "hosea",
+  "chapter": 8,
+  "page": 1,
+  "ref": "8:1-14",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "HOSEA_08_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "HOSEA_08_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2318
+      ]
+    },
+    {
+      "id": "HOSEA_08_P001_F2",
+      "box": [
+        0,
+        0.2344,
+        0.5063,
+        0.2306
+      ]
+    },
+    {
+      "id": "HOSEA_08_P001_F3",
+      "box": [
+        0.5125,
+        0.2344,
+        0.4875,
+        0.2306
+      ]
+    },
+    {
+      "id": "HOSEA_08_P001_F4",
+      "box": [
+        0,
+        0.4683,
+        1,
+        0.3136
+      ]
+    },
+    {
+      "id": "HOSEA_08_P001_F5",
+      "box": [
+        0,
+        0.7839,
+        0.459,
+        0.2161
+      ]
+    },
+    {
+      "id": "HOSEA_08_P001_F6",
+      "box": [
+        0.4639,
+        0.7839,
+        0.5361,
+        0.2161
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "HOSEA_08_P001_B001",
+      "panel": "HOSEA_08_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.0093,
+        0.55,
+        0.0556
+      ],
+      "tail": [
+        0.305,
+        0.0881
+      ],
+      "text_key": "hosea.8.p1.b1"
+    },
+    {
+      "id": "HOSEA_08_P001_B002",
+      "panel": "HOSEA_08_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.2785,
+        0.239,
+        0.2177,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "hosea.8.p1.b2"
+    },
+    {
+      "id": "HOSEA_08_P001_B003",
+      "panel": "HOSEA_08_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.7563,
+        0.4097,
+        0.2291,
+        0.0484
+      ],
+      "tail": null,
+      "text_key": "hosea.8.p1.b3"
+    },
+    {
+      "id": "HOSEA_08_P001_B004",
+      "panel": "HOSEA_08_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.52,
+        0.4777,
+        0.46,
+        0.0627
+      ],
+      "tail": null,
+      "text_key": "hosea.8.p1.b4"
+    },
+    {
+      "id": "HOSEA_08_P001_B005",
+      "panel": "HOSEA_08_P001_F5",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.023,
+        0.7925,
+        0.4131,
+        0.0518
+      ],
+      "tail": null,
+      "text_key": "hosea.8.p1.b5"
+    },
+    {
+      "id": "HOSEA_08_P001_B006",
+      "panel": "HOSEA_08_P001_F6",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4907,
+        0.9481,
+        0.4824,
+        0.0453
+      ],
+      "tail": null,
+      "text_key": "hosea.8.p1.b6"
+    }
+  ]
+}
