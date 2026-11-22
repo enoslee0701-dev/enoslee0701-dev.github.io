@@ -1,0 +1,151 @@
+{
+  "id": "MICAH_04_P001",
+  "book": "micah",
+  "chapter": 4,
+  "page": 1,
+  "ref": "4:1-5",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MICAH_04_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MICAH_04_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2591
+      ]
+    },
+    {
+      "id": "MICAH_04_P001_F2",
+      "box": [
+        0,
+        0.263,
+        0.4824,
+        0.4323
+      ]
+    },
+    {
+      "id": "MICAH_04_P001_F3",
+      "box": [
+        0.4902,
+        0.263,
+        0.5098,
+        0.737
+      ]
+    },
+    {
+      "id": "MICAH_04_P001_F4",
+      "box": [
+        0,
+        0.6999,
+        0.4824,
+        0.3001
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MICAH_04_P001_B001",
+      "panel": "MICAH_04_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0104,
+        0.44,
+        0.0621
+      ],
+      "tail": null,
+      "text_key": "micah.4.p1.b1"
+    },
+    {
+      "id": "MICAH_04_P001_B002",
+      "panel": "MICAH_04_P001_F1",
+      "order": 2,
+      "type": "speech",
+      "style": "crowd",
+      "box": [
+        0.81,
+        0.0078,
+        0.18,
+        0.0777
+      ],
+      "tail": [
+        0.9,
+        0.1114
+      ],
+      "text_key": "micah.4.p1.b2"
+    },
+    {
+      "id": "MICAH_04_P001_B003",
+      "panel": "MICAH_04_P001_F2",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0193,
+        0.276,
+        0.4438,
+        0.0951
+      ],
+      "tail": null,
+      "text_key": "micah.4.p1.b3"
+    },
+    {
+      "id": "MICAH_04_P001_B004",
+      "panel": "MICAH_04_P001_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7706,
+        0.2851,
+        0.2141,
+        0.1179
+      ],
+      "tail": null,
+      "text_key": "micah.4.p1.b4"
+    },
+    {
+      "id": "MICAH_04_P001_B005",
+      "panel": "MICAH_04_P001_F3",
+      "order": 5,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.7706,
+        0.8968,
+        0.2141,
+        0.0737
+      ],
+      "tail": null,
+      "text_key": "micah.4.p1.b5"
+    },
+    {
+      "id": "MICAH_04_P001_B006",
+      "panel": "MICAH_04_P001_F4",
+      "order": 6,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0096,
+        0.7089,
+        0.2219,
+        0.078
+      ],
+      "tail": [
+        0.1206,
+        0.8169
+      ],
+      "text_key": "micah.4.p1.b6"
+    }
+  ]
+}

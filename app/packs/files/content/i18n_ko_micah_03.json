@@ -1,0 +1,82 @@
+{
+  "micah.3.p1.b1": {
+    "text": "야곱의 두령들과 이스라엘 족속의 치리자들아 청컨대 들으라 공의는 너희의 알 것이 아니냐",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b2": {
+    "text": "그들의 살을 먹으며 그 가죽을 벗기며 … 다지기를 남비와 솥 가운데 담을 고기처럼 하는도다",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b3": {
+    "text": "평강을 외치나",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b4": {
+    "text": "이 선지자 위에는 해가 져서 낮이 캄캄할 것이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b5": {
+    "text": "오직 나는 여호와의 신으로 말미암아 권능과 공의와 재능으로 채움을 얻고",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b6": {
+    "text": "그 두령은 뇌물을 위하여 재판하며 그 제사장은 삯을 위하여 교훈하며 그 선지자는 돈을 위하여 점 치면서",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b7": {
+    "text": "여호와께서 우리 중에 계시지 아니하냐 재앙이 우리에게 임하지 아니하리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "micah.3.p1.b8": {
+    "text": "이러므로 너희로 인하여 시온은 밭 같이 갊을 당하고 예루살렘은 무더기가 되고 성전의 산은 수풀의 높은 곳과 같게 되리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Micah 3:12"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}
