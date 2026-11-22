@@ -1,0 +1,178 @@
+{
+  "id": "OBADIAH_01_P002",
+  "book": "obadiah",
+  "chapter": 1,
+  "page": 2,
+  "ref": "1:5-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "OBADIAH_01_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "OBADIAH_01_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5029,
+        0.2135
+      ]
+    },
+    {
+      "id": "OBADIAH_01_P002_F2",
+      "box": [
+        0.5088,
+        0,
+        0.4912,
+        0.2135
+      ]
+    },
+    {
+      "id": "OBADIAH_01_P002_F3",
+      "box": [
+        0,
+        0.2161,
+        1,
+        0.2949
+      ]
+    },
+    {
+      "id": "OBADIAH_01_P002_F4",
+      "box": [
+        0,
+        0.513,
+        1,
+        0.2493
+      ]
+    },
+    {
+      "id": "OBADIAH_01_P002_F5",
+      "box": [
+        0,
+        0.7643,
+        0.4941,
+        0.2357
+      ]
+    },
+    {
+      "id": "OBADIAH_01_P002_F6",
+      "box": [
+        0.5,
+        0.7643,
+        0.5,
+        0.2357
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "OBADIAH_01_P002_B001",
+      "panel": "OBADIAH_01_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0151,
+        0.0064,
+        0.3017,
+        0.064
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b1"
+    },
+    {
+      "id": "OBADIAH_01_P002_B002",
+      "panel": "OBADIAH_01_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.7298,
+        0.0064,
+        0.2554,
+        0.0555
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b2"
+    },
+    {
+      "id": "OBADIAH_01_P002_B003",
+      "panel": "OBADIAH_01_P002_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.2279,
+        0.42,
+        0.0766
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b3"
+    },
+    {
+      "id": "OBADIAH_01_P002_B004",
+      "panel": "OBADIAH_01_P002_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.55,
+        0.5205,
+        0.42,
+        0.0498
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b4"
+    },
+    {
+      "id": "OBADIAH_01_P002_B005",
+      "panel": "OBADIAH_01_P002_F4",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.6975,
+        0.4,
+        0.0573
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b5"
+    },
+    {
+      "id": "OBADIAH_01_P002_B006",
+      "panel": "OBADIAH_01_P002_F5",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0148,
+        0.7714,
+        0.4644,
+        0.0707
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b6"
+    },
+    {
+      "id": "OBADIAH_01_P002_B007",
+      "panel": "OBADIAH_01_P002_F6",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.7,
+        0.7714,
+        0.285,
+        0.0659
+      ],
+      "tail": null,
+      "text_key": "obadiah.1.p2.b7"
+    }
+  ]
+}
