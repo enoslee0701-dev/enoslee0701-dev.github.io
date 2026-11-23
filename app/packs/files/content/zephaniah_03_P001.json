@@ -1,0 +1,232 @@
+{
+  "id": "ZEPHANIAH_03_P001",
+  "book": "zephaniah",
+  "chapter": 3,
+  "page": 1,
+  "ref": "3:1-8",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ZEPHANIAH_03_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ZEPHANIAH_03_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1602
+      ]
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_F2",
+      "box": [
+        0,
+        0.1634,
+        0.5078,
+        0.2025
+      ]
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_F3",
+      "box": [
+        0.5127,
+        0.1634,
+        0.4873,
+        0.2025
+      ]
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_F4",
+      "box": [
+        0,
+        0.3691,
+        1,
+        0.265
+      ]
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_F5",
+      "box": [
+        0,
+        0.6361,
+        0.4746,
+        0.1921
+      ]
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_F6",
+      "box": [
+        0.4795,
+        0.6361,
+        0.5205,
+        0.1921
+      ]
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_F7",
+      "box": [
+        0,
+        0.8307,
+        1,
+        0.1693
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ZEPHANIAH_03_P001_B001",
+      "panel": "ZEPHANIAH_03_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.0048,
+        0.42,
+        0.0384
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b1"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B002",
+      "panel": "ZEPHANIAH_03_P001_F1",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.73,
+        0.0048,
+        0.26,
+        0.0672
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b2"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B003",
+      "panel": "ZEPHANIAH_03_P001_F2",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0152,
+        0.3214,
+        0.4773,
+        0.0384
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b3"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B004",
+      "panel": "ZEPHANIAH_03_P001_F3",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6297,
+        0.1674,
+        0.3606,
+        0.0263
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b4"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B005",
+      "panel": "ZEPHANIAH_03_P001_F4",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.56,
+        0.3771,
+        0.42,
+        0.0583
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b5"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B006",
+      "panel": "ZEPHANIAH_03_P001_F4",
+      "order": 6,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.15,
+        0.5864,
+        0.33,
+        0.0424
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b6"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B007",
+      "panel": "ZEPHANIAH_03_P001_F5",
+      "order": 7,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0142,
+        0.6419,
+        0.4461,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b7"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B008",
+      "panel": "ZEPHANIAH_03_P001_F6",
+      "order": 8,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.4951,
+        0.6419,
+        0.4892,
+        0.0576
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b8"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B009",
+      "panel": "ZEPHANIAH_03_P001_F7",
+      "order": 9,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.36,
+        0.8375,
+        0.62,
+        0.0474
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b9"
+    },
+    {
+      "id": "ZEPHANIAH_03_P001_B010",
+      "panel": "ZEPHANIAH_03_P001_F7",
+      "order": 10,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.52,
+        0.895,
+        0.46,
+        0.0507
+      ],
+      "tail": null,
+      "text_key": "zephaniah.3.p1.b10"
+    }
+  ]
+}
