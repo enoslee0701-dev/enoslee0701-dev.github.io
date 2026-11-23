@@ -1,10 +1,10 @@
 {
   "build": 127,
   "version": "1.1.0",
-  "published": "2026-11-23T16:10:42.017Z",
+  "published": "2026-11-23T16:14:14.647Z",
   "notes": {
-    "zh-Hans": "新增玛拉基书全卷 4 章漫画，旧约全部完成",
-    "en": "Added Malachi (4 chapters) — the Old Testament is now complete"
+    "zh-Hans": "新增玛拉基书全卷 4 章漫画，先知书全部上线",
+    "en": "Added Malachi (4 chapters) — all the Prophets are now in the app"
   },
   "assets": {
     "zh-arm64": {
