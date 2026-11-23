@@ -1,0 +1,52 @@
+{
+  "zechariah.12.p1.b1": {
+    "text": "This is the burden of the word of the LORD concerning Israel.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 12:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.12.p1.b2": {
+    "text": "Behold, I will make Jerusalem a cup of drunkenness to all the surrounding peoples. … I will make Jerusalem a heavy stone for all the peoples; all who would heave it away will be severely injured.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 12:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.12.p1.b3": {
+    "text": "On that day the LORD will defend the people of Jerusalem, so that the weakest among them will be like David …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 12:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.12.p1.b4": {
+    "text": "Then I will pour out on the house of David and on the people of Jerusalem a spirit of grace and prayer, and they will look on Me, the One they have pierced. They will mourn for Him as one mourns for an only child …",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 12:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.12.p1.b5": {
+    "text": "On that day the wailing in Jerusalem will be as great as the wailing of Hadad-rimmon in the plain of Megiddo. … The land will mourn, each clan on its own … and all the remaining clans and their wives.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 12:11-14"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

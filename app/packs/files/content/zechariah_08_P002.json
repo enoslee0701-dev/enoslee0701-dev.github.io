@@ -1,0 +1,121 @@
+{
+  "id": "ZECHARIAH_08_P002",
+  "book": "zechariah",
+  "chapter": 8,
+  "page": 2,
+  "ref": "8:14-23",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ZECHARIAH_08_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ZECHARIAH_08_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4863,
+        0.4525
+      ]
+    },
+    {
+      "id": "ZECHARIAH_08_P002_F2",
+      "box": [
+        0.4961,
+        0,
+        0.5039,
+        0.6745
+      ]
+    },
+    {
+      "id": "ZECHARIAH_08_P002_F3",
+      "box": [
+        0,
+        0.457,
+        0.4863,
+        0.2174
+      ]
+    },
+    {
+      "id": "ZECHARIAH_08_P002_F4",
+      "box": [
+        0,
+        0.679,
+        1,
+        0.321
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ZECHARIAH_08_P002_B001",
+      "panel": "ZECHARIAH_08_P002_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0146,
+        0.0136,
+        0.4571,
+        0.1357
+      ],
+      "tail": null,
+      "text_key": "zechariah.8.p2.b1"
+    },
+    {
+      "id": "ZECHARIAH_08_P002_B002",
+      "panel": "ZECHARIAH_08_P002_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.5163,
+        0.0202,
+        0.4635,
+        0.1618
+      ],
+      "tail": null,
+      "text_key": "zechariah.8.p2.b2"
+    },
+    {
+      "id": "ZECHARIAH_08_P002_B003",
+      "panel": "ZECHARIAH_08_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0146,
+        0.4635,
+        0.4571,
+        0.0521
+      ],
+      "tail": [
+        0.2432,
+        0.5373
+      ],
+      "text_key": "zechariah.8.p2.b3"
+    },
+    {
+      "id": "ZECHARIAH_08_P002_B004",
+      "panel": "ZECHARIAH_08_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.22,
+        0.6854,
+        0.76,
+        0.0449
+      ],
+      "tail": [
+        0.6,
+        0.7624
+      ],
+      "text_key": "zechariah.8.p2.b4"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "zechariah.5.p1.b1": {
+    "text": "Again I lifted up my eyes and saw before me a flying scroll.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b2": {
+    "text": "I see a flying scroll … twenty cubits long and ten cubits wide.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b3": {
+    "text": "I will send it out … destroy it, down to its timbers and stones.",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b4": {
+    "text": "This is Wickedness",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b5": {
+    "text": "Where are they taking the basket?",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b6": {
+    "text": "To build a house for it in the land of Shinar",
+    "kind": "scripture",
+    "source": {
+      "version": "engbsb",
+      "ref": "Zechariah 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

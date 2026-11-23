@@ -1,0 +1,52 @@
+{
+  "zechariah.13.p1.b1": {
+    "text": "그 날에 죄와 더러움을 씻는 샘이 다윗의 족속과 예루살렘 거민을 위하여 열리리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 13:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.13.p1.b2": {
+    "text": "만군의 여호와가 말하노라 그 날에 내가 우상의 이름을 이 땅에서 끊어서 … 그 날에 선지자들이 예언할 때에 그 이상을 각기 부끄러워할 것이며",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 13:2-4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.13.p1.b3": {
+    "text": "나는 선지자가 아니요 나는 농부라 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 13:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.13.p1.b4": {
+    "text": "목자를 치면 양이 흩어지려니와 작은 자들 위에는 내가 내 손을 드리우리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 13:7"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.13.p1.b5": {
+    "text": "내가 그 삼분지 일을 불 가운데 던져 은같이 연단하며 … 나는 말하기를 이는 내 백성이라 할 것이요 …",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 13:8-9"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

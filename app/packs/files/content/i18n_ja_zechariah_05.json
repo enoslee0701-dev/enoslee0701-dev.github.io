@@ -1,0 +1,62 @@
+{
+  "zechariah.5.p1.b1": {
+    "text": "わたしがまた目をあげて見ていると、飛んでいる巻物を見た。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Zechariah 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b2": {
+    "text": "飛んでいる巻物を見ます。その長さは二十キュビト、その幅は十キュビトです",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Zechariah 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b3": {
+    "text": "わたしはこれを出て行かせる……これをその木と石と共に滅ぼす",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Zechariah 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b4": {
+    "text": "これは罪悪である",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Zechariah 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b5": {
+    "text": "彼らはエパ枡を、どこへ持って行くのですか",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Zechariah 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b6": {
+    "text": "シナルの地で、女たちのために家を建てるのです",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Zechariah 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

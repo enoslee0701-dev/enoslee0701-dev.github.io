@@ -1,0 +1,62 @@
+{
+  "zechariah.5.p1.b1": {
+    "text": "내가 다시 눈을 든즉 날아가는 두루마리가 보이더라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 5:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b2": {
+    "text": "날아가는 두루마리를 보나이다 그 장이 이십 규빗이요 광이 십 규빗 이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 5:2"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b3": {
+    "text": "내가 이것을 발하였나니 … 그 집을 그 나무와 그 돌을 아울러 사르리라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 5:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b4": {
+    "text": "이는 악이라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 5:8"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b5": {
+    "text": "그들이 에바를 어디로 옮겨 가나이까",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 5:10"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "zechariah.5.p1.b6": {
+    "text": "그들이 시날 땅으로 가서 그를 위하여 집을 지으려 함이니라",
+    "kind": "scripture",
+    "source": {
+      "version": "korkrv",
+      "ref": "Zechariah 5:11"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

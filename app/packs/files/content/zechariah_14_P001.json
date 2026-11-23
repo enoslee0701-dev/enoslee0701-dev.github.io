@@ -1,0 +1,130 @@
+{
+  "id": "ZECHARIAH_14_P001",
+  "book": "zechariah",
+  "chapter": 14,
+  "page": 1,
+  "ref": "14:1-11",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ZECHARIAH_14_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ZECHARIAH_14_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2253
+      ]
+    },
+    {
+      "id": "ZECHARIAH_14_P001_F2",
+      "box": [
+        0,
+        0.2285,
+        1,
+        0.3919
+      ]
+    },
+    {
+      "id": "ZECHARIAH_14_P001_F3",
+      "box": [
+        0,
+        0.6237,
+        1,
+        0.0924
+      ]
+    },
+    {
+      "id": "ZECHARIAH_14_P001_F4",
+      "box": [
+        0,
+        0.7194,
+        1,
+        0.2806
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ZECHARIAH_14_P001_B001",
+      "panel": "ZECHARIAH_14_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.009,
+        0.46,
+        0.0766
+      ],
+      "tail": null,
+      "text_key": "zechariah.14.p1.b1"
+    },
+    {
+      "id": "ZECHARIAH_14_P001_B002",
+      "panel": "ZECHARIAH_14_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.2403,
+        0.38,
+        0.1018
+      ],
+      "tail": null,
+      "text_key": "zechariah.14.p1.b2"
+    },
+    {
+      "id": "ZECHARIAH_14_P001_B003",
+      "panel": "ZECHARIAH_14_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.56,
+        0.6311,
+        0.41,
+        0.0776
+      ],
+      "tail": null,
+      "text_key": "zechariah.14.p1.b3"
+    },
+    {
+      "id": "ZECHARIAH_14_P001_B004",
+      "panel": "ZECHARIAH_14_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.7278,
+        0.92,
+        0.0561
+      ],
+      "tail": null,
+      "text_key": "zechariah.14.p1.b4"
+    },
+    {
+      "id": "ZECHARIAH_14_P001_B005",
+      "panel": "ZECHARIAH_14_P001_F4",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.6,
+        0.9214,
+        0.37,
+        0.0673
+      ],
+      "tail": null,
+      "text_key": "zechariah.14.p1.b5"
+    }
+  ]
+}

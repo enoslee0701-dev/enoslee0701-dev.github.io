@@ -1,0 +1,139 @@
+{
+  "id": "ZECHARIAH_09_P001",
+  "book": "zechariah",
+  "chapter": 9,
+  "page": 1,
+  "ref": "9:1-10",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "ZECHARIAH_09_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "ZECHARIAH_09_P001_F1",
+      "box": [
+        0,
+        0,
+        0.6191,
+        0.2396
+      ]
+    },
+    {
+      "id": "ZECHARIAH_09_P001_F2",
+      "box": [
+        0.626,
+        0,
+        0.374,
+        0.2396
+      ]
+    },
+    {
+      "id": "ZECHARIAH_09_P001_F3",
+      "box": [
+        0,
+        0.2428,
+        1,
+        0.1569
+      ]
+    },
+    {
+      "id": "ZECHARIAH_09_P001_F4",
+      "box": [
+        0,
+        0.403,
+        1,
+        0.3678
+      ]
+    },
+    {
+      "id": "ZECHARIAH_09_P001_F5",
+      "box": [
+        0,
+        0.7741,
+        1,
+        0.2259
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "ZECHARIAH_09_P001_B001",
+      "panel": "ZECHARIAH_09_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0186,
+        0.0072,
+        0.5819,
+        0.0718
+      ],
+      "tail": null,
+      "text_key": "zechariah.9.p1.b1"
+    },
+    {
+      "id": "ZECHARIAH_09_P001_B002",
+      "panel": "ZECHARIAH_09_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.641,
+        0.1677,
+        0.344,
+        0.0646
+      ],
+      "tail": null,
+      "text_key": "zechariah.9.p1.b2"
+    },
+    {
+      "id": "ZECHARIAH_09_P001_B003",
+      "panel": "ZECHARIAH_09_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.02,
+        0.2491,
+        0.46,
+        0.0658
+      ],
+      "tail": null,
+      "text_key": "zechariah.9.p1.b3"
+    },
+    {
+      "id": "ZECHARIAH_09_P001_B004",
+      "panel": "ZECHARIAH_09_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.4104,
+        0.92,
+        0.0809
+      ],
+      "tail": null,
+      "text_key": "zechariah.9.p1.b4"
+    },
+    {
+      "id": "ZECHARIAH_09_P001_B005",
+      "panel": "ZECHARIAH_09_P001_F5",
+      "order": 5,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.7809,
+        0.7,
+        0.0677
+      ],
+      "tail": null,
+      "text_key": "zechariah.9.p1.b5"
+    }
+  ]
+}
