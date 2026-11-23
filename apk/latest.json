@@ -1,31 +1,31 @@
 {
-  "build": 126,
+  "build": 127,
   "version": "1.1.0",
-  "published": "2026-11-23T13:20:33.613Z",
+  "published": "2026-11-23T16:10:42.017Z",
   "notes": {
-    "zh-Hans": "新增撒迦利亚书全卷 14 章漫画",
-    "en": "Added the full Book of Zechariah (14 chapters) in comics"
+    "zh-Hans": "新增玛拉基书全卷 4 章漫画，旧约全部完成",
+    "en": "Added Malachi (4 chapters) — the Old Testament is now complete"
   },
   "assets": {
     "zh-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b126/bible-comics-zh-arm64.apk",
-      "size": 176076339,
-      "sha256": "89f18fcd860c449a45e712f5b94b6856793d7b510b0a83a75891ab2c3d24f74f"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b127/bible-comics-zh-arm64.apk",
+      "size": 176598484,
+      "sha256": "6765c583b3cd9fa7aeabbac02b2bcb33f263656dd64f331b5f5c45ded5ec3403"
     },
     "zh-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b126/bible-comics-zh-armv7.apk",
-      "size": 169128661,
-      "sha256": "82ba12fb076ed620fc3c51f923df69554f674aa2bf22ac3fb8528ff07e1ed777"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b127/bible-comics-zh-armv7.apk",
+      "size": 169650806,
+      "sha256": "ed0196faf21fc86e9c6eebddd9c8a3662d8691b3a1e1e615af7d523368ed4910"
     },
     "en-arm64": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b126/bible-comics-en-arm64.apk",
-      "size": 176077895,
-      "sha256": "b1b190bdf105078d59aa2887524489b892988a50d7cf54e3f2ec2856121a16fb"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b127/bible-comics-en-arm64.apk",
+      "size": 176600040,
+      "sha256": "b24e1fcafbf1b93a99e5ce636bcd14373cf726e488692549a9c4688199f56b60"
     },
     "en-armv7": {
-      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b126/bible-comics-en-armv7.apk",
-      "size": 169130217,
-      "sha256": "079e59d94a7be0d329d4b7fd58618dc2ae5e22ff313b885de9a61c726da36f39"
+      "url": "https://github.com/enoslee0701-dev/enoslee0701-dev.github.io/releases/download/apk-b127/bible-comics-en-armv7.apk",
+      "size": 169652362,
+      "sha256": "2ce91322c09f5e84077b8d69cb03bf690d0c2c34b60fd3d08ef3e7c8111fec26"
     }
   }
 }
