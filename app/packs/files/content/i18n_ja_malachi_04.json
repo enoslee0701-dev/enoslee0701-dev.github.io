@@ -1,0 +1,52 @@
+{
+  "malachi.4.p1.b1": {
+    "text": "見よ、炉のように燃える日が来る……その時すべて高ぶる者と、悪を行う者とは、わらのようになる。その来る日は、彼らを焼き尽して……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Malachi 4:1"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "malachi.4.p1.b2": {
+    "text": "しかしわが名を恐れるあなたがたには、義の太陽がのぼり、その翼には、いやす力を備えている。あなたがたは牛舎から出る子牛のように外に出て、とびはねる。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Malachi 4:2-3"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "malachi.4.p1.b3": {
+    "text": "あなたがたは、わがしもべモーセの律法……",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Malachi 4:4"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "malachi.4.p1.b4": {
+    "text": "見よ、主の大いなる恐るべき日が来る前に、わたしは預言者エリヤをあなたがたにつかわす。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Malachi 4:5"
+    },
+    "adapted": false,
+    "status": "approved"
+  },
+  "malachi.4.p1.b5": {
+    "text": "彼は父の心をその子供たちに向けさせ、子供たちの心をその父に向けさせる。これはわたしが来て、のろいをもってこの国を撃つことのないようにするためである」。",
+    "kind": "scripture",
+    "source": {
+      "version": "jpnkougo",
+      "ref": "Malachi 4:6"
+    },
+    "adapted": false,
+    "status": "approved"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "MALACHI_02_P001",
+  "book": "malachi",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-9",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "MALACHI_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "MALACHI_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3086
+      ]
+    },
+    {
+      "id": "MALACHI_02_P001_F2",
+      "box": [
+        0,
+        0.3112,
+        1,
+        0.1074
+      ]
+    },
+    {
+      "id": "MALACHI_02_P001_F3",
+      "box": [
+        0,
+        0.4212,
+        1,
+        0.3242
+      ]
+    },
+    {
+      "id": "MALACHI_02_P001_F4",
+      "box": [
+        0,
+        0.7474,
+        1,
+        0.2526
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "MALACHI_02_P001_B001",
+      "panel": "MALACHI_02_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.0093,
+        0.55,
+        0.0864
+      ],
+      "tail": null,
+      "text_key": "malachi.2.p1.b1"
+    },
+    {
+      "id": "MALACHI_02_P001_B002",
+      "panel": "MALACHI_02_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.64,
+        0.3198,
+        0.33,
+        0.0902
+      ],
+      "tail": null,
+      "text_key": "malachi.2.p1.b2"
+    },
+    {
+      "id": "MALACHI_02_P001_B003",
+      "panel": "MALACHI_02_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.28,
+        0.4277,
+        0.69,
+        0.0713
+      ],
+      "tail": null,
+      "text_key": "malachi.2.p1.b3"
+    },
+    {
+      "id": "MALACHI_02_P001_B004",
+      "panel": "MALACHI_02_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.04,
+        0.9343,
+        0.92,
+        0.0555
+      ],
+      "tail": null,
+      "text_key": "malachi.2.p1.b4"
+    }
+  ]
+}
