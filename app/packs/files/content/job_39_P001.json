@@ -1,0 +1,115 @@
+{
+  "id": "JOB_39_P001",
+  "book": "job",
+  "chapter": 39,
+  "page": 1,
+  "ref": "39:1-12",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_39_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_39_P001_F1",
+      "box": [
+        0,
+        0,
+        0.5732,
+        0.3516
+      ]
+    },
+    {
+      "id": "JOB_39_P001_F2",
+      "box": [
+        0.5811,
+        0,
+        0.4189,
+        0.3516
+      ]
+    },
+    {
+      "id": "JOB_39_P001_F3",
+      "box": [
+        0,
+        0.3555,
+        1,
+        0.2409
+      ]
+    },
+    {
+      "id": "JOB_39_P001_F4",
+      "box": [
+        0,
+        0.6003,
+        1,
+        0.3997
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_39_P001_B001",
+      "panel": "JOB_39_P001_F1",
+      "order": 1,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0229,
+        0.0141,
+        0.3439,
+        0.0843
+      ],
+      "tail": null,
+      "text_key": "job.39.p1.b1"
+    },
+    {
+      "id": "JOB_39_P001_B002",
+      "panel": "JOB_39_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.602,
+        0.2742,
+        0.377,
+        0.0668
+      ],
+      "tail": null,
+      "text_key": "job.39.p1.b2"
+    },
+    {
+      "id": "JOB_39_P001_B003",
+      "panel": "JOB_39_P001_F3",
+      "order": 3,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.55,
+        0.37,
+        0.42,
+        0.0819
+      ],
+      "tail": null,
+      "text_key": "job.39.p1.b3"
+    },
+    {
+      "id": "JOB_39_P001_B004",
+      "panel": "JOB_39_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.03,
+        0.6163,
+        0.34,
+        0.0799
+      ],
+      "tail": null,
+      "text_key": "job.39.p1.b4"
+    }
+  ]
+}

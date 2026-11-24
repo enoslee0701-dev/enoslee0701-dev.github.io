@@ -1,0 +1,46 @@
+{
+  "job.17.p1.b1": {
+    "text": "我的心灵消耗，我的日子灭尽……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 17:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠的心⁠灵消⁠耗，我⁠的日⁠子灭尽……"
+  },
+  "job.17.p1.b2": {
+    "text": "神使我作了民中的笑谈；他们也吐唾沫在我脸上。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 17:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神使我作⁠了民中⁠的笑谈；他⁠们也吐⁠唾⁠沫在我脸上。"
+  },
+  "job.17.p1.b3": {
+    "text": "然而，义人要持守所行的道；手洁的人要力上加力。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 17:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "然⁠而，义人要持守所行的道；手洁的人要力上加力。"
+  },
+  "job.17.p1.b4": {
+    "text": "这样，我的指望在哪里呢？我所指望的谁能看见呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 17:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠样，我⁠的指⁠望在哪⁠里呢？我所指⁠望的谁⁠能看⁠见呢？"
+  }
+}

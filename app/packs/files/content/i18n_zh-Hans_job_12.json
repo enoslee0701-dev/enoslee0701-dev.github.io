@@ -1,0 +1,57 @@
+{
+  "job.12.p1.b1": {
+    "text": "你们真是子民哪，你们死亡，智慧也就灭没了。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 12:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠们真⁠是子⁠民哪，你⁠们死⁠亡，智⁠慧也⁠就灭没⁠了。"
+  },
+  "job.12.p1.b2": {
+    "text": "你且问走兽，走兽必指教你；……海中的鱼也必向你说明。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 12:7-8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你且问走兽，走兽必指⁠教你；……海⁠中的鱼也必向你说⁠明。"
+  },
+  "job.12.p1.b3": {
+    "text": "看这一切，谁不知道是耶和华的手做成的呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 12:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看这一⁠切，谁不⁠知⁠道是耶⁠和⁠华的手做⁠成的呢？"
+  },
+  "job.12.p1.b4": {
+    "text": "他使邦国兴旺而又毁灭；他使邦国开广而又掳去。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 12:23"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他使邦⁠国兴⁠旺而⁠又毁⁠灭；他使邦⁠国开广而⁠又掳去。"
+  },
+  "job.12.p1.b5": {
+    "text": "他们无光，在黑暗中摸索，又使他们东倒西歪，像醉酒的人一样。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 12:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠们无⁠光，在黑暗⁠中摸⁠索，又使他⁠们东⁠倒西⁠歪，像醉⁠酒的人一⁠样。"
+  }
+}

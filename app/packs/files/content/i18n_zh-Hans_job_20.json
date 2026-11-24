@@ -1,0 +1,57 @@
+{
+  "job.20.p1.b1": {
+    "text": "我已听见那羞辱我，责备我的话；我的悟性叫我回答。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 20:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我已听⁠见那羞⁠辱我，责⁠备我的⁠话；我⁠的悟⁠性叫我回⁠答。"
+  },
+  "job.20.p1.b2": {
+    "text": "恶人夸胜是暂时的，不敬虔人的喜乐不过转眼之间吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 20:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "恶人夸胜是暂⁠时的，不敬⁠虔人⁠的喜⁠乐不⁠过转⁠眼之⁠间吗？"
+  },
+  "job.20.p1.b3": {
+    "text": "他必飞去如梦，不再寻见，速被赶去，如夜间的异象。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 20:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他必飞⁠去如梦，不⁠再寻见，速被赶⁠去，如夜⁠间的异象。"
+  },
+  "job.20.p1.b4": {
+    "text": "他吞了财宝，还要吐出；　神要从他腹中掏出来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 20:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他吞⁠了财⁠宝，还要吐⁠出；　神要从他腹⁠中掏⁠出⁠来。"
+  },
+  "job.20.p1.b5": {
+    "text": "这是恶人从　神所得的分，是　神为他所定的产业。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 20:29"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这是恶人从　神所⁠得的分，是　神为他所⁠定的产⁠业。"
+  }
+}

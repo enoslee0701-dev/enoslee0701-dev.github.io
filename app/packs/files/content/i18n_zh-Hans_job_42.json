@@ -1,0 +1,167 @@
+{
+  "job.42.p1.b1": {
+    "text": "约伯回答耶和华说：",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约伯回⁠答耶⁠和⁠华说："
+  },
+  "job.42.p1.b2": {
+    "text": "我知道，你万事都能做；你的旨意不能拦阻。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我⁠知⁠道，你万⁠事都⁠能做；你⁠的旨⁠意不⁠能拦阻。"
+  },
+  "job.42.p1.b3": {
+    "text": "我所说的是我不明白的；这些事太奇妙，是我不知道的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我所说的⁠是我⁠不明⁠白的；这⁠些事太奇⁠妙，是我不⁠知⁠道的。"
+  },
+  "job.42.p1.b4": {
+    "text": "我从前风闻有你，现在亲眼看见你。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我从⁠前风闻有你，现⁠在亲⁠眼看⁠见你。"
+  },
+  "job.42.p1.b5": {
+    "text": "因此我厌恶自己，在尘土和炉灰中懊悔。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因⁠此我厌⁠恶自⁠己，在尘⁠土和炉灰中懊⁠悔。"
+  },
+  "job.42.p2.b1": {
+    "text": "「我的怒气向你和你两个朋友发作，因为你们议论我不如我的仆人约伯说的是。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "「我⁠的怒⁠气向你和你两个朋⁠友发⁠作，因⁠为你⁠们议⁠论我不⁠如我⁠的仆⁠人约伯说的⁠是。」"
+  },
+  "job.42.p2.b2": {
+    "text": "「现在你们要取七只公牛，七只公羊，到我仆人约伯那里去……我的仆人约伯就为你们祈祷。」",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "「现⁠在你⁠们要取七⁠只公⁠牛，七⁠只公⁠羊，到我仆⁠人约伯那⁠里去……我⁠的仆⁠人约伯就为你⁠们祈⁠祷。」"
+  },
+  "job.42.p2.b3": {
+    "text": "于是……照着耶和华所吩咐的去行；耶和华就悦纳约伯。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "于⁠是……照着耶⁠和⁠华所吩⁠咐的去行；耶⁠和⁠华就悦纳约伯。"
+  },
+  "job.42.p2.b4": {
+    "text": "约伯为他的朋友祈祷。耶和华就使约伯从苦境转回，并且耶和华赐给他的比他从前所有的加倍。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约伯为他⁠的朋⁠友祈⁠祷。耶⁠和⁠华就使约伯从苦⁠境转回，并⁠且耶⁠和⁠华赐⁠给他⁠的比他从⁠前所⁠有的加⁠倍。"
+  },
+  "job.42.p3.b1": {
+    "text": "约伯的弟兄、姊妹，和以先所认识的人都来见他，在他家里一同吃饭……每人也送他一块银子和一个金环。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "约伯的弟⁠兄、姊⁠妹，和以先所认⁠识的人都来⁠见他，在他家⁠里一⁠同吃⁠饭……每⁠人也送他一⁠块银⁠子和一⁠个金环。"
+  },
+  "job.42.p3.b2": {
+    "text": "这样，耶和华后来赐福给约伯比先前更多。他有一万四千羊，六千骆驼，一千对牛，一千母驴。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠样，耶⁠和⁠华后⁠来赐⁠福给约伯比先⁠前更⁠多。他⁠有一⁠万四⁠千羊，六⁠千骆⁠驼，一⁠千对牛，一⁠千母驴。"
+  },
+  "job.42.p3.b3": {
+    "text": "他给长女起名叫耶米玛，次女叫基洗亚，三女叫基连·哈朴。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他给长女起名⁠叫耶米玛，次⁠女叫基洗亚，三⁠女叫基连·哈朴。"
+  },
+  "job.42.p3.b4": {
+    "text": "在那全地的妇女中找不着像约伯的女儿那样美貌。她们的父亲使她们在弟兄中得产业。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在那全地的妇⁠女中找不⁠着像约伯的女⁠儿那⁠样美⁠貌。她⁠们的父⁠亲使她⁠们在弟⁠兄中得产⁠业。"
+  },
+  "job.42.p3.b5": {
+    "text": "此后，约伯又活了一百四十年，得见他的儿孙，直到四代。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "此⁠后，约伯又活⁠了一⁠百四⁠十年，得见他⁠的儿孙，直⁠到四⁠代。"
+  },
+  "job.42.p3.b6": {
+    "text": "这样，约伯年纪老迈，日子满足而死。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 42:17"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠样，约伯年⁠纪老⁠迈，日⁠子满⁠足而死。"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "job.3.p1.b1": {
+    "text": "此后，约伯开口咒诅自己的生日，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "此⁠后，约伯开⁠口咒诅自⁠己的生⁠日，"
+  },
+  "job.3.p1.b2": {
+    "text": "愿我生的那日和说怀了男胎的那夜都灭没。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "愿我生的那日和说怀⁠了男胎的那⁠夜都灭没。"
+  },
+  "job.3.p1.b3": {
+    "text": "愿那夜黎明的星宿变为黑暗，盼亮却不亮，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "愿那⁠夜黎⁠明的星⁠宿变⁠为黑⁠暗，盼亮却不亮，"
+  },
+  "job.3.p1.b4": {
+    "text": "愿密云停在其上；愿日蚀恐吓它。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "愿密⁠云停⁠在其上；愿日⁠蚀恐⁠吓它。"
+  },
+  "job.3.p2.b1": {
+    "text": "我为何不出母胎而死？为何不出母腹绝气？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我为⁠何⁠不出母⁠胎而死？为⁠何⁠不出母腹绝气？"
+  },
+  "job.3.p2.b2": {
+    "text": "在那里恶人止息搅扰，困乏人得享安息，……大小都在那里；奴仆脱离主人的辖制。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:17-19"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在那⁠里恶人止⁠息搅⁠扰，困⁠乏人得享安⁠息，……大⁠小都⁠在那⁠里；奴⁠仆脱⁠离主⁠人的辖制。"
+  },
+  "job.3.p2.b3": {
+    "text": "受患难的人为何有光赐给他呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:20"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "受患⁠难的人为⁠何有⁠光赐⁠给他呢？"
+  },
+  "job.3.p2.b4": {
+    "text": "因我所恐惧的临到我身，我所惧怕的迎我而来。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 3:25"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "因我所恐⁠惧的临⁠到我身，我所惧⁠怕的迎我而⁠来。"
+  }
+}

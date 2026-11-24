@@ -1,0 +1,136 @@
+{
+  "id": "JOB_25_P001",
+  "book": "job",
+  "chapter": 25,
+  "page": 1,
+  "ref": "25:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_25_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_25_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.2643
+      ]
+    },
+    {
+      "id": "JOB_25_P001_F2",
+      "box": [
+        0,
+        0.2682,
+        0.4541,
+        0.2975
+      ]
+    },
+    {
+      "id": "JOB_25_P001_F3",
+      "box": [
+        0.4609,
+        0.2682,
+        0.5391,
+        0.5
+      ]
+    },
+    {
+      "id": "JOB_25_P001_F4",
+      "box": [
+        0,
+        0.5697,
+        0.4541,
+        0.1986
+      ]
+    },
+    {
+      "id": "JOB_25_P001_F5",
+      "box": [
+        0,
+        0.7715,
+        1,
+        0.2285
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_25_P001_B001",
+      "panel": "JOB_25_P001_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.02,
+        0.0106,
+        0.4,
+        0.0687
+      ],
+      "tail": [
+        0.22,
+        0.1057
+      ],
+      "text_key": "job.25.p1.b1"
+    },
+    {
+      "id": "JOB_25_P001_B002",
+      "panel": "JOB_25_P001_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.0136,
+        0.2742,
+        0.1816,
+        0.0446
+      ],
+      "tail": [
+        0.1044,
+        0.3485
+      ],
+      "text_key": "job.25.p1.b2"
+    },
+    {
+      "id": "JOB_25_P001_B003",
+      "panel": "JOB_25_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.4932,
+        0.6282,
+        0.4744,
+        0.08
+      ],
+      "tail": [
+        0.7304,
+        0.7582
+      ],
+      "text_key": "job.25.p1.b3"
+    },
+    {
+      "id": "JOB_25_P001_B004",
+      "panel": "JOB_25_P001_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0227,
+        0.5776,
+        0.2951,
+        0.0516
+      ],
+      "tail": [
+        0.1702,
+        0.6491
+      ],
+      "text_key": "job.25.p1.b4"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "job.8.p1.b1": {
+    "text": "这些话你要说到几时？口中的言语如狂风要到几时呢？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 8:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠些话你⁠要说到几⁠时？口⁠中的言⁠语如狂⁠风要⁠到几⁠时呢？"
+  },
+  "job.8.p1.b2": {
+    "text": "请你考问前代，追念他们的列祖所查究的。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 8:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "请你考⁠问前⁠代，追⁠念他⁠们的列祖所查⁠究的。"
+  },
+  "job.8.p1.b3": {
+    "text": "蒲草没有泥岂能发长？芦荻没有水岂能生发？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 8:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "蒲草没⁠有泥岂能发长？芦⁠荻没⁠有水岂能⁠生发？"
+  },
+  "job.8.p1.b4": {
+    "text": "他所仰赖的必折断；他所倚靠的是蜘蛛网。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 8:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠所仰⁠赖的必折⁠断；他⁠所倚⁠靠的⁠是蜘⁠蛛网。"
+  }
+}

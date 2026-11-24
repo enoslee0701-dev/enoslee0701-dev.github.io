@@ -1,0 +1,46 @@
+{
+  "job.10.p1.b1": {
+    "text": "我厌烦我的性命，必由着自己述说我的哀情……",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 10:1"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我厌⁠烦我⁠的性⁠命，必由着自⁠己述说我⁠的哀情……"
+  },
+  "job.10.p1.b2": {
+    "text": "求你记念—制造我如抟泥一般，你还要使我归于尘土吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 10:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "求你记念—制⁠造我如抟泥一⁠般，你还要使我归⁠于尘⁠土吗？"
+  },
+  "job.10.p1.b3": {
+    "text": "你不是倒出我来好像奶，使我凝结如同奶饼吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 10:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你不⁠是倒出我⁠来好⁠像奶，使我凝⁠结如⁠同奶饼吗？"
+  },
+  "job.10.p1.b4": {
+    "text": "那地甚是幽暗，是死荫混沌之地；那里的光好像幽暗。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 10:22"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "那地甚⁠是幽⁠暗，是死荫混⁠沌之⁠地；那⁠里的光好⁠像幽⁠暗。"
+  }
+}

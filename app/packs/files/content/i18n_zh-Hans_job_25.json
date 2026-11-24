@@ -1,0 +1,46 @@
+{
+  "job.25.p1.b1": {
+    "text": "神有治理之权，有威严可畏；他在高处施行和平。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 25:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神有治⁠理之权，有威⁠严可⁠畏；他⁠在高处施⁠行和⁠平。"
+  },
+  "job.25.p1.b2": {
+    "text": "这样在　神面前，人怎能称义？妇人所生的怎能洁净？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 25:4"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这⁠样在　神面⁠前，人怎⁠能称义？妇⁠人所⁠生的怎⁠能洁⁠净？"
+  },
+  "job.25.p1.b3": {
+    "text": "在　神眼前，月亮也无光亮，星宿也不清洁。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 25:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在　神眼⁠前，月⁠亮也无光⁠亮，星⁠宿也⁠不清⁠洁。"
+  },
+  "job.25.p1.b4": {
+    "text": "何况如虫的人，如蛆的世人呢！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 25:6"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "何⁠况如虫的人，如蛆的世⁠人呢！"
+  }
+}

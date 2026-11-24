@@ -1,0 +1,127 @@
+{
+  "id": "JOB_05_P002",
+  "book": "job",
+  "chapter": 5,
+  "page": 2,
+  "ref": "5:17-27",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_05_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_05_P002_F1",
+      "box": [
+        0,
+        0,
+        0.5684,
+        0.2975
+      ]
+    },
+    {
+      "id": "JOB_05_P002_F2",
+      "box": [
+        0.5752,
+        0,
+        0.4248,
+        0.2975
+      ]
+    },
+    {
+      "id": "JOB_05_P002_F3",
+      "box": [
+        0,
+        0.3008,
+        1,
+        0.4173
+      ]
+    },
+    {
+      "id": "JOB_05_P002_F4",
+      "box": [
+        0,
+        0.722,
+        1,
+        0.278
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_05_P002_B001",
+      "panel": "JOB_05_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.0227,
+        0.0089,
+        0.5115,
+        0.0595
+      ],
+      "tail": [
+        0.2784,
+        0.0982
+      ],
+      "text_key": "job.5.p2.b1"
+    },
+    {
+      "id": "JOB_05_P002_B002",
+      "panel": "JOB_05_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5922,
+        0.0089,
+        0.3823,
+        0.0595
+      ],
+      "tail": [
+        0.7834,
+        0.0982
+      ],
+      "text_key": "job.5.p2.b2"
+    },
+    {
+      "id": "JOB_05_P002_B003",
+      "panel": "JOB_05_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.3175,
+        0.4,
+        0.0751
+      ],
+      "tail": [
+        0.23,
+        0.4343
+      ],
+      "text_key": "job.5.p2.b3"
+    },
+    {
+      "id": "JOB_05_P002_B004",
+      "panel": "JOB_05_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.52,
+        0.7331,
+        0.44,
+        0.0611
+      ],
+      "tail": [
+        0.74,
+        0.822
+      ],
+      "text_key": "job.5.p2.b4"
+    }
+  ]
+}

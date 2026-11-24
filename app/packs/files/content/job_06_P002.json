@@ -1,0 +1,154 @@
+{
+  "id": "JOB_06_P002",
+  "book": "job",
+  "chapter": 6,
+  "page": 2,
+  "ref": "6:14-30",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_06_P002",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_06_P002_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.2604
+      ]
+    },
+    {
+      "id": "JOB_06_P002_F2",
+      "box": [
+        0.5059,
+        0,
+        0.4941,
+        0.2604
+      ]
+    },
+    {
+      "id": "JOB_06_P002_F3",
+      "box": [
+        0,
+        0.265,
+        1,
+        0.3965
+      ]
+    },
+    {
+      "id": "JOB_06_P002_F4",
+      "box": [
+        0,
+        0.666,
+        0.5508,
+        0.334
+      ]
+    },
+    {
+      "id": "JOB_06_P002_F5",
+      "box": [
+        0.5586,
+        0.666,
+        0.4414,
+        0.334
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_06_P002_B001",
+      "panel": "JOB_06_P002_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.0199,
+        0.0078,
+        0.4473,
+        0.0572
+      ],
+      "tail": [
+        0.2436,
+        0.091
+      ],
+      "text_key": "job.6.p2.b1"
+    },
+    {
+      "id": "JOB_06_P002_B002",
+      "panel": "JOB_06_P002_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.5257,
+        0.0078,
+        0.4446,
+        0.0572
+      ],
+      "tail": [
+        0.748,
+        0.091
+      ],
+      "text_key": "job.6.p2.b2"
+    },
+    {
+      "id": "JOB_06_P002_B003",
+      "panel": "JOB_06_P002_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.48,
+        0.2769,
+        0.5,
+        0.0436
+      ],
+      "tail": [
+        0.73,
+        0.3602
+      ],
+      "text_key": "job.6.p2.b3"
+    },
+    {
+      "id": "JOB_06_P002_B004",
+      "panel": "JOB_06_P002_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.022,
+        0.676,
+        0.4957,
+        0.04
+      ],
+      "tail": [
+        0.2699,
+        0.7494
+      ],
+      "text_key": "job.6.p2.b4"
+    },
+    {
+      "id": "JOB_06_P002_B005",
+      "panel": "JOB_06_P002_F5",
+      "order": 5,
+      "type": "speech",
+      "style": "speech",
+      "box": [
+        0.5763,
+        0.9332,
+        0.406,
+        0.0567
+      ],
+      "tail": [
+        0.7793,
+        1
+      ],
+      "text_key": "job.6.p2.b5"
+    }
+  ]
+}

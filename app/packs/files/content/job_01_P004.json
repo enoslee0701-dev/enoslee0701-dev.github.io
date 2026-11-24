@@ -1,0 +1,82 @@
+{
+  "id": "JOB_01_P004",
+  "book": "job",
+  "chapter": 1,
+  "page": 4,
+  "ref": "1:18-19",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_01_P004",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_01_P004_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.3717
+      ]
+    },
+    {
+      "id": "JOB_01_P004_F2",
+      "box": [
+        0,
+        0.3763,
+        1,
+        0.3743
+      ]
+    },
+    {
+      "id": "JOB_01_P004_F3",
+      "box": [
+        0,
+        0.7559,
+        1,
+        0.2441
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_01_P004_B001",
+      "panel": "JOB_01_P004_F1",
+      "order": 1,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.52,
+        0.0112,
+        0.45,
+        0.0817
+      ],
+      "tail": [
+        0.745,
+        0.1301
+      ],
+      "text_key": "job.1.p4.b1"
+    },
+    {
+      "id": "JOB_01_P004_B002",
+      "panel": "JOB_01_P004_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "offpanel",
+      "box": [
+        0.03,
+        0.6757,
+        0.5,
+        0.0636
+      ],
+      "tail": [
+        0.28,
+        0.7506
+      ],
+      "text_key": "job.1.p4.b2"
+    }
+  ]
+}

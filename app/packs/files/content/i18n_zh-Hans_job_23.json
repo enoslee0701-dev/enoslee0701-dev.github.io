@@ -1,0 +1,57 @@
+{
+  "job.23.p1.b1": {
+    "text": "惟愿我能知道在哪里可以寻见　神，能到他的台前，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 23:3"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "惟愿我⁠能知⁠道在哪⁠里可⁠以寻见　神，能到他⁠的台前，"
+  },
+  "job.23.p1.b2": {
+    "text": "他在左边行事，我却不能看见，在右边隐藏，我也不能见他。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 23:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠在左⁠边行⁠事，我却⁠不⁠能看⁠见，在右⁠边隐⁠藏，我也⁠不⁠能见他。"
+  },
+  "job.23.p1.b3": {
+    "text": "然而他知道我所行的路；他试炼我之后，我必如精金。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 23:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "然⁠而他知⁠道我所行的路；他试⁠炼我之⁠后，我必如精金。"
+  },
+  "job.23.p1.b4": {
+    "text": "我脚追随他的步履；我谨守他的道，并不偏离。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 23:11"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "我脚追⁠随他⁠的步⁠履；我谨⁠守他⁠的道，并⁠不偏⁠离。"
+  },
+  "job.23.p1.b5": {
+    "text": "神使我丧胆；全能者使我惊惶。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 23:16"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神使我丧胆；全⁠能者使我惊惶。"
+  }
+}

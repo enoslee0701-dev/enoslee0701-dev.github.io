@@ -1,0 +1,124 @@
+{
+  "id": "JOB_01_P003",
+  "book": "job",
+  "chapter": 1,
+  "page": 3,
+  "ref": "1:13-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_01_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_01_P003_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.1296
+      ]
+    },
+    {
+      "id": "JOB_01_P003_F2",
+      "box": [
+        0,
+        0.1341,
+        1,
+        0.3079
+      ]
+    },
+    {
+      "id": "JOB_01_P003_F3",
+      "box": [
+        0,
+        0.446,
+        1,
+        0.3255
+      ]
+    },
+    {
+      "id": "JOB_01_P003_F4",
+      "box": [
+        0,
+        0.7754,
+        1,
+        0.2246
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_01_P003_B001",
+      "panel": "JOB_01_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.0065,
+        0.45,
+        0.0388
+      ],
+      "tail": null,
+      "text_key": "job.1.p3.b1"
+    },
+    {
+      "id": "JOB_01_P003_B002",
+      "panel": "JOB_01_P003_F2",
+      "order": 2,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.3958,
+        0.94,
+        0.04
+      ],
+      "tail": [
+        0.5,
+        0.442
+      ],
+      "text_key": "job.1.p3.b2"
+    },
+    {
+      "id": "JOB_01_P003_B003",
+      "panel": "JOB_01_P003_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.03,
+        0.7259,
+        0.94,
+        0.039
+      ],
+      "tail": [
+        0.5,
+        0.7715
+      ],
+      "text_key": "job.1.p3.b3"
+    },
+    {
+      "id": "JOB_01_P003_B004",
+      "panel": "JOB_01_P003_F4",
+      "order": 4,
+      "type": "speech",
+      "style": "shout",
+      "box": [
+        0.04,
+        0.9461,
+        0.92,
+        0.0471
+      ],
+      "tail": [
+        0.5,
+        1
+      ],
+      "text_key": "job.1.p3.b4"
+    }
+  ]
+}

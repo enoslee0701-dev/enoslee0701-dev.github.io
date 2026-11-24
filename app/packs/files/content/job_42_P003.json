@@ -1,0 +1,145 @@
+{
+  "id": "JOB_42_P003",
+  "book": "job",
+  "chapter": 42,
+  "page": 3,
+  "ref": "42:11-17",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_42_P003",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_42_P003_F1",
+      "box": [
+        0,
+        0,
+        0.4971,
+        0.3444
+      ]
+    },
+    {
+      "id": "JOB_42_P003_F2",
+      "box": [
+        0.5039,
+        0,
+        0.4961,
+        0.3444
+      ]
+    },
+    {
+      "id": "JOB_42_P003_F3",
+      "box": [
+        0,
+        0.349,
+        1,
+        0.2773
+      ]
+    },
+    {
+      "id": "JOB_42_P003_F4",
+      "box": [
+        0,
+        0.6309,
+        1,
+        0.3691
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_42_P003_B001",
+      "panel": "JOB_42_P003_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.0199,
+        0.0103,
+        0.4573,
+        0.0757
+      ],
+      "tail": null,
+      "text_key": "job.42.p3.b1"
+    },
+    {
+      "id": "JOB_42_P003_B002",
+      "panel": "JOB_42_P003_F2",
+      "order": 2,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.5237,
+        0.0103,
+        0.4564,
+        0.0757
+      ],
+      "tail": null,
+      "text_key": "job.42.p3.b2"
+    },
+    {
+      "id": "JOB_42_P003_B003",
+      "panel": "JOB_42_P003_F3",
+      "order": 3,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3573,
+        0.44,
+        0.023
+      ],
+      "tail": null,
+      "text_key": "job.42.p3.b3"
+    },
+    {
+      "id": "JOB_42_P003_B004",
+      "panel": "JOB_42_P003_F3",
+      "order": 4,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.03,
+        0.3859,
+        0.44,
+        0.0324
+      ],
+      "tail": null,
+      "text_key": "job.42.p3.b4"
+    },
+    {
+      "id": "JOB_42_P003_B005",
+      "panel": "JOB_42_P003_F4",
+      "order": 5,
+      "type": "caption",
+      "style": "caption_time",
+      "box": [
+        0.52,
+        0.6457,
+        0.45,
+        0.0446
+      ],
+      "tail": null,
+      "text_key": "job.42.p3.b5"
+    },
+    {
+      "id": "JOB_42_P003_B006",
+      "panel": "JOB_42_P003_F4",
+      "order": 6,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.52,
+        0.6977,
+        0.45,
+        0.0291
+      ],
+      "tail": null,
+      "text_key": "job.42.p3.b6"
+    }
+  ]
+}

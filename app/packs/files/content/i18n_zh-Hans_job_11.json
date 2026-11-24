@@ -1,0 +1,57 @@
+{
+  "job.11.p1.b1": {
+    "text": "这许多的言语岂不该回答吗？多嘴多舌的人岂可称为义吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 11:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "这许⁠多的言⁠语岂⁠不该回⁠答吗？多⁠嘴多⁠舌的人岂可称⁠为义吗？"
+  },
+  "job.11.p1.b2": {
+    "text": "你考察就能测透　神吗？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 11:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你考⁠察就能测透　神吗？"
+  },
+  "job.11.p1.b3": {
+    "text": "他的智慧高于天，你还能做什么？深于阴间，你还能知道什么？",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 11:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "他⁠的智⁠慧高⁠于天，你还能做什⁠么？深于阴⁠间，你还能知⁠道什⁠么？"
+  },
+  "job.11.p1.b4": {
+    "text": "空虚的人却毫无知识；人生在世好像野驴的驹子。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 11:12"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "空⁠虚的人却毫⁠无知⁠识；人⁠生在⁠世好⁠像野驴的驹子。"
+  },
+  "job.11.p1.b5": {
+    "text": "你若将心安正，又向主举手；……那时，你必仰起脸来毫无斑点",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 11:13-15"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你若将心⁠安正，又向主举手；……那⁠时，你必仰⁠起脸来毫⁠无斑⁠点"
+  }
+}

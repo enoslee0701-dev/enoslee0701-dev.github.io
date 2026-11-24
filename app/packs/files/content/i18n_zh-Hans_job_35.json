@@ -1,0 +1,57 @@
+{
+  "job.35.p1.b1": {
+    "text": "你以为有理，或以为你的公义胜于　神的公义，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 35:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你以⁠为有⁠理，或以⁠为你⁠的公⁠义胜于　神的公⁠义，"
+  },
+  "job.35.p1.b2": {
+    "text": "你要向天观看，瞻望那高于你的穹苍。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 35:5"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "你⁠要向天观⁠看，瞻⁠望那高⁠于你⁠的穹⁠苍。"
+  },
+  "job.35.p1.b3": {
+    "text": "人因多受欺压就哀求，因受能者的辖制便求救，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 35:9"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "人⁠因多受欺⁠压就哀⁠求，因受能者的辖制便求⁠救，"
+  },
+  "job.35.p1.b4": {
+    "text": "却无人说：造我的　神在哪里？他使人夜间歌唱，",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 35:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "却无⁠人说：造我⁠的　神在哪⁠里？他使人夜⁠间歌⁠唱，"
+  },
+  "job.35.p1.b5": {
+    "text": "何况你说，你不得见他；你的案件在他面前，你等候他吧。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 35:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "何⁠况你说，你不⁠得见他；你⁠的案⁠件在他面⁠前，你等⁠候他吧。"
+  }
+}

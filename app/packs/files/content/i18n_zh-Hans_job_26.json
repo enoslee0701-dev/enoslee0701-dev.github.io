@@ -1,0 +1,57 @@
+{
+  "job.26.p1.b1": {
+    "text": "无能的人蒙你何等的帮助！膀臂无力的人蒙你何等的拯救！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 26:2"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "无⁠能的人蒙你何⁠等的帮⁠助！膀⁠臂无⁠力的人蒙你何⁠等的拯⁠救！"
+  },
+  "job.26.p1.b2": {
+    "text": "将水包在密云中，云却不破裂；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 26:8"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "将水包在密⁠云中，云却不破⁠裂；"
+  },
+  "job.26.p1.b3": {
+    "text": "神将北极铺在空中，将大地悬在虚空；",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 26:7"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "神将北⁠极铺⁠在空⁠中，将大⁠地悬在虚⁠空；"
+  },
+  "job.26.p1.b4": {
+    "text": "在水面的周围划出界限，直到光明黑暗的交界。",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 26:10"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "在水⁠面的周⁠围划⁠出界⁠限，直⁠到光⁠明黑⁠暗的交⁠界。"
+  },
+  "job.26.p1.b5": {
+    "text": "看哪，这不过是　神工作的些微；我们所听于他的是何等细微的声音！",
+    "kind": "scripture",
+    "source": {
+      "version": "cmn-cu89s",
+      "ref": "Job 26:14"
+    },
+    "adapted": false,
+    "status": "approved",
+    "wrap": "看哪，这不⁠过是　神工⁠作的些⁠微；我⁠们所听于他⁠的是何⁠等细微的声⁠音！"
+  }
+}

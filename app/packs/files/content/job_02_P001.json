@@ -1,0 +1,118 @@
+{
+  "id": "JOB_02_P001",
+  "book": "job",
+  "chapter": 2,
+  "page": 1,
+  "ref": "2:1-6",
+  "layout": "FREE",
+  "status": "generated",
+  "theology_review": "pending",
+  "art": {
+    "file": "JOB_02_P001",
+    "ratio": "2:3",
+    "master_version": 1
+  },
+  "panels": [
+    {
+      "id": "JOB_02_P001_F1",
+      "box": [
+        0,
+        0,
+        1,
+        0.4603
+      ]
+    },
+    {
+      "id": "JOB_02_P001_F2",
+      "box": [
+        0,
+        0.4648,
+        0.4922,
+        0.3086
+      ]
+    },
+    {
+      "id": "JOB_02_P001_F3",
+      "box": [
+        0.5,
+        0.4648,
+        0.5,
+        0.3086
+      ]
+    },
+    {
+      "id": "JOB_02_P001_F4",
+      "box": [
+        0,
+        0.778,
+        1,
+        0.222
+      ]
+    }
+  ],
+  "bubbles": [
+    {
+      "id": "JOB_02_P001_B001",
+      "panel": "JOB_02_P001_F1",
+      "order": 1,
+      "type": "caption",
+      "style": "caption",
+      "box": [
+        0.06,
+        0.0138,
+        0.45,
+        0.092
+      ],
+      "tail": null,
+      "text_key": "job.2.p1.b1"
+    },
+    {
+      "id": "JOB_02_P001_B002",
+      "panel": "JOB_02_P001_F2",
+      "order": 2,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.0197,
+        0.4741,
+        0.4528,
+        0.0925
+      ],
+      "tail": null,
+      "text_key": "job.2.p1.b2"
+    },
+    {
+      "id": "JOB_02_P001_B003",
+      "panel": "JOB_02_P001_F3",
+      "order": 3,
+      "type": "speech",
+      "style": "demonic",
+      "box": [
+        0.52,
+        0.4741,
+        0.46,
+        0.0925
+      ],
+      "tail": [
+        0.75,
+        0.5975
+      ],
+      "text_key": "job.2.p1.b3"
+    },
+    {
+      "id": "JOB_02_P001_B004",
+      "panel": "JOB_02_P001_F4",
+      "order": 4,
+      "type": "divine",
+      "style": "divine",
+      "box": [
+        0.1,
+        0.8002,
+        0.4,
+        0.1731
+      ],
+      "tail": null,
+      "text_key": "job.2.p1.b4"
+    }
+  ]
+}
